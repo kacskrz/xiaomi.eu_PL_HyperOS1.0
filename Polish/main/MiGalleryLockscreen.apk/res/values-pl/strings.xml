@@ -482,7 +482,8 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="passport_wrong_voice">Kod jest nieprawidłowy</string>
   <string name="password_toggle_content_description">Pokazuj hasło</string>
   <string name="permission_account_tip">Dostęp do informacji o koncie</string>
-  <string name="permission_storage_tip">Dostęp do zdjęć na urządzeniu w celu użycia ich jako tapet</string>
+  <string name="permission_storage_tip">Zapisywanie pobranych elementów na urządzeniu</string>
+  <string name="permission_storage_read_tip">Dostęp do zdjęć znajdujących się na urządzeniu</string>
   <string name="phone_bind_too_many">Ten telefon został powiązany z kilkoma kontami Xiaomi w krótkim odstępie czasu. Spróbuj użyć innego numeru telefonu.</string>
   <string name="phone_hint">Numer telefonu</string>
   <string name="phone_num_use_for">Numer telefonu jest używany do:</string>
@@ -637,8 +638,10 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="status_wallpaper_loop_not_start">Wył.</string>
   <string name="status_wallpaper_loop_start">Wł.</string>
   <string name="subscribe_apply_wp">Pomyślnie zastosowano tapetę ekranu blokady</string>
+  <string name="subscribe_dlg_btn_txt">Subskrybuj</string>
   <string name="subscribe_dlg_content">Subskrybuj, aby codziennie otrzymywać nowe tapety na ekranie blokady oraz unikalne motto.</string>
   <string name="subscribe_dlg_content2">Zasubskrybuj \"%1$s\"</string>
+  <string name="subscribe_dlg_desc">Subskrybuj, aby wyświetlać pokazy slajdów</string>
   <string name="subscribe_dlg_title">Dodaj swoje ulubione obrazy do zestawu</string>
   <string name="subscribe_free">Zasubskrybuj</string>
   <string name="subscribe_item_checked">Obserwujesz</string>

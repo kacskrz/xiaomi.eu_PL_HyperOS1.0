@@ -190,6 +190,7 @@
   <string name="converting_to_picture_message">Trwa konwertowanie na wiadomość multimedialną...</string>
   <string name="converting_to_text_message">Trwa konwertowanie na wiadomość tekstową...</string>
   <string name="converting_vcard_failed">Nie udało się skonwertować kontaktu</string>
+  <string name="copy">Kopiuj</string>
   <string name="copy_message_text">Kopiuj</string>
   <string name="copy_message_text_success">Skopiowano!</string>
   <string name="copy_to_sdcard">Zapisz załącznik</string>
@@ -271,6 +272,7 @@
   <string name="exceed_message_size_limitation">Osiągnięto maksymalny rozmiar wiadomości.</string>
   <string name="exceed_message_size_limitation_add_slide">Rozmiar wiadomości jest niewystarczający na dodanie slajdu</string>
   <string name="exceed_message_text_limitation">Osiągnięto maksymalną długość wiadomości.</string>
+  <string name="expand_button_title">Zaawansowane</string>
   <string name="expire_on">Traci ważność: %s</string>
   <string name="exporting_progress_private_message">Kopiowanie wiadomości z prywatnej skrzynki</string>
   <string name="fail_to_add_attachment">"Nie można dodać załącznika"</string>
@@ -411,6 +413,14 @@
   <string name="miuix_sb_tracking_progress_labe_up_none">Brak</string>
   <string name="miuix_sb_tracking_progress_labe_up_refresh">Odświeżanie</string>
   <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Nieudane</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Brak danych</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Brak</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Odświeżanie</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nieudane</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">Wszystkie MMS-y z wyjątkiem tych otrzymanych od autoryzowanych nadawców (takich jak operatorzy komórkowi, kolej itd.) zostaną zablokowane.</string>
   <string name="mms_block_alert_ok">Zablokuj</string>
@@ -520,6 +530,7 @@ Do aktywacji tej usługi wymagane jest wysłanie wiadomości SMS, za którą ope
   <string name="non_english_subject_limit">Limit 13 znaków dla nieangielskich tematów</string>
   <string name="nosend_message">"Nie wysyłaj"</string>
   <string name="not_prepare_for_send">Brak wiadomości do wysłania</string>
+  <string name="not_set">Nie ustawiono</string>
   <string name="notification_ad_content">Otrzymano reklamę od %s</string>
   <string name="notification_add_todo">Przypomnij później</string>
   <string name="notification_add_todo_content">Kod odbioru: %s</string>
@@ -637,6 +648,7 @@ Do aktywacji tej usługi wymagane jest wysłanie wiadomości SMS, za którą ope
   <string name="pref_title_system_mms_priority">Priorytet aplikacji SMS</string>
   <string name="pref_title_vcard">Wizytówka vCard</string>
   <string name="pref_title_wake_up_screen">Podświetlenie ekranu</string>
+  <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
   <string name="preferences_title">Ustawienia</string>
   <string name="prepare_send">Wysyłanie...</string>
   <string name="preview">Podgląd</string>
@@ -985,6 +997,7 @@ Możesz wybrać którąś z polecanych aplikacji!"</string>
   <string name="system_permission_declare_no_say_no">"Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi regulacjami i politykami prywatności.
 Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bądź wysyłanie Twoich danych, nie będziesz mógł korzystać z tej aplikacji."</string>
   <string name="system_permission_declare_privacy_declare">%1s musi gromadzić Twoje dane i wymaga do poprawnego działania następujących uprawnień:</string>
+  <string name="system_permission_declare_privacy_declare_new">Aby móc normalnie działać, aplikacja wymaga dostępu do Internetu oraz następujących uprawnień:</string>
   <string name="system_permission_declare_revoke_path">Możesz odwołać swoją autoryzację i wyłączyć usługi w ustawieniach aplikacji SMS.</string>
   <string name="system_permission_declare_single_link">Przed użyciem tej funkcji przeczytaj i zaakceptuj %1s.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Przed użyciem tej funkcji przeczytaj i zaakceptuj %1s, %2s oraz %3s.</string>
@@ -1058,6 +1071,8 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
   <string name="user_agreement4">Polityka Prywatności</string>
   <string name="user_agreement5">Dotykając OK, zgadzasz się na Warunki Użytkowania oraz Politykę Prywatności.</string>
   <string name="user_term">Umowa użytkownika</string>
+  <string name="v7_preference_off">WYŁ.</string>
+  <string name="v7_preference_on">WŁ.</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Kody weryfikacyjne</string>
   <string name="view">Wyświetl</string>
