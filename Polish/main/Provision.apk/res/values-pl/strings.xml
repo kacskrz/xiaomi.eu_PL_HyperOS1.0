@@ -36,7 +36,7 @@
   <string name="congratulation_title">Wszystko gotowe</string>
   <string name="content_description_complete">Gotowe</string>
   <string name="content_description_language_picker">Wybór języka</string>
-  <string name="content_description_miui_version">MIUI 11</string>
+  <string name="content_description_miui_version">MIUI 12</string>
   <string name="content_description_start">Rozpocznij</string>
   <string name="continue_to_enable_accessibility">Przesuń w dół dwoma palcami, aby uruchomić ułatwienia dostępu.</string>
   <string name="data_traffic_enable_dialog_title">"Jeśli nie jesteś połączony z siecią Wi-Fi, Twoje urządzenie będzie korzystać z danych komórkowych. Operator może pobrać opłatę za zużycie tych danych (w zależności od Twojej taryfy)."</string>
