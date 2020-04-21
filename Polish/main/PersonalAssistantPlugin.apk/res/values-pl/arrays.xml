@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="express_status_detail">
+        <item>On the way</item>
+        <item>Dispatching</item>
+    </string-array>
+    <string-array name="express_status_all">
+        <item>On the way</item>
+        <item>Dispatching</item>
+        <item>Delivered</item>
+        <item>Unknown</item>
+        <item>Recevied</item>
+        <item>Rejected</item>
+        <item>Return</item>
+        <item>Unknown</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Noc</item>
+        <item>Wczesny ranek</item>
+        <item>Ranek</item>
+        <item>Południe</item>
+        <item>Popołudnie</item>
+        <item>Późne popołudnie</item>
+        <item>Wieczór</item>
+    </string-array>
+</resources>

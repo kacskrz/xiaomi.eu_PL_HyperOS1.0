@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Nadano %d uprawnień</item>
+        <item quantity="one">Nadano %d uprawnienie</item>
+        <item quantity="few">Nadano %d uprawnienia</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Pytanie o %d uprawnień</item>
+        <item quantity="one">Pytanie o %d uprawnienie</item>
+        <item quantity="few">Pytanie o %d uprawnienia</item>
+    </plurals>
+    <plurals name="app_settings_disabled_header_title">
+        <item quantity="other">"%s aplikacji nie może pokazywać powiadomień"</item>
+        <item quantity="one">"1 aplikacja nie może pokazywać powiadomień"</item>
+        <item quantity="few">"%s aplikacje nie mogą pokazywać powiadomień"</item>
+    </plurals>
+    <plurals name="app_settings_enabled_header_title">
+        <item quantity="other">%s aplikacji może pokazywać powiadomienia</item>
+        <item quantity="one">1 aplikacja może pokazywać powiadomienia</item>
+        <item quantity="few">%s aplikacje mogą pokazywać powiadomienia</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d uprawnień</item>
+        <item quantity="one">%d uprawnienie</item>
+        <item quantity="few">%d uprawnienia</item>
+    </plurals>
+</resources>

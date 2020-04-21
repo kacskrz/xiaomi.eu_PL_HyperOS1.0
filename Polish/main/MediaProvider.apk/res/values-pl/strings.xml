@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_alarm_text">Dodaj alarm</string>
+  <string name="add_notification_text">Dodaj powiadomienie</string>
+  <string name="add_ringtone_text">Dodaj dzwonek</string>
+  <string name="alarm_sound_default">Domyślny dźwięk alarmu</string>
+  <string name="app_label">Magazyn Mediów</string>
+  <string name="artist_label">Wykonawca</string>
+  <string name="delete_ringtone_text">Usuń</string>
+  <string name="grant_dialog_button_allow">Zezwól</string>
+  <string name="grant_dialog_button_deny">Odmów</string>
+  <string name="notification_sound_default">Domyślny dźwięk powiadomienia</string>
+  <string name="permission_audio">Zezwolić &lt;b&gt;^1&lt;/b&gt; na modyfikację bądź usunięcie tej muzyki?</string>
+  <string name="permission_images">Zezwolić &lt;b&gt;^1&lt;/b&gt; na modyfikację bądź usunięcie tej grafiki?</string>
+  <string name="permission_required">Do modyfikacji lub usunięcia tego elementu wymagane są uprawnienia.</string>
+  <string name="permission_required_action">Kontynuuj</string>
+  <string name="permission_video">Zezwolić &lt;b&gt;^1&lt;/b&gt; na modyfikację bądź usunięcie tego filmu?</string>
+  <string name="ringtone_default">Domyślny dzwonek</string>
+  <string name="root_audio">Audio</string>
+  <string name="root_images">Zdjęcia</string>
+  <string name="root_videos">Wideo</string>
+  <string name="sound_name_awaken">Awaken</string>
+  <string name="sound_name_bounce">Bounce</string>
+  <string name="sound_name_drip">Drip</string>
+  <string name="sound_name_gallop">Gallop</string>
+  <string name="sound_name_nudge">Nudge</string>
+  <string name="sound_name_orbit">Orbit</string>
+  <string name="sound_name_rise">Rise</string>
+  <string name="sound_name_sway">Sway</string>
+  <string name="sound_name_wag">Wag</string>
+  <string name="storage_description">Pamięć wewnętrzna</string>
+  <string name="uid_label">Media</string>
+  <string name="unable_to_add_ringtone">Nie można dodać własnego dzwonka</string>
+  <string name="unable_to_delete_ringtone">Nie można usunąć własnego dzwonka</string>
+  <string name="upgrade_msg">Upgrading Media database.</string>
+</resources>

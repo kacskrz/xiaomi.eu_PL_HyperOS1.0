@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefon będzie w trybie alarmowym połączenia zwrotnego przez %s min. W tym trybie nie można korzystać z aplikacji używających połączeń danych. Czy chcesz teraz wyjść?</item>
+        <item quantity="one">Telefon będzie w trybie alarmowym połączenia zwrotnego przez %s minutę. W tym trybie nie można korzystać z aplikacji używających połączeń danych. Czy chcesz teraz wyjść?</item>
+     </plurals>
+     <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Wybrana akcja nie jest dostępna w trybie alarmowym połączenia zwrotnego. Telefon będzie w tym trybie %s min. Czy chcesz teraz wyjść?</item>
+        <item quantity="one">Wybrana akcja nie jest dostępna w trybie alarmowym połączenia zwrotnego. Telefon będzie w tym trybie %s min. Czy chcesz teraz wyjść?</item>
+     </plurals>
+     <plurals name="auto_answer_summary_delay">
+        <item quantity="other">za: %d sekund</item>
+        <item quantity="one">za: %d sekundę</item>
+        <item quantity="few">za: %d sekundy</item>
+     </plurals>
+     <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">Możesz dodać do %s osób. Wybierz ponownie.</item>
+        <item quantity="one">Możesz dodać %s osobę. Wybierz ponownie.</item>
+     </plurals>
+     <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d numerów</item>
+        <item quantity="one">%d numer</item>
+     </plurals>
+     <plurals name="call_recording_notification_complete">
+        <item quantity="other">%d nagranych rozmów</item>
+        <item quantity="one">1 nagrana rozmowa</item>
+     </plurals>
+     <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Zostanie usuniętych %d numerów.</item>
+        <item quantity="one">Zostanie usunięty %d numer.</item>
+     </plurals>
+     <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Brak połączenia transmisji danych przez %s min</item>
+        <item quantity="one">Brak połączenia transmisji danych przez %s min</item>
+     </plurals>
+     <plurals name="pin_attempts">
+        <item quantity="other">"
+Pozostało prób: %d."</item>
+        <item quantity="one">"
+Pozostało prób: %d."</item>
+     </plurals>
+     <plurals name="remove_numbers_confirm">
+        <item quantity="other">Zostanie usuniętych %d numerów.</item>
+        <item quantity="one">Zostanie usunięty %d numer.</item>
+     </plurals>
+     <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">Połączono %1$d urządzenie</item>
+        <item quantity="few">Połączono %1$d urządzenia</item>
+        <item quantity="other">Połączono %1$d urządzeń</item>
+     </plurals>
+    <plurals name="day">
+        <item quantity="other">%s dni</item>
+        <item quantity="one">%s dzień</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s godz.</item>
+        <item quantity="one">%s godz.</item>
+    </plurals>
+</resources>

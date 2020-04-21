@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d min temu</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d godz. temu</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dni temu</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d min temu</item>
+        <item quantity="one">%d min temu</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d godz. temu</item>
+        <item quantity="one">%d godz. temu</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d | kroków</item>
+        <item quantity="zero">%d | kroków</item>
+        <item quantity="one">%d | krok</item>
+    </plurals>
+    <plurals name="assistant_day">
+        <item quantity="other">Za %d dni</item>
+        <item quantity="one">Za %d dzień</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">Za %d min</item>
+        <item quantity="one">Za %d min</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">Za %d godz.</item>
+        <item quantity="one">Za %d godz.</item>
+    </plurals>
+</resources>

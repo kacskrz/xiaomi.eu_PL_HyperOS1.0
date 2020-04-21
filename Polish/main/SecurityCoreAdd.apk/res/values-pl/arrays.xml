@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_apps_entries">
+        <item>W głównym profilu</item>
+        <item>W aktualnym profilu</item>
+        <item>Na obu profilach</item>
+    </string-array>
+    <string-array name="switch_apps_title_confirms">
+        <item>Dane aplikacji zostaną utracone</item>
+        <item>Dane aplikacji zostaną utracone</item>
+        <item>Powiadomienie</item>
+    </string-array>
+    <string-array name="switch_apps_msg_confirms">
+        <item>Dane aplikacji zostaną usunięte po przeniesieniu do głównego profilu</item>
+        <item>Dane aplikacji zostaną usunięte po przeniesieniu do aktualnego profilu</item>
+        <item>Korzystanie z aplikacji w obu profilach</item>
+    </string-array>
+    <string-array name="choose_ask_type">
+            <item>Zawsze pytaj</item>
+            <item>Domyślna</item>
+            <item>Sklonowana</item>
+     </string-array>
+</resources>

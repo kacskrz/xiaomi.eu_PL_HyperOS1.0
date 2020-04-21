@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_list_preference">
+        <item>Wydanie</item>
+        <item>Weryfikacja</item>
+        <item>Aplikacja</item>
+    </string-array>
+    <string-array name="freerun_byteUnits">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+        <item>TB</item>
+    </string-array>
+    <string-array name="freerun_counterTypes">
+        <item>Miesięcznie</item>
+    </string-array>
+</resources>

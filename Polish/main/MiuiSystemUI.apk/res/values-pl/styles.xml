@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.StatusBar.Clock" parent="@style/TextAppearance.StatusBar">
+        <item name="android:textSize">@dimen/status_bar_clock_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/status_bar_textColor</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Carrier" parent="@style/TextAppearance.StatusBar">
+        <item name="android:textSize">@dimen/statusbar_carrier_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/status_bar_textColor</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Battery" parent="@style/TextAppearance.StatusBar">
+        <item name="android:textSize">@dimen/statusbar_battery_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/status_bar_textColor</item>
+    </style>
+</resources>

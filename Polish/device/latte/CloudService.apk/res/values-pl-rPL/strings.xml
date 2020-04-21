@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="micloud_storage_usage" formatted="false">Użyte: %s/ Razem: %s</string>
+  <string name="micloud_title_dspt" formatted="false">Użyte %s/Razem: %s,</string>
+  <string name="micloud_title_dspt_remain">" Pozostało %s"</string>
+</resources>

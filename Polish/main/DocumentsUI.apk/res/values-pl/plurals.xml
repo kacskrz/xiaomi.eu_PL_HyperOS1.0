@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Kopiowanie %1$d pliku.</item>
+        <item quantity="one">Kopiowanie %1$d pliku.</item>
+        <item quantity="few">Kopiowanie %1$d plików.</item>
+        <item quantity="many">Kopiowanie %1$d plików.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Przenoszę %1$d pliku.</item>
+        <item quantity="one">Przenoszę %1$d plik.</item>
+        <item quantity="few">Przenoszę %1$d pliki.</item>
+        <item quantity="many">Przenoszę %1$d plików.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Usuwam %1$d pliku.</item>
+        <item quantity="one">Usuwam %1$d plik.</item>
+        <item quantity="few">Usuwam %1$d pliki.</item>
+        <item quantity="many">Usuwam %1$d plików.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Nie udało się skopiować %1$d pliku</item>
+        <item quantity="one">Nie udało się skopiować %1$d pliku</item>
+        <item quantity="few">Nie udało się skopiować %1$d plików</item>
+        <item quantity="many">Nie udało się skopiować %1$d plików</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">Nie udało się przenieść %1$d pliku</item>
+        <item quantity="one">Nie udało się przenieść %1$d pliku</item>
+        <item quantity="few">Nie udało się przenieść %1$d plików</item>
+        <item quantity="many">Nie udało się przenieść %1$d plików</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">Nie udało się usunąć %1$d pliku</item>
+        <item quantity="one">Nie udało się usunąć %1$d pliku</item>
+        <item quantity="few">Nie udało się usunąć %1$d plików</item>
+        <item quantity="many">Nie udało się usunąć %1$d plików</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">Skopiowano %1$d pliku do schowka.</item>
+        <item quantity="one">Skopiowano %1$d plik do schowka.</item>
+        <item quantity="few">Skopiowano %1$d pliki do schowka.</item>
+        <item quantity="many">Skopiowano %1$d plików do schowka.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">Wybrano %1$d</item>
+        <item quantity="one">Wybrano %1$d</item>
+        <item quantity="few">Wybrano %1$d</item>
+        <item quantity="many">Wybrano %1$d</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d elementu</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="few">%1$d elementy</item>
+        <item quantity="many">%1$d elementów</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Usunąć %1$d pliku?</item>
+        <item quantity="one">Usunąć %1$d plik?</item>
+        <item quantity="few">Usunąć %1$d pliki?</item>
+        <item quantity="many">Usunąć %1$d plików?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Usunąć %1$d katalogów wraz z zawartością?</item>
+        <item quantity="one">Usunąć %1$d katalog wraz z zawartością?</item>
+        <item quantity="few">Usunąć %1$d katalogi wraz z zawartością?</item>
+        <item quantity="many">Usunąć %1$d katalogów wraz z zawartością?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Usunąć %1$d elementu?</item>
+        <item quantity="one">Usunąć %1$d element?</item>
+        <item quantity="few">Usunąć %1$d elementy?</item>
+        <item quantity="many">Usunąć %1$d elementów?</item>
+    </plurals>
+</resources>

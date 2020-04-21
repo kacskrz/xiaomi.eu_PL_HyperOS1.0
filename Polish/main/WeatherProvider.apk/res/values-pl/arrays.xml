@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Bezchmurnie</item>
+        <item>Pochmurnie</item>
+        <item>Pochmurnie</item>
+        <item>Mglisto</item>
+        <item>Ulewne deszcze</item>
+        <item>Ulewa</item>
+        <item>Ulewa</item>
+        <item>Burze</item>
+        <item>Deszczowo</item>
+        <item>Duże opady</item>
+        <item>Deszczowo</item>
+        <item>Przelotne opady</item>
+        <item>Deszcz ze śniegiem</item>
+        <item>Burza śnieżna</item>
+        <item>Śnieg</item>
+        <item>Zamieć śnieżna</item>
+        <item>Zawieja śnieżna</item>
+        <item>Przelotny śnieg</item>
+        <item>Burza piaskowa</item>
+        <item>Burza piaskowa</item>
+        <item>Pyliście</item>
+        <item>Wietrznie</item>
+        <item>Grad</item>
+        <item>Zadyma</item>
+        <item>Mgiełka</item>
+        <item>Mżawka</item>
+        <item>Brak danych</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Słaby</item>
+        <item>Słaby</item>
+        <item>Średni</item>
+        <item>Silny</item>
+        <item>Silny</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Wiatr PN</item>
+        <item>Wiatr PNW</item>
+        <item>Wiatr W</item>
+        <item>Wiatr PDW</item>
+        <item>Wiatr PD</item>
+        <item>Wiatr PDZ</item>
+        <item>Wiatr Z</item>
+        <item>Wiatr PNZ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">%d aplikacji bez śledzenia użycia danych</item>
+        <item quantity="one">%d aplikacja bez śledzenia użycia danych</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Śledzenie użycia danych dla %d aplikacji</item>
+        <item quantity="one">Śledzenie użycia danych dla %d aplikacji</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d zoptymalizowanych aplikacji</item>
+        <item quantity="one">%d zoptymalizowana aplikacja</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d aplikacji może być zoptymalizowanych</item>
+        <item quantity="one">%d aplikacja może być zoptymalizowana</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d aplikacji korzysta z Oszczędzania</item>
+        <item quantity="one">%d aplikacja korzysta z Oszczędzania</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d aplikacji nie korzysta z Oszczędzania</item>
+        <item quantity="one">%d aplikacja nie korzysta z Oszczędzania</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Użyto %d dni temu</item>
+        <item quantity="one">Użyto wczoraj</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Znaleziono %d aplikacji</item>
+        <item quantity="one">Znaleziono %d aplikację</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d aplikacji może korzystać z danych w roamingu</item>
+        <item quantity="one">%d aplikacja może korzystać z danych w roamingu</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"%d aplikacji nie może korzystać z danych podczas roamingu"</item>
+        <item quantity="one">"%d aplikacja nie może korzystać z danych podczas roamingu"</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Znaleziono: %d aplikacji</item>
+        <item quantity="one">Znaleziono: %d aplikację</item>
+    </plurals>
+</resources>

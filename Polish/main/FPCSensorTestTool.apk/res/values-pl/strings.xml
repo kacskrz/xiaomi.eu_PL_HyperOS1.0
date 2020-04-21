@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Test FPC</string>
+  <string name="capacitance_test">Test pojemnościowy</string>
+  <string name="checkerboard_test">Test czytnika</string>
+  <string name="correct">OK</string>
+  <string name="error">Błąd</string>
+  <string name="image_quality_test">IMAGEQUALITY TEST</string>
+  <string name="selftest">Samoczynny test</string>
+</resources>

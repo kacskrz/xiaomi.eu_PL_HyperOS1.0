@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Aktywne"</item>
+        <item>" | Aktywne (media)"</item>
+        <item>" | Aktywne (telefon)"</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Trwa skanowanie...</item>
+        <item>Trwa łączenie...</item>
+        <item>Trwa uwierzytelnianie...</item>
+        <item>Uzyskiwanie adresu IP...</item>
+        <item>Połączono</item>
+        <item>Zawieszona</item>
+        <item>Trwa rozłączanie...</item>
+        <item>Rozłączona</item>
+        <item>Niepowodzenie</item>
+        <item>Zablokowana</item>
+        <item>Tymczasowo, by uniknąć połączenia o niskiej jakości</item>
+    </string-array>
+    <string-array name="miui_volume_timer_segments_title">
+        <item>Wył</item>
+        <item>30 min</item>
+        <item>1 godz.</item>
+        <item>2 godz.</item>
+        <item>8 godz.</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Trwa skanowanie...</item>
+        <item>Trwa łączenie z siecią %1$s...</item>
+        <item>Trwa uwierzytelnianie w sieci %1$s...</item>
+        <item>Uzyskiwanie adresu IP z sieci %1$s...</item>
+        <item>Połączono z siecią %1$s</item>
+        <item>Zawieszona</item>
+        <item>Trwa rozłączanie z siecią %1$s...</item>
+        <item>Rozłączona</item>
+        <item>Niepowodzenie</item>
+        <item>Zablokowana</item>
+        <item>Tymczasowo, by uniknąć połączenia o niskiej jakości</item>
+    </string-array>
+<string-array name="weather_type">
+        <item>Pogodnie</item>
+        <item>Pochmurnie</item>
+        <item>Zachmurzenie</item>
+        <item>Mglisto</item>
+        <item>Ulewne deszcze</item>
+        <item>Ulewa</item>
+        <item>Ulewa</item>
+        <item>Burze</item>
+        <item>Deszcz</item>
+        <item>Duże opady</item>
+        <item>Deszczowo</item>
+        <item>Przelotne opady</item>
+        <item>Deszcz ze śniegiem</item>
+        <item>Burza śnieżna</item>
+        <item>Śnieg</item>
+        <item>Zamieć śnieżna</item>
+        <item>Zawieja śnieżna</item>
+        <item>Przelotny śnieg</item>
+        <item>Burza piaskowa</item>
+        <item>Burza piaskowa</item>
+        <item>Pyliście</item>
+        <item>Wietrznie</item>
+        <item>Grad</item>
+        <item>Zadyma</item>
+        <item>Mgiełka</item>
+        <item>Mżawka</item>
+        <item></item>
+    </string-array>
+</resources>

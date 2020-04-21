@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessing_notification_title">Dostęp do plików z %1$s</string>
+  <string name="app_label">Host MTP</string>
+  <string name="downloads_app_label">Pobrane</string>
+  <string name="error_busy_device">"Urządzenie jest zajęte. Nie można przesłać plików."</string>
+  <string name="error_locked_device">No files found. The other device may be locked. If so, unlock it and try again.</string>
+  <string name="root_name">%1$s %2$s</string>
+</resources>

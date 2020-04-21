@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Wibracje podczas połączenia</item>
+        <item>Wibracje po otrzymaniu SMS</item>
+        <item>Wibracje podczas alarmu</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Zrób zdjęcie</item>
+        <item>Wykryj telefon</item>
+        <item>Wykryj MiKey</item>
+    </string-array>
+</resources>

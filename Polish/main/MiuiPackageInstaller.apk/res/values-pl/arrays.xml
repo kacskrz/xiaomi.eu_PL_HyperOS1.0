@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="wifi_status">
+    <item />
+    <item>Skanowanie…</item>
+    <item>Łączenie…</item>
+    <item>Identyfikowanie…</item>
+    <item>Uzyskiwanie adresu IP…</item>
+    <item>Połączony</item>
+    <item>Zawieszony</item>
+    <item>Rozłączanie…</item>
+    <item>Rozłączony</item>
+    <item>Nie udało się</item>
+    <item>Zablokowany</item>
+    <item>Tymczasowo unikaj słabego połączenia</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item />
+    <item>"Skanowanie… "</item>
+    <item>Łączenie z %1$s…</item>
+    <item>Identyfikowanie sieci %1$s…</item>
+    <item>Pobieranie adresu IP z %1$s…</item>
+    <item>Połączono z %1$s</item>
+    <item>Zawieszony</item>
+    <item>Rozłączanie z %1$s…</item>
+    <item>Rozłączono</item>
+    <item>Nie udało się</item>
+    <item>Zablokowany</item>
+    <item>Tymczasowo unikaj słabego połączenia</item>
+  </string-array>
+</resources>

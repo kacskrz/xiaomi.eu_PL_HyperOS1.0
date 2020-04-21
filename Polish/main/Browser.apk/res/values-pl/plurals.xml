@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d wyników</item>
+        <item quantity="one">%d wynik</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Ostatnie (%d) dni</item>
+        <item quantity="one">Ostatni %d dzień</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d z %2$d</item>
+        <item quantity="one">1 wynik</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+         <item quantity="other">Odtwarzanie za %1$d sekund</item>
+         <item quantity="one">Odtwarzanie za %1$d sekundę</item>
+     </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">Wybrane: %1$d</item>
+        <item quantity="one">Wybrany: %1$d</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Usunąć %1$d filmów?</item>
+        <item quantity="one">Usunąć %1$d film?</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">Usunięto %1$d filmów.</item>
+        <item quantity="one">Usunięto %1$d filmów.</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">Pozostało %d min</item>
+        <item quantity="one">Pozostało 1 min</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">Usunąć %1$d filmów z historii?</item>
+        <item quantity="one">Usunąć %1$d film z historii?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">Usunięto %1$d filmów z historii.</item>
+        <item quantity="one">Usunięto %1$d film z historii.</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">Blokowanych: %d</item>
+        <item quantity="one">Blokowanych: %d</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">Przeglądarka otworzy nową stronę po %d sekundach</item>
+        <item quantity="one">Przeglądarka otworzy nową stronę po %d sekundzie</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">Ostatnie %d dni</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d z %2$d</item>
+        <item quantity="one">1 dopasowanie</item>
+    </plurals>
+    <plurals name="hot_word_hot_count">
+        <item quantity="other">%d wyświetleń</item>
+        <item quantity="one">%d wyświetlenie</item>
+        <item quantity="few">%d wyświetlenia</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item quantity="other">Znaleziono %d nowych elementów dla Ciebie</item>
+        <item quantity="one">Znaleziono %d nowy element dla Ciebie</item>
+        <item quantity="few">Znaleziono %d nowe elementy dla Ciebie</item>
+    </plurals>
+    <plurals name="vo_comment">
+        <item quantity="other">%s komentarzy</item>
+        <item quantity="one">%s komentarz</item>
+        <item quantity="few">%s komentarze</item>
+    </plurals>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d obrazów</item>
+        <item quantity="one">%d obraz</item>
+        <item quantity="few">%d obrazy</item>
+    </plurals>
+    <plurals name="vo_short_video_play_count">
+        <item quantity="other">%d wyświetleń</item>
+        <item quantity="one">%d wyświetlenie</item>
+        <item quantity="few">%d wyświetlenia</item>
+    </plurals>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s | %2$s komentarzy</item>
+        <item quantity="one">%1$s | %2$s komentarz</item>
+        <item quantity="few">%1$s | %2$s komentarze</item>
+    </plurals>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d osób już zagłosowało</item>
+        <item quantity="one">%d osoba już zagłosowała</item>
+        <item quantity="few">%d osoby już zagłosowały</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· %s godz. temu</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· %s min temu</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">%d odpowiedzi na Zhihu</item>
+        <item quantity="one">%d odpowiedź na Zhihu</item>
+    </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"Nie udało się załadować filmu.
+Odtwarzanie następnego za %d s…"</item>
+        <item quantity="one">"Nie udało się załadować filmu.
+Odtwarzanie następnego za %d s…"</item>
+    </plurals>
+    <plurals name="comment_detail_title">
+        <item quantity="other">%d odpowiedzi</item>
+        <item quantity="one">%d odpowiedź</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">%d godz. temu</item>
+        <item quantity="one">%d godz. temu</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">Zobacz %d komentarzy</item>
+        <item quantity="few">Zobacz %d komentarze</item>
+        <item quantity="one">Zobacz %d komentarz</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">%d min temu</item>
+        <item quantity="one">%d min temu</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">Wybrano %d powodów</item>
+        <item quantity="one">Wybrano %d powód</item>
+        <item quantity="few">Wybrano %d powody</item>
+    </plurals>
+</resources>

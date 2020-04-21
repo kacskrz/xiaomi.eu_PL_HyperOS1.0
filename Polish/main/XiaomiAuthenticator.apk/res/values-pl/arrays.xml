@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>Wg czasu</item>
+        <item>Wg liczby użyć</item>
+    </string-array>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>Zmień nazwę</item>
+        <item>Usuń</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Zrób zdjęcie</item>
+        <item>Dodaj zdjęcie z Galerii</item>
+    </string-array>
+    <string-array name="note_sort_way">
+       <item>Wg. daty utworzenia</item>
+       <item>Wg. daty modyfikacji</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Imię</item>
+        <item>Pseudonim</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Firma</item>
+        <item>Komunikator</item>
+        <item>Telefon SIP</item>
+        <item>Urodziny</item>
+        <item>Strona WWW</item>
+        <item>Adres</item>
+        <item>Notatka</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Mała</item>
+        <item>Średnia</item>
+        <item>Duża</item>
+        <item>Największa</item>
+    </string-array>
+    <string-array name="first_guide_contents">
+        <item>Witaj w Notatkach</item>
+        <item>Utwórz notatki</item>
+        <item>Wybierz szablon, zmień tło oraz styl swoich notatek.</item>
+        <item>Utwórz katalog, ustawiaj przypomnienia i checklisty.</item>
+        <item>Udostępniaj notatki.</item>
+        <item>Możesz też tworzyć przewijane zrzuty ekranu i dzielić się nimi ze znajomymi.</item>
+        <item>Porządkuj notatki w katalogach</item>
+        <item>Naciśnij strzałkę, aby utworzyć katalog.</item>
+    </string-array>
+    <string-array name="second_guide_contents">
+        <item>Notatki głosowe</item>
+        <item>Utwórz notatki głosowe, korzystając z wbudowanego silnika do rozpoznawania głosu.</item>
+     </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Notatki głosowe</item>
+        <item>Od teraz możesz tworzyć notatki głosowe. Po prostu dotknij ikony, nagraj to, co chcesz powiedzieć, i zapisz plik audio w swojej notatce.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d plików systemowych</item>
+        <item quantity="one">%d plik systemowy</item>
+    </plurals>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d danych aplikacji</item>
+        <item quantity="one">%d danych aplikacji</item>
+    </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">%d elementów</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d elementów, </item>
+        <item quantity="one">%d element, </item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%d elementów</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">"Nie można przenieść %d elementów. Pokaż szczegóły."</item>
+        <item quantity="one">"Nie można przenieść %d elementu. Pokaż szczegóły."</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">"Nie można przenieść %d elementów."</item>
+        <item quantity="one">"Nie można przenieść %d elementu."</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d elementów</item>
+        <item quantity="one">%1$s | %2$d element</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">elementów</item>
+        <item quantity="one">element</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">Przywrócono %d elementów</item>
+        <item quantity="one">Przywrócono %d element</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">Wczytano i przywrócono %d elementów</item>
+        <item quantity="one">Wczytano i przywrócono %d element</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"Wczytano %d elementów. "</item>
+        <item quantity="one">"Wczytano %d element. "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">Wczytaj ponownie %d elementów.</item>
+        <item quantity="one">Wczytaj ponownie %d element.</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s kopii (%2$s)</item>
+        <item quantity="one">%1$s kopia (%2$s)</item>
+        <item quantity="few">%1$s kopie (%2$s)</item>
+    </plurals>
+</resources>

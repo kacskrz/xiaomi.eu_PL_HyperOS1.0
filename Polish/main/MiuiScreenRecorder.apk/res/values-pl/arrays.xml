@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screenrecorder_settings_resolution">
+        <item>FHD 1080p</item>
+        <item>HD 720p</item>
+        <item>SD 480p</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_bit_rate">
+        <item>200 Mbps</item>
+        <item>100 Mbps</item>
+        <item>50 Mbps</item>
+        <item>32 Mbps</item>
+        <item>24 Mbps</item>
+        <item>16 Mbps</item>
+        <item>8 Mbps</item>
+        <item>4 Mbps</item>
+        <item>1 Mbps</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_frames">
+        <item>24 fps</item>
+        <item>30 fps</item>
+        <item>48 fps</item>
+        <item>60 fps</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_orientation">
+        <item>Automatyczna</item>
+        <item>Pionowa</item>
+        <item>Pozioma</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound">
+        <item>Bez dźwięku</item>
+        <item>Z mikrofonu</item>
+        <item>Dźwięk z systemu</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_storage_location">
+        <item>Pamięć wewnętrzna</item>
+        <item>Karta SD</item>
+    </string-array>
+</resources>

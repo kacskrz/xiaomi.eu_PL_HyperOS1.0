@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="a"/>
+  <string name="action_settings">Opcje</string>
+  <string name="app_name">Autom. wybieranie</string>
+  <string name="delete">Usuń</string>
+  <string name="end_call">End Call Duration</string>
+  <string name="loops">Zapętlanie</string>
+  <string name="msg_permission_steps">"You've disabled permissions, please allow permission from "&lt;b&gt;Settings&lt;/b&gt; -&amp;gt; &lt;b&gt;Apps&lt;/b&gt; -&amp;gt; &lt;i&gt;Menu&lt;/i&gt; -&amp;gt; &lt;i&gt;Show system&lt;/i&gt; -&amp;gt; &lt;b&gt;Auto Dialer&lt;/b&gt; -&amp;gt; &lt;b&gt;Permissions&lt;/b&gt; to enable all permissions</string>
+  <string name="phone">Telefon</string>
+  <string name="phone_call">Phone Call Duration</string>
+  <string name="phone_edit">Edytuj</string>
+  <string name="settings">Opcje</string>
+</resources>

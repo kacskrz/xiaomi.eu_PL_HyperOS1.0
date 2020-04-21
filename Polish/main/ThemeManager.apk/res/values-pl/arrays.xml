@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="wallpaper_settings_precust_cover_name">
+       <item>Rozrywka</item>
+       <item>Widoki</item>
+       <item>Nocne niebo</item>
+       <item>Rośliny</item>
+       <item>Zwierzęta</item>
+   </string-array>
+</resources>

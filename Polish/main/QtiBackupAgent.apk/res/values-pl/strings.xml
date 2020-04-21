@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_settings">Opcje</string>
+  <string name="app_name">Kopia zapasowa</string>
+  <string name="backup_contacts">Skopiuj kontakty</string>
+  <string name="backup_sms_mms">Skopiuj SMS/MMS</string>
+</resources>

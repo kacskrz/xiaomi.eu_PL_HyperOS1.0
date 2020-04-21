@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%s dni</item>
+        <item quantity="one">1 dzień</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s godzin</item>
+        <item quantity="one">1 godzina</item>
+        <item quantity="few">%s godziny</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minut</item>
+        <item quantity="one">1 minuta</item>
+        <item quantity="few">%s minuty</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekund</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%s sekundy</item>
+    </plurals>
+</resources>

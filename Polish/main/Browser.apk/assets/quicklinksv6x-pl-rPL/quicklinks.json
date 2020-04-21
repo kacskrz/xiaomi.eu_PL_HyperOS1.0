@@ -1,0 +1,115 @@
+{
+    "versionCode": "1",
+    "quicklinks": {
+        "data": [
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "MIUIPolska",
+                    "url": "http://miuipolska.pl/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Xiaomi.eu",
+                    "url": "http://xiaomi.eu/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Forum MIUIPolska",
+                    "url": "http://miuipolska.pl/forum/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Facebook",
+                    "url": "http://www.facebook.pl/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Youtube",
+                    "url": "http://www.youtube.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Google",
+                    "url": "http://google.pl/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Antyweb",
+                    "url": "http://antyweb.pl/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Wikipedia",
+                    "url": "http://pl.wikipedia.org/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Allegro",
+                    "url": "http://www.allegro.pl/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Wykop",
+                    "url": "http://wykop.pl/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "iBuyGou",
+                    "url": "http://ibuygou.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Hatak.pl",
+                    "url": "http://hatak.pl/"
+                }
+            }
+        ]
+    }
+}

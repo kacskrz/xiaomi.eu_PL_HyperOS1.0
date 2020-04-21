@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">Anulowano transfer od %1$s</item>
+        <item quantity="one">Anulowano transfer od %1$s</item>
+        <item quantity="few">Anulowano transfer od %1$s</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Otrzymywanie %1$s plików…</item>
+        <item quantity="one">Otrzymywanie %1$s pliku…</item>
+        <item quantity="few">Otrzymywanie %1$s plików…</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">Pomyślnie otrzymano plik od %1$s</item>
+        <item quantity="one">Pomyślnie otrzymano plik od %1$s</item>
+        <item quantity="few">Pomyślnie otrzymano plik od %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d plików od %1$s</item>
+        <item quantity="one">%2$d plik od %1$s</item>
+        <item quantity="few">%2$d pliki od %1$s</item>
+    </plurals>
+    <plurals name="sender_file_num">
+        <item quantity="other">%1$d elementów</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="few">%1$d elementy</item>
+    </plurals>
+</resources>

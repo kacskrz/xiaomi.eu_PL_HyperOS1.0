@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic">
+        <item>"Wczoraj "</item>
+        <item>"Dzisiaj "</item>
+        <item>"W tym miesiącu "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Wczoraj: "</item>
+        <item>"Dzisiaj: "</item>
+        <item>"Ten miesiąc: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Wczoraj (3G)</item>
+        <item>Dzisiaj (3G)</item>
+        <item>W tym miesiącu (3G)</item>
+        <item>Wczoraj (Wi-Fi)</item>
+        <item>Dzisiaj (Wi-Fi)</item>
+        <item>W tym miesiącu (Wi-Fi)</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Wczoraj (3G)</item>
+        <item>Dzisiaj (3G)</item>
+        <item>W tym miesiącu (3G)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
+        <item>7 sekund</item>
+        <item>8 sekund</item>
+        <item>9 sekund</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Dane 3G "</item>
+        <item>"Dane Wi-Fi "</item>
+        <item>"Oszczędności transferu "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Użycie 3G "</item>
+        <item>"Użycie Wi-Fi "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Użyciu danych 3G "</item>
+        <item>"Użyciu danych Wi-Fi "</item>
+        <item>"Użyciu danych razem "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Uzyskaj szablon wiadomości automatycznie</item>
+        <item>Ustaw ręcznie szablon wiadomości</item>
+    </string-array>
+     <string-array name="over_limit_traffic_waring_style">
+        <item>Pokaż ostrzeżenie</item>
+        <item>Wyłącz przesył danych</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Ostatnio używane</item>
+        <item>Nazwa</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Bez kompresji</item>
+        <item>Niska</item>
+        <item>Średnia</item>
+        <item>Wysoka</item>
+    </string-array>
+</resources>

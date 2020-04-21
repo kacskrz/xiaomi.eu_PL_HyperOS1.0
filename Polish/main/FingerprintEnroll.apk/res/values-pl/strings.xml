@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Zapisane odciski palców</string>
+  <string name="checkerboard_test">Test czytnika</string>
+  <string name="error">Błąd</string>
+  <string name="fingerprint_authen">Sprawdź</string>
+  <string name="fingerprint_enroll">Zapisz</string>
+  <string name="fingerprint_no">no fingerprint</string>
+  <string name="fingerprint_remove">Usuń odciska palca</string>
+  <string name="fingerprint_tips">Wybierz Zapisz lub Sprawdź i przyłóż palec do czytnika</string>
+  <string name="image_quality_test">IMAGE QUALITY TEST</string>
+  <string name="ok">Ok</string>
+  <string name="selftest">Test samoczynny</string>
+</resources>

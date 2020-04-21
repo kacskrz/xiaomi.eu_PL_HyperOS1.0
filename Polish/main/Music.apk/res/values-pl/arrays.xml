@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recommendation_desc_week">
+        <item>Niedzielne rekomendacje</item>
+        <item>Poniedziałkowe rekomendacje</item>
+        <item>Wtorkowe rekomendacje</item>
+        <item>Środowe rekomendacje</item>
+        <item>Czwartkowe rekomendacje</item>
+        <item>Piątkowe rekomendacje</item>
+        <item>Sobotnie rekomendacje</item>
+    </string-array>
+</resources>

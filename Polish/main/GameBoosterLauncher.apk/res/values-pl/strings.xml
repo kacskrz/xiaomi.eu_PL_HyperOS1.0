@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="abc_action_bar_home_description">Na pulpit</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Do góry</string>
+  <string name="abc_action_menu_overflow_description">Więcej opcji</string>
+  <string name="abc_action_mode_done">Gotowe</string>
+  <string name="abc_activity_chooser_view_see_all">Wszystko</string>
+  <string name="abc_activitychooserview_choose_application">Wybierz</string>
+  <string name="abc_capital_off">Wył.</string>
+  <string name="abc_capital_on">Wł.</string>
+  <string name="abc_search_hint">Szukaj…</string>
+  <string name="abc_searchview_description_clear">Clear query</string>
+  <string name="abc_searchview_description_query">Search query</string>
+  <string name="abc_searchview_description_search">Search</string>
+  <string name="abc_searchview_description_submit">Submit query</string>
+  <string name="abc_searchview_description_voice">Voice search</string>
+  <string name="abc_shareactionprovider_share_with">Udostępnij</string>
+  <string name="abc_shareactionprovider_share_with_application">Udostępnij do %s</string>
+  <string name="abc_toolbar_collapse_description">Zwiń</string>
+  <string name="app_name">Tryb Gry</string>
+  <string name="search_menu_title">Szukaj</string>
+</resources>

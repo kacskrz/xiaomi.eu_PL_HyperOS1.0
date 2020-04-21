@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="feed_article_entrance_title">
+        <item quantity="other">Zobacz %s artykułów polecanych dla Ciebie</item>
+        <item quantity="one">Zobacz %s artykuł polecany dla Ciebie</item>
+        <item quantity="few">Zobacz %s artykuły polecane dla Ciebie</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_subscribe">
+        <item quantity="other">%1$s +</item>
+        <item quantity="one">%1$s +</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_system_subscribe">
+        <item quantity="other">%1$s tapet</item>
+        <item quantity="one">%1$s tapeta</item>
+    </plurals>
+    <plurals name="time_day_ago">
+        <item quantity="other">%d dni temu</item>
+        <item quantity="one">%d dzień temu</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d godzin temu</item>
+        <item quantity="one">godzinę temu</item>
+        <item quantity="few">%d godziny temu</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d minut temu</item>
+        <item quantity="one">minutę temu</item>
+        <item quantity="few">%d minuty temu</item>
+    </plurals>
+    <plurals name="llks_tools_remote_control_data">
+        <item quantity="other">%s elementów</item>
+        <item quantity="one">%s element</item>
+        <item quantity="few">%s elementy</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%s urządzeń</item>
+        <item quantity="one">%s urządzenie</item>
+        <item quantity="few">%s urządzenia</item>
+    </plurals>
+    <plurals name="wm_cw_count">
+        <item quantity="other">%d obrazków</item>
+        <item quantity="one">%d obrazek</item>
+        <item quantity="few">%d obrazki</item>
+    </plurals>
+    <plurals name="article_num">
+        <item quantity="other">%d artykułów</item>
+        <item quantity="one">%d artykuł</item>
+        <item quantity="few">%d artykuły</item>
+    </plurals>
+</resources>

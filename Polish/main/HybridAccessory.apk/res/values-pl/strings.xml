@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Akcesorium Hybrydowe</string>
+  <string name="short_cut_dialog_cancel_button_text">Nie</string>
+  <string name="short_cut_dialog_cotent">Następujące aplikacje mogą być używane bez instalacji. Zapisać skróty?</string>
+  <string name="short_cut_dialog_create_button_text">Tak</string>
+  <string name="short_cut_dialog_not_tip_check_box">"Nie przypominaj przez 2 tyg."</string>
+  <string name="short_cut_dialog_title">Utwórz skrót</string>
+</resources>

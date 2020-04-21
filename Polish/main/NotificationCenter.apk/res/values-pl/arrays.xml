@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Wg czasu otrzymania</item>
+        <item>Wg ilości powiadomień</item>
+        <item>Wg aplikacji, które mogą pokazywać powiadomienia</item>
+        <item>Wg aplikacji, które nie mogą pokazywać powiadomień</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Pokaż treść powiadomienia</item>
+        <item>Wyłącz wszelkie powiadomienia</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Pokaż treść powiadomienia</item>
+        <item>Pokazuj powiadomienia, ale ukrywaj treść</item>
+        <item>Wyłącz wszelkie powiadomienia</item>
+    </string-array>
+</resources>

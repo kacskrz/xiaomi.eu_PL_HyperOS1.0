@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="usb_configuration_titles">
+        <item>Ładowanie</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Źródło dźwięku</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Żywe (domyślnie)</item>
+        <item>Naturalne</item>
+        <item>Standardowe</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Bogatsze kolory</item>
+        <item>Naturalne kolory widziane przez ludzkie oko</item>
+        <item>Kolory dostosowane do wyświetlania treści cyfrowych</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Nie określono</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>przybliżona lokalizacja</item>
+        <item>dokładna lokalizacja</item>
+        <item>GPS</item>
+        <item>wibracje</item>
+        <item>odczytywanie kontaktów</item>
+        <item>modyfikowanie kontaktów</item>
+        <item>odczytywanie rejestru połączeń</item>
+        <item>modyfikowanie rejestru połączeń</item>
+        <item>odczytywanie kalendarza</item>
+        <item>modyfikowanie kalendarza</item>
+        <item>skanowanie wi-fi</item>
+        <item>powiadomienie</item>
+        <item>skanowanie bts</item>
+        <item>połączenia telefoniczne</item>
+        <item>odczytywanie SMS-ów</item>
+        <item>zapisywanie SMS-ów</item>
+        <item>odbieranie SMS-ów</item>
+        <item>odbieranie SMS-ów alarmowych</item>
+        <item>odbieranie MMS-ów</item>
+        <item>odbieranie wiadomości WAP push</item>
+        <item>wysyłanie SMS-ów</item>
+        <item>odczytywanie SMS-ów ICC</item>
+        <item>zapisywanie SMS-ów ICC</item>
+        <item>modyfikowanie ustawień</item>
+        <item>rysuj na górze</item>
+        <item>dostęp do powiadomień</item>
+        <item>kamera</item>
+        <item>nagraj dźwięk</item>
+        <item>odtwórz dźwięk</item>
+        <item>czytaj schowek</item>
+        <item>modyfikuj schowek</item>
+        <item>przyciski multimediów</item>
+        <item>aktywność audio</item>
+        <item>głośność główna</item>
+        <item>głośność mowy</item>
+        <item>głośność dzwonka</item>
+        <item>głośność multimediów</item>
+        <item>głośność alarmu</item>
+        <item>głośność powiadomień</item>
+        <item>głośność Bluetooth</item>
+        <item>utrzymanie aktywności</item>
+        <item>monitorowanie lokalizacji</item>
+        <item>monitor wysoki zasilanie lokalizacja</item>
+        <item>pobierz statystyki użycia</item>
+        <item>wycisz mikrofon/wyłącz wyciszenie</item>
+        <item>wyświetlanie powiadomienia</item>
+        <item>wyświetlanie multimediów</item>
+        <item>aktywacja połączenia VPN</item>
+        <item>zapis tapety</item>
+        <item>wsparcie struktury</item>
+        <item>wsparcie robienia zrzutów ekranu</item>
+        <item>czytanie stanu telefonu</item>
+        <item>dodawanie poczty głosowej</item>
+        <item>zastosowanie SIP</item>
+        <item>przetwarzanie połączeń wychodzących</item>
+        <item>odcisk palca</item>
+        <item>czujniki na ciele</item>
+        <item>odczyt komunikatów z sieci komórkowej</item>
+        <item>pozorowanie lokalizacji</item>
+        <item>odczyt pamięci</item>
+        <item>zapis w pamięci</item>
+        <item>włączanie ekranu</item>
+        <item>pobieranie listy kont</item>
+        <item>uruchamianie w tle</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+                <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Wibracje</item>
+        <item>Odczytywanie kontaktów</item>
+        <item>Modyfikowanie kontaktów</item>
+        <item>Odczytywanie rejestru połączeń</item>
+        <item>Modyfikowanie rejestru połączeń</item>
+        <item>Odczytywanie kalendarza</item>
+        <item>Modyfikowanie kalendarza</item>
+        <item>Lokalizacja</item>
+        <item>Publikowanie powiadomień</item>
+        <item>Lokalizacja</item>
+        <item>Połączenia telefoniczne</item>
+        <item>Czytanie SMS-ów/MMS-ów</item>
+        <item>Pisanie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Wysyłanie SMS-ów/MMS-ów</item>
+        <item>Czytanie SMS-ów/MMS-ów</item>
+        <item>Pisanie SMS-ów/MMS-ów</item>
+        <item>Modyfikowanie ustawień</item>
+        <item>Rysuj na górze</item>
+        <item>Dostęp do powiadomień</item>
+        <item>Kamera</item>
+        <item>Nagraj dźwięk</item>
+        <item>Odtwórz dźwięk</item>
+        <item>Czytaj schowek</item>
+        <item>Modyfikuj schowek</item>
+        <item>Przyciski multimediów</item>
+        <item>Aktywność audio</item>
+        <item>Głośność główna</item>
+        <item>Głośność mowy</item>
+        <item>Głośność dzwonka</item>
+        <item>Głośność multimediów</item>
+        <item>Głośność alarmu</item>
+        <item>Głośność powiadomień</item>
+        <item>Głośność Bluetooth</item>
+        <item>Utrzymanie aktywności</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Pobierz statystyki użycia</item>
+        <item>Wycisz mikrofon/wyłącz wyciszenie</item>
+        <item>Wyświetlanie komunikatu</item>
+        <item>Wyświetlanie multimediów</item>
+        <item>Aktywacja połączenia VPN</item>
+        <item>Zapis tapety</item>
+        <item>Wsparcie struktury</item>
+        <item>Wsparcie robienia zrzutów ekranu</item>
+        <item>Czytanie stanu telefonu</item>
+        <item>Dodawanie poczty głosowej</item>
+        <item>Zastosowanie SIP</item>
+        <item>Przetwarzanie połączeń wychodzących</item>
+        <item>Odcisk palca</item>
+        <item>Czujniki na ciele</item>
+        <item>Odczyt komunikatów z sieci komórkowej</item>
+        <item>Pozorowanie lokalizacji</item>
+        <item>Odczyt pamięci</item>
+        <item>Zapis w pamięci</item>
+        <item>Włączanie ekranu</item>
+        <item>Pobieranie listy kont</item>
+        <item>Działanie w tle</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="automatic_storage_management_days">
+        <item>Starsze niż 30 dni</item>
+        <item>Starsze niż 60 dni</item>
+        <item>Starsze niż 90 dni</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Preferuj sieć Wi-Fi</item>
+        <item>Preferuj sieć komórkową</item>
+        <item>Tylko Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Preferuj Wi-Fi</item>
+        <item>Preferuj sieć komórkową</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>Wi-Fi</item>
+        <item>Komórka</item>
+    </string-array>
+</resources>

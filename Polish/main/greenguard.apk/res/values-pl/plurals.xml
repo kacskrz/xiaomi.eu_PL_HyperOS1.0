@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="available_time_left">
+        <item quantity="other">Pozostało %s min</item>
+        <item quantity="one">Pozostało %s min</item>
+    </plurals>
+    <plurals name="click_view_more">
+        <item quantity="other">Zobacz %s slotów czasu więcej</item>
+        <item quantity="one">Zobacz %s slot czasu więcej</item>
+        <item quantity="few">Zobacz %s sloty czasu więcej</item>
+    </plurals>
+    <plurals name="last_time">
+        <item quantity="other">Pozostało %s min</item>
+        <item quantity="one">Pozostało %s min</item>
+    </plurals>
+    <plurals name="min">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="notification_today_steps_start">
+        <item quantity="other">Przeszedłeś dzisiaj %d kroków.</item>
+        <item quantity="one">Przeszedłeś dzisiaj %d krok.</item>
+        <item quantity="few">Przeszedłeś dzisiaj %d kroki.</item>
+    </plurals>
+    <plurals name="time_left">
+        <item quantity="other">Pozostało %s min</item>
+        <item quantity="one">Pozostało %s min</item>
+    </plurals>
+    <plurals name="time_restrict_notice">
+        <item quantity="other">"Za %s min osiągniesz swój limit czasu. Skontaktuj się z rodzicami, jeśli chcesz korzystać z urządzenia dłużej."</item>
+        <item quantity="one">"Za %s min osiągniesz swój limit czasu. Skontaktuj się z rodzicami, jeśli chcesz korzystać z urządzenia dłużej."</item>
+    </plurals>
+</resources>

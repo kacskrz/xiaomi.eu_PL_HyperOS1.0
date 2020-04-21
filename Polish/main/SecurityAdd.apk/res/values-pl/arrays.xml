@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_start_setting">
+        <item>Z listy</item>
+        <item>Wyłączone</item>
+    </string-array>
+</resources>

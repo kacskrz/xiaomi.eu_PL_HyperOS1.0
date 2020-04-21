@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Domyślny</item>
+        <item>Ukryte</item>
+        <item>Czytanie</item>
+        <item>Media</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Aplikacja uruchomiona</item>
+        <item>Ekran włączony</item>
+        <item>Ekran wyłączony</item>
+        <item>Ekran wyłączony przez 10 minut</item>
+        <item>Pełny ekran</item>
+        <item>Opuść pełny ekran</item>
+        <item>Aplikacja w tle</item>
+        <item>Podłączony do ładowania</item>
+        <item>Niepodłączony</item>
+        <item>W trybie bezczynności</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Maksymalna jasność</item>
+        <item>Maksymalna częstotliwość CPU</item>
+        <item>Tryb ekranu</item>
+        <item>Użycie CPU</item>
+        <item>Transmisja danych</item>
+        <item>Lokalizacja</item>
+        <item>Powiadomienia</item>
+        <item>Ekran blokady</item>
+        <item>Ogranicz dane w tle</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Brak akcji</item>
+        <item>Domyślny</item>
+        <item>Zdjęcie</item>
+        <item>Film</item>
+        <item>Oszczędzanie baterii</item>
+        <item>Zrównoważony</item>
+        <item>Wydajny</item>
+        <item>Włącz</item>
+        <item>Wyłącz</item>
+        <item>Natychmiast</item>
+        <item>Po 10 min</item>
+        <item>Po 30 min</item>
+        <item>Gdy wyłączony ekran</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>W tym trybie</item>
+        <item>Niewybrane</item>
+        <item>W pozostałych trybach</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Własne ustawienia</item>
+        <item>Sugerowane ustawienia</item>
+    </string-array>
+    <string-array name="pc_manage_active_app_items">
+            <item>Uśpij aplikacje</item>
+            <item>Oszczędzanie energii</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+       <item>Uruchomione</item>
+       <item>W tle</item>
+       <item>Ostatnie</item>
+   </string-array>
+   <string-array name="power_checker_running_group_titles">
+       <item>Kernel WakeLock</item>
+       <item>WakeLock</item>
+       <item>Skanowanie Wi-Fi</item>
+       <item>GPS</item>
+       <item>CPU</item>
+       <item>Wybudzenie</item>
+   </string-array>
+   <string-array name="power_checker_recent_group_titles">
+       <item>Kernel WakeLock</item>
+       <item>WakeLock</item>
+       <item>Wyszukiwanie Wi-Fi</item>
+       <item>Szukanie GPS</item>
+       <item>Wykorzystanie CPU</item>
+       <item>Wybudzenie</item>
+   </string-array>
+   <string-array name="power_checker_group_suffix">
+       <item></item>
+       <item></item>
+       <item></item>
+   </string-array>
+   <string-array name="hmode_app_classify1">
+           <item>Własne</item>
+           <item>Oszczędzanie baterii</item>
+       </string-array>
+       <string-array name="hmode_app_classify2">
+           <item>Aktywne aplikacje</item>
+           <item>Uśpione aplikacje</item>
+       </string-array>
+       <string-array name="emode_app_groups">
+               <item>Systemowe aplikacje</item>
+               <item>Pozostałe aplikacje</item>
+               <item>Wybrane aplikacje</item>
+           </string-array>
+   <string-array name="thermal_entries">
+           <item>Default warm control mode</item>
+           <item>Performance first mode</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+           <item>Ważniejsza temperatura</item>
+           <item>Ważniejsza wydajność</item>
+           <item>Nie działa w trybie Ekstremalnego oszczędzania</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+            <item>Wydajny</item>
+            <item>Zrównoważony</item>
+      </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Krokomierz</string>
+  <string name="permstep_description">"Zezwól aplikacji na czytanie liczby kroków"</string>
+  <string name="permstep_label">Odczytuj kroki</string>
+</resources>

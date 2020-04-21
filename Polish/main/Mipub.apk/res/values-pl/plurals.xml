@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Usunąć wątki (%1$s)?</item>
+        <item quantity="one">Usunąć wątek?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s s</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s s</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%s s</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s s</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Wyniki dla „%2$s”: %1$s</item>
+        <item quantity="one">%1$s wynik dla zapytania „%2$s”</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">Osoby: %1$s</item>
+        <item quantity="one">1 osoba</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d SMS</item>
+        <item quantity="zero">Brak SMS</item>
+        <item quantity="one">1 SMS</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%d SMS do synchronizacji"</item>
+        <item quantity="one">"1 SMS do synchronizacji"</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">SMS: %1$s</item>
+        <item quantity="one">%1$s SMS</item>
+    </plurals>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Usunąć %d pobrań?</item>
+        <item quantity="one">Usunąć %d pobranie?</item>
+		<item quantity="few">Usunąć %d pobrania?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Pomyślnie usunięto %s pobrań</item>
+        <item quantity="one">Pomyślnie usunięto %s pobranie</item>
+		<item quantity="few">Pomyślnie usunięto %s pobrania</item>
+    </plurals>
+   <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Usunąć %d elementów?</item>
+        <item quantity="one">Usunąć ten element?</item>
+    </plurals>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">Znaleziono %d elementów</item>
+        <item quantity="one">Znaleziono 1 element</item>
+        <item quantity="few">Znaleziono %d elementy</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">Znaleziono %d rezultatów</item>
+        <item quantity="one">Znaleziono 1 rezultat</item>
+        <item quantity="few">Znaleziono %d rezultaty</item>
+    </plurals>
+    <plurals name="durationDays">
+        <item quantity="other">%1$d dni</item>
+        <item quantity="one">%1$d dzień</item>
+    </plurals>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d godz.</item>
+        <item quantity="one">%1$d godz.</item>
+    </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$d sekund</item>
+        <item quantity="one">%1$d sekunda</item>
+        <item quantity="few">%1$d sekundy</item>
+    </plurals>
+</resources>

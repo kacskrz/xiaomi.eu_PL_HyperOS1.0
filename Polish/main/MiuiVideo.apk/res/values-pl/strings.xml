@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="abc_action_bar_home_description">Przejdź do strony głównej</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Przejdź wyżej</string>
+  <string name="abc_action_menu_overflow_description">Więcej opcji</string>
+  <string name="abc_action_mode_done">Gotowe</string>
+  <string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
+  <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+  <string name="abc_capital_off">WYŁ.</string>
+  <string name="abc_capital_on">WŁ.</string>
+  <string name="abc_search_hint">Szukaj…</string>
+  <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+  <string name="abc_searchview_description_query">Wyszukiwane hasło</string>
+  <string name="abc_searchview_description_search">Szukaj</string>
+  <string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+  <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+  <string name="abc_shareactionprovider_share_with">Udostępnij dla</string>
+  <string name="abc_shareactionprovider_share_with_application">Udostępnij dla %s</string>
+  <string name="abc_toolbar_collapse_description">Zwiń</string>
+  <string name="albums">Albumy</string>
+  <string name="allow_draw_overlays_title">Allow Player player popup over other apps</string>
+  <string name="allow_sdraw_overlays_description">Player needs you to grant this permission display your video in a popup over other applications.</string>
+  <string name="allow_settings_access_brightness_description">Player needs you to grant this permission to change your brightness mode.</string>
+  <string name="allow_settings_access_brightness_title">Allow Player to change brightness mode</string>
+  <string name="allow_settings_access_ringtone_description">Player needs you to grant this permission to set up this song as your ringtone.</string>
+  <string name="allow_settings_access_ringtone_title">Allow Player to set the ringtone</string>
+  <string name="allow_storage_access_description">Player needs you to grant this permission to access the media files on this device.</string>
+  <string name="allow_storage_access_title">Allow Player to access video and audio files</string>
+  <string name="app_name">Wideo</string>
+  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+  <string name="artists">Wykonawcy</string>
+  <string name="audio">Dźwięk</string>
+  <string name="audio_delay">Opóźnienie dźwięku</string>
+  <string name="back_quit_lock">Naciśnij ponownie Wstecz, aby wyjść</string>
+  <string name="brightness">Jasność</string>
+  <string name="cancel">Anuluj</string>
+  <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+  <string name="default_text">Domyślny</string>
+  <string name="delete">Usuń</string>
+  <string name="delete_file_tips">Usunąć plik?</string>
+  <string name="details">Szczegóły</string>
+  <string name="dselect_all">Odznacz wszystko</string>
+  <string name="encountered_error_message">"Player encountered an error with this media.
+Please try refreshing the media library."</string>
+  <string name="encountered_error_title">Błąd odtwarzania</string>
+  <string name="error_text_invalid_progressive_playback">"Ten format pliku nie jest wspierany."</string>
+  <string name="exit_app">Zamknij odtwarzacz</string>
+  <string name="file">plik</string>
+  <string name="file_details" formatted="false">"Rozmiar: %s
+
+Długość: %s
+
+Modyfikacja: %s
+
+Lokalizacja: %s
+
+"</string>
+  <string name="filter">Filtr</string>
+  <string name="filter_file_tips">Filtrować ten plik?</string>
+  <string name="folder">Katalogi</string>
+  <string name="folder_up_tips">(Wyżej)</string>
+  <string name="genres">Genres</string>
+  <string name="hide">Ukryj</string>
+  <string name="hide_file_tips">Ukryć ten plik?</string>
+  <string name="hide_files_tips">Ukrywanie plików</string>
+  <string name="hide_filter_folder_tips">Hide filter folder</string>
+  <string name="history">Historia</string>
+  <string name="home_tab_featured">Ulubione</string>
+  <string name="home_tab_hot">Hot</string>
+  <string name="home_tab_local_video">Lokalnie</string>
+  <string name="illegal_input_tips">Illegal input</string>
+  <string name="invalid_location">To miejsce (%1$s) nie może być odtworzone.</string>
+  <string name="language_default">Domyślny język</string>
+  <string name="last_added_media">ostatnio dodane</string>
+  <string name="load_more_and_more">więcej..</string>
+  <string name="loading">Wczytywanie</string>
+  <string name="locked">Blokada</string>
+  <string name="more">Więcej</string>
+  <string name="more_file_details" formatted="false">"Rozmiar: %s
+
+Długość: %s 
+
+"</string>
+  <string name="network_stream">Network stream</string>
+  <string name="no_filter_folder_tips">Brak filtrów katalogów</string>
+  <string name="no_folder_found">Brak katalogów z wideo</string>
+  <string name="no_hidden_files_tips">Brak ukrytych plików</string>
+  <string name="no_search_found">Brak wyników</string>
+  <string name="no_videos_found">Brak wideo</string>
+  <string name="ok">OK</string>
+  <string name="online">Online</string>
+  <string name="open">Otwórz</string>
+  <string name="open_subtitle_file">Otwórz plik napisów</string>
+  <string name="other">Inne</string>
+  <string name="over_load_more">push more</string>
+  <string name="pause">Wstrzymaj</string>
+  <string name="permission_ask_again">Udziel uprawnień</string>
+  <string name="playlists">Listy odtwarzania</string>
+  <string name="please_wait">Chwileczkę…</string>
+  <string name="push">push</string>
+  <string name="push_load_more">push more</string>
+  <string name="refresh">Odśwież</string>
+  <string name="remove">Usuń</string>
+  <string name="rename">Zmień nazwę</string>
+  <string name="rename_file">Zmień nazwę pliku</string>
+  <string name="rename_folder">Zmień nazwę katalogu</string>
+  <string name="rename_hidden_error">Plik zostanie ukryty</string>
+  <string name="replace_num_files">Pliki: %d</string>
+  <string name="replace_num_videos">Wideo: %d</string>
+  <string name="ringtone_error">An error occurred while setting the ringtone.</string>
+  <string name="ringtone_set">"The file '%1$s' was set as the ringtone."</string>
+  <string name="sdcard_text">SdCard</string>
+  <string name="sdcard_tips">Sdcard/</string>
+  <string name="search">Wyszukaj</string>
+  <string name="search_history">Historia wyszukiwania</string>
+  <string name="search_null_text">Wpisz słowo kluczowe</string>
+  <string name="select_all">Wszystko</string>
+  <string name="send">Wyślij</string>
+  <string name="settings">Opcje</string>
+  <string name="show_all_files_tips">Pokaż wszystkie pliki</string>
+  <string name="show_all_folder_tips">Pokaż wszystkie katalogi</string>
+  <string name="small_a">A</string>
+  <string name="songs">Utwory</string>
+  <string name="sound_off">Dźwięk wył.</string>
+  <string name="sound_on">Dźwięk wł.</string>
+  <string name="spu_delay">Opóźnienie napisów</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="subtitle">Napisy</string>
+  <string name="subtitle_color_text">Kolor napisów</string>
+  <string name="subtitle_font_tips">Rozmiar czcionki</string>
+  <string name="subtitles">Napisy</string>
+  <string name="synchronization">Synchronizacja</string>
+  <string name="toast_player_list_header">List plików</string>
+  <string name="toast_player_list_none">Koniec pliku</string>
+  <string name="toast_screen_text_add">Pomyślnie dodano</string>
+  <string name="toast_screen_text_default">Domyślny rozmiar</string>
+  <string name="toast_screen_text_full">Pełny ekran</string>
+  <string name="toast_screen_text_horizontal">Skalowanie</string>
+  <string name="toast_screen_text_scaling">Skalowanie</string>
+  <string name="toast_screen_text_stream">Click Stream Button</string>
+  <string name="toast_screen_text_vertical">Skalowanie</string>
+  <string name="track_audio">Utwór audio</string>
+  <string name="track_text">Plik napisów</string>
+  <string name="track_unknown">Nieznany plik</string>
+  <string name="track_video">Plik wideo</string>
+  <string name="unknown_album">Nieznany album</string>
+  <string name="unknown_artist">Nieznany wykonawca</string>
+  <string name="unknown_genre">Nieznany typ</string>
+  <string name="unlocked">Unlocked</string>
+  <string name="unseekable_stream">Unseekable stream</string>
+  <string name="v7_preference_off">OFF</string>
+  <string name="v7_preference_on">ON</string>
+  <string name="video">Wideo</string>
+  <string name="video_error_network_not_available">"Nie można połączyć się z siecią"</string>
+  <string name="video_error_text_unknown">An unknown error occurred.</string>
+  <string name="video_error_title">Nieznany błąd</string>
+  <string name="video_file_details" formatted="false">%d filmów | %s</string>
+  <string name="video_item_title_lines">2</string>
+  <string name="videos">Filmy</string>
+  <string name="volume">Głośność</string>
+  <string name="wrapper_footer_text">Koniec listy</string>
+</resources>

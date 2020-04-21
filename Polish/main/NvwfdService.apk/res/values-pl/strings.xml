@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Bezprzewodowy wyświetlacz NVIDIA</string>
+  <string name="miracast_access_settings_title">Ustawienia bezprzewodowego wyświetlacza</string>
+  <string name="miracast_connection_status_connected">Przesyłanie obrazu do %1$s</string>
+  <string name="miracast_connection_status_discovery">Wyszukiwanie %1$s</string>
+  <string name="miracast_connection_status_progress">Łączenie z %1$s</string>
+  <string name="miracast_connection_status_warning_auth_failed">Wystąpił problem z połączeniem do %1$s</string>
+  <string name="miracast_connection_status_warning_conn_failed">%1$s nie został znaleziony</string>
+  <string name="miracast_connection_status_warning_conn_lost">Utracono połączenie z %1$s</string>
+  <string name="miracast_display_notification_disconnect">Rozłącz</string>
+  <string name="miracast_hdcp_failure_text">Treść premium nie może być wyświetlona.</string>
+  <string name="miracast_hdcp_title">Autoryzacja HDCP z %1$s zakończona niepowodzeniem</string>
+  <string name="miracast_hdmi_title">HDMI</string>
+  <string name="miracast_hdmi_unavailable">Niedostępne. Miracast aktywny.</string>
+</resources>

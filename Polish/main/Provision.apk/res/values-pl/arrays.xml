@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="popular_language_locales">
+        <item>pl_PL</item>
+        <item>cs_CZ</item>
+        <item>en_US</item>
+        <item>en_GB</item>
+    </string-array>
+    <string-array name="indian_popular_language_locales">
+        <item>pl_PL</item>
+        <item>cs_CZ</item>
+        <item>en_US</item>
+        <item>en_GB</item>
+    </string-array>
+    <string-array name="other_settings_auto_update_entries">
+            <item>Wi-Fi i dane mobilne</item>
+            <item>Tylko Wi-Fi</item>
+            <item>Wył.</item>
+        </string-array>
+</resources>

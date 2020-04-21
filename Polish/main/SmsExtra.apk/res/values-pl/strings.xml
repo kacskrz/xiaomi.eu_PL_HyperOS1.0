@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_not_found">Nie znaleziono programu do otwarcia załącznika</string>
+  <string name="allow_network_hint">Włącz opcję \"Aktualizuj informacje automatycznie\" lub sprawdź swoje połączenie z siecią</string>
+  <string name="already_updated">Wersja jest aktualna</string>
+  <string name="back_to_message_list">Powrót do listy wiadomości</string>
+  <string name="click_to_update">Kliknij, aby sprawdzić dostępność aktualizacji</string>
+  <string name="confirm_delete_all_conversations">Usunąć wszystkie konwersacje?</string>
+  <string name="confirm_delete_conversation">Usunąć cały wątek?</string>
+  <string name="confirm_delete_group_message">Usunąć grupowe wiadomości?</string>
+  <string name="confirm_delete_locked_message">Usunąć tę zablokowaną wiadomość?</string>
+  <string name="confirm_delete_message">Usunąć tę wiadomość?</string>
+  <string name="confirm_dialog_locked_title">Usunąć zablokowaną wiadomość?</string>
+  <string name="confirm_dialog_title">Usunąć?</string>
+  <string name="copy_message_text">Kopiuj</string>
+  <string name="copy_message_text_success">Skopiowano!</string>
+  <string name="current_data_version">Wersja Wiadomości w Chmurze</string>
+  <string name="delete">Usuń</string>
+  <string name="delete_message">Usuń</string>
+  <string name="from_label">"Od: "</string>
+  <string name="menu_forward">Przekaż</string>
+  <string name="menu_lock">Ulubione</string>
+  <string name="menu_unlock">Nielubiane</string>
+  <string name="message_details_title">Szczegóły wiadomości</string>
+  <string name="message_type_label">"Typ: "</string>
+  <string name="messaging">SMS</string>
+  <string name="more">Więcej</string>
+  <string name="mx_message">Wiadomości w Chmurze</string>
+  <string name="net_sms_unsubscribe">Pomyślnie wycofano subskrypcję</string>
+  <string name="received_label">"Otrzymano: "</string>
+  <string name="repayment_network_error">Something went wrong with your network</string>
+  <string name="repayment_title">Repayment</string>
+  <string name="repayment_way">Repayment method</string>
+  <string name="sent_label">"Wysłano: "</string>
+  <string name="smart_messages_network_allow_message">Wiadomości w Chmurze wymagają dostępu do sieci, aby działać poprawnie. Zezwolić?</string>
+  <string name="smart_messages_network_allow_title">Wymagane uprawnienie</string>
+  <string name="sms_card_partner_label">"SMS card partner: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+  <string name="text_message">Wiadomość tekstowa</string>
+  <string name="updating">Aktualizowanie…</string>
+  <string name="view_hms_details">Szczegóły</string>
+</resources>

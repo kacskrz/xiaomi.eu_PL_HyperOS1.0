@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<plurals name="fast_connect_headset_reset">
+        <item quantity="other">Kliknij i przytrzymaj przycisk zestawu przez %1$d sekund</item>
+        <item quantity="one">Kliknij i przytrzymaj przycisk zestawu przez %1$d sekundę</item>
+        <item quantity="few">Kliknij i przytrzymaj przycisk zestawu przez %1$d sekundy</item>
+	</plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">Naciśnij i przytrzymaj obszar wrażliwy na dotyk na słuchawkach przez %1$d sekund</item>
+        <item quantity="one">Naciśnij i przytrzymaj obszar wrażliwy na dotyk na słuchawkach przez %1$d sekundę</item>
+        <item quantity="few">Naciśnij i przytrzymaj obszar wrażliwy na dotyk na słuchawkach przez %1$d sekundy</item>
+    </plurals>
+</resources>

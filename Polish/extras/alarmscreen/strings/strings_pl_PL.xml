@@ -1,0 +1,4 @@
+<resources>
+    <string name="slider_text">>>> Wyłącz >>></string>
+    <string name="snooze_message">Drzemka na %d min.</string>
+</resources>

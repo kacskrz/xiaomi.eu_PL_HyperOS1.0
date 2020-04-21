@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_frequent_phrases">Edytuj częste zwroty</string>
+    <string name="menu_add_frequent_phrases">Dodaj</string>
+    <string name="menu_edit">Edytuj</string>
+    <string name="menu_delete">Usuń</string>
+    <string name="frequent_phrases_des">Wpisuj częste zwroty tylko kilkoma dotknięciami, gdy edytujesz tekst</string>
+    <string name="add_frequent_phrases">Dodaj częste zwroty</string>
+    <string name="delete_frequent_phrases">Usuń częste zwroty</string>
+    <string name="delete_frequent_phrases_confirm">Usunąć wybrane częste zwroty?</string>
+    <string name="frequent_phrases_size_exceeded">Możesz dodać do %1$d częstych zwrotów. Usuń niepotrzebne z nich, aby dodać ich więcej.</string>
+    <string name="sync_phrase_label">Częste zwroty</string>
+</resources>

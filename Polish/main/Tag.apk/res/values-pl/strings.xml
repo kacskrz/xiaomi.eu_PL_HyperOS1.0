@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_call">Zadzwoń do %s</string>
+  <string name="action_text">SMS do %s</string>
+  <string name="app_name">Tagi</string>
+  <string name="button_done">Gotowe</string>
+  <string name="call_phone_permission_denied">Ta aplikacja potrzebuje uprawnień do Telefonu w celu wykonywania połączeń. Możesz zarządzać uprawnieniami aplikacji Tag w Ustawieniach</string>
+  <string name="empty_tag_prompt">Tag jest pusty</string>
+  <string name="external_storage_permission_denied">Ta aplikacja potrzebuje uprawnień do Pamięci zewnętrznej w celu dostępu do plików. Możesz zarządzać uprawnieniami aplikacji Tag w Ustawieniach</string>
+  <string name="import_vcard">Import ^1</string>
+  <string name="mime_display_name">Dane z NFC</string>
+  <string name="tag_empty">Pusty tag</string>
+  <string name="tag_unknown">Nieznany rodzaj tagu</string>
+  <string name="title_existing_tag">Tag</string>
+  <string name="title_scanned_tag">Zapisano nowy tag</string>
+  <string name="vcard_title">Contact info for ^1</string>
+</resources>

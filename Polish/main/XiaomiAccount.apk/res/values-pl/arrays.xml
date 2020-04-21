@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+         <item>Mężczyzna</item>
+         <item>Kobieta</item>
+     </string-array>
+    <string-array name="education">
+        <item>Gimnazjum</item>
+        <item>Szkoła podstawowa</item>
+        <item>Liceum</item>
+        <item>Szkoła zawodowa</item>
+        <item>Uczelnia</item>
+        <item>Magister</item>
+        <item>Doktorat</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+    </string-array>
+    <string-array name="question_no1">
+        <item>Rodzina</item>
+        <item>Imię babci (ze strony matki)</item>
+        <item>Imię dziadka (ze strony matki)</item>
+        <item>Imię dziadka (ze strony ojca)</item>
+        <item>Imię babci (ze strony ojca)</item>
+        <item>Urodziny ojca</item>
+        <item>Urodziny matki</item>
+        <item>Jaka jest różnica wieku między Twoimi rodzicami (lata i miesiące)?</item>
+    </string-array>
+    <string-array name="question_no2">
+        <item>Alma mater</item>
+        <item>Kto był gospodarzem klasy w gimnazjum?</item>
+        <item>Kto był gospodarzem klasy w szkole podstawowej?</item>
+        <item>Twój numer legitymacji na uczelni</item>
+        <item>Jak nazywał się Twój współlokator na uczelni?</item>
+        <item>Jak nazywał się Twój promotor na uczelni?</item>
+    </string-array>
+    <string-array name="question_no3">
+        <item>Dane osobiste</item>
+        <item>Jak mówią na Ciebie Twoi rodzice?</item>
+        <item>Ostatnie 6 cyfr numeru paszportu</item>
+        <item>W którym szpitalu się urodziłeś?</item>
+        <item>Jak nazywa się Twój najlepszy przyjaciel?</item>
+    </string-array>
+    <string-array name="question_no4">
+        <item>Pierwsze razy</item>
+        <item>Jak nazywał się Twój pierwszy zwierzak?</item>
+        <item>Jak na imię miała Twoja pierwsza dziewczyna/chłopak?</item>
+        <item>Jak nazywała się firma, w której podjąłeś pierwszą pracę?</item>
+    </string-array>
+    <string-array name="question_no5">
+        <item>Małżeństwo</item>
+        <item>Kiedyś wyszłaś za mąż/ożeniłeś się?</item>
+        <item>Imię małżonka/małżonki</item>
+        <item>Urodziny małżonka/małżonki</item>
+    </string-array>
+</resources>

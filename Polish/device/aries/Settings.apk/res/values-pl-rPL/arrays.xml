@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="app_ops_categories">
+        <item>Lokalizacja</item>
+        <item>Osobiste</item>
+        <item>Wiadomości</item>
+        <item>Multimedia</item>
+        <item>Urządzenie</item>
+     </string-array>
+     <string-array name="app_ops_labels">
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Wibracje</item>
+        <item>Odczytywanie kontaktów</item>
+        <item>Modyfikowanie kontaktów</item>
+        <item>Odczytywanie rejestru połączeń</item>
+        <item>Modyfikowanie rejestru połączeń</item>
+        <item>Odczytywanie kalendarza</item>
+        <item>Modyfikowanie kalendarza</item>
+        <item>Lokalizacja</item>
+        <item>Publikowanie powiadomień</item>
+        <item>Lokalizacja</item>
+        <item>Połączenia telefoniczne</item>
+        <item>Czytanie SMS-ów/MMS-ów</item>
+        <item>Pisanie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Wysyłanie SMS-ów/MMS-ów</item>
+        <item>Czytanie SMS-ów/MMS-ów</item>
+        <item>Pisanie SMS-ów/MMS-ów</item>
+        <item>Modyfikowanie ustawień</item>
+        <item>Rysuj na górze</item>
+        <item>Dostęp do powiadomień</item>
+        <item>Kamera</item>
+        <item>Nagraj dźwięk</item>
+        <item>Odtwórz dźwięk</item>
+        <item>Czytaj schowek</item>
+        <item>Modyfikuj schowek</item>
+        <item>Przyciski multimediów</item>
+        <item>Aktywność audio</item>
+        <item>Głośność główna</item>
+        <item>Głośność mowy</item>
+        <item>Głośność dzwonka</item>
+        <item>Głośność multimediów</item>
+        <item>Głośność alarmu</item>
+        <item>Głośność powiadomień</item>
+        <item>Głośność Bluetooth</item>
+        <item>Utrzymanie aktywności</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Pobierz statystyki użycia</item>
+        <item>Wycisz mikrofon/wyłącz wyciszenie</item>
+        <item>Wyświetl multimedia</item>
+        <item>Aktywuj VPN</item>
+     </string-array>
+     <string-array name="app_ops_summaries">
+       <item>przybliżona lokalizacja</item>
+        <item>dokładna lokalizacja</item>
+        <item>GPS</item>
+        <item>wibracje</item>
+        <item>odczytywanie kontaktów</item>
+        <item>modyfikowanie kontaktów</item>
+        <item>odczytywanie rejestru połączeń</item>
+        <item>modyfikowanie rejestru połączeń</item>
+        <item>odczytywanie kalendarza</item>
+        <item>modyfikowanie kalendarza</item>
+        <item>skanowanie wi-fi</item>
+        <item>powiadomienie</item>
+        <item>skanowanie bts</item>
+        <item>połączenia telefoniczne</item>
+        <item>odczytywanie SMS-ów</item>
+        <item>zapisywanie SMS-ów</item>
+        <item>odbieranie SMS-ów</item>
+        <item>odbieranie SMS-ów alarmowych</item>
+        <item>odbieranie MMS-ów</item>
+        <item>odbieranie wiadomości WAP push</item>
+        <item>wysyłanie SMS-ów</item>
+        <item>odczytywanie SMS-ów ICC</item>
+        <item>zapisywanie SMS-ów ICC</item>
+        <item>modyfikowanie ustawień</item>
+        <item>rysuj na górze</item>
+        <item>dostęp do powiadomień</item>
+        <item>kamera</item>
+        <item>nagraj dźwięk</item>
+        <item>odtwórz dźwięk</item>
+        <item>czytaj schowek</item>
+        <item>modyfikuj schowek</item>
+        <item>przyciski multimediów</item>
+        <item>aktywność audio</item>
+        <item>głośność główna</item>
+        <item>głośność mowy</item>
+        <item>głośność dzwonka</item>
+        <item>głośność multimediów</item>
+        <item>głośność alarmu</item>
+        <item>głośność powiadomień</item>
+        <item>głośność Bluetooth</item>
+        <item>utrzymanie aktywności</item>
+        <item>monitorowanie lokalizacji</item>
+        <item>monitor wysoki zasilanie lokalizacja</item>
+        <item>pobierz statystyki użycia</item>
+        <item>wycisz mikrofon/wyłącz wyciszenie</item>
+        <item>wyświetl multimedia</item>
+        <item>aktywuj VPN</item>
+     </string-array>
+     <string-array name="captioning_edge_type_selector_titles">
+        <item>Domyślne</item>
+        <item>Brak</item>
+        <item>Obrys</item>
+        <item>Z cieniem</item>
+        <item>Uniesione</item>
+        <item>Obniżone</item>
+     </string-array>
+     <string-array name="captioning_typeface_selector_titles">
+        <item>Domyślna</item>
+        <item>Bezszeryfowa</item>
+        <item>Bezszeryfowa wąska</item>
+        <item>Bezszeryfowy o stałej szerokości</item>
+        <item>Szeryfowy</item>
+        <item>Szeryfowy o stałej szerokości</item>
+        <item>Zwykły</item>
+        <item>Kursywa</item>
+        <item>Kapitaliki</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+        <item>Wył.</item>
+        <item>Pokaż przerysowywane obszary</item>
+        <item>Pokaż obszary dostosowane do deuteranomalii</item>
+     </string-array>
+     <string-array name="track_frame_time_entries">
+        <item>Wyłączone</item>
+        <item>Na ekranie w postaci pasków</item>
+        <item>W adb shell dumpsys gfxinfo</item>
+     </string-array>
+     <string-array name="wifi_proxy_settings">
+        <item>Brak</item>
+        <item>Własne</item>
+        <item>Autokonfiguracja proxy</item>
+     </string-array>
+</resources>

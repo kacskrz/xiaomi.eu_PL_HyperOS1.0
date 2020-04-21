@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_items_close">
+         <item quantity="other">%d jest wył.</item>
+         <item quantity="one">%d jest wył.</item>
+     </plurals>
+     <plurals name="items_unsynced">
+         <item quantity="other">Do synchronizacji: %d</item>
+         <item quantity="one">Do synchronizacji: %d</item>
+     </plurals>
+     <plurals name="items_waiting_to_sync">
+         <item quantity="other">%d el. do synchronizacji</item>
+         <item quantity="one">%d el. do synchronizacji</item>
+     </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d kontaktów</item>
+        <item quantity="one">%d kontakt</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d SMS</item>
+        <item quantity="one">%d SMS</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d notatek</item>
+        <item quantity="one">%d notatka</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d zdjęć</item>
+        <item quantity="one">%d zdjęcie</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+         <item quantity="other">%d historii połączeń</item>
+         <item quantity="one">%d historia połączeń</item>
+     </plurals>
+     <plurals name="dirty_wlan_count">
+         <item quantity="other">%d sieci Wi-Fi</item>
+         <item quantity="one">%d sieć Wi-Fi</item>
+     </plurals>
+     <plurals name="dirty_recorder_count">
+         <item quantity="other">%d nagrań</item>
+         <item quantity="one">%d nagranie</item>
+     </plurals>
+     <plurals name="dirty_music_count">
+         <item quantity="other">%d utworów</item>
+         <item quantity="one">%d utwór</item>
+     </plurals>
+     <plurals name="dirty_browser_count">
+         <item quantity="other">%d el. przeglądarki</item>
+         <item quantity="one">%d el. przeglądarki</item>
+     </plurals>
+     <plurals name="dirty_calendar_count">
+         <item quantity="other">%d el. kalendarza</item>
+         <item quantity="one">%d el. kalendarza</item>
+     </plurals>
+     <plurals name="dirty_blocklist_count">
+         <item quantity="other">%d blokowanych numerów</item>
+         <item quantity="one">%d blokowany numer</item>
+     </plurals>
+     <plurals name="dirty_personalAssistant_count">
+         <item quantity="other">%d wpisów Asystenta</item>
+         <item quantity="one">%d wpis Asystenta</item>
+     </plurals>
+     <plurals name="dirty_secretphoto_count">
+         <item quantity="other">"%d hidden photos aren't synced. Sign out after all items are synced to keep them; otherwise, items will be deleted."</item>
+         <item quantity="one">"%d hidden photo isn't synced. Sign out after all items are synced to keep them; otherwise, items will be deleted."</item>
+     </plurals>
+     <plurals name="micloud_main_resume_sync_hour">
+         <item quantity="other">Wznowienie synchr. za %d godz.</item>
+		 <item quantity="one">Wznowienie synchr. za %d godz.</item>
+	 </plurals>
+     <plurals name="micloud_main_resume_sync_min">
+         <item quantity="other">Wznowienie synchr. za %d minut</item>
+         <item quantity="one">Wznowienie synchr. za %d minutę</item>
+     </plurals>
+     <plurals name="micloud_manual_pause_and_resume">
+         <item quantity="other">Wznowienie synchronizacji za %d minut</item>
+		 <item quantity="one">Wznowienie synchronizacji za %d minutę</item>
+	 </plurals>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">%s minut temu</item>
+        <item quantity="one">minutę temu</item>
+        <item quantity="few">%s minuty temu</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">%s godzin temu</item>
+        <item quantity="one">godzinę temu</item>
+        <item quantity="few">%s godziny temu</item>
+	</plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s usług zostanie zsynchronizowanych z Chmurą Xiaomi</item>
+        <item quantity="one">%s usługa zostanie zsynchronizowana z Chmurą Xiaomi</item>
+        <item quantity="few">%s usługi zostaną zsynchronizowane z Chmurą Xiaomi</item>
+    </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d częstych zwrotów</item>
+        <item quantity="one">%d częsty zwrot</item>
+        <item quantity="few">%d częste zwroty</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">"Nie można wybrać więcej niż %d elementów"</item>
+        <item quantity="one">"Nie można wybrać więcej niż %d elementu"</item>
+    </plurals>
+</resources>

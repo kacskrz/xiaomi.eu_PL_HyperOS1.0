@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Dane Wi-Fi</item>
+        <item>Wszystkie aplikacje</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Przeglądarka</item>
+        <item>Galeria</item>
+        <item>Uprawnienia</item>
+        <item>Monitor danych</item>
+        <item>Dostawca Pogody</item>
+        <item>Pogoda</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Kontakty</item>
+        <item>Historia połączeń</item>
+        <item>Wiadomości SMS</item>
+        <item>Wiadomości MMS</item>
+        <item>Ustawienia systemowe</item>
+        <item>Hasła Wi-Fi</item>
+        <item>Układ pulpitu</item>
+        <item>Alarmy</item>
+        <item>Notatki</item>
+        <item>Blokowanie numerów</item>
+        <item>Konto</item>
+   </string-array>
+    <string-array name="app_type_desc">
+        <item>Dane</item>
+        <item>Aplikacja</item>
+        <item>Aplikacja + Dane</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Kontakty</item>
+        <item>Historia połączeń</item>
+        <item>SMS</item>
+        <item>Hasła Wi-Fi</item>
+        <item>Notatki</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Kontakty</item>
+        <item>Hasła Wi-Fi</item>
+        <item>Notatki</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Historia połączeń</item>
+        <item>Wiadomości SMS</item>
+    </string-array>
+  <string-array name="trans_succeed_survey_title">
+    <item>Ogólnie</item>
+    <item>Długość przenoszenia</item>
+    <item>Prosty proces</item>
+    <item>Jasność instrukcji</item>
+  </string-array>
+  <string-array name="trans_succeed_rating_hint">
+    <item>Bardzo niezadowolony</item>
+    <item>Niezadowolony</item>
+    <item>Neutralny</item>
+    <item>Zadowolony</item>
+    <item>Bardzo zadowolony</item>
+  </string-array>
+  <string-array name="trans_cancel_survey_title">
+    <item>Ogólnie</item>
+    <item>Czas trwania przenoszenia</item>
+    <item>Prostota operacji</item>
+    <item>Przejrzystość instrukcji</item>
+    <item>Ta funkcja jest użyteczna</item>
+  </string-array>
+</resources>

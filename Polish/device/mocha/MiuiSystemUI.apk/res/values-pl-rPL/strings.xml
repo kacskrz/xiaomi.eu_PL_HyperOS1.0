@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="ext_media_badremoval_notification_message">Odmontuj kartę SD przed odłączeniem by uniknąć utraty danych.</string>
+	<string name="ext_media_badremoval_notification_title">Karta SD niespodziewanie wysunięta</string>
+	<string name="ext_media_checking_notification_message">Sprawdzanie błędów.</string>
+	<string name="ext_media_checking_notification_title">Przygotowywanie karty SD</string>
+	<string name="ext_media_mountable_notification_message">"Otwórz Menedżer Plików"</string>
+	<string name="ext_media_mountable_notification_title">Karta SD podłączona</string>
+	<string name="ext_media_nofs_notification_message">Karta SD jest czysta lub posiada nieznany system plików.</string>
+	<string name="ext_media_nofs_notification_title">Czysta karta SD</string>
+	<string name="ext_media_nomedia_notification_message">Karta SD odłączona.</string>
+	<string name="ext_media_nomedia_notification_title">Wysunięto kartę SD</string>
+	<string name="ext_media_safe_remove">Wysuń</string>
+	<string name="ext_media_safe_unmount_notification_message">Możesz bezpiecznie odłączyć kartę SD.</string>
+	<string name="ext_media_safe_unmount_notification_title">Bezpieczne odłączenie karty SD</string>
+	<string name="ext_media_unmountable_notification_message">Karta SD uszkodzona. Być może trzeba przeprowadzić formatowanie.</string>
+	<string name="ext_media_unmountable_notification_title">Karta SD uszkodzona</string>
+	<string name="status_bar_toggle_ac">Kontrola dostępu</string>
+	<string name="status_bar_toggle_auto_brightness">Auto. jasność</string>
+	<string name="status_bar_toggle_bluetooth">Bluetooth</string>
+	<string name="status_bar_toggle_brightness">Jasność</string>
+	<string name="status_bar_toggle_data">Dane</string>
+	<string name="status_bar_toggle_divider">Więcej</string>
+	<string name="status_bar_toggle_drive_mode">Samochód</string>
+	<string name="status_bar_toggle_flight_mode">Samolot</string>
+	<string name="status_bar_toggle_gps">GPS</string>
+	<string name="status_bar_toggle_lock">Blokada</string>
+	<string name="status_bar_toggle_mute">Cichy</string>
+	<string name="status_bar_toggle_network_type">Tryb sieci</string>
+	<string name="status_bar_toggle_power_mode">Wydajny</string>
+	<string name="status_bar_toggle_privacy_mode">Prywatny</string>
+	<string name="status_bar_toggle_quiet_mode">Godziny</string>
+	<string name="status_bar_toggle_reboot">Restart</string>
+	<string name="status_bar_toggle_rotate">Rotacja</string>
+	<string name="status_bar_toggle_screen_button">Przyciski</string>
+	<string name="status_bar_toggle_screenshot">Zrzut</string>
+	<string name="status_bar_toggle_shutdown">Wyłącz</string>
+	<string name="status_bar_toggle_sync">Synchr.</string>
+	<string name="status_bar_toggle_sync_auto">Auto synchr.</string>
+	<string name="status_bar_toggle_sync_manual">Synchr.</string>
+	<string name="status_bar_toggle_syncing">Synchronizacja</string>
+	<string name="status_bar_toggle_torch">Latarka</string>
+	<string name="status_bar_toggle_vibrate">Wibracje</string>
+	<string name="status_bar_toggle_wifi">Wi-Fi</string>
+	<string name="status_bar_toggle_wifi_ap">Wi-Fi</string>
+</resources>

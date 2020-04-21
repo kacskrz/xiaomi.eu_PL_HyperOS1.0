@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Wibruj przy nadchodzącym połączeniu</item>
+        <item>Wibruj po otrzymaniu SMS</item>
+        <item>Wibruj podczas alarmu</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Zrób zdjęcie</item>
+        <item>Znajdź telefon</item>
+        <item>Znajdź Mi-key</item>
+    </string-array>
+</resources>

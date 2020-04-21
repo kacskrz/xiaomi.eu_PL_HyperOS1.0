@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Nieprawidłowy kod PUK. Pozostało prób: %d</item>
+        <item quantity="one">Nieprawidłowy kod PUK. Pozostało prób: %d</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Nieprawidłowy kod PIN. Pozostało prób: %d</item>
+        <item quantity="one">Nieprawidłowy kod PIN. Pozostało prób: %d</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Spróbuj ponownie za %d sekund</item>
+        <item quantity="one">Spróbuj ponownie za %d sekundę</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Spróbuj ponownie za %d minut</item>
+        <item quantity="one">Spróbuj ponownie za %d minutę</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d nowych powiadomień</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+        <item quantity="other">Ok. %d min do naładowania​</item>
+        <item quantity="one">Ok. %d min do naładowania​</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+        <item quantity="other">Ok. %d godz. do naładowania</item>
+        <item quantity="one">Ok. %d godz. do naładowania</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_time__text">
+        <item quantity="other">Ok. %1$d godz. %2$d min do naładowania</item>
+        <item quantity="one">Ok. %1$d godz. %2$d min do naładowania</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Pozostało ok. %d min</item>
+        <item quantity="one">Pozostało ok. %d min</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Pozostało ok. %d godz.</item>
+        <item quantity="one">Pozostało ok. %d godz.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Pozostało ok. %1$d godz. %2$d min</item>
+        <item quantity="one">Pozostało ok. %1$d godz. %2$d min</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d godz. %2$d min</item>
+        <item quantity="one">%1$d godz. %2$d min</item>
+    </plurals>
+</resources>

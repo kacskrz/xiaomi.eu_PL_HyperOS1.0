@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+     <string-array name="pref_video_hfr_entries">
+         <item>720p, 120 kl/s</item>
+         <item>1080p, 120 kl/s</item>
+         <item>720p, 240 kl/s</item>
+         <item>1080p, 240 kl/s</item>
+     </string-array>
+</resources>

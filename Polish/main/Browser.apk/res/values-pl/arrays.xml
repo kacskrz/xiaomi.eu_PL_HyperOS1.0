@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+     </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Biały</item>
+        <item>Żółty</item>
+        <item>Szary</item>
+        <item>Brązowy</item>
+        <item>Zielony</item>
+        <item>Niebieski</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Domyślna strona startowa</item>
+        <item>Własne</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Tablet</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Najmniejszy</item>
+        <item>Mały</item>
+        <item>Normalny</item>
+        <item>Duży</item>
+        <item>Największy</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Komputer PC</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Strona wstecz/w przód</item>
+        <item>Zmień karty</item>
+        <item>Brak</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Kafelki</item>
+        <item>Pionowy</item>
+        <item>Poziomy</item>
+    </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Zawsze pytaj</item>
+        <item>Przywróć</item>
+        <item>Nie przywracaj</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Usuń</item>
+        <item>Nie, dziękuję</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Obserwuj</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Wiadomość z przeglądarki</item>
+        <item>Obserwuj Olimpiadę z Xiaomi</item>
+    </string-array>
+    <string-array name="suggestion_topic_tips">
+        <item>Watching Focus</item>
+        <item>Central Issue</item>
+    </string-array>
+    <string-array name="suggestion_weather_condition_message">
+        <item>Słonecznie</item>
+        <item>Pochmurnie</item>
+        <item>Pochmurnie</item>
+        <item>Przelotny deszcz</item>
+        <item>Burza z piorunami</item>
+        <item>Grad</item>
+        <item>Śnieg z deszczem</item>
+        <item>Słabe opady deszczu</item>
+        <item>Deszcz</item>
+        <item>Intensywne opady deszczu</item>
+        <item>Ulewa</item>
+        <item>Rzęsisty deszcz</item>
+        <item>Ekstremalna ulewa</item>
+        <item>Przelotny śnieg</item>
+        <item>Słabe opady śniegu</item>
+        <item>Śnieg</item>
+        <item>Duże opady śniegu</item>
+        <item>Zamieć śnieżna</item>
+        <item>Mgła</item>
+        <item>Marznący deszcz</item>
+        <item>Burza piaskowa</item>
+        <item>Słaby/przelotny deszcz</item>
+        <item>Przelotny/intensywny deszcz</item>
+        <item>Intensywny/rzęsisty deszcz</item>
+        <item>Ulewa</item>
+        <item>Ulewa</item>
+        <item>Słaby/przelotny śnieg</item>
+        <item>Przelotny/intensywny śnieg</item>
+        <item>Intensywny śnieg</item>
+        <item>Pływający pyłek</item>
+        <item>Przenoszenie piasku</item>
+        <item>Burza piaskowa</item>
+        <item>Gęsta mgła</item>
+        <item>Gęsta mgła</item>
+        <item>Mgła</item>
+        <item>Mgła</item>
+        <item>Gęsta mgła</item>
+        <item>Gęsta mgła</item>
+        <item>Gęsta mgła</item>
+        <item>Gęsta mgła</item>
+        <item>Brak</item>
+        <item>Deszcz</item>
+        <item>Śnieg</item>
+    </string-array>
+    <string-array name="pref_homepage_choices_with_simplehome">
+        <item>Domyślna strona startowa</item>
+        <item>Czysta strona startowa</item>
+        <item>Własne</item>
+    </string-array>
+    <string-array name="quick_link_tabs">
+        <item>Zakładki</item>
+        <item>Historia</item>
+    </string-array>
+</resources>

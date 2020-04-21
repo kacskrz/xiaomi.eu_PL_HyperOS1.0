@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Dane do faktury: *** Inc.</item>
+        <item>Adres: Ulica, Dzielnica, Miasto, Kraj, Region, Kod pocztowy</item>
+        <item>Proszę zostawić paczkę pod drzwiami. Dziękuję!</item>
+        <item>"Poczekaj minutkę, zaraz wracam."</item>
+        <item>"Jestem na spotkaniu, wyślij SMS-a."</item>
+        <item>"Nie mogę teraz rozmawiać. Zadzwonię do Ciebie później."</item>
+        <item>Dzięki!</item>
+    </string-array>
+</resources>

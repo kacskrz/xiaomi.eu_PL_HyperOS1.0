@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Ekran bezprzewodowy</string>
+  <string name="cancel">Anuluj</string>
+  <string name="enable_wifi_btn">Włącz</string>
+  <string name="enable_wifi_message">Aby wyszukać urządzenia w pobliżu włącz Wi-Fi</string>
+  <string name="enable_wifi_title">Włącz Wi-Fi</string>
+  <string name="media_feature_projection">Prześlij ekran</string>
+  <string name="media_route_controller_disconnect">Rozłącz</string>
+  <string name="media_status_error">Błąd</string>
+  <string name="media_status_started">Połączony</string>
+  <string name="media_status_starting">Łączenie…</string>
+  <string name="media_status_stopped">Zatrzymany</string>
+  <string name="media_status_stopping">Zatrzymywanie…</string>
+  <string name="noti_projection_status_desc_on">Przekazywanie ekranu jest włączone</string>
+  <string name="noti_projection_status_title">Ekran bezprzewodowy</string>
+  <string name="prjection_title">Ekran bezprzewodowy</string>
+  <string name="search_for_devices">Odśwież</string>
+  <string name="wifi_display_autonomous_go">Włącz Autonomous GO</string>
+  <string name="wifi_display_certification_heading">Certyfikacja</string>
+  <string name="wifi_display_details">Ustawienia wyświetlacza</string>
+  <string name="wifi_display_enable_menu_item">Włącz wyświetlacz bezprzewodowy</string>
+  <string name="wifi_display_listen_channel">Kanał nasłuchiwania</string>
+  <string name="wifi_display_listen_mode">Włącz tryb nasłuchu</string>
+  <string name="wifi_display_no_devices_found">Brak urządzeń w pobliżu.</string>
+  <string name="wifi_display_operating_channel">Kanał</string>
+  <string name="wifi_display_options_done">Gotowe</string>
+  <string name="wifi_display_options_forget">Zapomnij</string>
+  <string name="wifi_display_options_name">Nazwa</string>
+  <string name="wifi_display_options_title">Opcje wyświetlacza bezprzewodowego</string>
+  <string name="wifi_display_pause">Zatrzymaj</string>
+  <string name="wifi_display_resume">Wznów</string>
+  <string name="wifi_display_session_info">Informacja o sesji</string>
+  <string name="wifi_display_settings_title">Prześlij ekran</string>
+  <string name="wifi_display_status_connected">Połączony</string>
+  <string name="wifi_display_status_connecting">Łączenie</string>
+  <string name="wifi_display_status_in_use">W użyciu</string>
+  <string name="wifi_display_status_not_available">Niedostępne</string>
+  <string name="wifi_display_wps_config">Konfiguracja WPS</string>
+</resources>

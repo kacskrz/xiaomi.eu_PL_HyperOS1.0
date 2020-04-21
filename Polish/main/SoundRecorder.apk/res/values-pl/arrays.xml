@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Muzyka</item>
+        <item>Ludzki głos</item>
+    </string-array>
+     <string-array name="interview_record_scenes_entries">
+        <item>Muzyka</item>
+        <item>Ludzki głos</item>
+        <item>Wywiad</item>
+     </string-array>
+     <string-array name="hd_record_scenes_entries">
+        <item>Muzyka</item>
+        <item>Ludzki głos</item>
+        <item>Wywiad</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Nagrywaj i słuchaj nagrań w lepszej jakości</item>
+        <item>Im mikrofon znajduje się bliżej źródła dźwięku tym nagrywanie ma lepszą jakość</item>
+        <item>Umieść telefon pomiędzy dwoma osobami, aby nagrywać w najlepszej jakości</item>
+        <item>Maksymalna, efektywna odległość od mikrofonu to 10 metrów</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Nagrywaj i słuchaj nagrań stereo w słuchawkach</item>
+        <item>Im mikrofon znajduje się bliżej źródła dźwięku tym nagrywanie ma lepszą jakość</item>
+        <item>Umieść telefon pomiędzy dwoma osobami, aby nagrywać w najlepszej jakości</item>
+        <item>Maksymalna, efektywna odległość od mikrofonu to 10 metrów</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>"Wysoka "</item>
+        <item>"Standardowa "</item>
+        <item>"Niska "</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192 kbit/s, ~90 MB/godz.</item>
+        <item>MP3, ~100 kbit/s, ~45 MB/godz.</item>
+        <item>MP3, ~75 kbit/s, ~32 MB/godz.</item>
+    </string-array>
+</resources>

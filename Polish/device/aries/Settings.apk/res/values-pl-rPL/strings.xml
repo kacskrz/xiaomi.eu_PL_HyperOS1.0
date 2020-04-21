@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="battery_saver_turn_on_automatically_pct">przy %1$d%% baterii</string>
+	<string name="bluetooth_enter_passkey_msg">Wpisz kod parowania i naciśnij Return lub Enter</string>
+	<string name="bluetooth_enter_pin_msg">Urządzenie</string>
+	<string name="dolby_bassboost_high">Silne</string>
+	<string name="dolby_bassboost_low">Miękkie</string>
+	<string name="dolby_bassboost_normal">Normalne</string>
+	<string name="dolby_bassboost_title">Bas:</string>
+	<string name="dolby_effects">Efekty przestrzenne</string>
+	<string name="dolby_eq_enter_alert_msg">Otworzyć Equalizer?</string>
+	<string name="dolby_eq_enter_alert_title">Przestrzenny EQ</string>
+	<string name="dolby_mode_movie">Film</string>
+	<string name="dolby_mode_music">Muzyka</string>
+	<string name="dolby_mode_off">Wyłączony</string>
+	<string name="dolby_movie_advance">Polepszanie filmów</string>
+	<string name="dolby_music_advance">Polepszanie muzyki</string>
+	<string name="dolby_roomsize_high">Na zewnątrz</string>
+	<string name="dolby_roomsize_low">Wewnątrz</string>
+	<string name="dolby_roomsize_normal">Normalnie</string>
+	<string name="dolby_roomsize_summary">Dźwięk przestrzenny dostępny podczas korzystania ze słuchawek</string>
+	<string name="dolby_roomsize_title">Przestrzenny:</string>
+	<string name="music_dolby_dialogue_enhancer">Wyraźne dialogi</string>
+	<string name="music_dolby_effects">Dolby</string>
+	<string name="music_dolby_eq_enter_alert_msg">Możesz używać korektora tylko z Dolby. Włączyć?</string>
+	<string name="music_dolby_eq_enter_alert_title">Włącz Dolby</string>
+	<string name="music_dolby_ieq_flat">Płaski</string>
+	<string name="music_dolby_ieq_focused">Skupiony</string>
+	<string name="music_dolby_ieq_open">Otwarty</string>
+	<string name="music_dolby_ieq_rich">Bogaty</string>
+	<string name="music_dolby_mode_movie">Film</string>
+	<string name="music_dolby_mode_music">Muzyka</string>
+	<string name="music_dolby_mode_off">Wyłączone</string>
+	<string name="music_dolby_preset_select">Wybierz tryb korektora</string>
+	<string name="music_dolby_surround_virtualizer">Dźwięk przestrzenny</string>
+	<string name="music_dolby_volume_leveler">Poziom głośności</string>
+</resources>
