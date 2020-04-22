@@ -465,6 +465,7 @@ dla:
   <string name="exchange_name">Firma</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Rozwiń szczegóły odbiorcy</string>
+  <string name="expand_slide">Rozwiń panel boczny</string>
   <string name="fail_get_email_message">Pobieranie wiadomości nieudane</string>
   <string name="failed">Nie udało się załadować obrazu</string>
   <string name="failed_parse_eml_file">Nie udało się otworzyć pliku EML, spróbuj ponownie.</string>
@@ -525,6 +526,7 @@ dla:
   <string name="gmail_server_authorization_deleted">Nie udało się uwierzytelnić konta. Spróbuj ponownie dodać to konto.</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Zaloguj się do Gmail</string>
+  <string name="go_to_mail_content">Wyświetl e-mail</string>
   <string name="have_auth_code">Mam kod</string>
   <string name="header_category_account">Konta</string>
   <string name="header_category_other">Opinia</string>
@@ -690,6 +692,7 @@ Gdzie:
   <string name="mibill_privacy_policy_description">Pozwalaj Portfelowi Mi na analizowanie i automatyczne zarządzanie rachunkami. Ta funkcja jest wyłączona domyślnie przy adresach e-mail związanych z pracą.</string>
   <string name="mibill_privacy_policy_link">Używając tej funkcji wyrażasz zgodę na nasze &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Warunki u&amp;#380;ytkowania&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Automatycznie zarządzaj rachunkami</string>
+  <string name="modify_contact_address">Zmodyfikuj kontaktowy adres e-mail</string>
   <string name="more_atts_remaining">Pozostało: %1$d</string>
   <string name="more_context">Więcej</string>
   <string name="move_to_selection_dialog_title">Przenieś do innego folderu</string>
@@ -1002,6 +1005,7 @@ Brak połączenia z siecią."</string>
   <string name="share_choose">Wybierz plik do udostępnienia</string>
   <string name="sharing">Udostępnij</string>
   <string name="shortcut_name_title">Nazwij skrót folderu</string>
+  <string name="show_contact_address">Wyświetl kontaktowy adres e-mail</string>
   <string name="show_elided">▶ Pokaż cytowany tekst</string>
   <string name="show_images">Pokaż obrazy</string>
   <string name="show_more_attachment">Więcej załączników</string>
