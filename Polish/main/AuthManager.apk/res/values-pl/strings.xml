@@ -247,7 +247,7 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="HIPS_Perm_show_when_locked">Na ekranie blokady</string>
   <string name="HIPS_Perm_show_when_locked_Desc">pokazywanie powiadomień na ekranie blokady</string>
   <string name="HIPS_Perm_use_sip">Usługi wideo</string>
-  <string name="HIPS_Perm_use_sip_Desc">Use Session Initiation Protocol to stream video</string>
+  <string name="HIPS_Perm_use_sip_Desc">Użyj protokołu SIP do przesłania wideo</string>
   <string name="HIPS_SecurityPrompt_Accept">Zezwól (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Zezwól</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Zezwól raz (%d)</string>
