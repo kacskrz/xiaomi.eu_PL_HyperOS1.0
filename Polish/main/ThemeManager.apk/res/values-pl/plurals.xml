@@ -92,4 +92,18 @@
         <item quantity="one">Aktualizowanie %1$d motywu</item>
         <item quantity="other">Aktualizowanie %1$d motywów</item>
     </plurals>
+    <plurals name="de_icon_count">
+        <item quantity="one">%1$d ikna</item>
+        <item quantity="other">%1$d ikon</item>
+        <item quantity="few">%1$d ikony</item>
+    </plurals>
+    <plurals name="icon_batch_has_update_text">
+        <item quantity="one">Dostępna jest aktualizacja %1$d ikony</item>
+        <item quantity="other">Dostępne są aktualizacje %1$d ikony</item>
+        <item quantity="few">Dostępne są aktualizacje %1$d ikon</item>
+      </plurals>
+      <plurals name="icon_batch_updating_text">
+        <item quantity="one">Aktualizowanie %1$d ikony…</item>
+        <item quantity="other">Aktualizowanie %1$d ikon…</item>
+        <item quantity="few">Aktualizowanie %1$d ikon…</item>     </plurals>
 </resources>
