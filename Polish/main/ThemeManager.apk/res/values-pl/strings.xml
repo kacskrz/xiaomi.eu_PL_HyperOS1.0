@@ -124,7 +124,7 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="component_title_video_wallpaper">Tapety z efektami specjalnymi</string>
   <string name="component_title_wallpaper">Tapety</string>
   <string name="community_cta_dialog_cancel">Anuluj</string>
-  <string name="community_cta_dialog_des">Ten motyw zawiera skrót zegara wyświetlającego ID Twojego konta Xiaomi i status w Mi Community. Możesz wyłączyć tę funkcję zmieniając motyw lub usuwając widżet zegara.</string>
+  <string name="community_cta_dialog_des">Ten motyw zawiera skrót zegara wyświetlający ID Twojego konta Xiaomi i status w Mi Community. Możesz wyłączyć tę funkcję, zmieniając motyw lub usuwając widżet zegara.</string>
   <string name="community_cta_dialog_ok">Rozumiem</string>
   <string name="community_cta_dialog_title">Skrót zegara</string>
   <string name="concentration_old_period">Więcej</string>
@@ -285,7 +285,8 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="goto_wechat">Skopiowano konto WeChat \"%1$s\" do schowka. Otworzyć WeChat teraz?</string>
   <string name="has_mamual_hide_aod">Ten element jest teraz ukryty</string>
   <string name="has_mamual_hide_font">Ukryte czcionki</string>
-  <string name="has_mamual_hide_icons">Ukryte ikony</string><string name="has_mamual_hide_theme">Ukryte</string>
+  <string name="has_mamual_hide_icons">Ukryte ikony</string>
+  <string name="has_mamual_hide_theme">Ukryte</string>
   <string name="has_mamual_hide_wallpaper">Ukryte tapety</string>
   <string name="hide_free">Ukryj darmowe %1$s</string>
   <string name="hide_free_aod">Nie pokazuj darmowych motywów</string>
@@ -868,7 +869,8 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="transparency_pref_summary">Wybierz, jak bardzo tapeta ma być przezroczysta</string>
   <string name="transparency_pref_title">Poziom przezroczystości</string>
   <string name="transparent_wallpaper">Przezroczysta tapeta</string>
-  <string name="transparent_wallpaper_apply_success">"Pomyślnie zastosowano tapetę. Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w fazie testów."</string>
+  <string name="transparent_wallpaper_apply_success">"Pomyślnie zastosowano tapetę.
+Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w fazie testów."</string>
   <string name="transparent_wallpaper_auto_start_pref_summary">Ustaw przezroczystą tapetę po restarcie urządzenia</string>
   <string name="transparent_wallpaper_auto_start_pref_title">Autostart</string>
   <string name="transparent_wallpaper_disable">Wył.</string>
@@ -901,7 +903,7 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="update_btn">UPDATE NOW</string>
   <string name="update_check">Sprawdź aktualizacje</string>
   <string name="update_checking">Sprawdzanie aktualizacji…</string>
-  <string name="update_community_tip">Zaktualizuj Mi Community aby skorzystać z tej funkcji</string>
+  <string name="update_community_tip">Zaktualizuj Mi Community, aby skorzystać z tej funkcji</string>
   <string name="update_downloading">Pobieranie aktualizacji…</string>
   <string name="update_fail">"Couldn't get info. Try again."</string>
   <string name="update_flag">Aktualizacja</string>
