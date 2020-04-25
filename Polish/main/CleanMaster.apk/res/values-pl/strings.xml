@@ -399,7 +399,7 @@
   <string name="last_check_canceled">Ostatni skan został anulowany</string>
   <string name="load_only_under_wlan">Wczytuj wiadomości przy Wi-Fi</string>
   <string name="location_not_found">"Nie można znaleźć pliku"</string>
-  <string name="login_immediately">Wpisz się</string>
+  <string name="login_immediately">Zaloguj się</string>
   <string name="long_click_dialog_summary">Dotknij długo, aby dodać do wyjątków</string>
   <string name="long_click_dialog_title">Informacja</string>
   <string name="low_memory_clean_dialog_msg">Zwolnij co najmniej 100 MB plików</string>
@@ -568,7 +568,7 @@
   <string name="tips_low_storage_dialog_title">Wyczerpuje się miejsce</string>
   <string name="tips_of_app_manage">Odinstaluj rzadko używane aplikacje i zwolnij miejsce w pamięci</string>
   <string name="tips_of_auto_launch_manage">Dodaj aplikacje (np. komunikatory) do autostartu</string>
-  <string name="tips_of_cloud_service">Wpisz się na konto Xiaomi, aby korzystać z usług sieciowych</string>
+  <string name="tips_of_cloud_service">Zaloguj się na konto Xiaomi, aby korzystać z usług sieciowych</string>
   <string name="tips_of_connect">Połącz z siecią, aby korzystać w pełni ze wszystkich funkcji</string>
   <string name="tips_of_garbage_cloud_scan">Znajdź śmieci ze skanowaniem w chmurze</string>
   <string name="tips_of_garbage_data_set">Zaktualizuj dane modułu czyszczenia</string>

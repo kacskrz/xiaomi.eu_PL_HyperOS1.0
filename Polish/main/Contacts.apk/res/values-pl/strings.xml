@@ -617,7 +617,7 @@ Aby zapobiec częstym zapytaniom, aktualizujemy stan konta raz dziennie."</strin
   <string name="local_profile_title">Mój profil</string>
   <string name="local_search_label">Wszystkie kontakty</string>
   <string name="locale_change_in_progress">Lista kontaktów jest aktualizowana, aby odzwierciedlić zmianę języka.</string>
-  <string name="login_ok">Wpisz się</string>
+  <string name="login_ok">Zaloguj się</string>
   <string name="low_memory_toast">"Nie można użyć tej funkcji ze względu na małą ilość pamięci."</string>
   <string name="lunarBirthdayLabelsGroup">Urodziny księżycowe</string>
   <string name="lunar_calendar">Księżycowy</string>
@@ -702,7 +702,7 @@ Aby zapobiec częstym zapytaniom, aktualizujemy stan konta raz dziennie."</strin
   <string name="miprofile_contact_verifying">Sprawdzanie</string>
   <string name="miprofile_edit_title">Edytuj profil</string>
   <string name="miprofile_error_accept_self">"Nie można wymienić się ze sobą wizytówką"</string>
-  <string name="miprofile_error_no_miaccount">Wpisz się na konto Xiaomi</string>
+  <string name="miprofile_error_no_miaccount">Zaloguj się na konto Xiaomi</string>
   <string name="miprofile_error_not_opened">Wyłącz wizytówki kontaktów</string>
   <string name="miprofile_error_not_set">"Wizytówka kontaktu nie została zsynchronizowana z serwerem"</string>
   <string name="miprofile_error_unknown">Nieznany błąd</string>

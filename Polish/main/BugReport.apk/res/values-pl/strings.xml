@@ -376,7 +376,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_error_invalid_phone_num">Numer telefonu jest nieprawidłowy</string>
   <string name="passport_error_login">Nie udało się zalogować</string>
   <string name="passport_error_network">Nie można połączyć z siecią</string>
-  <string name="passport_error_no_password_user">"Nie ustaliłeś jeszcze hasła. Wpisz się z SMS."</string>
+  <string name="passport_error_no_password_user">"Nie ustaliłeś jeszcze hasła. Zaloguj się za pomocą SMS."</string>
   <string name="passport_error_no_sms_service">Nie można wysłać SMS. Sieć jest niedostępna.</string>
   <string name="passport_error_phone_error">Numer jest nieprawidłowy</string>
   <string name="passport_error_server">Błąd serwera</string>
@@ -411,15 +411,15 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_international_register_by_email">Załóż konto za pomocą adresu e-mail</string> 
   <string name="passport_license_host_unreachable">"Nie można połączyć się z siecią. Możesz zobaczyć tę stronę tutaj %s."</string>
   <string name="passport_loading">Wczytywanie…</string>
-  <string name="passport_login">Wpisz się</string>
-  <string name="passport_login_failed">"Nie można się wpisać"</string>
+  <string name="passport_login">Zaloguj się</string>
+  <string name="passport_login_failed">"Nie można się zalogować"</string>
   <string name="passport_login_instead_reg">Użyj tego numeru</string>
   <string name="passport_login_instead_reg_with_email">Użyj tego adresu e-mail</string>
-  <string name="passport_login_other_account">Wpisz się z innego konta</string>
+  <string name="passport_login_other_account">Zaloguj się z innego konta</string>
   <string name="passport_login_prompt">Jedno konto Xiaomi. Wszystkie usługi razem.</string>
-  <string name="passport_login_title">Wpisz się na konto Xiaomi</string>
+  <string name="passport_login_title">Zaloguj się na konto Xiaomi</string>
   <string name="passport_login_using_other_ways">Inne sposoby logowania</string>
-  <string name="passport_login_with_email_or_id">"Alternatywna metoda: wpisz się używając adresu e-mail"</string>
+  <string name="passport_login_with_email_or_id">"Alternatywna metoda: zaloguj się, używając adresu e-mail"</string>
   <string name="passport_message_dialog_title">Weryfikacja kodu</string>
   <string name="passport_miui_provision_find_status_text">"To urządzenie jest powiązane z kontem Xiaomi (%1$s). Aby przejść dalej wpisz hasło.
 
@@ -440,7 +440,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_quick_login_dialog_title">Zweryfikuj hasło</string>
   <string name="passport_quick_login_step2_title">Weryfikacja dwuetapowa</string>
   <string name="passport_quick_login_title">Wprowadź swoje hasło</string>
-  <string name="passport_quick_register">Wpisz się</string>
+  <string name="passport_quick_register">Zaloguj się</string>
   <string name="passport_quick_register_notice">Nie masz konta Xiaomi? Utwórz je za darmo!</string>
   <string name="passport_re_get_verify_code">Uzyskaj kod ponownie</string>
   <string name="passport_re_register">Zarejestruj się ponownie</string>
@@ -453,7 +453,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_reg_success">Konto zostało utworzone</string>
   <string name="passport_reg_success_summary">Adres %1$s został powiązany z kontem.</string>
   <string name="passport_reg_type_email">Adresy E-mail</string>
-  <string name="passport_reg_type_other_ways">"Alternatywna metoda: wpisz się używając adresu e-mail lub innego numeru telefonu. Dotknij ten tekst"</string>
+  <string name="passport_reg_type_other_ways">"Alternatywna metoda: zaloguj się, używając adresu e-mail lub innego numeru telefonu. Dotknij ten tekst"</string>
   <string name="passport_reg_type_other_ways_title">Inne metody</string>
   <string name="passport_reg_using_other_phone">Utwórz konto podając numer telefonu</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Utwórz nowe konto korzystając z "</string>

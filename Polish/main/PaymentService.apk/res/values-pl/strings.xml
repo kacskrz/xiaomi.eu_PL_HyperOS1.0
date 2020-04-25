@@ -81,20 +81,20 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_input_vcode_hint">Wpisz kod weryfikacyjny</string>
   <string name="passport_license_host_unreachable">"Nie można połączyć się z siecią. Możesz zobaczy tę stronę tutaj %s."</string>
   <string name="passport_loading">Wczytywanie…</string>
-  <string name="passport_login">Wpisz się</string>
+  <string name="passport_login">Zaloguj się</string>
   <string name="passport_login_check_find_device">Sprawdzanie statusu zabezpieczeń urządzenia…</string>
   <string name="passport_login_check_find_device_failed_message">Sprawdź połączenie z siecią i spróbuj ponownie za kilka minut</string>
   <string name="passport_login_check_find_device_failed_title">"Stan lokalizacji urządzenia nieznany"</string>
-  <string name="passport_login_failed">"Wpisanie się nie było możliwe"</string>
-  <string name="passport_login_find_device_bind">To urządzenie jest już powiązane z kontem Xiaomi (%s), wpisz hasło aby zweryfikować urządzenie.</string>
+  <string name="passport_login_failed">"Zalogowanie się nie było możliwe"</string>
+  <string name="passport_login_find_device_bind">To urządzenie jest już powiązane z kontem Xiaomi (%s), wpisz hasło, aby zweryfikować urządzenie.</string>
   <string name="passport_login_instead_reg">Użyj tego numeru</string>
   <string name="passport_login_instead_reg_with_email">Użyj tego adresu e-mail</string>
-  <string name="passport_login_notice">Wpisywanie się…</string>
+  <string name="passport_login_notice">Logowanie się…</string>
   <string name="passport_login_prompt">Jedno konto Xiaomi. Wszystkie usługi razem.</string>
-  <string name="passport_login_short">Wpisz się</string>
-  <string name="passport_login_title">Wpisz się na konto Xiaomi</string>
+  <string name="passport_login_short">Zaloguj się</string>
+  <string name="passport_login_title">Zaloguj się na konto Xiaomi</string>
   <string name="passport_login_using_other_ways">Inne sposoby logowania</string>
-  <string name="passport_login_with_email_or_id">"Alternatywna metoda: wpisz się używając adresu e-mail"</string>
+  <string name="passport_login_with_email_or_id">"Alternatywna metoda: zaloguj się, używając adresu e-mail"</string>
   <string name="passport_message_dialog_title">Weryfikacja kodu</string>
   <string name="passport_miui_provision_find_status_text">"To urządzenie jest powiązane z kontem Xiaomi (%1$s). Aby przejść dalej wpisz hasło.
 
@@ -122,7 +122,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_reg_success">Konto zostało utworzone</string>
   <string name="passport_reg_success_summary">Adres %1$s został powiązany z kontem.</string>
   <string name="passport_reg_type_email">Utwórz konto przez e-mail</string>
-  <string name="passport_reg_type_other_ways">"Alternatywna metoda: wpisz się używając adresu e-mail lub innego numeru telefonu. Dotknij ten tekst"</string>
+  <string name="passport_reg_type_other_ways">"Alternatywna metoda: zaloguj się, używając adresu e-mail lub innego numeru telefonu. Dotknij ten tekst"</string>
   <string name="passport_reg_type_other_ways_title">Inne metody</string>
   <string name="passport_reg_using_other_phone">Utwórz konto podając numer telefonu</string>
   <string name="passport_reg_using_other_phone_number_prompt">Register using other phone number</string>

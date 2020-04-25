@@ -31,7 +31,7 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="accessibiliy_description_content_search">Szukaj</string>
   <string name="accessibiliy_description_content_share">Wyślij</string>
   <string name="account_info">Moje konto</string>
-  <string name="account_name_not_login">Wpisz się</string>
+  <string name="account_name_not_login">Zaloguj się</string>
   <string name="account_unactivated">Konto nie jest aktywne.</string>
   <string name="ad_app_download_start">Rozpoczynanie pobierania…</string>
   <string name="ad_app_is_downloading">Pobieranie…</string>
@@ -466,9 +466,9 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="reload">Spróbuj ponownie</string>
   <string name="resource_account_abnormal_state">Błąd konta: Spróbuj ponownie później.</string>
   <string name="resource_account_fail_to_add">"Nie udało się dodać konta."</string>
-  <string name="resource_account_login">Wpisz się</string>
-  <string name="resource_account_login_before_action">Należy najpierw wpisać się na konto Xiaomi.</string>
-  <string name="resource_account_login_title">Wpisz się</string>
+  <string name="resource_account_login">Zaloguj się</string>
+  <string name="resource_account_login_before_action">Należy najpierw zalogować się na konto Xiaomi.</string>
+  <string name="resource_account_login_title">Zaloguj się</string>
   <string name="resource_account_switch">Przełącz</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Przeglądaj zasoby</string>

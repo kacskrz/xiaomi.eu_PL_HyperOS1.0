@@ -81,7 +81,7 @@
   <string name="adb_install_open_error">"Nie można zezwolić. Sprawdź połączenie z siecią."</string>
   <string name="adb_install_reject_notiy">"Nie zezwolono na instalację %s przez USB"</string>
   <string name="adb_install_reject_notiy_desc">Możesz zezwolić na instalację przez USB w Opcjach programistycznych</string>
-  <string name="adb_login_xiaomi_account">Wpisz się najpierw na konto Xiaomi</string>
+  <string name="adb_login_xiaomi_account">Zaloguj się najpierw na konto Xiaomi</string>
   <string name="add_done">Dodane</string>
   <string name="add_game">Dodaj grę</string>
   <string name="add_game_notification_summary">Włącz Game Turbo</string>
@@ -1550,7 +1550,7 @@ Operator może naliczyć dodatkowe opłaty, jeśli będziesz korzystać z danych
   <string name="lockscreen_access_pattern_start">Wzór rozpoczęty</string>
   <string name="lockscreen_glogin_checking_password">Sprawdzanie…</string>
   <string name="lockscreen_glogin_password_hint">Hasło</string>
-  <string name="lockscreen_glogin_submit_button">Wpisz się</string>
+  <string name="lockscreen_glogin_submit_button">Zaloguj się</string>
   <string name="loding">Wczytywanie</string>
   <string name="log_count">(%d)</string>
   <string name="long_click_dialog_summary">Przytrzymaj długo palcem na wyniku, aby dodać go do wyjątków</string>
@@ -2998,7 +2998,7 @@ Jeśli nie modyfikowałeś MIUI w żaden sposób, upewnij się, że wiesz skąd 
   <string name="title_block_calls_from_strangers">Nieodebrane ważne połączenia?</string>
   <string name="title_chain_start">Uruchamianie łańcuchowe</string>
   <string name="title_cleaner_cloudscan">Użyj modułu Czyszczenie</string>
-  <string name="title_cloud_account">Wpisz się na konto Xiaomi</string>
+  <string name="title_cloud_account">Zaloguj się na konto Xiaomi</string>
   <string name="title_cloud_service">Chmura Xiaomi jest wyłączona</string>
   <string name="title_cloud_space_almost_full">Kończy się miejsce w Chmurze Xiaomi.</string>
   <string name="title_cloud_space_full">Brak miejsca w Chmurze Xiaomi. Nie można zsynchronizować zdjęć.</string>

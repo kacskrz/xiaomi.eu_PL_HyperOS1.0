@@ -297,7 +297,7 @@
   <string name="dialog_button_create_playlist">Utwórz playlistę</string>
   <string name="dialog_button_editor_choice">Wybierz</string>
   <string name="dialog_button_find_music">Odkryj nową muzykę</string>
-  <string name="dialog_button_login">Wpisz się na konto</string>
+  <string name="dialog_button_login">Zaloguj się na konto</string>
   <string name="dialog_button_scan_tracks">Wyszukaj muzykę na tym urządzeniu</string>
   <string name="dialog_cannot_resume">Pobieranie przerwane. Może zostać wznowione.</string>
   <string name="dialog_confirm_delete_checkbox_message">Usuń pobrane pliki z urządzenia</string>
@@ -365,7 +365,7 @@
   <string name="download_auto_when_all_network">Pobieraj utwory przez sieć mobilną i Wi-Fi</string>
   <string name="download_auto_when_free_network">Tylko z Wi-Fi</string>
   <string name="download_auto_when_free_network_summary">Pobieraj ulubione utwory tylko z Wi-Fi</string>
-  <string name="download_cloud_error_not_auth">Wpisz się na konto Xiaomi i spróbuj ponownie</string>
+  <string name="download_cloud_error_not_auth">Zaloguj się na konto Xiaomi i spróbuj ponownie</string>
   <string name="download_cloud_error_retryable">Błąd serwera. Spróbuj ponownie</string>
   <string name="download_cloud_error_unknow">"Nie można pobrać plików z Chmury"</string>
   <string name="download_complete">Download complete</string>
@@ -681,7 +681,7 @@
   <string name="miuishare_account_activate_ok">Aktywuj</string>
   <string name="miuishare_account_login_cancel">Anuluj</string>
   <string name="miuishare_account_login_confirmation">Signing in required</string>
-  <string name="miuishare_account_login_ok">Wpisz się</string>
+  <string name="miuishare_account_login_ok">Zaloguj się</string>
   <string name="miuishare_account_need_activate">Weibo share requires your Weibo account is binded to Xiaomi account, which is not activited currently. Activate your account?</string>
   <string name="miuishare_account_need_login">Weibo share requires your Weibo account is binded to Xiaomi account, which is signed in currently. Sign in to share now?</string>
   <string name="miuishare_app_name">MiuiShare</string>

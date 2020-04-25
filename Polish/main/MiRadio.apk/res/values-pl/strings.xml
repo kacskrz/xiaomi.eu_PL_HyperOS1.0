@@ -280,7 +280,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="set">Set</string>
   <string name="set_success">Pomyślnie ustawiono</string>
   <string name="sms_send_success">Wysłano</string>
-  <string name="sns_access_token_expired_warning">Kod stracił ważność. Wpisz się ponownie by dodać konto.</string>
+  <string name="sns_access_token_expired_warning">Kod stracił ważność. Zaloguj się ponownie, aby dodać konto.</string>
   <string name="sns_bind_limit">Zbyt dużo prób. Wypróbuj inne opcje logowania.</string>
   <string name="sns_sign_in">Inne opcje logowania</string>
   <string name="station_check_favorite">Dodaj do ulubionych</string>

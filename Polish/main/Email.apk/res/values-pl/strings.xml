@@ -1056,7 +1056,7 @@ Brak połączenia z siecią."</string>
   <string name="to_heading">"Do: "</string>
   <string name="toast_bar_fail_synchronization">"Nie można uzyskać dostępu do serwera. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
   <string name="toast_bar_insufficient_memory_space">"Brak miejsca na urządzeniu"</string>
-  <string name="toast_bar_invalid_account">Sesja wygasła. Wpisz się ponownie.</string>
+  <string name="toast_bar_invalid_account">Sesja wygasła. Zaloguj się ponownie.</string>
   <string name="toast_bar_no_connection_network">"Brak połączenia z siecią"</string>
   <string name="toast_bar_open_gmail_synchronization">"Nie można połączyć z Gmail. Sprawdź ustawienia sieci."</string>
   <string name="toast_bar_send_fail_remind">"Nie można wysłać wiadomości. Zapisano do katalogu \"Do wysłania\"."</string>

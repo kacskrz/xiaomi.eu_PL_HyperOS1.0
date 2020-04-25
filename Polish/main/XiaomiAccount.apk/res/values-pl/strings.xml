@@ -427,19 +427,19 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="passport_license_info_collapse">Zwiń</string>
   <string name="passport_license_info_open">Szczegóły</string>
   <string name="passport_loading">Wczytywanie…</string>
-  <string name="passport_login">Wpisz się</string>
+  <string name="passport_login">Zaloguj się</string>
   <string name="passport_login_failed">"Nie można się zalogować"</string>
   <string name="passport_login_instead_reg">Użyj tego numeru</string>
   <string name="passport_login_instead_reg_with_email">Użyj tego adresu e-mail</string>
-  <string name="passport_login_other_account">Wpisz się z innego konta</string>
+  <string name="passport_login_other_account">Zaloguj się z innego konta</string>
   <string name="passport_login_prompt">Wszystkie usługi. Jedno konto Xiaomi.</string>
   <string name="passport_login_recycle_account_no">Nie</string>
   <string name="passport_login_recycle_account_yes">Tak</string>
-  <string name="passport_login_title">Wpisz się na konto Xiaomi</string>
+  <string name="passport_login_title">Zaloguj się na konto Xiaomi</string>
   <string name="passport_login_using_other_ways">Inne sposoby logowania</string>
-  <string name="passport_login_with_email_or_id">"Alternatywna metoda: wpisz się używając adresu e-mail"</string>
+  <string name="passport_login_with_email_or_id">"Alternatywna metoda: zaloguj się, używając adresu e-mail"</string>
   <string name="passport_message_dialog_title">Weryfikacja kodu</string>
-  <string name="passport_miui_provision_find_status_text">"To urządzenie jest powiązane z kontem Xiaomi (%1$s). Aby przejść dalej wpisz hasło.
+  <string name="passport_miui_provision_find_status_text">"To urządzenie jest powiązane z kontem Xiaomi (%1$s). Aby przejść dalej, wpisz hasło.
 
   (Kod odblokowania: %2$s)"</string>
   <string name="passport_new_user_register">Załóż konto</string>
@@ -461,7 +461,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="passport_quick_login_dialog_title">Zweryfikuj hasło</string>
   <string name="passport_quick_login_step2_title">Weryfikacja dwuetapowa</string>
   <string name="passport_quick_login_title">Wprowadź swoje hasło</string>
-  <string name="passport_quick_register">Wpisz się</string>
+  <string name="passport_quick_register">Zaloguj się</string>
   <string name="passport_quick_register_notice">Nie masz konta Xiaomi? Utwórz je za darmo!</string>
   <string name="passport_re_get_verify_code">Uzyskaj kod ponownie</string>
   <string name="passport_re_register">Zarejestruj się ponownie</string>
@@ -477,7 +477,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="passport_reg_success">Konto zostało utworzone</string>
   <string name="passport_reg_success_summary">Adres %1$s został powiązany z kontem.</string>
   <string name="passport_reg_type_email">Adresy E-mail</string>
-  <string name="passport_reg_type_other_ways">"Alternatywna metoda: wpisz się używając adresu e-mail lub innego numeru telefonu. Dotknij ten tekst"</string>
+  <string name="passport_reg_type_other_ways">"Alternatywna metoda: zaloguj się, używając adresu e-mail lub innego numeru telefonu. Dotknij ten tekst"</string>
   <string name="passport_reg_type_other_ways_title">Inne metody</string>
   <string name="passport_reg_using_other_phone">Utwórz konto podając numer telefonu</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Utwórz nowe konto korzystając z "</string>
@@ -625,7 +625,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="sim_changed_notification_title">Zmieniłeś nr telefonu?</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Wysłano</string>
-  <string name="sns_access_token_expired_warning">Kod stracił ważność. Wpisz się ponownie by dodać konto.</string>
+  <string name="sns_access_token_expired_warning">Kod stracił ważność. Zaloguj się ponownie by dodać konto.</string>
   <string name="system_ad">Reklamy w aplikacjach systemu</string>
   <string name="system_ad_list">Lista aplikacji</string>
   <string name="system_ad_summary">Xiaomi pokazuje reklamy w swoich aplikacjach (ponoć w celu dalszego rozwijania swoich produktów...). Na xiaomi.eu reklamy te są wyłączone, opcja ta nie ma więc żadnego zastosowania.</string>

@@ -303,7 +303,7 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Skopiować wiadomości z %1$s do %2$s?</string>
   <string name="found_old_messages_title">Skopiować wiadomości z innych kart SIM?</string>
-  <string name="found_wild_messages_guide_cloud_desc">Aby zsynchronizować wiadomości z Chmurą wpisz się na swoje konto Xiaomi i włącz synchronizację SMS.</string>
+  <string name="found_wild_messages_guide_cloud_desc">Aby zsynchronizować wiadomości z Chmurą, zaloguj się na swoje konto Xiaomi i włącz synchronizację SMS.</string>
   <string name="found_wild_messages_guide_settings_desc">Włącz synchronizację wiadomości z Chmurą w ustawieniach SMS.</string>
   <string name="found_wild_messages_guide_sync_not_started">Bez synchronizacji</string>
   <string name="found_wild_messages_title">Numery do synchronizacji SMS</string>

@@ -220,10 +220,10 @@ W przypadku zmiany kart SIM zostanie wysłany SMS w celu reaktywacji usługi."</
   <string name="micloud_buy_member">Więcej miejsca</string>
   <string name="micloud_buy_member_safe">Uzyskaj więcej miejsca w Chmurze</string>
   <string name="micloud_check_sim_notify_text">"Karta SIM została zmieniona. 
-Wpisz się ponownie na konto Xiaomi by aktywować usługi w chmurze"</string>
+Zaloguj się ponownie na konto Xiaomi, aby aktywować usługi w chmurze"</string>
   <string name="micloud_check_sim_notify_title">Aktywuj ponownie Chmurę</string>
   <string name="micloud_check_sim_title">"Karta SIM została zmieniona. 
-Wpisz się ponownie na konto Xiaomi by aktywować usługi w chmurze"</string>
+Zaloguj się ponownie na konto Xiaomi, aby aktywować usługi w chmurze"</string>
   <string name="micloud_confusion_account_hint">"Zmiany wprowadzone na tym urządzeniu zostaną zsynchronizowane ze wszystkimi urządzeniami powiązanymi z kontem. W celu ochrony danych konta Xiaomi zalecamy wyłączenie synchronizacji z urządzeń, z których nie korzystasz."</string>
   <string name="micloud_confusion_account_name">"Konto Xiaomi: "</string>
   <string name="micloud_confusion_account_notify_text">Twoje konto jest w tej chwili modyfikowane przez inne urządzenie. Zweryfikuj konto teraz.</string>
@@ -235,7 +235,7 @@ Wpisz się ponownie na konto Xiaomi by aktywować usługi w chmurze"</string>
   <string name="micloud_confusion_alert_positive">Szczegóły</string>
   <string name="micloud_confusion_alert_title">Inne urządzenie wprowadza zmiany w koncie</string>
   <string name="micloud_confusion_cancel">Anuluj</string>
-  <string name="micloud_confusion_check_account_title">Wpisz się ponownie na konto Xiaomi aby włączyć Chmurę</string>
+  <string name="micloud_confusion_check_account_title">Zaloguj się ponownie na konto Xiaomi, aby włączyć Chmurę</string>
   <string name="micloud_confusion_entrance_hint">"Nie wpisuj się na konto Xiaomi na publicznie dostępnych urządzeniach"</string>
   <string name="micloud_confusion_entrance_notify_text">Dotknij, aby pokazać szczegóły.</string>
   <string name="micloud_confusion_entrance_notify_title">Inne urządzenie wprowadza zmiany w koncie</string>
@@ -252,7 +252,7 @@ Wpisz się ponownie na konto Xiaomi by aktywować usługi w chmurze"</string>
   <string name="micloud_confusion_setting_question">Wyłącz synchronizację innych urządzeń powiązanych z kontem.</string>
   <string name="micloud_confusion_setting_title">Zbyt dużo urządzeń</string>
   <string name="micloud_confusion_toast_confirm">Urządzenie zweryfikowane</string>
-  <string name="micloud_confusion_toast_deny">Wpisz się na konto Xiaomi</string>
+  <string name="micloud_confusion_toast_deny">Zaloguj się na konto Xiaomi</string>
   <string name="micloud_confusion_yes">Tak</string>
   <string name="micloud_detail_battery_low">Niski poziom baterii</string>
   <string name="micloud_detail_battery_low_message">Niski poziom baterii. Naładuj, aby zsynchronizować.</string>
@@ -321,7 +321,7 @@ Wpisz się ponownie na konto Xiaomi by aktywować usługi w chmurze"</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Włącz lokalizację urządzenia, by zabezpieczyć dane WeChata</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Włącz lokalizację urządzenia, by zabezpieczyć dane Alipay</string>
   <string name="micloud_find_device_guide_progress">Włączanie Lokalizacji urządzenia…</string>
-  <string name="micloud_find_device_guide_title">"Wpisz się na i.mi.com, aby zdalnie zlokalizować, zablokować lub wymazać pamięć urządzenia."</string>
+  <string name="micloud_find_device_guide_title">"Zaloguj się na i.mi.com, aby zdalnie zlokalizować, zablokować lub wymazać pamięć urządzenia."</string>
   <string name="micloud_find_device_open_fail">"Nie można włączyć Lokalizacji urządzenia"</string>
   <string name="micloud_find_device_opened">Zlokalizuj to urządzenie na</string>
   <string name="micloud_find_device_opened_content">%s</string>

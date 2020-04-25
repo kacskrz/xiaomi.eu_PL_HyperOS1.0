@@ -116,7 +116,7 @@
   <string name="empty_fav_card_tip">Brak ulubionych</string>
   <string name="empty_health_card_btn">Sparuj opaskę</string>
   <string name="empty_health_card_btn_get">Pobierz Mi Fit</string>
-  <string name="empty_health_card_btn_login">Wpisz się</string>
+  <string name="empty_health_card_btn_login">Zaloguj się</string>
   <string name="empty_health_card_login_tip">Sign in to Mi Fit and pair Mi Band.</string>
   <string name="empty_health_card_login_tip_vip">Sign in to Mi Fitand turn on step counter.</string>
   <string name="empty_health_card_tip">Zainstaluj Mi Fit i sparuj opaskę</string>
