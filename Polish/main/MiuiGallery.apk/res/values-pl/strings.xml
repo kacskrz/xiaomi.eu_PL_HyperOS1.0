@@ -934,7 +934,7 @@
   <string name="more_face">Więcej podobnych osób</string>
   <string name="more_face_album_name">Więcej osób</string>
   <string name="motion_photo_play">Odtwórz</string>
-  <string name="move_to_other_albums_tip">Przenieść ten album do Pozostałych?</string>
+  <string name="move_to_other_albums_tip">Przenieść ten album do Innych albumów?</string>
   <string name="move_to_rubbish_albums_tip">Przenieść wybrane albumy do kosza?</string>
   <string name="movie_add_disable">Możesz wybrać max. 20 zdjęć</string>
   <string name="movie_audio_antiquity">Retro</string>
@@ -1055,7 +1055,7 @@
   <string name="operation_hide">Ukryj</string>
   <string name="operation_in_process">Przetwarzanie...</string>
   <string name="operation_move">Przenieś</string>
-  <string name="operation_move_to_other_albums">Przenieś do Pozostałych albumów</string>
+  <string name="operation_move_to_other_albums">Przenieś do Innych albumów</string>
   <string name="operation_move_to_rubbish_albums">Przenieś do kosza</string>
   <string name="operation_not_show_in_photos_tab">Nie pokazuj w zakładce \"Zdjęcia\"</string>
   <string name="operation_produce">Kreatywność</string>
@@ -1063,7 +1063,7 @@
   <string name="operation_remove">Usuń</string>
   <string name="operation_remove_face">Usuń</string>
   <string name="operation_remove_from_face_album">Usuń z albumu</string>
-  <string name="operation_remove_from_other_albums">Przenieś z Pozostałych albumów</string>
+  <string name="operation_remove_from_other_albums">Przenieś z Innych albumów</string>
   <string name="operation_remove_from_rubbish_albums">Przywróć</string>
   <string name="operation_remove_rubbish">Przywróć</string>
   <string name="operation_remove_secret">Usuń z prywatnego albumu</string>
