@@ -152,4 +152,23 @@
     <string name="rationale_ask_again">Bez nadanych wymaganych uprawnień aplikacja może nie działać prawidłowo. Wejdź w ustawienia aplikacji, aby zmienić jej uprawnienia.</string>
     <string name="search_menu_title">Szukaj</string>
     <string name="title_settings_dialog">Wymagane uprawnienia</string>
+	<string name="miui_main_update_success_title_12">Tylko twój</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja z chmurą jest wyłączona</string>
+    <string name="miuix_appcompat_cloud_state_finished">Pomyślnie zsynchronizowano z chmurą</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Synchronizowanie z chmurą…</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie...</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Na razie to wszystko</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Na razie to wszystko</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
+    <string name="share_cancel">Anulowano udostępnianie</string>
+    <string name="share_failed">"Nie można udostępnić"</string>
+    <string name="share_no_network">"Nie można połączyć się z siecią"</string>
+    <string name="share_not_install_wechat">Najpierw zainstaluj WeChat</string>
+    <string name="share_not_install_weibo">Najpierw zainstaluj Weibo</string>
+    <string name="share_success">Pomyślnie udostępniono</string>
+    <string name="share_title">Udostępnij</string>
 </resources>
