@@ -546,4 +546,27 @@
   <string name="widget_global_search">Szukaj</string>
   <string name="widget_quick_function">Skróty i przełączniki</string>
   <string name="widgets_preview_title">Dodaj widżet</string>
+  <string name="copy">Kopiuj</string>
+  <string name="expand_button_title">Zaawansowane</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
+  <string name="not_set">Nie ustawiono</string>
+  <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
+  <string name="recents_smallwindow_text">Puść, aby dodać</string>
+  <string name="recents_tv_small_window_text">Pływające okna</string>
+  <string name="small_window_button_complete">Gotowe</string>
+  <string name="small_window_edit_content">Możesz dodać maks. %d aplikacji</string>
+  <string name="small_window_edit_title">Obecne aplikacje</string>
+  <string name="small_window_empty">Wybierz z dostępnych aplikacji</string>
+  <string name="small_window_select_title">Dostępne aplikacje</string>
+  <string name="small_window_title_text">Dotknij, aby otworzyć pływające okno</string>
+  <string name="small_window_toast">Możesz dodać maks. %d aplikacji</string>
+  <string name="v7_preference_off">WYŁ.</string>
+  <string name="v7_preference_on">WŁ.</string>
 </resources>

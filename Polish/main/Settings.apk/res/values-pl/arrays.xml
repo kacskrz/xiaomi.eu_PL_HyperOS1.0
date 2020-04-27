@@ -1839,13 +1839,13 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Standardowy</item>
     </string-array>
     <string-array name="aggregate_entries">
-        <item>Rekomendowane</item>
-        <item>Ważne</item>
-        <item>Nieważne</item>
+        <item>Grupuj</item>
+        <item>Grupuj i zmniejsz priorytet</item>
+        <item>Nie grupuj</item>
     </string-array>
     <string-array name="aggregate_summaries">
-        <item>MIUI zdecyduje, które powiadomienia wyświetlą się bezpośrednio</item>
-        <item>Powiadomienia będą się pojawiać w Panelu powiadomień</item>
-        <item>Powiadomienia będą się pojawiać w oddzielnym folderze</item>
+        <item>Reklamy oraz powiadomienia push dot. treści będą grupowane</item>
+        <item>Powiadomienia push będą grupowane i wyświetlane poniżej innych powiadomień</item>
+        <item>Powiadomienia push nie będą grupowane</item>
     </string-array>
 </resources>

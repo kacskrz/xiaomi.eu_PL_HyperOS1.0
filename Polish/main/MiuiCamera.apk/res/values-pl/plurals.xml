@@ -9,4 +9,9 @@
         <item quantity="one">Zdjęcia seryjne: zrobiono %1$s zdjęcie</item>
         <item quantity="few">Zdjęcia seryjne: zrobiono %1$s zdjęcia</item>
     </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Możesz utworzyć maks. %d klonów na raz.</item>
+        <item quantity="few">Możesz utworzyć maks. %d klony na raz.</item>
+        <item quantity="one">Możesz utworzyć maks. %d klon na raz.</item>
+    </plurals>
 </resources>

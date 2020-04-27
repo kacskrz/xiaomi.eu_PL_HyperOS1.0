@@ -477,4 +477,9 @@
         <item quantity="other">Pobieranie %d pozostałych plików</item>
         <item quantity="one">Pobieranie %d pozostałego pliku</item>
     </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s osób może zobaczyć ten album</item>
+        <item quantity="few">%s osoby mogą zobaczyć ten album</item>
+        <item quantity="one">%s osoba może zobaczyć ten album</item>
+    </plurals>
 </resources>

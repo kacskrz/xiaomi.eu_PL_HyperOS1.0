@@ -645,4 +645,52 @@
         <item quantity="few">Zwrócono %3$d puste odpowiedzi pomiędzy %1$s a %2$s</item>
         <item quantity="one">Zwrócono %3$d pustą odpowiedź pomiędzy %1$s a %2$s</item>
     </plurals>
+    <plurals name="app_behavior_desc_allow_minute">
+        <item quantity="other">Zezwolono %2$d razy o %1$s</item>
+        <item quantity="one">Zezwolono %2$d raz o %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny_minute">
+        <item quantity="other">Odmówiono %2$d razy o %1$s</item>
+        <item quantity="one">Odmówiono %2$d raz o %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual_minute">
+        <item quantity="other">Returned %2$d blank messages at %1$s</item>
+        <item quantity="one">Returned %2$d blank message at %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple">
+        <item quantity="other">Aplikacja %1$1s uruchomiła %2$d aplikacji</item>
+        <item quantity="few">Aplikacja %1$1s uruchomiła %2$d aplikacji</item>
+        <item quantity="one">Aplikacja %1$1s uruchomiła %2$d aplikację</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple_single">
+        <item quantity="other">Ta aplikacja uruchomiła %1$d innych aplikacji</item>
+        <item quantity="few">Ta aplikacja uruchomiła %1$d inne aplikacje</item>
+        <item quantity="one">Ta aplikacja uruchomiła %1$d inną aplikację</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" godz."</item>
+        <item quantity="one">" godz."</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">Rozumiem (%ds)</item>
+        <item quantity="one">Rozumiem (%ds)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">Twoje urządzenie wyłączy się za %d sekund. Podłącz ładowarkę.</item>
+        <item quantity="one">Twoje urządzenie wyłączy się za %d sekundę. Podłącz ładowarkę.</item>
+        <item quantity="few">Twoje urządzenie wyłączy się za %d sekundy. Podłącz ładowarkę.</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s aplikacji ma permanentny dostęp</item>
+        <item quantity="few">%s aplikacje mają permanentny dostęp</item>
+        <item quantity="one">%s aplikacja ma permanentny dostęp</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s razy</item>
+        <item quantity="one">%s raz</item>
+    </plurals>
 </resources>

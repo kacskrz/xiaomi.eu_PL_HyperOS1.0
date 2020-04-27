@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="already_in_small_freeform">Niektóre aplikacje są otwarte w pływających oknach</string>
+    <string name="no_avaliable_application">Brak dostępnych aplikacji</string>
+    <string name="quick_settings_hang_label">Pływające okna</string>
+    <string name="quick_settings_hang_on">Możesz używać teraz pływających okienek</string>
+</resources>

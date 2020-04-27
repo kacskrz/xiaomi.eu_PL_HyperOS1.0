@@ -597,4 +597,14 @@ Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się z administrat
         <item quantity="one">Wprowadź co najmniej %d znak</item>
         <item quantity="few">Wprowadź co najmniej %d znaki</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d dostępnych urządzeń</item>
+        <item quantity="few">%d dostępne urządzenia</item>
+        <item quantity="one">%d dostępne urządzenie</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">Wybrano %d elementów</item>
+        <item quantity="few">Wybrano %d elementy</item>
+        <item quantity="one">Wybrano %d element</item>
+    </plurals>
 </resources>

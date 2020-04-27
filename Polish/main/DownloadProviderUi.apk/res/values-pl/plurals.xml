@@ -41,4 +41,9 @@
         <item quantity="one">%1$d sekunda</item>
         <item quantity="few">%1$d sekundy</item>
     </plurals>
+    <plurals name="number_items">
+        <item quantity="other">%s elementów</item>
+        <item quantity="one">%s element</item>
+        <item quantity="few">%s elementy</item>
+    </plurals>
 </resources>

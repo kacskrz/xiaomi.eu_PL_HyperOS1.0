@@ -74,8 +74,8 @@
   <string name="not_set">Nie ustawiono</string>
   <string name="open_perm_msg">Aplikacja wymaga dostępu do lokalizacji urządzenia i aparatu w celu określenia położenia i wyświetlania podglądu na żywo. Zezwolić?</string>
   <string name="open_perm_title">Wymagane uprawnienia</string>
-  <string name="permission_camera_desc">Używanie poziomicy</string>
-  <string name="permission_location_desc">Wyświetlanie pozycji oraz ciśnienia atmosferycznego</string>
+  <string name="permission_camera_desc">Wyświetlanie azymutu na podglądzie</string>
+  <string name="permission_location_desc">Wyświetlanie koordynatów</string>
   <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
   <string name="preference_other">Pozostałe</string>
   <string name="preference_privacy_title">Polityka prywatności</string>
@@ -91,4 +91,5 @@
   <string name="using_camera_confirm_ok">Zgadzam się</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
+  <string name="cta_agree_desc">Zezwól tej aplikacji na łączenie się z Interneten i nadaj jej opcjonalne uprawnienia, aby móc używać jej wszystkich funkcji.</string>
 </resources>

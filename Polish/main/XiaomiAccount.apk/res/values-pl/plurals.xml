@@ -28,4 +28,9 @@
          <item quantity="other">Pokaż %d przeglądarek</item>
          <item quantity="one">Pokaż %d przeglądarkę</item>
      </plurals>
+    <plurals name="health_description_title_suffix">
+        <item quantity="other">" kroków"</item>
+        <item quantity="few">" kroki"</item>
+        <item quantity="one">" krok"</item>
+    </plurals>
 </resources>

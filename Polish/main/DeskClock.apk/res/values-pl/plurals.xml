@@ -88,4 +88,16 @@
         <item quantity="other">%1$s min</item>
         <item quantity="one">%1$s min</item>
     </plurals>
+    <plurals name="minute_text">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">%s godz. dalej</item>
+        <item quantity="one">%s godz. dalej</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">%s godz. wcześniej</item>
+        <item quantity="one">%s godz. wcześniej</item>
+    </plurals>
 </resources>

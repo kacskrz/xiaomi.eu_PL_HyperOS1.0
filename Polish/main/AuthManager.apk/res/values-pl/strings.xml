@@ -91,7 +91,7 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="HIPS_Perm_Call">Wykonywanie połączeń</string>
   <string name="HIPS_Perm_CallLog">Historia połączeń</string>
   <string name="HIPS_Perm_CallLog_Access">odczytywanie rejestru połączeń</string>
-  <string name="HIPS_Perm_CallLog_Desc">Dostęp do rejestru połączeń</string>
+  <string name="HIPS_Perm_CallLog_Desc">Edycja rejestru połączeń</string>
   <string name="HIPS_Perm_CallLog_Hint">%1$s aplikacji ma uprawnienia na dostęp do rejestru połączeń</string>
   <string name="HIPS_Perm_CallMonitor">Monitorowanie połączeń</string>
   <string name="HIPS_Perm_CallMonitor_Desc">Monitorowanie połączeń przychodzących i wychodzących, kontrola głośności itp.</string>
@@ -105,7 +105,7 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="HIPS_Perm_CancelMissedCalls">czyszczenie powiadomień o nieodebranych połączeniach</string>
   <string name="HIPS_Perm_Contact">Kontakty</string>
   <string name="HIPS_Perm_Contact_Access">odczytywanie listy kontaktów</string>
-  <string name="HIPS_Perm_Contact_Desc">Dostęp do listy kontaktów</string>
+  <string name="HIPS_Perm_Contact_Desc">Edycja listy kontaktów</string>
   <string name="HIPS_Perm_Contact_Hint">%1$s aplikacji ma uprawnienia na dostęp do listy kontaktów</string>
   <string name="HIPS_Perm_DisableKeyguard">Odblokowywanie ekranu</string>
   <string name="HIPS_Perm_DisableKeyguard_Desc">Odblokowywanie ekranu</string>
@@ -289,7 +289,6 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="app_name">Uprawnienia</string>
   <string name="background_location_access_reminder_notification_content">Ta aplikacja może zawsze uzyskiwać dostęp do Twojej lokalizacji. Kliknij, aby to zmienić.</string>
   <string name="background_location_access_reminder_notification_title">%s używa Twojej lokalizacji</string>
-  <string name="current_permission_template">%1$s z %2$s</string>
   <string name="default_permission_description">perform an unknown action</string>
   <string name="grant_confirm_question">Udzielić pozwolenia na poniższe uprawnienia? Aplikacja otrzyma dostęp do:</string>
   <string name="grant_dialog_button_allow">Zezwól</string>
@@ -356,9 +355,28 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="screen_overlay_message">To change this permission setting, you first have to turn off the screen overlay from Settings &gt; Apps</string>
   <string name="screen_overlay_title">Screen overlay detected</string>
   <string name="virtual_reject_notice_content">Aby chronić Twoje dane, wysłano pustą odpowiedź do aplikacji</string>
-  <string name="virtual_reject_notice_title_calendar">%1$s próbuje uzyskać dostęp do kalendarza</string>
-  <string name="virtual_reject_notice_title_calllog">%1$s próbuje uzyskać dostęp do historii połączeń</string>
-  <string name="virtual_reject_notice_title_contacts">%1$s próbuje uzyskać dostęp do kontaktów</string>
-  <string name="virtual_reject_notice_title_phonestate">%1$s próbuje uzyskać dostęp do informacji o urządzeniu</string>
-  <string name="virtual_reject_notice_title_sms">%1$s próbuje uzyskać dostęp do SMS-ów</string>
+  <string name="virtual_reject_notice_title_calendar">Dostęp do kalendarza przez %1$s</string>
+  <string name="virtual_reject_notice_title_calllog">Dostęp do historii połączeń przez %1$s</string>
+  <string name="virtual_reject_notice_title_contacts">Dostęp do kontaktów przez %1$s</string>
+  <string name="virtual_reject_notice_title_phonestate">Dostęp do informacji o urządzeniu przez %1$s</string>
+  <string name="virtual_reject_notice_title_sms">Dostęp do SMS-ów przez %1$s</string>
+  <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Nagrywanie dźwięku i tworzenie połączeń</string>
+  <string name="HIPS_Perm_Intl_group_desc_auto_start">Automatyczne uruchamianie aplikacji w tle</string>
+  <string name="HIPS_Perm_Intl_group_desc_calendar">Dostęp do wydarzeń z kalendarza</string>
+  <string name="HIPS_Perm_Intl_group_desc_call_log">Dostęp do historii połączeń i jej edycja</string>
+  <string name="HIPS_Perm_Intl_group_desc_camera">Wykonywanie zdjęć i tworzenie wideo</string>
+  <string name="HIPS_Perm_Intl_group_desc_contact">Edycja i usuwanie kontaktów</string>
+  <string name="HIPS_Perm_Intl_group_desc_location">Dostęp do precyzyjnej lokalizacji (na podstawie GPS i sieci)</string>
+  <string name="HIPS_Perm_Intl_group_desc_storage">Dodawanie i usuwanie plików w pamięci wewnętrznej</string>
+  <string name="HIPS_Perm_Intl_group_name_audio_recorder">Mikrofon</string>
+  <string name="HIPS_Perm_Intl_group_name_auto_start">Autostart</string>
+  <string name="HIPS_Perm_Intl_group_name_calendar">Kalendarz</string>
+  <string name="HIPS_Perm_Intl_group_name_call_log">Historia połączeń</string>
+  <string name="HIPS_Perm_Intl_group_name_camera">Aparat</string>
+  <string name="HIPS_Perm_Intl_group_name_contact">Kontakty</string>
+  <string name="HIPS_Perm_Intl_group_name_location">Lokalizacja</string>
+  <string name="HIPS_Perm_Intl_group_name_storage">Pamięć</string>
+  <string name="permission_group_title_sensitive_privacy_related">Wrażliwe uprawnienia</string>
+  <string name="permission_list_include">"Włączając następujące uprawnienia:
+"</string>
 </resources>

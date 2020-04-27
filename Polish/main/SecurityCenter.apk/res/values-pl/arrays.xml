@@ -175,4 +175,32 @@
         <item>Korzystanie z uprawnień</item>
         <item>Wrażliwe akcje</item>
     </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Będzie możliwy dostęp do plików oraz ich edycji za pomocą komputera.</item>
+        <item>Będzie można instalować aplikacje na urządzeniu bez Twojego pozwolenia.</item>
+        <item>"Będziesz mógł uzyskać zdalny dostęp do widoku ekranu Twojego urządzenia."</item>
+        <item>Będzie można uzyskać szczegółowe informacje o Twoim urządzeniu.</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Ważne: Różne aplikacje systemowe mogą przestać działać poprawnie.</item>
+        <item>Układy tekstu, konta oraz treść mogą nie być wyświetlane prawidłowo.</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Odczyt wszystkich powiadomień, w tym SMS-ów i innych treści mogących zawierać wrażliwe dane</item>
+        <item>Ograniczenie uprawnień dot. powiadomień dla części aplikacji</item>
+        <item>Symulowanie dotknięć powiadomień i otwieranie aplikacji</item>
+        <item>Włączanie i wyłączanie trybu Godziny ciszy</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Gromadzenie danych dot. Twoich zainteresowań i zachowań na podstawie uczenia się tego, jakich używasz aplikacji i jak często je uruchamiasz</item>
+        <item>Dostęp do ustawień operatora i języka, a także innych szczegółów</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>"Aplikacje firm trzecich, które nie zostały zweryfikowane, mogą powodować różne problemy i zmniejszyć bezpieczeństwo systemu."</item>
+        <item>Niektóre aplikacje firm trzecich mogą zawierać szkodliwe oprogramowanie, które zagraża Twoim danym.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Pamięć wewnętrzna</item>
+        <item>Pamięć zewnętrzna</item>
+    </string-array>
 </resources>
