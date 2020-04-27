@@ -2,4 +2,93 @@
 <resources>
   <string name="mi_wallpaper_loading">Ładowanie...</string>
   <string name="mi_wallpaper_title">Animowana tapeta MI</string>
+  <string name="abc_action_bar_home_description">Przejdź do strony głównej</string>
+  <string name="abc_action_bar_up_description">Przejdź wyżej</string>
+  <string name="abc_action_menu_overflow_description">Więcej opcji</string>
+  <string name="abc_action_mode_done">Gotowe</string>
+  <string name="abc_activity_chooser_view_see_all">Pokaż wszystko</string>
+  <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+  <string name="abc_capital_off">WYŁĄCZONY</string>
+  <string name="abc_capital_on">WŁĄCZONY</string>
+  <string name="abc_search_hint">Szukaj…</string>
+  <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+  <string name="abc_searchview_description_query">Szukaj zapytania</string>
+  <string name="abc_searchview_description_search">Szukaj</string>
+  <string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+  <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+  <string name="abc_shareactionprovider_share_with">Podziel się z</string>
+  <string name="abc_shareactionprovider_share_with_application">Podziel się z %s</string>
+  <string name="abc_toolbar_collapse_description">Zwiń</string>
+  <string name="actionbar_button_up_description">Wróć</string>
+  <string name="app_name">Tapety</string>
+  <string name="clearable_edittext_clear_description">Wyczyść</string>
+  <string name="date_picker_lunar">Kalendarz Księżycowy</string>
+  <string name="earth_summary">Ziemia jest kolebką ludzkiej cywilizacji</string>
+  <string name="earth_title">Dom</string>
+  <string name="game_view_content_description">Widok gier</string>
+  <string name="mars_position_content_0">"Ten region zawiera klify, mesy i szerokie doliny, które prawdopodobnie są wynikiem obecności pokrytych gruzem lodowców na tym terenie. Wykryto tu również minerały ilaste, które są bardzo ważne w poszukiwaniu dowodów życia w przeszłości na Marsie.
+
+NASA/JPL/Uniwersytet w Arizonie"</string>
+  <string name="mars_position_content_1">"RSL to zacieki na rozgrzanych zboczach marsjańskich, które mogą być spowodowane przez wyciekającą wodę. RSL w kraterze Hale ma niezwykle „czerwonawy” kolor w porównaniu do większości RSL, być może z powodu utlenionych związków żelaza, takich jak rdza.
+
+NASA/JPL/Uniwersytet w Arizonie"</string>
+  <string name="mars_position_content_2">"Mawrth Vallis to starożytny kanał odpływowy z jasnymi skałami bogatymi w glinę. W minerałach ilastych naukowcy na Ziemi często znajdują mikroskopijne organizmy, więc być może w Mawrth odnajdziemy ślady dawnego życia.
+
+NASA/JPL/Uniwersytet w Arizonie"</string>
+  <string name="mars_position_title_0">"Region
+Nilosyrtis Mensae"</string>
+  <string name="mars_position_title_1">"Wzniesienie
+centralne
+krateru w Hale"</string>
+  <string name="mars_position_title_2">"Krater w
+Mawrth Vallis"</string>
+  <string name="mars_summary">Ogromne pustynie na Marsie zawsze zachwycały ludzkość</string>
+  <string name="mars_title">Czerwona planeta</string>
+  <string name="miui_clock_city_name_local">Lokalny</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Przeciągnij, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Odświeżanie zakończone</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">odświeżanie</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">puść, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">brak danych</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">nie rób tego</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">odświeżanie</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">błąd</string>
+  <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
+  <string name="not_set">Nie ustawiony</string>
+  <string name="password_toggle_content_description">Pokaż hasło</string>
+  <string name="preference_copied">\"%1$s\" skopiowano do schowka.</string>
+  <string name="saturn_summary">Pierścienie Saturna są najbardziej niesamowitym widowiskiem w Układzie Słonecznym</string>
+  <string name="saturn_title">Oddalony pierścień</string>
+  <string name="search_menu_title">Szukaj</string>
+  <string name="super_wallpaper_list_label">Super tapety</string>
+  <string name="super_wallpaper_setting_apply_success_toast">Pomyślnie zastosowano</string>
+  <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Zastosuj</string>
+  <string name="super_wallpaper_setting_choose_position_btn_text">Wybierz lokalizacje</string>
+  <string name="super_wallpaper_setting_coordinate_title">Współrzędne</string>
+  <string name="super_wallpaper_setting_view_height_title">Wysokość</string>
+  <string name="time_picker_dialog_title">Ustaw czas</string>
+  <string name="time_picker_label_hour">GODZ.</string>
+  <string name="time_picker_label_minute">MIN.</string>
+  <string name="v7_preference_off">WYŁĄCZONY</string>
+  <string name="v7_preference_on">WŁĄCZONY</string>
+  <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Ekran zawsze włączony</string>
+  <string name="wallpaper_setting_find_more_text">Więcej tapet online</string>
+  <string name="wallpaper_setting_home_wallpaper_banner_button_text">Ekran główny</string>
+  <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Ekran blokady</string>
+  <string name="wallpaper_setting_online_wallpaper_actionbar_title">Tapety Online</string>
+  <string name="wallpaper_setting_online_wallpaper_none_title">Odkryj tapety</string>
+  <string name="wallpaper_setting_online_wallpaper_title">Tapety Online</string>
+  <string name="wallpaper_setting_super_wallpaper_banner_title">Super tapety</string>
+  <string name="wallpaper_setting_super_wallpaper_more_button_text">Więcej</string>
+  <string name="wallpaper_setting_title">Tapeta</string>
+
+convert to your format!!!
+  <string name="miui_lock_screen_date_two_lines">"EEEE d
+MMMM"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE d
+MMMM"</string>
+  <string name="miui_lock_screen_large_date">"EEE
+dd.M"</string>
+  <string name="miui_lock_screen_large_date_12">"EEE
+dd.M"</string>
 </resources>
