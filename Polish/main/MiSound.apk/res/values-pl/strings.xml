@@ -185,16 +185,16 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
   <string name="multi_music_coexistence_summary">"Nie zmieniaj głośności multimediów podczas przychodzących powiadomień lub odtwarzania dźwięku z innego źródła"</string>
-  <string name="multi_music_coexistence_title">Wiele źródeł dzwięku</string>
-  <string name="not_set">Nieustawiono</string>
+  <string name="multi_music_coexistence_title">Wiele źródeł dźwięku</string>
+  <string name="not_set">Nieustawione</string>
   <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
   <string name="search_menu_title">Szukaj</string>
-  <string name="sound_assist_key_summary">Dostosuj dźwięk dla poszczególnych aplikacji, podczas odtwarzania dzwięku przez wiele aplikacji</string>
+  <string name="sound_assist_key_summary">Dostosuj dźwięk dla poszczególnych aplikacji podczas odtwarzania dzwięku przez wiele aplikacji</string>
   <string name="sound_assist_key_title">Dostosuj dźwięk multimediów w wielu aplikacjach</string>
-  <string name="sound_assist_title">Asystent dzwięku</string>
+  <string name="sound_assist_title">Asystent dźwięku</string>
   <string name="switch_audio_device_bt">Bluetooth</string>
   <string name="switch_audio_device_phone">To urządzenie</string>
-  <string name="switch_audio_dialog_title">Przełącz dzwięk na</string>
+  <string name="switch_audio_dialog_title">Przełącz dźwięk na</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
 </resources>
