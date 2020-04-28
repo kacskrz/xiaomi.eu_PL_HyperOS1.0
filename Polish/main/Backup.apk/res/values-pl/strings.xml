@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_menu_overflow_description">Więcej opcji</string>
+  <string name="abc_action_mode_done">Gotowe</string>
+  <string name="abc_activity_chooser_view_see_all">Pokaż wszystko</string>
+  <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+  <string name="abc_capital_off">Wyłącz</string>
+  <string name="abc_capital_on">Włącz</string>
+  <string name="abc_search_hint">Szukaj…</string>
+  <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+  <string name="abc_searchview_description_query">Wyszukaj zapytanie</string>
+  <string name="abc_searchview_description_search">Szukaj</string>
+  <string name="abc_searchview_description_submit">Zadaj pytanie</string>
+  <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+  <string name="abc_shareactionprovider_share_with">Udostępnij z</string>
+  <string name="abc_shareactionprovider_share_with_application">Udostępnij z %s</string>
+  <string name="abc_toolbar_collapse_description">Zwiń</string>
   <string name="abort_backup_confirm">"Kopia nie została ukończona. Zatrzymać mimo to?"</string>
   <string name="abort_restore_confirm">"Przywracanie nie zostało ukończone. Zatrzymać mimo to?"</string>
   <string name="account_contact_backup_info">Konto Xiaomi, konto Google i Kontakty</string>
@@ -108,6 +123,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="connect_wifi">Połącz z Wi-Fi</string>
   <string name="connect_wifi_tip">"Nie można połączyć z siecią. Połącz z Wi-Fi aby wczytać kopie z iCloud."</string>
   <string name="contact_title">Kontakty</string>
+  <string name="copy">Kopiuj</string>
   <string name="current_account">Witaj %s</string>
   <string name="current_pad_location">Tablet</string>
   <string name="current_phone_location">Telefon</string>
@@ -163,6 +179,7 @@ Zaloguj się do konta Xiaomi aby tworzyć szyfrowane kopie zapasowe."</string>
   <string name="error_permissions">"Ta aplikacja nie ma wymaganych dla niej uprawnień dostępu do kalendarza. Przejdź do Ustawień i sprawdź uprawnienia, aby kontynuować."</string>
   <string name="every_day">Codziennie</string>
   <string name="exchange_account">Przełącz konto</string>
+  <string name="expand_button_title">Zaawansowane</string>
   <string name="fail">Nieudane</string>
   <string name="failed_description">Nieudane</string>
   <string name="feature_title_account">Konto</string>
@@ -279,6 +296,14 @@ musisz najpierw utworzyć kopię zapasową iCloud."</string>
   <string name="logining">Logowanie</string>
   <string name="miliao_account_guide">Użyj swojego konta Xiaomi, aby zalogować się do Chmury, Sklepu z motywami MIUI oraz innych usług Xiaomi, z każdego miejsca.</string>
   <string name="miliao_account_login">Zaloguj do MiTalk</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
   <string name="mms_title">Wiadomości MMS</string>
   <string name="multi_select_title">Wybranych %1$s</string>
   <string name="multi_user_mode_backup_message">Nie można użyć Kopiowania danych w trybie wielu użytkowników. Wyłącz tryb wielu użytkowników, aby kontynuować."</string>
@@ -287,8 +312,57 @@ musisz najpierw utworzyć kopię zapasową iCloud."</string>
   <string name="name_password_not_consistent">Nazwa użytkownika lub hasło są nieprawidłowe</string>
   <string name="never">Nigdy</string>
   <string name="new_backup">Kopiuj</string>
+  <string name="new_britem_audio">Audio</string>
+  <string name="new_britem_doc">Pliki</string>
+  <string name="new_britem_other">Inne</string>
+  <string name="new_britem_pic">Zdjęcia</string>
+  <string name="new_britem_video">Filmy</string>
+  <string name="new_confirm_enable_encrypt_content">"MIUI Powiązuje zaszyfrowane kopie zapasowe z twoim kontem Xiaomi. Musisz się zalogować na konto Xiaomi, aby przywrócić elementy z tych kopii."</string>
+  <string name="new_confirm_enable_encrypt_title">Zaszyfruj</string>
+  <string name="new_local_button_backup">Kopia zapasowa</string>
+  <string name="new_local_button_restore">Przywróć</string>
+  <string name="new_local_click_to_jump">Dotknij, aby wyświetlić więcej informacji</string>
+  <string name="new_local_detail_description">"Uwaga:
+%1$d. Skopiuj kopie zapasowe na komputer, aby zapobiec utracie danych. %2$s.
+%3$d. Kopie zapasowe zostaną zapisane do MIUI-Backup-AllBackup."</string>
+  <string name="new_local_tab_backup">Wykonaj kopię zapasową na urządzeniu mobilnym</string>
+  <string name="new_local_tab_restore">Przywróć z urządzenia mobilnego</string>
+  <string name="new_low_storage_title">Brak miejsca w pamięci</string>
+  <string name="new_more_settings_label">Dodatkowe opcje</string>
+  <string name="new_pc_backup_content1">%1$d. Otwórz \"%2$s\".</string>
+  <string name="new_pc_backup_content2">%d. Poczekaj, aż wszystko zostanie skopiowane.</string>
+  <string name="new_pc_backup_content3">%d. Znajdź backup w MIUI-Backup-AllBackup.</string>
+  <string name="new_pc_backup_content4">%d. Skopiuj plik na komputer.</string>
+  <string name="new_pc_backup_restore_link">Urządzenie mobilne</string>
+  <string name="new_pc_backup_summary1">Wybierz elementy i kliknij \"Kopia zapasowa\".</string>
+  <string name="new_pc_backup_summary2">Podłącz telefon do komputera, używając kabla USB.</string>
+  <string name="new_pc_backup_summary4">Wskazówka: Możesz również skopiować zdjęcia i filmy z MIUI-DCIM.</string>
+  <string name="new_pc_restore_content1">%d. Podłącz telefon do komputera, używając kabla USB.</string>
+  <string name="new_pc_restore_content2">%d. Skopiuj kopię zapasową z komputera do MIUI-Backup-AllBackup.</string>
+  <string name="new_pc_restore_content3">%1$d. Otwórz \"%2$s\" i wybierz elementy do przywrócenia.</string>
+  <string name="new_pc_title">Skopiuj kopie zapasowe</string>
+  <string name="new_select_file">Audio, filmy i pliki</string>
+  <string name="new_select_message">SMS, kontakty i historia połączeń</string>
+  <string name="new_select_pic">Obrazy</string>
+  <string name="new_select_system">Inne dane aplikacji systemowych</string>
+  <string name="new_select_tencent">QQ i WeChat</string>
+  <string name="new_select_third">Aplikacje firm trzecich oraz ich dane</string>
+  <string name="new_select_third_apk">Aplikacje firm trzecich</string>
+  <string name="new_select_third_data">Dane aplikacji firm trzecich</string>
+  <string name="new_tab_pc_backup">Wykonaj kopie zapasową na komputer</string>
+  <string name="new_tab_pc_restore">Przywróć z komputera</string>
+  <string name="new_task_finished">Gotowe</string>
+  <string name="new_usb_detail_description">"Wskazówka:
+%1$d. Ta metoda umożliwia wykonanie kopii zapasowej aplikacji firm trzecich i ich danych.
+%2$d. Upewnij się że posiadasz odpowiednią ilość miejsca na urządzeniu USB, aby przechować backup."</string>
+  <string name="new_usb_disconnect_dialog_message">Podłącz urządzenie USB.</string>
+  <string name="new_usb_disconnect_dialog_title">"Nie znaleziono urządzenia USB"</string>
+  <string name="new_usb_select_data_no_space">Tylko %s pamięci jest dostępne na urządzeniu USB. Zwolnij miejsce.</string>
+  <string name="new_usb_tab_backup">Wykonaj kopie zapasową na urządzenie USB</string>
+  <string name="new_usb_tab_restore">Przywróć z urządzenia USB</string>
   <string name="no_encrypt_password">Brak hasła szyfrowania</string>
   <string name="no_network">"Nie można połączyć się z siecią"</string>
+  <string name="not_set">Nie ustawiono</string>
   <string name="note_title">Notatki</string>
   <string name="nothing_searched">Brak wyników</string>
   <string name="notif_backup_complete_title">Kopia wykonana pomyślnie</string>
@@ -339,6 +413,7 @@ musisz najpierw utworzyć kopię zapasową iCloud."</string>
   <string name="platform_chooser_item_android">Wczytaj z Androida</string>
   <string name="platform_chooser_item_ios">Wczytaj z iOS</string>
   <string name="platform_chooser_title">Wybierz starsze urządzenie</string>
+  <string name="preference_copied">Skopiowano \”%1$s\” do schowka..</string>
   <string name="progress_backup_hint">"Kopia danych: "</string>
   <string name="progress_restore_hint">"Przywracanie danych..."</string>
   <string name="prompt_reading">Odczytywanie...</string>
@@ -388,6 +463,7 @@ Zwolnij przynajmniej %s."</string>
   <string name="sdcard_no_enough_space">Brak wystarczającego miejsca na karcie SD, zwolnij miejsce i spróbuj ponownie</string>
   <string name="sdcard_no_enough_space_message">Brak wystarczającego miejsca na karcie SD, zwolnij miejsce i spróbuj ponownie</string>
   <string name="sdcard_unmounted">Karta SD nieznaleziona lub odmontowana!</string>
+  <string name="search_menu_title">Szukaj</string>
   <string name="see_backup_files_on_router">Pokaż kopie na Mi Router %s</string>
   <string name="select_all">Zaznacz wszystko</string>
   <string name="select_backup_item">Elementy kopii</string>
@@ -673,6 +749,8 @@ Zwolnij je lub przenieś tylko najważniejsze rzeczy."</string>
   <string name="user_notice_declaration_ignore">"Nie pokazuj ponownie"</string>
   <string name="user_notice_message">Aplikacja może potrzebować dostępu do połączenia internetowego aby działać normalnie.</string>
   <string name="user_notice_title">Powiadomienie</string>
+  <string name="v7_preference_off">WYŁ.</string>
+  <string name="v7_preference_on">WŁ.</string>
   <string name="view_password_description">Pokaż hasło</string>
   <string name="wait_link">"Włącz Przenoszenie danych na starym urządzeniu,
 kliknij \"Jestem nadawcą\" i wybierz hotspot, aby się połączyć.
