@@ -585,7 +585,7 @@
   <string name="auto_task_operation_mobile_data">Dane mobilne</string>
   <string name="auto_task_operation_modify_string">Edytuj: %s</string>
   <string name="auto_task_operation_mute">Cichy</string>
-  <string name="auto_task_operation_no_op">Nic</string>
+  <string name="auto_task_operation_no_op">Brak</string>
   <string name="auto_task_operation_open">Wł.</string>
   <string name="auto_task_operation_open_string">Wł.: %s</string>
   <string name="auto_task_operation_string_comma">", "</string>
