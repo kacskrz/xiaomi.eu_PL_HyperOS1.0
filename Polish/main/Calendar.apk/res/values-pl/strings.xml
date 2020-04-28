@@ -10,7 +10,7 @@
   <string name="abc_capital_off">WYŁ.</string>
   <string name="abc_capital_on">WŁ.</string>
   <string name="abc_search_hint">Wyszukaj…</string>
-  <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+  <string name="abc_searchview_description_clear">Wyczyść wyszukiwanie</string>
   <string name="abc_searchview_description_query">Wyszukiwane hasło</string>
   <string name="abc_searchview_description_search">Szukaj</string>
   <string name="abc_searchview_description_submit">Wyślij zapytanie</string>

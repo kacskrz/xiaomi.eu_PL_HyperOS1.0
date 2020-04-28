@@ -12,7 +12,7 @@
   <string name="debug_tool_email_body">Załączono bazę danych Kalendarza oraz wszystkich spotkań i informacji osobistych. Postępuj z nimi bardzo uważnie.</string>
   <string name="debug_tool_email_sender_picker">Wybierz program do wysłania pliku</string>
   <string name="debug_tool_email_subject">Baza danych Kalendarza załączona</string>
-  <string name="debug_tool_message">Teraz powinieneś/powinnaś: 1) wykonać kopię zapasową bazy danych Kalendarzam na karcie SD lub magazynie USB tak, aby otworzyć ją w dowolnej aplikacji 2) wysłać ją mailem. Pamiętaj, aby skasować ją z telefonu natychmiast po skopiowaniu lub po odebraniu maila.</string>
+  <string name="debug_tool_message">Teraz powinieneś/powinnaś: 1) Wykonać kopię zapasową bazy danych Kalendarzam na karcie SD lub magazynie USB tak, aby otworzyć ją w dowolnej aplikacji 2) Wysłać ją mailem. Pamiętaj, aby skasować ją z telefonu natychmiast po skopiowaniu lub po odebraniu maila.</string>
   <string name="debug_tool_start_button">Start</string>
   <string name="holiday_data_no_network">Brak sieci. Spróbuj ponownie później</string>
   <string name="holiday_data_update_failed">Sprawdż błędy aktualizacji i spróbuj ponownie później.</string>

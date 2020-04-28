@@ -9,7 +9,7 @@
   <string name="import_complete">Ukończono importowanie</string>
   <string name="import_message">Czy chcesz zaimportować # do kalendarza?</string>
   <string name="import_title">Importuj zdarzenie kalendarza</string>
-  <string name="import_to">Importuj do</string>
+  <string name="import_to">Importuj do:</string>
   <string name="import_vcs_failed">Zaimportowanie zdarzenia nie powiodło się.</string>
   <string name="importing">Trwa importowanie...</string>
   <string name="loading">Trwa ładowanie…</string>
