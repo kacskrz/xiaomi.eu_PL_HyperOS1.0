@@ -323,7 +323,7 @@ Administrator może monitorować ustawienia, uprawnienia dostępu, aplikacje i d
   <string name="allow_mock_location">Pozorowanie lokalizacji</string>
   <string name="allow_mock_location_summary">Zezwalaj na pozorowanie lokalizacji</string>
   <string name="allow_oaid_used">Ogranicz dostęp do dowolnego ID</string>
-  <string name="allow_oaid_used_desc">"Aplikacje nie mają dostępu do ID póki im na to nie zezwolisz. Niektóre funkcje rekomendacji mogą nie działać poprawnie gdy funkcja jest włączona."</string>
+  <string name="allow_oaid_used_desc">"Aplikacje nie będą mieć dostępu do ID, dopóki im na to nie pozwolisz. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
   <string name="allow_overlay_description">To uprawnienie zezwala na wyświetlanie aplikacji nad innymi aplikacjami, których używasz, i może powodować zakłócenia w korzystaniu z interfejsu innych aplikacji lub ich działanie niezgodne z tym, co widać na ekranie.</string>
   <string name="allow_sound">Zezwól na dźwięk</string>
   <string name="allow_sound_title">Dźwięk</string>
@@ -1421,7 +1421,7 @@ Możesz wyłączyć tę funkcję w Ustawienia > Bluetooth > Sparowane urządzeni
   <string name="clear_adb_keys">Odwołaj dostęp do debugowania USB</string>
   <string name="clear_all_data">Wymaż wszystkie dane</string>
   <string name="clear_cache_btn_text">Wyczyść pamięć podręczną</string>
-  <string name="clear_data_alert_info">Wszystkie kopie zapasowe przechowywane na tym urządzeniu zostaną usunięte. Wykonaj kopię zapasową ważnych plików na komputerze i w chmurze Xiaomi zanim przejdziesz dalej.</string>
+  <string name="clear_data_alert_info">Wszystkie kopie zapasowe przechowywane na tym urządzeniu zostaną usunięte. Wykonaj kopię zapasową ważnych plików na komputerze i w chmurze Xiaomi, zanim przejdziesz dalej.</string>
   <string name="clear_data_dlg_text">Wszystkie dane tej aplikacji zostaną trwale usunięte. Dotyczy to wszystkich plików, ustawień, kont, baz danych itd.</string>
   <string name="clear_data_dlg_title">Usunąć dane aplikacji?</string>
   <string name="clear_data_failed">Nie można wyczyścić danych aplikacji.</string>
@@ -1539,7 +1539,7 @@ Możesz wyłączyć tę funkcję w Ustawienia > Bluetooth > Sparowane urządzeni
   <string name="common_signin_button_text_long">Zaloguj się przez Google</string>
   <string name="complete_parameters">Pełna specyfikacja</string>
   <string name="complete_settings">Ustawienia ogólne</string>
-  <string name="computer_backup_summary">Wykonaj kopię i przywróć elementy używając komputera</string>
+  <string name="computer_backup_summary">Wykonaj kopię i przywróć elementy, używając komputera</string>
   <string name="computer_backup_title">Komputer</string>
   <string name="computing_size">Przetwarzanie...</string>
   <string name="condition_airplane_summary">Wi-Fi, Bluetooth i sieci komórkowe są wyłączone. Nie można dzwonić ani łączyć się z internetem.</string>
@@ -1732,7 +1732,7 @@ Aby dalej używać urządzenia, musisz przywrócić dane fabryczne. Podczas konf
   <string name="dark_color_summary_lcd">"Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb może ci pomóc ograniczyć zmęczenie oczu podczas korzystania z telefonu w ciemności."</string>
   <string name="dark_color_summary_oled">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb ogranicza użycie baterii i pomaga ograniczyć zmęczenie oczu.</string>
   <string name="dark_mode_contrast">Dostosuj kontrast automatycznie</string>
-  <string name="dark_mode_contrast_hint">Dopasuj kolory i zmniejszaj kontrast automatycznie kiedy jasność jest niska</string>
+  <string name="dark_mode_contrast_hint">Dopasuj kolory i zmniejszaj kontrast automatycznie, kiedy jasność jest niska</string>
   <string name="dark_ui_mode">Ciemny motyw</string>
   <string name="dark_ui_mode_title">Ustaw ciemny motyw</string>
   <string name="dark_wallpaper_mode">Dostosuj tapetę do Ciemnego motywu</string>
@@ -1991,14 +1991,14 @@ Ustawienie dotyczy wszystkich użytkowników tego urządzenia."</string>
   <string name="device_miui_version">Wersja MIUI</string>
   <string name="device_miui_version_for_POCO">Wersja MIUI (dla POCO)</string>
   <string name="device_miui_version_parameters">Wersja MIUI</string>
-  <string name="device_miui_version_update">Aktualizacja</string>
+  <string name="device_miui_version_update">Aktualizuj</string>
   <string name="device_name">Nazwa urządzenia</string>
   <string name="device_name_input_error">Nie można zapisać tej nazwy urządzenia. Spróbuj ponownie</string>
   <string name="device_name_input_hint">Wpisz nazwę urządzenia</string>
   <string name="device_name_input_overlength">Osiągnięto maksymalną długość nazwy</string>
   <string name="device_name_usage_point">Nazwa urządzenia zostanie użyta przy wykrywaniu Bluetooth.</string>
   <string name="device_oaid">Zarządzaj wirtualnym ID</string>
-  <string name="device_oaid_desc">Zamiast twoich prawdziwych danych, MIUI zapewni wirtualne ID (OAID) dla aplikacji firm trzecich. To powstrzyma aplikacje przed śledzeniem twoich zachowań i preferencji i ochroni twoją prywatność.</string>
+  <string name="device_oaid_desc">Zamiast Twojego prawdziwego identyfikatora, MIUI zapewni wirtualne ID (OAID) dla aplikacji firm trzecich. To powstrzyma aplikacje przed śledzeniem twoich zachowań i preferencji i ochroni twoją prywatność.</string>
   <string name="device_oaid_title">Wirtualne ID</string>
   <string name="device_of_someone">"%1$s - %2$s"</string>
   <string name="device_picker">Wybierz urządzenie Bluetooth</string>
@@ -2567,7 +2567,7 @@ Więcej informacji uzyskasz od administratora organizacji."</string>
   <string name="feature_title_mms_setting">Ustawienia MMS</string>
   <string name="feature_title_xspace">Klonowane aplikacje</string>
   <string name="feedback">Opinia</string>
-  <string name="feedback_btn_text">Wyślij Opinie</string>
+  <string name="feedback_btn_text">Wyślij opinię</string>
   <string name="feedback_settings">Usługi i opinie</string>
   <string name="file_privacy_password_role_instruction">Prywatne pliki zostaną tutaj zachowane.</string>
   <string name="filter">Filtr</string>
@@ -2672,7 +2672,7 @@ Więcej informacji uzyskasz od administratora organizacji."</string>
   <string name="firewall_wifi_dialog_message">Zainstalowana aplikacja nie będzie w stanie połączyć się z Internetem za pomocą sieci Wi-Fi, gdy ten przełącznik jest wyłączony.</string>
   <string name="firmware_version">Wersja Android</string>
   <string name="flash_drive_backup_disable">Najpierw podłącz urządzenie USB</string>
-  <string name="flash_drive_backup_enable">Użyj urządzenia USB aby wykonać kopię zapasową lub przywrócić elementy</string>
+  <string name="flash_drive_backup_enable">Użyj urządzenia USB, aby wykonać kopię zapasową lub przywrócić elementy</string>
   <string name="flash_drive_backup_restore">Urządzenie USB</string>
   <string name="flash_drive_backup_restore_summary">Podłącz dysk USB</string>
   <string name="floating_window_switch_label">Pokaż okna Pop-up</string>
@@ -2778,19 +2778,19 @@ Do starego telefonu podłącz kabel, który był do niego dołączony. Następni
   <string name="free_wifi_user_agreement_title">Ostrzeżenie</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_xiaomi_wifi_connect_summary">Połącz z %1$s.</string>
-  <string name="freeform_guide_drop_down_to_fullscreen_summary">Dotknij i przytrzymaj, następnie przeciągnij za pływające okno</string>
+  <string name="freeform_guide_drop_down_to_fullscreen_summary">Dotknij i przytrzymaj, a następnie przeciągnij pasek akcji za pływające okno</string>
   <string name="freeform_guide_drop_down_to_fullscreen_title">Wyświetlanie pływających okien w trybie pełnoekranowym</string>
-  <string name="freeform_guide_move_summary">Naciśnij i przytrzymaj pasek akcji pływającego okna aby przesunąć</string>
+  <string name="freeform_guide_move_summary">Naciśnij i przytrzymaj pasek akcji pływającego okna, aby przesunąć</string>
   <string name="freeform_guide_move_title">Przenoszenie pływających okien</string>
   <string name="freeform_guide_move_to_small_freeform_window_summary">Przesuń pływające okno do rogu ekranu</string>
   <string name="freeform_guide_move_to_small_freeform_window_title">Zmniejszanie pływających okien</string>
-  <string name="freeform_guide_notification_drop_down_summary">Naciśnij i przytrzymaj, następnie przeciągnij w dół pasek powiadomień</string>
+  <string name="freeform_guide_notification_drop_down_summary">Naciśnij i przytrzymaj, a następnie przeciągnij w dół pasek powiadomień</string>
   <string name="freeform_guide_notification_drop_down_title">Otwieranie pływających okien</string>
   <string name="freeform_guide_settings">Pływające okno</string>
   <string name="freeform_guide_slide_up_to_close_summary">Przeciągnij w górę z paska akcji pływającego okna</string>
   <string name="freeform_guide_slide_up_to_close_title">Zamykanie pływających okien</string>
-  <string name="freeform_vedio_description">"·Dotknij i przytrzymaj, następnie przeciągnij w dół powiadomienie aby otworzyć je w pływającym oknie.
-·Naciśnij \"Pływające okna\" w menu ostatnich aby wybrać aplikacje."</string>
+  <string name="freeform_vedio_description">"·Dotknij i przytrzymaj, a następnie przeciągnij powiadomienie w dół, aby otworzyć je w pływającym oknie.
+Naciśnij \”Pływające okna\” w menu ostatnio otwartych aplikacji, aby wybrać aplikację."</string>
   <string name="frequently_fragment_delete">Usuń</string>
   <string name="frequently_fragment_tempty">Często używane elementy będą tu wymienione</string>
   <string name="fsg_mistake_touch_summary">W niektórych przypadkach np. pełny ekran lub podczas oglądania wideo konieczne będzie podwójne przesunięcie palcem od krawędzi, aby wywołać efekt</string>
@@ -2866,7 +2866,7 @@ Kopia zapasowa nie wlicza się do limitu miejsca na Dysku Google. Nie zostanie t
   <string name="google_wallet">Portfel Google</string>
   <string name="got_it">OK</string>
   <string name="gps_description">Wspierane są różne systemy nawigacji (GPS, BeiDou, GLONASS, Galileo)</string>
-  <string name="gps_description_global">Wiele systemów nawigacji (%s) jest wspieranych</string>
+  <string name="gps_description_global">Wspierane są różne systemy nawigacji (%s)</string>
   <string name="gsm_to_wifi_connect_type_title">Mobilna-Wi-Fi</string>
   <string name="gxzw_add_fingerprint_area">Czytnik linii papilarnych</string>
   <string name="gxzw_add_fingerprint_continue">Kontynuuj</string>
@@ -2973,19 +2973,19 @@ Możesz zmienić to ustawienie później, wybierając Ustawienia &gt; Zainstalow
   <string name="home_settings">Ekran główny</string>
   <string name="home_title">Pulpit</string>
   <string name="home_work_profile_not_supported">Nie obsługuje profili do pracy</string>
-  <string name="how_backup_content">"Możesz zapisywać kopie zapasowe lokalnie lub w chmurze. Kopie lokalne mogą być przechowywane na telefonie, komputerze lub urządzeniu USB
+  <string name="how_backup_content">"Możesz zapisywać kopie zapasowe lokalnie lub w chmurze. Kopie lokalne mogą być przechowywane na telefonie, komputerze lub urządzeniu USB.
 
 Telefon
-Zapisuje ustawienia systemowe, konta, dane aplikacji, i inne elementy w pliku na urządzeniu (MIUI-backup-AllBackup). Przywracanie do ustawień fabrycznych ussunie wszystkie kopie zapasowe z telefonu. Przenieś je wcześniej na komputer.
+Zapisuje ustawienia systemowe, konta, dane aplikacji i inne elementy w pliku na urządzeniu (MIUI-backup-AllBackup). Przywracanie do ustawień fabrycznych usunie wszystkie kopie zapasowe z telefonu. Przenieś je wcześniej na komputer.
 
 Komputer
-Stwórz kopie zapasową na telefonie, następnie przejdź do MIUI-backup-AllBackup i skopiuj backup na komputer używając kabla USB.
+Stwórz kopię zapasową na telefonie, a następnie przejdź do katalogu MIUI-backup-AllBackup i skopiuj kopię na komputer za pomocą kabla USB.
 
 Urządzenie USB
-Zapisuje ustawienia systemowe, konta, dane aplikacji, i inne elementy na urządzeniu USB.
+Zapisuje ustawienia systemowe, konta, dane aplikacji i inne elementy na urządzeniu USB.
 
 Chmura Xiaomi
-Synchronizuj swoje kontakty, zdjęcia, filmy, listę aplikacji, ustawienia systemu i układ ekranu głównego z chmurą."</string>
+Synchronizuj swoje kontakty, zdjęcia, filmy, listę aplikacji, ustawienia systemu i układ pulpitu z chmurą."</string>
   <string name="how_backup_title">1. Jak mogę wykonać kopię zapasową?</string>
   <string name="how_encrypt_content">"Możesz zaszyfrować tylko lokalne kopie zapasowe. Jest to możliwe na 2 sposoby:
 a) Otwórz widok lokalnych kopii zapasowych, kliknij przycisk, aby włączyć szyfrowanie, i zaloguj się na swoje konto Xiaomi. Po wykonaniu tych czynności kopie zapasowe będą szyfrowane automatycznie. Pamiętaj, że aby przywrócić elementy z tak zaszyfrowanych kopii, będziesz musiał zalogować się na swoje konto Xiaomi.
@@ -3754,7 +3754,7 @@ Tej czynności nie można cofnąć."</string>
   <string name="mi_shopping_mall">Sklep Mi</string>
   <string name="mi_transfer">Przenoszenie danych</string>
   <string name="mi_upi_settings">Konto Mi Pay</string>
-  <string name="micloud_service_summary">Synchronizuj listę aplikacji, Wykonaj kopię ustawień systemowych oraz układu ekranu głównego</string>
+  <string name="micloud_service_summary">Synchronizuj listę aplikacji, a także wykonaj kopię ustawień systemu oraz układu pulpitu</string>
   <string name="micloud_service_title">Chmura Xiaomi</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast jest niedostępny ponieważ komputer PC przesyła na to urządzenie</string>
@@ -3831,7 +3831,7 @@ Tej czynności nie można cofnąć."</string>
   <string name="misc_files">Różne pliki</string>
   <string name="misc_files_selected_count">wybrano %1$d z %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
-  <string name="miui_accessibility_asr_summary">Transcribe audio and save text</string>
+  <string name="miui_accessibility_asr_summary">Transkrybuj dźwięk i zapisuj tekst</string>
   <string name="miui_accessibility_asr_title">Mi Ditto</string>
   <string name="miui_allow_alarm">Alarmy</string>
   <string name="miui_allow_light">Powiadomienia LED</string>
@@ -3840,8 +3840,8 @@ Tej czynności nie można cofnąć."</string>
   <string name="miui_data_usage_menu_metered">To jest hotspot</string>
   <string name="miui_enable_service_title">Usługa może wykonywać poniższe akcje:</string>
   <string name="miui_experience_optimization">Włącz optymalizacje MIUI</string>
-  <string name="miui_face_enroll_success">"Możesz już odblokować ten telefon używając danych twarzy.
-Kontynuuj aby wyświetlić dodatkowe opcje."</string>
+  <string name="miui_face_enroll_success">"Możesz już odblokować ten telefon, używając danych twarzy.
+Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
   <string name="miui_ime_xiaoai_voice_hint">Szybsza i wygodniejsza opcja wpisywania tekstu</string>
   <string name="miui_ime_xiaoai_voice_title">Wprowadzanie głosowe Mi SI</string>
   <string name="miui_input_method_settings">Ustawienia metody wprowadzania</string>
@@ -3931,14 +3931,14 @@ Kontynuuj aby wyświetlić dodatkowe opcje."</string>
   <string name="miui_touch_filtered_warning">Jeśli aplikacja blokuje komunikat o uprawnieniach przesuń element lub zamknij aplikację.</string>
   <string name="miui_updater">Aktualizacje</string>
   <string name="miui_userguide">Samouczek</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij aby odświeżyć</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">Odświeżanie zakończone</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść aby odświeżyć</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">brak danych</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">nie rób tego</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">odświeżanie</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Niepowodzenie</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
   <string name="mms_breathing_light_color_title">Wiadomości SMS/MMS</string>
   <string name="mms_breathing_light_freq_title">Częstość pulsowania LED</string>
   <string name="mms_privacy_password_role_instruction">Rozmowy z prywatnymi kontaktami zostaną tu zapisane.</string>
@@ -4182,20 +4182,20 @@ Kontynuuj aby wyświetlić dodatkowe opcje."</string>
   <string name="nfc_payment_settings_title">Zbliż i zapłać</string>
   <string name="nfc_payment_use_default">Użyj domyślnej</string>
   <string name="nfc_repair_action_btn">Przywróć</string>
-  <string name="nfc_repair_action_desc">Naciśnij \"<b>Przywróć</b>"\" aby naprawić problemy uniemożliwiające używanie NFC. Nie opuszczaj tej strony w trakcie przywracania. Uruchom ponownie telefon aby wprowadzić zmiany."</string>
+  <string name="nfc_repair_action_desc">Naciśnij \"<b>Przywróć</b>"\", aby naprawić problemy uniemożliwiające używanie NFC. Nie opuszczaj tej strony w trakcie przywracania. Uruchom ponownie telefon aby wprowadzić zmiany."</string>
   <string name="nfc_repair_btn_no">Nie</string>
   <string name="nfc_repair_btn_reboot">Uruchom ponownie</string>
   <string name="nfc_repair_btn_reboot_later">Później</string>
   <string name="nfc_repair_btn_retry">Spróbuj ponownie</string>
   <string name="nfc_repair_btn_yes">Tak</string>
   <string name="nfc_repair_confirm_desc" formatted="false">"Czy napotkałeś/aś jeden z tych błędów?
-%d. Nie dało się dodać karty NFC
+%d. Nie dało się dodać karty NFC.
 %d. Karty NFC nie działały.
 %d. Inne funkcje NFC nie działały."</string>
-  <string name="nfc_repair_fail_desc">Napotkano błąd który uniemożliwił przywracanie NFC. Spróbuj ponownie.</string>
+  <string name="nfc_repair_fail_desc">Napotkano błąd, który uniemożliwił przywracanie NFC. Spróbuj ponownie.</string>
   <string name="nfc_repair_fail_title">"Nie można przywrócić"</string>
   <string name="nfc_repair_ongoing">"Przywracanie… Nie opuszczaj tej strony."</string>
-  <string name="nfc_repair_pass_desc">Uruchom ponownie telefon aby wprowadzić zmiany.</string>
+  <string name="nfc_repair_pass_desc">Uruchom ponownie telefon, aby wprowadzić zmiany.</string>
   <string name="nfc_repair_pass_title">Pomyślnie przywrócono</string>
   <string name="nfc_repair_summary">Napraw problemy uniemożliwiające używanie NFC</string>
   <string name="nfc_repair_title">Przywróć działanie NFC</string>
@@ -4565,7 +4565,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="passpoint_content">Dane logowania do: %1$s</string>
   <string name="passpoint_label">Zapisane przez</string>
   <string name="passwordIncorrect">Hasło jest nieprawidłowe</string>
-  <string name="password_and_security">Hasła &amp; Ochrona</string>
+  <string name="password_and_security">Hasła i bezpieczeństwo</string>
   <string name="password_entrance_title">Hasło</string>
   <string name="password_guard">Hasło</string>
   <string name="password_security_settings_title">Hasła i bezpieczeństwo</string>
@@ -5124,7 +5124,7 @@ Interfejs UT: %5$s"</string>
   <string name="restore_dialog_positive">Zresetuj</string>
   <string name="restore_dialog_title">Uwaga</string>
   <string name="restore_item_apps">Aplikacje</string>
-  <string name="restore_oaid_content">Zresetowanie swoje wirtualne ID aby usunąć dane preferencji.</string>
+  <string name="restore_oaid_content">Zresetuj swoje wirtualne ID, aby usunąć dane preferencji.</string>
   <string name="restore_oaid_positive">Zresetuj</string>
   <string name="restore_oaid_title">Zresetuj wirtualne ID</string>
   <string name="restr_pin_enter_admin_pin">Podaj PIN administratora</string>
@@ -6011,14 +6011,14 @@ Wpisany kod PIN może być błędny."</string>
   <string name="sort_max_use">Sortuj wg maksymalnego użycia</string>
   <string name="sort_order_alpha">Sortuj według nazwy</string>
   <string name="sort_order_size">Sortuj według rozmiaru</string>
-  <string name="sos_phone_call_privacy_dialog_message">"Aby zadzwonić na kontakty alarmowe, Ta aplikacja wymaga następujących uprawnień:
+  <string name="sos_phone_call_privacy_dialog_message">"Aby zadzwonić do kontaktów alarmowych i odtworzyć nagranie SOS, ta aplikacja wymaga następujących uprawnień:
 • Wykonywanie połączeń
 Aby wykonać połączenie do kontaktów alarmowych
 • Monitorowanie stanu urządzenia
-Aby odegrać nagranie SOS jeśli kontakt alarmowy odbierze połączenie
+Aby odtworzyć nagranie SOS, jeśli kontakt alarmowy odbierze połączenie.
 Jeśli nie zgadzasz się na nadanie tych uprawnień, nie będziesz mógł/mogła używać części funkcji; jednak funkcje podstawowe wciąż będą dostępne. Zawsze możesz wyłączyć tę funkcję."</string>
   <string name="sos_phone_call_privacy_dialog_message_confirm">Zezwól</string>
-  <string name="sos_phone_log_privacy_dialog_message">"Ta aplikacja potrzebuje dostępu do historii połączeń aby móc wysłać ją kontaktom alarmowym.
+  <string name="sos_phone_log_privacy_dialog_message">"Ta aplikacja potrzebuje dostępu do historii połączeń, aby móc wysłać ją kontaktom alarmowym.
 Jeśli nie zgadzasz się na nadanie tych uprawnień, nie będziesz mógł/mogła używać części funkcji; jednak funkcje podstawowe wciąż będą dostępne. Zawsze możesz wyłączyć tę funkcję."</string>
   <string name="sos_privacy_and_content_policy">Zgodą użytkownika i Polityką prywatności</string>
   <string name="sos_privacy_dialog_button_cancel">Anuluj</string>
@@ -6026,18 +6026,18 @@ Jeśli nie zgadzasz się na nadanie tych uprawnień, nie będziesz mógł/mogła
   <string name="sos_privacy_dialog_message">"Przed użyciem tej funkcji przeczytaj i zatwierdź %s. 
 Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowych i dostępu do kontaktów. Czy zgadzasz się na to?"</string>
   <string name="sos_privacy_dialog_message_new_version">"Alarmowy SOS pozwala ci udostępniać twoją lokalizację w czasie rzeczywistym oraz wysyłać wiadomości tekstowe do kontaktów alarmowych.
-Będziemy chronić twoje dane osobowe zgodnie z ustawami obowiązującymi w danym regionie
-Ta aplikacja wymaga połączenia z internetem oraz następujących uprawnień:
+Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności.
+Ta aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:
 • Dostęp do pamięci urządzenia
 Aby zapisać kontakty alarmowe
 • Dostęp do kontaktów
-Aby uczynić określone kontakty alarmowymi
+Aby oznaczyć określone kontakty jako alarmowe,
 • Wysyłanie SMS
 Aby wysyłać wiadomości tekstowe do kontaktów alarmowych
 • Dostęp do lokalizacji
-Aby udostępniać twoją lokalizację kontaktom alarmowym
+Aby udostępniać twoją lokalizację kontaktom alarmowym.
 Jeśli nie zgadzasz się na nadanie tych uprawnień lub udostępnianie twoich danych osobowych, nie możesz używać tej aplikacji.
-Przed używaniem naszych usług, przeczytaj naszą %s."</string>
+Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="sos_privacy_dialog_title">Warunki użytkowania</string>
   <string name="sound_assist_summary">Dostosuj ustawienia dźwięku</string>
   <string name="sound_assist_title">Asystent dźwięku</string>
@@ -6372,7 +6372,7 @@ Wydajność może poprawić inny nośnik ^1."</string>
   <string name="structure_face_data_input_error_expose_features">"Nie widać niektórych części twarzy"</string>
   <string name="structure_face_data_input_error_keep_inface">Miej twarz wewnątrz ramki</string>
   <string name="structure_face_data_input_error_overly_light">Za dużo światła</string>
-  <string name="structure_face_data_input_left">Obróć głowę w lewo</string><string name="structure_face_data_input_left">Obróć głowę w lewo</string>
+  <string name="structure_face_data_input_left">Obróć głowę w lewo</string>
   <string name="structure_face_data_input_right">Obróć głowę w prawo</string>
   <string name="structure_face_data_input_timeout_msg">"Nie można zapisać danych."</string>
   <string name="structure_face_data_input_timeout_title">Spróbuj ponownie</string>
@@ -6391,7 +6391,7 @@ Wydajność może poprawić inny nośnik ^1."</string>
   <string name="structure_face_hardware_abnormal_msg">"Wystąpił błąd sprzętu. Zrestartuj urządzenie. Jeśli to nie pomoże, skontaktuj się z serwisem."</string>
   <string name="structure_face_hardware_abnormal_title">Błąd sprzętu</string>
   <string name="structure_face_modules_abnormal_btn">Uruchom ponownie</string>
-  <string name="structure_face_modules_abnormal_msg">"Can't record face data due to an optical module error. Reboot your device and try again."</string>
+  <string name="structure_face_modules_abnormal_msg">"Nie udało się zapisać danych twarzy przez błąd z modułem optycznym. Zrestartuj telefon i spróbuj ponownie."</string>
   <string name="structure_face_modules_abnormal_title">Błąd modułu optycznego</string>
   <string name="structure_face_unlock_model2d_dialog_msg">"Rozpoznawanie 3D zostanie wyłączone. Twoje dane twarzy 3D zostaną usunięte, a dane 2D muszą być teraz zapisane. Włączyć rozpoznawanie 2D?"</string>
   <string name="structure_face_unlock_model2d_dialog_title">Włączanie rozpoznawania 2D</string>
@@ -7708,9 +7708,9 @@ Zezwolić na to wszystkim aplikacjom, które chcą wykonywać skanowanie?"</stri
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Brak</string>
-  <string name="wifi_security_none_owe">None/Enhanced Otwarte</string>
+  <string name="wifi_security_none_owe">Brak/Enhanced Open</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_short_none_owe">None/OWE</string>
+  <string name="wifi_security_short_none_owe">Brak/OWE</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
