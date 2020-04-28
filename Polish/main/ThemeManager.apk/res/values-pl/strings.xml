@@ -738,7 +738,7 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="support_theme_store_des">Dobre motywy są tworzone przez utalentowanych twórców. Aplikacja Motywy zawiera reklamy (na xiaomi.eu wyłączone), które pozwalają Xiaomi na wsparcie ich pracy.</string>
   <string name="support_theme_store_supported">Dziękujemy za Twoje wsparcie!</string>
   <string name="support_theme_store_title">Wspomóż twórców Xiaomi</string>
-  <string name="swipe_find_more">przesuń w górę</string> 
+  <string name="swipe_find_more">Przesuń w lewo, aby wyświetlić więcej</string> 
   <string name="system_aod_dialog_message">Włącz najpierw tryb Ekran zawsze włączony w Ustawieniach.</string>
   <string name="system_aod_dialog_positive_button">Ustawienia</string>
   <string name="system_aod_dialog_title">Ekran zawsze włączony jest wyłączony</string>
@@ -994,4 +994,12 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
   <string name="xiaoai_speech_not_installed_download">Pobierz</string>
   <string name="xiaoai_speech_not_installed_message">Pobierz i zainstaluj Mi SI, aby kontynuować.</string>
   <string name="xiaoai_speech_not_installed_title">"Asystent Mi SI nie jest zainstalowany."</string>
+  <string name="ota_recovery_theme_dialog_message">Niektóre elementy poprzednio używanego motywu mogą nie być zgodne z nową wersją MIUI. Niezgodne elementy zostaną zastąpione domyślnymi opcjami.</string>
+  <string name="ota_recovery_theme_dialog_title">Przywracanie oryginalnego motywu</string>
+  <string name="ota_recovery_theme_notity_btn">Przywróć</string>
+  <string name="ota_recovery_theme_notity_content">"Możesz wrócić do motywu używanego przed aktualizacją"</string>
+  <string name="ota_recovery_theme_notity_title">Przywróć swój motyw</string>
+  <string name="resource_incall_show_download">Pobierz wideo</string>
+  <string name="super_wallpaper">Super tapeta</string>
+  <string name="theme_wallpaper">Kategoria tapet</string>
 </resources>
