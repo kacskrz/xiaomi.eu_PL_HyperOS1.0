@@ -92,7 +92,7 @@
   <string name="handset_text_usb_handset_insert">Dotknij, aby otworzyć dodatkowe ustawienia</string>
   <string name="handset_title_unsupported_handset_insert">"Adaptery do słuchawek USB nie są wspierane"</string>
   <string name="handset_title_usb_handset_insert">Odtwarzanie dźwięku przez USB</string>
-  <string name="help">Zobacz pomoc</string>
+  <string name="help">Nie możesz znaleźć urządzeń?</string>
   <string name="help_content">"Jeśli nie możesz odnaleźć urządzenia, którego potrzebujesz, zapytaj inną osobę, czy włączyła ona funkcję Mi Share."</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Umieść palec na przycisku Ekranu głównego</string>
   <string name="input_method_clipboard_check_more_add_to_phrase">Dodaj częsty zwrot</string>
@@ -290,4 +290,11 @@
   <string name="wireless_charging_notification_titile">Wyłączono ładowanie zwrotne</string>
   <string name="xspace_head">Sklonowana aplikacja</string> 
   <string name="xspace_resolver_activity_title">Wybierz aplikację</string>
+  <string name="device_status_failed">"Nie można wysłać"</string>
+  <string name="device_status_sending">Wysyłanie…</string>
+  <string name="device_status_success">Pomyślnie wysłano</string>
+  <string name="device_status_waiting">Czekaj…</string>
+  <string name="open_close_tip_action">Rozumiem</string>
+  <string name="open_close_tip_content">Aby zamknąć pływające okno, naciśnij i przytrzymaj pasek akcji, a następnie przesuń palcem w górę</string>
+  <string name="security_share_text">Ochrona prywatności</string>
 </resources>
