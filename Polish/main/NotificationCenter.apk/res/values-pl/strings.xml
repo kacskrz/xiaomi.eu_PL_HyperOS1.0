@@ -122,8 +122,6 @@ Zgłoś ten problem >"</string>
     <string name="tip_feedback_success">Pomyślnie zgłoszono</string>
     <string name="tip_select_category">Wybierz kategorię powiadomień</string>
 	<string name="actionbar_button_up_description">Wróć</string>
-    <string name="cancel">Anuluj</string>
-    <string name="category_other">Inne</string>
     <string name="clearable_edittext_clear_description">Wyczyść</string>
     <string name="copy">Kopiuj</string>
     <string name="evening">Popołudnie</string>
