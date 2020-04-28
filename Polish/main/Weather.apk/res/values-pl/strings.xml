@@ -394,4 +394,18 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="xiaomi_weather_description_title">O aplikacji</string>
   <string name="yes_vote_ratio">For %1$s%%</string>
   <string name="your_location">Twoja lokalizacja</string>
+  <string name="dislike_alert_dialog_title">Dlaczego nie chcesz widzieć tej zawartości?</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie...</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Na razie to wszystko</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Na razie to wszystko</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
+  <string name="not_set">Nieustawione</string>
+  <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
+  <string name="thanku_for_feedback">Dziękujemy za opinię, możesz ponownie otworzyć film pogodowy w ustawieniach</string>
+  <string name="v7_preference_off">WYŁ.</string>
+  <string name="v7_preference_on">WŁ.</string>
 </resources>
