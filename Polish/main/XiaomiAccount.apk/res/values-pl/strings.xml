@@ -679,8 +679,8 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="health_action_install">Instaluj</string>
   <string name="health_action_update">Zaktualizuj</string>
   <string name="health_description_normal">Kroki</string>
-  <string name="health_state_not_activated">Nie aktywowane</string>
-  <string name="health_state_not_installed">Nie zainstalowane</string>
+  <string name="health_state_not_activated">Nieaktywowane</string>
+  <string name="health_state_not_installed">Niezainstalowane</string>
   <string name="health_state_not_support">Niewspierane w tej wersji</string>
   <string name="mi_health">Zdrowie</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
@@ -694,10 +694,10 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="not_set">Nieustawione</string>
   <string name="passport_google_login">Zaloguj się za pomocą konta Google?</string>
   <string name="passport_google_login_agree">Konto Google</string>
-  <string name="passport_google_login_disagree">Konto Mi</string>
-  <string name="passport_google_login_failed">"Nie udało się zalogować za pomocą Google. Zaloguj się bezpośrednio do swojego konta Mi."</string>
+  <string name="passport_google_login_disagree">Konto Xiaomi</string>
+  <string name="passport_google_login_failed">"Nie udało się zalogować za pomocą Google. Zaloguj się bezpośrednio do swojego konta Xiaomi."</string>
   <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
-  <string name="state_data_error">"Couldn't get data"</string>
+  <string name="state_data_error">"Nie można pobrać danych"</string>
   <string name="state_loading">Chwileczkę…</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
