@@ -252,4 +252,5 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="voice_assist_title">Wybudź głosem</string>
   <string name="welcome">Witamy</string>
   <string name="zone_picker_title">Strefa czasowa</string>
+  <string name="service_policy_download"><Data>Przed użyciem usług Xunlei przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności Xunlei&lt;/a >.</Data></string>
 </resources>
