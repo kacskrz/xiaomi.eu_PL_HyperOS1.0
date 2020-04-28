@@ -456,7 +456,7 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="abc_toolbar_collapse_description">Zwiń</string>
     <string name="copy">Kopiuj</string>
     <string name="expand_button_title">Zaawansowane</string>
-    <string name="miui_clear_apks_summary">Całkowity %s</string>
+    <string name="miui_clear_apks_summary">Łącznie %s</string>
     <string name="miui_clear_apks_title">Automatycznie usuwaj pakiety instalacyjne</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
