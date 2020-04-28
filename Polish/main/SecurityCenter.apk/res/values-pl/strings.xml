@@ -3221,7 +3221,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="vb_video_effects_settings_stereo">Głośność</string>
   <string name="vb_video_effects_srs_premium_sound">Dźwięk</string>
   <string name="video_repeat">Odtwórz ponownie</string>
-  <string name="videobox_hangup_tips_content">Twój ekran zostanie zablokowany, ale aplikacja będzie nadal działać w tle gdy ta funkcja jest włączona. Naciśnij przycisk zasilania, aby ponownie włączyć ekran. Włączyć teraz tę funkcję?</string>
+  <string name="videobox_hangup_tips_content">Twój ekran zostanie zablokowany, ale aplikacja będzie nadal działać w tle, gdy ta funkcja jest włączona. Naciśnij przycisk zasilania, aby ponownie włączyć ekran. Włączyć teraz tę funkcję?</string>
   <string name="videobox_hangup_tips_title">Uwaga</string>
   <string name="videobox_settings_line_location">Położenie skrótu</string>
   <string name="videobox_settings_line_location_desc">Wyświetlaj skrót na krawędzi ekranu</string>
@@ -3359,13 +3359,13 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="abc_shareactionprovider_share_with">Udostępnij przez</string>
   <string name="abc_shareactionprovider_share_with_application">Udostępnij przez %s</string>
   <string name="abc_toolbar_collapse_description">Zwiń</string>
-  <string name="app_behavior_desc_virtual_once">Zwrócił pustą wiadomość o %1$s</string>
-  <string name="app_behavior_get_install">%1s uzyskała dostęp do twoich aplikacji</string>
-  <string name="app_behavior_get_install_single">Ta aplikacja uzyskała dostęp do listy twoich aplikacji</string>
+  <string name="app_behavior_desc_virtual_once">Zwrócono pustą wiadomość o %1$s</string>
+  <string name="app_behavior_get_install">%1s uzyskała dostęp do Twoich aplikacji</string>
+  <string name="app_behavior_get_install_single">Ta aplikacja uzyskała dostęp do listy Twoich aplikacji</string>
   <string name="app_behavior_now_running">Uruchomiona</string>
-  <string name="app_behavior_perm_change_tip_virtual">\"%1s\" zmieniono na \"Return blank messages\"</string>
-  <string name="app_behavior_start_from_app" formatted="false">%1s została uruchomiona przez %2s</string>
-  <string name="app_behavior_this_run">Raz</string>
+  <string name="app_behavior_perm_change_tip_virtual">\"%1s\" zmieniono na \"Zwracaj puste wiadomości\"</string>
+  <string name="app_behavior_start_from_app" formatted="false">Aplikacja %1s została uruchomiona przez aplikację %2s</string>
+  <string name="app_behavior_this_run">Tylko raz</string>
   <string name="cd_back">Wróć</string>
   <string name="copy">Kopiuj</string>
   <string name="cta_agree_desc">Aby móc korzystać z naszych usług, pozwól tej aplikacji na łączenie się z Internetem i udziel uprawnień wymienionych powyżej.</string>
@@ -3374,7 +3374,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="empty_title_installed_apps">Pusty</string>
   <string name="expand_button_title">Zaawansowane</string>
   <string name="gb_advance_settings_vibration_4d_summary2">Wibruj podczas zabójstw w grze</string>
-  <string name="intl_perm_intro_message">Stuknij, aby dostosować uprawnienia pozwoli to uniknąć wycieku danych</string>
+  <string name="intl_perm_intro_message">Dotknij, aby dostosować uprawnienia - pozwoli to uniknąć wycieku danych</string>
   <string name="intl_perm_notification_content">Dostosuj uprawnienia</string>
   <string name="intl_perm_notification_title">Chroń swoją prywatność</string>
   <string name="memory_title">Dostępne: %1$s\u0009\u0009Razem: %2$s</string>
@@ -3393,7 +3393,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="optional_permissions">Opcjonalne uprawnienia</string>
   <string name="optional_permissions_desc">"Te uprawnienia są wymagane, gdy korzystasz z dodatkowych funkcji."</string>
   <string name="pc_battery_history_consumption_percent_title">Procent zużycia energii</string>
-  <string name="pc_battery_history_idletime_title">Stan czuwania</string>
+  <string name="pc_battery_history_idletime_title">Tryb czuwania</string>
   <string name="pc_battery_history_item_chart">Wykres zużycia energii</string>
   <string name="pc_battery_history_item_histogram">Szczególy zużycia energii</string>
   <string name="pc_battery_history_total_consumption_title">Łączne zużycie energii</string>
@@ -3402,7 +3402,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="perm_intercept_notification_title">Zezwolenie %1s na używanie powiadomień pozwoli tej aplikacji wykonać następujące działania:</string>
   <string name="perm_intercept_privacy_content">Te działania mogą narazić Twoje dane osobowe. Udzielić uprawnień (%1s) mimo wszystko?</string>
   <string name="perm_intercept_title">Zezwolenie na dostęp do danych użytkowania dla %1s pozwoli tej aplikacji na wykonanie następujących działań:</string>
-  <string name="perm_intercept_unknown_title">Zezwolenie %1s na instalowanie aplikacji z nieznanych źródeł może stwarzać następujące ryzyko:</string>
+  <string name="perm_intercept_unknown_title">Zezwolenie aplikacji %1s na instalowanie aplikacji z nieznanych źródeł może stwarzać następujące ryzyko:</string>
   <string name="permission_action_desc">Nadaj uprawnienia, ale zwróć puste wiadomości do aplikacji, aby chronić prywatność</string>
   <string name="permission_action_desc_always">Z tego uprawnienia można korzystać w dowolnym momencie</string>
   <string name="permission_action_desc_foreground">"Z tego uprawnienia można korzystać tylko podczas korzystania z aplikacji"</string>
@@ -3411,7 +3411,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="power_off_warning_button_ok">Rozumiem</string>
   <string name="power_off_warning_message">Niski poziom naładowania baterii. Twoje urządzenie wyłączy się za %d sekund. Podłącz ładowarkę.</string>
   <string name="power_off_warning_notification_title">Wyłączenie urządzenia</string>
-  <string name="power_save_mode_close_aod_display_summary">Wyłącz funkcję Ekran zawsze włączony gdy włączone jest oszczędzanie baterii</string>
+  <string name="power_save_mode_close_aod_display_summary">Wyłącz funkcję Ekran zawsze włączony, gdy włączone jest oszczędzanie baterii</string>
   <string name="power_save_mode_close_aod_display_title">Wyłącz funkcję Ekran zawsze włączony</string>
   <string name="power_save_ps_description_title">Oszczędzanie baterii aktywuje następujące ograniczenia:</string>
   <string name="power_superpower_title_systemui_highpower">Pozostały czas</string>
@@ -3431,27 +3431,27 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="privacy_danger_permission_summary">Monitoruj, w jaki sposób aplikacje wykorzystują Twoje uprawnienia</string>
   <string name="privacy_danger_permission_title">Powiadomienia o uprawnieniach</string>
   <string name="privacy_danger_permission_warning">Niebezpieczne uprawnienia</string>
-  <string name="privacy_dialog_call_item_1">Uzyskaj dostęp do informacji o urządzeniu</string>
-  <string name="privacy_dialog_call_item_2">Uzyskaj dostęp do wykonywania połączeń</string>
-  <string name="privacy_dialog_call_item_3">Uzyskaj dostęp do statusu urządzenia</string>
-  <string name="privacy_dialog_call_message">"Domyślnie MIUI nie zezwala aplikacjom innych firm na wykonywanie następujących działan:"</string>
+  <string name="privacy_dialog_call_item_1">Uzyskanie dostęp do informacji o urządzeniu</string>
+  <string name="privacy_dialog_call_item_2">Uzyskanie dostęp do wykonywania połączeń</string>
+  <string name="privacy_dialog_call_item_3">Uzyskanie dostęp do statusu urządzenia</string>
+  <string name="privacy_dialog_call_message">"Domyślnie MIUI nie zezwala aplikacjom innych firm na wykonywanie następujących działań:"</string>
   <string name="privacy_dialog_call_result">"Nadal będziesz mógł normalnie korzystać z aplikacji i usług innych firm. Jeśli jednak napotkasz jakiekolwiek problemy, napisz do nas."</string>
   <string name="privacy_dialog_call_title">Chroń połączenia</string>
   <string name="privacy_dialog_camera_message">"Aby chronić Twoją prywatność, MIUI nie zezwala aplikacjom na używanie aparatu w tle."</string>
   <string name="privacy_dialog_camera_title">Ogranicz użycie kamery w tle</string>
-  <string name="privacy_dialog_danger_mission_message">Android ma wiele niebezpiecznych uprawnień (np. Pozwolenie na wysyłanie powiadomień push). Aby chronić Twoją prywatność, MIUI zapyta, czy akceptujesz takie zachowanie, i pozwoli je ogaraniczyć.</string>
+  <string name="privacy_dialog_danger_mission_message">Android ma wiele niebezpiecznych uprawnień (np. pozwolenie na wysyłanie powiadomień push). Aby chronić Twoją prywatność, MIUI zapyta, czy akceptujesz takie zachowanie, i pozwoli je ogaraniczyć.</string>
   <string name="privacy_dialog_danger_mission_title">Niebezpieczne uprawnienia</string>
   <string name="privacy_dialog_feedback">Opinia</string>
   <string name="privacy_dialog_ok">Rozumiem</string>
   <string name="privacy_dialog_ok_with_num">Rozumiem (%ss)</string>
   <string name="privacy_dialog_open">Włącz</string>
-  <string name="privacy_empty_call">"Dzisiaj nie uzyskała dostępu do historii połączeń"</string>
-  <string name="privacy_empty_contact">"Dzisiaj nie uzyskała dostępu do kontaktów"</string>
-  <string name="privacy_empty_location">"Dzisiaj nie uzyskała dostępu do lokalizacji"</string>
-  <string name="privacy_empty_record">"Dzisiaj nie nagrała dźwięku"</string>
-  <string name="privacy_empty_storage">"Dzisiaj nie uzyskała dostępu do pamięci"</string>
+  <string name="privacy_empty_call">"Dzisiaj nie uzyskano dostępu do historii połączeń"</string>
+  <string name="privacy_empty_contact">"Dzisiaj nie uzyskano dostępu do kontaktów"</string>
+  <string name="privacy_empty_location">"Dzisiaj nie uzyskano dostępu do lokalizacji"</string>
+  <string name="privacy_empty_record">"Dzisiaj nie nagrano dźwięku"</string>
+  <string name="privacy_empty_storage">"Dzisiaj nie uzyskano dostępu do pamięci"</string>
   <string name="privacy_guide_permission_guide_text">Możesz otrzymywać ostrzeżenie, gdy aplikacje uzyskują dostęp do Twojej lokalizacji, nagrywają dźwięk lub robią zdjęcia.</string>
-  <string name="privacy_guide_permission_use_text">MIUI policzy i wyświetli liczbę przypadków w których aplikacja wykorzystuje poufne uprawnienia w tym lokalizację, dostęp do kontaktów, historię połączeń, dostęp do pamięci, a także nagrywanie dźwięku. Możesz dowiedzieć się ile razy każda aplikacja korzysta z tych uprawnień i określić czy musisz dostosować uprawnienia.</string>
+  <string name="privacy_guide_permission_use_text">MIUI policzy i wyświetli liczbę przypadków, w których aplikacja wykorzystuje poufne uprawnienia, w tym lokalizację, dostęp do kontaktów, historii połączeń, pamięci, a także nagrywania dźwięku. Możesz dowiedzieć się, ile razy każda aplikacja korzysta z tych uprawnień i określić, czy musisz dostosować uprawnienia.</string>
   <string name="privacy_informed_title">Statystyki</string>
   <string name="privacy_location_info_summary">Zarządzaj dostępem do swojej lokalizacji</string>
   <string name="privacy_location_info_title">Informacje o lokalizacji</string>
@@ -3467,7 +3467,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="privacy_permission_contacts">Dostęp lub edycja kontaktów</string>
   <string name="privacy_permission_location">Dostęp do lokalizacji</string>
   <string name="privacy_permission_management">Zarządzaj uprawnieniami</string>
-  <string name="privacy_permission_management_summary">Aplikacje które mają uprawnienia do wykonywania połączeń, wysyłania SMS-ów i uzyskiwania dostępu do kontaktów</string>
+  <string name="privacy_permission_management_summary">Aplikacje, które mają uprawnienia do wykonywania połączeń, wysyłania SMS-ów i uzyskiwania dostępu do kontaktów</string>
   <string name="privacy_permission_record">Nagrywanie dźwięku</string>
   <string name="privacy_permission_right">Prywatność</string>
   <string name="privacy_permission_status">Aktualnie używane uprawnienia</string>
@@ -3485,11 +3485,11 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="privacy_provision_back">Wróć</string>
   <string name="privacy_provision_more">Dowiedz się więcej o ochronie prywatności</string>
   <string name="privacy_provision_next">Dalej</string>
-  <string name="privacy_provision_summary">Ochrona prywatności to coś od czego zaczynamy projektować nasze produkty</string>
+  <string name="privacy_provision_summary">Ochrona prywatności to coś, od czego zaczynamy projektować nasze produkty</string>
   <string name="privacy_provision_text">Jesteśmy zobowiązani do poszanowania i ochrony Twojej prywatności. Traktujemy piorytetowo badania i rozwój w dziedzinie bezpieczeństwa informacji. Xiaomi stale pracuje nad ulepszaniem metod, praktyk i rozwiązań technicznych, które chronią twoje dane. Dzielimy się również naszymi najnowszymi osiągnięciami z naszymi partnerami, aby zapewnić prywatność na całym świecie.</string>
   <string name="privacy_provision_title">Prywatność</string>
   <string name="privacy_search_key_1">Prywatność</string>
-  <string name="privacy_search_key_10">Numer identyfikacyjny urzadzenia</string>
+  <string name="privacy_search_key_10">Identyfikator urządzenia</string>
   <string name="privacy_search_key_2">Przechwytywanie sieci</string>
   <string name="privacy_search_key_3">Uprawnienia</string>
   <string name="privacy_search_key_4">Zachowanie aplikacji</string>
@@ -3534,7 +3534,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="storage_app_detail_third_clean_size">Zwolniono %s</string>
   <string name="storage_app_detail_total">Zajęta przestrzeń</string>
   <string name="storage_app_detail_uninstall_app">Odinstaluj aplikacje</string>
-  <string name="storage_app_detail_uninstall_dialog_message">Aplikacja zostanie odinstalowana razem ze wszystkimi swoimi danymi</string>
+  <string name="storage_app_detail_uninstall_dialog_message">Aplikacja zostanie odinstalowana razem ze wszystkimi swoimi danymi.</string>
   <string name="storage_app_detail_uninstall_dialog_title">Odinstalować?</string>
   <string name="storage_app_detail_uninstall_done">Odinstalowano pomyślnie</string>
   <string name="storage_app_detail_wechat_cleaner">WeChat cleaner</string>
@@ -3557,9 +3557,9 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="storage_app_space_details_entry">Pokaż szczegóły aplikacji</string>
   <string name="storage_app_uninstall_app_dialog_msg">Wszystkie dane aplikacji zostaną również usunięte po odinstalowaniu aplikacji.</string>
   <string name="storage_app_uninstall_app_dialog_title">Odinstalowywanie aplikacji</string>
-  <string name="storage_available_total_size">%1$s z %2$s jest dostępne</string>
+  <string name="storage_available_total_size">Dostępne %1$s z %2$s</string>
   <string name="storage_available_total_size1">Zajęte: %1$s | Razem: %2$s</string>
-  <string name="storage_deepclean_entry">Głęboko czyszczenie</string>
+  <string name="storage_deepclean_entry">Głębokie czyszczenie</string>
   <string name="storage_dialog_unmountable">"^1 jest uszkodzony.
 
 Aby używać ^1, musisz go najpierw skonfigurać."</string>
@@ -3568,7 +3568,7 @@ Aby używać ^1, musisz go najpierw skonfigurać."</string>
 Aby używać ^1, musisz go najpierw zamontować."</string>
   <string name="storage_dialog_unsupported">"To urządzenie nie obsługuje ^1.
 
-Aby używać ^1 wraz z tym urządzeniem musisz go najpierw skonfigurować.."</string>
+Aby używać ^1 wraz z tym urządzeniem, musisz go najpierw skonfigurować."</string>
   <string name="storage_format_failure">"Nie można sformatować %1$s"</string>
   <string name="storage_format_success">Pomyślnie sformatowano %1$s</string>
   <string name="storage_item_apk_name">Aplikacje</string>
@@ -3591,10 +3591,10 @@ Aby używać ^1 wraz z tym urządzeniem musisz go najpierw skonfigurować.."</st
 
 Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć utraty danych, wykonaj kopię zapasową na innym ^3 lub urządzeniu."</string>
   <string name="storage_wizard_format_confirm_v2_title">Sformatować ^1?</string>
-  <string name="superpower_savemode_description_title">Ultra oszczędzanie baterii aktywuje następujące ograniczenia:</string>
-  <string name="system_permission_declare_meanwhile_double_link"><Data>Jednocześnie, aby w pełni zrozumieć Twoje prawa jako użytkownika, a także sposoby, w jaki wykorzystujemy Twoje dane, przeczytaj i zaakceptuj nasze dokumenty &lt;a href=\"%1$s\">Zgoda użytkownika&lt;/a> and &lt;a href=\"%2$s\">Polityka prywatności&lt;/a>.</Data></string>
+  <string name="superpower_savemode_description_title">Ultraoszczędzanie baterii aktywuje następujące ograniczenia:</string>
+  <string name="system_permission_declare_meanwhile_double_link"><Data>Jednocześnie, aby w pełni zrozumieć Twoje prawa jako użytkownika, a także sposoby, w jaki wykorzystujemy Twoje dane, przeczytaj i zaakceptuj nasze dokumenty &lt;a href=\"%1$s\">Umowa użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityka prywatności&lt;/a>.</Data></string>
   <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Jednocześnie, aby w pełni zrozumieć Twoje prawa jako użytkownika, a także sposoby, w jaki wykorzystujemy Twoje dane, przeczytaj i zaakceptuj nasze dokumenty &lt;a href=\"%1$s\">Polityka prywatności&lt;/a>.</Data></string>
-  <string name="system_permission_declare_meanwhile_user_agreement"><Data>Jednocześnie, aby w pełni zrozumieć Twoje prawa jako użytkownika, a także sposoby, w jaki wykorzystujemy Twoje dane, przeczytaj i zaakceptuj nasze dokumenty &lt;a href=\"%1$s\">Zgoda użytkownika&lt;/a>.</Data></string>
+  <string name="system_permission_declare_meanwhile_user_agreement"><Data>Jednocześnie, aby w pełni zrozumieć Twoje prawa jako użytkownika, a także sposoby, w jaki wykorzystujemy Twoje dane, przeczytaj i zaakceptuj nasze dokumenty &lt;a href=\"%1$s\">Umowa użytkownika&lt;/a>.</Data></string>
   <string name="system_permission_declare_privacy_no_network">Ta aplikacja wymaga następujących uprawnień, aby móc normalnie działać:</string>
   <string name="system_permission_declare_title">Uwaga</string>
   <string name="tab_sort_all">Wszystko</string>
