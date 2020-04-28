@@ -104,7 +104,7 @@
   <string name="alert_back_diving_mode_summary">Czy na pewno chcesz wyłączyć ten tryb?</string>
   <string name="alert_back_diving_mode_title">Tryb Poza siecią</string>
   <string name="alert_back_milink_hangup_tips_content">"Przesyłanie ekranu nie zostanie przerwane, gdy zakończysz połączenie. Możesz nacisnąć przycisk Zasilania, aby wybudzić ekran."</string>
-  <string name="alert_back_milink_hangup_tips_content_vb">"Przesyłanie ekranu nie zostanie przerwane, gdy jest on wyłączony, a jakaś aplikacja pracuje w tle. Możesz nacisnąć przycisk Zasilania, aby wybudzić ekran."</string>
+  <string name="alert_back_milink_hangup_tips_content_vb">"Gdy ekran jest wyłączony, aplikacja będzie działała w tle bez przerywania procesu przesyłania. Naciśnij przycisk zasilania, aby ponownie włączyć ekran."</string>
   <string name="all_address_choose_hint">Wszystkie lokalizacje</string>
   <string name="already_close_gamebooster">Tryb Game Turbo wył.</string>
   <string name="anim_gamebooster_text">Chwileczkę…</string>
@@ -552,13 +552,13 @@
   <string name="auto_task_edit_choose_operation_title">Akcje</string>
   <string name="auto_task_edit_condition_summary">Np. \"O godz. 23:00\"</string>
   <string name="auto_task_edit_condition_title">Dodaj warunek</string>
-  <string name="auto_task_edit_my_custom_task">Edytuj nazwę</string>
+  <string name="auto_task_edit_my_custom_task">Wpisz nazwę zadania</string>
   <string name="auto_task_edit_operation_summary">Np. \"Włącz tryb samolotowy\"</string>
   <string name="auto_task_edit_step1">1.</string>
   <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Nazwa</string>
   <string name="auto_task_main_title">Zaplanowane zadania</string>
-  <string name="auto_task_mamange_activity_title">Ustawienia</string>
+  <string name="auto_task_mamange_activity_title">Zautomatyzowane zadania</string>
   <string name="auto_task_manage_delete_prompt">Usunąć wybrane zadania?</string>
   <string name="auto_task_manage_new_task">Nowe zadanie</string>
   <string name="auto_task_manager_group_title">Zaplanowane zadania</string>
@@ -585,7 +585,7 @@
   <string name="auto_task_operation_mobile_data">Dane mobilne</string>
   <string name="auto_task_operation_modify_string">Edytuj: %s</string>
   <string name="auto_task_operation_mute">Cichy</string>
-  <string name="auto_task_operation_no_op">Nie wykonuj tej akcji</string>
+  <string name="auto_task_operation_no_op">Nic</string>
   <string name="auto_task_operation_open">Wł.</string>
   <string name="auto_task_operation_open_string">Wł.: %s</string>
   <string name="auto_task_operation_string_comma">", "</string>
@@ -819,7 +819,7 @@
   <string name="cpu_usage_view_action_btn_text">Dotknij, aby wyświetlić</string>
   <string name="create_gamebooster_destop">Pomyślnie utworzono skrót</string>
   <string name="create_shortcut">Utwórz skrót do Game Turbo na pulpicie</string>
-  <string name="cta_HIPS_Perm_Location_Desc">dokładna lokalizacja (przez GPS/sieć)</string>
+  <string name="cta_HIPS_Perm_Location_Desc">Aby wyświetlać ostrzeżenia o trzęsieniu ziemi odpowiednie dla Twojej lokalizacji</string>
   <string name="cta_button_text_agree">Zgadzam się</string>
   <string name="cta_button_text_cancel">Anuluj</string>
   <string name="cta_checkbox_title">"Nie pokazuj ponownie"</string>
@@ -831,7 +831,7 @@
   <string name="cta_dialog_negative">Wyjdź</string>
   <string name="cta_dialog_positive">Zgoda</string>
   <string name="cta_dialog_title">Łączność z siecią</string>
-  <string name="cta_main_purpose">Witaj w Panelu sterowania! Możesz użyć tej aplikacji do usuwania plików śmieci z urządzenia, odnajdywania i usuwania wirusów, optymalizowania wydajności pod gry, oszczędzania baterii, zarządzania aplikacjami itd.</string>
+  <string name="cta_main_purpose">Witaj w Panelu sterowania! Możesz użyć tej aplikacji, aby zwolnić miejsce, skanować urządzenie w poszukiwaniu wirusów, kontrolować zużycie baterii, optymalizować gry, zarządzać aplikacjami, otrzymywać ostrzeżenia o trzęsieniu ziemi i nie tylko.</string>
   <string name="cta_settings">Zezwól na łączność z siecią i dostęp do lokalizacji</string>
   <string name="current_network_state_not_need_diagnose">Sieć działa poprawnie</string>
   <string name="customize_limit_pkg">%s (własne)</string>
@@ -1268,7 +1268,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="gb_advance_settings_screen_hdr_summary">Zwiększ kontrast i popraw szczegóły w grach</string>
   <string name="gb_advance_settings_touch">Kontrola dotyku</string>
   <string name="gb_advance_settings_vibration_4d">Wibracje 4D</string>
-  <string name="gb_advance_settings_vibration_4d_summary">Odwzoruj akcje w grze za pomocą wibracji</string>
+  <string name="gb_advance_settings_vibration_4d_summary">Wibruj podczas strzałów w grze</string>
   <string name="gb_audition_instruction">Przytrzymaj, aby nagrać (%1$s-%2$s s)</string>
   <string name="gb_audition_play_instruction">Użyj słuchawek dla lepszego efektu</string>
   <string name="gb_create_icon_summary">Utwórz skrót na pulpicie</string>
@@ -2931,23 +2931,23 @@ Jeśli nie modyfikowałeś MIUI w żaden sposób, upewnij się, że wiesz skąd 
   <string name="system_check_content_none">Bezpiecznie</string>
   <string name="system_header_title">Usuń %1$d procesów i zwolnij %2$s z pamięci</string>
   <string name="system_info_remind">Zablokuj dostęp do aplikacji</string>
-  <string name="system_permission_declare_analytics_declare">"Dziękujemy za dołączenie do Programu zadowolenia użytkownika Xiaomi. Aby ta funkcja działała normalnie, Twoje urządzenie musi być połączone z Internetem. Musisz także nadać uprawnienia, aby pozwolić Xiaomi na gromadzenie danych, które pomogą firmie ulepszać ich aplikacje i produkty. Są one przetwarzane tylko w celach statystycznych i nie posłużą do Twojej identyfikacji."</string>
+  <string name="system_permission_declare_analytics_declare">"Dziękujemy za dołączenie do Programu zadowolenia użytkownika Xiaomi. Ta aplikacja musi łączyć się z Internetem i używać następujących uprawnień lub funkcji do zbierania statystyk w celu poprawy świadczonych przez nas usług. Gromadzimy tutaj dane wyłącznie w celach statystycznych i nie możemy zidentyfikować Cię na podstawie danych, które zbieramy."</string>
   <string name="system_permission_declare_agree">Zgoda</string>
   <string name="system_permission_declare_disagree">Nie zgadzam się</string>
-  <string name="system_permission_declare_double_link"><Data>Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
+  <string name="system_permission_declare_double_link"><Data>Aby w pełni zrozumieć Twoje prawa jako użytkownika, a także sposoby w jaki wykorzystujemy Twoje dane przeczytaj i zaakceptuj: &lt;a href=\"%1$s\">Umowa użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityka prywatności&lt;/a> Xiaomi.</Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Witaj w aplikacji %1s! Pozwala ci ona na używanie następujących funkcji: %2s.</string>
   <string name="system_permission_declare_no_say_no">"Jeśli nie nadasz wymaganych uprawnień lub nie pozwolisz nam na gromadzenie i używanie Twoich danych, ta aplikacja nie będzie mogła działać normalnie."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Jeśli nie chcesz nadać uprawnień, możesz cofnąć dołączenie do programu w Ustawieniach > Hasła i bezpieczeństwo > Prywatność > Program zadowolenia użytkownika."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Jeśli nie nadasz wymaganych uprawnień lub nie pozwolisz nam na gromadzenie i używanie Twoich danych, ta aplikacja będzie mogła działać tylko częściowo."</string>
-  <string name="system_permission_declare_privacy_declare">Xiaomi będzie chronić Twoje osobiste dane w zgodzie z odpowiednimi przepisami i politykami prywatności. Ta aplikacja, do gromadzenia Twoich danych, wymaga połączenia z Internetem oraz następujących uprawnień:</string>
-  <string name="system_permission_declare_privacy_no_permission">Ta aplikacja wymaga połączenia z Internetem i gromadzenia niezbędnych danych w celu dostarczania do Ciebie odpowiednich usług. Xiaomi będzie chronić Twoje osobiste dane w zgodzie z odpowiednimi przepisami i politykami prywatności.</string>
-  <string name="system_permission_declare_privacy_policy"><Data>Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
+  <string name="system_permission_declare_privacy_declare">Ta aplikacja musi połączyć się z Internetem i wymaga następujących uprawnień, aby normalnie działać:</string>
+  <string name="system_permission_declare_privacy_no_permission">Ta aplikacja musi połączyć się z Internetem i zebrać wymagane dane osobowe, aby móc normalnie pracować.</string>
+  <string name="system_permission_declare_privacy_policy"><Data>Aby w pełni zrozumieć Twoje prawa jako użytkownika, a także sposoby, w jaki wykorzystujemy Twoje dane, przeczytaj i zaakceptuj: &lt;a href=\"%1$s\">Polityka prywatności&lt;/a> Xiaomi.</Data></string>
   <string name="system_permission_declare_revoke_path">Możesz odinstalować tą aplikację, wylogować się z swojego konta lub zarządzać swoimi uprawnieniami i autoryzacją w Panelu sterowania > Zarządzaj aplikacjami > Uprawnienia > Inne uprawnienia.</string>
   <string name="system_permission_declare_revoke_system">Możesz wyjść z tej aplikacji.</string>
   <string name="system_permission_declare_revoke_uninstallable">Możesz odinstalować tą aplikację lub zarządzać swoimi uprawnieniami i autoryzacją w Panelu sterowania > Zarządzaj aplikacjami > Uprawnienia > Inne uprawnienia.</string>
   <string name="system_permission_declare_use_network">Łączenie się z siecią</string>
   <string name="system_permission_declare_use_network_no_permission">Połącz się z siecią</string>
-  <string name="system_permission_declare_user_agreement"><Data>Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> Xiaomi.</Data></string>
+  <string name="system_permission_declare_user_agreement"><Data>Aby w pełni zrozumieć Twoje prawa jako użytkownika, a także sposoby, w jaki wykorzystujemy Twoje dane, przeczytaj i zaakceptuj: &lt;a href=\"%1$s\">Umowa użytkownika&lt;/a> Xiaomi.</Data></string>
   <string name="system_permission_perm_answer_call">Wykonywanie połączeń</string>
   <string name="system_permission_perm_optional">" (opcjonalne)"</string>
   <string name="system_permission_perm_read_mms">Odczyt MMS-ów</string>
@@ -3221,7 +3221,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="vb_video_effects_settings_stereo">Głośność</string>
   <string name="vb_video_effects_srs_premium_sound">Dźwięk</string>
   <string name="video_repeat">Odtwórz ponownie</string>
-  <string name="videobox_hangup_tips_content">Ta funkcja pozwala na uruchamianie aplikacji w tle, gdy ekran jest wyłączony. Włączyć ją teraz?</string>
+  <string name="videobox_hangup_tips_content">Twój ekran zostanie zablokowany, ale aplikacja będzie nadal działać w tle gdy ta funkcja jest włączona. Naciśnij przycisk zasilania, aby ponownie włączyć ekran. Włączyć teraz tę funkcję?</string>
   <string name="videobox_hangup_tips_title">Uwaga</string>
   <string name="videobox_settings_line_location">Położenie skrótu</string>
   <string name="videobox_settings_line_location_desc">Wyświetlaj skrót na krawędzi ekranu</string>
@@ -3587,4 +3587,24 @@ Aby używać ^1 wraz z tym urządzeniem musisz go najpierw skonfigurować.."</st
   <string name="storage_unmount_failure">"Nie można odmontować %1$s"</string>
   <string name="storage_unmount_success">Pomyślnie odmontowano %1$s</string>
   <string name="storage_wizard_format_confirm_v2_action">Formatuj ^1</string>
+  <string name="storage_wizard_format_confirm_v2_body">"^1 musi zostać sformatowane do przechowywania aplikacji, plików i multimediów.
+
+Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć utraty danych, wykonaj kopię zapasową na innym ^3 lub urządzeniu."</string>
+  <string name="storage_wizard_format_confirm_v2_title">Sformatować ^1?</string>
+  <string name="superpower_savemode_description_title">Ultra oszczędzanie baterii aktywuje następujące ograniczenia:</string>
+  <string name="system_permission_declare_meanwhile_double_link"><Data>Jednocześnie, aby w pełni zrozumieć Twoje prawa jako użytkownika, a także sposoby, w jaki wykorzystujemy Twoje dane, przeczytaj i zaakceptuj nasze dokumenty &lt;a href=\"%1$s\">Zgoda użytkownika&lt;/a> and &lt;a href=\"%2$s\">Polityka prywatności&lt;/a>.</Data></string>
+  <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Jednocześnie, aby w pełni zrozumieć Twoje prawa jako użytkownika, a także sposoby, w jaki wykorzystujemy Twoje dane, przeczytaj i zaakceptuj nasze dokumenty &lt;a href=\"%1$s\">Polityka prywatności&lt;/a>.</Data></string>
+  <string name="system_permission_declare_meanwhile_user_agreement"><Data>Jednocześnie, aby w pełni zrozumieć Twoje prawa jako użytkownika, a także sposoby, w jaki wykorzystujemy Twoje dane, przeczytaj i zaakceptuj nasze dokumenty &lt;a href=\"%1$s\">Zgoda użytkownika&lt;/a>.</Data></string>
+  <string name="system_permission_declare_privacy_no_network">Ta aplikacja wymaga następujących uprawnień, aby móc normalnie działać:</string>
+  <string name="system_permission_declare_title">Uwaga</string>
+  <string name="tab_sort_all">Wszystko</string>
+  <string name="traffic_provider_no_sim">"Karta SIM nie jest włożona"</string>
+  <string name="usb_eject">Odmontuj urządzenie USB</string>
+  <string name="usb_eject_summary">Odmontuj urządzenie USB, aby je bezpiecznie usunąć</string>
+  <string name="usb_format">Sformatuj urządzenie USB</string>
+  <string name="usb_format_summary">Usuń wszystkie dane z urządzenia USB (w tym muzyka i zdjęcia)</string>
+  <string name="usb_insert_summary">Podłącz urządzenie USB</string>
+  <string name="usb_mount">Zamontuj urządzenie USB</string>
+  <string name="v7_preference_off">WYŁ.</string>
+  <string name="v7_preference_on">WŁ.</string>
 </resources>
