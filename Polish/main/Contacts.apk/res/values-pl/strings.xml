@@ -1426,13 +1426,10 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="time_picker_dialog_title">Ustaw czas</string>
   <string name="time_picker_label_hour">godz.</string>
   <string name="time_picker_label_minute">min</string>
-  <string name="today">Dzisiaj</string>
-  <string name="tomorrow">Jutro</string>
   <string name="tuesday">Wtorek</string>
   <string name="tuesday_short">Wt</string>
   <string name="tuesday_shortest">W</string>
   <string name="wednesday">Środa</string>
   <string name="wednesday_short">Śr</string>
   <string name="wednesday_shortest">Ś</string>
-  <string name="yesterday">Wczoraj</string>
 </resources>
