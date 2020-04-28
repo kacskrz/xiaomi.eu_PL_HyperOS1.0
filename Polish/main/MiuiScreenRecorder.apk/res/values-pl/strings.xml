@@ -119,4 +119,12 @@
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
   <string name="warning_recording_when_a2dp_connect">To urządzenie nie wspiera nagrywania dźwięków systemu, gdy podłączone są słuchawki Bluetooth.</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
 </resources>
