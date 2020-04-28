@@ -111,4 +111,13 @@
   <string name="template_all_pages">Wszystkie %1$s</string>
   <string name="template_page_range">Zakres %1$s</string>
   <string name="wifi_direct">Wi-Fi Direct</string>
+  <string name="activity_convert_pdf_alert_message">Konwersję plików zapewnia WPS Office</string>
+  <string name="activity_convert_pdf_alert_title">Konwertowanie pliku przed drukowaniem…</string>
+  <string name="activity_jump_market_alert_install_message">"Zainstaluj WPS Office, aby przekonwertować ten plik i przygotować go do drukowania. Po zakończeniu instalacji musisz ponownie rozpocząć drukowanie. Zainstalować teraz?"</string>
+  <string name="activity_jump_market_alert_install_positive_button">Zainstaluj</string>
+  <string name="activity_jump_market_alert_title">Uwaga</string>
+  <string name="activity_jump_market_alert_update_message">"Zaktualizuj WPS Office, aby przekonwertować ten plik i przygotować go do drukowania. Po zakończeniu aktualizacji musisz ponownie rozpocząć drukowanie. Zaktualizować teraz?"</string>
+  <string name="activity_jump_market_alert_update_positive_button">Aktualizuj</string>
+  <string name="wps_convert_error_toast_text">"Błąd! Nie można przekonwertować pliku."</string>
+  <string name="wps_convert_too_large_and_wait_toast_text">Konwersja może potrwać dłużej z powodu większego rozmiaru pliku. Trwa konwersja...</string>
 </resources>
