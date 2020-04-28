@@ -15,8 +15,8 @@
   <string name="dialog_button_ok">OK</string>
   <string name="dialog_content_limit0">Ogranicz pobieranie</string>
   <string name="dialog_content_limit_max">Bez limitu</string>
-  <string name="dialog_data_limit_button1">Oczekuj na WI-Fi</string>
-  <string name="dialog_data_limit_button2">Pobierz teraz</string>
+  <string name="dialog_data_limit_button1">Oczekuj na Wi-Fi</string>
+  <string name="dialog_data_limit_button2">Pobierz</string>
   <string name="dialog_data_limit_msg1">Do pobrania tego pliku zostanie wykorzystane %s danych mobilnych. Pobrać teraz?</string>
   <string name="dialog_data_limit_msg3">Zmień limit</string>
   <string name="dialog_data_limit_title">Ostrzeżenie o użyciu danych</string>

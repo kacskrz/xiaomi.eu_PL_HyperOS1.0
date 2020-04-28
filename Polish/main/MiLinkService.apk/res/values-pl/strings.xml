@@ -138,4 +138,7 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="toast_msg_for_multi_window">Ta funkcja jest niedostępna w trybie Podzielonego ekranu</string>
     <string name="toast_msg_for_small_window">Możesz zminimalizować wyświetlane na zewnętrznym monitorze okienko, aby móc używać innych funkcji telefonu bez przerywania przesyłania tego elementu.</string>
     <string name="toast_title_for_small_window">Wybierz \"Zminimalizuj okno\" w aplikacji</string>
+    <string name="dialog_nfc_cast_wifi_off">Włącz Wi-Fi, aby móc przesyłać ekran poprzez NFC. Włączyć tą funkcję?</string>
+    <string name="toast_nfc_dont_move">"Nie odsuwaj urządzenia zbyt daleko"</string>
+    <string name="toast_turn_off_hotspot_before_cast">Wyłącz funkcję hotspota przed rozpoczęciem przesyłania ekranu</string>
 </resources>

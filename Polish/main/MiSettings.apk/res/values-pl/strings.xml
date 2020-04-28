@@ -485,4 +485,16 @@ Ponadto musi ona łączyć się z siecią i wymagać będzie następujących upr
     <string name="wednesday_short">Śr</string>
     <string name="wednesday_shortest">Ś</string>
     <string name="yesterday">Wczoraj</string>
+    <string name="usage_optional_summary">"Te uprawnienia są wymagane do korzystania z dodatkowych funkcjonalności."</string>
+    <string name="usage_optional_title">Opcjonalne uprawnienia</string>
+    <string name="usage_permisison_agree_desc_o">Aby dostarczać statystyki trybu Czas przed eranem, aplikacja musi gromadzić następujące dane: ilość odblokowań urządzenia, lista Twoich aplikacji wraz z ilością czasu spędzaną w każdej z nich.</string>
+    <string name="usage_permisison_agree_desc_p">Aby dostarczać statystyki trybu Czas przed eranem, aplikacja musi gromadzić następujące dane: ilość odblokowań urządzenia, lista Twoich aplikacji wraz z ilością czasu spędzaną w każdej z nich, ilość włączeń ekranu oraz ustawienia Trybu skupienia.</string>
+    <string name="usage_permission_double_link" formatted="false"><Data>"Aplikacja wymaga połączenia z Internetem oraz gromadzenia wymaganych danych osobistych do poprawnego działania. Aby w pełni zrozumieć swoje prawa jako użytkownik, a także kanały, w jakich Xiaomi używa Twoich danych, przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności&lt;/a>."</Data></string>
+    <string name="usage_permission_main_desc">"Witaj w funkcji Czas przed ekranem!
+Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następujących uprawnień:"</string>
+    <string name="usage_permission_title">Uwaga</string>
+    <string name="usage_runtime_per_des_summary">W celu zapisywania statystyk Czasu przed ekranem</string>
+    <string name="usage_runtime_per_des_title">"Dodawanie i usuwanie plików w pamięci wewnętrznej"</string>
+    <string name="usage_runtime_summary">Te uprawnienia są wymagane do normalnego działania podstawowych funkcjonalności tej aplikacji.</string>
+    <string name="usage_runtime_title">Obowiązkowe uprawnienia</string>
 </resources>
