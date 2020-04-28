@@ -1302,7 +1302,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="module_name_edit_title">Funkcje</string>
   <string name="module_name_edit_unfavorite_title">Więcej funkcji</string>
   <string name="module_name_more">Więcej</string>
-  <string name="module_name_multi_camera">Przód &amp; tył</string>
+  <string name="module_name_multi_camera">Przód i tył</string>
   <string name="not_set">Nieustawione</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_record">Nagraj wideo</string>
   <string name="pref_camera_video_show_faceview_title">Zaznaczaj twarze w trybie wideo</string>
@@ -1310,8 +1310,8 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="pref_custom_shutter_sound_title">Dźwięk</string>
   <string name="pref_custom_tint_title">Kolory</string>
   <string name="pref_customization_title">Dostosuj</string>
-  <string name="pref_dual_camera_video">Przód &amp; tył</string>
-  <string name="pref_retain_camera_common_mode_summary">Otwórz aparat w poprzednio używanym trybie zamiast przełączać na \"Photo\"</string>
+  <string name="pref_dual_camera_video">Przód i tył</string>
+  <string name="pref_retain_camera_common_mode_summary">Otwórz aparat w poprzednio używanym trybie zamiast przełączać się na tryb \"Zdjęcie\"</string>
   <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
