@@ -669,7 +669,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="wipe_data_dialog_msg">%s zostanie usunięte.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Niektóre elementy nie zostały zsynchronizowane"</string>
-  <string name="account_user_id_show">Konto Mi: %s</string>
+  <string name="account_user_id_show">Konto Xiaomi: %s</string>
   <string name="action_retry">Spróbuj ponownie</string>
   <string name="cloud_description_closed">Zajęte | Synchronizacja wyłączona</string>
   <string name="cloud_description_normal">Zajęte</string>
