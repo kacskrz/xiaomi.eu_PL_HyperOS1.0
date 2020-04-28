@@ -733,11 +733,8 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_coloreffect_title">Filtry</string>
   <string name="pref_camera_common_settings">Ustawienia ogólne</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
-  <string name="pref_camera_delay_capture_entry_10s">10 s</string>
-  <string name="pref_camera_delay_capture_entry_3s">3 s</string>
-  <string name="pref_camera_delay_capture_entry_5s">5 s</string>
   <string name="pref_camera_delay_capture_entry_audio">Dźwięk</string>
-  <string name="pref_camera_delay_capture_entry_off">Wył</string>
+  <string name="pref_camera_delay_capture_entry_off">Wył.</string>
   <string name="pref_camera_delay_capture_title">Wyzwalacz</string>
   <string name="pref_camera_denoise_title">Odszumianie</string>
   <string name="pref_camera_device_watermark_title">Znak wodny na zdjęciu</string>
