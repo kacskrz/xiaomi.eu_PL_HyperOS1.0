@@ -11,7 +11,7 @@
   <string name="bluetooth_sap_request">Żądanie dostępu do karty SIM</string>
   <string name="defaultname">Zestaw samochodowy</string>
   <string name="dun_acceptance_timeout_message">Upłynął czas na zaakceptowanie połączenia z %1$s</string>
-  <string name="dun_notif_message">Dotknij aby połączyć z \"%1$s\".</string>
+  <string name="dun_notif_message">Dotknij, aby połączyć z \"%1$s\".</string>
   <string name="dun_notif_ticker">Żądanie dostępu do Bluetooth DUN</string>
   <string name="dun_notif_title">Żądanie klucza sesji dla Bluetooth DUN</string>
   <string name="ftp_acceptance_dialog_header">Dostęp do FTP</string>
@@ -20,7 +20,7 @@
   <string name="ftp_authentication_timeout_message">Upłynął czas na wprowadzenie klucza sesji z %1$s</string>
   <string name="ftp_notif_active_session">Aktywna sesja Bluetooth FTP</string>
   <string name="ftp_notif_connected">"Dostęp do transferu plików przez Bluetotoh \"%1$s\"."</string>
-  <string name="ftp_notif_message">Dotknij aby połączyć z \"%1$s\".</string>
+  <string name="ftp_notif_message">Dotknij, aby połączyć z \"%1$s\".</string>
   <string name="ftp_notif_ticker">Żądanie połączenia Bluetooth</string>
   <string name="ftp_notif_title">Żądanie klucza sesji dla połączenia z FTP</string>
   <string name="ftp_session_key_dialog_header">Wymagany klucz sesji Bluetooth</string>
@@ -32,14 +32,14 @@
   <string name="map_authentication_timeout_message">Upłynął czas na wprowadzenie klucza sesji z %1$s</string>
   <string name="map_notif_active_session">Aktywna secja Bluetooth MAP</string>
   <string name="map_notif_connected">"Dostęp powiadomień Bluetooth do \"%1$s\"."</string>
-  <string name="map_notif_message">Dotknij aby połączyć z \"%1$s\".</string>
+  <string name="map_notif_message">Dotknij, aby połączyć z \"%1$s\".</string>
   <string name="map_notif_ticker">Żądanie połączenia Bluetooth</string>
   <string name="map_notif_title">Żądanie klucza sesji dla MAP</string>
   <string name="map_session_key_dialog_header">Wymagany klucz sesji połączenia Bluetooth</string>
   <string name="map_session_key_dialog_title">Wpisz klucz sesji dla %1$s</string>
   <string name="process"/>
   <string name="sap_acceptance_timeout_message">Upłynął czas na zaakceptowanie połączenia z %1$s</string>
-  <string name="sap_notif_message">Dotknij aby połączyć z \"%1$s\".</string>
+  <string name="sap_notif_message">Dotknij, aby połączyć z \"%1$s\".</string>
   <string name="sap_notif_ticker">Żądanie Bluetooth dostępu do SIM</string>
   <string name="sap_notif_title">Żądanie klucza sesji dla SIM</string>
 </resources>
