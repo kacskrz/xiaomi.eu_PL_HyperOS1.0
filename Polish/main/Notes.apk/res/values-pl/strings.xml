@@ -126,7 +126,7 @@
   <string name="expand_button_title">Zaawansowane</string>
   <string name="first_enter_custom_folder_hint">Możesz tu zmienić nazwy katalogów</string>
   <string name="float_todo_guide_cancel">Anuluj</string>
-  <string name="float_todo_guide_message">Skrót na pulpicie pozwala na przeciągnięcie z krawędzi ekranu, aby tworzyć i wyświetlać zadania. Utworzyć skrót?</string>
+  <string name="float_todo_guide_message">Skrót na pulpicie pozwala na przeciągnięcie od krawędzi ekranu, aby tworzyć i wyświetlać zadania. Utworzyć skrót?</string>
   <string name="float_todo_guide_ok">Stwórz</string>
   <string name="float_todo_guide_title">Skrót na pulpicie</string>
   <string name="folder_exist">Katalog już istnieje, zmień nazwę</string>
