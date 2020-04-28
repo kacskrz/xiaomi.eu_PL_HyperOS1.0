@@ -121,4 +121,22 @@ Zgłoś ten problem >"</string>
     <string name="summary_show_badge_enable_notification_first">Włącz powiadomienia, aby móc włączyć licznik na ikonie</string>
     <string name="tip_feedback_success">Pomyślnie zgłoszono</string>
     <string name="tip_select_category">Wybierz kategorię powiadomień</string>
+	<string name="actionbar_button_up_description">Wróć</string>
+    <string name="clearable_edittext_clear_description">Wyczyść</string>
+    <string name="copy">Kopiuj</string>
+    <string name="evening">Popołudnie</string>
+    <string name="expand_button_title">Zaawansowane</string>
+    <string name="menu_setting_unfold">Ważne</string>
+    <string name="midnight">Noc</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja z chmurą jest wyłączona</string>
+    <string name="miuix_appcompat_cloud_state_finished">Pomyślnie zsynchronizowano z chmurą</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Synchronizacja z chmurą…</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie...</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Na razie to wszystko</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Na razie to wszystko</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
 </resources>

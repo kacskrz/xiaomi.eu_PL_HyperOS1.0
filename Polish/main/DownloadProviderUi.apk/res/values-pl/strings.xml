@@ -406,7 +406,6 @@
   <string name="abc_shareactionprovider_share_with">Udostępnij przez</string>
   <string name="abc_shareactionprovider_share_with_application">Udostępnij przez %s</string>
   <string name="abc_toolbar_collapse_description">Zwiń</string>
-  <string name="copy">Kopiuj</string>
   <string name="expand_button_title">Zaawansowane</string>
   <string name="not_set">Nie ustawiono</string>
   <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
