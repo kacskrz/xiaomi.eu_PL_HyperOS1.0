@@ -317,7 +317,7 @@ musisz najpierw utworzyć kopię zapasową iCloud."</string>
   <string name="new_britem_other">Inne</string>
   <string name="new_britem_pic">Zdjęcia</string>
   <string name="new_britem_video">Filmy</string>
-  <string name="new_confirm_enable_encrypt_content">"MIUI Powiązuje zaszyfrowane kopie zapasowe z twoim kontem Xiaomi. Musisz się zalogować na konto Xiaomi, aby przywrócić elementy z tych kopii."</string>
+  <string name="new_confirm_enable_encrypt_content">"MIUI powiązuje zaszyfrowane kopie zapasowe z twoim kontem Xiaomi. Musisz się zalogować na konto Xiaomi, aby przywrócić elementy z tych kopii."</string>
   <string name="new_confirm_enable_encrypt_title">Zaszyfruj</string>
   <string name="new_local_button_backup">Kopia zapasowa</string>
   <string name="new_local_button_restore">Przywróć</string>
@@ -413,7 +413,7 @@ musisz najpierw utworzyć kopię zapasową iCloud."</string>
   <string name="platform_chooser_item_android">Wczytaj z Androida</string>
   <string name="platform_chooser_item_ios">Wczytaj z iOS</string>
   <string name="platform_chooser_title">Wybierz starsze urządzenie</string>
-  <string name="preference_copied">Skopiowano \”%1$s\” do schowka..</string>
+  <string name="preference_copied">Skopiowano \"%1$s\" do schowka..</string>
   <string name="progress_backup_hint">"Kopia danych: "</string>
   <string name="progress_restore_hint">"Przywracanie danych..."</string>
   <string name="prompt_reading">Odczytywanie...</string>
