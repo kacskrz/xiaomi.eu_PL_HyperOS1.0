@@ -6028,13 +6028,13 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="sos_privacy_dialog_message_new_version">"Alarmowy SOS pozwala ci udostępniać twoją lokalizację w czasie rzeczywistym oraz wysyłać wiadomości tekstowe do kontaktów alarmowych.
 Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności.
 Ta aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:
-• Dostęp do pamięci urządzenia
+• Dostęp do pamięci urządzenia, 
 Aby zapisać kontakty alarmowe
-• Dostęp do kontaktów
+• Dostęp do kontaktów, 
 Aby oznaczyć określone kontakty jako alarmowe,
-• Wysyłanie SMS
+• Wysyłanie SMS, 
 Aby wysyłać wiadomości tekstowe do kontaktów alarmowych
-• Dostęp do lokalizacji
+• Dostęp do lokalizacji, 
 Aby udostępniać twoją lokalizację kontaktom alarmowym.
 Jeśli nie zgadzasz się na nadanie tych uprawnień lub udostępnianie twoich danych osobowych, nie możesz używać tej aplikacji.
 Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>

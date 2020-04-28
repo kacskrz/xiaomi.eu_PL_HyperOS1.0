@@ -14,7 +14,7 @@
   <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
   <string name="abc_shareactionprovider_share_with">Udostępnij z</string>
   <string name="abc_shareactionprovider_share_with_application">Udostępnij z %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_toolbar_collapse_description">Zwiń</string>
   <string name="abort_backup_confirm">"Kopia nie została ukończona. Zatrzymać mimo to?"</string>
   <string name="abort_restore_confirm">"Przywracanie nie zostało ukończone. Zatrzymać mimo to?"</string>
   <string name="account_contact_backup_info">Konto Xiaomi, konto Google i Kontakty</string>
