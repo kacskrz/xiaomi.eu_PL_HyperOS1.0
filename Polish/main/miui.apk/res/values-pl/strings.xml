@@ -595,4 +595,5 @@
   <string name="wednesday_shortest">Ś</string>
   <string name="xiaomi_mobile">Mi Mobile</string>
   <string name="yesterday">Wczoraj</string>
+  <string name="date_picker_lunar">Kalendarz Chiński</string>
 </resources>
