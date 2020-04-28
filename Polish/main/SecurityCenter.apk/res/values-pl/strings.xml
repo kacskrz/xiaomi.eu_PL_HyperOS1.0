@@ -3516,4 +3516,75 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="sd_insert_summary">Włóż kartę SD, aby ją zamontować</string>
   <string name="sd_mount">Zamontuj kartę SD</string>
   <string name="search_menu_title">Szukaj</string>
+  <string name="storage_activity_title">Przestrzeń na dane</string>
+  <string name="storage_app_detail_activity_title">Zajęta przestrzeń</string>
+  <string name="storage_app_detail_cache">Pamieć cache</string>
+  <string name="storage_app_detail_clear_all_data">Wyczyść wszystkie dane</string>
+  <string name="storage_app_detail_clear_all_dialog_message">Wszystkie dane aplikacji, w tym pliki, ustawienia, konta i pamięć podręczna zostaną trwale usunięte.</string>
+  <string name="storage_app_detail_clear_all_dialog_title">Wyczyścić wszystkie dane?</string>
+  <string name="storage_app_detail_clear_cache">Wyczyść pamięć cache</string>
+  <string name="storage_app_detail_clear_cache_title">Wyczyścić pamięć cache aplikacji?</string>
+  <string name="storage_app_detail_dialog_cancel">Anuluj</string>
+  <string name="storage_app_detail_dialog_ok">OK</string>
+  <string name="storage_app_detail_manage_space">%s - Zarządzaj przestrzenią dyskową</string>
+  <string name="storage_app_detail_manager_enabled">Włączony</string>
+  <string name="storage_app_detail_qq_cleaner">QQ Cleaner</string>
+  <string name="storage_app_detail_sdcard">Dane aplikacji</string>
+  <string name="storage_app_detail_system">Rozmiar aplikacji</string>
+  <string name="storage_app_detail_third_clean_size">Zwolniono %s</string>
+  <string name="storage_app_detail_total">Zajęta przestrzeń</string>
+  <string name="storage_app_detail_uninstall_app">Odinstaluj aplikacje</string>
+  <string name="storage_app_detail_uninstall_dialog_message">Aplikacja zostanie odinstalowana razem ze wszystkimi swoimi danymi</string>
+  <string name="storage_app_detail_uninstall_dialog_title">Odinstalować?</string>
+  <string name="storage_app_detail_uninstall_done">Odinstalowano pomyślnie</string>
+  <string name="storage_app_detail_wechat_cleaner">WeChat cleaner</string>
+  <string name="storage_app_detail_wechat_session">"Wyczyść historię czatów WeChat"</string>
+  <string name="storage_app_list_activity_title">Szczegóły aplikacji</string>
+  <string name="storage_app_list_desc">Zajęta przestrzeń: %s</string>
+  <string name="storage_app_manager_clear_dlg_title">Usuń dane</string>
+  <string name="storage_app_manager_clear_failed_dlg_message">"Nie można wyczyścić danych aplikacji"</string>
+  <string name="storage_app_manager_disable_dlg_text">Wyłączenie tej aplikacji może spowodować nieprawidłowe działanie niektórych funkcji.</string>
+  <string name="storage_app_manager_disable_dlg_title">Wyłączyć domyślnie zainstalowaną aplikację?</string>
+  <string name="storage_app_manager_disable_text">Wyłącz</string>
+  <string name="storage_app_manager_factory_reset_dlg_msg">Wszystkie aktualizacje tej aplikacji systemu Android zostaną odinstalowane.</string>
+  <string name="storage_app_manager_factory_reset_dlg_title">Odinstalować aktualizacje?</string>
+  <string name="storage_app_manager_uninstall_application">Odinstaluj</string>
+  <string name="storage_app_manager_uninstall_protected_dlg_msg">Odinstalowanie wtyczek systemowych może spowodować nieprawidłowe działanie niektórych funkcji. Odinstalować mimo to?</string>
+  <string name="storage_app_manager_uninstall_protected_dlg_title">Uwaga</string>
+  <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"Ta sklonowana aplikacja zostanie również odinstalowana."</string>
+  <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Wszystkie dane aplikacji zostaną również usunięte po odinstalowaniu aplikacji.</string>
+  <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Odinstalować sklonowaną aplikację?</string>
+  <string name="storage_app_space_details_entry">Pokaż szczegóły aplikacji</string>
+  <string name="storage_app_uninstall_app_dialog_msg">Wszystkie dane aplikacji zostaną również usunięte po odinstalowaniu aplikacji.</string>
+  <string name="storage_app_uninstall_app_dialog_title">Odinstalowywanie aplikacji</string>
+  <string name="storage_available_total_size">%1$s z %2$s jest dostępne</string>
+  <string name="storage_available_total_size1">Zajęte: %1$s | Razem: %2$s</string>
+  <string name="storage_deepclean_entry">Głęboko czyszczenie</string>
+  <string name="storage_dialog_unmountable">"^1 jest uszkodzony.
+
+Aby używać ^1, musisz go najpierw skonfigurać."</string>
+  <string name="storage_dialog_unmounted">"^1 został bezpiecznie usunięty, ale nadal dostępny.
+
+Aby używać ^1, musisz go najpierw zamontować."</string>
+  <string name="storage_dialog_unsupported">"To urządzenie nie obsługuje ^1.
+
+Aby używać ^1 wraz z tym urządzeniem musisz go najpierw skonfigurować.."</string>
+  <string name="storage_format_failure">"Nie można sformatować %1$s"</string>
+  <string name="storage_format_success">Pomyślnie sformatowano %1$s</string>
+  <string name="storage_item_apk_name">Aplikacje</string>
+  <string name="storage_item_appdata_name">Aplikacje i dane</string>
+  <string name="storage_item_audio_name">Dźwięk</string>
+  <string name="storage_item_clean_name">Zwolnij miejsce</string>
+  <string name="storage_item_doc_name">Dokumenty</string>
+  <string name="storage_item_other_name">Inne</string>
+  <string name="storage_item_picture_name">Zdjęcia</string>
+  <string name="storage_item_system_name">System</string>
+  <string name="storage_item_video_name">Wideo</string>
+  <string name="storage_menu_mount">Zamontuj</string>
+  <string name="storage_mount_failure">"Nie można zamontować %1$s"</string>
+  <string name="storage_mount_success">Zamontowano pomyślnie %1$s</string>
+  <string name="storage_space_release_hint">Potrzebujesz więcej przestrzeni?</string>
+  <string name="storage_unmount_failure">"Nie można odmontować %1$s"</string>
+  <string name="storage_unmount_success">Pomyślnie odmontowano %1$s</string>
+  <string name="storage_wizard_format_confirm_v2_action">Formatuj ^1</string>
 </resources>
