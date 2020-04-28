@@ -7028,7 +7028,7 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="usb_use_photo_transfers_desc">Przesyłanie zdjęć lub plików, jeśli MTP nie jest obsługiwane (PTP)</string>
   <string name="usb_use_power_only">Podłączyć zasilanie</string>
   <string name="usb_use_power_only_desc">Zasilaj inne podłączone urządzenie</string>
-  <string name="use_control_panel">Użyj centrum kontroli</string>
+  <string name="use_control_panel">Użyj Centrum kontroli</string>
   <string name="use_default_tts_settings_summary">Poniższe ustawienia domyślne zastępują ustawienia aplikacji.</string>
   <string name="use_default_tts_settings_title">Używaj moich ustawień</string>
   <string name="use_location_summary">Zezwalaj Google na użycie danych o mojej lokalizacji, aby poprawić wyszukiwanie i inne usługi</string>
