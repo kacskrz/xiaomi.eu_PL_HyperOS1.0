@@ -413,7 +413,7 @@ musisz najpierw utworzyć kopię zapasową iCloud."</string>
   <string name="platform_chooser_item_android">Wczytaj z Androida</string>
   <string name="platform_chooser_item_ios">Wczytaj z iOS</string>
   <string name="platform_chooser_title">Wybierz starsze urządzenie</string>
-  <string name="preference_copied">Skopiowano \"%1$s\" do schowka..</string>
+  <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
   <string name="progress_backup_hint">"Kopia danych: "</string>
   <string name="progress_restore_hint">"Przywracanie danych..."</string>
   <string name="prompt_reading">Odczytywanie...</string>
