@@ -3359,11 +3359,9 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="abc_shareactionprovider_share_with">Udostępnij przez</string>
   <string name="abc_shareactionprovider_share_with_application">Udostępnij przez %s</string>
   <string name="abc_toolbar_collapse_description">Zwiń</string>
-  <string name="app_behavior_desc_virtual_once">Zwrócono pustą wiadomość o %1$s</string>
   <string name="app_behavior_get_install">%1s uzyskała dostęp do Twoich aplikacji</string>
   <string name="app_behavior_get_install_single">Ta aplikacja uzyskała dostęp do listy Twoich aplikacji</string>
   <string name="app_behavior_now_running">Uruchomiona</string>
-  <string name="app_behavior_perm_change_tip_virtual">\"%1s\" zmieniono na \"Zwracaj puste wiadomości\"</string>
   <string name="app_behavior_start_from_app" formatted="false">Aplikacja %1s została uruchomiona przez aplikację %2s</string>
   <string name="app_behavior_this_run">Tylko raz</string>
   <string name="cd_back">Wróć</string>
@@ -3403,7 +3401,6 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="perm_intercept_privacy_content">Te działania mogą narazić Twoje dane osobowe. Udzielić uprawnień (%1s) mimo wszystko?</string>
   <string name="perm_intercept_title">Zezwolenie na dostęp do danych użytkowania dla %1s pozwoli tej aplikacji na wykonanie następujących działań:</string>
   <string name="perm_intercept_unknown_title">Zezwolenie aplikacji %1s na instalowanie aplikacji z nieznanych źródeł może stwarzać następujące ryzyko:</string>
-  <string name="permission_action_desc">Nadaj uprawnienia, ale zwróć puste wiadomości do aplikacji, aby chronić prywatność</string>
   <string name="permission_action_desc_always">Z tego uprawnienia można korzystać w dowolnym momencie</string>
   <string name="permission_action_desc_foreground">"Z tego uprawnienia można korzystać tylko podczas korzystania z aplikacji"</string>
   <string name="permission_action_desc_prompt">Z tego uprawnienia można korzystać tylko wtedy, gdy na to zezwolisz</string>
