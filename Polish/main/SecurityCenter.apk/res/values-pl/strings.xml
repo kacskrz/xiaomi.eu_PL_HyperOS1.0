@@ -558,7 +558,7 @@
   <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Nazwa</string>
   <string name="auto_task_main_title">Zaplanowane zadania</string>
-  <string name="auto_task_mamange_activity_title">Zautomatyzowane zadania</string>
+  <string name="auto_task_mamange_activity_title">Zaplanowane zadania</string>
   <string name="auto_task_manage_delete_prompt">Usunąć wybrane zadania?</string>
   <string name="auto_task_manage_new_task">Nowe zadanie</string>
   <string name="auto_task_manager_group_title">Zaplanowane zadania</string>
@@ -2697,7 +2697,7 @@ W trakcie kalibracji, MIUI wyśle wiadomość tekstową do Twojego operatora, ab
   <string name="sp_toast_removed_from_sign_white_list">Usunięto z wyjątków</string>
   <string name="special_number_group">Blokuj numery specjalne</string>
   <string name="spinner_title">%1$s - dane mobilne: %2$s</string>
-  <string name="ss_activity_main_support_text"/>
+  <string name="ss_activity_main_support_text">Dostarczane przez %s</string>
   <string name="st_advanced_setting_group">Zaawansowane</string>
   <string name="st_antispam_black_adress_add">Wybierz adres</string>
   <string name="st_antispam_bw_adress_add">Wybierz lokalizację</string>
@@ -3309,7 +3309,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="wlan_optimization_summary">Zmniejsz opóźnienia sieci Wi-Fi</string>
   <string name="wlan_optimization_title">Optymalizacja Wi-Fi</string>
   <string name="wrong_password">Hasło jest nieprawidłowe</string>
-  <string name="auto_task_result_summary_text">Ustaw zautomatyzowane zadania dla Oszczędzania baterii</string>
+  <string name="auto_task_result_summary_text">Ustaw zaplanowane zadania dla Oszczędzania baterii</string>
   <string name="extreme_power_save_mode_card_summary">Włącz Ekstremalne oszczędzanie w celu zachowania energii, gdy bateria jest słaba.</string>
   <string name="handle_title_abnormal">Drenujące baterię</string>
   <string name="handle_title_app">Aplikacje</string>
@@ -3395,7 +3395,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="pc_battery_history_item_chart">Wykres zużycia energii</string>
   <string name="pc_battery_history_item_histogram">Szczególy zużycia energii</string>
   <string name="pc_battery_history_total_consumption_title">Łączne zużycie energii</string>
-  <string name="pc_battery_history_usetime_title">Aktywuj</string>
+  <string name="pc_battery_history_usetime_title">Aktywne użytkowanie</string>
   <string name="perm_intercept_content">Nadać tej aplikacji następujące uprawnienia: %1s?</string>
   <string name="perm_intercept_notification_title">Zezwolenie %1s na używanie powiadomień pozwoli tej aplikacji wykonać następujące działania:</string>
   <string name="perm_intercept_privacy_content">Te działania mogą narazić Twoje dane osobowe. Udzielić uprawnień (%1s) mimo wszystko?</string>
@@ -3436,7 +3436,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="privacy_dialog_call_title">Chroń połączenia</string>
   <string name="privacy_dialog_camera_message">"Aby chronić Twoją prywatność, MIUI nie zezwala aplikacjom na używanie aparatu w tle."</string>
   <string name="privacy_dialog_camera_title">Ogranicz użycie kamery w tle</string>
-  <string name="privacy_dialog_danger_mission_message">Android ma wiele niebezpiecznych uprawnień (np. pozwolenie na wysyłanie powiadomień push). Aby chronić Twoją prywatność, MIUI zapyta, czy akceptujesz takie zachowanie, i pozwoli je ogaraniczyć.</string>
+  <string name="privacy_dialog_danger_mission_message">Android ma wiele niebezpiecznych uprawnień (np. pozwolenie na wysyłanie powiadomień push). Aby chronić Twoją prywatność, MIUI zapyta, czy akceptujesz takie zachowanie, i pozwoli je ograniczyć.</string>
   <string name="privacy_dialog_danger_mission_title">Niebezpieczne uprawnienia</string>
   <string name="privacy_dialog_feedback">Opinia</string>
   <string name="privacy_dialog_ok">Rozumiem</string>
@@ -3515,7 +3515,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="search_menu_title">Szukaj</string>
   <string name="storage_activity_title">Przestrzeń na dane</string>
   <string name="storage_app_detail_activity_title">Zajęta przestrzeń</string>
-  <string name="storage_app_detail_cache">Pamieć cache</string>
+  <string name="storage_app_detail_cache">Pamięć cache</string>
   <string name="storage_app_detail_clear_all_data">Wyczyść wszystkie dane</string>
   <string name="storage_app_detail_clear_all_dialog_message">Wszystkie dane aplikacji, w tym pliki, ustawienia, konta i pamięć podręczna zostaną trwale usunięte.</string>
   <string name="storage_app_detail_clear_all_dialog_title">Wyczyścić wszystkie dane?</string>
@@ -3530,7 +3530,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="storage_app_detail_system">Rozmiar aplikacji</string>
   <string name="storage_app_detail_third_clean_size">Zwolniono %s</string>
   <string name="storage_app_detail_total">Zajęta przestrzeń</string>
-  <string name="storage_app_detail_uninstall_app">Odinstaluj aplikacje</string>
+  <string name="storage_app_detail_uninstall_app">Odinstaluj aplikację</string>
   <string name="storage_app_detail_uninstall_dialog_message">Aplikacja zostanie odinstalowana razem ze wszystkimi swoimi danymi.</string>
   <string name="storage_app_detail_uninstall_dialog_title">Odinstalować?</string>
   <string name="storage_app_detail_uninstall_done">Odinstalowano pomyślnie</string>
@@ -3552,7 +3552,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Wszystkie dane aplikacji zostaną również usunięte po odinstalowaniu aplikacji.</string>
   <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Odinstalować sklonowaną aplikację?</string>
   <string name="storage_app_space_details_entry">Pokaż szczegóły aplikacji</string>
-  <string name="storage_app_uninstall_app_dialog_msg">Wszystkie dane aplikacji zostaną również usunięte po odinstalowaniu aplikacji.</string>
+  <string name="storage_app_uninstall_app_dialog_msg">Wraz z aplikacją zostaną również usunięte jej wszystkie dane.</string>
   <string name="storage_app_uninstall_app_dialog_title">Odinstalowywanie aplikacji</string>
   <string name="storage_available_total_size">Dostępne %1$s z %2$s</string>
   <string name="storage_available_total_size1">Zajęte: %1$s | Razem: %2$s</string>

@@ -1267,8 +1267,8 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="color_effect_entry_travel">Podróż</string>
   <string name="copy">Kopiuj</string>
   <string name="custom_sound_art">Retro</string>
-  <string name="custom_sound_default">Domyślne</string>
-  <string name="custom_sound_modern">Nowoczesne</string>
+  <string name="custom_sound_default">Domyślny</string>
+  <string name="custom_sound_modern">Nowoczesny</string>
   <string name="custom_sound_old">Film</string>
   <string name="custom_tint_button_apply">Zastosuj</string>
   <string name="custom_tint_color_select">Dostosuj kolory</string>
@@ -1306,7 +1306,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="pref_custom_feature_layout_title">Układ funkcji</string>
   <string name="pref_custom_shutter_sound_title">Dźwięk</string>
   <string name="pref_custom_tint_title">Kolory</string>
-  <string name="pref_customization_title">Dostosuj</string>
+  <string name="pref_customization_title">Wygląd menu Aparatu</string>
   <string name="pref_dual_camera_video">Przód i tył</string>
   <string name="pref_retain_camera_common_mode_summary">Otwórz aparat w poprzednio używanym trybie zamiast przełączać się na tryb \"Zdjęcie\"</string>
   <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>

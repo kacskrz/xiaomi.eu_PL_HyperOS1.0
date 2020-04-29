@@ -13,8 +13,10 @@
         <item quantity="one">%d element</item>
     </plurals>
     <plurals name="total_num">
-        <item quantity="other">%d elementów, </item>
-        <item quantity="one">%d element, </item>
+        <item quantity="other">"%d elementów, "</item>
+        <item quantity="one">"%d element, "</item>
+        <item quantity="few">"%d elementy, "</item>
+        <item quantity="many">"%d elementów, "</item>
     </plurals>
     <plurals name="custom_progress">
         <item quantity="other">%d elementów</item>

@@ -1729,4 +1729,11 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="miuix_sbl_tracking_progress_labe_up_none">Na razie to wszystko</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
+  <string name="msim_setting_default_data">Do Internetu</string>
+  <string name="msim_setting_default_voice">Domyślna do rozmów</string>
+  <string name="msim_setting_no_sim_number">Nie ustawiono</string>
+  <string name="msim_setting_no_sim_package_info">Brak informacji o planie</string>
+  <string name="msim_setting_pop_text">Wybierz kartę SIM, aby zadzwonić</string>
+  <string name="msim_setting_set_package">Wybierz plan</string>
+  <string name="status_unavailable">Niedostępny</string>
 </resources>
