@@ -1959,7 +1959,7 @@ Ustawienie dotyczy wszystkich użytkowników tego urządzenia."</string>
   <string name="device_admin_status">Administrator jest aktywny i zezwala aplikacji %1$s na wykonywanie następujących operacji:</string>
   <string name="device_admin_title">Administracja urządzeniem</string>
   <string name="device_admin_warning">Aktywowanie tego administratora zezwoli aplikacji %1$s na wykonywanie następujących operacji:</string>
-  <string name="device_available_memory">Dostępna pamięć</string>
+  <string name="device_available_memory">"Dostępna pamięć "</string>
   <string name="device_battery">Bateria</string>
   <string name="device_build_id">Numer wersji</string>
   <string name="device_camera">Aparat</string>
@@ -2015,7 +2015,7 @@ Ustawienie dotyczy wszystkich użytkowników tego urządzenia."</string>
   <string name="device_status_activity_title">Informacje o telefonie</string>
   <string name="device_status_summary">Numer telefonu, sygnał itd.</string>
   <string name="device_theme">Motyw urządzenia</string>
-  <string name="device_total_memory">Całkowita pamięć</string>
+  <string name="device_total_memory">"Całkowita pamięć "</string>
   <string name="device_usage_list_summary">Wykorzystanie przez urządzenie od ostatniego naładowania</string>
   <string name="dial_application_title">Wybierz numer</string>
   <string name="dial_pad_tones_title">Wybieranie numeru</string>
