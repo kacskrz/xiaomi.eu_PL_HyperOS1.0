@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Spróbuj ponownie</item>
+        <item></item>
+        <item></item>
+        <item>Zakryj całkowicie czytnik linii papilarnych i naciśnij przycisk</item>
+        <item></item>
+        <item>Zakryj całkowicie czytnik linii papilarnych i naciśnij przycisk</item>
+        <item>Zakryj całkowicie czytnik linii papilarnych i naciśnij przycisk</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Zakryj całkowicie czytnik linii papilarnych i naciśnij przycisk</item>
+        <item>Zakryj całkowicie czytnik linii papilarnych i naciśnij przycisk</item>
+        <item>"Za szybko! Nie udało się rozpoznać odcisku"</item>
+        <item>Przesuń trochę palec i spróbuj ponownie</item>
+        <item>Podnieś palec i ponownie umieść go na skanerze</item>
+        <item>Przytrzymaj palec na skanerze nieco dłużej</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Przesuwaj płynnie swój palec</item>
+        <item>Ten odcisk został już dodany, użyj innego palca</item>
+    </string-array>
+</resources>

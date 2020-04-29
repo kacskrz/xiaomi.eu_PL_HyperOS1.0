@@ -253,4 +253,7 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="welcome">Witamy</string>
   <string name="zone_picker_title">Strefa czasowa</string>
   <string name="service_policy_download"><Data>Przed użyciem usług Xunlei przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności Xunlei&lt;/a >.</Data></string>
+  <string name="service_name_fast_pairing">Mi Link</string>
+  <string name="fast_pairing_introduction">Funkcja Mi Link pozwala na połączenie z urządzeniami Bluetooth znajdującymi się w pobliżu. Ahy móc odnaleźć te urządzenia, zezwól funkcji Mi Link na łączenie się z Internetem.</string>
+  <string name="disagreement_abnormal_running_fast_pairing">"Jeśli nie zgodzisz się na nadanie tych uprawnień, nie będzie można korzystać z tej aplikacji. W każdym momencie możesz ograniczyć jej uprawnienia w Ustawieniach."</string>
 </resources>
