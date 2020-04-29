@@ -335,4 +335,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="talkback_scan_channel">Wyszukaj kanały</string>
   <string name="talkback_switch_headset">Podłącz słuchawki</string>
   <string name="talkback_switch_speaker">Użyj głośnika</string>
+  <string name="open_settings">Przejdź do ustawień</string>
+  <string name="recommend">Polecane</string>
+  <string name="no_hint">NIE.</string>
 </resources>
