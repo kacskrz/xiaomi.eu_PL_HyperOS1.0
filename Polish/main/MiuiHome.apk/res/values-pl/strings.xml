@@ -569,4 +569,7 @@
   <string name="small_window_toast">Możesz dodać maks. %d aplikacji</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
+  <string name="content_description_button_add">Dotknij, aby dodać do obecnych aplikacji</string>
+  <string name="content_description_button_disable">"Nie można dodać więcej aplikacji"</string>
+  <string name="content_description_button_remove">Dotknij, aby usunąć z obecnych aplikacji</string>
 </resources>
