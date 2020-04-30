@@ -3604,4 +3604,5 @@ Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć u
   <string name="usb_mount">Zamontuj urządzenie USB</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
+  <string name="app_manager_anomaly_analysis">Analizuj anormalności aplikacji</string>
 </resources>

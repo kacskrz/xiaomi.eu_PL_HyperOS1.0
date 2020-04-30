@@ -497,4 +497,6 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="usage_runtime_per_des_title">"Dodawanie i usuwanie plików w pamięci wewnętrznej"</string>
     <string name="usage_runtime_summary">Te uprawnienia są wymagane do normalnego działania podstawowych funkcjonalności tej aplikacji.</string>
     <string name="usage_runtime_title">Obowiązkowe uprawnienia</string>
+    <string name="control_center_title_new">Używano dzisiaj</string>
+    <string name="focus_mode_custom_time">Własny licznik</string>
 </resources>

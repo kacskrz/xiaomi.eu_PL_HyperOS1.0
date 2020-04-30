@@ -8091,4 +8091,5 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="zone_auto_summaryOn">Użyj strefy czasowej podanej przez sieć</string>
   <string name="zone_list_menu_sort_alphabetically">Sortuj alfabetycznie</string>
   <string name="zone_list_menu_sort_by_timezone">Sortuj według strefy czasowej</string>
+  <string name="restore_oaid_positive_step">Resetuj (%1$d)</string>
 </resources>

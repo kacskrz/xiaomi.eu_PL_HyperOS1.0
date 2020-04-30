@@ -1312,4 +1312,5 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
+  <string name="clone_recapture_alert">Zacząć od nowa?</string>
 </resources>
