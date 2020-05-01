@@ -1002,4 +1002,8 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
   <string name="resource_incall_show_download">Pobierz wideo</string>
   <string name="super_wallpaper">Super tapeta</string>
   <string name="theme_wallpaper">Kategoria tapet</string>
+  <string name="apply_choosen_type_resource">Zastosuj wybrane elementy</string>
+  <string name="gallery_wallpaper">Tapety Blokady</string>
+  <string name="gallery_wallpaper_theme">Tapety, które musisz mieć</string>
+  <string name="theme_not_include_module_desc">Ten motyw nie zawiera następujących elementów: %s</string>
 </resources>
