@@ -2779,7 +2779,7 @@ Do starego telefonu podłącz kabel, który był do niego dołączony. Następni
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_xiaomi_wifi_connect_summary">Połącz z %1$s.</string>
   <string name="freeform_guide_drop_down_to_fullscreen_summary">Dotknij i przytrzymaj, a następnie przeciągnij pasek akcji za pływające okno</string>
-  <string name="freeform_guide_drop_down_to_fullscreen_title">Wyświetlanie pływających okien w trybie pełnoekranowym</string>
+  <string name="freeform_guide_drop_down_to_fullscreen_title">Tryb pełnoekranowy</string>
   <string name="freeform_guide_move_summary">Naciśnij i przytrzymaj pasek akcji pływającego okna, aby przesunąć</string>
   <string name="freeform_guide_move_title">Przenoszenie pływających okien</string>
   <string name="freeform_guide_move_to_small_freeform_window_summary">Przesuń pływające okno do rogu ekranu</string>
@@ -2789,8 +2789,8 @@ Do starego telefonu podłącz kabel, który był do niego dołączony. Następni
   <string name="freeform_guide_settings">Pływające okno</string>
   <string name="freeform_guide_slide_up_to_close_summary">Przeciągnij w górę z paska akcji pływającego okna</string>
   <string name="freeform_guide_slide_up_to_close_title">Zamykanie pływających okien</string>
-  <string name="freeform_vedio_description">"·Dotknij i przytrzymaj, a następnie przeciągnij powiadomienie w dół, aby otworzyć je w pływającym oknie.
-Naciśnij \”Pływające okna\” w menu ostatnio otwartych aplikacji, aby wybrać aplikację."</string>
+  <string name="freeform_vedio_description">"· Przytrzymaj, a następnie przeciągnij powiadomienie w dół, aby otworzyć je w pływającym oknie.
+Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji, aby wybrać aplikację."</string>
   <string name="frequently_fragment_delete">Usuń</string>
   <string name="frequently_fragment_tempty">Często używane elementy będą tu wymienione</string>
   <string name="fsg_mistake_touch_summary">W niektórych przypadkach np. pełny ekran lub podczas oglądania wideo konieczne będzie podwójne przesunięcie palcem od krawędzi, aby wywołać efekt</string>
