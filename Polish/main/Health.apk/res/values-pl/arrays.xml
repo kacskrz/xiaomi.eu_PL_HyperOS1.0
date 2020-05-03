@@ -33,6 +33,7 @@
         <item>Dzień</item>
         <item>Tydzień</item>
         <item>Miesiąc</item>
+	 </string-array>
      <string-array name="run_in_background_state">
         <item>Bez ograniczeń</item>
         <item>Ogranicz aktywność w tle</item>
