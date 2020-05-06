@@ -3605,4 +3605,6 @@ Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć u
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
   <string name="app_manager_anomaly_analysis">Analizuj anormalności aplikacji</string>
+  <string name="privacy_mask_summary">Zamiast Twojego realnego identyfikatora MIUI dostarczy aplikacjom firm trzecich wirtualne ID (OAID). Zapobiegnie to śledzeniu przez te aplikacje Twoich zachowań i preferencji, a także ochroni Twoją prywatność.</string>
+  <string name="privacy_mask_title">Włączono wirtalne ID</string>
 </resources>

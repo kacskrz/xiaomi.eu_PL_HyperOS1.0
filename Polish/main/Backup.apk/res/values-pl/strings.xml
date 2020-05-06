@@ -326,7 +326,7 @@ musisz najpierw utworzyć kopię zapasową iCloud."</string>
 %1$d. Skopiuj kopie zapasowe na komputer, aby zapobiec utracie danych. %2$s.
 %3$d. Kopie zapasowe zostaną zapisane do katalogu MIUI-Backup-AllBackup."</string>
   <string name="new_local_tab_backup">Wykonaj kopię</string>
-  <string name="new_local_tab_restore">Przywróć z urządzenia mobilnego</string>
+  <string name="new_local_tab_restore">Przywróć z telefonu</string>
   <string name="new_low_storage_title">Brak miejsca w pamięci</string>
   <string name="new_more_settings_label">Dodatkowe opcje</string>
   <string name="new_pc_backup_content1">%1$d. Otwórz \"%2$s\".</string>
@@ -336,7 +336,7 @@ musisz najpierw utworzyć kopię zapasową iCloud."</string>
   <string name="new_pc_backup_restore_link">Wykonaj kopię</string>
   <string name="new_pc_backup_summary1">Wybierz elementy i kliknij \"Kopia zapasowa\".</string>
   <string name="new_pc_backup_summary2">Podłącz telefon do komputera, używając kabla USB.</string>
-  <string name="new_pc_backup_summary4">Wskazówka: Możesz również skopiować zdjęcia i filmy z katalogu MIUI-DCIM.</string>
+  <string name="new_pc_backup_summary4">Wskazówka: Możesz również skopiować zdjęcia i filmy z katalogu DCIM.</string>
   <string name="new_pc_restore_content1">%d. Podłącz telefon do komputera, używając kabla USB.</string>
   <string name="new_pc_restore_content2">%d. Skopiuj kopię zapasową z komputera do katalogu MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Otwórz \"%2$s\" i wybierz elementy do przywrócenia.</string>
@@ -358,8 +358,8 @@ musisz najpierw utworzyć kopię zapasową iCloud."</string>
   <string name="new_usb_disconnect_dialog_message">Podłącz urządzenie USB.</string>
   <string name="new_usb_disconnect_dialog_title">"Nie znaleziono urządzenia USB"</string>
   <string name="new_usb_select_data_no_space">Tylko %s pamięci jest dostępne na urządzeniu USB. Zwolnij miejsce.</string>
-  <string name="new_usb_tab_backup">Kopia na urządzeniu USB</string>
-  <string name="new_usb_tab_restore">Przywróć z urządzenia USB</string>
+  <string name="new_usb_tab_backup">Kopia na USB</string>
+  <string name="new_usb_tab_restore">Przywróć z USB</string>
   <string name="no_encrypt_password">Brak hasła szyfrowania</string>
   <string name="no_network">"Nie można połączyć się z siecią"</string>
   <string name="not_set">Nie ustawiono</string>
