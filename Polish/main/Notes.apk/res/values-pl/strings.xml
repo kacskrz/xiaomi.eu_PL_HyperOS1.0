@@ -373,10 +373,10 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="todo_item_status_delete">Usuń</string>
   <string name="todo_item_status_finished">Ukończone</string>
   <string name="todo_item_status_unfinished">Nieukończone</string>
-  <string name="todo_list">Lista zadań pobocznych</string>
-  <string name="todo_list_edit_text_hint">Kliknij \"Enter\", aby utworzyć zadanie poboczne</string>
+  <string name="todo_list">Lista zadań</string>
+  <string name="todo_list_edit_text_hint">Kliknij \"Gotowe\", aby utworzyć zadanie</string>
   <string name="todo_list_new_finish_all_tip">Nowe elementy powinny zawierać przynajmniej jedno nieukończone zadanie</string>
-  <string name="todo_list_overflow_tip">"Nie mogę utworzyć więcej zadań pobocznych"</string>
+  <string name="todo_list_overflow_tip">"Nie mogę utworzyć więcej zadań"</string>
   <string name="todo_menu_add_audio_description">Dodaj zadanie głosowe</string>
   <string name="todo_menu_add_description">Dodaj zadanie</string>
   <string name="todo_menu_cancel">Anuluj</string>
@@ -426,4 +426,8 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="welcome_note_for_cm"/>
   <string name="widget_content_loading">Wczytywanie…</string>
   <string name="widget_havenot_content">Brak powiązanej notatki. Dotknij aby utworzyć nową notatkę. Naciśnij długo na widżet aby móc zmieniać rozmiar.</string>
+  <string name="btn_next">Dalej</string>
+  <string name="note_gesture_guide_step1">Przytrzymaj ikonę plusa, aby utworzyć notatkę głosową</string>
+  <string name="note_gesture_guide_step2">Przytrzymaj, a następnie przeciągnij notatkę nad inną notatkę, aby utworzyć folder</string>
+  <string name="note_gesture_guide_step3">Przytrzymaj, a następnie przeciągnij notatkę nad folderem, aby przenieść ją do tego folderu</string>
 </resources>
