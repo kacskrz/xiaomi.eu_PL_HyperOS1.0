@@ -6115,7 +6115,7 @@ Umożliwiają to dane uwierzytelniające zainstalowane na Twoim urządzeniu."</s
   <string name="status_bar_settings_custom_wifi_name">Własna nazwa Wi-Fi</string>
   <string name="status_bar_settings_customer_feedback">opinię</string>
   <string name="status_bar_settings_enable_notification">Pokaż powiadomienia</string>
-  <string name="status_bar_settings_expand_top_notification">Rozwiń pierwsze z góry powiadomienie</string>
+  <string name="status_bar_settings_expand_top_notification">Rozwiń ostatnie otrzymane powiadomienie</string>
   <string name="status_bar_settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>
   <string name="status_bar_settings_function_description">O tej funkcji</string>
   <string name="status_bar_settings_long_click_sort">Przytrzymaj na przełączniku by zmienić kolejność</string>
