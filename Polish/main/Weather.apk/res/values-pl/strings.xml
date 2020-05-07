@@ -408,4 +408,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="thanku_for_feedback">Dziękujemy za opinię, możesz ponownie otworzyć film pogodowy w ustawieniach</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
+  <string name="rain_sound_setting_summary_text">Włącz efekty dźwiękowe, aby móc usłyszeć zmiany pogodowe</string>
+  <string name="rain_sound_setting_title_text">Efekty dźwiękowe</string>
+  <string name="request_cta_connect_net">Zezwól tej aplikacji na połączenie się z Internetem i nadaj jej obowiązkowe uprawnienia wymienione powyżej.</string>
 </resources>
