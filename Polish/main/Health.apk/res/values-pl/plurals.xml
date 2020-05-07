@@ -67,9 +67,9 @@
         <item quantity="few">%1$d zapisy</item>
      </plurals>
      <plurals name="dream_talk_segment_unit">
-        <item quantity="other">zapisów</item>
-        <item quantity="one">zapis</item>
-        <item quantity="few">zapisy</item>
+        <item quantity="other">" instancji"</item>
+        <item quantity="one">" instancja"</item>
+        <item quantity="few">" instancje"</item>
      </plurals>
      <plurals name="duration_unit_hour_format">
         <item quantity="other">%1$d godz.</item>

@@ -269,9 +269,9 @@ Xiaomi Zdrowie powiadomi Cię tylko o ważnych rzeczach."</string>
      <string name="edit_basic_info_desc">Podstawowe informacje</string>
      <string name="edit_sleep_record_button">Edytuj</string>
      <string name="enable">Wł.</string>
-     <string name="enable_go_now">Wł.</string>
-     <string name="enable_not_now">Wył.</string>
-     <string name="enable_right_now">Wł.</string>
+     <string name="enable_go_now">Włącz</string>
+     <string name="enable_not_now">Nie teraz</string>
+     <string name="enable_right_now">Włącz</string>
      <string name="enough">Wystarczająco</string>
      <string name="enter_mi_health">Otwórz Xiaomi Zdrowie</string>
      <string name="equivalent_exercise">≈%1$s km spaceru (%2$s kcal)</string>
@@ -571,7 +571,7 @@ Jeśli po upływie 30 minut od położenia się do łóżka wciąż nie możesz 
      <string name="no_data">Brak danych</string>
      <string name="no_records">Brak elementów.</string>
      <string name="no_snore">"Nie chrapałeś ani nie mówiłeś w czasie snu"</string>
-     <string name="no_snore_1">"Nie chrapałeś ani nie mówiłeś w czasie snu"</string>
+     <string name="no_snore_1">Brak elementów</string>
      <string name="normal">Normalny</string>
      <string name="not_achieve_stand_goals">"Nie osiągnąłeś celu"</string>
      <string name="not_added">Nie dodano</string>
@@ -676,7 +676,7 @@ Jeśli po upływie 30 minut od położenia się do łóżka wciąż nie możesz 
      <string name="sedentary_time_is_too_long">Czas się ruszyć! Napij się wody i idź na spacer.</string>
      <string name="sedentary_title">Przypomnij, aby się ruszyć</string>
      <string name="sedentary_toggle_content">Xiaomi Zdrowie przypomni Ci, abyś wstał i pospacerował, jeśli byłeś nieaktywny przez dłuższy czas.</string>
-     <string name="sedentaty_hazard_description">"Siedzenie nie sprzyja Twojemu zdrowiu. 12 godzin ze zmianami pozycji każdego dnia pozwoli na uniknięcie ryzyka związanego z siedzącym trybem życia."</string>
+     <string name="sedentaty_hazard_description">"Siedzenie nie sprzyja Twojemu zdrowiu. 12 godzin ze zmianami pozycji w ciągu 1 minuty pozwoli na uniknięcie ryzyka związanego z siedzącym trybem życia."</string>
      <string name="select_menstruation_end_date">Wybierz datę końca tego okresu</string>
      <string name="select_null">Nie wybrano</string>
      <string name="select_target">Wybierz cel</string>
@@ -698,8 +698,8 @@ Jeśli po upływie 30 minut od położenia się do łóżka wciąż nie możesz 
      <string name="sleep_deep">Głęboki sen</string>
      <string name="sleep_deep_light_analysis">Płytki sen i glęboki sen</string>
      <string name="sleep_deep_light_close_tip">Analiza głębokiego snu jest wyłączona</string>
-     <string name="sleep_deep_light_no_data">Brak zapisów głębokiego snu</string>
-     <string name="sleep_deep_light_no_data_improvement">Funkcje głębokiego i lekkiego snu nie są identyfikowane. Zostaną podjęte wysiłki w celu optymalizacji algorytmu.</string>
+     <string name="sleep_deep_light_no_data">Brak danych</string>
+     <string name="sleep_deep_light_no_data_improvement">Nie udało się wykryć faz snu. Będziemy poprawiać nasze algorytmy. Bądź czujny!</string>
      <string name="sleep_detection_enable">Analizuj fazy snu</string>
      <string name="sleep_detection_feedback">Opinia</string>
      <string name="sleep_detection_guide_four_description">Monitorowanie snu zużyje około 1% baterii na dzień.</string>
@@ -721,10 +721,10 @@ Jeśli po upływie 30 minut od położenia się do łóżka wciąż nie możesz 
      <string name="sleep_detection_question_one_answer">"Kiedy twoje urządzenie jest wyłączone, restartowane lub poziom naładowania baterii jest niski, monitorowanie snu może być zakłócone z uwagi na fakt, że czujniki nie mogą właściwie zbierać i analizować danych. W takich przypadkach statystyki snu będą niekompletne.
 Jeśli problem będzie powtarzać się systematycznie, sprawdź swoje urządzenie pod kątem zaplanowanego wyłączenia lub aktualizacji systemowych powodujących restarty."</string>
      <string name="sleep_detection_question_one_answer_1">"Analiza głębokiego i lekkiego snu opiera się na danych dotyczących ruchu ciała zebranych przez czujniki telefonu. Następujące warunki mogą powodować brak wyników analizy snu: 
-1. Błąd gromadzenia danych. Gromadzenie i obliczanie danych może nie być prowadzone ze względu na wyłączenie telefonu lub niewystarczającą ilość baterii podczas snu. 
-2. Analiza danych nie powiodła się. Może się zdarzyć, że telefon zostanie umieszczony z dala od ciała, co spowoduje, że zebrane dane dotyczące ruchów ciała nie będą jednoznaczne, a właściwości głębokiego i lekkiego snu nie będą mogły być czasowo przeanalizowane. Będziemy nadal optymalizować algorytm."</string>
+1. Aplikacji Xiaomi Zdrowie nie udało się zgromadzić danych. Może tak się dziać wtedy, gdy telefon zostanie wyłączony w trakcie snu, jego poziom baterii jest zbyt niski bądź aplikacja nie ma uprawnień do działania w tle. Zezwól aplikacji Xiaomi Zdrowie na autostart, dodaj ją do wyjątków Oszczędzania baterii, a także zablokuj ją w menu ostatnio otwartych aplikacji, aby zapobiec takim sytuacjom.
+2. Aplikacji Xiaomi Zdrowie nie udało się przeanalizować danych. Może tak się dziać wtedy, gdy telefon w trakcie snu jest od Ciebie zbyt daleko oddalony bądź w sytuacji, gdy ruch Twojego ciała jest na tyle subtelny, że aplikacja nie mogła przyjąć założeń dotyczących cyklów Twojego snu. Xiaomi ciągle poprawia swoje algorytmy, aby zapewnić lepsze działanie tej funkcji."</string>
      <string name="sleep_detection_question_one_title">Dlaczego moje statystyki są niekompletne?</string>
-     <string name="sleep_detection_question_one_title_1">Dlaczego fazy lekkiego i głębokiego snu nie są rejestrowane?</string>
+     <string name="sleep_detection_question_one_title_1">Dlaczego nie widzę swoich faz snu?</string>
      <string name="sleep_detection_question_three_answer">Twoje urządzenie śledzi ruchy twojego ciała w trakcie snu z wykorzystaniem wbudowanych czujników. Aby statystyki były bardziej dokładne, umieść urządzenie na miękkiej powierzchni, blisko Twojego ciała. Unikaj odkładania urządzenia na stolikach poza łóżkiem lub zbyt daleko od materaca.</string>
      <string name="sleep_detection_question_three_title">Jak mogę sprawić, aby moje statystyki były bardziej dokładne?</string>
      <string name="sleep_detection_question_two_answer">"Twoje cykle snu są analizowane lokalnie, na tym urządzeniu. Monitorowanie snu będzie działać nawet wówczas, gdy nie będziesz podłączony do sieci lub polączenie z siecią będzie przerwane."</string>
@@ -772,14 +772,14 @@ danych snu"</string>
      <string name="sleep_service">Usługa monitorowania snu</string>
      <string name="sleep_service_background_running">Usługa monitorowania snu działa w tle</string>
      <string name="sleep_setting_title">Ustawienia snu</string>
-     <string name="sleep_snore_audio_auto">Śledź swoje dźwięki</string>
-     <string name="sleep_snore_audio_auto_desc">Nagrywaj twój głos w trakcie snu i zapisuj w telefonie, aby chronić swoją prywatność.</string>
-     <string name="sleep_snore_audio_close_desc">Możesz to wyłączyć w ustawieniach snu.</string>
-     <string name="sleep_snore_audio_enable">Detekcja jest włączona</string>
-     <string name="sleep_snore_audio_enable_desc">Twoje chrapanie będzie nagrywane dzisiejszej nocy.</string>
-     <string name="sleep_snore_audio_hight_power_desc">Upewnij się, że bateria w Twoim urządzeniu jest wystarczająco naładowana, zanim pójdziesz do łóżka.</string>
+     <string name="sleep_snore_audio_auto">Automatycznie nagrywaj chrapanie i głos</string>
+     <string name="sleep_snore_audio_auto_desc">Aplikacja Xiaomi Zdrowie może automatycznie nagrywać chrapanie i głos w oparciu o Twój harmonogram snu. Nagrywanie zakończy się w momencie, kiedy wstaniesz. Aby chronić Twoją prywatność, wszystkie dane będą przechowywane lokalnie na urządzeniu z wykorzystaniem wbudowanego algorytmu.</string>
+     <string name="sleep_snore_audio_close_desc">Możesz wyłączyć tą funkcję w każdym momencie w Ustawieniach.</string>
+     <string name="sleep_snore_audio_enable">Automatyczna detekcja jest włączona</string>
+     <string name="sleep_snore_audio_enable_desc">Twoje chrapanie i głos będzie automatycznie nagrywane, kiedy pójdziesz spać.</string>
+     <string name="sleep_snore_audio_hight_power_desc">Pamiętaj, że ta funkcja zużywa znaczną ilość energii. Dobrym pomysłem jest podłączenie telefonu do ładowarki w celu uniknięcia nieprzewidywalnych przerwań nagrania.</string>
      <string name="sleep_snore_detection">Wykryj chrapanie i mówienie</string>
-     <string name="sleep_snore_detection_desc">Śledź swój sen</string>
+     <string name="sleep_snore_detection_desc">Wykrywaj chrapanie i mówienie, aby dowiedzieć się więcej o swoim śnie</string>
      <string name="sleep_sober">Budzenie</string>
      <string name="sleep_sober_times_title">Wstawanie</string>
      <string name="sleep_status">Stan snu</string>
@@ -816,11 +816,11 @@ danych snu"</string>
      <string name="snore_detection_running_state">Wykrywanie…</string>
      <string name="snore_detection_running_state_description">Mikrofon jest włączony. Będzie pracował w tle.</string>
      <string name="snore_detection_stop_pop_content">"Nie będziesz mógł podsumować tej sesji, jeśli ją teraz zakończysz. Następna sesja rozpocznie się, kiedy pójdziesz do łóżka kolejny raz."</string>
-     <string name="snore_detection_stop_pop_title">Zakończyć sesję teraz?</string>
+     <string name="snore_detection_stop_pop_title">Zatrzymać obecną sesję wykrywania chrapania?</string>
      <string name="snore_detection_stopped_notification_title">Zatrzymano wykrywanie chrapania i mówienia</string>
      <string name="snore_dream_talk">Chrapanie i mówienie</string>
      <string name="snore_duration_label">Czas trwania chrapania</string>
-     <string name="snore_label">Chrapie</string>
+     <string name="snore_label">Chrapanie</string>
      <string name="snore_record_audio_delete_message">"To nagranie jest zapisywane tylko na tym urządzeniu. Nie będziesz mógł odzyskać nagrania, jeśli je usuniesz. Skasować mimo wszystko?"</string>
      <string name="snore_record_audio_delete_title">Skasować nagranie?</string>
      <string name="snore_section">Chrapanie %1$s</string>
@@ -971,8 +971,8 @@ danych snu"</string>
      <string name="tb_picker_sleep_goal">Wybierz cel snu: %1$s. Przesuń pionowo, aby wybrać cel.</string>
      <string name="tb_picker_weight">Wybrana waga: %1$s. Przesuń pionowo, aby wybrać wagę.</string>
      <string name="tb_picker_year">Wybrany rok: %1$d. Przesuń pionowo, aby wybrać rok.</string>
-     <string name="tb_play_next">Następne nagranie audio</string>
-     <string name="tb_play_previous">Poprzednie nagranie audio</string>
+     <string name="tb_play_next">Przejdź do następnego nagrania</string>
+     <string name="tb_play_previous">Przejdź do poprzedniego nagrania</string>
      <string name="tb_select_a_column">Wybrana %1$s</string>
      <string name="tb_show_sleep_info">Prezentowanie statystyk snu dla %1$s</string>
      <string name="tb_sleep_evaluation">Szacowany wynik: %1$s</string>
@@ -1094,4 +1094,7 @@ Zaktualizować teraz?"</string>
      <string name="write_strorage_perm_description">Aby zapisać dane o napotkanych problemach</string>
      <string name="year">Rok</string>
      <string name="yesterday">Wczoraj</string>
+     <string name="snore_detection_sotp_opt_1">Zatrzymaj i usuń rezultaty</string>
+     <string name="snore_detection_sotp_opt_2">Zatrzymaj i zapisz rezultaty</string>
+     <string name="sync_status_oauth_error">Nie udało się zsynchronizować źródła danych. Zautoryzuj je ponownie.</string>
 </resources>
