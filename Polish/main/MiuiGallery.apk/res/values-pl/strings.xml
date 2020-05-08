@@ -281,7 +281,7 @@
   <string name="chooser_fragment_mishare_title">Wyślij do</string>
   <string name="cleaner_empty_value_description">Wszystko ok</string>
   <string name="cleaner_photo_pick_delete_selected">Usuń wybrane</string>
-  <string name="cleaner_raw_action">Wyczyść</string>
+  <string name="cleaner_raw_action">Wyświetl</string>
   <string name="cleaner_raw_description">Zwolnij miejsce, usuwając duże zdjęcia w formacie RAW</string>
   <string name="cleaner_raw_title">Usuń pliki RAW</string>
   <string name="cleaner_scan_description">Optymalizacja elementów zwiększa ilość miejsca na urządzeniu</string>
@@ -292,10 +292,10 @@
   <string name="cleaner_scan_no_result">"Nie można zwolnić więcej miejsca"</string>
   <string name="cleaner_scan_ok">Rozumiem</string>
   <string name="cleaner_scan_title">Skanowanie albumów…</string>
-  <string name="cleaner_screen_shot_action">Wyczyść</string>
+  <string name="cleaner_screen_shot_action">Wyświetl</string>
   <string name="cleaner_screen_shot_description">Usuń niepotrzebne zrzuty ekranu</string>
   <string name="cleaner_screen_shot_title">Zrzuty ekranu</string>
-  <string name="cleaner_similar_action">Usuń teraz</string>
+  <string name="cleaner_similar_action">Wyświetl</string>
   <string name="cleaner_similar_description">Usuń duplikaty zdjęć</string>
   <string name="cleaner_similar_title">Duplikaty</string>
   <string name="cleaner_slim_action">Rozpocznij optymalizację</string>
@@ -305,7 +305,7 @@
   <string name="cleaner_space_description">(do zwolnienia)</string>
   <string name="cleaner_space_detail_description">Zwolnij miejsce na urządzeniu przez optymalizację zdjęć</string>
   <string name="cleaner_stop_scan">Zatrzymaj skanowanie</string>
-  <string name="cleaner_video_action">Usuń teraz</string>
+  <string name="cleaner_video_action">Wyświetl</string>
   <string name="cleaner_video_description">Usuń filmy, które zajmują dużo miejsca</string>
   <string name="cleaner_video_pick_delete_selected">Usuń zaznaczone wideo</string>
   <string name="cleaner_video_title">Usuń pliki wideo</string>
@@ -1430,8 +1430,8 @@
   <string name="select_origin_tip">Oryginalny (%s)</string>
   <string name="send_file_beautify_failed">"Nie można udostępnić"</string>
   <string name="send_files_to">Wyślij elementy do...</string>
-  <string name="send_heif_summary">Skonwertuj obrazy przed wysłaniem w celu zapewnienia kompatybilności</string>
-  <string name="send_heif_title">Skonwertuj pliki HEIF do JPG przed wysłaniem</string>
+  <string name="send_heif_summary">Skonwertuj obrazy w formacie HEIF do JPEG w celu zapewnienia kompatybilności</string>
+  <string name="send_heif_title">Skonwertuj pliki HEIF do JPEG przed wysłaniem</string>
   <string name="send_multiple_files_hint_format">Wyślij (%s)</string>
   <string name="send_public_url">Wyślij odnośnik URL</string>
   <string name="send_secret_file_failed">"Nie można udostępnić"</string>
@@ -2122,4 +2122,21 @@
      <string name="security_share_subtitle_hide">Usunięto informacje o lokalizacji</string>
      <string name="security_share_subtitle_no_hide">Zawiera informacje o lokalizacji</string>
      <string name="zman_title">Bezpieczne udostępnianie</string>
+     <string name="album_tab_page_switch_view_style_to_grid">Widok siatki</string>
+     <string name="album_tab_page_switch_view_style_to_linear">Widok listy</string>
+	   <string name="continue_feedback">Dodatkowa opinia</string>
+     <string name="macarons_download_later">Odczekaj minutę lub dwie i spróbuj ponownie</string>
+     <string name="macarons_download_network_fail">"Nie udało się pobrać wtyczki. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
+     <string name="macarons_download_other_fail">"Nie udało się pobrać ze względu na nieznany błąd"</string>
+     <string name="macarons_download_sdscard_fail">"Nie udało się pobrać. Karta SD jest niedostępna."</string>
+     <string name="macarons_download_storage_fail">"Nie udało się pobrać. Brak miejsca na urządzeniu."</string>
+     <string name="macarons_downloading">Pobieranie wtyczki…</string>
+     <string name="problem_feedback">Opinia</string>
+	   <string name="vlog_clip_zoom">Użyj dwóch palców, aby zwiększyć lub zmniejszyć ilość klatek w podglądzie</string>
+     <string name="vlog_exit_message">Wszystkie niezapisane zmiany zostaną utracone. Czy chcesz wyjść mimo to?</string>
+     <string name="vlog_exit_title">Masz niezapisane zmiany</string>
+     <string name="vlog_float_view_original_ratio">Original</string>
+     <string name="vlog_improt_encode_video_error">Wystąpił błąd enkodera. Spróbuj ponownie.</string>
+     <string name="vlog_photo_edit_not_support">"Nie można edytować obrazów"</string>
+     <string name="vlog_video_trans_code_cons">Przetwarzanie pliku wysokiej rozdzielczości…</string>
 </resources>
