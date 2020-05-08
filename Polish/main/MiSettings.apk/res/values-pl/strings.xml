@@ -499,4 +499,13 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="usage_runtime_title">Obowiązkowe uprawnienia</string>
     <string name="control_center_title_new">Używano dzisiaj</string>
     <string name="focus_mode_custom_time">Własny licznik</string>
+    <string name="high_fps_description">Wysoka częstotliwość odświeżania. Większe zużycie energii.</string>
+    <string name="low_fps_description">Niska częstotliwość odświeżania. Mniejsze zużycie energii.</string>
+    <string name="silent_ringtone_hint">Dźwięk jest teraz wyciszony. Zwiększ głośność i spróbuj ponownie.</string>
+    <string name="usage_new_home_app_limit_summary">Ustaw dzienny limit czasu na ekranie dla tej aplikacji</string>
+    <string name="usage_new_home_app_limit_title">Limit czasu na ekranie</string>
+    <string name="usage_new_home_avg_usage_day">Śr. %s dziennie</string>
+    <string name="usage_new_home_classify_manage">Zarządzaj kategoriami aplikacji</string>
+    <string name="usage_new_home_sys_no_limit_summary">"Nie można ustawić limitu czasu na ekranie dla aplikacji systemowych"</string>
+    <string name="usage_new_home_usage_detail">Szczegóły dot. użytkowania</string>
 </resources>
