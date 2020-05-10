@@ -330,7 +330,7 @@
   <string name="snooze_confirm_cancel">Odrzuć alarm</string>
   <string name="snooze_duration">Drzemka</string>
   <string name="snooze_duration_title">Drzemka</string>
-  <string name="snooze_duration_value">Interwał (ile minut)</string>
+  <string name="snooze_duration_value">Interwał (co ile minut)</string>
   <string name="star_wy_alarm_speech">Poznaj Roy Wang</string>
   <string name="start">Start</string>
   <string name="start_up">Start</string>
