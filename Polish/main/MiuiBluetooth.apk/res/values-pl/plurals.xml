@@ -10,4 +10,8 @@
         <item quantity="one">Naciśnij i przytrzymaj obszar wrażliwy na dotyk na słuchawkach przez %1$d sekundę</item>
         <item quantity="few">Naciśnij i przytrzymaj obszar wrażliwy na dotyk na słuchawkach przez %1$d sekundy</item>
     </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Przytrzymaj górny przycisk przez %1$s s, gdy zasilanie jest wyłączone</item>
+        <item quantity="one">Przytrzymaj górny przycisk przez %1$s s, gdy zasilanie jest wyłączone</item>
+    </plurals>
 </resources>

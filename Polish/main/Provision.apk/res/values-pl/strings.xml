@@ -256,4 +256,8 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="service_name_fast_pairing">Mi Link</string>
   <string name="fast_pairing_introduction">Funkcja Mi Link pozwala na połączenie z urządzeniami Bluetooth znajdującymi się w pobliżu. Ahy móc odnaleźć te urządzenia, zezwól funkcji Mi Link na łączenie się z Internetem.</string>
   <string name="disagreement_abnormal_running_fast_pairing">"Jeśli nie zgodzisz się na nadanie tych uprawnień, nie będzie można korzystać z tej aplikacji. W każdym momencie możesz ograniczyć jej uprawnienia w Ustawieniach."</string>
+  <string name="backup_introduction">Możesz użyć tej aplikacji w celu wykonania i przywracania kopii zapasowych. </string>
+  <string name="permission_backup">Dostęp do pamięci</string>
+  <string name="permission_backup_introduction">Aby mieć dostęp do kopii i móc je zapisywać na Twoim urządzeniu</string>
+  <string name="service_name_backup">Kopie zapasowe</string>
 </resources>

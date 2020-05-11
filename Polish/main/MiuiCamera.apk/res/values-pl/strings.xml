@@ -1313,4 +1313,25 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
   <string name="clone_recapture_alert">Zacząć od nowa?</string>
+  <string name="ambilight_description_title">O długiej ekspozycji</string>
+  <string name="ambilight_intro_crowd_moving_part1">Gdy wykonujesz zdjęcie na zatłoczonej ulicy, poproś fotografowany obiekt, aby się nie poruszał. Inne osoby będą widoczne na zdjęciu jako zamazane ślady.</string>
+  <string name="ambilight_intro_crowd_moving_part2">Możesz także wykonywać zdjęcia korków lub tłumów. Dzięki długiej ekspozycji budynki będą ostre, zaś wszystkie poruszające się obiekty - zamazane.</string>
+  <string name="ambilight_intro_light_track">Użyj źródła światła do \"malowania\" go w ciemnej scenerii, aby połączyć wszystkie oświetlone elementy w jeden obraz.</string>
+  <string name="ambilight_intro_magic_star">Użyj tego trybu w miejscach, gdzie zanieczyszczenie sztucznym światłem jest małe. Czas trwania ekspozycji wyniesie %d sekund - dobrym pomysłem jest użycie statywu.</string>
+  <string name="ambilight_intro_silky_water_part1">Warto wykorzystać ten tryb wtedy, gdy fotografujesz poruszające się chmury. Nada on niebu efekt \"farby olejnej\".</string>
+  <string name="ambilight_intro_silky_water_part2">Ten tryb sprawia, że poruszająca się woda (np. w rzekach, wodospadach i jeziorach) wygląda jak satyna.</string>
+  <string name="ambilight_intro_star_track">"Wykonywanie zdjęcia gwieżdzistego nieba przez długi czas pozwoli na uchwycenie trajektorii gwiazd. Koniecznie użyj statywu i wykonuj zdjęcie nieprzerwanie przez %d minut."</string>
+  <string name="ambilight_intro_traffic_light">W nocy możesz uchwycić trajektorię jasnych ruchomych świateł (np. na samochodach i statkach). Ten tryb umożliwia podgląd końcowego wyniku na ekranie w czasie rzeczywistym.</string>
+  <string name="ambilight_scene_crowd_moving">Poruszający się tłum</string>
+  <string name="ambilight_scene_light_track">Malowanie światłem</string>
+  <string name="ambilight_scene_magic_star">Gwiezdne niebo</string>
+  <string name="ambilight_scene_silky_water">Gładka woda</string>
+  <string name="ambilight_scene_star_track">Ślady gwiazd</string>
+  <string name="ambilight_scene_traffic_light">Ślady neonów</string>
+  <string name="ambilight_tips_for_using_tripod">Użyj statywu</string>
+  <string name="more_mode_style">"Wybierz sposób, w jaki chcesz dostosować sobie tryby Aparatu"</string>
+  <string name="more_mode_style_popup">Panel \"Więcej\"</string>
+  <string name="more_mode_style_tab">Tryb \"Więcej\"</string>
+  <string name="parameter_ambilight_title">Długa ekspozycja</string>
+  <string name="pref_more_mode_style_title">Tryby Aparatu</string>
 </resources>

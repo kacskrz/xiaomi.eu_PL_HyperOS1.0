@@ -2251,4 +2251,5 @@ Wygląda na to, że magazyn danych logowania nie jest włączony."</string>
     <string name="wifi_security_short_none_owe">Brak/OWE</string>
     <string name="status_bar_clock_date_weekday_format">EEE, dd.MM.</string>
     <string name="status_bar_clock_date_weekday_format_12">EEE, dd.MM.</string> 
+    <string name="bluetooth_paired">Zapisano</string>
 </resources>

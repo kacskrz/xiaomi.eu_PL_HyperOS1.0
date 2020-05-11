@@ -322,7 +322,7 @@ Administrator może monitorować ustawienia, uprawnienia dostępu, aplikacje i d
   <string name="allow_lights_title">Dioda powiadomień</string>
   <string name="allow_mock_location">Pozorowanie lokalizacji</string>
   <string name="allow_mock_location_summary">Zezwalaj na pozorowanie lokalizacji</string>
-  <string name="allow_oaid_used">Ogranicz dostęp do dowolnego ID</string>
+  <string name="allow_oaid_used">Użyj wirtualnego ID</string>
   <string name="allow_oaid_used_desc">"Aplikacje nie będą mieć dostępu do ID, dopóki im na to nie pozwolisz. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
   <string name="allow_overlay_description">To uprawnienie zezwala na wyświetlanie aplikacji nad innymi aplikacjami, których używasz, i może powodować zakłócenia w korzystaniu z interfejsu innych aplikacji lub ich działanie niezgodne z tym, co widać na ekranie.</string>
   <string name="allow_sound">Zezwól na dźwięk</string>
@@ -2866,7 +2866,7 @@ Kopia zapasowa nie wlicza się do limitu miejsca na Dysku Google. Nie zostanie t
   <string name="google_wallet">Portfel Google</string>
   <string name="got_it">OK</string>
   <string name="gps_description">Wspierane są różne systemy nawigacji (GPS, BeiDou, GLONASS, Galileo)</string>
-  <string name="gps_description_global">Wspierane są różne systemy nawigacji (%s)</string>
+  <string name="gps_description">Urządzenia Xiaomi wspierają różne systemy nawigacji (np. GPS, NavIC, BeiDou, GLONASS czy Galileo).</string>
   <string name="gsm_to_wifi_connect_type_title">Mobilna-Wi-Fi</string>
   <string name="gxzw_add_fingerprint_area">Czytnik linii papilarnych</string>
   <string name="gxzw_add_fingerprint_continue">Kontynuuj</string>
@@ -8093,4 +8093,8 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="zone_list_menu_sort_by_timezone">Sortuj według strefy czasowej</string>
   <string name="restore_oaid_positive_step">Resetuj (%1$d)</string>
   <string name="control_panel_switch_side">Zamień panel powiadomień i Centrum funkcji stronami</string>
+  <string name="bluetooth_paired">Zapisano</string>
+  <string name="reset_confirm_directory">"Uwaga: Przed przywróceniem elementów sprawdź, czy na Twoim urządzeniu istnieje katalog \"MIUI-Backup-AllBackup\". Jeśli nie istnieje, utwórz go."</string>
+  <string name="reset_remove_data_hint">Wszystkie elementy wymienione powyżej zostaną bezpowrotnie usunięte. Skopiuj wszystkie ważne elementy na swój komputer bądź do Chmury Xiaomi przed kontynuowaniem tego kroku.</string>
+  <string name="restore_oaid_dialog_content">Z wirtualnego ID korzysta teraz wiele aplikacji. Jeśli go teraz zresetujesz, część ich danych może zostać utracona bądź stać się bezużyteczna. Kontynuować mimo to?</string>
 </resources>
