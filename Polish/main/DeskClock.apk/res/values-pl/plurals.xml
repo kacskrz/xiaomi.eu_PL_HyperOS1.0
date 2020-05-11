@@ -93,8 +93,8 @@
         <item quantity="one">" min"</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
-        <item quantity="other">%s godz. dalej</item>
-        <item quantity="one">%s godz. dalej</item>
+        <item quantity="other">%s godz. później</item>
+        <item quantity="one">%s godz. później</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
         <item quantity="other">%s godz. wcześniej</item>
