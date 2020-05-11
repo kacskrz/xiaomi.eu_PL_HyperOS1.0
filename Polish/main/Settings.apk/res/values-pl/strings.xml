@@ -2866,7 +2866,7 @@ Kopia zapasowa nie wlicza się do limitu miejsca na Dysku Google. Nie zostanie t
   <string name="google_wallet">Portfel Google</string>
   <string name="got_it">OK</string>
   <string name="gps_description">Wspierane są różne systemy nawigacji (GPS, BeiDou, GLONASS, Galileo)</string>
-  <string name="gps_description">Urządzenia Xiaomi wspierają różne systemy nawigacji (np. GPS, NavIC, BeiDou, GLONASS czy Galileo).</string>
+  <string name="gps_description_global">Urządzenia Xiaomi wspierają różne systemy nawigacji (np. GPS, NavIC, BeiDou, GLONASS czy Galileo).</string>
   <string name="gsm_to_wifi_connect_type_title">Mobilna-Wi-Fi</string>
   <string name="gxzw_add_fingerprint_area">Czytnik linii papilarnych</string>
   <string name="gxzw_add_fingerprint_continue">Kontynuuj</string>
