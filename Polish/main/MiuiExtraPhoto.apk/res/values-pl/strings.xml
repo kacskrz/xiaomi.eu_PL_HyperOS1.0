@@ -67,4 +67,7 @@
   <string name="saving_image">Zapisywanie zdjęcia…</string>
   <string name="saving_image_to_album">Zapisywanie zdjęcia do %1$s…</string>
   <string name="wait_error">Chwileczkę…</string>
+  <string name="doc_photo_cancel">Anuluj</string>
+  <string name="doc_photo_confirm">Wyjdź</string>
+  <string name="doc_photo_idcard_alert_msg">Anulować wszystkie zmiany i wyjść z edytora?</string>
 </resources>
