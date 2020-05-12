@@ -584,8 +584,8 @@ Usuń wtedy starsze pliki lub kup dodatkową przestrzeń na dysku."</string>
   <string name="micloud_web_discription_international">Odwiedź i.mi.com/micloud</string>
   <string name="micloud_web_discription_place_holder">Odwiedź na komputerze %1$s</string>
   <string name="micloud_website">Pokaż zawartość Chmury</string>
-  <string name="micloud_wipe_data_confirm_label">Usuń dane</string>
-  <string name="micloud_wipe_data_confirm_title">Usunąć zsynchronizowane dane z urządzenia po wylogowaniu?</string>
+  <string name="micloud_wipe_data_confirm_label">Usunąć zsynchronizowane elementy z urządzenia?</string>
+  <string name="micloud_wipe_data_confirm_title">Elementy z niektórych aplikacji są zsynchronizowane z Chmurą Xiaomi. Możesz usunąć je z tego urządzenia, jeśli chcesz - pozostaną one w Chmurze.</string>
   <string name="micloud_wipe_data_remove">Usuń</string>
   <string name="micloud_wipe_data_retain">Nie usuwaj</string>
   <string name="microsoft_cloud">Usługa Microsoft Cloud</string>

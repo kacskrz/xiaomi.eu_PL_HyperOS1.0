@@ -203,6 +203,7 @@
   <string name="select">Zaznacz</string>
   <string name="select_all">Wszystko</string>
   <string name="send_files_to">Wyślij elementy do...</string>
+  <string name="serviceEnabled">Usługa została włączona.</string>
   <string name="set_password_action">Ustaw hasło</string>
   <string name="set_password_message">Ustaw hasło, aby korzystać z tej funkcji</string>
   <string name="set_password_title">Ustaw hasło</string>
