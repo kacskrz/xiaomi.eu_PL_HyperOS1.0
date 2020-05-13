@@ -8097,4 +8097,6 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="reset_confirm_directory">"Uwaga: Przed przywróceniem elementów sprawdź, czy na Twoim urządzeniu istnieje katalog \"MIUI-Backup-AllBackup\". Jeśli nie istnieje, utwórz go."</string>
   <string name="reset_remove_data_hint">Wszystkie elementy wymienione powyżej zostaną bezpowrotnie usunięte. Skopiuj wszystkie ważne elementy na swój komputer bądź do Chmury Xiaomi przed kontynuowaniem tego kroku.</string>
   <string name="restore_oaid_dialog_content">Z wirtualnego ID korzysta teraz wiele aplikacji. Jeśli go teraz zresetujesz, część ich danych może zostać utracona bądź stać się bezużyteczna. Kontynuować mimo to?</string>
+  <string name="miui_sos_remind_close">Włączony jest tryb Alarmowy SOS. Czy chcesz go wyłączyć (wraz z odpowiednimi funkcjonalnościami)?</string>
+  <string name="miui_sos_remind_close_confirm">Wyłącz</string>
 </resources>

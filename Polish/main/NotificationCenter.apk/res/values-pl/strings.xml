@@ -139,4 +139,5 @@ Zgłoś ten problem >"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Na razie to wszystko</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
+    <string name="back">Wstecz</string>
 </resources>

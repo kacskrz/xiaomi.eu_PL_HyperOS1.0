@@ -2252,4 +2252,9 @@ Wygląda na to, że magazyn danych logowania nie jest włączony."</string>
     <string name="status_bar_clock_date_weekday_format">EEE, dd.MM.</string>
     <string name="status_bar_clock_date_weekday_format_12">EEE, dd.MM.</string> 
     <string name="bluetooth_paired">Zapisano</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Dane mobilne zostaną wyłączone. Dopóki nie użyjesz sieci Wi-Fi, aplikacje, które wymagają połączenia z Internetem, nie będą normalnie działać.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Włączone zostaną dane mobilne. Może to powodować naliczenie dodatkowych opłat przez operatora zgodnie z Twoją taryfą.</string>
+    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Anuluj</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Wyłącz</string>
 </resources>

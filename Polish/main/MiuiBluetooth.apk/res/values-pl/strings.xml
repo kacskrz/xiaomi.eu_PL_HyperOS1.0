@@ -114,4 +114,5 @@
   <string name="perm_ble_des">Dostęp do ustawień BLE</string>
   <string name="perm_ble_lab">Dostęp do ustawień BLE</string>
   <string name="bluetooth_paired">Zapisano</string>
+  <string name="fast_connect_reset_common">Zresetuj urządzenie, aby móc je sparować</string>
 </resources>

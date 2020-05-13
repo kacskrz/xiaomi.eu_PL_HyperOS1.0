@@ -1093,4 +1093,5 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
   <string name="zero_sms_feedback_message">Zgłoszone wiadomości zostaną przesłane na serwery Xiaomi wraz z numerami telefonów ich nadawców. Są one używane wyłącznie do poprawienia funkcjonalności Listy blokowanych.</string>
   <string name="zero_sms_feedback_success">Pomyślnie zgłoszono</string>
   <string name="zero_sms_feedback_title">Zgłoś</string>
+  <string name="failed_to_send">Nie udało się wysłać</string>
 </resources>

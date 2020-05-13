@@ -1736,4 +1736,6 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="msim_setting_pop_text">Wybierz kartę SIM, aby zadzwonić</string>
   <string name="msim_setting_set_package">Wybierz plan</string>
   <string name="status_unavailable">Niedostępny</string>
+  <string name="fiveg_hosted_mode_summary">Kiedy łączność z siecią 5G jest słaba, urządzenie przełączy się automatycznie na najlepszą dostępną sieć</string>
+  <string name="fiveg_hosted_mode_title">Przełącznik sieci 5G</string>
 </resources>
