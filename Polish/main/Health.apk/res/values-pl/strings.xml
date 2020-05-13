@@ -1039,7 +1039,7 @@ danych snu"</string>
 	 <!-- HH:mm nie ruszać!!! -->
      <string name="today_hh_mm">Dzisiaj HH:mm</string>
      <string name="today_label">Dzisiaj</string>
-     <string name="today_no_data">No data for today yet</string>
+     <string name="today_no_data">Brak danych z dzisiaj</string>
      <string name="today_single">Dzisiaj</string>
      <string name="tomorrow">Jutro</string>
      <string name="too_little">Za mało</string>
