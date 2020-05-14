@@ -323,7 +323,7 @@ Administrator może monitorować ustawienia, uprawnienia dostępu, aplikacje i d
   <string name="allow_mock_location">Pozorowanie lokalizacji</string>
   <string name="allow_mock_location_summary">Zezwalaj na pozorowanie lokalizacji</string>
   <string name="allow_oaid_used">Użyj wirtualnego ID</string>
-  <string name="allow_oaid_used_desc">"Aplikacje nie będą mieć dostępu do ID, dopóki im na to nie pozwolisz. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
+  <string name="allow_oaid_used_desc">"MIUI nie będzie dostarczać wirtualnego ID aplikacjom. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
   <string name="allow_overlay_description">To uprawnienie zezwala na wyświetlanie aplikacji nad innymi aplikacjami, których używasz, i może powodować zakłócenia w korzystaniu z interfejsu innych aplikacji lub ich działanie niezgodne z tym, co widać na ekranie.</string>
   <string name="allow_sound">Zezwól na dźwięk</string>
   <string name="allow_sound_title">Dźwięk</string>
@@ -1998,7 +1998,7 @@ Ustawienie dotyczy wszystkich użytkowników tego urządzenia."</string>
   <string name="device_name_input_overlength">Osiągnięto maksymalną długość nazwy</string>
   <string name="device_name_usage_point">Nazwa urządzenia zostanie użyta przy wykrywaniu Bluetooth.</string>
   <string name="device_oaid">Zarządzaj wirtualnym ID</string>
-  <string name="device_oaid_desc">Zamiast Twojego prawdziwego identyfikatora, MIUI zapewni wirtualne ID (OAID) dla aplikacji firm trzecich. To powstrzyma aplikacje przed śledzeniem twoich zachowań i preferencji i ochroni twoją prywatność.</string>
+  <string name="device_oaid_desc">Zamiast Twojego prawdziwego identyfikatora, MIUI zapewni wirtualne ID (OAID) zainstalowanym aplikacjom. Powstrzyma je to przed śledzeniem twoich zachowań i preferencji i ochroni twoją prywatność.</string>
   <string name="device_oaid_title">Wirtualne ID</string>
   <string name="device_of_someone">"%1$s - %2$s"</string>
   <string name="device_picker">Wybierz urządzenie Bluetooth</string>
