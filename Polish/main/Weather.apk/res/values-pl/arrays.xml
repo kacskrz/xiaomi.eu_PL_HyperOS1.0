@@ -147,7 +147,7 @@
        <item>"%1$s km/h"</item>
        <item>"%1$s m/s"</item>
        <item>"%1$s mph"</item>
-       <item>"%1$s w"</item>
+       <item>"%1$s kts"</item>
    </string-array>
    <string-array name="minute_rain_array">
         <item>Ulewa</item>
