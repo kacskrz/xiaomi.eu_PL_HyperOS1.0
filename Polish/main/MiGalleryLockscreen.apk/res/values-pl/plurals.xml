@@ -47,4 +47,14 @@
         <item quantity="one">%d artykuł</item>
         <item quantity="few">%d artykuły</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="other">%d nowych powiadomień</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="one">%s zdjęcie</item>
+        <item quantity="few">%s zdjęcia</item>
+        <item quantity="other">%s zdjęć</item>
+    </plurals>
 </resources>

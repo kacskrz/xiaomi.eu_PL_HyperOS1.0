@@ -92,4 +92,13 @@
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
   <string name="cta_agree_desc">Zezwól tej aplikacji na łączenie się z Interneten i nadaj jej opcjonalne uprawnienia, aby móc używać jej wszystkich funkcji.</string>
+  <string name="dialog_body_no_network_global">Połącz się z siecią Wi-Fi bądź włącz dane mobilne.</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Przesuń w dół, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Zwolnij, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To wszystko w tej chwili"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To wszystko w tej chwili"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie można załadować"</string>
 </resources>

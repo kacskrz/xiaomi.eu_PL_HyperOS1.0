@@ -243,8 +243,8 @@
   <string name="wallpaper_group_black_white_title">Czarny i biały</string>
   <string name="wallpaper_group_red_mars_title">Mars</string>
   <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Uniwersytet w Arizonie</string>
-  <string name="miui_lock_screen_date">EEEE dd.MM.</string>
-  <string name="miui_lock_screen_date_12">EEEE dd.MM.</string>
+  <string name="miui_lock_screen_date">EEEE, dd.MM.yyyy</string>
+  <string name="miui_lock_screen_date_12">EEEE, dd.MM.yyyy</string>
   <string name="miui_lock_screen_large_date">"EEE
 dd.MM."</string>
   <string name="miui_lock_screen_large_date_12">"EEE

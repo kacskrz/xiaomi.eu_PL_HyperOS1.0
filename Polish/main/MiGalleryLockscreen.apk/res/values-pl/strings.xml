@@ -138,7 +138,7 @@
   <string name="change_activate_email">Zmień adres e-mail</string>
   <string name="change_password">Zmień hasło</string>
   <string name="change_time">Zmieniaj tapety</string>
-  <string name="character_counter_content_description">Limit znaków przekroczył %1$d z %2$d</string>
+  <string name="character_counter_content_description">Wprowadzono %1$d z %2$d znaków</string>
   <string name="choose_to_signin">Tak</string>
   <string name="choose_to_signup">Nie</string>
   <string name="clear_history">Wyczyść historię wyszukiwania</string>
@@ -714,4 +714,57 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="wm_storage_used">"Zajęte: "</string>
   <string name="wp_desktop_enable_title">Pokaz slajdów na pulpicie</string>
   <string name="wp_lockscreen_enable_title">Pokaz slajdów na ekranie blokady</string>
+  <string name="character_counter_overflowed_content_description">Przekroczono limit znaków o %1$d z %2$d</string>
+  <string name="chip_text">Tekst</string>
+  <string name="clear_text_end_icon_content_description">Wyczyść tekst</string>
+  <string name="error_icon_content_description">Błąd</string>
+  <string name="exposed_dropdown_menu_content_description">Pokaż menu</string>
+  <string name="icon_content_description">Ikona okna dialogowego</string>
+  <string name="miui_clock_city_name_local">Lokalnie</string>
+  <string name="miui_clock_city_name_second">Drugi zegar</string>
+  <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+  <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+  <string name="miui_lock_screen_date_two_lines">"EEEE,
+d MMMM"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE,
+d MMMM"</string>
+  <string name="miui_lock_screen_large_date">"EEE
+dd.M"</string>
+  <string name="miui_lock_screen_large_date_12">"EEE
+dd.M"</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Przesuń w dół, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Zwolnij, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To wszystko w tej chwili"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To wszystko w tej chwili"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie można załadować"</string>
+  <string name="mtrl_badge_numberless_content_description">Nowe powiadomienie</string>
+  <string name="mtrl_picker_a11y_next_month">Przełącz na następny miesiąc</string>
+  <string name="mtrl_picker_a11y_prev_month">Przełącz na poprzedni miesiąc</string>
+  <string name="mtrl_picker_announce_current_selection">Obecnie wybrano: %1$s</string>
+  <string name="mtrl_picker_date_header_title">Wybierz datę</string>
+  <string name="mtrl_picker_date_header_unselected">Wybrana data</string>
+  <string name="mtrl_picker_day_of_week_column_header">Kolumna dni: %1$s</string>
+  <string name="mtrl_picker_invalid_format">Nieprawidłowy format.</string>
+  <string name="mtrl_picker_invalid_format_example">Przykład: %1$s</string>
+  <string name="mtrl_picker_invalid_format_use">Używane: %1$s</string>
+  <string name="mtrl_picker_invalid_range">Nieprawidłowy zakres.</string>
+  <string name="mtrl_picker_navigate_to_year_description">Nawiguj do roku %1$s</string>
+  <string name="mtrl_picker_out_of_range">Poza zakresem: %1$s</string>
+  <string name="mtrl_picker_range_header_only_end_selected">Data startowa – %1$s</string>
+  <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data końcowa</string>
+  <string name="mtrl_picker_range_header_title">Wybierz zakres dat</string>
+  <string name="mtrl_picker_range_header_unselected">Data startowa – Data końcowa</string>
+  <string name="mtrl_picker_save">Zapisz</string>
+  <string name="mtrl_picker_text_input_date_hint">Data</string>
+  <string name="mtrl_picker_text_input_date_range_end_hint">Data końcowa</string>
+  <string name="mtrl_picker_text_input_date_range_start_hint">Data startowa</string>
+  <string name="mtrl_picker_toggle_to_calendar_input_mode">Przełącz na wprowadzanie z kalendarza</string>
+  <string name="mtrl_picker_toggle_to_day_selection">Dotknij, aby przełączyć się na wybór dnia</string>
+  <string name="mtrl_picker_toggle_to_text_input_mode">Przełącz na wprowadzanie z tekstu</string>
+  <string name="mtrl_picker_toggle_to_year_selection">Dotknij, aby przełączyć się na wybór roku</string>
+  <string name="shield_tag_ceil">"Nie można zablokować więcej elementów"</string>
+  <string name="tb_collapse_desc">Ukryj menu \"Udostępnij\"</string>
 </resources>

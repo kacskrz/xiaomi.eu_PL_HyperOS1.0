@@ -45,8 +45,7 @@
      <string name="add_body_weight_button">Dodaj dane wagi</string>
      <string name="add_body_weight_record_button">Dodaj dane wagi</string>
      <string name="add_data_source">Dodaj źródła danych</string>
-     <string name="add_data_source_description">"Dodaj dane wygenerowane w innych urządzeniach do aplikacji Xiaomi Zdrowie, aby zwiększyć dokładność statystyk i uzyskać bardziej dokładne porady zdrowotne.
-Xiaomi Zdrowie obsługuje urządzenia, które uprzednio dodano do aplikacji Mi Home. Jeśli nie możesz odnaleźć urządzenia, któe chcesz dodać, sprawdź najpierw, czy dodano je w aplikacji Mi Home."</string>
+     <string name="add_data_source_description">"Dodaj dane wygenerowane w innych urządzeniach do aplikacji Xiaomi Zdrowie, aby zwiększyć dokładność statystyk i uzyskać bardziej dokładne porady zdrowotne."</string>
      <string name="add_data_source_login_and_open_sync">Zaloguj się do swojego konta Xiaomi i wlącz synchronizację z Chmurą Xiaomi, aby móc dodać źródła danych.</string>
      <string name="add_data_source_open_sync">Wlącz synchronizację z Chmurą Xiaomi, aby móc dodać źródła danych.</string>
      <string name="add_data_source_support_step">"To urządzenie nie generuje danych dotyczących liczby kroków. Możesz spróbować przełączyć się na inne źródło danych."</string>
@@ -773,7 +772,7 @@ danych snu"</string>
      <string name="sleep_service_background_running">Usługa monitorowania snu działa w tle</string>
      <string name="sleep_setting_title">Ustawienia snu</string>
      <string name="sleep_snore_audio_auto">Automatycznie nagrywaj chrapanie i głos</string>
-     <string name="sleep_snore_audio_auto_desc">Aplikacja Xiaomi Zdrowie może automatycznie nagrywać chrapanie i głos w oparciu o Twój harmonogram snu. Nagrywanie zakończy się w momencie, kiedy wstaniesz. Aby chronić Twoją prywatność, wszystkie dane będą przechowywane lokalnie na urządzeniu z wykorzystaniem wbudowanego algorytmu.</string>
+     <string name="sleep_snore_audio_auto_desc">Aplikacja Xiaomi Zdrowie może automatycznie nagrywać chrapanie i głos w oparciu o Twój harmonogram snu. Nagrywanie zakończy się w momencie, kiedy wstaniesz.</string>
      <string name="sleep_snore_audio_close_desc">Możesz wyłączyć tą funkcję w każdym momencie w Ustawieniach.</string>
      <string name="sleep_snore_audio_enable">Automatyczna detekcja jest włączona</string>
      <string name="sleep_snore_audio_enable_desc">Twoje chrapanie i głos będzie automatycznie nagrywane, kiedy pójdziesz spać.</string>
@@ -1096,5 +1095,8 @@ Zaktualizować teraz?"</string>
      <string name="yesterday">Wczoraj</string>
      <string name="snore_detection_sotp_opt_1">Zatrzymaj i usuń rezultaty</string>
      <string name="snore_detection_sotp_opt_2">Zatrzymaj i zapisz rezultaty</string>
-     <string name="sync_status_oauth_error">Nie udało się zsynchronizować źródła danych. Zautoryzuj je ponownie.</string>
+     <string name="sync_status_oauth_error">Nie udało się zsynchronizować. Nadaj najpierw wymagane uprawnienia.</string>
+     <string name="save">Zapisz</string>
+     <string name="tb_multiple_selecte_all">Zaznacz wszystko</string>
+     <string name="tb_unmultiple_selecte_all">Odznacz wszystko</string>
 </resources>
