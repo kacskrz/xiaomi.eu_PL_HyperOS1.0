@@ -275,4 +275,5 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
+  <string name="help_and_feedback">Pomoc i opinie</string>
 </resources>

@@ -39,4 +39,12 @@
         <item quantity="one">Usunąć %d nagranie?</item>
         <item quantity="few">Usunąć %d nagrania?</item>
     </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">Szukaj spośród %d nagrań</item>
+        <item quantity="one">Szukaj spośród %d nagrania</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">Szukaj spośród %d nagrań rozmów</item>
+        <item quantity="one">Szukaj spośród %d nagrania rozmowy</item>
+    </plurals>
 </resources>

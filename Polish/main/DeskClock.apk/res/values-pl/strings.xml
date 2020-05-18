@@ -446,4 +446,9 @@
   <string name="worldclock_local_time">Czas lokalny</string>
   <string name="worldclock_second_time">Czas w: %s</string>
   <string name="worldcolock_time_date">dd.MM.yyyy</string>
+  <string name="add_common_timer">Dodaj minutnik</string>
+  <string name="common_timer_selector">Wybierz minutnik</string>
+  <string name="stopwatch_reset_notification">Zresetowano stoper</string>
+  <string name="stopwatch_running_notification">Stoper</string>
+  <string name="white_noise_selector">Wybierz dźwięk</string>
 </resources>

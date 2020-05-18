@@ -378,6 +378,7 @@
   <string name="miuix_search_history_clear">Wyczyść historię wyszukiwania</string>
   <string name="miuix_search_history_default_title">Historia wyszukiwania</string>
   <string name="miuix_search_recommendation_default_title">Możesz być tym zainteresowany</string>
+  <string name="miuix_search_recommendation_item_del_des">Usuń</string>
   <string name="modify_all">Zmień wszystkie wydarzenia w serii</string>
   <string name="modify_all_following">Zmień to i wszystkie przyszłe wydarzenia</string>
   <string name="modify_event">Zmień tylko to wydarzenie</string>

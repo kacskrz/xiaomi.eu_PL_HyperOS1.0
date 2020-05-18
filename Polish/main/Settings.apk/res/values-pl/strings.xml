@@ -8099,4 +8099,6 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="restore_oaid_dialog_content">Z wirtualnego ID korzysta teraz wiele aplikacji. Jeśli go teraz zresetujesz, część ich danych może zostać utracona bądź stać się bezużyteczna. Kontynuować mimo to?</string>
   <string name="miui_sos_remind_close">Włączony jest tryb Alarmowy SOS. Czy chcesz go wyłączyć (wraz z odpowiednimi funkcjonalnościami)?</string>
   <string name="miui_sos_remind_close_confirm">Wyłącz</string>
+  <string name="content_miui_music_mute_by_user">Czy chcesz odtwarzać dźwięki multimediów, gdy włączony jest tryb cichy?</string>
+  <string name="title_miui_music_mute_by_user">Tryb cichy</string>
 </resources>

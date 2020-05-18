@@ -768,4 +768,6 @@ and never miss the cool new ones!"</string>
   <string name="sort_hint_time">Sortowanie wg czasu</string>
   <string name="sort_hint_type">Sortowanie wg typu</string>
   <string name="view_type">Widok</string>
+  <string name="otg_data_transfer_success">Pomyślnie przesłano</string>
+  <string name="otg_data_transferring">"Przesyłanie plików… Nie odłączaj zewnętrznej pamięci."</string>
 </resources>

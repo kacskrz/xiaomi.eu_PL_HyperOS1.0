@@ -100,4 +100,13 @@
         <item quantity="other">%s godz. wcześniej</item>
         <item quantity="one">%s godz. wcześniej</item>
     </plurals>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">Stoper jest uruchomiony już %s dni. Dotknij, aby zobaczyć.</item>
+        <item quantity="one">Stoper jest uruchomiony już %s dzień. Dotknij, aby zobaczyć.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">Stoper jest uruchomiony już %s godzin. Dotknij, aby zobaczyć.</item>
+        <item quantity="few">Stoper jest uruchomiony już %s godziny. Dotknij, aby zobaczyć.</item>
+        <item quantity="one">Stoper jest uruchomiony już %s godzinę. Dotknij, aby zobaczyć.</item>
+    </plurals>
 </resources>

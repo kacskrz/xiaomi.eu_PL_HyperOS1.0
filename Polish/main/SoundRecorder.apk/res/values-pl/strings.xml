@@ -315,4 +315,5 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="webview_try_again">Spróbuj ponownie</string>
   <string name="wifi_recommended_body" formatted="false">"Pobieranie pliku (%s) może spowodować naliczenie opłat za transfer danych. Aby połączyć się z Wi-Fi wybierz %s."</string>
   <string name="wifi_recommended_title">Użycie danych mobilnych</string>
+  <string name="agree_description">Aby móc używać wszystkich funkcji tej aplikacji, zezwól jej na połączenie się z Internetem.</string>
 </resources>

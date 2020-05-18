@@ -260,4 +260,10 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="permission_backup">Dostęp do pamięci</string>
   <string name="permission_backup_introduction">Aby mieć dostęp do kopii i móc je zapisywać na Twoim urządzeniu</string>
   <string name="service_name_backup">Kopie zapasowe</string>
+  <string name="mobile_network">Korzystanie z danych mobilnych</string>
+  <string name="move_data_dialog_box_le">"Umożliwia to korzystanie z danych mobilnych i GPS na podstawie żądania użytkownika. Synchronizacja kont i innych elementów może wymagać użycia danych mobilnych w zależności od specyfikacji urządzenia."</string>
+  <string name="move_data_dialog_box_title">Jeśli nie posiadasz planu z nielimitowaną ilością danych mobilnych, korzystanie z nich może generować opłaty od operatora zgodnie z Twoim planem. Użyć danych mobilnych mimo to?</string>
+  <string name="move_data_dialog_cancel">Anuluj</string>
+  <string name="move_data_dialog_title">Później możesz ograniczyć korzystanie z danych mobilnych w Ustawieniach</string>
+  <string name="move_data_dialog_use">Użyj</string>
 </resources>
