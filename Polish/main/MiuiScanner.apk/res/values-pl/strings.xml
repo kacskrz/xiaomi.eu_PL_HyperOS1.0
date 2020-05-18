@@ -398,4 +398,23 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="qureyGoods">Wyszukaj produkty</string>
   <string name="queryGoodsFailed">"Nie udało się odnaleźć informacji o produkcie"</string>
   <string name="downloadAiVison">Zainstaluj wtyczkę, aby użyć tej funkcji</string>
+  <string name="copy">Kopiuj</string>
+  <string name="document_ocr_fail">"Nie udało się rozpoznać tekstu. Obróć obraz tak, aby pasował do orientacji Twojego ekranu, i spróbuj ponownie."</string>
+  <string name="document_spin">Obróć</string>
+  <string name="expand_button_title">Zaawansowane</string>
+  <string name="feedback_phone">Informacje kontaktowe (opcjonalne)</string>
+  <string name="history_empty">Brak elementów</string>
+  <string name="if_to_open_milogo_scanning">Rozpoznawaj logo Xiaomi</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie...</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Na razie to wszystko</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Na razie to wszystko</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
+  <string name="not_set">Nie ustawiono</string>
+  <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
+  <string name="v7_preference_off">WYŁ.</string>
+  <string name="v7_preference_on">WŁ.</string>
 </resources>
