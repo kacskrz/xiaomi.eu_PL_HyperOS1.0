@@ -2259,4 +2259,6 @@ Wygląda na to, że magazyn danych logowania nie jest włączony."</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Wyłącz</string>
     <string name="notification_storage_float">Pamięć zewnętrzna</string>
     <string name="storage_is_connecting">Podłączono %1$s</string>
+    <string name="auto_brightness_off">Autom. jasność wyłączona</string>
+    <string name="auto_brightness_on">Autom. jasność włączona</string>
 </resources>

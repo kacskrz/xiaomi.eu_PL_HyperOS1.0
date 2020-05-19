@@ -1738,4 +1738,8 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="status_unavailable">Niedostępny</string>
   <string name="fiveg_hosted_mode_summary">Kiedy łączność z siecią 5G jest słaba, urządzenie przełączy się automatycznie na najlepszą dostępną sieć</string>
   <string name="fiveg_hosted_mode_title">Przełącznik sieci 5G</string>
+  <string name="incall_error_out_of_service_kr">Tylko połączenia alarmowe.</string>
+  <string name="incall_number_anonymous">Nieznany numer</string>
+  <string name="msim_setting_default_data_description">SIM do danych %d</string>
+  <string name="private_num_kr">Ograniczono dostęp do ID rozmówcy</string>
 </resources>

@@ -4266,7 +4266,7 @@ Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
   <string name="normal_smartcover_title">Bez okienka</string>
   <string name="not_battery_optimizing">Nie optymalizuje wykorzystania baterii</string>
   <string name="not_installed">Nie zainstalowano</string>
-  <string name="notch_and_status_bar_settings">Wcięcie i pasek statusu</string>
+  <string name="notch_and_status_bar_settings">Centrum funkcji i pasek statusu</string>
   <string name="notch_force_black_desc">Wcięcie zostanie ukryte przez przyciemnienie obszaru na ekranie po obu stronach</string>
   <string name="notch_force_black_title">Ukryj wcięcie</string>
   <string name="notch_settings">Wcięcie</string>
