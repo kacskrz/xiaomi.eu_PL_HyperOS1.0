@@ -1772,4 +1772,10 @@ Spróbuj tego:"</string>
   <string name="webviewchromium_private_browsing_warning">Funkcja nie jest wspierana przez tę wersję systemu Andrioid.</string>
   <string name="week_picker_dialog_title">Wybierz tydzień</string>
   <string name="window_manager_hybrid_application_list_title_text">Ostatnio używane</string>
+  <string name="no_content">Brak zawartości</string>
+  <string name="clipboard">Schowek</string>
+  <string name="clear_clipboard">Wyczyść</string>
+  <string name="clear_clipboard_confirm">Czy chcesz usunąć wszystkie elementy ze schowka?</string>
+  <string name="clear_input_history_confirm">Czy chcesz wyczyścić całą historię?</string>
+  <string name="clear_input_history_confirm_bt_text">Potwierdź</string>
 </resources>
