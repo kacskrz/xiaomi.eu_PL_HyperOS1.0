@@ -271,7 +271,7 @@ Xiaomi Zdrowie powiadomi Cię tylko o ważnych rzeczach."</string>
      <string name="enable_go_now">Włącz</string>
      <string name="enable_not_now">Nie teraz</string>
      <string name="enable_right_now">Włącz</string>
-     <string name="enough">Wystarczająco</string>
+     <string name="enough">OK</string>
      <string name="enter_mi_health">Otwórz Xiaomi Zdrowie</string>
      <string name="equivalent_exercise">≈%1$s km spaceru (%2$s kcal)</string>
      <string name="excessive">Za dużo</string>
@@ -403,7 +403,7 @@ Jeśli po upływie 30 minut od położenia się do łóżka wciąż nie możesz 
      <string name="indoor_running">Bieżnia</string>
      <string name="input_body_weight">Podaj wagę, aby otrzymać porady zdrowotne</string>
      <string name="instructions_provider">Instrukcje zapewnia Miao Health</string>
-     <string name="insufficient">Niewystarczająco</string>
+     <string name="insufficient">Mało</string>
      <string name="jump_over">Pomiń</string>
      <string name="just_recently">Właśnie teraz</string>
      <string name="label_average_daily_sleep_duration">Średni czas trwania snu</string>
@@ -855,7 +855,7 @@ danych snu"</string>
      <string name="subtitle_record_and_start_predict">Zapisz okres, aby oszacować, kiedy rozpocznie się kolejny</string>
      <string name="subtitle_run_in_background">Wybierz \"Bez ograniczeń\", aby uzyskać dokładne statystyki</string>
      <string name="subtitle_stick_record">Zapisuj swoje okresy, aby uzyskać dokładniejsze przewidywania</string>
-     <string name="sufficient">Wystarczająco</string>
+     <string name="sufficient">OK</string>
      <string name="suggested_body_weight">Sugerowana waga</string>
      <string name="suggestion_drink_content">Zwróć uwagę na napięcie w Twoim ciele i spróbuj się zrelaksować.</string>
      <string name="suggestion_drink_title">Napij się wody i zrelaksuj</string>
