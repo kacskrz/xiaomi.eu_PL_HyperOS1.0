@@ -411,4 +411,11 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="rain_sound_setting_summary_text">Włącz efekty dźwiękowe, aby móc usłyszeć zmiany pogodowe</string>
   <string name="rain_sound_setting_title_text">Efekty dźwiękowe</string>
   <string name="request_cta_connect_net">Zezwól tej aplikacji na połączenie się z Internetem i nadaj jej obowiązkowe uprawnienia wymienione powyżej.</string>
+  <string name="global_not_enable_warning">"Nie możesz używać tej aplikacji, gdyż nie została ona zainstalowana z oficjalnych źródeł."</string>
+  <string name="aqi_15_days_desc">Prognoza jakości powietrza na 15 dni</string>
+  <string name="aqi_24_hours_desc">Prognoza jakości powietrza na 24 godz.</string>
+  <string name="aqi_48_hours_desc">Prognoza jakości powietrza na 2 dni</string>
+  <string name="aqi_5_days_desc">Prognoza jakości powietrza na 5 dni</string>
+  <string name="weather_main_aqi_desc">Indeks jakości powietrza (AQI)</string>
+  <string name="weather_main_minute_hour">Opady w ciągu 2 godzin</string>
 </resources>
