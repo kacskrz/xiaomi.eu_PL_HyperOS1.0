@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Przejdź do startowej</string>
+    <string name="abc_action_bar_up_description">Do góry</string>
+    <string name="abc_action_menu_overflow_description">Więcej</string>
+    <string name="abc_action_mode_done">Zrobione</string>
+    <string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
+    <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+    <string name="abc_capital_off">WYŁ.</string>
+    <string name="abc_capital_on">WŁ.</string>
+    <string name="abc_search_hint">Wyszukaj…</string>
+    <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+    <string name="abc_searchview_description_query">Wyszukiwane hasło</string>
+    <string name="abc_searchview_description_search">Szukaj</string>
+    <string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+    <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+    <string name="abc_shareactionprovider_share_with">Udostępnij przez</string>
+    <string name="abc_shareactionprovider_share_with_application">Udostępnij przez %s</string>
+    <string name="abc_toolbar_collapse_description">Zwiń</string>
+    <string name="app_name">Problemy aplikacji firm trzecich</string>
+    <string name="dialog_content_message2_feedback">"Powiadomimy developera aplikacji o tych problemach. Sprawdzaj aktualizacje."</string>
+    <string name="dialog_content_message2_update">"Wygląda na to, że używasz starej wersji aplikacji. Czy chcesz ją zaktualizować?"</string>
+    <string name="dialog_content_message_func_path">Ścieżka: Ustawienia > Aplikacje > Zarządzanie > Ustawienia > %s</string>
+    <string name="dialog_content_message_shell">"Wymuszono zamknięcie aplikacji %s ze względu na wewnętrzny błąd. "</string>
+    <string name="dialog_content_message_unknown">"Wymuszono zamknięcie aplikacji %s. "</string>
+    <string name="go_update">Aktualizuj</string>
+    <string name="i_know">OK</string>
+    <string name="no_reminder">"Nie informuj o problemach w obecnej wersji"</string>
+    <string name="notification_channel_name">Problemy aplikacji</string>
+    <string name="notification_content_message">Dotknij, aby zobaczyć szczegóły</string>
+    <string name="notification_title_message_shell">Wymuszono zamknięcie aplikacji %s ze względu na wewnętrzny błąd</string>
+    <string name="notification_title_message_unknown">Wymuszono zamknięcie aplikacji %s</string>
+    <string name="search_menu_title">Szukaj</string>
+</resources>
