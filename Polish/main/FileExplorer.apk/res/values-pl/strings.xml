@@ -659,8 +659,8 @@ and never miss the cool new ones!"</string>
   <string name="tab_source">Aplikacje</string>
   <string name="tab_storage">Pamięć</string>
   <string name="terabyteShort">TB</string>
-  <string name="text_select_all">Zaznacz wszystko</string>
-  <string name="text_select_nothing">Odznacz wszystko</string>
+  <string name="text_select_all">Zaznacz</string>
+  <string name="text_select_nothing">Odznacz</string>
   <string name="tip">Uwaga</string>
   <string name="title_album">Albumy</string>
   <string name="title_app_tags">Aplikacje</string>
