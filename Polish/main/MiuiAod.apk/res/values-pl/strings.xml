@@ -225,4 +225,5 @@ dd.MM."</string>
 dd.M."</string>
     <string name="aod_lock_screen_date_12_signature">d.M.</string>
     <string name="aod_lock_screen_date_signature">d.M.</string>
+    <string name="disable_aod_in_dark_room">Wyłącz, gdy telefon leży w ciemności</string>
 </resources>
