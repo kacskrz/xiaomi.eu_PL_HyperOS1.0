@@ -875,7 +875,7 @@ Aby dodać kontakty do ulubionych:
   <string name="option_send_to_others">Przekaż</string>
   <string name="option_view_contact">Wyświetl kontakt</string>
   <string name="option_view_group">Wyświetl</string>
-  <string name="organizationLabelsGroup">Firma</string>
+  <string name="organizationLabelsGroup">Stanowisko</string>
   <string name="organization_company_and_title">%1$s, %2$s</string>
   <string name="other_contacts">Inne</string>
   <string name="other_phone">Inne telefony</string>
