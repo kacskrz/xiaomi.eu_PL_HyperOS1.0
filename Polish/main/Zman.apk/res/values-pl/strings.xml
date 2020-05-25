@@ -54,4 +54,5 @@
     <string name="settings_title">Bezpieczne udostępnianie</string>
     <string name="text_done">OK</string>
     <string name="text_security">Prywatność</string>
+    <string name="loading_text_format" formatted="false">Usuwanie prywatnych informacji ze zdjęć (%d/%d)…</string>
 </resources>

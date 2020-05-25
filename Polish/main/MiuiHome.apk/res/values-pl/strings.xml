@@ -572,8 +572,8 @@
   <string name="content_description_button_add">Dotknij, aby dodać do obecnych aplikacji</string>
   <string name="content_description_button_disable">"Nie można dodać więcej aplikacji"</string>
   <string name="content_description_button_remove">Dotknij, aby usunąć z obecnych aplikacji</string>
-  <string name="perfect_icons_switch_summary">Zmień niektóre ikony aplikacji firm trzecich</string>
-  <string name="perfect_icons_switch_title">Ulepszone ikony</string>
+  <string name="perfect_icons_switch_summary">Renderuj animacje na ikonach aplikacji niesystemowych</string>
+  <string name="perfect_icons_switch_title">Animacje ikon</string>
   <string name="accessibility_menu_item_smallwindow_disable">"Aplikacja nie wspiera pływających okien"</string>
   <string name="accessibility_menu_item_smallwindow_enable">Aplikacja wspiera pływające okna</string>
   <string name="all_apps_setting_classic_title">Klasyczny</string>

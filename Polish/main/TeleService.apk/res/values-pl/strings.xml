@@ -1742,4 +1742,5 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="incall_number_anonymous">Nieznany numer</string>
   <string name="msim_setting_default_data_description">SIM do danych %d</string>
   <string name="private_num_kr">Ograniczono dostęp do ID rozmówcy</string>
+  <string name="msim_setting_default_voice_description">SIM do połączeń %d</string>
 </resources>

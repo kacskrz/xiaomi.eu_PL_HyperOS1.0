@@ -905,6 +905,15 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="storage_upgrade_card_summary">Uzyskaj więcej miejsca w Chmurze</string>
   <string name="storage_upgrade_card_title">Ulepsz swój plan</string>
   <string name="help_and_feedback">Pomoc i opinie</string>
-  <string name="micloud_find_device_guide_desc_pad">"Zaloguj się na stronie &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>, aby zlokalizować urządzenie, zablokować je lub wymazać z niego dane. Może to pomóc w odnalezieniu Twojego urządzenia w razie jego zgubienia. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Zobacz pomoc]&lt;/a>"</string>
-  <string name="micloud_find_device_guide_desc_phone">"Zaloguj się na stronie &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>, aby zlokalizować urządzenie, zablokować je lub wymazać z niego dane. Może to pomóc w odnalezieniu Twojego urządzenia w razie jego zgubienia. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Zobacz pomoc]&lt;/a>"</string>
+  <string name="micloud_find_device_guide_desc_pad">Jeśli zgubiłeś urządzenie, zaloguj się na stronie &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> na innym urządzeniu, aby je zlokalizować, zdalnie zablokować bądź wymazać z niego dane. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Zobacz szczegóły&lt;/a>.</string>
+  <string name="micloud_find_device_guide_desc_phone">Jeśli zgubiłeś urządzenie, zaloguj się na stronie &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> na innym urządzeniu, aby je zlokalizować, zdalnie zablokować bądź wymazać z niego dane. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Zobacz szczegóły&lt;/a>.</string>  <string name="micloud_dspt_provision_china">Wykorzystaj Chmurę Xiaomi do synchronizacji danych i lokalizacji urządzenia.</string>
+  <string name="micloud_dspt_provision_xms_china">Użyj Chmury, aby synchronizować dane.</string>
+  <string name="micloud_notif_content_depend_wifi_china">Połącz z Wi-Fi, aby zsynchronizować.</string>
+  <string name="micloud_setting_wifi_summary_china">Ustawienia Wi-Fi</string>
+  <string name="micloud_sync_result_wifi_only_china">Ten element jest za duży. Zsynchronizuj go, gdy będziesz połączony z siecią Wi-Fi.</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only_china">Synchronizuj zdjęcia tylko z Wi-Fi</string>
+  <string name="soundrecorder_sync_only_in_wifi_china">Synchronizuj tylko z Wi-Fi</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary_china">Synchronizuj nagrania tylko w sieci Wi-Fi</string>
+  <string name="sub_sync_item_sms_title_wifi_only_china">Synchronizuj SMS-y tylko z Wi-Fi</string>
+  <string name="sync_dspt_entrance_provision_network_china">Aplikacja wymaga dostępu do sieci.</string>
 </resources>

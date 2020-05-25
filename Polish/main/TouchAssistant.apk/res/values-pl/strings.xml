@@ -81,4 +81,9 @@
   <string name="three_seconds_auto_hide">Przyklej do krawędzi po 3 sekundach bez aktywności</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
+  <string name="edge_distance_pref_summary">Dotknij obszar wybudzenia obok krawędzi ekranu, aby uruchomić Asystenta dotyku</string>
+  <string name="edge_distance_pref_title">Obszary wybudzenia</string>
+  <string name="edge_mode_custom_summary">Dostosuj rozmiar obszarów wybudzenia w pobliżu krawędzi</string>
+  <string name="edge_mode_custom_title">Własny</string>
+  <string name="edge_mode_default_title">Domyślny</string>
 </resources>

@@ -3610,4 +3610,6 @@ Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć u
   <string name="oaid_reset_content_tip">Jeśli wyłączysz teraz wirtualne ID, niektóre aplikacje mogą przestać działać poprawnie, zaś część ich danych może zostać utracona lub stać się bezużyteczna.</string>
   <string name="oaid_reset_final_tip">Czy chcesz wyłączyć wirtualne ID mimo to?</string>
   <string name="pm_newfeature_sub_text">NOWOŚĆ</string>
+  <string name="app_behavior_start_from_widget">Aplikacja %1s została uruchomiona przez widżet</string>
+  <string name="app_behavior_start_from_widget_single">Ta aplikacja została uruchomiona przez widżet</string>
 </resources>
