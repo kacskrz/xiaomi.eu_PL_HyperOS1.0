@@ -366,7 +366,6 @@
   <string name="passport_auto_generate_pwd">Generuj bezpieczne hasło</string>
   <string name="passport_back">Cofnij</string>
   <string name="passport_bad_authentication">Hasło jest nieprawidłowe. Spróbuj ponownie.</string>
-  <string name="passport_barcode_add_account_prompt">Aby połączyć się z kontem zeskanuj kod QR.</string>
   <string name="passport_btn_return">Wstecz</string>
   <string name="passport_button_cancel">Anuluj</string>
   <string name="passport_change_account">Zmień konto</string>
@@ -389,7 +388,6 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_email">Adres E-mail</string>
   <string name="passport_email_or_id_hint_text">E-mail lub ID konta Xiaomi</string>
   <string name="passport_email_reg_success_summary">Adres %1$s został powiązany z kontem i posłuży do logowania się na konto lub resetu hasła.</string>
-  <string name="passport_error_auth_fail">Sesja wygasła, zaloguj ponownie później</string>
   <string name="passport_error_device_id">Nie można uzyskać ID urządzenia</string>
   <string name="passport_error_dup_email">Ten adres e-mail jest już powiązany z innym kontem</string>
   <string name="passport_error_dup_phone">Ten numer telefon jest już powiązany z innym kontem</string>
@@ -397,22 +395,18 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_error_empty_captcha_code">Wpisz kod captcha</string>
   <string name="passport_error_empty_email">Wpisz e-mail</string>
   <string name="passport_error_empty_phone_num">Wpisz numer telefonu</string>
-  <string name="passport_error_empty_pwd">Wpisz hasło</string>
   <string name="passport_error_empty_username">Wpisz swoje ID konta Xiaomi</string>
   <string name="passport_error_empty_vcode">Wpisz kod weryfikacyjny</string>
   <string name="passport_error_illegal_pwd">Hasło jest nieprawidłowe</string>
   <string name="passport_error_invalid_dev_id">ID urządzenia jest nieprawidłowe</string>
   <string name="passport_error_invalid_phone_num">Numer telefonu jest nieprawidłowy</string>
   <string name="passport_error_login">Nie udało się zalogować</string>
-  <string name="passport_error_network">Nie można połączyć z siecią</string>
   <string name="passport_error_no_password_user">"Nie ustaliłeś jeszcze hasła. Zaloguj się za pomocą SMS."</string>
   <string name="passport_error_no_sms_service">Nie można wysłać SMS. Sieć jest niedostępna.</string>
   <string name="passport_error_phone_error">Numer jest nieprawidłowy</string>
   <string name="passport_error_server">Błąd serwera</string>
   <string name="passport_error_sim_not_ready">Nie można wykryć karty SIM</string>
   <string name="passport_error_ssl_hand_shake">Nie udało się połączyć z serwerem</string>
-  <string name="passport_error_unknown">Nie można zalogować</string>
-  <string name="passport_error_user_name">Nieprawidłowa nazwa użytkownika</string>
   <string name="passport_error_verify_code">Kod jest niepoprawny</string>
   <string name="passport_extra_gdpr_license">Creating your Mi Account means that you agree that Xiaomi will collect, process, and use your personal data, including verification data (e.g., verification codes), Second space data (e.g., information about the ways you use Second space, IDs used in First and Second spaces), and other data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we process and use personal data.</string>
   <string name="passport_failed_to_send_activate_email">"Nie można wysłać wiadomości aktywacyjnej"</string>
@@ -424,9 +418,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_get_back_pwd">Odzyskaj hasło</string>
   <string name="passport_get_verify_code">Otrzymaj kod</string>
   <string name="passport_getting_activator_phone">Pobieranie info o SIM…</string>
-  <string name="passport_getting_verify_code">Otrzymywanie</string>
   <string name="passport_i_know">Rozumiem</string>
-  <string name="passport_identification_expired">Kod weryfikacyjny stracił ważność</string>
   <string name="passport_identitfication_expired">Kod weryfikacyjny stracił ważność</string>
   <string name="passport_imei_permission_denied_message">Prosimy o zezwolenie na odczyt numer IMEI twojego urządzenia. Konto Xiaomi korzysta z IMEI do identyfikacji urządzenia na jakimś się logujesz/rejestrujesz, aby zachować bezpieczeństwo konta Xiaomi.</string>
   <string name="passport_imei_permission_denied_title">Prośba o IMEI</string>
@@ -436,7 +428,6 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_input_phone_hint">Wpisz numer telefonu</string>
   <string name="passport_input_phone_password">Wpisz hasło dla numeru telefonu: %s</string> 
   <string name="passport_input_vcode_hint">Wpisz kod weryfikacyjny</string>
-  <string name="passport_input_voice_captcha_hint">Wpisz głosowy kod weryfikacyjny</string>
   <string name="passport_international_register_by_email">Załóż konto za pomocą adresu e-mail</string> 
   <string name="passport_license_host_unreachable">"Nie można połączyć się z siecią. Możesz zobaczyć tę stronę tutaj %s."</string>
   <string name="passport_loading">Wczytywanie…</string>
@@ -456,14 +447,12 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_next">Dalej</string>
   <string name="passport_notification_title">Błąd dla %1$s</string>
   <string name="passport_password_phone_login">Zaloguj się na konto Xiaomi</string>
-  <string name="passport_password_req_notice">Hasło musi posiadać 8-16 znaków w tym cyfry i litery. Wielkość liter ma znaczenie.</string>
   <string name="passport_phone_num_hint_text">Numer telefonu</string>
   <string name="passport_phone_ticket_login">Zaloguj się z SMS</string>
   <string name="passport_prev">Wstecz</string>
   <string name="passport_privacy_policy">Polityka Prywatności</string>
   <string name="passport_pwd_generate_failure">Nie udało się wygenerować hasła</string>
   <string name="passport_pwd_generating">Generowanie…</string>
-  <string name="passport_querying_phone_info">Sprawdzanie informacji…</string>
   <string name="passport_quick_login">Zaloguj się</string>
   <string name="passport_quick_login_dialog_step2_title">Weryfikacja dwuetapowa</string>
   <string name="passport_quick_login_dialog_title">Zweryfikuj hasło</string>
@@ -493,7 +482,6 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_register_account_goto_email">Przejdź do poczty</string>
   <string name="passport_register_account_verified_confirm">"Konto zweryfikowane"</string>
   <string name="passport_register_by_email">Utwórz konto z tego adresu e-mail</string>
-  <string name="passport_register_restricted">Zbyt wiele kont zostało powiązanych z tym numerem, spróbuj innego</string>
   <string name="passport_register_restricted_title">Nie można użyć tego numeru</string>
   <string name="passport_registered_phone_num">Telefon: %s</string>
   <string name="passport_registered_phone_user_ID">ID użytkownika: %s</string>
@@ -517,7 +505,6 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_select_the_register_phone">Select the one you create account</string>
   <string name="passport_send_too_many_code">Osiągnięto maksymalną ilość wiadomości weryfikacyjnych wysłanych pod ten numer. Musisz odczekać 24 godziny i spróbować ponownie.</string>
   <string name="passport_send_vcode_failed">Sent failed</string>
-  <string name="passport_sending_vcode">Wysyłanie kodu…</string>
   <string name="passport_set">Ustaw</string>
   <string name="passport_setting">Ustawianie…</string>
   <string name="passport_skip_login">Pomiń</string>
@@ -530,7 +517,6 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_sync_account_data">Synchronizacja informacji o koncie…</string>
   <string name="passport_sync_account_data_failed_warning">Synchronizacja konta.</string>
   <string name="passport_title_reg">Utwórz konto</string>
-  <string name="passport_trust_device">Dodaj do zaufanych urządzeń</string>
   <string name="passport_trying_read_verify_code_sms">Otrzymywanie kodu…</string>
   <string name="passport_uplink_reg">Użyj numeru telefonu</string>
   <string name="passport_uplink_slot1_reg">Użyj SIM 1</string>
@@ -771,7 +757,6 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="no_account">Nie zalogowano</string>
   <string name="no_phone">Brak nr telefonu</string>
   <string name="passport_activate_token_expired">Kod weryfikacyjny wygasł. Spróbuj ponownie.</string>
-  <string name="passport_area_code_title">Kod kraju</string>
   <string name="passport_barcode_add_account_prompt">Aby połączyć się z kontem, zeskanuj kod QR.</string>
   <string name="passport_close">Zamknij</string>
   <string name="passport_empty_password">"Hasło nie może być puste"</string>
