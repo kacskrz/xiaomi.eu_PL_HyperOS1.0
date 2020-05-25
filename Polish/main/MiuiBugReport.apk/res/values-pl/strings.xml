@@ -401,7 +401,6 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_error_invalid_dev_id">ID urządzenia jest nieprawidłowe</string>
   <string name="passport_error_invalid_phone_num">Numer telefonu jest nieprawidłowy</string>
   <string name="passport_error_login">Nie udało się zalogować</string>
-  <string name="passport_error_no_password_user">"Nie ustaliłeś jeszcze hasła. Zaloguj się za pomocą SMS."</string>
   <string name="passport_error_no_sms_service">Nie można wysłać SMS. Sieć jest niedostępna.</string>
   <string name="passport_error_phone_error">Numer jest nieprawidłowy</string>
   <string name="passport_error_server">Błąd serwera</string>
