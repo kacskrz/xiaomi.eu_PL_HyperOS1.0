@@ -2261,8 +2261,11 @@ Wygląda na to, że magazyn danych logowania nie jest włączony."</string>
     <string name="storage_is_connecting">Podłączono %1$s</string>
     <string name="auto_brightness_off">Autom. jasność wyłączona</string>
     <string name="auto_brightness_on">Autom. jasność włączona</string>
-    <string name="accessibility_detail_switch">Przełącznik</string>
-    <string name="accessibility_expand_button">Rozwiń</string>
+    <string name="accessibility_detail_switch">Przełączanie się pomiędzy przełącznikami</string>
+    <string name="accessibility_detail_switch_disable">Niedostępne</string>
+    <string name="accessibility_detail_switch_off">Wyłącz</string>
+    <string name="accessibility_detail_switch_on">Włącz</string>
+    <string name="accessibility_expand_button">Pokaż więcej</string>
     <string name="partial_screenshot_edit">Edytuj</string>
     <string name="partial_screenshot_repaint">Zacznij od nowa</string>
     <string name="partial_screenshot_save">Zapisz</string>

@@ -4266,7 +4266,7 @@ Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
   <string name="normal_smartcover_title">Bez okienka</string>
   <string name="not_battery_optimizing">Nie optymalizuje wykorzystania baterii</string>
   <string name="not_installed">Nie zainstalowano</string>
-  <string name="notch_and_status_bar_settings">Centrum funkcji i pasek statusu</string>
+  <string name="notch_and_status_bar_settings">Centrum funkcji i panel powiadomień</string>
   <string name="notch_force_black_desc">Wcięcie zostanie ukryte przez przyciemnienie obszaru na ekranie po obu stronach</string>
   <string name="notch_force_black_title">Ukryj wcięcie</string>
   <string name="notch_settings">Wcięcie</string>
@@ -7028,7 +7028,7 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="usb_use_photo_transfers_desc">Przesyłanie zdjęć lub plików, jeśli MTP nie jest obsługiwane (PTP)</string>
   <string name="usb_use_power_only">Podłączyć zasilanie</string>
   <string name="usb_use_power_only_desc">Zasilaj inne podłączone urządzenie</string>
-  <string name="use_control_panel">Użyj Centrum funkcji</string>
+  <string name="use_control_panel">Użyj nowego Centrum funkcji</string>
   <string name="use_default_tts_settings_summary">Poniższe ustawienia domyślne zastępują ustawienia aplikacji.</string>
   <string name="use_default_tts_settings_title">Używaj moich ustawień</string>
   <string name="use_location_summary">Zezwalaj Google na użycie danych o mojej lokalizacji, aby poprawić wyszukiwanie i inne usługi</string>
