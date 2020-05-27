@@ -451,4 +451,5 @@
   <string name="stopwatch_reset_notification">Zresetowano stoper</string>
   <string name="stopwatch_running_notification">Stoper</string>
   <string name="white_noise_selector">Wybierz dźwięk</string>
+  <string name="channel_name_stopwatch">Stoper</string>
 </resources>

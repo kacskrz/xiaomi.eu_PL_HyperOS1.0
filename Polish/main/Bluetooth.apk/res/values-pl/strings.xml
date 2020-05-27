@@ -175,7 +175,7 @@
   <string name="status_unknown_error">Nieznany błąd.</string>
   <string name="switch_audio_device_bt">Bluetooth</string>
   <string name="switch_audio_device_phone">To urządzenie audio</string>
-  <string name="switch_audio_notification_content">Aktualnie używane, zewnętrzne urządzenie audio:</string>
+  <string name="switch_audio_notification_content">"Aktualnie używane, zewnętrzne urządzenie audio: "</string>
   <string name="switch_audio_notification_title">Połączenie z urządzeniem</string>
   <string name="transfer_clear_dlg_msg">Wszystkie elementy zostaną usunięte z listy.</string>
   <string name="transfer_clear_dlg_title">Wyczyść</string>
