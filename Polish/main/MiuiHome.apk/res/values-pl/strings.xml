@@ -577,4 +577,8 @@
   <string name="accessibility_menu_item_smallwindow_disable">"Aplikacja nie wspiera pływających okien"</string>
   <string name="accessibility_menu_item_smallwindow_enable">Aplikacja wspiera pływające okna</string>
   <string name="all_apps_setting_classic_title">Klasyczny</string>
+  <string name="common_home_search_delete">Usuwanie paska wyszukiwania na pulpicie</string>
+  <string name="common_home_search_delete_cancle">Anuluj</string>
+  <string name="common_home_search_delete_confirm">Usuń</string>
+  <string name="common_home_search_delete_content">Po usunięciu nie będzie można wyszukiwać elementów za pomocą paska wyszukiwania na pulpicie. Usunąć mimo to?</string>
 </resources>
