@@ -111,7 +111,7 @@
     <string name="miui_feedback_main_submit_dialog_content">"Wygląda na to, że nie znaleziono rozwiązania Twojego problemu. Możesz przesłać do nas swoją opinię."</string>
     <string name="miui_feedback_main_submit_dialog_title">Prześlij opinię</string>
     <string name="miui_feedback_main_title">Opinia</string>
-    <string name="miui_guide_accessibility_image_desc">Obraz</string
+    <string name="miui_guide_accessibility_image_desc">Obraz</string>
     <string name="miui_guide_clear_db_service">Aplikacja \"Usługi i opinie\" czyści pamięć podręczną języków…</string>
     <string name="miui_guide_footer_desc">"Poradnik dla początkujących pomoże Ci dowiedzieć się więcej o swoim urządzeniu oraz nakładce MIUI. Część zdjęć i wideo w tym poradniku służy jedynie jako odniesienie i może różnić się od tego, co znajduje się na Twoim urządzeniu. Funkcje opisane tutaj mogą się różnić w zależności od konkretnego urządzenia, wersji MIUI czy środowiska użytkowania."</string>
     <string name="miui_guide_item_complete">Ukończono</string>
