@@ -64,7 +64,7 @@
   <string name="dialog_failed_body">Czy chcesz ponowić pobieranie pliku później czy usunąć z kolejki?</string>
   <string name="dialog_file_already_exists">Plik docelowy już istnieje.</string>
   <string name="dialog_file_missing_body">Pobrany plik nie został znaleziony, pobrać ponownie?</string>
-  <string name="dialog_file_missing_title">Nie można się otworzyć pliku</string>
+  <string name="dialog_file_missing_title">Nie można otworzyć pliku</string>
   <string name="dialog_insufficient_space_on_cache">Nie można ukończyć pobierania. Nie ma wystarczającej ilości miejsca w telefonie.</string>
   <string name="dialog_insufficient_space_on_external">Nie można ukończyć pobierania. Nie ma wystarczającej ilości miejsca na SD.</string>
   <string name="dialog_media_not_found">Podłącz zewnętrzną pamięć, aby pobrać.</string>
