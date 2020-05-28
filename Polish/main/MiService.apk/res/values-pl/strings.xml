@@ -36,7 +36,7 @@
     <string name="miui_feedback_answer_detail_feedback_unresolved">Nie</string>
     <string name="miui_feedback_answer_detail_menu_online_service">Uzyskaj pomoc online</string>
     <string name="miui_feedback_answer_detail_menu_phone_service">Zadzwoń do wsparcia technicznego</string>
-    <string name="miui_feedback_answer_detail_relative_tip">To może być pomocne:</string>
+    <string name="miui_feedback_answer_detail_relative_tip">Powiązane informacje</string>
     <string name="miui_feedback_answer_detail_title">Szczegóły</string>
     <string name="miui_feedback_edit_action_submit">Wyślij</string>
     <string name="miui_feedback_edit_add_original_images">Dodaj zdjęcie</string>
@@ -104,12 +104,14 @@
     <string name="miui_feedback_main_menu_catch_full_log">Wygeneruj logi</string>
     <string name="miui_feedback_main_menu_feedback_list">Historia opinii</string>
     <string name="miui_feedback_main_search_footer">"Nie ma tu pytań, które chcesz zadać?"</string>
+    <string name="miui_feedback_main_search_footer_submit">Wyślij opinię</string>
     <string name="miui_feedback_main_search_issue">Wpisz słowa kluczowe do wyszukania</string>
     <string name="miui_feedback_main_start_submit">Prześlij opinię</string>
     <string name="miui_feedback_main_submit_dialog_confirm">Prześlij opinię</string>
     <string name="miui_feedback_main_submit_dialog_content">"Wygląda na to, że nie znaleziono rozwiązania Twojego problemu. Możesz przesłać do nas swoją opinię."</string>
     <string name="miui_feedback_main_submit_dialog_title">Prześlij opinię</string>
     <string name="miui_feedback_main_title">Opinia</string>
+    <string name="miui_guide_accessibility_image_desc">Obraz</string
     <string name="miui_guide_clear_db_service">Aplikacja \"Usługi i opinie\" czyści pamięć podręczną języków…</string>
     <string name="miui_guide_footer_desc">"Poradnik dla początkujących pomoże Ci dowiedzieć się więcej o swoim urządzeniu oraz nakładce MIUI. Część zdjęć i wideo w tym poradniku służy jedynie jako odniesienie i może różnić się od tego, co znajduje się na Twoim urządzeniu. Funkcje opisane tutaj mogą się różnić w zależności od konkretnego urządzenia, wersji MIUI czy środowiska użytkowania."</string>
     <string name="miui_guide_item_complete">Ukończono</string>
@@ -136,7 +138,11 @@
     <string name="permission_device_info">Dostęp do informacji o urządzeniu</string>
     <string name="permission_device_introduce">Ustalenie okresu trwania gwarancji</string>
     <string name="permission_exit">Wyjdź</string>
+    <string name="permission_external_storage_introduce">W celu zapisania i wysłania Twojej opinii</string>
     <string name="permission_first_start_network_title">Warunki użytkowania</string>
+    <string name="permission_imei_disable_desc">Zezwól tej aplikacji na połączenie się z Internetem.</string>
+    <string name="permission_imei_enable_desc">Zezwól tej aplikacji na połączenie się z Internetem i nadaj jej obowiązkowe uprawnienia wymienione powyżej.</string>
+    <string name="permission_location_introduce">W celu wyświetlania najbliższych punktów serwisowych</string>
     <string name="permission_main_purpose">Wyświetlanie dem funkcji MIUI, wysyłanie opinii i zgłoszeń dot. usług posprzedażowych.</string>
     <string name="permission_privacy">Polityka prywatności (obowiązkowa)</string>
     <string name="permission_region_version_msg"><Data>Przed użyciem tej aplikacji musisz przeczytać i zaakceptować &lt;a href=%1$s>Umowę użytkownika&lt;/a> i &lt;a href=%2$s>Politykę prywatności&lt;/a> Xiaomi.</Data></string>

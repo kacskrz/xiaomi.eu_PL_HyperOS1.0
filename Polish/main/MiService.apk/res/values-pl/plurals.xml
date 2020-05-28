@@ -54,4 +54,7 @@
         <item quantity="one">minutę temu</item>
         <item quantity="few">%d minuty temu</item>
     </plurals>
+    <plurals name="miui_guide_accessibility_page_current_count">
+        <item quantity="other">Strona %1$d z %2$d</item>
+    </plurals>
 </resources>

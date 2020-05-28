@@ -1139,4 +1139,26 @@ Brak połączenia z siecią."</string>
   <string name="yidianzixun">acidjestnajlepszy</string>
   <string name="you_are_in_mobile_network">Aktualnie używana: sieć mobilna</string>
   <string name="zip_viewer_no_file">Brak plików.</string>
+  <string name="changepw_dialog_auth_tips">Wprowadź ponownie kod autoryzacyjny dla %s</string>
+  <string name="font_bold_add">Pogrubienie</string>
+  <string name="font_bold_remove">Usuń pogrubienie</string>
+  <string name="font_color">Obecny kolor czcionki: %s</string>
+  <string name="font_color_black">Czarny</string>
+  <string name="font_color_blue">Niebieski</string>
+  <string name="font_color_cyan_blue">Cyjan</string>
+  <string name="font_color_gray">Szary</string>
+  <string name="font_color_green">Zielony</string>
+  <string name="font_color_orange">Pomarańczowy</string>
+  <string name="font_color_purple">Fioletowy</string>
+  <string name="font_color_red">Czerwony</string>
+  <string name="font_color_white">Biały</string>
+  <string name="font_italic_add">Kursywa</string>
+  <string name="font_italic_remove">Usuń kursywę</string>
+  <string name="font_size">Obecny rozmiar czcionki: %s</string>
+  <string name="font_underline">Podkreślenie</string>
+  <string name="font_underline_remove">Usuń podkreślenie</string>
+  <string name="ser_resp_err_map_serclosed_info">Serwer %s zamknął połączenie.</string>
+  <string name="toolbar_add_image">Dodaj zdjęcia</string>
+  <string name="toolbar_part_num">Nr akapitu</string>
+  <string name="toolbar_part_symbol">Symbol akapitu</string>
 </resources>
