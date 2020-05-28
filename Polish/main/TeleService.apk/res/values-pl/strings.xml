@@ -617,7 +617,7 @@ Czy mimo to chcesz użyć danych mobilnych?"</string>
   <string name="fiveg_signal_strength2">"Siła sygnału 5G: "</string>
   <string name="fiveg_switch_status1">"Status przełącznika 5G: "</string>
   <string name="fiveg_switch_status2">"Status przełącznika 5G: "</string>
-  <string name="fiveg_switch_title">Sieć 5G</string>
+  <string name="fiveg_switch_title">Używaj sieci 5G</string>
   <string name="fiveg_upperlayer_indication1">"Status wskaźnika wyższej warstwy: "</string>
   <string name="fiveg_upperlayer_indication2">"Status wskaźnika wyższej warstwy: "</string>
   <string name="flash_when_ring_summary">Powiadamiaj diodą LED aparatu o połączeniu</string>
@@ -1743,4 +1743,7 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="msim_setting_default_data_description">SIM do danych %d</string>
   <string name="private_num_kr">Ograniczono dostęp do ID rozmówcy</string>
   <string name="msim_setting_default_voice_description">SIM do połączeń %d</string>
+  <string name="fiveg_network_title">Sieci 5G</string>
+  <string name="switch_off">Wył.</string>
+  <string name="switch_on">Wł.</string>
 </resources>
