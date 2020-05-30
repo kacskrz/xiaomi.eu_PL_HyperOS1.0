@@ -618,4 +618,7 @@
   <string name="restore_right_now">Przywróć</string>
   <string name="retry">Spróbuj ponownie</string>
   <string name="recovery_progress">Przywracanie elementów (%1$d/%2$d)…</string>
+  <string name="mobile_data_remind">Ostrzeżenie dot. użycia danych</string>
+  <string name="mobile_data_consume">Pobranie elementów w tym momencie wymagać będzie wykorzystania %1$s MB danych mobilnych. Pobrać mimo to?</string>
+  <string name="download_right_now">Pobierz</string>
 </resources>
