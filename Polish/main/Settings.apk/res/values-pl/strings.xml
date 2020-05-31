@@ -1699,6 +1699,7 @@ Aby dalej używać urządzenia, musisz przywrócić dane fabryczne. Podczas konf
   <string name="cryptkeeper_wrong_pin">Nieprawidłowy kod PIN</string>
   <string name="current_backup_pw_prompt">Wpisz tutaj bieżące hasło pełnej kopii zapasowej.</string>
   <string name="current_input_method">Obecna klawiatura</string>
+  <string name="current_password">Aktualna blokada ekranu</string>
   <string name="current_screen_lock">Aktualna blokada ekranu</string>
   <string name="current_use_ese">Płatności Xiaomi Mi Pay</string>
   <string name="current_use_ese_wallet">Mi Wallet</string>
