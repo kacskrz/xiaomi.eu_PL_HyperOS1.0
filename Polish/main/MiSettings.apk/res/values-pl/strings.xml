@@ -510,8 +510,9 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="usage_new_home_usage_detail">Szczegóły dot. użytkowania</string>
     <string name="usage_app_limit_reach_summay_new">Dotknij, aby dodać %d min</string>
     <string name="usage_app_limit_reach_title_new" formatted="false">Pozostały czas przed ekranem dla aplikacji %1s: %2s</string>
-    <string name="usage_new_home_day_category_title_new">Czas przed ekranem dla kategorii aplikacji dnia %s</string>
-    <string name="usage_new_home_day_usage_title_new">Czas przed ekranem dnia %s</string>
+    <string name="usage_new_home_day_category_title_new">Czas przed ekranem dla kategorii aplikacji: %s</string>
+    <string name="usage_new_home_day_usage_title_new">Czas przed ekranem: %s</string>
     <string name="usage_week_avg_usage_title">Śr. tygodnia</string>
     <string name="usage_week_avg_usage_title2">Śr. czas</string>
+    <string name="usage_remain_hour_miunte">%1$s %2$s</string>
 </resources>
