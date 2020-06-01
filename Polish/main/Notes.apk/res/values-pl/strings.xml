@@ -430,4 +430,10 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="note_gesture_guide_step1">Przytrzymaj ikonę plusa, aby utworzyć notatkę głosową</string>
   <string name="note_gesture_guide_step2">Przytrzymaj, a następnie przeciągnij notatkę nad inną notatkę, aby utworzyć folder</string>
   <string name="note_gesture_guide_step3">Przytrzymaj, a następnie przeciągnij notatkę nad folderem, aby przenieść ją do tego folderu</string>
+  <string name="float_todo_guide_message_v2">Gest zadań pozwala Ci na podgląd i tworzenie zadań poprzez przeciągnięcie od krawędzi ekranu. Możesz włączyć bądź wyłączyć tą opcję w Ustawieniach.</string>
+  <string name="float_todo_guide_ok_v2">Włącz</string>
+  <string name="float_todo_guide_title_v2">Gest zadań</string>
+  <string name="pref_remind_type_summary_new">Ignoruj tryb Cichy i odtwarzaj dźwięk, dopóki alarm nie zostanie wyłączony</string>
+  <string name="pref_remind_type_title_new">Przypomnienia z wysokim priorytetem</string>
+  <string name="toast_refuse_to_record_when_in_multi_window_new">"Nie można używać tej funkcji w trybie Dzielonego ekranu bądź w pływających oknach"</string>
 </resources>

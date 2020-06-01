@@ -196,4 +196,8 @@
         <item quantity="one">Odblokowano %d raz</item>
         <item quantity="other">Odblokowano %d razy</item>
 	</plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">Dnia %2$s odblokowano %1$d razy</item>
+        <item quantity="one">Dnia %2$s odblokowano %1$d raz</item>
+    </plurals>
 </resources>

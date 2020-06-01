@@ -770,4 +770,10 @@ and never miss the cool new ones!"</string>
   <string name="view_type">Widok</string>
   <string name="otg_data_transfer_success">Pomyślnie przesłano</string>
   <string name="otg_data_transferring">"Przesyłanie plików… Nie odłączaj zewnętrznej pamięci."</string>
+  <string name="cancel_msg">Odznaczyć wszystko?</string>
+  <string name="file_name_existed">Nazwa pliku jest zajęta</string>
+  <string name="rename_msg">Plik o nazwie \"%s\" już istnieje.</string>
+  <string name="replace">Zastąp</string>
+  <string name="skip">Pomiń</string>
+  <string name="use_to_all">Zastosuj do wszystkich</string>
 </resources>

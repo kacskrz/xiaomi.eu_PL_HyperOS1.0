@@ -1099,4 +1099,11 @@ Zaktualizować teraz?"</string>
      <string name="save">Zapisz</string>
      <string name="tb_multiple_selecte_all">Zaznacz wszystko</string>
      <string name="tb_unmultiple_selecte_all">Odznacz wszystko</string>
+     <string name="sleep_snore_audio_file_mamagement_desc">Włącz tą opcję, aby zachować 100 MB ostatnich nagrań na tym urządzeniu i automatycznie usuwać stare nagrania w celu zaoszczędzenia miejsca.</string>
+     <string name="sleep_snore_audio_file_mamagement_title">Czyść nagrania automatycznie</string>
+     <string name="sleep_snore_audio_file_saved">Nagrania są przechowywane lokalnie</string>
+     <string name="sleep_snore_audio_file_saved_desc">Do wykrywania chrapania i mówienia używany jest algorytm offline znajdujący się w aplikacji. Wszystkie nagrania będą więc przechowywane wyłącznie na tym urządzeniu, co pozwoli uniknąć wycieku Twoich osobistych danych.</string>
+     <string name="load_failed">"Nie udało się załadować elementów. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
+     <string name="network_not_available">"Nie udało połączyć się z siecią. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
+     <string name="retry">Spróbuj ponownie</string>
 </resources>

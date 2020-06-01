@@ -277,4 +277,9 @@
         <item quantity="one">%1$d rok</item>
         <item quantity="few">%1$d lata</item>
      </plurals>
+    <plurals name="birthday_format">
+        <item quantity="one">(%1$d rok)</item>
+        <item quantity="few">(%1$d lata)</item>
+        <item quantity="other">(%1$d lat)</item>
+    </plurals>
 </resources>

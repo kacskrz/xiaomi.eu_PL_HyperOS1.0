@@ -8102,4 +8102,5 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="miui_sos_remind_close_confirm">Wyłącz</string>
   <string name="content_miui_music_mute_by_user">Czy chcesz odtwarzać dźwięki multimediów, gdy włączony jest tryb cichy?</string>
   <string name="title_miui_music_mute_by_user">Tryb cichy</string>
+  <string name="error_apn_restrict_string">Pole APN nie może zawierać %1$s</string>
 </resources>

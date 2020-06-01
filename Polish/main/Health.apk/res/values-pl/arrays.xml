@@ -79,4 +79,44 @@
         <item>" jin"</item>
         <item>" lb"</item>
      </string-array>
+    <string-array name="contact_relation_array">
+        <item>Brak</item>
+        <item>Rodzice</item>
+        <item>Siostry</item>
+        <item>Bracia</item>
+        <item>Para</item>
+        <item>Zakochani</item>
+        <item>Przyjaciele</item>
+        <item>Koledzy</item>
+        <item>Koledzy z klasy</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Brak</item>
+        <item>Mężczyzna</item>
+        <item>Kobieta</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>Brak</item>
+        <item>Typ A</item>
+        <item>Typ B</item>
+        <item>Typ AB</item>
+        <item>Typ O</item>
+    </string-array>
+    <string-array name="normal_blood_types">
+        <item>Brak</item>
+        <item>Typ A</item>
+        <item>Typ B</item>
+        <item>Typ AB</item>
+        <item>Typ O</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Brak</item>
+        <item>Ujemny</item>
+        <item>Dodatni</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Brak</item>
+        <item>Tak</item>
+        <item>Nie</item>
+    </string-array>
 </resources>

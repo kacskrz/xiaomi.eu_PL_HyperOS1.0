@@ -3612,4 +3612,11 @@ Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć u
   <string name="pm_newfeature_sub_text">NOWOŚĆ</string>
   <string name="app_behavior_start_from_widget">Aplikacja %1s została uruchomiona przez widżet</string>
   <string name="app_behavior_start_from_widget_single">Ta aplikacja została uruchomiona przez widżet</string>
+  <string name="gtb_dialog_btn_close">Wyłącz</string>
+  <string name="gtb_dialog_btn_open">Włącz</string>
+  <string name="gtb_dialog_hint_smart_5g">Możesz włączyć lub wyłączyć tą funkcję w menu Game Turbo > Ustawienia.</string>
+  <string name="gtb_dialog_summary_smart_5g">Gdy tryb Game Turbo wykryje sieć 5G, może on połączyć Twoje urządzenie z najlepszą dostępną siecią w celu zmniejszenia opóźnienia. Czy chcesz włączyć tą funkcję?</string>
+  <string name="gtb_dialog_title_smart_5g">Optymalizacja dot. sieci 5G</string>
+  <string name="gtb_setting_item_summary_smart_5g">Gdy tryb Game Turbo wykryje sieć 5G, może on połączyć Twoje urządzenie z najlepszą dostępną siecią w celu zmniejszenia opóźnienia</string>
+  <string name="gtb_setting_item_title_smart_5g">Optymalizacja dot. sieci 5G</string>
 </resources>
