@@ -3619,4 +3619,12 @@ Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć u
   <string name="gtb_dialog_title_smart_5g">Optymalizacja dot. sieci 5G</string>
   <string name="gtb_setting_item_summary_smart_5g">Gdy tryb Game Turbo wykryje sieć 5G, może on połączyć Twoje urządzenie z najlepszą dostępną siecią w celu zmniejszenia opóźnienia</string>
   <string name="gtb_setting_item_title_smart_5g">Optymalizacja dot. sieci 5G</string>
+  <string name="gb_dialog_game_uninstall_deleting">Deinstalacja…</string>
+  <string name="gb_dialog_game_uninstall_loading">Ładowanie gier…</string>
+  <string name="gb_dialog_game_uninstall_tips_message">Wszystkie dane gry także zostaną usunięte.</string>
+  <string name="gb_dialog_game_uninstall_tips_message_xspace">Sklonowana aplikacja również zostanie odinstalowana (włącznie z danymi gry).</string>
+  <string name="gb_dialog_game_uninstall_tips_title">Odinstalowanie: %s</string>
+  <string name="gb_storage_game_uninstall">Odinstaluj gry</string>
+  <string name="gb_storage_summary">Przechowuj ikony gier w pasku gier. Nie będą się one pojawiać już na pulpicie.</string>
+  <string name="gb_storage_title">Przechowuj ikony gier z pulpitu</string>
 </resources>
