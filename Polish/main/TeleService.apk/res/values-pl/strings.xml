@@ -1746,4 +1746,9 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="fiveg_network_title">Sieci 5G</string>
   <string name="switch_off">Wył.</string>
   <string name="switch_on">Wł.</string>
+  <string name="dialog_ota_change_number_fail">"Nie udało się zmienić numeru telefonu. Jeśli błąd powtórzy się, skontaktuj się ze swoim operatorem."</string>
+  <string name="dialog_ota_change_number_lgu">Czy chcesz pobrać teraz kartę SIM?</string>
+  <string name="dialog_ota_change_number_lgu_roaming">"Nie można zmieniać numerów telefonu w roamingu."</string>
+  <string name="dialog_ota_change_number_processing">Pobieranie karty SIM…</string>
+  <string name="dialog_ota_change_number_success">Pomyślnie zmieniono numer telefonu</string>
 </resources>
