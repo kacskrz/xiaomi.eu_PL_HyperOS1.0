@@ -99,4 +99,14 @@
         <item quantity="one">minutę temu</item>
         <item quantity="few">%d minuty temu</item>
     </plurals>
+    <plurals name="delete_msg">
+        <item quantity="other">Usunąć %d elementów?</item>
+        <item quantity="few">Usunąć %d elementy?</item>
+        <item quantity="one">Usunąć %d element?</item>
+    </plurals>
+    <plurals name="select_items">
+        <item quantity="other">Wybrano %d elementów</item>
+        <item quantity="one">Wybrano %d element</item>
+        <item quantity="few">Wybrano %d elementy</item>
+    </plurals>
 </resources>

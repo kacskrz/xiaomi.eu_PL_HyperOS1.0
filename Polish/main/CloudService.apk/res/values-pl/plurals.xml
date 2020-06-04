@@ -36,6 +36,10 @@
          <item quantity="other">%d sieci Wi-Fi</item>
          <item quantity="one">%d sieć Wi-Fi</item>
      </plurals>
+     <plurals name="dirty_wlan_count_china">
+         <item quantity="other">%d sieci Wi-Fi</item>
+         <item quantity="one">%d sieć Wi-Fi</item>
+     </plurals>
      <plurals name="dirty_recorder_count">
          <item quantity="other">%d nagrań</item>
          <item quantity="one">%d nagranie</item>
