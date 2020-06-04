@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Dom</item>
+        <item>Tapeta/Super tapety/Dom</item>
+        <item>Ziemia;Super tapety;Edycja Ziemska;Tapeta</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Czerwona planeta</item>
+        <item>Tapeta/Super tapety/Czerwona tapeta</item>
+        <item>Mars;Edycja Marsjańska;Super tapety;Tapeta</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super tapety</item>
+        <item>Tapeta/Super tapety</item>
+        <item>Super tapety;Tapeta;Dynamiczna tapeta;Tapeta 3D</item>
+    </string-array>
+</resources>

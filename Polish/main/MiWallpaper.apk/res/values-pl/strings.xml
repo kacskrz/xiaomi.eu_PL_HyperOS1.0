@@ -89,4 +89,11 @@ MMMM"</string>
 dd.M"</string>
   <string name="miui_lock_screen_large_date_12">"EEE
 dd.M"</string>
+    <string name="already_newest_version">Masz aktualną wersję</string>
+    <string name="cancel_download">Anulowano pobieranie</string>
+    <string name="download_failed">"Nie udało się pobrać"</string>
+    <string name="install_failed">"Nie udało się zainstalować"</string>
+    <string name="no_cta_agreed">"Sklep nie posiada wymaganych uprawnień"</string>
+    <string name="no_install_permission">"Nie posiadasz uprawnień do instalacji tego elementu"</string>
+    <string name="task_already_exist">Zadanie już istnieje</string>
 </resources>

@@ -266,4 +266,9 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="move_data_dialog_cancel">Anuluj</string>
   <string name="move_data_dialog_title">Później możesz ograniczyć korzystanie z danych mobilnych w Ustawieniach</string>
   <string name="move_data_dialog_use">Użyj</string>
+  <string name="location_content">Zgodnie z prawem, operatorzy komórkowi mogą uzyskać informacje o lokalizacji urządzeń mobilnych, aby spełnić wymagania służb ratowniczych (straży pożarnej i policji), które realizują cele związane z bezpieczeństwem i ratownictwem.</string>
+  <string name="location_location">Pogotowie ratunkowe może uzyskiwać Twoją aktualną lokalizację na żądanie</string>
+  <string name="location_miui">Aby móc używać MIUI, musisz zgodzić się na warunki powyższych umów</string>
+  <string name="position_header">Udostępnianie informacji dot. lokalizacji</string>
+  <string name="position_subheading">Informacje dot. lokalizacji</string>
 </resources>
