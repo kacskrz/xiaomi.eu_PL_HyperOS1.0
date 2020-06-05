@@ -42,6 +42,7 @@
   <string name="add_event">Dodaj wydarzenie</string>
   <string name="address">Adres</string>
   <string name="agenda_month_empty_hint">Brak wydarzeń na dzisiaj. Tapnij, aby dodać.</string>
+  <string name="agenda_not_today_empty_hint">Brak wydarzeń. Tapnij, aby dodać.</string>
   <string name="agenda_today">DZIŚ, %1$s</string>
   <string name="agenda_tomorrow">JUTRO, %1$s</string>
   <string name="agenda_view">Plan dnia</string>
