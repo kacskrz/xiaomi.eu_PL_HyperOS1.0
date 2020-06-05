@@ -8103,5 +8103,6 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="content_miui_music_mute_by_user">Czy chcesz odtwarzać dźwięki multimediów, gdy włączony jest tryb cichy?</string>
   <string name="title_miui_music_mute_by_user">Tryb cichy</string>
   <string name="error_apn_restrict_string">Pole APN nie może zawierać %1$s</string>
-  <string name="charge_animation_style">Animacja ładowania</string>
+  <string name="charge_animation_style_summary">Wybierz swój preferowany styl animacji ładowania na Ekranie blokady</string>
+  <string name="charge_animation_style_title">Animacja ładowania</string>
 </resources>
