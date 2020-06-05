@@ -581,4 +581,10 @@
   <string name="common_home_search_delete_cancle">Anuluj</string>
   <string name="common_home_search_delete_confirm">Usuń</string>
   <string name="common_home_search_delete_content">Po usunięciu nie będzie można wyszukiwać elementów za pomocą paska wyszukiwania na pulpicie. Usunąć mimo to?</string>
+  <string name="accessibility_all_app_custom_category_finish">Gotowe</string>
+  <string name="accessibility_all_app_custom_category_item_remove">Usuń \"%1$s\" z kategorii</string>
+  <string name="accessibility_clear_search_bar_text">Wyczyść pasek wyszukiwania</string>
+  <string name="accessibility_enter_all_app_mode">Otwórz Szufladę aplikacji</string>
+  <string name="accessibility_enter_all_app_settings">Otwórz ustawienia Szuflady aplikacji</string>
+  <string name="back">Wstecz</string>
 </resources>
