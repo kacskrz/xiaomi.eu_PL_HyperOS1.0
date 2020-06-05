@@ -81,14 +81,14 @@
      </string-array>
     <string-array name="contact_relation_array">
         <item>Brak</item>
-        <item>Rodzice</item>
-        <item>Siostry</item>
-        <item>Bracia</item>
-        <item>Para</item>
-        <item>Zakochani</item>
-        <item>Przyjaciele</item>
-        <item>Koledzy</item>
-        <item>Koledzy z klasy</item>
+        <item>Rodzic</item>
+        <item>Siostra</item>
+        <item>Brat</item>
+        <item>Współmałżonek</item>
+        <item>Partner</item>
+        <item>Przyjaciel</item>
+        <item>Kolega</item>
+        <item>Kolega z klasy</item>
     </string-array>
     <string-array name="gender_array">
         <item>Brak</item>
@@ -97,17 +97,10 @@
     </string-array>
     <string-array name="normal_blood_array">
         <item>Brak</item>
-        <item>Typ A</item>
-        <item>Typ B</item>
-        <item>Typ AB</item>
-        <item>Typ O</item>
-    </string-array>
-    <string-array name="normal_blood_types">
-        <item>Brak</item>
-        <item>Typ A</item>
-        <item>Typ B</item>
-        <item>Typ AB</item>
-        <item>Typ O</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
     </string-array>
     <string-array name="rh_blood_array">
         <item>Brak</item>
