@@ -1848,4 +1848,10 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Powiadomienia push będą grupowane i wyświetlane poniżej innych powiadomień</item>
         <item>Powiadomienia push nie będą grupowane</item>
     </string-array>
+    <string-array name="charge_animation_style_entries">
+        <item>Wyłączona</item>
+        <item>Przepływ (klasyczna)</item>
+        <item>Blask (z Mi 10)</item>
+        <item>Fala (z Mi Mix Alpha)</item>
+    </string-array>
 </resources>
