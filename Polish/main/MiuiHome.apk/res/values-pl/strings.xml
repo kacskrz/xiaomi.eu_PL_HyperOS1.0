@@ -587,4 +587,9 @@
   <string name="accessibility_enter_all_app_mode">Otwórz Szufladę aplikacji</string>
   <string name="accessibility_enter_all_app_settings">Otwórz ustawienia Szuflady aplikacji</string>
   <string name="back">Wstecz</string>
+  <string name="all_app_category_personal">Osobiste</string>
+  <string name="all_app_category_work">Praca</string>
+  <string name="work_mode_off_label">Powiadomienia i aplikacje są wyłączone</string>
+  <string name="work_mode_on_label">Zarządzane przez Twoją organizację</string>
+  <string name="work_profile_toggle_label">Profil do pracy</string>
 </resources>
