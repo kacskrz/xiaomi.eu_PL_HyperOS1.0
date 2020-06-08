@@ -1253,4 +1253,12 @@ Be Happy"</string>
   <string name="sliding_pro_center">Centrum PRO</string>
   <string name="unlimited_downloads">Nielimitowane pobrania</string>
   <string name="unlimited_offline_songs">Nielimitowane utwory offline</string>
+  <string name="buy_vip_skip_ad">Usuń reklamy</string>
+  <string name="columbus_player_close_desc">Stracisz swoją nagrodę</string>
+  <string name="columbus_player_close_resume">WZNÓW WIDEO</string>
+  <string name="columbus_player_close_title">Zamknąć wideo?</string>
+  <string name="columbus_player_close_video">ZAMKNIJ WIDEO</string>
+  <string name="columbus_player_install_now">ZAINSTALUJ TERAZ</string>
+  <string name="columbus_player_learn_more">Dowiedz się więcej</string>
+  <string name="supplementary_songs">Dodatkowe utwory</string>
 </resources>
