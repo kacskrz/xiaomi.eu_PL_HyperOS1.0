@@ -314,6 +314,7 @@
   <string name="launcher_search_bar_title">Pasek wyszukiwania</string>
   <string name="launcher_search_bar_value_disable">Wył.</string>
   <string name="launcher_search_bar_value_enable">Wł.</string>
+  <string name="launcher_search_provider_title">Aplikacja do wyszukiwania</string>
   <string name="launcher_slide_up_title">Przesunięcie w górę na pulpicie</string>
   <string name="launcher_sliding_up_gesture">Przesuń w górę na pulpicie, aby włączyć Wyszukiwarkę</string>
   <string name="launcher_title">Pulpit</string>
