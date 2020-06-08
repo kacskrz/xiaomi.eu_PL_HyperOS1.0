@@ -126,4 +126,6 @@ Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</st
     <string name="v7_preference_off">WYŁ.</string>
     <string name="v7_preference_on">WŁ.</string>
     <string name="vendor_permission_allow_content_policy1">Umowa użytkownika</string>
+    <string name="pause_recognize_content_description">Zatrzymano transkrypcję audio. Dotknij dwa razy, aby rozpocząć ją ponownie.</string>
+    <string name="start_recognize_content_description">Trwa transkrypcja audio. Dotknij dwa razy, aby ją zatrzymać.</string>
 </resources>

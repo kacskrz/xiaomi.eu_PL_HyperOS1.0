@@ -605,7 +605,7 @@
   <string name="background_traffic">W tle: %s</string>
   <string name="backsound_set_hint">Ustawić dźwięk połączenia na %s?</string>
   <string name="banner_optimizemanage_summary">Zwolnij pamięć</string>
-  <string name="battery_and_property">Bateria i wydajność</string>
+  <string name="battery_and_property">Bateria</string>
   <string name="battery_can_use_time">Pozostało %s</string>
   <string name="battery_capacity_title">Pojemność</string>
   <string name="battery_charge_estimating">Obliczanie</string>
@@ -1193,7 +1193,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="game_improve_text1">Wyczyść pamięć podręczną w tle w celu zwolnienia pamięci dla gier</string>
   <string name="game_improve_text2">Wyczyść pamięć podręczną w tle w celu zwolnienia pamięci dla gier i zwiększenia wydajności CPU</string>
   <string name="game_improve_title">Optymalizacja wydajności</string>
-  <string name="game_manual_record_setting_setting">O tej funkcji</string>
+  <string name="game_manual_record_setting_setting">Ustawienia</string>
   <string name="game_manual_record_setting_title">Kluczowe momenty</string>
   <string name="game_more_improve">Blokuj aktywności w tle aby oszczędzić baterię i przepustowość dla grania</string>
   <string name="game_net_text1">Ograniczenie prędkości pobierania w tle dla zmniejszenia lagu sieci</string>
@@ -1296,14 +1296,16 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="gb_first_window_summary">Zwiększ wydajność gier</string>
   <string name="gb_first_window_title">Game Turbo</string>
   <string name="gb_game_end_toast">Zobacz teraz kluczowe momenty ze swoich sesji</string>
-  <string name="gb_game_video_bottom_tips">Obejrzyj nagrania ze swoich sesji w przyborniku. Domyślnie są one tam przechowywane przez tydzień. of your sessions in the gamebox.</string>
+  <string name="gb_game_video_bottom_tips">Przypomnij sobie kluczowe fragmenty Twojej sesji w Game Turbo. Nagrania są usuwane automatycznie po 7 dniach.</string>
   <string name="gb_game_video_item_tag">Kluczowy moment</string>
   <string name="gb_game_video_page_delete_success">Pomyślnie usunięto</string>
   <string name="gb_game_video_page_null">Nagraj kluczowe momenty ze swoich sesji w grach</string>
-  <string name="gb_game_video_record_finish_tips">Pomyślnie zapisano film</string>
+  <string name="gb_game_video_record_finish_tips">Zapisano ręcznie nagrany film w Game Turbo</string>
   <string name="gb_game_video_save">Zapisz</string>
   <string name="gb_game_video_type_ai">Przez SI</string>
   <string name="gb_game_video_type_manual">Ręcznie</string>
+  <string name="gb_game_video_type_ai_record">Rejestruj za pomocą SI</string>
+  <string name="gb_game_video_type_manual_record">Rejestruj ręcznie</string>
   <string name="gb_get_gift_right_now">Check in now</string>
   <string name="gb_global_settings">Ustawienia ogólne</string>
   <string name="gb_have_signed">Checked in today</string>
@@ -1335,6 +1337,9 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="gb_wonderful_video_delete">Usuń</string>
   <string name="gb_wonderful_video_header_title">Dziś</string>
   <string name="gb_wonderful_video_save_suc">Pomyślnie zapisano</string>
+  <string name="gb_wonderful_moment_toast_window_new_pop">"Nagraj kluczowe momenty
+Twojej gamingowej sesji"</string>
+  <string name="gb_wonderful_video_goto_box">Otwórz Game Turbo</string>
   <string name="gdpr_msg">Aplikacja wymaga dostępu do sieci, aby działać poprawnie. Ponadto w celu dostarczenia podstawowych funkcjonalności Panelu Sterowania Xiaomi będzie zapisywać niektóre osobiste dane, statystyki użytkowania i informacje o urządzeniu.</string>
   <string name="get_sys_info">Uzyskiwanie danych…</string>
   <string name="gigabyteShort">" GB"</string>
@@ -1368,12 +1373,11 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="gs_dialog_confirm_close_title">Wyłącz</string>
   <string name="gs_forbid_autosync">Wył. synchronizację w tle</string>
   <string name="gs_game_ai_record">Nagrywaj za pomocą SI</string>
-  <string name="gs_game_ai_record_subtitle">"Możesz rozpocząć nagrywanie w przyborniku w trakcie grania. Filmy z kluczowymi momentami rozgrywki będą generowane automatycznie i domyślnie zostaną usunięte po tygodniu od ich nagrania. Możesz również zmienić tą preferencję i przechowywać filmy na zawsze."</string>
+  <string name="gs_game_ai_record_subtitle">Automatycznie nagrywaj kluczowe momenty i generuj filmy z najważniejszymi momentami z Twojej sesji. Nagrania zostaną usunięte automatycznie po 7 dniach. Możesz także wybrać opcję ich permanentnego zapisania po każdej sesji.</string>
   <string name="gs_game_disturb_msg">Nie przeszkadzać</string>
   <string name="gs_game_duration">Czas</string>
   <string name="gs_game_manual_record">Nagrywaj ręcznie</string>
-  <string name="gs_game_manual_record_subtitle">"Możesz rozpocząć nagrywanie w przyborniku w trakcie grania. Po kliknięciu przycisku \"Nagraj\" rozpocznie się nagrywanie ujęć z rozgrywki (maks. 30 sekund).
-Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
+  <string name="gs_game_manual_record_subtitle">Użyj pływającego skrótu, aby nagrać fragment rozgrywki (maks. 30 sekund). Nagrania zostaną usunięte automatycznie po 7 dniach.</string>
   <string name="gs_game_manual_record_subtitle_child">Możesz doświadczyć pewnych problemów w trakcie używania tej funkcji:</string>
   <string name="gs_game_manual_record_subtitle_child_carton">Nagrywanie rozgrywki z gier wymaga większego użycia energii, co może przekładać się na lagi w grach.</string>
   <string name="gs_game_manual_record_subtitle_child_conflict">Inne funkcje nagrywania ekranu mogą nie działać prawidłowo.</string>
@@ -1751,7 +1755,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_text_networkassistants_unit_kb">" KB"</string>
   <string name="menu_text_networkassistants_unit_mb">" MB"</string>
   <string name="menu_text_optimize_manage">Pamięć</string>
-  <string name="menu_text_power_manager">Zasilanie i użycie baterii</string>
+  <string name="menu_text_power_manager">Bateria</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title_default">Bateria</string>
   <string name="menu_wh_remove">Usuń z wyjątków</string>
@@ -2193,7 +2197,7 @@ Jego aktywność skraca żywotność baterii."</string>
   <string name="power_center_super_save_title_text">Ultraoszczędzanie baterii</string>
   <string name="power_center_time_to_boot">Czas uruchomienia</string>
   <string name="power_center_time_to_shutdown">Czas wyłączenia</string>
-  <string name="power_center_title">Bateria i wydajność</string>
+  <string name="power_center_title">Bateria</string>
   <string name="power_consume_hardware_total_format">Urządzenie: %s</string>
   <string name="power_consume_other">Inne</string>
   <string name="power_consume_rank_hardware">Urządzenie</string>
@@ -3317,7 +3321,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="handle_title_system">Zużycie baterii przez system</string>
   <string name="hide_mode_result_summary_text">Utwórz własne ustawienia Oszczędzania baterii dla każdej aplikacji</string>
   <string name="pc_main_activity_back">Wstecz</string>
-  <string name="pc_settings_title">Ustawienia baterii i wydajności</string>
+  <string name="pc_settings_title">Ustawienia baterii</string>
   <string name="power_center_hints_scan_danger_result">Możesz naprawić kwestie baterii teraz</string>
   <string name="power_center_list_item_auto_brightness">Ustawiaj jasność ekranu automatycznie</string>
   <string name="power_center_list_item_battery_status_time">godz.</string>
@@ -3621,10 +3625,24 @@ Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć u
   <string name="gtb_setting_item_title_smart_5g">Optymalizacja dot. sieci 5G</string>
   <string name="gb_dialog_game_uninstall_deleting">Deinstalacja…</string>
   <string name="gb_dialog_game_uninstall_loading">Ładowanie gier…</string>
-  <string name="gb_dialog_game_uninstall_tips_message">Wszystkie dane gry także zostaną usunięte.</string>
-  <string name="gb_dialog_game_uninstall_tips_message_xspace">Sklonowana aplikacja również zostanie odinstalowana (włącznie z danymi gry).</string>
+  <string name="gb_dialog_game_uninstall_tips_message">Wszystkie dane gry zostaną usunięte.</string>
+  <string name="gb_dialog_game_uninstall_tips_message_xspace">Wszystkie dane gry, włącznie ze sklonowaną aplikacją, zostaną usunięte.</string>
   <string name="gb_dialog_game_uninstall_tips_title">Odinstalowanie: %s</string>
   <string name="gb_storage_game_uninstall">Odinstaluj gry</string>
-  <string name="gb_storage_summary">Przechowuj ikony gier w pasku gier. Nie będą się one pojawiać już na pulpicie.</string>
-  <string name="gb_storage_title">Przechowuj ikony gier z pulpitu</string>
+  <string name="gb_storage_summary">Nie pokazuj ikon gier dodanych do Game Turbo na pulpicie</string>
+  <string name="gb_storage_title">Usuń dodane gry z pulpitu</string>
+  <string name="intl_app_manager_card_permission_title">Prywatność i uprawnienia</string>
+  <string name="intl_perm_privacy_control_calendar">"Aplikacja może uzyskać dostęp bądź zedytować elementy w kalendarzu tylko wtedy, gdy z niej korzystasz"</string>
+  <string name="intl_perm_privacy_control_calllog">"Aplikacja może uzyskać dostęp bądź zedytować historię połączeń tylko wtedy, gdy z niej korzystasz"</string>
+  <string name="intl_perm_privacy_control_camera">"Aplikacja może wykonywać zdjęcia lub filmy tylko wtedy, gdy z niej korzystasz"</string>
+  <string name="intl_perm_privacy_control_contact">"Aplikacja może uzyskać dostęp bądź edytować kontakty tylko wtedy, gdy z niej korzystasz"</string>
+  <string name="intl_perm_privacy_control_data">Kontroluj prywatność</string>
+  <string name="intl_perm_privacy_control_message">Kontroluj uprawnienia, z jakich mogą korzystać aplikacje</string>
+  <string name="intl_perm_privacy_control_microphone">"Aplikacja może nagrywać dźwięk tylko wtedy, gdy z niej korzystasz"</string>
+  <string name="intl_perm_privacy_control_notification_message">Kontroluj uprawnienia i dane, z jakich mogą korzystać aplikacje</string>
+  <string name="intl_perm_privacy_control_notification_title">Chroń swoją prywatność</string>
+  <string name="intl_perm_privacy_control_storage">"Aplikacja może uzyskać dostęp do pamięci bądź zmieniać w niej elementy tylko wtedy, gdy z niej korzystasz"</string>
+  <string name="intl_perm_privacy_control_title">Kontroluj prywatność</string>
+  <string name="warningcenter_disaster_search_keywords">Alerty pogodowe</string>
+  <string name="warningcenter_mijia_search_keywords">Alerty z aplikacji Mi Home</string>
 </resources>

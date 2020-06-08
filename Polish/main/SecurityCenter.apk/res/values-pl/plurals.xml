@@ -693,4 +693,19 @@
         <item quantity="other">%s razy</item>
         <item quantity="one">%s raz</item>
     </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Odinstaluj %2$d gier (razem z %1$s)</item>
+        <item quantity="few">Odinstaluj %2$d gry (razem z %1$s)</item>
+        <item quantity="one">Odinstaluj %2$d grę (%1$s)</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">Zapisano %d nagrań SI w Game Turbo</item>
+        <item quantity="few">Zapisano %d nagrania SI w Game Turbo</item>
+        <item quantity="one">Zapisano %d nagranie SI w Game Turbo</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Możesz ochronić %d elementów</item>
+        <item quantity="few">Możesz ochronić %d elementy</item>
+        <item quantity="one">Możesz ochronić %d element</item>
+    </plurals>
 </resources>

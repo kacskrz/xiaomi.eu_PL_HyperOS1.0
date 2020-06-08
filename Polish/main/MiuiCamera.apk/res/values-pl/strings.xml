@@ -1340,4 +1340,9 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="accessibility_8k_on">AI 8K wł.</string>
   <string name="ambilight_tips_for_longtime_using_tripod">Użyj statywu, aby nagrać dłuższą ekspozycję</string>
   <string name="ambilight_tips_for_suggest_using_tripod">Użyj statywu</string>
+  <string name="timer_burst">Wyzwalacz zdjęć seryjnych</string>
+  <string name="timer_burst_manu_param_interval">Przedział czasowy (nie wliczając czasu ekspozycji)</string>
+  <string name="timer_burst_param_interval">Przedział czasowy</string>
+  <string name="timer_burst_param_total_count">Łącznie ujęć</string>
+  <string name="timer_burst_setting_total_count">Obecnie: %1$s</string>
 </resources>
