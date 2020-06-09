@@ -2848,7 +2848,7 @@ Kopia zapasowa nie wlicza się do limitu miejsca na Dysku Google. Nie zostanie t
   <string name="gesture_setting_on">Włączone</string>
   <string name="gesture_w">Wzór W</string>
   <string name="gesture_wakeup_summary">Funkcja działa tylko, gdy ustawiony jest motyw Domyślny lub Klasyczny</string>
-  <string name="gesture_wakeup_title">Kliknij dwukrotnie, aby wybudzić lub zablokować telefon</string>
+  <string name="gesture_wakeup_title">Kliknij dwukrotnie, aby wybudzić lub wyłączyć ekran</string>
   <string name="gesture_z">Wzór Z</string>
   <string name="global_change_warning">To ustawienie obowiązuje wszystkich użytkowników tego urządzenia.</string>
   <string name="global_font_change_title">Zmień rozmiar czcionki</string>
