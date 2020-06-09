@@ -593,4 +593,6 @@
   <string name="work_mode_off_label">Powiadomienia i aplikacje są wyłączone</string>
   <string name="work_mode_on_label">Zarządzane przez Twoją organizację</string>
   <string name="work_profile_toggle_label">Profil do pracy</string>
+  <string name="launcher_search_bar_provider_title">Wyszukiwarka w pasku wyszukiwania</string>
+  <string name="launcher_slide_up_search_provider_title">Aplikacja do wyszukiwania po pociągnięciu w górę</string>
 </resources>
