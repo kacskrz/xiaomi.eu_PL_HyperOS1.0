@@ -436,4 +436,5 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="pref_remind_type_summary_new">Ignoruj tryb Cichy i odtwarzaj dźwięk, dopóki alarm nie zostanie wyłączony</string>
   <string name="pref_remind_type_title_new">Przypomnienia z wysokim priorytetem</string>
   <string name="toast_refuse_to_record_when_in_multi_window_new">"Nie można używać tej funkcji w trybie Dzielonego ekranu bądź w pływających oknach"</string>
+  <string name="trash_folder_reminder_new">Notatki są przechowywane w koszu przez 30 dni, zanim zostaną usunięte na zawsze</string>
 </resources>
