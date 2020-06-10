@@ -123,10 +123,11 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="component_title_settings_video_wallpaper">Tapety z efektami specjalnymi</string>
   <string name="component_title_video_wallpaper">Tapety z efektami specjalnymi</string>
   <string name="component_title_wallpaper">Tapety</string>
-  <string name="community_cta_dialog_cancel">Anuluj</string>
-  <string name="community_cta_dialog_des">Ten motyw zawiera skrót zegara wyświetlający ID Twojego konta Xiaomi i status w Mi Community. Możesz wyłączyć tę funkcję, zmieniając motyw lub usuwając widżet zegara.</string>
-  <string name="community_cta_dialog_ok">Rozumiem</string>
-  <string name="community_cta_dialog_title">Skrót zegara</string>
+  <string name="community_cta_dialog_cancel">Nie, dzięki</string>
+  <string name="community_cta_dialog_des">"Motywy osób trzecich wspierają teraz widżet Mi Community. Działa on jako skrót, który przekierowuje Cię do działu Motywy na forum Mi Community. Możesz wyłączyć tą funkcję w Ustawieniach.
+Zezwól aplikacji Motywy na uzyskiwanie ID Twojego konta Xiaomi oraz statusów powiązanych z tym kontem, aby móc je zobaczyć tutaj. Możesz także włączyć lub wyłączyć powiadomienia o aktywności na Mi Community w Ustawieniach."</string>
+  <string name="community_cta_dialog_ok">Zezwól</string>
+  <string name="community_cta_dialog_title">Wymagane uprawnienia</string>
   <string name="concentration_old_period">Więcej</string>
   <string name="copy">Kopiuj</string>
   <string name="count_down_tip">Pozostało %ds</string>
@@ -546,7 +547,7 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="resource_detail_window_title">%1$s</string>
   <string name="resource_download">Pobierz</string>
   <string name="resource_download_notification_title_many">Pobrano %1$s motywów!</string>
-  <string name="resource_download_notification_title_one">Motyw został pobrany!</string>
+  <string name="resource_download_notification_title_one">Pomyślnie pobrano: %1$s</string>
   <string name="resource_download_trial">Wypróbuj za darmo</string>
   <string name="resource_downloaded_title">Pobrane elementy</string>
   <string name="resource_downloading">Pobieranie</string>
@@ -1000,10 +1001,36 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
   <string name="ota_recovery_theme_notity_content">"Możesz wrócić do motywu używanego przed aktualizacją"</string>
   <string name="ota_recovery_theme_notity_title">Przywróć swój motyw</string>
   <string name="resource_incall_show_download">Pobierz wideo</string>
-  <string name="super_wallpaper">Super tapeta</string>
-  <string name="theme_wallpaper">Kategoria tapet</string>
+  <string name="super_wallpaper">Super tapety</string>
+  <string name="theme_wallpaper">Kategorie tapet</string>
   <string name="apply_choosen_type_resource">Zastosuj wybrane elementy</string>
   <string name="gallery_wallpaper">Tapety Blokady</string>
   <string name="gallery_wallpaper_theme">Tapety, które musisz mieć</string>
   <string name="theme_not_include_module_desc">Ten motyw nie zawiera następujących elementów: %s</string>
+  <string name="ad_details">Szczegóły</string>
+  <string name="ad_download_now">Pobierz</string>
+  <string name="ad_experience_now">Otwórz</string>
+  <string name="community_community_message_trigger_summary">Otrzymuj powiadomienia dotyczące odpowiedzi, polubień i aktualizacji statusu na Mi Community, używając swojego ID konta Xiaomi</string>
+  <string name="community_community_message_trigger_title">Powiadamiaj o aktywności</string>
+  <string name="community_entrance_summary">Znajdź wątki dotyczące motywu na forum Mi Community. Funkcja jest wspierana przez wybrane motywy.</string>
+  <string name="community_entrance_title">Widżet zegara Mi Community</string>
+  <string name="community_message_trigger_disabled">Wył.</string>
+  <string name="community_message_trigger_triggered">Wł.</string>
+  <string name="forbid_transparent_wallpaper_by_second_space">Najpierw zastosuj przezroczystą tapetę w Pierwszej przestrzeni.</string>
+  <string name="forbid_video_wallpaper_by_second_space">Najpierw zastosuj dynamiczną tapetę w Pierwszej przestrzeni.</string>
+  <string name="i_know">Rozumiem</string>
+  <string name="miui_clock_city_name_local">Lokalnie</string>
+  <string name="miui_clock_city_name_second">Drugi zegar</string>
+  <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+  <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+  <string name="miui_lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
+  <string name="miui_lock_screen_large_date">"EEE
+dd.M."</string>
+  <string name="miui_lock_screen_large_date_12">"EEE
+dd.M."</string>
+  <string name="theme_designer_products">Motywy projektanta</string>
+  <string name="use_hint">Uwaga</string>
 </resources>

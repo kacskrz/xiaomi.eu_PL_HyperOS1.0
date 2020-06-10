@@ -78,8 +78,9 @@
         <item quantity="other">Za %1$d dni</item>
         <item quantity="one">Za %1$d dzień</item>
     </plurals>
-	<plurals name="todo_terms">
-        <item quantity="other">%1$s notki</item>
-        <item quantity="one">%1$s notka</item>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s zadań</item>
+        <item quantity="one">%1$s zadanie</item>
+        <item quantity="few">%1$s zadania</item>
     </plurals>
 </resources>

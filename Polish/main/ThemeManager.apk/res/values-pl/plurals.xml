@@ -105,4 +105,9 @@
         <item quantity="one">Aktualizowanie %1$d ikony…</item>
         <item quantity="other">Aktualizowanie %1$d ikon…</item>
     </plurals>
+    <plurals name="resource_download_notification_title_many">
+        <item quantity="one">Pomyślnie pobrano %1$d element</item>
+        <item quantity="few">Pomyślnie pobrano %1$d elementy</item>
+        <item quantity="other">Pomyślnie pobrano %1$d elementów</item>
+    </plurals>
 </resources>
