@@ -298,4 +298,5 @@
   <string name="open_close_tip_action">Rozumiem</string>
   <string name="open_close_tip_content">Aby zamknąć pływające okno, naciśnij i przytrzymaj pasek akcji, a następnie przesuń palcem w górę</string>
   <string name="security_share_text">Ochrona prywatności</string>
+  <string name="talk_back_conflict_with_handy_mode">"Nie można użyć trybu Jedna Dłoń, gdy włączony jest TalkBack"</string>
 </resources>

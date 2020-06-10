@@ -153,4 +153,9 @@
         <item>W celu synchronizacji kontaktów</item>
         <item>W celu zapisywania elementów na urządzeniu (np. zdjęć, filmów czy piosenek)</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Synchronizuj szybkie odpowiedzi</item>
+        <item>Włącz synchronizację</item>
+        <item>Szybkie odpowiedzi;Schowek;Edytor;Chmura;Synchronizacja;Usługi Chmury</item>
+    </string-array>
 </resources>
