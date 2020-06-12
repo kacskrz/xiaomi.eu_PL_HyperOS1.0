@@ -1347,4 +1347,20 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="timer_burst_setting_total_count">Obecnie: %1$s</string>
   <string name="color_effect_entry_blackice">Czarny lód</string>
   <string name="color_effect_entry_orange">Limonka</string>
+  <string name="pref_camera_rec_type_3d_record">Dźwięk 3D</string>
+  <string name="pref_camera_rec_type_audio_zoom">Zbliżenie audio</string>
+  <string name="pref_camera_rec_type_normal">Normalny</string>
+  <string name="pref_front_denoise_default">Wył.</string>
+  <string name="pref_front_denoise_summary">Redukuj szumy wygenerowane przez przedni aparat</string>
+  <string name="pref_front_denoise_title">Redukcja szumów w zdjęciach selfie</string>
+  <string name="pref_video_denoise_off">Wył.</string>
+  <string name="pref_video_denoise_on">Wł.</string>
+  <string name="pref_video_denoise_title">Redukcja szumów</string>
+  <string name="pref_wind_denoise_default">Wł.</string>
+  <string name="pref_wind_denoise_title">Redukcja wiatru</string>
+  <string name="super_macro_mode">Supermakro</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">W celu poprawy jakości zdjęć w słabych warunkach oświetleniowych częstotliwość odświeżania będzie zmniejszona z 60 do 33 kl./s</string>
+  <string name="pref_camera_dynamic_frame_rate_title">Automatyczne dostosuj ilość klatek</string>
+  <string name="pref_hdr10_video_mode_description">Wsparcie dla filmów zakodowanych w formacie H.265 (rozdzielczość 4K i 8K)</string>
+  <string name="pref_hdr10_video_mode_title">HDR 10</string>
 </resources>
