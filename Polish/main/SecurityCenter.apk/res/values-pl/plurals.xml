@@ -654,8 +654,9 @@
         <item quantity="one">Odmówiono %2$d raz o %1$s</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual_minute">
-        <item quantity="other">Returned %2$d blank messages at %1$s</item>
-        <item quantity="one">Returned %2$d blank message at %1$s</item>
+        <item quantity="other">Zwrócono %2$d pustych odpowiedzi o %1$s</item>
+        <item quantity="few">Zwrócono %2$d puste odpowiedzi o %1$s</item>
+        <item quantity="one">Zwrócono %2$d pustą odpowiedź o %1$s</item>
     </plurals>
     <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">Aplikacja %1$1s uruchomiła %2$d aplikacji</item>
