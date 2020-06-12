@@ -1125,7 +1125,7 @@ Zaktualizować teraz?"</string>
      <string name="chronic_hint">Opisz swoje choroby przewlekłe (np. nadciśnienie, astma itd.)</string>
      <string name="contact_permission_desc">W celu ustawienia kontaktów alarmowych</string>
      <string name="delete_aid_file">Usuń</string>
-     <string name="delete_aid_file_desc">Twój alarmowy, medyczny ID zostanie usunięty z tego urządzenia na zawsze.</string>
+     <string name="delete_aid_file_desc">Wprowadzone przez Ciebie informacje alarmowe zostaną usunięte z tego urządzenia na zawsze.</string>
      <string name="delete_avatar">Usuń obecne zdjęcie</string>
      <string name="delete_contact">Usuń</string>
      <string name="detection_has_no_data">Brak danych</string>
@@ -1149,9 +1149,9 @@ Zaktualizować teraz?"</string>
      <string name="lack_permisson">Aby kontynuować, nadaj aplikacji Xiaomi Zdrowie wszystkie wymagane przez nią uprawnienia.</string>
      <string name="low">Niski</string>
      <string name="medical_file_desc1">Ważne informacje medyczne niezbędne w razie pomocy</string>
-     <string name="medical_file_desc2">Nagraj podstawowe informacje o swoim zdrowiu, aby móc je przekazać ratownikom medycznym w razie konieczności udzielenia Ci pomocy.</string>
+     <string name="medical_file_desc2">Wprowadź podstawowe informacje o swoim zdrowiu, aby móc je przekazać ratownikom medycznym w razie konieczności udzielenia Ci pomocy.</string>
      <string name="medical_file_desc3">Xiaomi Zdrowie szanuje Twoją prywatność i będzie gromadzić wszystkie informacje wyłącznie lokalnie bez ich gromadzenia, przechowywania i wysyłania w inne miejsca.</string>
-     <string name="medical_first_aid_files">Alarmowy, medyczny ID</string>
+     <string name="medical_first_aid_files">Informacje medyczne</string>
      <string name="medication_and_treatment">Leki i trwające leczenie</string>
      <string name="medication_and_treatment_hint">Wymień leki, które bierzesz lub możesz potrzebować w nagłych wypadkach, jak również protezy, aparaty dentystyczne i operacje.</string>
      <string name="middle">Średni</string>
