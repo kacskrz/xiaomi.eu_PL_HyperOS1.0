@@ -88,13 +88,13 @@
   <string name="warning_tip_content">"Nie masz połączenia z Wi-Fi. Dalsze pobieranie wykorzysta dane mobilne"</string>
   <string name="warning_tip_ok">Zatrzymaj</string>
   <string name="warning_tip_title">Ostrzeżenie o użyciu danych</string>
-  <string name="wifi_recommended_body" formatted="false">"Pobieranie może skrócić czas pracy na baterii i spowodować przekroczenie limitu transmisji danych, za co operator może naliczyć dodatkowe opłaty.
+  <string name="wifi_recommended_body">"Pobieranie pliku %1$s może skrócić czas pracy na baterii i spowodować przekroczenie limitu transmisji danych, za co operator może naliczyć dodatkowe opłaty.
 
-Wybierz \"Dodaj do kolejki\", aby pobrać po połączeniu z siecią Wi-Fi.  %s（%s）Możesz zmienić domyślne parametry w Ustawieniach."</string>
+Wybierz %2$s, aby pobrać ten plik po nawiązaniu połączenia z siecią Wi-Fi."</string>
   <string name="wifi_recommended_title">Plik jest za duży</string>
-  <string name="wifi_required_body" formatted="false">"Do pobrania %s musisz użyć połączenia Wi-Fi. 
+  <string name="wifi_required_body">"Do pobrania pliku %1$s musisz użyć połączenia Wi-Fi. 
 
-Wybierz %s, aby pobrać po nawiązaniu połączenia z siecią Wi-Fi."</string>
+Wybierz %2$s, aby pobrać po nawiązaniu połączenia z siecią Wi-Fi."</string>
   <string name="wifi_required_title">Zbyt duży plik do pobrania dla sieci operatora</string>
   <string name="xl_speedup_experience_notify_context">"Speed is boosted for every download when you're a Xunlei member"</string>
   <string name="xl_speedup_experience_notify_title">Xunlei membership</string>

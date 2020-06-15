@@ -1094,4 +1094,14 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
   <string name="zero_sms_feedback_success">Pomyślnie zgłoszono</string>
   <string name="zero_sms_feedback_title">Zgłoś</string>
   <string name="failed_to_send">Nie udało się wysłać</string>
+  <string name="copy_verification_code_tip">Pomyślnie skopiowano</string>
+  <string name="menu_multi_select">Wybierz</string>
+  <string name="not_support_audio_forward">"Nie można przekazać wiadomości głosowych"</string>
+  <string name="pref_summary_voice_report">Włącz tę funkcję, aby odczytywać wiadomości na głos w momencie ich nadejścia. Aby zatrzymać odczytywanie, naciśnij przycisk Głośność- bądź przycisk zasilania.</string>
+  <string name="pref_title_voice_report">Czytaj wiadomości na głos</string>
+  <string name="top_conversation">Przypięta rozmowa</string>
+  <string name="verification_code_safety_warning">"Nie przekazuj tych kodów innym osobom"</string>
+  <string name="voice_report_anytime">Zawsze</string>
+  <string name="voice_report_off">Wyłączone</string>
+  <string name="voice_report_wiredon">Ze słuchawkami</string>
 </resources>

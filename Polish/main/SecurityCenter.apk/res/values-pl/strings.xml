@@ -3645,4 +3645,17 @@ Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć u
   <string name="intl_perm_privacy_control_title">Kontroluj prywatność</string>
   <string name="warningcenter_disaster_search_keywords">Alerty pogodowe</string>
   <string name="warningcenter_mijia_search_keywords">Alerty z aplikacji Mi Home</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">Zwolniono %s. Twoje urządzenie jest teraz szybsze o %d%%.</string>
+  <string name="menu_summary_optimize_manage">Wyczyść pamięć</string>
+  <string name="menu_summary_optimize_manage_1">Przyspiesz urządzenie o %d%%</string>
+  <string name="menu_text_optimize_manage_1">Przyspiesz działanie</string>
+  <string name="om_optimzing_big_button_text">Przyspiesz działanie</string>
+  <string name="om_running_app_info_summary">Zwolnij %s</string>
+  <string name="om_shortcut_added_toast_text">Pomyślnie dodano</string>
+  <string name="om_shortcut_dialog_summary">"RAM Jet pozwala na wyczyszczenie pamięci i przyspieszenie pracy urządzenia jednym dotknięciem. Czy chcesz dodać skrót do RAM Jet na pulpit?"</string>
+  <string name="om_shortcut_dialog_title">RAM Jet</string>
+  <string name="security_bottom_guide_to_pm_text">Otwieranie Przybornika…</string>
+  <string name="security_guide_bubble_text">Otwórz</string>
+  <string name="security_guide_summary">Wszystkie narzędzia i usługi w jednym miejscu</string>
+  <string name="security_guide_title">Przybornik MIUI</string>
 </resources>

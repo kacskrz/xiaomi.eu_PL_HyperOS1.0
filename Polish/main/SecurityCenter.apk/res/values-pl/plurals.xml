@@ -709,4 +709,9 @@
         <item quantity="few">Możesz ochronić %d elementy</item>
         <item quantity="one">Możesz ochronić %d element</item>
     </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d aplikacji</item>
+        <item quantity="one">%d aplikacja</item>
+        <item quantity="few">%d aplikacje</item>
+    </plurals>
 </resources>

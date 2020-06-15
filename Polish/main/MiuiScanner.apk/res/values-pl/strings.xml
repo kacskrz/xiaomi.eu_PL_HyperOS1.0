@@ -416,4 +416,13 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
+  <string name="WeChatqr_code_auto_processing">Otwieranie WeChata</string>
+  <string name="downloadAiVisonReason">Konieczne jest zaktualizowanie zależności wtyczki</string>
+  <string name="function">Funkcje</string>
+  <string name="if_open_result">Wyświetl rezultat skanowania po powrocie do aplikacji</string>
+  <string name="mipayin_dialog_more">Więcej</string>
+  <string name="mipayin_dialog_title">Otwórz za pomocą</string>
+  <string name="monitor_low_android">Wersja Androida jest za niska</string>
+  <string name="monitor_low_miui">Wersja MIUI jest za niska</string>
+  <string name="wechatcode_auto_processing_function_requires_permissions">Automatyczne przetwarzanie kodów WeChat wymaga uprawnień dla aplikacji WeChat do aparatu i pamięci.</string>
 </resources>
