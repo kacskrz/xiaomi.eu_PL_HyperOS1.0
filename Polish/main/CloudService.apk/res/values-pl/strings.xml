@@ -321,7 +321,6 @@ Zaloguj się ponownie na konto Xiaomi, aby aktywować usługi w chmurze"</string
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Włącz lokalizację urządzenia, by zabezpieczyć dane WeChata</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Włącz lokalizację urządzenia, by zabezpieczyć dane Alipay</string>
   <string name="micloud_find_device_guide_progress">Włączanie Lokalizacji urządzenia…</string>
-  <string name="micloud_find_device_guide_title">"Zaloguj się na i.mi.com, aby zdalnie zlokalizować, zablokować lub wymazać pamięć urządzenia."</string>
   <string name="micloud_find_device_open_fail">"Nie można włączyć Lokalizacji urządzenia"</string>
   <string name="micloud_find_device_opened">Zlokalizuj to urządzenie na</string>
   <string name="micloud_find_device_opened_content">%s</string>
