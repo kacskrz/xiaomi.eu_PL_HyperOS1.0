@@ -8111,4 +8111,7 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="input_method_quick_cloud_tips">Typ powiadomień</string>
   <string name="launch_ai_shortcut">Skrót do Mi SI</string>
   <string name="wifi_assistant_auto_confirm_data_help">Możesz wyłączyć tę funkcję w Ustawieniach > Wi-Fi > Asystent Wi-Fi.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Potwierdź na urządzeniu</string>
+  <string name="bluetooth_unlock_reject">Zdalne urządzenie odrzuciło żądanie odblokowania</string>
+  <string name="bluetooth_unlock_unsupport">Wersja jest niewspierana</string>
 </resources>
