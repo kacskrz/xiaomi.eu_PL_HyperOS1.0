@@ -21,6 +21,7 @@
     <string name="dialog_content_message2_feedback">"Powiadomimy developera aplikacji o tych problemach. Sprawdzaj aktualizacje."</string>
     <string name="dialog_content_message2_update">"Wygląda na to, że używasz starej wersji aplikacji. Czy chcesz ją zaktualizować?"</string>
     <string name="dialog_content_message_func_path">Ścieżka: Ustawienia > Aplikacje > Zarządzanie > Ustawienia > %s</string>
+    <string name="dialog_content_message_other">"Wymuszono zamknięcie aplikacji %s ze względu na wewnętrzny błąd. "</string>
     <string name="dialog_content_message_shell">"Wymuszono zamknięcie aplikacji %s ze względu na wewnętrzny błąd. "</string>
     <string name="dialog_content_message_unknown">"Wymuszono zamknięcie aplikacji %s. "</string>
     <string name="go_update">Aktualizuj</string>
@@ -28,6 +29,7 @@
     <string name="no_reminder">"Nie informuj o problemach w obecnej wersji"</string>
     <string name="notification_channel_name">Problemy aplikacji</string>
     <string name="notification_content_message">Dotknij, aby zobaczyć szczegóły</string>
+    <string name="notification_title_message_other">Wymuszono zamknięcie aplikacji %s ze względu na wewnętrzny błąd</string>
     <string name="notification_title_message_shell">Wymuszono zamknięcie aplikacji %s ze względu na wewnętrzny błąd</string>
     <string name="notification_title_message_unknown">Wymuszono zamknięcie aplikacji %s</string>
     <string name="search_menu_title">Szukaj</string>
