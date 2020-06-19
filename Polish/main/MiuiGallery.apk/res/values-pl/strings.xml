@@ -2153,4 +2153,15 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
      <string name="text_tab_festival">Święto</string>
      <string name="text_tab_scene">Scena</string>
      <string name="text_tab_spot">Widok</string>
+     <string name="album_detail_default_sort_tip">Przełączono na kolejność chronologiczną</string>
+     <string name="btn_cancel_send">Anuluj ten transfer</string>
+     <string name="btn_exit_send">Wyjdź</string>
+     <string name="menu_detail_sort_create_date">Utworzono</string>
+     <string name="menu_detail_sort_name">Nazwa pliku</string>
+     <string name="menu_detail_sort_size">Rozmiar pliku</string>
+     <string name="menu_detail_sort_update_date">Zaktualizowano</string>
+     <string name="operation_hide_time">Ukryj daty</string>
+     <string name="operation_show_time">Pokaż daty</string>
+     <string name="operation_sort">Sortuj</string>
+     <string name="share_and_delete_screenshot">Usuń po udostępnieniu</string>
 </resources>
