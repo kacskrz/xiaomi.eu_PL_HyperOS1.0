@@ -124,8 +124,7 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="component_title_video_wallpaper">Tapety z efektami specjalnymi</string>
   <string name="component_title_wallpaper">Tapety</string>
   <string name="community_cta_dialog_cancel">Nie, dzięki</string>
-  <string name="community_cta_dialog_des">"Motywy osób trzecich wspierają teraz widżet Mi Community. Działa on jako skrót, który przekierowuje Cię do działu Motywy na forum Mi Community. Możesz wyłączyć tą funkcję w Ustawieniach.
-Zezwól aplikacji Motywy na uzyskiwanie ID Twojego konta Xiaomi oraz statusów powiązanych z tym kontem, aby móc je zobaczyć tutaj. Możesz także włączyć lub wyłączyć powiadomienia o aktywności na Mi Community w Ustawieniach."</string>
+  <string name="community_cta_dialog_des">Motywy osób trzecich wspierają teraz widżet Mi Community. Zezwól aplikacji Motywy na uzyskiwanie ID Twojego konta Xiaomi oraz statusów powiązanych z tym kontem, aby móc je zobaczyć tutaj.</string>
   <string name="community_cta_dialog_ok">Zezwól</string>
   <string name="community_cta_dialog_title">Wymagane uprawnienia</string>
   <string name="concentration_old_period">Więcej</string>
