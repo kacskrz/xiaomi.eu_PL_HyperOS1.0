@@ -638,4 +638,8 @@ Zaloguj się na swoje konto Xiaomi, aby je przywrócić."</string>
     <string name="system_app_restore_failed">Wystąpił błąd</string>
     <string name="system_app_restore_failed_detail">"Nie udało się przywrócić elementów systemu. Sprawdź swoje ustawienia sieci i nie uruchamiaj ponownie bądź nie wyłączaj urządzenia, dopóki te elementy nie zostaną w pełni przywrócone. Dotknij przycisku poniżej, aby spróbować ponownie."</string>
     <string name="system_restore">Przywróć elementy</string>
+    <string name="close_cellular_summary">Ze względu na ograniczenia systemu urządzenie korzysta teraz z danych mobilnych. Wyłącz je i połącz się ponownie z nowym urządzeniem.</string>
+    <string name="close_cellular_title">"Nie udało się połączyć"</string>
+    <string name="prompt_before_transmission_message5_summary">"Transfer dużej ilości danych bezprzewodowo może spowodować lekkie przegrzewanie się telefonu, które jest całkowicie normalnym zjawiskiem. Twoje urządzenie powróci do normalnej temperatury niedługo po tym, gdy transfer zostanie ukończony."</string>
+    <string name="prompt_before_transmission_message5_title">Twoje urządzenie może się rozgrzać w trakcie przenoszenia.</string>
 </resources>
