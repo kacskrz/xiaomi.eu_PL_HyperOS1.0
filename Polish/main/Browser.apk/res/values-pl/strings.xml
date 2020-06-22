@@ -1779,4 +1779,7 @@ Spróbuj tego:"</string>
   <string name="clear_input_history_confirm">Czy chcesz wyczyścić całą historię?</string>
   <string name="clear_input_history_confirm_bt_text">Potwierdź</string>
   <string name="action_menu_text_like">Lubię to</string>
+  <string name="contextmenu_orignal_webpage">Oryginalna zawartość</string>
+  <string name="contextmenu_webpage_translate">Tłumaczenie stron</string>
+  <string name="contextmenu_webpage_translation_tips">Nowa funkcja tłumaczenia w Pasku narzędzi</string>
 </resources>
