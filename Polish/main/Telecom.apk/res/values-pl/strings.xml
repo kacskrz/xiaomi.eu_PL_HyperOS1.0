@@ -21,7 +21,7 @@
   <string name="accessibility_call_muted">Połączenie wyciszone.</string>
   <string name="accessibility_manual_zen_less_time">Mniej czasu.</string>
   <string name="accessibility_manual_zen_more_time">Więcej czasu.</string>
-  <string name="accessibility_speakerphone_enabled">Głośnik włączony.</string>
+  <string name="accessibility_speakerphone_enabled">Głośnik jest włączony</string>
   <string name="accessibility_wifi_security_type_none">Sieć otwarta</string>
   <string name="accessibility_wifi_security_type_secured">Sieć zabezpieczona</string>
   <string name="add_vm_number_str">Dodaj numer</string>
@@ -121,17 +121,18 @@ współczynnik próbkowania"</string>
   <string name="can_not_dial_while_vt_prompt">"Nie można zadzwonić podczas połączenia wideo"</string>
   <string name="cancel">Anuluj</string>
   <string name="cant_call_due_to_no_supported_service">Nie można wykonać połączenia, gdyż nie posiadasz obecnie kont obsługujących połączenia tego typu. Może to się wiązać również na przykład z tym, że do urządzenia nie jest włożona żadna karta SIM.</string>
-  <string name="cant_call_due_to_ongoing_call">Nie można wykonać połączenia, gdyż trwa rozmowa z %1$s.</string>
-  <string name="cant_call_due_to_ongoing_calls">Nie można wykonać połączenia, gdyż trwają rozmowy z %1$s.</string>
+  <string name="cant_call_due_to_ongoing_call">Nie można wykonać połączenia, gdyż trwa %1$s inna rozmowa.</string>
+  <string name="cant_call_due_to_ongoing_calls">Nie można wykonać połączenia. Zakończ najpierw rozmowę z %1$s.</string>
   <string name="cant_call_due_to_ongoing_unknown_call">Nie można wykonać połączenia, gdyż w innej aplikacji trwa już jakaś rozmowa.</string>
   <string name="change_default_dialer_dialog_title">Zmienić domyślną aplikację telefonu?</string>
+  <string name="change_default_dialer_dialog_affirmative">Ustaw jako domyślną aplikację Telefonu</string>
   <string name="change_default_dialer_no_previous_app_set_text">Ustawić %s jako domyślną aplikację telefonu?</string>
   <string name="change_default_dialer_with_previous_app_set_text">Zmienić %2$s na %1$s jako domyślną aplikację telefonu?</string>
   <string name="close">Wyłącz</string>
   <string name="connected_via_carrier">Połączono przez %1$s</string>
   <string name="dial_conference_fail_prompt">"Nie można nawiązać połączenia konferencyjnego. Aktualna sieć nie wspiera VoLTE."</string>
   <string name="dial_vt_fail_prompt">"Aktualna sieć nie wspiera VoLTE. Przełączyć na zwykłe połączenie głosowe?"</string>
-  <string name="duplicate_video_call_not_allowed">Nie można w tej chwili dodać połączenia.</string>
+  <string name="duplicate_video_call_not_allowed">Nie można dodać więcej połączeń</string>
   <string name="enable_account_preference_title">Konta telefoniczne</string>
   <string name="enable_gpu_debug_layers">Włącz warstwy debugowania GPU</string>
   <string name="enable_gpu_debug_layers_summary">Zezwól na ładowanie warstw debugowania GPU dla aplikacji debugujących</string>
@@ -157,7 +158,7 @@ współczynnik próbkowania"</string>
   <string name="notification_missedCallsMsg">%s nieodebranych połączeń</string>
   <string name="notification_missedCallsTitle">Połączenia nieodebrane</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Aby zadzwonić, wybierz prawidłowy numer.</string>
-  <string name="outgoing_call_not_allowed_no_permission">Ta aplikacja nie może wykonywać połączeń bez uprawnienia Telefon.</string>
+  <string name="outgoing_call_not_allowed_no_permission">Ta aplikacja nie może wykonywać połączeń bez wymaganych uprawnień.</string>
   <string name="outgoing_call_not_allowed_user_restriction">Właściciel urządzenia zezwala tylko na połączenia alarmowe.</string>
   <string name="phone_settings_call_blocking_txt">Blokowanie połączeń</string>
   <string name="phone_settings_number_not_in_contact_summary_txt">Blokuj numery niebędące w Kontaktach</string>
@@ -344,4 +345,5 @@ Magazyn danych logowania może nie zostać włączony"</string>
   <string name="zen_mode_enable_dialog_turn_on">Włącz</string>
   <string name="zen_mode_settings_summary_off">Nigdy</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Włącz tryb Nie przeszkadzać</string>
+  <string name="blocked_numbers_butter_bar_title">Lista blokowanych jest wyłączona</string>
 </resources>

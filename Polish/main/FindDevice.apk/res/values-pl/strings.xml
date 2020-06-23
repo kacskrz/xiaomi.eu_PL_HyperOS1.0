@@ -45,8 +45,8 @@
   <string name="passport_trust_device">Zaufane urządzenie</string>
   <string name="passport_vcode_prompt_long">Wpisz kod weryfikacyjny</string>
   <string name="passport_verify">Weryfikuj</string>
-  <string name="password">Hasło</string>
-  <string name="phone_locked">To urządzenie jest powiązane z istniejącym kontem Xiaomi (%s). Podaj hasło do konta, aby aktywować to urządzenie.</string>
+  <string name="password">Wprowadź hasło</string>
+  <string name="phone_locked">To urządzenie jest powiązane z kontem Xiaomi (%s). Podaj hasło do konta, aby aktywować to urządzenie.</string>
   <string name="phone_locked_account_email">, powiązany email: %s</string>
   <string name="phone_locked_account_phone">, powiązany nr telefonu: %s</string>
   <string name="return_to_call">Wróć do połączenia</string>
@@ -72,14 +72,14 @@
   <string name="unlock_error_unknown">Nie można się zalogować</string>
   <string name="unlock_error_user_name">Nieprawidłowa nazwa użytkownika</string>
   <string name="unlock_error_wrong_vcode">Kod jest nieprawidłowy</string>
-  <string name="unlock_help">"Wymagane jest połączenie z siecią
-Upewnij się czy posiadasz aktywną kartę SIM, a urządzenie nie jest podłączone do niedziałającej sieci Wi-Fi.
+  <string name="unlock_help">"Połącz się z siecią.
+Włóż działającą kartę SIM i nie łącz się z niedziałającymi sieciami Wi-Fi.
 
 Zapomniałeś hasła?
-Przejdź do id.mi.com, aby zresetować hasło.
+Przejdź do id.mi.com, wybierz opcję \"Zapomniałeś hasła?\" i postępuj zgodnie z instrukcjami.
 
-Inne rozwiązania:
-Przejdź do i.mi.com i spróbuj odblokować telefon."</string>
+Nie możesz aktywować urządzenia?
+Przejdź na stronę i.mi.com/ss i złóż prośbę o odblokowanie urządzenia."</string>
   <string name="unlock_help_title">Pomoc:</string>
   <string name="unlock_number">Kod odblokowania: %s</string>
   <string name="unlock_wrong_captcha">Kod jest nieprawidłowy</string>

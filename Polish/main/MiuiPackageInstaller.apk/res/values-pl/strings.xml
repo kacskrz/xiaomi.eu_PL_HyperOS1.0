@@ -452,4 +452,5 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="not_set">Nieustawione</string>
     <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
     <string name="search_menu_title">Szukaj</string>
+    <string name="ads_summary_default_value">Ludzie, którzy zainstalowali tą aplikację, polubili także</string>
 </resources>

@@ -138,4 +138,23 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="toast_msg_for_multi_window">Ta funkcja jest niedostępna w trybie Podzielonego ekranu</string>
     <string name="toast_msg_for_small_window">Możesz zminimalizować wyświetlane na zewnętrznym monitorze okienko, aby móc używać innych funkcji telefonu bez przerywania przesyłania tego elementu.</string>
     <string name="toast_title_for_small_window">Wybierz \"Zminimalizuj okno\" w aplikacji</string>
+    <string name="dialog_no_device_message"><Data>1. Połącz telefon i telewizor z tą samą siecią Wi-Fi.&lt;br>&lt;br>2. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę &lt;a href=milink://com.milink.service/specification>\"Pomoc\"&lt;/a>, aby dowiedzieć się więcej.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>1. Połącz telefon i telewizor z tą samą siecią Wi-Fi.&lt;br>&lt;br>2. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę &lt;a href=milink://com.milink.service/specification>\"Pomoc\"&lt;/a>, aby dowiedzieć się więcej.</Data></string>
+    <string name="dialog_scan_message">"1. Połącz telefon i telewizor z tą samą siecią Wi-Fi.
+
+2. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę \"Pomoc\", aby dowiedzieć się więcej."</string>
+    <string name="dialog_scan_message_china">"1. Połącz telefon i telewizor z tą samą siecią Wi-Fi.
+
+2. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę \"Pomoc\", aby dowiedzieć się więcej."</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja z chmurą wył.</string>
+    <string name="miuix_appcompat_cloud_state_finished">Zsynchronizowano z chmurą</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Synchronizowanie z chmurą</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
 </resources>

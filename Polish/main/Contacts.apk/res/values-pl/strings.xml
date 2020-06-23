@@ -1330,7 +1330,7 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Pobieranie…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Sieć jest niedostępna spróbuj ponownie później</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Umieszczono na Ekranie głównym</string>
-  <string name="yellowpage_provider_label">Dane dostarczane przez</string>
+  <string name="yellowpage_provider_label">Wsparcie techniczne funkcji rozpoznawania ID dzwoniącego/nadawcy dostarczane przez</string>
   <string name="yellowpage_search_the_yellowpage">Powrót do listy kontaktów</string>
   <string name="yellowpage_user_profile">Profile</string>
   <string name="yesterday">Wczoraj</string>
