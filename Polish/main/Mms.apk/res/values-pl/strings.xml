@@ -199,7 +199,7 @@
   <string name="current_data_version">Wersja Wiadomości w Chmurze</string>
   <string name="database_corruption">Baza danych uszkodzona, naprawianie...</string>
   <string name="delete">Usuń</string>
-  <string name="delete_block_conversation">Usuń tą konwersację</string>
+  <string name="delete_block_conversation">Usuń tę konwersację</string>
   <string name="delete_bookmark">Usuń z ulubionych</string>
   <string name="delete_message">Usuń</string>
   <string name="delete_phrase">Usuń zwrot</string>
@@ -217,11 +217,11 @@
   <string name="dialog_complain_tips">Aby móc zgłaszać elementy, zezwól aplikacji SMS na łączenie się z siecią.</string>
   <string name="dialog_message_correct_as_ad">Wszystkie wiadomości od %s (z wyjątkiem kodów weryfikacyjnych) zostaną przeniesione do sekcji Reklamy.</string>
   <string name="dialog_message_correct_as_normal">Wybierz wiadomości do przeniesienia</string>
-  <string name="dialog_message_fake_cell_detect_error">Correct the info about this message? To do this, MIUI needs to upload the phone number (%1$s), the contents of the message, and the info about nearby location to its servers.</string>
+  <string name="dialog_message_fake_cell_detect_error">Poprawić informacje o tej wiadomości? Aby to zrobić, MIUI musi pobrać numer telefonu (%1$s), zawartość wiadomości i informacje o pobliskiej lokalizacji na swoje serwwery.</string>
   <string name="dialog_message_mx">Wiadomości w Chmurze umożliwiają wysyłanie wiadomości do innych urządzeń MIUI bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości w Chmurze.</string>
   <string name="dialog_message_networking">Aplikacja SMS musi używać Książki telefonicznej w celu dostarczania usługi rozpoznawania ID nadawcy. Aplikacje: SMS i Książka telefoniczna muszą połączyć się z Internetem i uzyskać dostęp do Twojej lokalizacji, aby działać normalnie. Zgadzasz się?</string>
   <string name="dialog_message_networking_mx">Wiadomości w Chmurze umożliwiają wysyłanie wiadomości do innych urządzeń MIUI bez ponoszenia opłat. Do aktywacji tej funkcji wymagane jest wysłanie wiadomości SMS. Twój operator obciąży Cię opłatą za tego SMSa. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem tej funkcji. Wiadomości muszą łączyć się z Internetem i uzyskiwać dostęp do Twojej lokalizacji, aby zapewnić Inteligentne wiadomości, rozpoznawanie Sender ID i inne usługi. Czy zgadzasz się na to?</string>
-  <string name="dialog_message_sms_report">"Spam messages and sender's info will be uploaded to MIUI when you report them. They will only be used to improve MIUI's spam filters."</string>
+  <string name="dialog_message_sms_report">"Wiadomości Spam i informacje o nadawcach zostaną przekazane do MIUI, kiedy je zaraportujesz. Zostaną wykorzystane wylącznie w celu ulepszenia filtrów spam MIUI."</string>
   <string name="dialog_message_rcs">China Mobile Messaging umożliwia wysyłanie wiadomości do innych użytkowników China Mobile bez ponoszenia opłat. Przed użyciem China Mobile Messaging musisz wyrazić zgodę na \"%1$s\" i \"%2$s\". Zgadzasz się?</string>
   <string name="dialog_sim_locked_confirm">OK</string>
   <string name="dialog_sim_locked_message">"Twoja karta SIM nie działa w pełni z tym telefonem, ponieważ nie jest zgodna z warunkami subskrypcji. Jeśli masz jakiekolwiek pytania lub potrzebujesz więcej informacji na ten temat, skontaktuj się z centrum serwisowym Xiaomi lub sklepem, który sprzedał Ci produkty."</string>
@@ -354,7 +354,7 @@
   <string name="loading_all_messages">Wczytywanie wiadomości...</string>
   <string name="loading_conversations">Ładowanie wątków...</string>
   <string name="loading_mms">Wczytywanie MMS…</string>
-  <string name="manage_permission_app_label">Device Management Permission</string>
+  <string name="manage_permission_app_label">Uprawnienia Zarządzaia Urządzeniem</string>
   <string name="mark_number_by_own_dialog_subtitle">Oznaczony jako %1$s</string>
   <string name="me">Ja</string>
   <string name="menu_add_black">Blokuj numer</string>
@@ -687,7 +687,7 @@ Do aktywacji tej usługi wymagane jest wysłanie wiadomości SMS, za którą ope
   <string name="rcs_auto_resume_only_by_wifi">Wznów przesyłanie tylko, gdy jestem połączony z Wi-Fi</string>
   <string name="rcs_chat_bot_instruction">O właścicielu</string>
   <string name="rcs_chat_bot_subject">Właściciel: %1$s</string>
-  <string name="rcs_chatbot_a2p_message">Otrzymałeś wiadomość A2P message. Dotknij, aby zobaczyć szczegóły.</string>
+  <string name="rcs_chatbot_a2p_message">Otrzymałeś wiadomość A2P. Dotknij, aby zobaczyć szczegóły.</string>
   <string name="rcs_chatbot_audio_message">Otrzymałeś wiadomość głosową. Dotknij, aby zobaczyć szczegóły.</string>
   <string name="rcs_chatbot_card_message">Otrzymałeś wizytówkę. Dotknij, aby zobaczyć szczegóły.</string>
   <string name="rcs_chatbot_file_message">Otrzymałeś plik. Dotknij, aby zobaczyć szczegóły.</string>
