@@ -849,7 +849,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_picturesize_entry_3328x1872">6MP (3328x1872)</string>
   <string name="pref_camera_picturesize_entry_4208x2368">10MP (4208x2368)</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13MP (4208x3120)</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Pełny (16:9)</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Pełny</string>
   <string name="pref_camera_picturesize_entry_standard">Standardowy (4:3)</string>
   <string name="pref_camera_picturesize_title_simple_mode">Rozmiar zdjęcia</string>
   <string name="pref_camera_portrait_mode_entry_off">Tryb portretowy wył.</string>
@@ -936,7 +936,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_volumekey_function_title">Funkcje przycisku głośności</string>
   <string name="pref_camera_watermark_title">Sygnatura czasu</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
-  <string name="pref_camera_whitebalance_entry_cloudy">Pochmurno</string>
+  <string name="pref_camera_whitebalance_entry_cloudy">Pochmurnie</string>
   <string name="pref_camera_whitebalance_entry_daylight">Dzień</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescencyjne</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Żarowe</string>
