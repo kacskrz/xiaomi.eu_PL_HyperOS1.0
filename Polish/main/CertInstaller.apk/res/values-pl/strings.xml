@@ -84,5 +84,5 @@ Klucz: %2$s
   <string name="user_cert_is_added">Zainstalowano certyfikat użytkownika</string>
   <string name="user_certificate">Certyfikaty VPN i aplikacji użytkownika</string>
   <string name="wifi_cert_is_added">Zainstalowano certyfikat Wi-Fi</string>
-  <string name="wifi_certificate">Certyfikat Wi-Fi</string
+  <string name="wifi_certificate">Certyfikat Wi-Fi</string>
 </resources>
