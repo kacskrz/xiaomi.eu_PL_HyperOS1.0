@@ -1163,7 +1163,7 @@ Urządzenie zostanie zresetowane do ustawień fabrycznych!"</string>
   <string name="lockscreen_none">Brak</string>
   <string name="lockscreen_shortcut_left">Lewy skrót</string>
   <string name="lockscreen_shortcut_right">Prawy skrót</string>
-  <string name="lockscreen_sim_error_message_short">Błędna katra SIM.</string>
+  <string name="lockscreen_sim_error_message_short">Błędna karta SIM.</string>
   <string name="lockscreen_storage_locked">Odblokuj dla wszystkich funkcji i danych</string>
   <string name="lockscreen_unlock_left">Lewy skrót także odblokowuje</string>
   <string name="lockscreen_unlock_right">Prawy skrót także odblokowuje</string>
@@ -1180,8 +1180,8 @@ długi zrzut ekranu"</string>
   <string name="low_temperature_button_ok">Rozumiem</string>
   <string name="low_temperature_warning_message">Temperatura baterii jest bardzo niska. Telefon może wyłączyć się w każdej chwili! Nagłe wyłączenie urządzenia może doprowadzić do utraty niezapisanych danych.</string>
   <string name="low_temperature_warning_title">Niska temp. baterii</string>
-  <string name="managed_profile_foreground_toast">"Używasz swojego profilu roboczego"</string>
-  <string name="managed_user_title">Wszystkie aplikacje działają</string>
+  <string name="managed_profile_foreground_toast">"Używasz swojego profilu służbowego"</string>
+  <string name="managed_user_title">Wszystkie aplikacje służbowe</string>
   <string name="mdb_entering">Przechodzenie</string>
   <string name="mdb_restore_cancel">Anuluj</string>
   <string name="mdb_restore_info1">"Dane zostaną przywrócone"</string>
