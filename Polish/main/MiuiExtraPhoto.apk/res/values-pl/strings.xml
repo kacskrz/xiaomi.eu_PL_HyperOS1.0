@@ -70,4 +70,5 @@
   <string name="doc_photo_cancel">Anuluj</string>
   <string name="doc_photo_confirm">Wyjdź</string>
   <string name="doc_photo_idcard_alert_msg">Anulować wszystkie zmiany i wyjść z edytora?</string>
+  <string name="refocus_type_movie_relighting">Filmowe</string>
 </resources>

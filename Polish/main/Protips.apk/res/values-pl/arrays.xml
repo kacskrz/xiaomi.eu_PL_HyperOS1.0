@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string-array name="tips">
+    <item>"Wyświetl wszystkie aplikacje.
+ Dotknij ikony z kratką. @drawable/all_apps"</item>
+    <item>"Przeciągnij aplikację na ekran.
+ Dotknij ikony w menu i przytrzymaj ją, aż poczujesz wibrację."</item>
+    <item>"Poukładaj ikony na ekranie.
+ Dotknij wybranej ikony, przytrzymaj ją, aż poczujesz wibrację i przeciągnij ją w dowolne miejsce"</item>
+    <item>"Usuń element z ekranu.
+ Dotknij ikony, przytrzymaj ją, aż poczujesz wibrację i przeciągnij ją do kosza. @drawable/trash"</item>
+    <item>"Przełącz na inny ekran.
+ Przesuń palcem w bok, aby przełączyć ekran. Przeciągaj ikony między ekranami."</item>
+    <item>"Nie potrzebujesz tego widżetu?
+ Dotknij i przytrzymaj go, aż poczujesz wibrację, a następnie przeciągnij do kosza."</item>
+  </string-array>
+</resources>

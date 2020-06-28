@@ -51,4 +51,10 @@
   <string name="wifi_direct_printers">Drukarki obsługujące Wi-Fi Direct</string>
   <string name="wifi_direct_printing">Drukowanie za pomocą Wi-Fi Direct</string>
   <string name="wifi_not_connected">Wi-Fi niepołączone</string>
+  <string name="print">Drukuj</string>
+  <string name="recommendation_enable_summary">Wybierz, aby aktywować</string>
+  <string name="recommendation_install_summary">Wybierz, aby zainstalować</string>
+  <string name="recommendation_manage">Zarządzaj usługami</string>
+  <string name="recommendation_summary">Domyślna usługa drukowania dostarcza podstawowe opcje. Inne opcje dla tej drukarki mogą być dostępne za pośrednictwem innej usługi drukowania.</string>
+  <string name="recommendations_heading">Rekomendowane usługi</string>
 </resources>

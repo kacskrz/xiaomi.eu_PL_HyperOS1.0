@@ -14,4 +14,13 @@
         <item quantity="few">Możesz utworzyć maks. %d klony na raz.</item>
         <item quantity="one">Możesz utworzyć maks. %d klon na raz.</item>
     </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s zdjęć</item>
+        <item quantity="one">%1$s zdjęcie</item>
+        <item quantity="few">%1$s zdjęcia</item>
+    </plurals>
 </resources>

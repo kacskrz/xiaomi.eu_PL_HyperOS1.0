@@ -926,4 +926,7 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="micloud_find_device_guide_title">Zaloguj się na stronie &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> za pomocą swojego konta Xiaomi, aby zlokalizować i zablokować swoje urządzenie, oznaczyć je jako zagubione bądź wymazać dane zdalnie. Zobacz szczegóły &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>tutaj&lt;/a>.</string>
   <string name="send_last_location_summary">Zsynchronizuj informacje dot. lokalizacji wtedy, gdy urządzenie jest wyłączane</string>
   <string name="send_last_location_title">Zlokalizuj przed wyłączeniem urządzenia</string>
+  <string name="storage_manage_cloud_data_title">Wyświetl elementy w Chmurze</string>
+  <string name="storage_manage_full_summary">Brak miejsca w Chmurze. Ulepsz swój plan.</string>
+  <string name="storage_manage_normal_summary">Zmień plan Chmury</string>
 </resources>
