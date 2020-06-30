@@ -228,4 +228,14 @@ dd.M."</string>
     <string name="disable_aod_in_dark_room">Wyłącz, gdy telefon leży w ciemności</string>
     <string name="super_wallpaper_date_inter">"EEEE
 dd.M."</string>
+    <string name="aod_component">Wyświetlane elementy</string>
+    <string name="component_battery">Bateria</string>
+    <string name="component_date_time">Data i godzina</string>
+    <string name="component_lunar">Chiński kalendarz</string>
+    <string name="component_notification">Powiadomienia</string>
+    <string name="component_step">Kroki</string>
+    <string name="continue_to_use">Kontynuuj</string>
+    <string name="step_component_info_active_tip">Licznik kroków dostarczany jest przez aplikację Xiaomi Zdrowie. Aby kontynuować, wyraź zgodę na warunki korzystania z tej aplikacji.</string>
+    <string name="step_component_info_desc">Gdy Twój cel zostanie osiągnięty, obok licznika kroków pojawi się puchar. Licznik kroków dostarczany jest przez aplikację Xiaomi Zdrowie.</string>
+    <string name="step_component_info_tip">Licznik kroków dostarczany jest przez aplikację Xiaomi Zdrowie. Aby kontynuować, zainstaluj bądź zaktualizuj aplikację Xiaomi Zdrowie i wyraź zgodę na warunki korzystania z tej aplikacji.</string>
 </resources>
