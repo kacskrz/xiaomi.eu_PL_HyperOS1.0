@@ -157,4 +157,23 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
+    <string name="privacy_detail"><Data>Aby móc działać poprawnie, aplikacja wymaga połączenia z Internetem oraz możliwości gromadzenia wymaganych danych osobowych Aby w pełni zrozumieć swoje prawa jako użytkownika, a także poznać metody, za pomocą których Xiaomi używa Twoich danych, przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%2$s>Polityki prywatności&lt;/a>.</Data></string>
+    <string name="privacy_detail_extra"><Data>Niektóre funkcje są dostarczane przez zewnętrznego dostawcę - HappyCast. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności HappyCast&lt;/a> oraz &lt;a href=%2$s>Oświadczenia prawnego HappyCast&lt;/a>.</Data></string>
+    <string name="privacy_explain">"Witaj w Przesyłaniu ekranu! Ta funkcja pozwala Ci na projekcję elementów z ekranu Twojego telefonu na większym, zewnętrznym monitorze. Aby móc działać poprawnie, aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</string>
+    <string name="privacy_negative">Wyjdź</string>
+    <string name="privacy_permission_ble">Włączanie i wyłączanie Bluetooth</string>
+    <string name="privacy_permission_ble_desc">W celu odnajdywania dostępnych urządzeń w pobliżu</string>
+    <string name="privacy_permission_location">Dostęp do lokalizacji</string>
+    <string name="privacy_permission_location_desc">W celu odnajdywania dostępnych urządzeń w pobliżu</string>
+    <string name="privacy_permission_necessary">Obowiązkowe uprawnienia</string>
+    <string name="privacy_permission_necessary_desc">Uprawnienia wymagane do poprawnego działania aplikacji i jej podstawowych funkcji.</string>
+    <string name="privacy_permission_nfc_desc">W celu parowania urządzeń za pomocą NFC</string>
+    <string name="privacy_permission_optional">Opcjonalne uprawnienia</string>
+    <string name="privacy_permission_optional_desc">"Uprawnienia wykorzystywane przez dodatkowe funkcje w trakcie korzystania z nich"</string>
+    <string name="privacy_permission_wlan">Włączanie i wyłączanie Wi-Fi</string>
+    <string name="privacy_permission_wlan_china">Włączanie i wyłączanie Wi-Fi</string>
+    <string name="privacy_permission_wlan_desc">W celu odnajdywania dostępnych urządzeń w pobliżu</string>
+    <string name="privacy_permission_wlan_desc_china">W celu odnajdywania dostępnych urządzeń w pobliżu</string>
+    <string name="privacy_positive">Zgadzam się</string>
+    <string name="privacy_title">Uwaga</string>
 </resources>

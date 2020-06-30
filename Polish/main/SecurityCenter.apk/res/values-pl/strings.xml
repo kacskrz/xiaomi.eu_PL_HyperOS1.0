@@ -3654,11 +3654,15 @@ Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć u
   <string name="om_shortcut_added_toast_text">Pomyślnie dodano</string>
   <string name="om_shortcut_dialog_summary">"RAM Jet pozwala na wyczyszczenie pamięci i przyspieszenie pracy urządzenia jednym dotknięciem. Czy chcesz dodać skrót do RAM Jet na pulpit?"</string>
   <string name="om_shortcut_dialog_title">RAM Jet</string>
-  <string name="security_bottom_guide_to_pm_text">Otwieranie Przybornika…</string>
+  <string name="security_bottom_guide_to_pm_text">Puść, aby otworzyć narzędzia</string>
   <string name="security_guide_bubble_text">Otwórz</string>
   <string name="security_guide_summary">Wszystkie narzędzia i usługi w jednym miejscu</string>
   <string name="security_guide_title">Przybornik MIUI</string>
   <string name="antivirus_privacy_dialog_summary_new"><Data>Funkcja używa definicji wirusów dostarczanych przez firmy Avast, AVL oraz Tencent. Przeczytaj odpowiednie &lt;a href=\"%1$s\">zgody dot. licencji&lt;/a>, aby dowiedzieć się więcej.</Data></string>
   <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Funkcja używa definicji wirusów dostarczanych przez firmy AVL oraz Tencent. Przeczytaj odpowiednie &lt;a href=\"%1$s\">zgody dot. licencji&lt;/a>, aby dowiedzieć się więcej.</Data></string>
   <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Funkcja używa definicji wirusów dostarczanych przez firmy Avast oraz AVL. Przeczytaj odpowiednie &lt;a href=\"%1$s\">zgody dot. licencji&lt;/a>, aby dowiedzieć się więcej.</Data></string>
+  <string name="clean_master_icon_recall_button_text">Dodaj</string>
+  <string name="clean_master_icon_recall_summary">Dodaj skrót na pulpicie, aby usunąć śmieci wtedy, gdy tego chcesz.</string>
+  <string name="clean_master_icon_recall_title">Czyść śmieci szybciej</string>
+  <string name="clean_master_icon_recall_toast_text">Pomyślnie dodano skrót do Czyszczenia na pulpicie</string>
 </resources>

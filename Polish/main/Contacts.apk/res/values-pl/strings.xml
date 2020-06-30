@@ -127,7 +127,7 @@
   <string name="callrecordview_menu_batch_delete">Edycja historii połączeń</string>
   <string name="callrecordview_menu_blocklist">Blokowane</string>
   <string name="callrecordview_menu_conference">Połączenie konferencyjne</string>
-  <string name="callrecordview_menu_delete">Usuń z historii połączeń</string>
+  <string name="callrecordview_menu_delete">Usuń</string>
   <string name="callrecordview_menu_delete_accepted">Usuń odebrane połączenia z historii</string>
   <string name="callrecordview_menu_delete_all">Usuń historię połączeń</string>
   <string name="callrecordview_menu_delete_called">Usuń wybrane połączenia</string>

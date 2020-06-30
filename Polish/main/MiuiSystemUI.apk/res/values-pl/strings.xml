@@ -2271,4 +2271,8 @@ Wygląda na to, że magazyn danych logowania nie jest włączony."</string>
     <string name="partial_screenshot_save">Zapisz</string>
     <string name="partial_screenshot_save_successful">Pomyślnie zapisano</string>
     <string name="partial_screenshot_share">Wyślij</string>
+    <string name="wifi_unsaved_network_linking">Most SSID - Automatyczne łączenie</string>
+    <string name="wifi_unsaved_network_linking_summary">Włącz automatyczne próby połączenia się z nowym SSID z zabezpieczeniami WPA/WPA2-PSK w paśmie 5 GHz za pomocą danych logowania do sieci SSID WPA/WPA2-PSK w paśmie 2 GHz w momencie, gdy SSID i BSSID częściowo się zgadzają</string>
+    <string name="wifi_whitelist_roaming">Most SSID - Fast Handover</string>
+    <string name="wifi_whitelist_roaming_summary">Włącz roaming pomiędzy różnymi punktami dostępu SSID WPA/WPA2-PSK z takim samym adresem MAC bramy domyślnej</string>
 </resources>

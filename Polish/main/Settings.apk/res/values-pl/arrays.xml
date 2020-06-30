@@ -1854,4 +1854,9 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Blask (z Mi 10)</item>
         <item>Fala (z Mi Mix Alpha)</item>
     </string-array>
+    <string-array name="paper_color_values">
+        <item>Wszystkie kolory</item>
+        <item>Jasne kolory</item>
+        <item>Czerń i biel</item>
+    </string-array>
 </resources>

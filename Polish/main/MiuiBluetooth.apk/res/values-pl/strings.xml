@@ -115,4 +115,8 @@
   <string name="perm_ble_lab">Dostęp do ustawień BLE</string>
   <string name="bluetooth_paired">Zapisano</string>
   <string name="fast_connect_reset_common">Zresetuj urządzenie, aby móc je sparować</string>
+  <string name="wifi_unsaved_network_linking">Most SSID - Automatyczne łączenie</string>
+  <string name="wifi_unsaved_network_linking_summary">Włącz automatyczne próby połączenia się z nowym SSID z zabezpieczeniami WPA/WPA2-PSK w paśmie 5 GHz za pomocą danych logowania do sieci SSID WPA/WPA2-PSK w paśmie 2 GHz w momencie, gdy SSID i BSSID częściowo się zgadzają</string>
+  <string name="wifi_whitelist_roaming">Most SSID - Fast Handover</string>
+  <string name="wifi_whitelist_roaming_summary">Włącz roaming pomiędzy różnymi punktami dostępu SSID WPA/WPA2-PSK z takim samym adresem MAC bramy domyślnej</string>
 </resources>
