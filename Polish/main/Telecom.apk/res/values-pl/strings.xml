@@ -122,10 +122,10 @@ współczynnik próbkowania"</string>
   <string name="cancel">Anuluj</string>
   <string name="cant_call_due_to_no_supported_service">Nie można wykonać połączenia, gdyż nie posiadasz obecnie kont obsługujących połączenia tego typu. Może to się wiązać również na przykład z tym, że do urządzenia nie jest włożona żadna karta SIM.</string>
   <string name="cant_call_due_to_ongoing_call">Nie można wykonać połączenia, gdyż trwa %1$s inna rozmowa.</string>
-  <string name="cant_call_due_to_ongoing_calls">Nie można wykonać połączenia. Zakończ najpierw rozmowę z %1$s.</string>
+  <string name="cant_call_due_to_ongoing_calls">Nie można wykonać połączenia. Zakończ najpierw %1$s rozmowy.</string>
   <string name="cant_call_due_to_ongoing_unknown_call">Nie można wykonać połączenia, gdyż w innej aplikacji trwa już jakaś rozmowa.</string>
   <string name="change_default_dialer_dialog_title">Zmienić domyślną aplikację telefonu?</string>
-  <string name="change_default_dialer_dialog_affirmative">Ustaw jako domyślną aplikację Telefonu</string>
+  <string name="change_default_dialer_dialog_affirmative">Ustaw jako domyślną</string>
   <string name="change_default_dialer_no_previous_app_set_text">Ustawić %s jako domyślną aplikację telefonu?</string>
   <string name="change_default_dialer_with_previous_app_set_text">Zmienić %2$s na %1$s jako domyślną aplikację telefonu?</string>
   <string name="close">Wyłącz</string>
@@ -346,4 +346,7 @@ Magazyn danych logowania może nie zostać włączony"</string>
   <string name="zen_mode_settings_summary_off">Nigdy</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Włącz tryb Nie przeszkadzać</string>
   <string name="blocked_numbers_butter_bar_title">Lista blokowanych jest wyłączona</string>
+  <string name="change_default_call_screening_dialog_affirmative">Ustaw jako domyślną</string>
+  <string name="developer_title">Opcje programisty</string>
+  <string name="respond_via_sms_failure_format">"Nie udało się wysłać wiadomości do %s."</string>
 </resources>
