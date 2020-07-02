@@ -379,4 +379,6 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="permission_group_title_sensitive_privacy_related">Wrażliwe uprawnienia</string>
   <string name="permission_list_include">"Włączając następujące uprawnienia:
 "</string>
+  <string name="HIPS_Perm_mediaVolume">Dostosowanie głośności multimediów</string>
+  <string name="HIPS_Perm_mediaVolume_Desc">Zezwala aplikacji na dostosowanie głośności multimediów</string>
 </resources>
