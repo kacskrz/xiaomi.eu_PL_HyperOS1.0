@@ -8138,4 +8138,5 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="screen_paper_texture">Tekstura</string>
   <string name="set_screen_paper_mode">Tryb czytania</string>
   <string name="texture_adjust_temperature_title">Temperatura barwowa</string>
+  <string name="repeat_never">Nigdy</string>
 </resources>
