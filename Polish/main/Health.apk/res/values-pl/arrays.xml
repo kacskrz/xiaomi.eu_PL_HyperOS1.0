@@ -112,4 +112,18 @@
         <item>Tak</item>
         <item>Nie</item>
     </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Pon., Śr., Pt.</item>
+        <item>Wt., Czw., Sob.</item>
+        <item>Śr., Pt., Ndz.</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Co poniedziałek</item>
+        <item>Co wtorek</item>
+        <item>Co środę</item>
+        <item>Co czwartek</item>
+        <item>Co piątek</item>
+        <item>Co sobotę</item>
+        <item>Co niedzielę</item>
+    </string-array>
 </resources>
