@@ -56,9 +56,9 @@
   <string name="accessibility_carrier_network_change_mode">Zmiana sieci operatora.</string>
   <string name="accessibility_cast_name">Połączono z urządzeniem %s.</string>
   <string name="accessibility_casting_turned_off">Zatrzymano przesyłanie ekranu.</string>
-  <string name="accessibility_cell_data">Mobilna transmisja danych</string>
-  <string name="accessibility_cell_data_off">Mobilna transmisja danych wyłączona</string>
-  <string name="accessibility_cell_data_on">Mobilna transmisja danych włączona</string>
+  <string name="accessibility_cell_data">Dane mobilne</string>
+  <string name="accessibility_cell_data_off">Dane mobilne wyłączone</string>
+  <string name="accessibility_cell_data_on">Dane mobilne włączone</string>
   <string name="accessibility_clear_all">Usuń wszystkie powiadomienia.</string>
   <string name="accessibility_compatibility_zoom_button">Przycisk powiększenia na potrzeby zgodności.</string>
   <string name="accessibility_compatibility_zoom_example">Powiększa mniejszy ekran do większego.</string>
@@ -1530,7 +1530,7 @@ Aby dowiedzieć się więcej, skontaktuj się z administratorem.
   <string name="quick_settings_cellular_detail_data_warning">Ostrzeżenie: %s</string>
   <string name="quick_settings_cellular_detail_over_limit">Przekroczono limit</string>
   <string name="quick_settings_cellular_detail_remaining_data">Pozostały limit</string>
-  <string name="quick_settings_cellular_detail_title">Mobilna transmisja danych</string>
+  <string name="quick_settings_cellular_detail_title">Dane mobilne</string>
   <string name="quick_settings_cellular_detail_unable_change">"Nie można ustawiać w trakcie rozmowy"</string>
   <string name="quick_settings_color_space_label">Tryb korekcji kolorów</string>
   <string name="quick_settings_connect_success">Połączono</string>
