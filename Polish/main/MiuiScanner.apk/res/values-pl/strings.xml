@@ -444,7 +444,7 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="filename_cannot_beempty">Nazwa pliku nie może być pusta</string>
   <string name="grayscale">Skala szarości</string>
   <string name="intelligent_recognition">Inteligentne rozpoznawanie</string>
-  <string name="my_document">Mój dokument</string>
+  <string name="my_document">Zeskanowane dokumenty</string>
   <string name="newbuildfile">Nowy plik</string>
   <string name="original_image">Oryginalny obraz</string>
   <string name="pdf_is_being_saved">Zapisywanie pliku PDF...</string>
