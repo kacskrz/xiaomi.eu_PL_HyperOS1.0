@@ -437,7 +437,10 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="pref_remind_type_title_new">Przypomnienia z wysokim priorytetem</string>
   <string name="toast_refuse_to_record_when_in_multi_window_new">"Nie można używać tej funkcji w trybie Dzielonego ekranu bądź w pływających oknach"</string>
   <string name="trash_folder_reminder_new">Notatki są przechowywane w koszu przez %d dni, zanim zostaną usunięte na zawsze</string>
-  <string name="cloud_service_state_open_reminder_note_and_todo">Włącz synchronizację notatek i zadań z Chmurą Xiaomi, aby ich nie utracić (np. w momencie resetowania urządzenia do ustawień fabrycznych).</string>
-  <string name="sync_all_terms">%1$s oraz %2$s, %3$s</string>
+  <string name="cloud_service_state_open_reminder_note_and_todo">Włącz synchronizację z Chmurą</string>
+  <string name="sync_all_terms">%1$s, %2$s oraz %3$s</string>
+  <string name="sync_folder_todo">%1$s oraz %2$s</string>
   <string name="sync_note_folder">%1$s oraz %2$s</string>
+  <string name="sync_note_todo">%1$s oraz %2$s</string>
+  <string name="cta_v2_agree_desc">Zezwól tej aplikacji na połączenie się z Internetem i nadaj jej obowiązkowe uprawnienia wymienione powyżej.</string>
 </resources>

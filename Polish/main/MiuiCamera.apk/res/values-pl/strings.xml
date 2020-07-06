@@ -1388,7 +1388,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="watermark_tab_super_moon_text">Tekst</string>
   <string name="camera_fastmotion_title">Filmy time-lapse</string>
   <string name="popup_tips_near_range_mode">Bliski fokus</string>
-  <string name="pref_camera_ai_shutter_description">Automatycznie wybierz najlepszy moment do wciśnięcia przycisku migawki</string>
+  <string name="pref_camera_ai_shutter_description">Automatycznie wybierz najlepsze ujęcie w momencie, gdy wciśniesz przycisk migawki</string>
   <string name="pref_camera_ai_shutter_title">Migawka SI</string>
   <string name="unsupported_microphones_3d_record_tips">"Dźwięk 3D nie wspiera zewnętrznych mikrofonów"</string>
   <string name="unsupported_microphones_audio_zoom_tips">"Zbliżenie audio nie wspiera zewnętrznych mikrofonów"</string>
