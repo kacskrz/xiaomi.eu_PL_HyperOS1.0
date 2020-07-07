@@ -381,4 +381,8 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
 "</string>
   <string name="HIPS_Perm_mediaVolume">Dostosowanie głośności multimediów</string>
   <string name="HIPS_Perm_mediaVolume_Desc">Zezwala aplikacji na dostosowanie głośności multimediów</string>
+  <string name="perm_action_allow">Zezwól</string>
+  <string name="perm_action_deny">Nigdy nie zezwalaj</string>
+  <string name="perm_modem_location">Dostęp do lokalizacji</string>
+  <string name="perm_modem_location_desc">Twój operator próbuje uzyskać informacje o Twojej lokalizacji. Czy chcesz mu ich udzielić?</string>
 </resources>

@@ -452,4 +452,6 @@
   <string name="stopwatch_running_notification">Stoper</string>
   <string name="white_noise_selector">Wybierz dźwięk</string>
   <string name="channel_name_stopwatch">Stoper</string>
+  <string name="alert_vibrate_enable_summary">Wibruj, gdy włączy się alarm</string>
+  <string name="ringtone_more">Inne</string>
 </resources>

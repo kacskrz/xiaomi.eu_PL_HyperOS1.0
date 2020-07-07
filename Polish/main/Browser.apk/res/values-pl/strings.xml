@@ -1782,4 +1782,8 @@ Spróbuj tego:"</string>
   <string name="contextmenu_orignal_webpage">Oryginalna zawartość</string>
   <string name="contextmenu_webpage_translate">Tłumaczenie stron</string>
   <string name="contextmenu_webpage_translation_tips">Nowa funkcja tłumaczenia w Pasku narzędzi</string>
+  <string name="book_mark_input_title_hint">Wprowadź nazwę</string>
+  <string name="book_mark_input_url_hint">Wprowadź adres URL</string>
+  <string name="book_mark_search_hint">Wyszukaj zawartość: %1$s</string>
+  <string name="book_mark_spinner_name">Grupowanie</string>
 </resources>
