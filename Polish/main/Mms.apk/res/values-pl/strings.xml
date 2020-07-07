@@ -1104,4 +1104,5 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
   <string name="voice_report_anytime">Zawsze</string>
   <string name="voice_report_off">Wyłączone</string>
   <string name="voice_report_wiredon">Ze słuchawkami</string>
+  <string name="ad_close_button_text">Reklamy</string>
 </resources>
