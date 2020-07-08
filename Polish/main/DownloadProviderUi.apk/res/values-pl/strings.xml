@@ -168,6 +168,7 @@
   <string name="info_flow_only_load_wifi">Wczytuj treść tylko z Wi-Fi</string>
   <string name="info_flow_setting">Ustawienia treści (chińskie)</string>
   <string name="info_flow_show">Pokaż reklamy</string>
+  <string name="info_rank_show">Pokaż reklamy popularnych elementów</string>
   <string name="input_valid_address">Wpisz ścieżkę</string>
   <string name="install">Zainstaluj</string>
   <string name="install_failed">"Nie można zainstalować %1$s"</string>

@@ -642,4 +642,9 @@ Zaloguj się na swoje konto Xiaomi, aby je przywrócić."</string>
     <string name="close_cellular_title">"Nie udało się połączyć"</string>
     <string name="prompt_before_transmission_message5_summary">"Transfer dużej ilości danych bezprzewodowo może spowodować lekkie przegrzewanie się telefonu, które jest całkowicie normalnym zjawiskiem. Twoje urządzenie powróci do normalnej temperatury niedługo po tym, gdy transfer zostanie ukończony."</string>
     <string name="prompt_before_transmission_message5_title">Twoje urządzenie może się rozgrzać w trakcie przenoszenia.</string>
+    <string name="dialog_wechat_data_transfer_fail_button">Rozumiem</string>
+    <string name="dialog_wechat_data_transfer_fail_message">"Nie udało się przenieść danych aplikacji oraz historii czatu WeChat ze względu na ograniczenia aplikacji. Spróbuj użyć wbudowanej w aplikację funkcji kopii zapasowej.
+Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate chats."</string>
+    <string name="dialog_wechat_data_transfer_fail_title">"Nie udało się przenieść danych WeChata"</string>
+    <string name="scanner_not_support_data_transfer_tip">"Nie można przenieść danych aplikacji (włącznie z historią czatów z aplikacji WeChat i QQ) z urządzeń spoza portfolio Xiaomi."</string>
 </resources>

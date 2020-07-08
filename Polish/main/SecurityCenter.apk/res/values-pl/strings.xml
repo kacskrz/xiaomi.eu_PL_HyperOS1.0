@@ -3665,4 +3665,8 @@ Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć u
   <string name="clean_master_icon_recall_summary">Dodaj skrót na pulpicie, aby usunąć śmieci wtedy, gdy tego chcesz.</string>
   <string name="clean_master_icon_recall_title">Czyść śmieci szybciej</string>
   <string name="clean_master_icon_recall_toast_text">Pomyślnie dodano skrót do Czyszczenia na pulpicie</string>
+  <string name="app_behavior_media_volume">Aplikacja %1s zmieniła głośność multimediów</string>
+  <string name="app_behavior_media_volume_bg">Aplikacja %1s zmieniła głośność multimediów w tle</string>
+  <string name="app_behavior_media_volume_bg_single">Ta aplikacja zmieniła głośność multimediów w tle</string>
+  <string name="app_behavior_media_volume_single">Ta aplikacja zmieniła głośność multimediów</string>
 </resources>

@@ -4267,7 +4267,7 @@ Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
   <string name="normal_smartcover_title">Bez okienka</string>
   <string name="not_battery_optimizing">Nie optymalizuje wykorzystania baterii</string>
   <string name="not_installed">Nie zainstalowano</string>
-  <string name="notch_and_status_bar_settings">Centrum funkcji i panel powiadomień</string>
+  <string name="notch_and_status_bar_settings">Centrum funkcji i pasek statusu</string>
   <string name="notch_force_black_desc">Wcięcie zostanie ukryte przez przyciemnienie obszaru na ekranie po obu stronach</string>
   <string name="notch_force_black_title">Ukryj wcięcie</string>
   <string name="notch_settings">Wcięcie</string>
@@ -6164,7 +6164,7 @@ Umożliwiają to dane uwierzytelniające zainstalowane na Twoim urządzeniu."</s
   <string name="status_bar_settings_user_fold_summary">Wszystkie nieistotne powiadomienia pojawią się w osobnym katalogu</string>
   <string name="status_bar_style_list">Rozwijane</string>
   <string name="status_bar_style_page">Siatka</string>
-  <string name="status_bar_title">Elementy paska statusu</string>
+  <string name="status_bar_title">Centrum funkcji i pasek statusu</string>
   <string name="status_bt_address">Adres Bluetooth</string>
   <string name="status_data_network_type">Typ sieci (dane kom.)</string>
   <string name="status_data_state">Stan sieci komórkowej</string>
@@ -8139,4 +8139,7 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="set_screen_paper_mode">Tryb czytania</string>
   <string name="texture_adjust_temperature_title">Temperatura barwowa</string>
   <string name="repeat_never">Nigdy</string>
+  <string name="location_modem_summary">Operatorzy będą wiedzieć o Twojej lokalizacji poprzez stacje bazowe</string>
+  <string name="location_modem_title">Udostępniaj informację o lokalizacji operatorowi</string>
+  <string name="permission_action_prompt">Pytaj</string>
 </resources>
