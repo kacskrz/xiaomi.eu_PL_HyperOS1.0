@@ -2143,7 +2143,7 @@
 	   <string name="filter_general_greenorange">Limonka</string>
 	   <string name="filter_general_movie">Film</string>
 	   <string name="filter_movie_portrait">Wyróżnienie kolorem</string>
-     <string name="online_video_normal_transcoding">Ten plik wideo jest obecnie transkodowany. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+     <string name="online_video_normal_transcoding">Odtwarzacz online nie jest jeszcze gotowy. Pobrano element.</string>
      <string name="online_video_vip_tip">Uzyskaj członkostwo VIP, aby streamować pliki wideo bez ich pełnego preładowania</string>
      <string name="online_video_vip_transcoding">"Rozpoczynanie streamowania VIP…
 Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwać."</string>
@@ -2164,4 +2164,29 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
      <string name="operation_show_time">Pokaż daty</string>
      <string name="operation_sort">Sortuj</string>
      <string name="share_and_delete_screenshot">Usuń po udostępnieniu</string>
+     <string name="burst_save_video">Zapisz jako wideo</string>
+     <string name="burst_save_video_fail">"Nie udało się zapisać"</string>
+     <string name="burst_save_video_progerss">Tworzenie pliku wideo…</string>
+     <string name="burst_save_video_title">Rozdzielczość wideo</string>
+     <string name="filter_category_classic">Klasyczne</string>
+     <string name="filter_category_popular">Popularne</string>
+     <string name="filter_category_portrait">Portret</string>
+     <string name="filter_popular_humanity">Dokument</string>
+     <string name="filter_popular_lnk">Atrament</string>
+     <string name="filter_popular_purple">Purpura</string>
+     <string name="filter_portrait_greyish">Popiół</string>
+     <string name="filter_portrait_mist">Mgła</string>
+     <string name="filter_portrait_painting">Malowanie</string>
+     <string name="loading_text_format" formatted="false">Usuwanie prywatnych informacji ze zdjęć (%d/%d)…</string>
+     <string name="online_video_error_unknown">Wystąpił błąd otwarzania online. Pobrano element.</string>
+     <string name="online_video_error_unsupported_type">"Odtwarzacz wideo nie wspiera tego formatu. Pobrano element."</string>
+     <string name="screen_editor_btn_shell_off">Usuń ramkę urządzenia</string>
+     <string name="screen_editor_btn_shell_on">Dodaj ramkę urządzenia</string>
+     <string name="screen_editor_crop_disallowed_with_shell">"Nie można przyciąć zrzutów ekranu z ramką urządzenia"</string>
+     <string name="screen_editor_shell_disallowed_with_crop">"Nie można dodać ramki urządzenia do przyciętych zrzutów ekranu"</string>
+     <string name="screen_editor_shell_net_error">Połącz się z siecią, aby pobrać ramkę urządzenia</string>
+     <string name="screen_editor_shell_res_downloading">Pobieranie ramki urządzenia…</string>
+     <string name="screen_editor_shell_storage_insufficient">"Nie można pobrać ramki urządzenia ze względu na brak miejsca"</string>
+     <string name="time_burst_photo_enter">Wyzwalacz zdjęć seryjnych</string>
+     <string name="time_burst_preview_title">Wyzwalacz zdjęć seryjnych</string>
 </resources>
