@@ -2794,7 +2794,7 @@ Do starego telefonu podłącz kabel, który był do niego dołączony. Następni
 Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji, aby wybrać aplikację."</string>
   <string name="frequently_fragment_delete">Usuń</string>
   <string name="frequently_fragment_tempty">Często używane elementy będą tu wymienione</string>
-  <string name="fsg_mistake_touch_summary">W niektórych przypadkach np. pełny ekran lub podczas oglądania wideo konieczne będzie podwójne przesunięcie palcem od krawędzi, aby wywołać efekt</string>
+  <string name="fsg_mistake_touch_summary">W niektórych przypadkach, np. podczas grania w gry lub oglądania wideo konieczne będzie podwójne przesunięcie palcem od krawędzi, aby wywołać efekt</string>
   <string name="fsg_mistake_touch_title">Potwierdź gest</string>
   <string name="full_screen_display">Tryb pełnoekranowy</string>
   <string name="full_screen_keyboard_optimization">Rozszerz klawiaturę</string>

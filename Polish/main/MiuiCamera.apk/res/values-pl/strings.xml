@@ -1392,4 +1392,12 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="pref_camera_ai_shutter_title">Migawka SI</string>
   <string name="unsupported_microphones_3d_record_tips">"Dźwięk 3D nie wspiera zewnętrznych mikrofonów"</string>
   <string name="unsupported_microphones_audio_zoom_tips">"Zbliżenie audio nie wspiera zewnętrznych mikrofonów"</string>
+  <string name="ambilight_intro_star_track_2">"Wykonywanie zdjęcia gwieżdzistego nieba przez długi czas pozwoli na uchwycenie trajektorii gwiazd. Nie zapomnij użyć statywu! Wykonuj ujęcia ciągle przez %d minut, aby móc uzyskać i zdjęcia, i filmy."</string>
+  <string name="cta_msg">Witaj w Aparacie! Możesz użyć tej aplikacji do wykonywania zdjęć i nagrywania filmów. Aplikacja wymaga połączenia z Internetem oraz opcjonalnych uprawnień:</string>
+  <string name="cta_perm_dec">W celu dodawania informacji o lokalizacji do zdjęć i filmów</string>
+  <string name="cta_perm_loc">Lokalizacja</string>
+  <string name="cta_perm_type">"Opcjonalne uprawnienia (wykorzystywane przez dodatkowe funkcje wtedy, gdy z nich korzystasz)"</string>
+  <string name="cta_user_tips"><Data>Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody wykorzystywania Twoich danych przez Xiaomi, przeczytaj i zaakceptuj warunki &lt;a href =%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href =%2$s>Polityki prywatności&lt;/a>.</Data></string>
+  <string name="pref_multi_camera_dual_video_front">Przedni aparat</string>
+  <string name="user_disagree">"Nie zgadzam się"</string>
 </resources>
