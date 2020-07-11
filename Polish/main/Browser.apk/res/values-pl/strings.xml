@@ -1786,4 +1786,6 @@ Spróbuj tego:"</string>
   <string name="book_mark_input_url_hint">Wprowadź adres URL</string>
   <string name="book_mark_search_hint">Wyszukaj zawartość: %1$s</string>
   <string name="book_mark_spinner_name">Grupowanie</string>
+  <string name="new_copy_address">Ostatnio skopiowany URL</string>
+  <string name="new_copy_content">Ostatnio skopiowana zawartość</string>
 </resources>
