@@ -1152,12 +1152,10 @@ Spróbuj ponownie za %2$d s."</string>
   <string name="lockscreen_access_pattern_start">Wzór rozpoczęty</string>
   <string name="lockscreen_carrier_default">Brak usługi</string>
   <string name="lockscreen_charging_msg">Ładowanie</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Nie udało się odblokować telefonu po %d próbach. 
-  Po kolejnych %d próbach zakończonych niepowodzeniem urządzenie zostanie zresetowane do ustawień fabrycznych.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Wprowadzono niepoprawne hasło %d razy. 
-  Po kolejnych %d próbach zakończonych niepowodzeniem zostaniesz poproszony o wpisanie się z użyciem danych logowania do konta.
+  <string name="lockscreen_failed_attempts_almost_at_wipe">Nie udało się odblokować telefonu po %1$d próbach. Po kolejnych %2$d próbach zakończonych niepowodzeniem urządzenie zostanie zresetowane do ustawień fabrycznych, co spowoduje utratę danych zgromadzonych na nim.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">"Wprowadzono niepoprawne hasło %1$d razy. Po kolejnych %2$d próbach zakończonych niepowodzeniem zostaniesz zapytany o odblokowanie urządzenia z użyciem danych logowania do konta Xiaomi.
 
- Spróbuj ponownie za %d sekund."</string>
+Spróbuj ponownie za %3$d sekund."</string>
   <string name="lockscreen_failed_attempts_now_wiping">"Odblokowanie telefonu nie było możliwe po %d próbach. 
 Urządzenie zostanie zresetowane do ustawień fabrycznych!"</string>
   <string name="lockscreen_none">Brak</string>

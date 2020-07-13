@@ -319,4 +319,12 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="app_record">Nagrania w aplikacji</string>
   <string name="app_record_preference_title">Nagrania w aplikacji</string>
   <string name="record_list_app">Nagrania w aplikacji</string>
+  <string name="recovery">Przywróć</string>
+  <string name="recovery_failed_dialog_button">Rozumiem</string>
+  <string name="recovery_failed_dialog_title">Uwaga</string>
+  <string name="save_record_dialog_title">Zapisz nagranie</string>
+  <string name="trash_box">Ostatnio usunięte elementy</string>
+  <string name="trash_box_close_tip">Zamknij okno</string>
+  <string name="trash_box_delete_all">Czy chcesz usunąć wszystkie elementy z kosza na zawsze?</string>
+  <string name="user_feedback">Opinia</string>
 </resources>

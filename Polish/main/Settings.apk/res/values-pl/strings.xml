@@ -3459,7 +3459,7 @@ PIN musi zawierać tyle samo cyfr co PIN głównego profilu."</string>
   <string name="lockpassword_choose_your_pattern_header">Wybierz wzór</string>
   <string name="lockpassword_choose_your_pin_header">Wybierz kod PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Ustaw PIN dla drugiego profilu"</string>
-  <string name="lockpassword_choose_your_pin_title" formatted="false">Wpisz %d-%d cyfr</string>
+  <string name="lockpassword_choose_your_pin_title">Wpisz %1$d-%2$d cyfr</string>
   <string name="lockpassword_confirm_for_second_user">Potwierdź hasło dla drugiego profilu</string>
   <string name="lockpassword_confirm_passwords_dont_match">Hasła nie są takie same</string>
   <string name="lockpassword_confirm_pins_dont_match">Kody PIN nie są takie same</string>
@@ -6831,7 +6831,7 @@ Tymczasem możesz dalej konfigurować nowe urządzenie %1$s."</string>
   <string name="unlock_set_unlock_password_title">Hasło</string>
   <string name="unlock_set_unlock_pattern_summary">Połącz co najmniej 4 kropki</string>
   <string name="unlock_set_unlock_pattern_title">Wzór</string>
-  <string name="unlock_set_unlock_pin_summary" formatted="false">%d-%d cyfrowy kod PIN</string>
+  <string name="unlock_set_unlock_pin_summary">%1$d-%2$d cyfrowy kod PIN</string>
   <string name="unlock_set_unlock_pin_title">Kod PIN</string>
   <string name="unlock_set_unlock_summary">Aby włączyć ochronę hasłami aktywuj hasło ekranowe</string>
   <string name="unlock_setup_wizard_fingerprint_details">Po ustawieniu blokady ekranu możesz także ustalić blokadę odciskiem palca.</string>

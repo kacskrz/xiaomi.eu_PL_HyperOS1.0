@@ -51,4 +51,22 @@
         <item quantity="other">Szukaj spośród %d nagrań</item>
         <item quantity="one">Szukaj spośród %d nagrania</item>
     </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">"Nie udało się przywrócić %d elementów ze względu na nieznany błąd."</item>
+        <item quantity="one">"Nie udało się przywrócić %d elementu ze względu na nieznany błąd."</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">Pozostało %d dni</item>
+        <item quantity="few">Pozostały %d dni</item>
+        <item quantity="one">Pozostał %d dzień</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">Czy chcesz usunąć %d wybranych nagrań na zawsze?</item>
+        <item quantity="few">Czy chcesz usunąć %d wybrane nagrania na zawsze?</item>
+        <item quantity="one">Czy chcesz usunąć %d wybrane nagranie na zawsze?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Usunięte elementy mogą być przechowywane w koszu przez maks. %d dni</item>
+        <item quantity="one">Usunięte elementy mogą być przechowywane w koszu przez maks. %d dzień</item>
+    </plurals>
 </resources>

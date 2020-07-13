@@ -1400,4 +1400,5 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="cta_user_tips"><Data>Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody wykorzystywania Twoich danych przez Xiaomi, przeczytaj i zaakceptuj warunki &lt;a href =%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href =%2$s>Polityki prywatności&lt;/a>.</Data></string>
   <string name="pref_multi_camera_dual_video_front">Przedni aparat</string>
   <string name="user_disagree">"Nie zgadzam się"</string>
+  <string name="custom_watermark_tips_gen2" formatted="false">Maksymalnie %d chińskich znaków lub %d liter.</string>
 </resources>
