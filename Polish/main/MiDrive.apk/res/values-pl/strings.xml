@@ -24,7 +24,6 @@
   <string name="delete_file">Usunąć ten plik?</string>
   <string name="delete_success">Plik usunięty</string>
   <string name="download_failed">Pobieranie nieudane!</string>
-  <string name="downloading">Pobieranie…</string>
   <string name="downloading_in_3g">Pobieranie z 3G…</string>
   <string name="downloading_in_wifi">Pobieranie…</string>
   <string name="drive_low_memory_description_content">"Nie można użyć Mi Drive ze względu na niewielką ilość wolnej pamięci."</string>
@@ -56,7 +55,6 @@
   <string name="login_reg_content">Synchronizuj zachowane pliki na wielu urządzeniach.</string>
   <string name="login_reg_title">Korzystaj wszędzie z Mi Drive</string>
   <string name="megabyteShort">MB</string>
-  <string name="month_day_format">dd MMM</string>
   <string name="move_failed">Wycinanie nieudane</string>
   <string name="move_failed_retry">"Nie można wyciąć. Zaczekaj %1$s i spróbuj ponownie."</string>
   <string name="need_get_accounts_and_storage_permission">Mi Drive wymaga dostępu do konta i magazynu danych, aby działać normalnie.</string>
@@ -72,20 +70,16 @@
   <string name="open_changed_file_title">Modyfikacja pliku</string>
   <string name="operating">Przetwarzanie…</string>
   <string name="operation_cancel">Anuluj</string>
-  <string name="operation_copy">Kopiuj</string>
   <string name="operation_copying">Kopiowanie...</string>
   <string name="operation_copying_detail">Kopiowanie plików (%1$d/%2$d)</string>
   <string name="operation_create_folder">Nowy katalog</string>
   <string name="operation_create_folder_message">Wpisz nazwę katalogu</string>
   <string name="operation_creating_folder">Tworzenie katalogu…</string>
-  <string name="operation_delete">Usuń</string>
   <string name="operation_delete_message_folder">Zawartość katalogu zostanie usunięta</string>
   <string name="operation_delete_selected_tasks">Usunąć wybrane zadania?</string>
   <string name="operation_delete_title">Usunąć?</string>
   <string name="operation_deleting">Usuwanie…</string>
   <string name="operation_deleting_detail">Usuwanie plików (%1$d/%2$d)</string>
-  <string name="operation_download">Pobierz</string>
-  <string name="operation_move">Wytnij</string>
   <string name="operation_moving">Przenoszenie...</string>
   <string name="operation_moving_detail">Przenoszenie plików (%1$d/%2$d)</string>
   <string name="operation_paste">Wklej</string>
@@ -93,7 +87,6 @@
   <string name="operation_pause">Wstrzymaj</string>
   <string name="operation_pause_all">Zatrzymaj wszystko</string>
   <string name="operation_refresh">Odśwież</string>
-  <string name="operation_rename">Zmień nazwę</string>
   <string name="operation_rename_message">Wprowadź nową nazwę</string>
   <string name="operation_renaming">Zmiana nazwy…</string>
   <string name="operation_resume">Wznów</string>
@@ -109,7 +102,6 @@
   <string name="rename_alert">"If you change this file's extension, you may not be able to open it."</string>
   <string name="rename_failed">A file with the same name already exists.</string>
   <string name="request_permission_msg">Zezwól Mi Drive na dostęp do konta i magazynu danych.</string>
-<string name="request_permission_title">Wymagane uprawnienia</string>
   <string name="sd_full">Pamięć SD jest pełna</string>
   <string name="sd_invalid">Nie można użyć karty SD</string>
   <string name="send_to_midrive_failed">"This file type isn't supported."</string>
@@ -134,8 +126,6 @@
   <string name="wangpan_root_path">Mój Dysk</string>
   <string name="xiaomi_drive_description_content">Mi Drive jest chmurą online, która pozwala ci na przechowywanie swoich plików online i zwolnienie miejsca na swoim urządzeniu. Czy chcesz przestać używać Mi Drive?</string>
   <string name="xiaomi_drive_description_title">O Mi Drive</string>
-  <string name="year_month_day_format">dd MMM, yyyy</string>
-  <string name="yesterday">Wczoraj</string>
   <string name="about_title">O Mi Drive</string>
   <string name="about_version">"Wersja: "</string>
   <string name="account_bind_secure_email_title">Dodaj pomocniczy adres e-mail</string>
@@ -290,7 +280,6 @@ Wyślij ten kod do administratora."</string>
   <string name="file_size_lager_than_4g">"Rozmiar pliku nie może przekroczyć 4 GB"</string>
   <string name="file_upload_dialog_cancel">Anuluj</string>
   <string name="file_upload_dialog_title">Wybierz kategorię</string>
-  <string name="find_psw">Forgot password</string>
   <string name="find_psw">Nie pamiętam hasła</string>
   <string name="for_diagnosis_usage_only">Logi są używane tylko do celów diagnostycznych.</string>
   <string name="get_back_pwd">Resetowanie hasła</string>
@@ -310,7 +299,6 @@ Wyślij ten kod do administratora."</string>
   <string name="input_new_pwd">Wprowadź nowe hasło</string>
   <string name="isornot_your_mi_account">Czy to jest Twoje konto Xiaomi?</string>
   <string name="just_a_second">Chwileczkę…</string>
-  <string name="just_now">Teraz</string>
   <string name="license_host_unreachable">"Twoje urządzenie nie jest połączone z usługami Chmury. Aby zobaczyć ten element, odwiedź %s na dowolnym połączonym urządzeniu."</string>
   <string name="load_metered_network_dialog_cancel">Anuluj</string>
   <string name="load_metered_network_dialog_desc">"Twoje urządzenie nie jest połączone z siecią Wi-Fi. Załadować za pomocą danych mobilnych?"</string>
@@ -557,7 +545,6 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="upload_metered_network_dialog_desc">"Twoje urządzenie nie jest połączone z siecią Wi-Fi. Wysłać elementy za pomocą danych mobilnych?"</string>
   <string name="upload_metered_network_dialog_ok">Wyślij</string>
   <string name="upload_metered_network_dialog_title">Korzystanie z danych mobilnych</string>
-  <string name="uploading">Wysyłanie</string>
   <string name="user_agreement_title">Umowa użytkownika Mi Drive</string>
   <string name="user_avatar_update_title">Zmień zdjęcie profilowe</string>
   <string name="user_avatar_uploading">Chwileczkę…</string>
