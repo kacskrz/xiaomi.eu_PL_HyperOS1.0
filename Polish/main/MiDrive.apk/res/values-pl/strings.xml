@@ -139,6 +139,7 @@
   <string name="account_error_user_birthday">Data urodzin jest nieprawidłowa</string>
   <string name="account_error_user_name">Nazwa użytkownika jest nieprawidłowa. Spróbuj wybrać inną.</string>
   <string name="account_invalid_user_avatar">To zdjęcie jest nieprawidłowe. Wybierz inne.</string>
+  <string name="account_info_desc">Zarządzaj informacjami o koncie</string>
   <string name="account_limit_update_birthday">Nie można teraz zaktualizować daty urodzin</string>
   <string name="account_no_set">Brak</string>
   <string name="account_none_bind_info">Brak</string>
