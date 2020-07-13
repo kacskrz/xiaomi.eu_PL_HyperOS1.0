@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>1-szy tydzień</item>
+        <item>2-gi tydzień</item>
+        <item>3-ci tydzień</item>
+        <item>%1$d-ty tydzień</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Noc</item>
+        <item>Wczesny poranek</item>
+        <item>Poranek</item>
+        <item>Południe</item>
+        <item>Popołudnie</item>
+        <item>Późne popołudnie</item>
+        <item>Wieczór</item>
+    </string-array>
+</resources>

@@ -204,4 +204,60 @@
      <item quantity="other">Usunąć %1$d plików?</item>
      <item quantity="one">Usunąć ten plik?</item>
  </plurals>
+    <plurals name="download_done_info_for_sys_content">
+        <item quantity="other">Pomyślnie pobrano %1$d elementów</item>
+        <item quantity="few">Pomyślnie pobrano %1$d elementy</item>
+        <item quantity="one">Pomyślnie pobrano %1$d element</item>
+    </plurals>
+    <plurals name="download_fail_info_for_sys_content">
+        <item quantity="other">"Nie udało się pobrać %1$d elementów"</item>
+        <item quantity="one">"Nie udało się pobrać %1$d elementu"</item>
+    </plurals>
+    <plurals name="downloading_info_for_sys_title">
+        <item quantity="other">Pobieranie… Pozostało %1$d elementów (%2$s%%)</item>
+        <item quantity="few">Pobieranie… Pozostały %1$d elementy (%2$s%%)</item>
+        <item quantity="one">Pobieranie… Pozostał %1$d element (%2$s%%)</item>
+    </plurals>
+    <plurals name="exception_copy_delete">
+        <item quantity="other">"Brakuje niektórych elementów. Nie udało się skopiować %1$d elementów."</item>
+        <item quantity="one">"Brakuje niektórych elementów. Nie udało się skopiować %1$d elementu."</item>
+    </plurals>
+    <plurals name="exception_move_delete">
+        <item quantity="other">"Brakuje niektórych elementów. Nie udało się przenieść %1$d elementów."</item>
+        <item quantity="one">"Brakuje niektórych elementów. Nie udało się przenieść %1$d elementu."</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">%2$d elementów zawierających \"%1$s\"</item>
+        <item quantity="few">%2$d elementy zawierające \"%1$s\"</item>
+        <item quantity="one">%2$d element zawierający \"%1$s\"</item>
+    </plurals>
+    <plurals name="setting_file_list_item_desc">
+        <item quantity="other">%1$d elementów | %2$s | %3$s</item>
+        <item quantity="few">%1$d elementy | %2$s | %3$s</item>
+        <item quantity="one">%1$d element | %2$s | %3$s</item>
+    </plurals>
+    <plurals name="setting_list_folder_item_desc">
+        <item quantity="other">%1$d elementów | %2$s</item>
+        <item quantity="few">%1$d elementy | %2$s</item>
+        <item quantity="one">%1$d element | %2$s</item>
+    </plurals>
+    <plurals name="text_group_count">
+        <item quantity="other">%1$d elementów</item>
+        <item quantity="few">%1$d elementy</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="upload_done_info_for_sys_content">
+        <item quantity="other">Pomyślnie wysłano %1$d elementów</item>
+        <item quantity="few">Pomyślnie wysłano %1$d elementy</item>
+        <item quantity="one">Pomyślnie wysłano %1$d element</item>
+    </plurals>
+    <plurals name="upload_fail_info_for_sys_content">
+        <item quantity="other">"Nie udało się wysłać %1$d elementów"</item>
+        <item quantity="one">"Nie udało się wysłać %1$d elementu"</item>
+    </plurals>
+    <plurals name="uploading_info_for_sys_title">
+        <item quantity="other">Wysyłanie… Pozostało %1$d elementów (%2$s%%)</item>
+        <item quantity="few">Wysyłanie… Pozostały %1$d elementy (%2$s%%)</item>
+        <item quantity="one">Wysyłanie… Pozostał %1$d element (%2$s%%)</item>
+    </plurals>
 </resources>

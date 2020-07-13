@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Mężczyzna</item>
+        <item>Kobieta</item>
+    </string-array>
+    <string-array name="privacy_dialog_runtime_permission_desc">
+        <item>W celu zalogowania się za pomocą konta Xiaomi</item>
+        <item>W celu podglądu, wysyłania, pobrania i synchronizowania plików</item>
+    </string-array>
+</resources>

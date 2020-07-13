@@ -82,4 +82,64 @@
     <item quantity="one">Dodano %d numer telefonu</item>
     <item quantity="few">Dodano %d numery telefonu</item>
   </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Godzinę temu</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Godzinę temu</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pół godziny temu</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za godzinę</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pół godziny</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Natychmiast</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za minutę</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Teraz</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min temu</item>
+        <item quantity="one">Minutę temu</item>
+    </plurals>
+    <plurals name="base_time_hour_ago">
+        <item quantity="other">%d godz. temu</item>
+        <item quantity="one">Godzinę temu</item>
+    </plurals>
+    <plurals name="base_time_minute_ago">
+        <item quantity="other">%d min. temu</item>
+        <item quantity="one">Minutę temu</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pół godziny temu</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za godzinę</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pół godziny</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Natychmiast</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other"> %d min.</item>
+        <item quantity="one">za minutę</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Teraz</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d min. temu</item>
+        <item quantity="one">Minutę temu</item>
+    </plurals>
 </resources>
