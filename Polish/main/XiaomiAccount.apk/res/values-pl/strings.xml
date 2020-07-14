@@ -702,4 +702,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
   <string name="get_identity_auth_url_failed">"Nie udało się zweryfikować ID"</string>
+  <string name="copy_to_clipboard_successful">Pomyślnie skopiowano</string>
 </resources>

@@ -8142,4 +8142,16 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="location_modem_summary">Operatorzy będą wiedzieć o Twojej lokalizacji poprzez stacje bazowe</string>
   <string name="location_modem_title">Udostępniaj informację o lokalizacji operatorowi</string>
   <string name="permission_action_prompt">Pytaj</string>
+  <string name="accessibility_settings_tabs_general">Ogólne</string>
+  <string name="accessibility_settings_tabs_hearing">Słuch</string>
+  <string name="accessibility_settings_tabs_physical">Fizyczne</string>
+  <string name="accessibility_settings_tabs_visual">Wzrok</string>
+  <string name="ai_call_assistant">Połączenia SI</string>
+  <string name="hearing_aids_category">Narzędzia wspomagające słuch</string>
+  <string name="input_device_category">Urządzenie wejściowe</string>
+  <string name="security_input_enable">Bezpieczna klawiatura</string>
+  <string name="security_input_num_order">Uporządkowana</string>
+  <string name="security_input_num_random_order">Losowa</string>
+  <string name="security_input_num_setting_title">Klawiatura numeryczna</string>
+  <string name="voice_access">Kontrola głosem</string>
 </resources>
