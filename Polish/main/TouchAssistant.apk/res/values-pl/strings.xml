@@ -86,4 +86,5 @@
   <string name="edge_mode_custom_summary">Dostosuj rozmiar obszarów wybudzenia w pobliżu krawędzi</string>
   <string name="edge_mode_custom_title">Własny</string>
   <string name="edge_mode_default_title">Domyślny</string>
+  <string name="name_xiao_ai">SI Mi</string>
 </resources>

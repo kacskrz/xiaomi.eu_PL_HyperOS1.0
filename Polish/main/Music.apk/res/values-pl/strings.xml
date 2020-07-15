@@ -1261,4 +1261,18 @@ Be Happy"</string>
   <string name="columbus_player_install_now">ZAINSTALUJ TERAZ</string>
   <string name="columbus_player_learn_more">Dowiedz się więcej</string>
   <string name="supplementary_songs">Dodatkowe utwory</string>
+  <string name="audio_ad_countdown">Pomiń reklamę za %s sek.</string>
+  <string name="audio_ad_pass">Pomiń reklamę</string>
+  <string name="privacy_authorize_network_error">"Nie udało połaczyć się z siecią. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
+  <string name="privacy_authorize_revoke_failed">"Nie udało się odwołać autoryzacji"</string>
+  <string name="privacy_authorize_revoke_success">Pomyślnie odwołano autoryzację</string>
+  <string name="privacy_authorize_revoking">Odwoływanie autoryzacji…</string>
+  <string name="recommend_artist_title">Rekomendowani artyści</string>
+  <string name="remove_user_privacy_dialog_message">Po odwołaniu autoryzacji aplikacja Mi Muzyka zaprzestanie gromadzenia danych, a wszelkie powiązane z Tobą dane zostaną usunięte z serwerów Xiaomi. Może to spowodować, że aplikacja Muzyka stanie się wirtualnie bezużyteczna. Czy chcesz odwołać autoryzację mimo to?</string>
+  <string name="remove_user_privacy_dialog_title">Odwołanie autoryzacji</string>
+  <string name="user_privacy_dialog_negative_text">Anuluj</string>
+  <string name="user_privacy_dialog_positive_count_down_text">Odwołaj (%s sek.)</string>
+  <string name="user_privacy_dialog_positive_text">Odwołaj</string>
+  <string name="user_privacy_setting_group_title">Autoryzacja</string>
+  <string name="user_privacy_setting_title">Zmień pozycję przełącznika, aby przyznać bądź cofnąć autoryzację</string>
 </resources>

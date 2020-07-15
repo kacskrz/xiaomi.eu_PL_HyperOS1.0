@@ -1340,7 +1340,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="gb_wonderful_moment_toast_window_new_pop">"Nagraj kluczowe momenty
 Twojej gamingowej sesji"</string>
   <string name="gb_wonderful_video_goto_box">Otwórz Game Turbo</string>
-  <string name="gdpr_msg">Aplikacja wymaga dostępu do sieci, aby działać poprawnie. Ponadto w celu dostarczenia podstawowych funkcjonalności Panelu Sterowania Xiaomi będzie zapisywać niektóre osobiste dane, statystyki użytkowania i informacje o urządzeniu.</string>
+  <string name="gdpr_msg">Aplikacja wymaga dostępu do sieci, aby działać poprawnie. Ponadto w celu dostarczenia podstawowych funkcjonalności Panelu Sterowania Xiaomi będzie zapisywać niektóre osobiste dane, statystyki użytkowania i informacje o urządzeniu. Jeśli nie zgodzisz się na gromadzenie niektórych informacji, aplikacja wciąż będzie działać, jednak niektóre funkcje nie będą dla Ciebie dostępne.</string>
   <string name="get_sys_info">Uzyskiwanie danych…</string>
   <string name="gigabyteShort">" GB"</string>
   <string name="give_lucky_money">红包大派送</string>
@@ -3696,4 +3696,14 @@ Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć u
   <string name="settings_title">Bezpieczne udostępnianie</string>
   <string name="text_security">Prywatność</string>
   <string name="vb_quick_func_auto_bgm">Rozpoznawaj muzykę w tle</string>
+  <string name="clean_master_icon_recall_dialog_button_negative">Nie, dzięki</string>
+  <string name="clean_master_icon_recall_dialog_button_positive">Dodaj</string>
+  <string name="clean_master_icon_recall_dialog_summary">Dodaj skrót na pulpicie, aby wyczyścić śmieci wtedy, gdy tego chcesz.</string>
+  <string name="clean_master_icon_recall_dialog_title">Wyczyść śmieci szybciej</string>
+  <string name="clean_master_icon_recall_hint">Dodaj skrót na pulpicie</string>
+  <string name="gb_gpu_driver_btn_update">Sprawdź aktualizacje</string>
+  <string name="gb_gpu_driver_update">Aktualizacje sterowników GPU</string>
+  <string name="gb_gpu_driver_update_app">Zaktualizuj</string>
+  <string name="gb_gpu_driver_update_app_tips">Wersja jest aktualna</string>
+  <string name="vtb_function_video_translation">Tłumaczenie na żywo</string>
 </resources>
