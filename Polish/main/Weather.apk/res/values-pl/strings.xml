@@ -423,5 +423,5 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="settings_atmospheric_pressure_inhg">Cal słupa rtęci (inHg)</string>
   <string name="settings_atmospheric_pressure_mbar">Milibar (mbar)</string>
   <string name="settings_atmospheric_pressure_mmhg">Milimetr słupa rtęci (mmHg)</string>
-  <string name="settings_atmospheric_pressure_title">Jednostki ciśnienia atmosferycznego</string>
+  <string name="settings_atmospheric_pressure_title">Ciśnienie atmosferyczne</string>
 </resources>
