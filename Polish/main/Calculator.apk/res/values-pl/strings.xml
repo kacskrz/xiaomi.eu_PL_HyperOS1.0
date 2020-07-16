@@ -750,4 +750,15 @@ Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</st
     <string name="unit_data_display_currency_uzs">Som uzbecki</string>
     <string name="unit_data_display_currency_ves">Boliwar wenezuelski</string>
     <string name="unit_data_display_currency_yer">Rial jemeński</string>
+    <string name="investment_invalid_duration">Czas trwania inwestycji musi być dłuższy od zera</string>
+    <string name="investment_type_once">Jednorazowo</string>
+    <string name="investment_type_recurring">Cyklicznie</string>
+    <string name="item_page_title_investment">Kalkulator inwestycji</string>
+    <string name="item_title_investment">Inwestycje</string>
+    <string name="label_investment_duration">Czas trwania</string>
+    <string name="label_total_investment">Łączna inwestycja</string>
+    <string name="label_total_value">Łączna wartość</string>
+    <string name="tv_recurrence_monthly">Miesięcznie</string>
+    <string name="tv_recurrence_quaterly">Kwartalnie</string>
+    <string name="tv_recurrence_yearly">Rocznie</string>
 </resources>

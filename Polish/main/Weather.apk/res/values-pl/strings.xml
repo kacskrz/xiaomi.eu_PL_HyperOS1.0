@@ -424,4 +424,5 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="settings_atmospheric_pressure_mbar">Milibar (mbar)</string>
   <string name="settings_atmospheric_pressure_mmhg">Milimetr słupa rtęci (mmHg)</string>
   <string name="settings_atmospheric_pressure_title">Ciśnienie atmosferyczne</string>
+  <string name="international_details_humidity_title">Wilgotność</string>
 </resources>
