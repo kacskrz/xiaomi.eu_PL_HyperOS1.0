@@ -332,7 +332,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="kuyin_user_agreement_content_href">Polityki prywatności iFlytek</string>
   <string name="lab">Funkcje w fazie testów</string>
   <string name="like_list">Moje polubienia</string>
-  <string name="live_wallpaper">Animowane</string>
+  <string name="live_wallpaper">Dynamiczne</string>
   <string name="loading">Ładowanie...</string>
   <string name="loading_resource_detail_fail">Nie udało się wczytać zasobu!</string>
   <string name="loading_resource_detail_info">Ładowanie ...</string>
@@ -857,7 +857,7 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="title_component">Elementy motywu</string>
   <string name="title_my_audio_resource">Moje dzwonki</string>
   <string name="title_my_miwallpaper_desktop_effects">Efekty pulpitu</string>
-  <string name="title_my_miwallpaper_resource">Moje żywe tapety</string>
+  <string name="title_my_miwallpaper_resource">Moje dynamiczne tapety</string>
   <string name="title_my_miwallpaper_video_file_resource">Moje tapety wideo</string>
   <string name="title_my_wallpaper">Moje tapety</string>
   <string name="title_my_wallpaper_resource">Moje tapety</string>
@@ -1061,4 +1061,5 @@ dd.M."</string>
   <string name="settings_search_keyword_font_online">Czcionki online</string>
   <string name="settings_search_keyword_font_style">Format czcionki</string>
   <string name="settings_search_keyword_font_wechat">Czcionki WeChat</string>
+  <string name="font_trial_end_purchase">Kup czcionkę</string>
 </resources>
