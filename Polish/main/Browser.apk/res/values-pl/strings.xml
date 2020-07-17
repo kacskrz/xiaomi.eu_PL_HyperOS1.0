@@ -1788,4 +1788,9 @@ Spróbuj tego:"</string>
   <string name="book_mark_spinner_name">Grupowanie</string>
   <string name="new_copy_address">Ostatnio skopiowany URL</string>
   <string name="new_copy_content">Ostatnio skopiowana zawartość</string>
+  <string name="download_confirm_dialog_title">Alert bezpieczeństwa</string>
+  <string name="download_proceed">Normalne pobieranie</string>
+  <string name="download_risk_alert_content">Gra nie jest zweryfikowana. Wybierając normalne pobieranie potwierdzasz, że bierzesz odpowiedzialność za ryzyko i konsekwencje jej instalacji.</string>
+  <string name="download_safe">Bezpieczne pobieranie</string>
+  <string name="saved_sucess">Pomyślnie zapisano</string>
 </resources>
