@@ -961,7 +961,7 @@
      <string name="app_disclaimer_content">Ta funkcja jest dostarczana przez %1$s. %1$s ponosi pełną odpowiedzialność za dostarczane usługi. Jeśli masz jakieś pytania, możesz się skontaktować ze wsparciem firmy %1$s.</string>
      <string name="app_disclaimer_title">Informacja</string>
      <string name="base_time_just_now">Teraz</string>
-     <string name="base_time_month">dd.MM.</string>
+     <string name="base_time_month">dd.MM</string>
      <string name="base_time_year">dd.MM.yyyy</string>
      <string name="base_year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>
      <string name="base_yesterday">Wczoraj</string>

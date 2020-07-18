@@ -176,10 +176,10 @@ Jeśli zdecydujesz się na usunięcie danych po tym, jak wybrałeś ich zapisani
      <string name="data_source_not_support_hm_description">"%1$s nie zapewnia szczegółowych danych na temat liczenia kroków. Możesz spróbować przełączyć się na inne źródło danych w zakładce Więcej > Źródła danych."</string>
      <string name="date">Data</string>
      <!-- nie ruszać formatów - zignorować - początek -->
-     <string name="date_format_m_d_3">dd.MM.</string>
-     <string name="date_format_m_d_h_m">dd.MM. HH:mm</string>
+     <string name="date_format_m_d_3">dd.MM</string>
+     <string name="date_format_m_d_h_m">dd.MM HH:mm</string>
      <string name="date_format_mm_dd">d MMM</string>
-     <string name="date_format_mm_dd_2">dd.MM.</string>
+     <string name="date_format_mm_dd_2">dd.MM</string>
      <string name="date_format_y_m_d_2">dd MMM yyyy</string>
      <string name="date_format_y_m_d_h_m_2">dd MMM yyyy HH:mm</string>
      <string name="date_format_y_m_d_h_m_3">dd.MM.yyyy HH:mm</string>
@@ -334,10 +334,10 @@ Jeśli po upływie 30 minut od położenia się do łóżka wciąż nie możesz 
      <string name="fmt_chinese_date">N月e</string>
      <string name="fmt_date_long_month_day">dd MMMM</string>
      <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-     <string name="fmt_date_numeric_month_day">dd.MM.</string>
+     <string name="fmt_date_numeric_month_day">dd.MM</string>
      <string name="fmt_date_numeric_year_month">MM.yyyy</string>
      <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
-     <string name="fmt_date_short_month_day">dd.MM.</string>
+     <string name="fmt_date_short_month_day">dd.MM</string>
      <string name="fmt_date_short_year_month_day">dd.MM.yyyy</string>
      <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
      <!-- nie ruszać formatów - zignorować - koniec -->

@@ -29,10 +29,10 @@
     <string name="aod_lock_screen_date">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12_smartcover">"EE
-dd.MM."</string>
+dd.MM"</string>
     <string name="aod_lock_screen_date_smartcover">"EE
-dd.MM."</string>
-    <string name="aod_lock_screen_date_smartcover_b">EE dd.MM.</string>
+dd.MM"</string>
+    <string name="aod_lock_screen_date_smartcover_b">EE dd.MM</string>
     <string name="aod_mode_preview">Podgląd</string>
     <string name="aod_mode_style">Styl i tło zegara</string>
     <string name="aod_mode_style_title">Więcej opcji</string>
@@ -222,12 +222,12 @@ dd.MM."</string>
     <string name="wednesday_shortest">Ś</string>
     <string name="yesterday">Wczoraj</string>
     <string name="super_wallpaper_date">"EE
-dd.M."</string>
+dd.MM"</string>
     <string name="aod_lock_screen_date_12_signature">d.M.</string>
     <string name="aod_lock_screen_date_signature">d.M.</string>
     <string name="disable_aod_in_dark_room">Wyłącz, gdy telefon leży w ciemności</string>
     <string name="super_wallpaper_date_inter">"EEEE
-dd.M."</string>
+dd.MM"</string>
     <string name="aod_component">Wyświetlane elementy</string>
     <string name="component_battery">Bateria</string>
     <string name="component_date_time">Data i godzina</string>

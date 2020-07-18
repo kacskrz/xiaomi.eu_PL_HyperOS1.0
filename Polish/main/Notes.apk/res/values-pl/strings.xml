@@ -260,7 +260,7 @@
   <string name="repeat_mode_set_item_week_detail">Co tydzień (%s)</string>
   <string name="repeat_mode_set_item_year">Co rok (%s)</string>
   <string name="repeat_mode_set_item_year_detail">Co rok (%s)</string>
-  <string name="repeat_mode_set_item_year_detail_day">dd.MM.</string>
+  <string name="repeat_mode_set_item_year_detail_day">dd.MM</string>
   <string name="repeat_mode_set_title">Powtarzaj</string>
   <string name="repeat_mode_week">Co tydzień</string>
   <string name="repeat_mode_year">Co rok</string>
@@ -385,8 +385,8 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="todo_notify_alarm_title">Przypomnienie o zadaniu</string>
   <string name="todo_schedule_time_expired">" (wygasło)"</string>
   <string name="todo_schedule_time_for_picker_hm">H:mm</string>
-  <string name="todo_schedule_time_md">dd.MM.</string>
-  <string name="todo_schedule_time_mdhm">dd.MM. HH:mm</string>
+  <string name="todo_schedule_time_md">dd.MM</string>
+  <string name="todo_schedule_time_mdhm">dd.MM HH:mm</string>
   <string name="todo_schedule_time_repeat_day">, codziennie</string>
   <string name="todo_schedule_time_repeat_month">, co miesiąc</string>
   <string name="todo_schedule_time_repeat_normal_workday">, od poniedziałku do piątku</string>

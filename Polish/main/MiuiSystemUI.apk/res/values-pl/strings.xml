@@ -2247,8 +2247,8 @@ Wygląda na to, że magazyn danych logowania nie jest włączony."</string>
     <string name="small_window_notification_title">Pływające okna</string>
     <string name="wifi_security_none_owe">Brak/Enhanced Open</string>
     <string name="wifi_security_short_none_owe">Brak/OWE</string>
-    <string name="status_bar_clock_date_weekday_format">EEE, dd.MM.</string>
-    <string name="status_bar_clock_date_weekday_format_12">EEE, dd.MM.</string> 
+    <string name="status_bar_clock_date_weekday_format">EEE, dd.MM</string>
+    <string name="status_bar_clock_date_weekday_format_12">EEE, dd.MM</string> 
     <string name="bluetooth_paired">Zapisano</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">Dane mobilne zostaną wyłączone. Dopóki nie użyjesz sieci Wi-Fi, aplikacje, które wymagają połączenia z Internetem, nie będą normalnie działać. Nadal będzie można wysyłać MMS-y. Wyłączyć mimo to?</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Włączone zostaną dane mobilne. Może to powodować naliczenie dodatkowych opłat przez operatora zgodnie z Twoją taryfą. Włączyć mimo to?</string>

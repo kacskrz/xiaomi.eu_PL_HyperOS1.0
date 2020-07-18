@@ -320,7 +320,7 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
-  <string name="month_day_format">dd.MM.</string>
+  <string name="month_day_format">dd.MM</string>
   <string name="move_file_success">Pomyślnie przeniesiono</string>
   <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
   <string name="music_picker_title">Wybierz muzykę</string>
