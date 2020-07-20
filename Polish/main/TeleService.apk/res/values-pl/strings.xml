@@ -1751,9 +1751,11 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="dialog_ota_change_number_lgu_roaming">"Nie można zmieniać numerów telefonu w roamingu."</string>
   <string name="dialog_ota_change_number_processing">Pobieranie karty SIM…</string>
   <string name="dialog_ota_change_number_success">Pomyślnie zmieniono numer telefonu</string>
-  <string name="smart_dual_sim_prompt">Gdy obecny zasięg jest kiepski, Twoje urządzenie połączy się z siecią z danymi mobilnymi za pomocą drugiej karty SIM. Może to generować dodatkowe opłaty przez operatora. Skontaktuj się ze swoim operatorem, aby uzyskać szczegóły dotyczące Twojej taryfy.</string>
+  <string name="smart_dual_sim_prompt">Gdy obecny zasięg jest kiepski, Twoje urządzenie połączy się z siecią z danymi mobilnymi za pomocą drugiej karty SIM. Może to generować dodatkowe opłaty przez operatora. Aby ograniczyć takie ryzyko, ustaw limit zużycia danych mobilnych.</string>
   <string name="smart_dual_sim_summary">Przełącz się na drugą kartę SIM i korzystaj z jej danych mobilnych automatycznie wtedy, gdy obecny zasięg jest kiepski. Gdy się on polepszy, telefon powróci do domyślnej karty SIM.</string>
   <string name="smart_dual_sim_title">Inteligentny dual SIM</string>
   <string name="fiveg_sa_switch_title_slot0">SIM 1 - tryb SA</string>
   <string name="fiveg_sa_switch_title_slot1">SIM 2 - tryb SA</string>
+  <string name="smart_dual_sim_prompt_ok">Ustawienia</string>
+  <string name="smart_dual_sim_prompt_title">Ostrzeżenie dot. użycia danych (SIM %s)</string>
 </resources>

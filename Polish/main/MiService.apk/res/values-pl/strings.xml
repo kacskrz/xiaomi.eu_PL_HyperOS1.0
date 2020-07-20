@@ -177,4 +177,5 @@
     <string name="share_not_install_weibo">Najpierw zainstaluj Weibo</string>
     <string name="share_success">Pomyślnie udostępniono</string>
     <string name="share_title">Udostępnij</string>
+    <string name="miui_guide_menu_privacy">Polityka prywatności</string>
 </resources>

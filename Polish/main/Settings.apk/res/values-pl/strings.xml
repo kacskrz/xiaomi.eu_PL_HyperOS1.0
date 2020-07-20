@@ -1872,7 +1872,7 @@ Ustawienie dotyczy wszystkich użytkowników tego urządzenia."</string>
   <string name="day_of_week">Kiedy</string>
   <string name="dc_light_dialog_summary">Jakość obrazu może zostać obniżona, gdy włączone jest Ograniczenie migotania. Włączyć ten tryb mimo to?</string>
   <string name="dc_light_summary">Zastosuj ściemnianie DC, aby zmniejszyć zmęczenie oczu</string>
-  <string name="dc_light_summary_new">Ściemnianie DC ogranicza męczenie się oczu w słabych warunkach oświetleniowych. Gdy ta funkcja jest włączona, jakość obrazu może się pogorszyć.</string>
+  <string name="dc_light_summary_new">Zapobiegaj intensywnemu migotaniu i zmniejsz zmęczenie oczu w słabych warunkach oświetleniowych</string>
   <string name="dc_light_title">Ograniczenie migotania</string>
   <string name="debug_app">Aplikacja do debugowania</string>
   <string name="debug_app_not_set">Nie ustawiono aplikacji do debugowania</string>
@@ -8154,4 +8154,10 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="security_input_num_random_order">Losowa</string>
   <string name="security_input_num_setting_title">Klawiatura numeryczna</string>
   <string name="voice_access">Kontrola głosem</string>
+  <string name="app_function">Funkcja aplikacji</string>
+  <string name="forget_passpoint_wifi_message">Twój telefon przestanie łączyć się automatycznie z tą siecią.</string>
+  <string name="passpoint_r1_privacy_dialog_no">Anuluj</string>
+  <string name="passpoint_r1_privacy_dialog_title">Uwaga</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">Polityka prywatności</string>
+  <string name="passpoint_r1_privacy_dialog_yes">Zgadzam się i kontynuuję</string>
 </resources>

@@ -119,4 +119,10 @@
   <string name="wifi_unsaved_network_linking_summary">Włącz automatyczne próby połączenia się z nowym SSID z zabezpieczeniami WPA/WPA2-PSK w paśmie 5 GHz za pomocą danych logowania do sieci SSID WPA/WPA2-PSK w paśmie 2 GHz w momencie, gdy SSID i BSSID częściowo się zgadzają</string>
   <string name="wifi_whitelist_roaming">Most SSID - Fast Handover</string>
   <string name="wifi_whitelist_roaming_summary">Włącz roaming pomiędzy różnymi punktami dostępu SSID WPA/WPA2-PSK z takim samym adresem MAC bramy domyślnej</string>
+  <string name="audio_relay_default_device_name">Głośniki Mi SI</string>
+  <string name="mi_audio_relay_cancel">Połączono</string>
+  <string name="mi_audio_relay_connect_failed">Nie udało się połączyć</string>
+  <string name="mi_audio_relay_localphone">Telefon</string>
+  <string name="mi_audio_relay_phone_name">Telefon Xiaomi</string>
+  <string name="mi_audio_relay_title">Wybierz urządzenia do odtwarzania</string>
 </resources>

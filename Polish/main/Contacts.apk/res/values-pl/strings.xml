@@ -1432,4 +1432,7 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="wednesday">Środa</string>
   <string name="wednesday_short">Śr</string>
   <string name="wednesday_shortest">Ś</string>
+  <string name="theme_dialog_confirm_button">Rozumiem</string>
+  <string name="theme_dialog_confirm_content">"Obecna wersja aplikacji Kontakty nie wspiera obecnie zastosowanego motywu."</string>
+  <string name="theme_dialog_confirm_title">"Nie można zastosować motywu"</string>
 </resources>

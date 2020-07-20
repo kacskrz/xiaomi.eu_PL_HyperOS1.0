@@ -197,4 +197,6 @@
   <string name="switch_audio_dialog_title">Przełącz dźwięk na</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
+  <string name="ringtone_output_device_summary">W momencie, gdy podłączone jest zewnętrzne urządzenie (słuchawki przewodowe bądź bezprzewodowe) i włączona jest ta opcja, dzwonek telefonu bądź dźwięk powiadomienia będzie odtwarzany także z głośnika telefonu</string>
+  <string name="ringtone_output_device_title">Dzwonek z głośnika</string>
 </resources>

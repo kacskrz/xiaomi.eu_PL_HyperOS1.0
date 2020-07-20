@@ -764,4 +764,33 @@
   <string name="yesterday">Wczoraj</string>
   <string name="clean_long_msg">"Czyszczenie %1$d plików, ukończono: %2$d 
 %3$d%% / Pozostało: %4$s"</string>
+  <string name="clean_master_icon_recall_button_text">Dodaj</string>
+  <string name="clean_master_icon_recall_dialog_button_negative">Nie, dzięki</string>
+  <string name="clean_master_icon_recall_dialog_button_positive">Dodaj</string>
+  <string name="clean_master_icon_recall_dialog_summary">Dodaj skrót na pulpicie, aby wyczyścić śmieci wtedy, gdy tego chcesz.</string>
+  <string name="clean_master_icon_recall_dialog_title">Wyczyść śmieci szybciej</string>
+  <string name="clean_master_icon_recall_hint">Dodaj skrót na pulpicie</string>
+  <string name="clean_master_icon_recall_summary">Dodaj skrót na pulpicie, aby usunąć śmieci wtedy, gdy tego chcesz.</string>
+  <string name="clean_master_icon_recall_title">Czyść śmieci szybciej</string>
+  <string name="clean_master_icon_recall_toast_text">Pomyślnie dodano skrót do Czyszczenia na pulpicie</string>
+  <string name="menu_text_optimize_manage_1">Przyspiesz urządzenie</string>
+  <string name="notification_apk_clean_button_text">Wyczyść</string>
+  <string name="notification_garbage_clean_botton_text">Wyczyść</string>
+  <string name="notification_garbage_clean_hint">Wyczyść pamięć urządzenia</string>
+  <string name="notification_garbage_clean_size">Zwolnij %s</string>
+  <string name="notification_installed_clean_size">Zwolnij %2$s po instalacji aplikacji %1$s</string>
+  <string name="notification_low_storage_button_text">Wyczyść</string>
+  <string name="notification_low_storage_size_1.5_GB">Pozostało mniej niż %.1f GB miejsca</string>
+  <string name="notification_low_storage_size_1.5_GB_btn">Wyczyść</string>
+  <string name="notification_low_storage_size_1.5_GB_hint">Zwolnij miejsce, aby przyspieszyć urządzenie</string>
+  <string name="notification_low_storage_size_1_GB">Pozostało mniej niż %d GB miejsca</string>
+  <string name="notification_low_storage_size_1_GB_hint">Skorzystaj z Głębokiego czyszczenia</string>
+  <string name="notification_memory_clean_button_text">Przyspiesz</string>
+  <string name="notification_memory_clean_hint">Dotknij, aby przyspieszyć urządzenie</string>
+  <string name="notification_memory_clean_used_size">Zajęta przestrzeń: %s</string>
+  <string name="notification_uninstalled_clean_button_text">Wyświetl</string>
+  <string name="notification_uninstalled_clean_with_name">Pozostałe elementy aplikacji %s</string>
+  <string name="notification_uninstalled_clean_without_name">Odinstalowane aplikacje pozostawiły po sobie zbędne rzeczy</string>
+  <string name="notification_whatsapp_clean_button_text">Wyczyść</string>
+  <string name="notification_whatsapp_clean_size">Pamięć podręczna WhatsAppa osiągnęła %s</string>
 </resources>

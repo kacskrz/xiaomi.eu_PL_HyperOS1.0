@@ -2746,7 +2746,7 @@ W trakcie kalibracji, MIUI wyśle wiadomość tekstową do Twojego operatora, ab
   <string name="st_call_other_group">Inne</string>
   <string name="st_call_settings">Blokowanie połączeń</string>
   <string name="st_call_stranger_group">Połączenia od nieznajomych</string>
-  <string name="st_confirm_dialog_btn_open">Otwórz</string>
+  <string name="st_confirm_dialog_btn_open">Zablokuj</string>
   <string name="st_confirm_dialog_summary_contact_call">Wszystkie połączenia od kontaktów zostaną zablokowane.</string>
   <string name="st_confirm_dialog_summary_oversea_call">Wszystkie połączenia od zagranicznych numerów zostaną zablokowane.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Wszystkie połączenia od nieznanych numerów zostaną zablokowane.</string>
@@ -3645,7 +3645,8 @@ Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć u
   <string name="intl_perm_privacy_control_title">Kontroluj prywatność</string>
   <string name="warningcenter_disaster_search_keywords">Alerty pogodowe</string>
   <string name="warningcenter_mijia_search_keywords">Alerty z aplikacji Mi Home</string>
-  <string name="memory_clean_no_need_clean_1" formatted="false">Zwolniono %s. Twoje urządzenie jest teraz szybsze o %d%%.</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">Zwolniono %s.
+Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="menu_summary_optimize_manage">Wyczyść pamięć</string>
   <string name="menu_summary_optimize_manage_1">Przyspiesz urządzenie o %d%%</string>
   <string name="menu_text_optimize_manage_1">Przyspiesz działanie</string>
