@@ -305,4 +305,9 @@
   <string name="bluetooth_enable_notification_title">Bluetooth jest włączony</string>
   <string name="content_description_next">Dalej</string>
   <string name="content_description_previous">Wstecz</string>
+  <string name="application_cannot_open_alipay_payment_code">"Nie udało się otworzyć kodu płatności Alpay"</string>
+  <string name="application_cannot_open_alipay_scanner">"Nie udało się otworzyć skanera Alipay"</string>
+  <string name="application_cannot_open_weixin_payment_code">"Nie udało się otworzyć kodu płatności WeChat"</string>
+  <string name="application_cannot_open_weixin_scanner">"Nie udało się otworzyć skanera WeChat"</string>
+  <string name="application_not_install_content">"Wygląda na to, że aplikacja wykonująca tą akcję nie jest zainstalowana na Twoim urządzeniu. Możesz ją zainstalować bądź przypisać do tego gestu inną akcję."</string>
 </resources>

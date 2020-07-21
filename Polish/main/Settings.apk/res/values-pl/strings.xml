@@ -8160,4 +8160,8 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="passpoint_r1_privacy_dialog_title">Uwaga</string>
   <string name="passpoint_r1_privacy_dialog_url_text">Polityka prywatności</string>
   <string name="passpoint_r1_privacy_dialog_yes">Zgadzam się i kontynuuję</string>
+  <string name="input_method_function_switch_keyboard_language">Przełączaj języki</string>
+  <string name="input_method_function_switch_keyboard_language_des">Dotknij, aby przełączać się pomiędzy językami klawiatury</string>
+  <string name="input_method_function_switch_keyboard_type">Przełączaj klawiatury</string>
+  <string name="input_method_function_switch_keyboard_type_des">Dotknij, aby przełączać się pomiędzy klawiaturami</string>
 </resources>
