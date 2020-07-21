@@ -124,5 +124,5 @@
   <string name="mi_audio_relay_connect_failed">Nie udało się połączyć</string>
   <string name="mi_audio_relay_localphone">Telefon</string>
   <string name="mi_audio_relay_phone_name">Telefon Xiaomi</string>
-  <string name="mi_audio_relay_title">Wybierz urządzenia do odtwarzania</string>
+  <string name="mi_audio_relay_title">Wybierz urządzenie do odtwarzania</string>
 </resources>
