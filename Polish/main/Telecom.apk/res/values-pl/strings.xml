@@ -150,6 +150,8 @@ współczynnik próbkowania"</string>
   <string name="no_vm_number_msg">Na karcie SIM nie ma zapisanego numeru poczty głosowej.</string>
   <string name="notification_AllMissedCallTitle">Wszystkie nieodebrane</string>
   <string name="notification_channel_call_blocking">Blokowanie połączeń</string>
+  <string name="notification_channel_incoming_call">Przychodzące połączenia</string>
+  <string name="notification_channel_missed_call">Nieodebrane połączenia</string>
   <string name="notification_missedCallTicker">Nieodebrane połączenie z %s</string>
   <string name="notification_missedCallTitle">Nieodebrane połączenie</string>
   <string name="notification_missedCall_call_back">Oddzwoń</string>

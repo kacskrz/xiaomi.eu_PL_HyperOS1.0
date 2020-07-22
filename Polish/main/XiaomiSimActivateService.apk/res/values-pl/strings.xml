@@ -80,7 +80,6 @@ Wpisz numer powiązany z nową kartą SIM aby aktywować ponownie %s"</string>
   <string name="activate_popup_title_manual">Aktywuj %s</string>
   <string name="activate_popup_title_new_sim_card">Zarejestruj ponownie %s</string>
   <string name="activate_popup_title_register_account">Utwórz konto Xiaomi</string>
-  <string name="activate_sms_postfix">Ten SMS jest używany do aktywacji Twoich usług Xiaomi</string>
   <string name="activate_status_desc_acquire_phone_number">Uzyskiwanie numeru telefonu...</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Wystąpił błąd podczas uzyskiwania numeru.</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Nie można uzyskać numeru telefonu"</string>
