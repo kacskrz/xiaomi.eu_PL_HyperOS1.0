@@ -128,4 +128,11 @@
   <string name="volte_provisioned_switch_string">Obsługa głosu przez LTE włączona</string>
   <string name="vt_provisioned_switch_string">Możliwość prowadzenia rozmów wideo</string>
   <string name="wfc_provisioned_switch_string">Możliwość prowadzenia rozmów przez Wi-Fi</string>
+  <string name="limited_service_alert_dialog_description"><b>Połączenia alarmowe poprzez Wi-Fi Calling</b>"
+Nie można wykonywać połączeń alarmowych poprzez Wi-Fi Calling. 
+
+Aby wykonać takie połączenie, urządzenie automatycznie przełączy się na sieci komórkowe (2G/3G).
+
+Połączenia alarmowe są możliwe wyłącznie na obszarach z zasięgiem sieci komórkowej."</string>
+  <string name="media_transfer_wired_usb_device_name">Słuchawki przewodowe</string>
 </resources>

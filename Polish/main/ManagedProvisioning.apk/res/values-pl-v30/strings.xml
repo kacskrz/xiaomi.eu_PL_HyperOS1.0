@@ -12,10 +12,10 @@
     <string name="cross_profile_notification_text">Uzyskuj dostęp zarówno do danych służbowych, jak i osobistych. Kliknij, by skonfigurować.</string>
     <string name="cross_profile_notification_title">Połącz aplikacje do pracy i osobiste</string>
 <!-- not translated -->
-    <string name="financed_device_screen_header">To urządzenie dostarczane jest przez %1$s</string>
-    <string name="install_creditor_app_description">Zainstaluj aplikację %1$s na tym urządzeniu</string>
+    <string name="financed_device_screen_header">To urządzenie zostało zakupione na kredyt z %1$s</string>
+    <string name="install_creditor_app_description">Zainstaluj aplikację %1$s na tym urządzeniu, dzięki której będzie można dokonywać płatności za to urządzenie</string>
     <string name="just_a_sec">Chwileczkę…</string>
-    <string name="lock_device_description">"Zablokuj to urządzenie, jeśli nie dokonujesz płatności"</string>
+    <string name="lock_device_description">"Ogranicz dostęp do tego urządzenia, jeśli nie dokonujesz płatności"</string>
     <string name="now_lets_set_up_everything_else">Dodaj konto osobiste, aby w pełni korzystać ze swojego urządzenia</string>
     <string name="now_lets_set_up_everything_else_explanation">Twój profil do pracy jest już gotowy. Możesz dodać osobiste konto Google, by mieć dostęp do swoich aplikacji i materiałów.</string>
     <string name="reset_device">Zresetuj urządzenie i ponownie spróbuj skonfigurować</string>

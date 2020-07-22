@@ -37,8 +37,9 @@
          <item quantity="one">Usunąć %1$d wiadomość roboczą?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d zaznaczonych</item>
-        <item quantity="one">%d zaznaczony</item>
+        <item quantity="other">Dodano %d kontaktów</item>
+        <item quantity="one">Dodano %d kontakt</item>
+        <item quantity="few">Dodano %d kontakty</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d zaznaczonych</item>
@@ -164,5 +165,47 @@
        <item quantity="other">%d miesięcy</item>
        <item quantity="one">%d miesiąc</item>
        <item quantity="few">%d miesiące</item>
+     </plurals>
+     <plurals name="number_of_day_after">
+         <item quantity="one">%1$d dzień później</item>
+         <item quantity="other">%1$d dni później</item>
+     </plurals>
+     <plurals name="number_of_day_before">
+         <item quantity="one">%1$d dzień temu</item>
+         <item quantity="other">%1$d dni temu</item>
+     </plurals>
+     <plurals name="number_of_hour_after">
+         <item quantity="one">%1$d godz. później</item>
+         <item quantity="other">%1$d godz. później</item>
+     </plurals>
+     <plurals name="number_of_hour_before">
+         <item quantity="one">%1$d godz. temu</item>
+         <item quantity="other">%1$d godz. temu</item>
+     </plurals>
+     <plurals name="number_of_minute_after">
+         <item quantity="one">%1$d min. później</item>
+         <item quantity="other">%1$d min. później</item>
+     </plurals>
+     <plurals name="number_of_minute_before">
+         <item quantity="one">%1$d min. temu</item>
+         <item quantity="other">%1$d min. temu</item>
+     </plurals>
+     <plurals name="number_of_second_after">
+         <item quantity="one">%1$d sek. później</item>
+         <item quantity="other">%1$d sek. później</item>
+     </plurals>
+     <plurals name="number_of_second_before">
+         <item quantity="one">%1$d sek. temu</item>
+         <item quantity="other">%1$d sek. temu</item>
+     </plurals>
+     <plurals name="number_of_week_after">
+         <item quantity="one">%1$d tydzień później</item>
+         <item quantity="few">%1$d tygodnie później</item>
+         <item quantity="other">%1$d tygodni później</item>
+     </plurals>
+     <plurals name="number_of_week_before">
+         <item quantity="one">%1$d tydzień temu</item>
+         <item quantity="few">%1$d tygodnie temu</item>
+         <item quantity="other">%1$d tygodni temu</item>
      </plurals>
 </resources>

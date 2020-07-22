@@ -112,4 +112,5 @@ Każdy użytkownik może aktualizować aplikacje wszystkich innych użytkownikó
     <string name="wifi_enhanced_mac_randomization">Randomizacja MAC ulepszona w zakresie Wi‑Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Kiedy ten tryb jest włączony, to adres MAC tego urządzenia może zmieniać się za każdym razem, kiedy urządzenie połączy się z siecią, która ma włączoną opcję randomizacji MAC.</string>
     <string name="wifi_passpoint_expired">Ważność wygasła</string>
+    <string name="media_transfer_wired_usb_device_name">Słuchawki przewodowe</string>
 </resources>

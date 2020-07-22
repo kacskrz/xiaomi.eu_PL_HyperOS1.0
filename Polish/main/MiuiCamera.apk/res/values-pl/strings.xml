@@ -1401,4 +1401,18 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="pref_multi_camera_dual_video_front">Przedni aparat</string>
   <string name="user_disagree">"Nie zgadzam się"</string>
   <string name="custom_watermark_tips_gen2" formatted="false">Maksymalnie %d chińskich znaków lub %d liter.</string>
+  <string name="lighting_bright_red">Szkarłat</string>
+  <string name="lighting_dazzling">Błysk</string>
+  <string name="lighting_dreamland">Świat marzeń</string>
+  <string name="lighting_gorgeous">Mieszanie</string>
+  <string name="lighting_lanshan">Dekadencja</string>
+  <string name="lighting_movie_light_effect_title">Efekty kinowe</string>
+  <string name="lighting_neon">Neon</string>
+  <string name="lighting_nostalgia">Nostalgia</string>
+  <string name="lighting_phantom">Fantom</string>
+  <string name="lighting_rainbow">Tęcza</string>
+  <string name="pref_audio_denoise_title">Redukcja szumu w dźwięku</string>
+  <string name="pref_menu_ai_ultra_pixel_photography">SI %s</string>
+  <string name="ultra_ai_pixel_photography_close_tip">SI %s Ultra HD wył.</string>
+  <string name="ultra_ai_pixel_photography_open_tip">SI %s Ultra HD</string>
 </resources>

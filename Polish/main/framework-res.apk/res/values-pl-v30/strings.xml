@@ -133,7 +133,7 @@
   <string name="permlab_systemCamera">Zezwól na dostęp aplikacji lub usługi do aparatów systemu i robienie zdjęć oraz nagrywanie filmów</string>
   <string name="personal_apps_suspended_turn_profile_on">Włącz profil do pracy</string>
   <string name="personal_apps_suspension_text">Zablokowano aplikacje osobiste do czasu włączenia profilu do pracy</string>
-  <string name="personal_apps_suspension_title">Włącz profil do pracy</string>
+  <string name="personal_apps_suspension_title">Włącz</string>
   <string name="personal_apps_suspension_tomorrow_text">Twoje aplikacje osobiste zostaną zablokowane jutro</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">Kod PIN odblokowujący dane korporacyjne na karcie RUIM</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">Nie udało się zrealizować żądania odblokowania danych korporacyjnych na karcie RUIM.</string>
@@ -273,4 +273,6 @@
   <string name="volume_icon_description_media">Głośność multimediów</string>
   <string name="volume_icon_description_notification">Głośność powiadomień</string>
   <string name="volume_icon_description_ringer">Głośność dzwonka</string>
+  <string name="tethered_notification_title">Tethering bądź hotspot aktywny</string>
+  <string name="personal_apps_suspension_soon_text">Aplikacje osobiste zostaną zablokowane na %1$s o %2$s. Twój administrator IT nie zezwala na wyłączenie profilu do pracy przez ponad %3$d dni.</string>
 </resources>

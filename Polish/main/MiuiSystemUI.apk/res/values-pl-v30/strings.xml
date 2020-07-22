@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Korekcja kolorów pozwala na dostosowanie sposobu wyświetlania kolorów na urządzeniu</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Ta funkcja jest eksperymentalna i może wpływać na wydajność.</string>
     <string name="accessibility_work_profile_app_description">Praca %s</string>
     <string name="accessor_expires_text">Dzierżawa wygasa: %s</string>
     <string name="accessor_info_title">Aplikacje, które udostępniają dane</string>
@@ -39,10 +39,10 @@
     <string name="blob_expires_text">Wygasają: %s</string>
     <string name="blob_id_text">Identyfikator udostępnianych danych: %d</string>
 <!-- change for and11 -->
-    <string name="bluetooth_connected_battery_level">Połączono, bateria: %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">Połączono (bez multimediów), bateria %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Połączono (bez telefonu), batteria %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Połączono (bez multimediów/telefonu), bateria %1$s%2$s</string>
+    <string name="bluetooth_connected_battery_level">Połączono, bateria: %1$s %2$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">Połączono (bez multimediów), bateria %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Połączono (bez telefonu), bateria %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Połączono (bez multimediów/telefonu), bateria %1$s %2$s</string>
     <string name="bluetooth_enable_gabeldorsche">Włącz Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Włącza funkcje Bluetooth Gabeldorsche.</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Elementy wyszarzone nie są obsługiwane przez telefon lub zestaw słuchawkowy</string>
@@ -75,8 +75,8 @@
     <string name="media_transfer_wired_device_name">Przewodowe urządzenie audio</string>
     <string name="power_charging_duration">%1$s – do naładowania %2$s</string>
     <string name="power_remaining_charging_duration_only">Do naładowania %1$s</string>
-    <string name="power_remaining_duration_only_shutdown_imminent">Wkrótce telefon może się wyłączyć</string>
-    <string name="power_remaining_duration_shutdown_imminent">Telefon może się wkrótce wyłączyć (%1$s)</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">Wkrótce Twoje urządzenie może się wyłączyć</string>
+    <string name="power_remaining_duration_shutdown_imminent">Urządzenie może się wkrótce wyłączyć (%1$s)</string>
     <string name="power_remaining_less_than_duration">Pozostało mniej niż %1$s (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Pozostało mniej niż %1$s</string>
     <string name="power_remaining_more_than_subtext">Pozostało mniej niż %1$s (%2$s)</string>
@@ -122,4 +122,35 @@ Każdy użytkownik może aktualizować aplikacje wszystkich innych użytkownikó
     <string name="wifi_enhanced_mac_randomization">Randomizacja MAC ulepszona w zakresie Wi‑Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Kiedy ten tryb jest włączony, to adres MAC tego urządzenia może zmieniać się za każdym razem, kiedy urządzenie połączy się z siecią, która ma włączoną opcję randomizacji MAC.</string>
     <string name="wifi_passpoint_expired">Ważność wygasła</string>
+    <string name="biometric_dialog_authenticated">Zweryfikowano</string>
+    <string name="biometric_dialog_credential_attempts_before_wipe">Spróbuj ponownie. Próba %1$d z %2$d.</string>
+    <string name="biometric_dialog_credential_too_many_attempts">"Zbyt wiele niepoprawnych prób.
+Spróbuj ponownie za %d sekund."</string>
+    <string name="biometric_dialog_empty_space_description">Dotknij, aby anulować weryfikację</string>
+    <string name="biometric_dialog_face_icon_description_authenticated">Zweryfikowano twarz</string>
+    <string name="biometric_dialog_face_icon_description_authenticating">Sprawdzanie Twojej twarzy</string>
+    <string name="biometric_dialog_face_icon_description_confirmed">Potwierdzono</string>
+    <string name="biometric_dialog_face_icon_description_idle">Spróbuj ponownie</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_device">Zbyt wiele niepoprawnych prób. Dane tego urządzenia zostaną usunięte.</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_profile">Zbyt wiele niepoprawnych prób. Ten profil służbowy oraz jego dane zostaną usunięte.</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_user">Zbyt wiele niepoprawnych prób. Ten użytkownik zostanie usunięty.</string>
+    <string name="biometric_dialog_last_attempt_before_wipe_dialog_title">Twoje dane zostaną usunięte</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_device">Jeśli przy następnej próbie wprowadzisz niepoprawne hasło, dane tego urządzenia zostaną usunięte.</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_profile">Jeśli przy następnej próbie wprowadzisz niepoprawne hasło, Twój profil służbowy i jego dane zostaną usunięte.</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_user">Jeśli przy następnej próbie wprowadzisz niepoprawne hasło, ten użytkownik zostanie usunięty.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_device">Jeśli przy następnej próbie wprowadzisz niepoprawny wzór, dane tego urządzenia zostaną usunięte.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_profile">Jeśli przy następnej próbie wprowadzisz niepoprawny wzór, Twój profil służbowy i jego dane zostaną usunięte.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_user">Jeśli przy następnej próbie wprowadzisz niepoprawny wzór, ten użytkownik zostanie usunięty.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_device">Jeśli przy następnej próbie wprowadzisz niepoprawny PIN, dane tego urządzenia zostaną usunięte.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_profile">Jeśli przy następnej próbie wprowadzisz niepoprawny PIN, Twój profil służbowy i jego dane zostaną usunięte.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_user">Jeśli przy następnej próbie wprowadzisz niepoprawny PIN, ten użytkownik zostanie usunięty.</string>
+    <string name="biometric_dialog_now_wiping_dialog_dismiss">Ignoruj</string>
+    <string name="biometric_dialog_tap_confirm">Dotknij przycisku Potwierdź, aby ukończyć</string>
+    <string name="biometric_dialog_use_password">Użyj hasła</string>
+    <string name="biometric_dialog_use_pattern">Użyj wzoru</string>
+    <string name="biometric_dialog_use_pin">Użyj PIN-u</string>
+    <string name="biometric_dialog_wrong_password">Złe hasło</string>
+    <string name="biometric_dialog_wrong_pattern">Zły wzór</string>
+    <string name="biometric_dialog_wrong_pin">Zły PIN</string>
+    <string name="keyguard_retry">Przesuń w górę, aby spróbować ponownie</string>
 </resources>

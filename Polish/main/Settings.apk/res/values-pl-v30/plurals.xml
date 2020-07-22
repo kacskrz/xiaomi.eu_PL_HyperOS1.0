@@ -78,4 +78,13 @@
         <item quantity="few">Ustawiono %d harmonogramy</item>
         <item quantity="many">Ustawiono %d harmonogramów</item>
     </plurals>
+    <plurals name="priority_conversation_count">
+        <item quantity="other">%d priorytetowych konwersacji</item>
+        <item quantity="one">%d priorytetowa konwersacja</item>
+        <item quantity="few">%d priorytetowe konwersacje</item>
+    </plurals>
+    <plurals name="see_all_apps_title">
+        <item quantity="other">Zobacz wszystkie %1$d aplikacje</item>
+        <item quantity="one">Zobacz wszystkie aplikacje</item>
+    </plurals>
 </resources>
