@@ -8155,11 +8155,14 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="security_input_num_setting_title">Klawiatura numeryczna</string>
   <string name="voice_access">Kontrola głosem</string>
   <string name="app_function">Funkcja aplikacji</string>
-  <string name="forget_passpoint_wifi_message">Twój telefon przestanie łączyć się automatycznie z tą siecią.</string>
+  <string name="forget_passpoint_wifi_message">Twoje urządzenie przestanie łączyć się automatycznie z tą siecią.</string>
   <string name="passpoint_r1_privacy_dialog_no">Anuluj</string>
   <string name="passpoint_r1_privacy_dialog_title">Uwaga</string>
   <string name="passpoint_r1_privacy_dialog_url_text">Polityka prywatności</string>
-  <string name="passpoint_r1_privacy_dialog_yes">Zgadzam się i kontynuuję</string>
+  <string name="passpoint_r1_privacy_dialog_message">"Passpoint to bezpieczna technologia połączenia bezprzewodowego uruchomiona przez Wi-Fi Alliance. Automatycznie konfiguruje ona konta, aby osiągnąć bezproblemowe połączenie pomiędzy sieciami Wi-Fi a urządzeniami mobilnymi.
+
+Ta funkcja przetwarza Twój adres MAC sieci Wi-Fi wyłącznie w celu inicjalnej rejestracji konta. Xiaomi będzie przetwarzać Twoje dane zgodnie z dokumentem: %s. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki Polityki prywatności."</string>
+  <string name="passpoint_r1_privacy_dialog_yes">Zgadzam się</string>
   <string name="input_method_function_switch_keyboard_language">Przełączaj języki</string>
   <string name="input_method_function_switch_keyboard_language_des">Dotknij, aby przełączać się pomiędzy językami klawiatury</string>
   <string name="input_method_function_switch_keyboard_type">Przełączaj klawiatury</string>
