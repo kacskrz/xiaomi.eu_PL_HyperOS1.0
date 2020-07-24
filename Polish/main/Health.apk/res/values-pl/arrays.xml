@@ -50,7 +50,7 @@
         <item>Dotknij przycisku \"Kontynuuj\", aby dowiedzieć się więcej i włączyć tę funkcję.</item>
      </string-array>
      <string-array name="stand_guide_page_content2">
-        <item>"Aplikacja Xiaomi Zdrowie uczy się, na podstawie tego, w jaki sposób korzystasz z urządzenia. Jeśli wykryje brak ruchu w ciągu godziny, otrzymasz przypomnienie o tym, aby wstać lub dodać wpis manualnie."</item>
+        <item>Asystent stania wykrywa stawanie telefonu i automatycznie je rejestruje. Włącz przypomnienie dot. stawania, aby przypomnieć Ci o tym nawyku wtedy, gdy w ciągu godziny nie zostanie wykryte stawanie:</item>
         <item>Ta funkcja będzie śledzić ruch i wysyłać powiadomienia.</item>
      </string-array>
      <string-array name="week">

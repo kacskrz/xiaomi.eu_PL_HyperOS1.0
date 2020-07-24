@@ -142,4 +142,31 @@
         <item quantity="other">%d min. temu</item>
         <item quantity="one">Minutę temu</item>
     </plurals>
+    <plurals name="agenda_anniversary_day">
+        <item quantity="one">· %1$d dzień</item>
+        <item quantity="other">· %1$d dni</item>
+    </plurals>
+    <plurals name="agenda_anniversary_year">
+        <item quantity="one">· %1$d rok</item>
+        <item quantity="few">· %1$d lata</item>
+        <item quantity="other">· %1$d lat</item>
+    </plurals>
+    <plurals name="agenda_countdown_day">
+        <item quantity="one">· Za %1$d dzień</item>
+        <item quantity="other">· Za %1$d dni</item>
+    </plurals>
+    <plurals name="agenda_tip_count_down">
+        <item quantity="one">Początek za %1$d min</item>
+        <item quantity="other">Początek za %1$d min</item>
+    </plurals>
+    <plurals name="app_express_content_title_1">
+        <item quantity="one">%d paczka w drodze</item>
+        <item quantity="few">%d paczki w drodze</item>
+        <item quantity="other">%d paczek w drodze</item>
+    </plurals>
+    <plurals name="app_miot_total_device">
+        <item quantity="one">%1$d urządzenie</item>
+        <item quantity="few">%1$d urządzenia</item>
+        <item quantity="other">%1$d urządzeń</item>
+    </plurals>
 </resources>

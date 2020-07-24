@@ -1266,4 +1266,7 @@ Zaktualizować teraz?"</string>
      <string name="tb_blood_pressure_day_chart">%1$s. Najwyższe ciśnienie skurczowe: %2$d mm słupa rtęci. Najniższe ciśnienie rozkurczowe: %3$d mm słupa rtęci.</string>
      <string name="tb_blood_pressure_item">%1$s. Ciśnienie skurczowe: %2$d mm słupa rtęci. Ciśnienie rozkurczowe: %3$d mm słupa rtęci.</string>
      <string name="tb_blood_pressure_wm_card">Średnie ciśnienie skurczowe: %1$d mm słupa rtęci. Średnie ciśnienie rozkurczowe: %2$d mm słupa rtęci. Najwyższe ciśnienie skurczowe: %3$d mm słupa rtęci. Najwyższe ciśnienie rozkurczowe: %4$d mm słupa rtęci. Najniższe ciśnienie skurczowe: %5$d mm słupa rtęci. Najniższe ciśnienie rozkurczowe: %6$d mm słupa rtęci.</string>
+     <string name="remind_sleep_report_content_1">Ostatniej nocy spałeś %1$d godz. Dotknij, aby zobaczyć szczegóły.</string>
+     <string name="stand_remind_setting_desc">Gdy w ciągu godziny nie zostanie wykryta aktywność dot. stawania, wyślij powiadomienie, które przypomni Ci o konieczności stawania</string>
+     <string name="stand_stop_reminding">Zatrzymaj otrzymywanie przypomnień dot. stawania</string>
 </resources>

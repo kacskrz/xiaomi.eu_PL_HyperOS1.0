@@ -1275,4 +1275,9 @@ Be Happy"</string>
   <string name="user_privacy_dialog_positive_text">Odwołaj</string>
   <string name="user_privacy_setting_group_title">Autoryzacja</string>
   <string name="user_privacy_setting_title">Zmień pozycję przełącznika, aby przyznać bądź cofnąć autoryzację</string>
+  <string name="individuation_setting_summary">Otrzymuj propozycje treści oparte na Twoich zainteresowaniach</string>
+  <string name="individuation_setting_title">Spersonalizowane rekomendacje</string>
+  <string name="upload_favorite_dialog_title">Wyślij utwory do chmury, aby mieć do nich dostęp na innych zsynchronizowanych urządzeniach. Możesz wyłączyć tą funkcję w Ustawieniach.</string>
+  <string name="upload_favorite_setting_summary">Wyślij utwory do chmury, aby mieć do nich dostęp na innych urządzeniach</string>
+  <string name="upload_favorite_setting_title">Synchronizuj utwory</string>
 </resources>

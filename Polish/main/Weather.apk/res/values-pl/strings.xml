@@ -109,7 +109,7 @@
   <string name="button_sure_abandon">Porzucić zmiany?</string>
   <string name="change_alert">Sprawdź połączenie z siecią i spróbuj ponownie</string>
   <string name="china_version_first_start_network_msg">"Musisz zgodzić się na %1$s oraz %2$s Xiaomi przed użyciem tej aplikacji. Oprócz tego Pogoda potrzebuje uprawnień do lokalizacji oraz łączenia się z Internetem. Zaakceptować?"</string>
-  <string name="city_exceeded_warning">Możesz dodać tu do 10 miast</string>
+  <string name="city_exceeded_warning">Nie można dodać więcej miast. Aby dodać nowe miasto, usuń jedno z istniejących na liście miast.</string>
   <string name="commercial">Komercyjne</string>
   <string name="common_google_play_services_enable_button">Włącz</string>
   <string name="common_google_play_services_enable_text">Aplikacja %1$s nie będzie działać, jeśli nie włączysz Usług Google Play.</string>
@@ -425,4 +425,10 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="settings_atmospheric_pressure_mmhg">Milimetr słupa rtęci (mmHg)</string>
   <string name="settings_atmospheric_pressure_title">Ciśnienie atmosferyczne</string>
   <string name="international_details_humidity_title">Wilgotność</string>
+  <string name="dialog_msg_score_midrop">Jakie masz wrażenia odnośnie naszej aplikacji?</string>
+  <string name="dialog_msg_score_not_good">Czy mógłbyś nam przekazać swoją opinię?</string>
+  <string name="dialog_msg_score_perfect">Super! Czy chcesz ocenić Pogodę także w Sklepie Play?</string>
+  <string name="dialog_title_score">Oceń Pogodę</string>
+  <string name="rating_dialog_later">Później</string>
+  <string name="rating_dialog_rate_now">Oceń teraz</string>
 </resources>
