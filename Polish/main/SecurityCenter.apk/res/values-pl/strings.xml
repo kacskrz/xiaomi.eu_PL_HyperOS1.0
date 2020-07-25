@@ -3691,7 +3691,7 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="settings_image_camera_summary">Model urządzenia, metadane itd.</string>
   <string name="settings_location_subtitle_no">Brak informacji o lokalizacji</string>
   <string name="settings_share_enable_summary">The items you share on WeChat will appear with a MIUI badge</string>
-  <string name="settings_share_info">Here are the secure sharing options available for the items shared from Gallery and File Manager:</string>
+  <string name="settings_share_info">Oto opcje bezpiecznego udostępniania dostępne dla elementów udostępnianych z poziomu Galerii i Plików:</string>
   <string name="settings_show_detail">Wyświetl szczegóły</string>
   <string name="settings_tip">Aby wyświetlić więcej opcji, przejdź do Galerii > Ustawienia</string>
   <string name="settings_title">Bezpieczne udostępnianie</string>
@@ -3707,4 +3707,6 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="gb_gpu_driver_update_app">Zaktualizuj</string>
   <string name="gb_gpu_driver_update_app_tips">Wersja jest aktualna</string>
   <string name="vtb_function_video_translation">Tłumaczenie na żywo</string>
+  <string name="network_traffic_warning_text">"MIUI nie może tutaj obliczyć statystyk zużycia danych dla poszczególnych aplikacji systemowych. W przypadku aplikacji korzystającej z danych mobilnych będzie można zobaczyć informacje o wykorzystaniu danych w szczegółach aplikacji."</string>
+  <string name="network_traffic_warning_title">Zużycie danych przez aplikacje systemowe</string>
 </resources>

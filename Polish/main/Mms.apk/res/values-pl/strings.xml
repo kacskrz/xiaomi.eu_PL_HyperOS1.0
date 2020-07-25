@@ -405,6 +405,9 @@
   <string name="messagelist_sender_self">Ja</string>
   <string name="messaging">SMS</string>
   <string name="mi_message_title">Wiadomości w Chmurze</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Synchronizowanie z Chmurą jest wyłączone</string>
+  <string name="miuix_appcompat_cloud_state_finished">Pomyślnie zsynchronizowano z Chmurą</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Synchronizowanie z Chmurą…</string>
   <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Pociągnij, aby odświeżyć</string>
   <string name="miuix_sb_tracking_progress_labe_refreshed">Odświeżono</string>
   <string name="miuix_sb_tracking_progress_labe_refreshing">Odświeżanie</string>

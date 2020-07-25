@@ -1793,4 +1793,5 @@ Spróbuj tego:"</string>
   <string name="download_risk_alert_content">Gra nie jest zweryfikowana. Wybierając normalne pobieranie potwierdzasz, że bierzesz odpowiedzialność za ryzyko i konsekwencje jej instalacji.</string>
   <string name="download_safe">Bezpieczne pobieranie</string>
   <string name="saved_sucess">Pomyślnie zapisano</string>
+  <string name="search_history">Historia wyszukiwania</string>
 </resources>
