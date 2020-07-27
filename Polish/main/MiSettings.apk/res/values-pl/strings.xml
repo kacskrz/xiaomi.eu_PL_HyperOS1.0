@@ -21,7 +21,7 @@
     <string name="advanced_mode">Zaawansowane ustawienia</string>
     <string name="anti_flicker_mode">Ograniczenie migotania</string>
     <string name="anti_flicker_mode_categroy">Tryby</string>
-    <string name="anti_flicker_mode_summary">Zmniejsz migotanie w warunkach słabego oświetlenia, aby zmniejszyć zmęczenie oczu. Niektóre elementy mogą nie być wyświetlane poprawnie.</string>
+    <string name="anti_flicker_mode_summary">Zapobiegaj intensywnemu odświeżaniu i zmniejsz zmęczenie oczu w słabych warunkach oświetleniowych</string>
     <string name="anti_flicker_title">Ograniczenie migotania</string>
     <string name="app_name">Ustawienia</string>
     <string name="application_sound">Powiadomienia aplikacji</string>
@@ -123,14 +123,14 @@
     <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja z chmurą wył.</string>
     <string name="miuix_appcompat_cloud_state_finished">Zsynchronizowano z chmurą</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchronizacja z chmurą</string>
-    <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Pociągnij, aby odświeżyć</string>
-    <string name="miuix_sb_tracking_progress_labe_refreshed">Odświeżono</string>
-    <string name="miuix_sb_tracking_progress_labe_refreshing">Odświeżanie</string>
-    <string name="miuix_sb_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
-    <string name="miuix_sb_tracking_progress_labe_up_nodata">Brak danych</string>
-    <string name="miuix_sb_tracking_progress_labe_up_none">Brak</string>
-    <string name="miuix_sb_tracking_progress_labe_up_refresh">Odświeżanie</string>
-    <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Nieudane</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Przesuń w dół, aby odświeżyć</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Odświeżono</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Zwolnij, aby odświeżyć</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To wszystko w tej chwili"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"To wszystko w tej chwili"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie można załadować"</string>
     <string name="mms">SMS</string>
     <string name="monday">Poniedziałek</string>
     <string name="monday_short">Pon</string>
@@ -515,4 +515,8 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="usage_week_avg_usage_title">Śr. tygodnia</string>
     <string name="usage_week_avg_usage_title2">Śr. czas</string>
     <string name="usage_remain_hour_miunte">%1$s %2$s</string>
+    <string name="dc_light_hint_enable_title">Uwaga</string>
+    <string name="dc_light_hint_normal">Ściemnianie DC może wpływać na to, jak wyświetlane będą niektóre elementy.</string>
+    <string name="dc_light_hint_other">Ściemnianie DC może wpływać na częstotliwość odświeżania oraz na to, jak wyświetlane będą niektóre elementy.</string>
+    <string name="dc_lignt_enable_hint">Tryb Ograniczenie migotania spowoduje ustawienie częstotliwości odświeżania na wartość 60 Hz. Czy chcesz przełączyć się na ten tryb?</string>
 </resources>

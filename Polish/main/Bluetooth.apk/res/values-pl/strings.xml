@@ -203,4 +203,14 @@
   <string name="upload_succ_line5">Plik został wysłany</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">Wysyłanie %1$s zakończono.</string>
+  <string name="switch_audio_device_bt_a2dp">Bluetooth (dźwięk multimediów)</string>
+  <string name="switch_audio_device_bt_a2dp_summary">Odtwarzaj dźwięk multimediów na podłączonym urządzeniu</string>
+  <string name="switch_audio_device_bt_hfp">Bluetooth (połączenia)</string>
+  <string name="switch_audio_device_bt_hfp_summary">Odtwarzaj dźwięk rozmów na podłączonym urządzeniu. Funkcja musi zostać włączona ręcznie.</string>
+  <string name="switch_audio_device_default">Domyślne</string>
+  <string name="switch_audio_device_default_summary">Obecnie używane urządzenie</string>
+  <string name="switch_audio_device_hfp_hint">Powrót do domyślnego wyjścia dźwięku</string>
+  <string name="switch_audio_device_hfp_toast_hint">Wybierz domyślne wyjście dźwięku, aby ponownie zacząć odtwarzanie dźwięku na tym urządzeniu.</string>
+  <string name="switch_audio_device_phone_summary">Odtwarzaj dźwięk na tym urządzeniu</string>
+  <string name="switch_audio_dialog_title">Wybierz wyjście dźwięku</string>
 </resources>

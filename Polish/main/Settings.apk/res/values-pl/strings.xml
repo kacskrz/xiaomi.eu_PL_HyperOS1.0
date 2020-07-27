@@ -8120,7 +8120,7 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="wifi_whitelist_roaming_summary">Włącz roaming pomiędzy różnymi punktami dostępu SSID WPA/WPA2-PSK z takim samym adresem MAC bramy domyślnej</string>
   <string name="adjust_temperature_title">Temperatura barwowa</string>
   <string name="advanced_screen_paper_mode_title">Tryb czytania</string>
-  <string name="auto_adjst_effect_summary">Dostosuj temperaturę barwową do światła otoczenia, aby zapewnić optymalny poziom komfortu</string>
+  <string name="auto_adjst_effect_summary">Dostosuj temperaturę barwową do światła otoczenia</string>
   <string name="auto_adjust_effect_title">Automatycznie dostosuj temperaturę barwową</string>
   <string name="beauty_camera">Upiększanie dla połączeń wideo</string>
   <string name="beauty_camera_summary">Użyj upiększania dla połączeń wideo w aplikacji WeChat</string>
@@ -8167,4 +8167,23 @@ Ta funkcja przetwarza Twój adres MAC sieci Wi-Fi wyłącznie w celu inicjalnej 
   <string name="input_method_function_switch_keyboard_language_des">Dotknij, aby przełączać się pomiędzy językami klawiatury</string>
   <string name="input_method_function_switch_keyboard_type">Przełączaj klawiatury</string>
   <string name="input_method_function_switch_keyboard_type_des">Dotknij, aby przełączać się pomiędzy klawiaturami</string>
+  <string name="app_enable_bluetooth_record">Aplikacje włączające Bluetooth</string>
+  <string name="back_double_tap">Dwukrotne dotknięcie z tyłu</string>
+  <string name="back_tap">Dotknięcie z tyłu</string>
+  <string name="back_triple_tap">Trzykrotne dotknięcie z tyłu</string>
+  <string name="bt_absVolume_open_dialog_summary">Ze względu na problemy z kompatybilnością niektóre urządzenia Bluetooth mogą mieć anormalne poziomy głośności, co może zostać rozwiązane poprzez wyłączenie tej opcji.</string>
+  <string name="bt_absVolume_open_dialog_title">Uwaga</string>
+  <string name="bt_absVolume_pre_title">Jednolita głośność</string>
+  <string name="bt_absVolume_summary">Utrzymuj taką samą głośność urządzeń Bluetooth i telefonu</string>
+  <string name="custom_gesture_title">Własne gesty</string>
+  <string name="device_opcust_version">Wersja operatora</string>
+  <string name="launch_ai_shortcut">Skrót Mi SI</string>
+  <string name="launch_alipay_payment_code">Kod płatności Alipay</string>
+  <string name="launch_alipay_scanner">Skaner Alipay</string>
+  <string name="launch_calculator">Kalkulator</string>
+  <string name="launch_control_center">Centrum funkcji</string>
+  <string name="launch_notification_center">Panel powiadomień</string>
+  <string name="launch_wechat_payment_code">Kod płatności WeChat</string>
+  <string name="launch_wechat_scanner">Skaner WeChat</string>
+  <string name="mute">Tryb cichy</string>
 </resources>
