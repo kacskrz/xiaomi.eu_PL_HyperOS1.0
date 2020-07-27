@@ -1086,10 +1086,10 @@
      <string name="app_miot_lean_about">Odkrywaj rozwiązania smart home</string>
      <string name="app_miot_menu_add_device">Dodaj</string>
      <string name="app_miot_menu_edit_device">Edytuj</string>
-     <string name="app_miot_my_miot">Urządzenia smart home</string>
-     <string name="app_miot_smart_device">Urządzenia smart home</string>
+     <string name="app_miot_my_miot">Smart home</string>
+     <string name="app_miot_smart_device">Smart home</string>
      <string name="app_miot_start">Dodaj</string>
-     <string name="app_miot_title">Urządzenia smart home</string>
+     <string name="app_miot_title">Smart home</string>
      <string name="app_miot_to_start">Dodaj</string>
      <string name="app_news_default_title">Wiadomości</string>
      <string name="app_note_add">Dodaj</string>
@@ -1159,4 +1159,12 @@
      <string name="app_stock_title_add_stock">Dodaj</string>
      <string name="app_stock_toast">Informacje dot. giełd w Stanach Zjednoczonych i Hong Kongu są aktualizowane z 15-minutowym opóźnieniem.</string>
      <string name="base_search_empty">"Nie znaleziono rezultatów"</string>
+     <string name="app_health_card_step">Kroki dzisiaj:</string>
+     <string name="app_health_card_completion">Cel</string>
+     <string name="health_card_goal_completion">Osiągnięto cel</string>
+     <string name="health_card_overdue">Przekroczono cel</string>
+     <string name="app_screen_time_title">Czas przed ekranem</string>
+     <string name="app_screen_time_time">%1$d godz. %2$d min</string>
+     <string name="app_screen_time_time_minute">%1$d min</string>
+     <string name="save_to_note">Zapisz w Notatkach</string>
 </resources>
