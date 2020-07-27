@@ -8177,7 +8177,6 @@ Ta funkcja przetwarza Twój adres MAC sieci Wi-Fi wyłącznie w celu inicjalnej 
   <string name="bt_absVolume_summary">Utrzymuj taką samą głośność urządzeń Bluetooth i telefonu</string>
   <string name="custom_gesture_title">Własne gesty</string>
   <string name="device_opcust_version">Wersja operatora</string>
-  <string name="launch_ai_shortcut">Skrót Mi SI</string>
   <string name="launch_alipay_payment_code">Kod płatności Alipay</string>
   <string name="launch_alipay_scanner">Skaner Alipay</string>
   <string name="launch_calculator">Kalkulator</string>
