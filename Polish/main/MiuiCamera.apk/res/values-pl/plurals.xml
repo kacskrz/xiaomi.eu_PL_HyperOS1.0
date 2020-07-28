@@ -23,4 +23,13 @@
         <item quantity="one">%1$s zdjęcie</item>
         <item quantity="few">%1$s zdjęcia</item>
     </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">Zdjęcia seryjne: %d</item>
+        <item quantity="one">Zdjęcia seryjne: %d</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Interwał: %d sekund</item>
+        <item quantity="one">Interwał: %d sekunda</item>
+        <item quantity="few">Interwał: %d sekundy</item>
+    </plurals>
 </resources>

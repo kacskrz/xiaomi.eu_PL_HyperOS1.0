@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accessibility_speakerphone_enabled">Głośnik jest włączony</string>
+  <string name="alert_place_outgoing_call_with_redirection">Przekieruj rozmowę przy użyciu %1$s</string>
+  <string name="alert_place_unredirect_outgoing_call">Zadzwoń z mojego numeru telefonu</string>
+  <string name="alert_redirect_outgoing_call_or_not">Jak wykonać tą rozmowę?</string>
+  <string name="alert_redirect_outgoing_call_timeout">"Rozmowa nie może zostać wykonana przez %1$s. Spróbuj użyć innej aplikacji do przekierownania rozmów lub skontaktuj się z developerem w celu pomocy."</string>
+  <string name="blocked_numbers_butter_bar_title">Lista blokowanych jest wył.</string>
+  <string name="cant_call_due_to_no_supported_service">Nie można wykonać połączenia, gdyż nie posiadasz obecnie kont obsługujących połączenia tego typu. Może to się wiązać również na przykład z tym, że do urządzenia nie jest włożona żadna karta SIM.</string>
+  <string name="cant_call_due_to_ongoing_call">Nie można wykonać połączenia, gdyż trwa %1$s inna rozmowa.</string>
+  <string name="cant_call_due_to_ongoing_calls">Nie można wykonać połączenia. Zakończ najpierw %1$s rozmowy.</string>
+  <string name="cant_call_due_to_ongoing_unknown_call">Nie można wykonać połączenia, gdyż w innej aplikacji trwa już jakaś rozmowa.</string>
+  <string name="change_default_call_screening_dialog_affirmative">Ustaw jako domyślną</string>
+  <string name="change_default_call_screening_dialog_negative">Anuluj</string>
+  <string name="change_default_call_screening_dialog_title">Czy aplikacja %s ma być domyślną aplikacją do kontroli połączeń?</string>
+  <string name="change_default_call_screening_warning_message">Aplikacja %s będzie mogła zobaczyć informacje o dzwoniących, którzy nie są w Twoich kontaktach, a także będzie mogła zablokować te połączenia. Jako domyślne aplikacje do kontroli połączeń powinny być ustawione aplikacje, którym ufasz.</string>
+  <string name="change_default_call_screening_warning_message_for_disable_old_app">Aplikacja %s nie będzie już mogła dokonywać kontroli połączeń.</string>
+  <string name="change_default_dialer_dialog_affirmative">Ustaw jako domyślną</string>
+  <string name="developer_title">Menu developerskie Telefonu</string>
+  <string name="duplicate_video_call_not_allowed">Nie można dodać więcej połączeń</string>
+  <string name="notification_channel_call_blocking">Blokowanie połączeń</string>
+  <string name="outgoing_call_not_allowed_no_permission">Ta aplikacja nie może wykonywać połączeń bez wymaganych uprawnień.</string>
+  <string name="phone_settings_number_not_in_contact_summary_txt">Blokuj numery niebędące w Kontaktach</string>
+  <string name="phone_settings_number_not_in_contact_txt">Numery spoza Kontaktów</string>
+  <string name="phone_settings_payphone_summary_txt">Blokuj połączenia z płatnych numerów</string>
+  <string name="phone_settings_payphone_txt">Płatne telefony</string>
+  <string name="phone_settings_private_num_summary_txt">Blokuj dzwoniących, którzy nie ujawniają swojego numeru</string>
+  <string name="phone_settings_private_num_txt">Prywatne</string>
+  <string name="phone_settings_unknown_summary_txt">Blokuj połączenia od niezidentyfikowanych nadawców</string>
+  <string name="phone_settings_unknown_txt">Nieznani</string>
+  <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Wyłączono blokowanie połączeń</string>
+  <string name="phone_strings_call_blocking_turned_off_notification_title_txt">Blokowanie połączeń</string>
+  <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Blokowanie połączeń zostało wyłączone, aby umożliwić pracownikom ratunkowym skontaktowanie się z Tobą.</string>
+  <string name="phone_strings_emergency_call_made_dialog_title_txt">Zadzwonił telefon alarmowy</string>
+  <string name="respond_via_sms_failure_format">"Nie udało się wysłać wiadomości do %s."</string>
+  <string name="telecommAppLabel">Telefon – zarządzanie połączeniami</string>
+</resources>
