@@ -1261,7 +1261,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="clone_start_capture">Rozpocznij klonowanie</string>
   <string name="clone_too_much_movement_stop">Przesunąłeś urządzenie za daleko. Zatrzymano nagrywanie.</string>
   <string name="clone_video_mode">Film</string>
-  <string name="color_effect_entry_blackgold">Rod</string>
+  <string name="color_effect_entry_blackgold">Złoto</string>
   <string name="color_effect_entry_first">Początek</string>
   <string name="color_effect_entry_sibopenk">Cyberpunk</string>
   <string name="color_effect_entry_travel">Podróż</string>
@@ -1325,7 +1325,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="ambilight_scene_crowd_moving">Poruszający się tłum</string>
   <string name="ambilight_scene_light_track">Malowanie światłem</string>
   <string name="ambilight_scene_magic_star">Gwiezdne niebo</string>
-  <string name="ambilight_scene_silky_water">Gładka woda</string>
+  <string name="ambilight_scene_silky_water">Farby olejne</string>
   <string name="ambilight_scene_star_track">Ślady gwiazd</string>
   <string name="ambilight_scene_traffic_light">Ślady neonów</string>
   <string name="ambilight_tips_for_using_tripod">Użyj statywu</string>
