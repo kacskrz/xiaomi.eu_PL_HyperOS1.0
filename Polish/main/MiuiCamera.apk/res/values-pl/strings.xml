@@ -1503,6 +1503,6 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="ai_scene_mode_tower">Wieża</string>
   <string name="ai_scene_mode_tutuk">Trójkołowiec</string>
   <string name="ai_scene_mode_unknown">Nieznane</string>
-  <string name="pref_camera_high_quality_preferred_description">Wykorzystaj algorytm, który stawia za priorytet jakość zdjęć zamiast prędkość ich wykonywania</string>
+  <string name="pref_camera_high_quality_preferred_description">Polepsz jakość zdjęć za pomocą specjalnego algorytmu. Gdy ta opcja jest włączona, zdjęcia mogą być wykonywane dłużej.</string>
   <string name="pref_camera_high_quality_preferred_title">Polepsz jakość zdjęć</string>
 </resources>
