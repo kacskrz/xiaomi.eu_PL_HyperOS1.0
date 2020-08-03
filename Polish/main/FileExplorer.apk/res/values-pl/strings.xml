@@ -777,4 +777,6 @@ and never miss the cool new ones!"</string>
   <string name="skip">Pomiń</string>
   <string name="use_to_all">Zastosuj do wszystkich</string>
   <string name="storage_maintenance_mode">Pamięć w trybie zawieszenia</string>
+  <string name="drag_not_support_with_dir">"Nie można zmieniać położenia ani wysyłać folderów"</string>
+  <string name="save_file_to_mishare">"Zapisano w katalogu funkcji Mi Share"</string>
 </resources>

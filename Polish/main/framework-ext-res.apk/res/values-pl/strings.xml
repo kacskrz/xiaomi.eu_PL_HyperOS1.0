@@ -24,7 +24,7 @@
   <string name="autofill_save_ok">Zezwól</string>
   <string name="autofill_save_title">Zapisuj hasła automatycznie</string>
   <string name="autofill_save_message">Czy zezwolić MIUI na zapisywanie Twoich kont i haseł?</string>
-  <string name="autofill_save_sub_message">Będziesz mógł zarządzać zapisanymi hasłami w Ustawieniach > Hasła i bezpieczeństwo > %s.</string>
+  <string name="autofill_save_sub_message">Możesz zarządzać swoimi hasłami w Ustawieniach > Hasła i bezpieczeństwo > %s.</string>
   <string name="autofill_service_name">Zarządzaj hasłami</string>
   <string name="btn_cancel">Anuluj</string>
   <string name="button_text_cancel">Zakończ</string>

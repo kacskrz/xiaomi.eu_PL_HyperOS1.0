@@ -4,4 +4,14 @@
         <item>Z listy</item>
         <item>Wyłączone</item>
     </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Wysoka prędkość</item>
+        <item>Zrównoważone</item>
+        <item>Wysoka jakość</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture_value">
+        <item>Najszybsze</item>
+        <item>Zrównoważone</item>
+        <item>Domyślne</item>
+    </string-array>
 </resources>

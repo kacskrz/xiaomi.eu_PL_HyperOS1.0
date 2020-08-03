@@ -141,9 +141,9 @@
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_not_wlan">Nie jesteś podłączone za pomocą Wi-Fi. Korzystanie z danych mobilnych może wygenerować dodatkowe opłaty. Czy na pewno kontynuować?</string>
   <string name="antivirus_privacy_dialog_cloudscan">Kopiuj nazwy aplikacji i szczegóły</string>
-  <string name="antivirus_privacy_dialog_cloudscan_description">Kopiuj i skanuj nazwy aplikacji korzystając z definicji online.</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">Funkcja wyśle nazwy pakietów aplikacji oraz ich szczegóły do chmury w celu ich przeskanowania za pomocą silnika online.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary">"Funkcja kopiuje szyfrowane dane urządzenia na serwery AVL lub Tencent (%s)."</string>
+  <string name="antivirus_privacy_dialog_summary">&lt;Data&gt;Funkcja dostarczana jest przez silniki antywirusowe firm trzecich. Aby dowiedzieć się więcej o tym, jak ona działa, przeczytaj informacje zawarte w &amp;lt;a href=\"%1$s\"&amp;gt;Licencji użytkownika&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="antivirus_privacy_dialog_summary_link">Polityka Prywatności</string>
   <string name="antivirus_privacy_dialog_title">Polityka Prywatności</string>
   <string name="antivirus_sec_network_unavailable">"Aplikacja nie ma obecnie dostępu do sieci. Zezwolić aplikacji na dostęp do Internetu?"</string>

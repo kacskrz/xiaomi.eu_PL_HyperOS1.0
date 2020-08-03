@@ -154,8 +154,8 @@
   <string name="beauty_fragment_tab_name_beauty">Upiększanie</string>
   <string name="beauty_fragment_tab_name_makeup">Zaawansowane</string>
   <string name="beauty_mode_reset_toast">Usunięto efekty modelowania</string>
-  <string name="beauty_reset">Usuń</string>
-  <string name="beauty_reset_toast">Usunięto efekt upiększania</string>
+  <string name="beauty_reset">Przywróć</string>
+  <string name="beauty_reset_toast">Przywrócono oryginalny efekt upiększania</string>
   <string name="beauty_tab_name_live_beauty">Upiększanie</string>
   <string name="beauty_tab_name_live_filter">Filtry</string>
   <string name="bokeh_use_hint">Efekt głębi</string>
