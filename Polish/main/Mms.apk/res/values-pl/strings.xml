@@ -115,7 +115,7 @@
   <string name="cannot_send_message_reason">Wiadomość nie zawiera poprawnych odbiorców.</string>
   <string name="card_insert_to_contact">Wczytaj kontakt</string>
   <string name="change_duration_activity">Zmień czas trwania</string>
-  <string name="chatbot_list_title">Moje miniaplikacje</string>
+  <string name="chatbot_list_title">Wiadomości 5G</string>
   <string name="chatbot_main_title">Miniaplikacje</string>
   <string name="check_all">Wszystkie</string>
   <string name="chenghu_disable_mms">"Nie możesz używać pseudonimów w MMS"</string>

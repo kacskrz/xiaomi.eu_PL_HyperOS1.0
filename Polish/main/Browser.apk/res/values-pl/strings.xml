@@ -1123,8 +1123,8 @@ Spróbuj tego:"</string>
   <string name="nav_lunch_duokan">Otwieranie Duokana…</string>
   <string name="nav_screen_container_tab_incognito">Prywatny</string>
   <string name="nav_screen_container_tab_normal">Normalny</string>
-  <string name="nav_screen_incognito_message">"Historia przeglądania i wyszukiwania nie będzie zapisywana w trybie Prywatnym. Pobrane pliki zostaną zapisane."</string>
-  <string name="nav_screen_incognito_title">Tryb prywatny</string>
+  <string name="nav_screen_incognito_message">"Możesz teraz przeglądać Internet bez obaw o to, że Twoja historia wyszukiwania, przeglądania i pobierania będzie w jakikolwiek sposób gromadzona. Aplikacja nie będzie gromadzić tych danych, a ponadto nie będzie zapisywać danych stron."</string>
+  <string name="nav_screen_incognito_title">Jesteś w trybie prywatnym.</string>
   <string name="nav_screen_tab_incognito_enter">Otwórz kartę incognito</string>
   <string name="nav_screen_tab_incognito_exit">Wyjdź z karty incognito</string>
   <string name="navigate_feedback_dislike">nie interesuje mnie</string>
@@ -1794,4 +1794,5 @@ Spróbuj tego:"</string>
   <string name="download_safe">Bezpieczne pobieranie</string>
   <string name="saved_sucess">Pomyślnie zapisano</string>
   <string name="search_history">Historia wyszukiwania</string>
+  <string name="toast_not_support">"Ta funkcja nie jest jeszcze wspierana"</string>
 </resources>
