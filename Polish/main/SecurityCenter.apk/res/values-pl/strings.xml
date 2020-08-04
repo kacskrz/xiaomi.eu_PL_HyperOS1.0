@@ -1733,7 +1733,8 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_summary_garbage_cleanup">Nie ma śmieci</string>
   <string name="menu_summary_garbage_cleanup_2">Rozmiar śmieci</string>
   <string name="menu_summary_garbage_cleanup_3">Wyczyść śmieci</string>
-  <string name="menu_summary_garbage_cleanup_ex">Wyczyść %s śmieci</string>
+  <string name="menu_summary_garbage_cleanup_ex">Zwolnij %s</string>
+  <string name="menu_summary_garbage_cleanup_new">%d%% miejsca w pamięci</string>
   <string name="menu_summary_networkassistants">Zarządzaj planem danych</string>
   <string name="menu_summary_networkassistants_2">Ponad limit</string>
   <string name="menu_summary_networkassistants_3">Zużycie danych w normie</string>

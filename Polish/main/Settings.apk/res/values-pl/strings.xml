@@ -3592,7 +3592,7 @@ PIN musi zawierać tyle samo cyfr co PIN głównego profilu."</string>
   <string name="manage_notification_access_summary_zero">Aplikacje nie mogą czytać powiadomień</string>
   <string name="manage_notification_access_title">Dostęp do powiadomień</string>
   <string name="manage_notification_title">Powiadomienia aplikacji</string>
-  <string name="manage_password">Menedżer haseł</string> 
+  <string name="manage_password">Menadżer haseł</string> 
   <string name="manage_password_summary">Automatycznie uzupełniaj zapisane konta i hasła</string>
   <string name="manage_space_text">Zarządzaj miejscem</string>
   <string name="manage_trust_agents">Agenty zaufania</string>
