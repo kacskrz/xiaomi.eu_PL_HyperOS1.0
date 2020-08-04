@@ -57,8 +57,8 @@
   <string name="action_menu_text_share">Udostępnij</string>
   <string name="action_menu_text_snapshot">Zapisz</string>
   <string name="action_menu_text_video">Wideo</string>
-  <string name="action_menu_toast_incognito_off">Wyłącz tryb incognito</string>
-  <string name="action_menu_toast_incognito_on">Włącz tryb incognito</string>
+  <string name="action_menu_toast_incognito_off">Wyłączono tryb incognito</string>
+  <string name="action_menu_toast_incognito_on">Włączono tryb incognito</string>
   <string name="action_menu_toolbox">Narzędzia</string>
   <string name="action_menu_useful_page">Dodaj skrót</string>
   <string name="action_menu_useful_page_added">Dodano do startowej</string>
@@ -291,7 +291,7 @@
   <string name="contextmenu_dial_dot">Wybierz numer…</string>
   <string name="contextmenu_download_image">Zapisz obraz</string>
   <string name="contextmenu_download_image_as">Zapisz obraz jako</string>
-  <string name="contextmenu_incognito">Prywatny</string>
+  <string name="contextmenu_incognito">Incognito</string>
   <string name="contextmenu_manually_block_ad">Ukryj reklamę</string>
   <string name="contextmenu_map">Mapa</string>
   <string name="contextmenu_openlink">Otwórz</string>
@@ -538,7 +538,7 @@ aby pokazać tutaj zakładki z innych urządzeń"</string>
   <string name="hybrid_application_no_data_text">Brak apl. hybrydowych</string>
   <string name="hybrid_popup_window_delete_button">Usuń</string>
   <string name="ignore_add_pwa_dialog_today">Nie teraz</string>
-  <string name="in_incognito">Jesteś w trybie prywatnym! Odwiedzane w tej karcie witryny nie zapiszą się w historii przeglądarki.</string>
+  <string name="in_incognito">Jesteś w trybie incognito! Odwiedzane w tej karcie witryny nie zapiszą się w historii przeglądarki.</string>
   <string name="in_secureaccess">Przełączono do trybu bezpiecznego</string>
   <string name="info_flow_description">Kanał informacyjny</string>
   <string name="isReplacePage">Plik już istnieje, zastąpić?</string>
@@ -829,7 +829,7 @@ Spróbuj tego:"</string>
   <string name="mw_date_picker_dialog_title">Ustaw datę</string>
   <string name="mw_date_time_picker_dialog_title">Ustaw datę i czas</string>
   <string name="mw_delete_suggestion_text">Usuń</string>
-  <string name="mw_external_payment_app_leave_incognito_warning">Opuszczanie trybu Prywatnego, aby przejść do płatności z zewnętrzną aplikacją. Kontynuować?</string>
+  <string name="mw_external_payment_app_leave_incognito_warning">Opuszczasz tryb incognito, aby przejść do płatności z zewnętrzną aplikacją. Kontynuować?</string>
   <string name="mw_find_next">Znajdź następne</string>
   <string name="mw_find_previous">Znajdź poprzednie</string>
   <string name="mw_http_post_warning">"The page that you're looking for used information that you entered. Returning to that page might cause any action you took to be repeated. Do you want to continue?"</string>
@@ -981,7 +981,7 @@ Spróbuj tego:"</string>
   <string name="mw_notification_category_downloads">Pobrane</string>
   <string name="mw_notification_category_fullscreen_controls">Pełny ekran</string>
   <string name="mw_notification_category_group_general">Ogólne</string>
-  <string name="mw_notification_category_incognito">Prywatny</string>
+  <string name="mw_notification_category_incognito">Incognito</string>
   <string name="mw_notification_category_media">Media</string>
   <string name="mw_notification_category_screen_capture">Zrzut strony</string>
   <string name="mw_notification_category_sites">Witryny</string>
@@ -1085,7 +1085,7 @@ Spróbuj tego:"</string>
   <string name="mw_sad_tab_oom_message_notabs">Try exiting other programs to free up memory.</string>
   <string name="mw_sad_tab_oom_message_tabs">Try closing other tabs or programs to free up memory.</string>
   <string name="mw_sad_tab_reload_close_notabs">Close other apps</string>
-  <string name="mw_sad_tab_reload_incognito">Otwórz w karcie Prywatna</string>
+  <string name="mw_sad_tab_reload_incognito">Otwórz w karcie Incognito</string>
   <string name="mw_sad_tab_reload_label">Odśwież</string>
   <string name="mw_sad_tab_reload_learn_more">Learn more</string>
   <string name="mw_sad_tab_reload_restart_browser">Restart Chromium</string>
@@ -1121,7 +1121,7 @@ Spróbuj tego:"</string>
   <string name="nav_close_index_tab">Usuń element %d</string>
   <string name="nav_launch_title">Spróbuj za pomocą tych aplikacji</string>
   <string name="nav_lunch_duokan">Otwieranie Duokana…</string>
-  <string name="nav_screen_container_tab_incognito">Prywatny</string>
+  <string name="nav_screen_container_tab_incognito">Incognito</string>
   <string name="nav_screen_container_tab_normal">Normalny</string>
   <string name="nav_screen_incognito_message">"Możesz teraz przeglądać Internet bez obaw o to, że Twoja historia wyszukiwania, przeglądania i pobierania będzie w jakikolwiek sposób gromadzona. Aplikacja nie będzie gromadzić tych danych, a ponadto nie będzie zapisywać danych stron."</string>
   <string name="nav_screen_incognito_title">Jesteś w trybie prywatnym.</string>
