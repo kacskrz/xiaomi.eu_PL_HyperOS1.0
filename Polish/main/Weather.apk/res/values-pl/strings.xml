@@ -193,8 +193,10 @@
   <string name="index_item_installing2">Instalacja</string>
   <string name="indices_desc_humidity">Wilgotność %1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
-  <string name="indices_title_feel">Odczuwalna</string>
+  <string name="indices_title_feel">Temp. odczuwalna</string>
   <string name="indices_title_pressure">Ciśnienie</string>
+  <string name="indices_title_chance_of_rain">Szansa na opady</string>
+  <string name="indices_title_wind_speed">Prędkość wiatru</string>
   <string name="information_settings_title">Informacje o pogodzie</string>
   <string name="install">Zainstaluj</string>
   <string name="international_details_pressure_title">Ciśnienie</string>
