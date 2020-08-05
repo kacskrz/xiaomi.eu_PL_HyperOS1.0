@@ -275,4 +275,13 @@
   <string name="volume_icon_description_ringer">Głośność dzwonka</string>
   <string name="tethered_notification_title">Tethering bądź hotspot aktywny</string>
   <string name="personal_apps_suspension_soon_text">Aplikacje osobiste zostaną zablokowane na %1$s o %2$s. Twój administrator IT nie zezwala na wyłączenie profilu do pracy przez ponad %3$d dni.</string>
+  <string name="lock_to_app_description">"Przypinanie ekranu blokuje wyświetlacz w pojedynczym widoku.
+
+Aby go odpiąć, przytrzymaj jednocześnie przyciski Home i Zasilania."</string>
+  <string name="lock_to_app_description_accessible">"Przypinanie ekranu blokuje wyświetlacz w pojedynczym widoku.
+
+Aby go odpiąć, przytrzymaj jednocześnie przyciski Home i Zasilania."</string>
+  <string name="lock_to_app_toast">Aby odpiąć ten ekran, przytrzymaj jednocześnie przyciski Home i Zasilania.</string>
+  <string name="lock_to_app_toast_accessible">Aby odpiąć ten ekran, przytrzymaj jednocześnie przyciski Home i Zasilania.</string>
+  <string name="tethered_notification_message">Dotknij, aby skonfigurować.</string>
 </resources>
