@@ -2485,7 +2485,7 @@ Więcej informacji uzyskasz od administratora organizacji."</string>
   <string name="ethernet_data_template">Dane w sieci Ethernet: ^1</string>
   <string name="ethernet_data_usage">Transmisja danych w sieci Ethernet</string>
   <string name="every_day">Codziennie</string>
-  <string name="expandable_under_keyguard_title">Pokaż na zabezpieczonym ekranie blokady</string>
+  <string name="expandable_under_keyguard_title">Pokaż na Ekranie blokady</string>
   <string name="experience_optimization_category">Modyfikacje interfejsu systemu</string>
   <string name="experimental_category_title">Eksperymentalne</string>
   <string name="experimental_preference">(Funkcja eksperymentalna)</string>
@@ -5562,7 +5562,7 @@ Aby przypiąć ekran:
   <string name="search_sound_settings">Dźwięk;Głośność;wibracje;Tłumienie hałasu;tłumienie szumu</string>
   <string name="search_status_bar_settings">Powiadomienia i pasek statusu;Powiadomienia;Pasek powiadomień</string>
   <string name="search_status_bar_settings_custom_carrier">Edytuj nazwę operatora;Nazwa operatora</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Pokaż na zabezpieczonym ekranie blokady;zabezpieczony ekran blokady</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Pokaż na Ekranie blokady;pokaż na ekranie blokady</string>
   <string name="search_status_bar_settings_manage_notification">Powiadomienia aplikacji;Powiadomienia</string>
   <string name="search_status_bar_settings_show_carrier">Pokaż nazwę operatora;Nazwa operatora</string>
   <string name="search_status_bar_settings_show_network_speed">Pokaż prędkość połączenia;prędkość połączenia</string>
