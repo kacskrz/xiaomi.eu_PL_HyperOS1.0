@@ -2219,7 +2219,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="ocr_no_text_recognized">"Nie odnaleziono tekstu do rozpoznania"</string>
     <string name="ocr_note_not_existed">Zainstaluj aplikację Notatki</string>
     <string name="ocr_ongoing">Rozpoznawanie tekstu…</string>
-    <string name="ocr_revise">Popraw</string>
+    <string name="ocr_revise">Przegląd</string>
     <string name="ocr_save_to_note">Zapisz</string>
     <string name="ocr_send">Wyślij</string>
     <string name="ocr_text_copied">Pomyślnie skopiowano</string>
