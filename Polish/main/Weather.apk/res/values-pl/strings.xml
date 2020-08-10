@@ -433,4 +433,6 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="dialog_title_score">Oceń Pogodę</string>
   <string name="rating_dialog_later">Później</string>
   <string name="rating_dialog_rate_now">Oceń teraz</string>
+  <string name="international_details_chance_of_rain">Szansa na deszcz</string>
+  <string name="international_details_humidity">Wilgotność</string>
 </resources>

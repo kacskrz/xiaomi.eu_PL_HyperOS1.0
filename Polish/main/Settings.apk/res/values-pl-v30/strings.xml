@@ -643,7 +643,7 @@
   <string name="zen_mode_conversations_section_title">Rozmowy, które mogą ignorować tryb Nie przeszkadzać</string>
   <string name="zen_mode_conversations_title">Rozmowy</string>
   <string name="zen_mode_duration_settings_title">Czas</string>
-  <string name="zen_mode_effected_always">Always take effect</string>
+  <string name="zen_mode_effected_always">Zawsze</string>
   <string name="zen_mode_events_list">wydarzenia</string>
   <string name="zen_mode_events_list_first">Wydarzenia</string>
   <string name="zen_mode_events_summary">Nadchodzące wydarzenia w kalendarzu</string>
