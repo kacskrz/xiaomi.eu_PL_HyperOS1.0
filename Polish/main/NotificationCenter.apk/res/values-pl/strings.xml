@@ -140,4 +140,7 @@ Zgłoś ten problem >"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
     <string name="back">Wstecz</string>
+    <string name="float_notifications_short">Pływające</string>
+    <string name="lockscreen_notifications_short">Ekran blokady</string>
+    <string name="show_badge_notifications_short">Liczniki</string>
 </resources>

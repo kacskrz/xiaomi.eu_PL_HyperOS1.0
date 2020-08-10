@@ -453,4 +453,20 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
     <string name="search_menu_title">Szukaj</string>
     <string name="ads_summary_default_value">Ludzie, którzy zainstalowali tą aplikację, polubili także</string>
+    <string name="action_bar_report_link_des">Alert dot. aplikacji</string>
+    <string name="exit_install_button">"Nie instaluj"</string>
+    <string name="install_confirm_dialog_message">Ta aplikacja została stworzona przez Google. Aby móc korzystać z niej normalnie, powinieneś zainstalować najpierw Usługi Google Play. Instalacja tej aplikacji w obecnej formie może spowodować, że urządzenie nie będzie zachowywać się normalnie. Zainstalować mimo to?</string>
+    <string name="install_confirm_dialog_negative_button">Anuluj</string>
+    <string name="install_confirm_dialog_positive_button">Instaluj</string>
+    <string name="install_confirm_dialog_title">Uwaga</string>
+    <string name="install_confirm_question_des_10">"Jeśli akceptujesz ryzyko i chcesz kontynuować instalację, zautoryzuj ją w Panelu sterowania > Zarządzaj aplikacjami > Uprawnienia > Aplikacje z potencjalnym ryzykiem. Jeśli nie możesz odnaleźć tej opcji, zaktualizuj Panel sterowania i spróbuj ponownie."</string>
+    <string name="install_confirm_text_gms">Ta aplikacja została stworzona przez Google. Przed instalacją tej aplikacji zainstaluj Usługi Google Play. Bez tego frameworka aplikacja może nie działać poprawnie.</string>
+    <string name="install_control_cancel_vip_account_install">Wyjdź</string>
+    <string name="install_control_vip_account_install">Aplikuj o wersję Beta</string>
+    <string name="install_vip_account_mode_explain_des">To wersja Beta aplikacji. Przed jej instalacją aplikuj o uprawnienia do testowania wersji Beta.</string>
+    <string name="install_vip_account_mode_solution_des">Aplikuj o wersję Beta</string>
+    <string name="intercept_confirm_dialog_message">Aplikacja %1$s próbuje zainstalować aplikację %2$s. Zweryfikuj swoją tożsamość, aby kontynuować.</string>
+    <string name="intercept_confirm_dialog_positive">Zweryfikuj</string>
+    <string name="intercept_confirm_dialog_title">Uwaga</string>
+    <string name="spannable_continue_text">Rozumiem ryzyko. Zainstaluj mimo to.</string>
 </resources>

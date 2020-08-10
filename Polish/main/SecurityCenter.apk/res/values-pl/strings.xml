@@ -3710,4 +3710,14 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="vtb_function_video_translation">Tłumaczenie na żywo</string>
   <string name="network_traffic_warning_text">"MIUI nie może tutaj obliczyć statystyk zużycia danych dla poszczególnych aplikacji systemowych. W przypadku aplikacji korzystającej z danych mobilnych będzie można zobaczyć informacje o wykorzystaniu danych w szczegółach aplikacji."</string>
   <string name="network_traffic_warning_title">Zużycie danych przez aplikacje systemowe</string>
+  <string name="activity_title_risk_app_install_manager">Aplikacje z potencjalnym ryzykiem</string>
+  <string name="risk_app_install_agree_button">Ufaj tej aplikacji</string>
+  <string name="risk_app_install_agree_checkbox">"Zrozumiałem, chcę ponieść ryzyko."</string>
+  <string name="risk_app_install_agree_message">"Ta aplikacja jest tworzona przez firmę trzecią i może naruszać lokalne prawa i regulacje. Xiaomi nie gwarantuje dostępności, ciągłości oraz ułatwień dostępu dot. treści i usług dostarczanych przez tą aplikację. Ponosisz pełną odpowiedzialność za utratę danych bądź szkody spowodowane przez korzystanie z tej aplikacji."</string>
+  <string name="risk_app_install_agree_title">Informacja</string>
+  <string name="risk_app_install_auth_result">"Autoryzowano instalację aplikacji %1$s. Możesz kontynuować ją po wykryciu pliku APK."</string>
+  <string name="risk_app_install_empty_text">Brak elementów</string>
+  <string name="risk_app_install_history">Historia autoryzacji</string>
+  <string name="risk_app_install_item_des">Wersja: %1$s</string>
+  <string name="risk_app_install_manager">Aplikacje z potencjalnym ryzykiem</string>
 </resources>

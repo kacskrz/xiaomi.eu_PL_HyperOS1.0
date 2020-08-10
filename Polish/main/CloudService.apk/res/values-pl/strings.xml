@@ -929,4 +929,13 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="storage_manage_cloud_data_title">Wyświetl elementy w Chmurze</string>
   <string name="storage_manage_full_summary">Brak miejsca w Chmurze. Ulepsz swój plan.</string>
   <string name="storage_manage_normal_summary">Zmień plan Chmury</string>
+  <string name="midrive_guide1_desc">Wykonuj kopie zapasowe w Chmurze, aby zwolnić miejsce na urządzeniu.</string>
+  <string name="midrive_guide1_title">Bezpieczne kopie zapasowe</string>
+  <string name="midrive_guide2_desc">Pobieraj elementy z niesamowitą prędkością.</string>
+  <string name="midrive_guide2_title">Szybkie pobieranie</string>
+  <string name="midrive_guide3_desc">Korzystaj z Mi Drive na urządzeniach mobilnych, komputerach i w przeglądarkach.</string>
+  <string name="midrive_guide3_title">Działa wszędzie</string>
+  <string name="midrive_guide_btn_install">Zainstaluj Mi Drive</string>
+  <string name="midrive_guide_btn_installed">Otwórz Mi Drive</string>
+  <string name="midrive_guide_btn_installing">Instalowanie…</string>
 </resources>

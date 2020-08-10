@@ -50,8 +50,8 @@
         <item>Dotknij przycisku \"Kontynuuj\", aby dowiedzieć się więcej i włączyć tę funkcję.</item>
      </string-array>
      <string-array name="stand_guide_page_content2">
-        <item>Asystent stania wykrywa stawanie telefonu i automatycznie je rejestruje. Włącz przypomnienie dot. stawania, aby przypomnieć Ci o tym nawyku wtedy, gdy w ciągu godziny nie zostanie wykryte stawanie:</item>
-        <item>Ta funkcja będzie śledzić ruch i wysyłać powiadomienia.</item>
+        <item>Xiaomi Zdrowie potrafi wykrywać i rejestrować momenty, w których wstajesz. Możesz także otrzymywać przypomnienia dot. stawania po godzinie nieaktywności.</item>
+        <item>Ta funkcja śledzi Twój ruch i wysyła przypomnienia oparte na rezultatach tego śledzenia.</item>
      </string-array>
      <string-array name="week">
         <item>Niedziela</item>

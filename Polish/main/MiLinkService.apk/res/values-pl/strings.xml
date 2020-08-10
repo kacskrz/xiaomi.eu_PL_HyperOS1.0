@@ -204,4 +204,7 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="screen_projection_sample_summary">Sprawdź, jak możesz wykorzystać tę funkcję</string>
     <string name="screen_projection_sample_title">Przykłady</string>
     <string name="screen_projection_title">Prześlij ekran</string>
+    <string name="dialog_miplay_permission_message">Zezwól Przesyłaniu ekranu na rejestrowanie dźwięku, a także dostęp do plików w pamięci wewnętrznej oraz lokalizacji w celu poprawnego działania tej funkcji. Dotknij przycisku \"Ustawienia\" i wybierz \"Uprawnienia\", aby kontynuować.</string>
+    <string name="dialog_miplay_permission_positive">Ustawineia</string>
+    <string name="dialog_miplay_permission_title">Wymagane uprawnienia</string>
 </resources>

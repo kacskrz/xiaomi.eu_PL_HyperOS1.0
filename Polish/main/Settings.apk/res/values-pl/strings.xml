@@ -8186,8 +8186,15 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="launch_wechat_scanner">Skaner WeChat</string>
   <string name="mute">Tryb cichy</string>
   <string name="bluetooth_unlock_settings_devices_prompt">Wspierane są tylko wybrane urządzenia Bluetooth (np. opaski fitness czy smartwatche)</string>
-  <string name="airplane_mode_summary">Wyłącza połączenia, SMS-y i dane mobilne</string>
+  <string name="airplane_mode_summary">Włącz ten tryb, aby rozłączyć urządzenie z jakąkolwiek siecią komórkową. Nie będzie można wykonywać połączeń, wysyłać i otrzymywać SMS-ów oraz korzystać z danych mobilnych, gdy ten tryb jest włączony.</string>
   <string name="find_my_device_summary">Aby korzystać z tej funkcji, musisz być zalogowany na konto Xiaomi</string>
   <string name="ipv4_congertion_control">Wybierz kontrolę przeciążenia TCP</string>
   <string name="ipv4_congertion_xontrol_chose">Algorytm unikania przeciążenia TCP</string>
+  <string name="advanced_gesture">Własne gesty</string>
+  <string name="change_brightness">Dostosuj jasność</string>
+  <string name="double_click_volume_down_when_lock">Wciśnij dwa razy przycisk Głośność-, gdy ekran jest zablokowany</string>
+  <string name="gesture_function_dialog_message">Gest %1$s jest używany do wywołania funkcji \"%2$s\". Czy chcesz go zastąpić z \"%3$s\"?</string>
+  <string name="gesture_settings_title">Skróty gestów</string>
+  <string name="key_combination_power_volume_down">Głośność- + Zasilanie</string>
+  <string name="long_press_power_key_half_second">Przytrzymaj przycisk Zasilania na 0,5 sekundy</string>
 </resources>

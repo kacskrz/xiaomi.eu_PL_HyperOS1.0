@@ -355,7 +355,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="passport_click_email_to_valid">"W celu aktywacji konta przejdź pod link podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_completed">Gotowe</string>
   <string name="passport_confirm">OK</string>
-  <string name="passport_confirm_login">Kontynuuj</string>
+  <string name="passport_confirm_login">Zaloguj się</string>
   <string name="passport_confirm_recycle_account">Tak</string>
   <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Prawdopodobnie&lt;/font&gt; numer %s został przypisany do kogoś innego przez operatora, a zarejestrowane jest na ten numer konto Xiaomi. Czy to Twoje konto?"</string>
   <string name="passport_continue">Kontynuuj</string>
@@ -519,8 +519,8 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="passport_setting">Ustawianie…</string>
   <string name="passport_skip_login">Pomiń</string>
   <string name="passport_skip_register">Pomiń rejestrację</string>
-  <string name="passport_skip_setup_account_msg">Konto Xiaomi będzie można skonfigurować później w Ustawieniach.</string>
-  <string name="passport_skip_setup_account_title">"Nie używasz konta Xiaomi?"</string>
+  <string name="passport_skip_setup_account_msg">Zalogowanie się na konto Xiaomi pozwala na korzystanie z usług Chmury Xiaomi. Czy chcesz pominąć ten krok mimo to?</string>
+  <string name="passport_skip_setup_account_title">Konto i Chmura Xiaomi</string>
   <string name="passport_sms_send_success">Wysłano</string>
   <string name="passport_sms_verification_code_login">Zaloguj kodem z SMS</string>
   <string name="passport_sms_verification_code_login_or_register">Zaloguj lub zarejestruj się kodem z SMS</string> 

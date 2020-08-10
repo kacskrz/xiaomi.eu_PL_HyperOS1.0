@@ -104,7 +104,10 @@
   <string name="feedback_delete_images">Usuń obrazy</string>
   <string name="feedback_description">Opis</string>
   <string name="feedback_description_bugreport_hint">W niektórych przypadkach (…) mój telefon zachowuje się niepoprawnie (…).</string>
-  <string name="feedback_description_hint">"Krótko opisz problem"</string>
+  <string name="feedback_description_hint">"Opisz problem tutaj.
+%1$d. W jakiej aplikacji bądź na jakiej stronie odkryłeś problem?
+%2$d. Po wykonaniu jakich akcji pojawił się problem?
+%3$d. Przekaż dodatkowe informacje, które mogą pomóc Xiaomi naprawić ten problem."</string>
   <string name="feedback_description_hint_suggestion">"Powiedz nam, jak powinniśmy ulepszać MIUI."</string>
   <string name="feedback_description_label">Opis</string>
   <string name="feedback_description_suggest_hint">Chciałbym dodać nową funkcję () ponieważ potrzebuję ().</string>
@@ -591,7 +594,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="title_same_question_feedback_main">Podobne problemy na forum MIUI</string>
   <string name="title_system_app">Aplikacje MIUI</string>
   <string name="title_user_guide">Przewodnik</string>
-  <string name="toast_app_tag_required">Wybierz element</string>
+  <string name="toast_app_tag_required">Wybierz najpierw element</string>
   <string name="toast_catch_full_log_catching">Możesz wygenerować tylko jeden log na raz.</string>
   <string name="toast_catch_full_log_open_failed">"Nie można rozpocząć generowania logu."</string>
   <string name="toast_description_required">Wymagany opis</string>
