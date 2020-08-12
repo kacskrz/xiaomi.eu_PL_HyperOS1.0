@@ -740,9 +740,9 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_device_watermark_title">Znak wodny na zdjęciu</string>
   <string name="pref_camera_dual_enable_title">Wł. dwie kamery</string>
   <string name="pref_camera_dual_sat_enable_title">Włącz dwie kamery SAT</string>
-  <string name="pref_camera_eis_entry_normal">EIS wł.</string>
+  <string name="pref_camera_eis_entry_normal">Stabilizacja wideo wł.</string>
   <string name="pref_camera_eis_entry_off">Wył.</string>
-  <string name="pref_camera_eis_entry_pro">EIS Pro wł.</string>
+  <string name="pref_camera_eis_entry_pro">Stabilizacja wideo Pro wł.</string>
   <string name="pref_camera_eis_title">EIS</string>
   <string name="pref_camera_exposuretime_entry_auto">Auto</string>
   <string name="pref_camera_face_info_watermark_title">Zapisz wiek na zdjęciu</string>
@@ -1196,7 +1196,7 @@ Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić 
   <string name="user_notice_identify_summary_format">Przed użyciem Aparatu musisz zaakceptować warunki <a href="http://www.miui.com/res/doc/eula.html?lang=pl_PL">Umowy użytkownika</a> i <a href="http://www.miui.com/res/doc/privacy.html?lang=pl_PL">Polityki prywatności</a> Xiaomi. Aplikacja wymaga także dostępu do Internetu. Wyrażasz zgodę?</string>
   <string name="user_notice_title">Zgoda na łączenie się z siecią</string>
   <string name="video_beauty_tip">Upiększanie wideo</string>
-  <string name="video_beauty_tip_beautification">Upiększanie</string>
+  <string name="video_beauty_tip_beautification">Filtry</string>
   <string name="video_beauty_tip_filter">Filtry</string>
   <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
   <string name="video_camera_label">Kamera</string>
@@ -1505,4 +1505,5 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="ai_scene_mode_unknown">Nieznane</string>
   <string name="pref_camera_high_quality_preferred_description">Polepsz jakość zdjęć za pomocą specjalnego algorytmu. Gdy ta opcja jest włączona, zdjęcia mogą być wykonywane dłużej.</string>
   <string name="pref_camera_high_quality_preferred_title">Polepsz jakość zdjęć</string>
+  <string name="pano_click_to_toggle_direction">Dotknij strzałki, aby zmienić kierunek</string>
 </resources>
