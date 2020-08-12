@@ -8197,4 +8197,8 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="gesture_settings_title">Skróty gestów</string>
   <string name="key_combination_power_volume_down">Głośność- + Zasilanie</string>
   <string name="long_press_power_key_half_second">Przytrzymaj przycisk Zasilania na 0,5 sekundy</string>
+  <string name="sim_card_lock">Status karty SIM</string>
+  <string name="smart_home_title">Smart home</string>
+  <string name="smart_home_value_none">Brak</string>
+  <string name="smart_home_value_unknown">Nieznane</string>
 </resources>

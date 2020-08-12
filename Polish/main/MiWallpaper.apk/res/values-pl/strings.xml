@@ -96,4 +96,5 @@ dd.M"</string>
     <string name="no_cta_agreed">"Sklep nie posiada wymaganych uprawnień"</string>
     <string name="no_install_permission">"Nie posiadasz uprawnień do instalacji tego elementu"</string>
     <string name="task_already_exist">Zadanie już istnieje</string>
+    <string name="title_system_wallpaper_resource">Tapety systemowe</string>
 </resources>

@@ -435,4 +435,8 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="rating_dialog_rate_now">Oceń teraz</string>
   <string name="international_details_chance_of_rain">Szansa na deszcz</string>
   <string name="international_details_humidity">Wilgotność</string>
+  <string name="dynamic_weather">Pogoda</string>
+  <string name="save_to_gallery_failure_message">"Nie udało się zapisać w Galerii"</string>
+  <string name="save_to_gallery_icon_name">Zapisz w Galerii</string>
+  <string name="save_to_gallery_success_message">Pomyślnie zapisano w Galerii</string>
 </resources>

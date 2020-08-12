@@ -563,4 +563,9 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="warning_bar_title_cloud_space_full">"Brak miejsca w Chmurze. Nie można zsynchronizować zdjęć, historii połączeń i innych elementów."</string>
   <string name="year_month_day_format">dd MMMM, yyyy</string>
   <string name="yesterday">Wczoraj</string>
+  <string name="setting_create_shortcut">Skrót na pulpicie</string>
+  <string name="shortcut_dialog_confirm">Utwórz</string>
+  <string name="shortcut_dialog_content">Czy chcesz utworzyć skrót na pulpicie dla Mi Drive?</string>
+  <string name="tip_shortcut_added_success">Pomyślnie utworzono</string>
+  <string name="tip_shortcut_already_added">Skrót na pulpicie już istnieje</string>
 </resources>
