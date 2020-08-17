@@ -1859,4 +1859,8 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Jasne kolory</item>
         <item>Czerń i biel</item>
     </string-array>
+    <string-array name="screen_reader_mode_input_type_selector_titles">
+        <item>Dotknięcie</item>
+        <item>Dwuklik</item>
+    </string-array>
 </resources>

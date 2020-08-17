@@ -454,4 +454,9 @@
   <string name="channel_name_stopwatch">Stoper</string>
   <string name="alert_vibrate_enable_summary">Wibruj, gdy włączy się alarm</string>
   <string name="ringtone_more">Inne</string>
+  <string name="action_for_continue_timer">Wznów</string>
+  <string name="action_for_pause_timer">Pauza</string>
+  <string name="action_for_restart">Powtórz</string>
+  <string name="action_for_snooze">Drzemka</string>
+  <string name="action_for_stop">Zatrzymaj</string>
 </resources>

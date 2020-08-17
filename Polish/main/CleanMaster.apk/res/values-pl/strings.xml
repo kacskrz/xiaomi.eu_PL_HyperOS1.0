@@ -438,8 +438,8 @@
   <string name="mainbtn_text_quick_cleanup_default">Wyczyść</string>
   <string name="megabyteShort">" MB"</string>
   <string name="memeory_check_content">%1$d aplikacji, pamięć %2$s</string>
-  <string name="memory_clean_icon_text">Czyść pamięć</string>
-  <string name="memory_clean_no_trash_tip">Wszystko ok</string>
+  <string name="memory_clean_icon_text">Przyspiesz urządzenie</string>
+  <string name="memory_clean_no_trash_tip">Wszystko OK</string>
   <string name="menu_add_to_white_list">Dodaj do wyjątków</string>
   <string name="menu_clear">Wyczyść</string>
   <string name="menu_install">Zainstaluj</string>

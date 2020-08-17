@@ -4572,7 +4572,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="password_security_settings_title">Hasła i bezpieczeństwo</string>
   <string name="password_turned_off_text">Hasło wył.</string>
   <string name="password_turned_on_text">Hasło wł.</string>
-  <string name="password_unlock_title">Hasło ekranu blokady</string>
+  <string name="password_unlock_title">Blokada ekranu</string>
   <string name="payment_summary">Domyślna aplikacja to %1$s</string>
   <string name="peek_notification_icon_title">Pokaż ikony dla nowych powiadomień</string>
   <string name="percentage">%d%%</string>
@@ -8201,4 +8201,6 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="smart_home_title">Smart home</string>
   <string name="smart_home_value_none">Brak</string>
   <string name="smart_home_value_unknown">Nieznane</string>
+  <string name="screen_reader_mode_input_type_summary">Wybierz gest aktywujący wprowadzanie tekstu przy włączonej funkcji TalkBack</string>
+  <string name="screen_reader_mode_input_type_title">Wprowadzanie tekstu</string>
 </resources>
