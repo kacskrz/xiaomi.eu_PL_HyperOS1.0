@@ -1297,4 +1297,10 @@ Be Happy"</string>
   <string name="shuffle_play_toast_text">Losowanie utworów…</string>
   <string name="toast_will_play_list_when_ad_pause">Playlista zostanie odtworzona po reklamach</string>
   <string name="toast_will_play_song_when_ad_pause">Ten utwór zostanie odtworzony po reklamach</string>
+  <string name="ringtone_editing">Edytor dzwonków</string>
+  <string name="ringtone_selected">Wybrano</string>
+  <string name="select_clip_desc">Wybierz wycinek utworu</string>
+  <string name="ringtones_play">Odtwórz</string>
+  <string name="ringtones_stop">Zatrzymaj</string>
+  <string name="ringtones_successful">Pomyślnie ustawiono dzwonek</string>
 </resources>
