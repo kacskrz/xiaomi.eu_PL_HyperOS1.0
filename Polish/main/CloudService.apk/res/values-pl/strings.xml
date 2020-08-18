@@ -938,4 +938,9 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="midrive_guide_btn_install">Zainstaluj Mi Drive</string>
   <string name="midrive_guide_btn_installed">Otwórz Mi Drive</string>
   <string name="midrive_guide_btn_installing">Instalowanie…</string>
+  <string name="low_battery_locate_summary">Automatycznie wyślij informację o lokalizacji, gdy bateria jest słaba</string>
+  <string name="low_battery_locate_title">Wyślij lokalizację przy niskim poziomie baterii</string>
+  <string name="power_off_locate_summary">"Wyślij informację o lokalizacji poprzez długie przytrzymanie przycisku Zasilania.
+Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
+  <string name="power_off_locate_title">Wyślij lokalizację przed wyłączeniem urządzenia</string>
 </resources>

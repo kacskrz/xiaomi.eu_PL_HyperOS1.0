@@ -1278,6 +1278,23 @@ Be Happy"</string>
   <string name="individuation_setting_summary">Otrzymuj propozycje treści oparte na Twoich zainteresowaniach</string>
   <string name="individuation_setting_title">Spersonalizowane rekomendacje</string>
   <string name="upload_favorite_dialog_title">Wyślij utwory do chmury, aby mieć do nich dostęp na innych zsynchronizowanych urządzeniach. Możesz wyłączyć tą funkcję w Ustawieniach.</string>
-  <string name="upload_favorite_setting_summary">Wyślij utwory do chmury, aby mieć do nich dostęp na innych urządzeniach</string>
+  <string name="upload_favorite_setting_summary">Dodawanie utworów online do ulubionych powoduje również wysyłanie ich do chmury, co pozwala Ci na dostęp do nich na innych urządzeniach</string>
   <string name="upload_favorite_setting_title">Synchronizuj utwory</string>
+  <string name="dialog_score_msg_score_explorer">Czy lubisz aplikację Muzyka?</string>
+  <string name="dialog_score_msg_score_not_good">Czy mógłbyś nam przekazać swoją opinię?</string>
+  <string name="dialog_score_msg_score_perfect">Super! Czy chcesz ocenić aplikację w Sklepie Play?</string>
+  <string name="dialog_score_toast_rate">Oceń najpierw aplikację</string>
+  <string name="dialog_score_toast_scroll_down_score_midrop">Przewiń w dół, aby ocenić aplikację</string>
+  <string name="exo_controls_hide">Ukryj kontrolki odtwarzania</string>
+  <string name="exo_controls_show">Pokaż kontrolki odtwarzania</string>
+  <string name="exo_controls_shuffle_off_description">Losowość wył.</string>
+  <string name="exo_controls_shuffle_on_description">Losowość wł.</string>
+  <string name="exo_controls_vr_description">Tryb VR</string>
+  <string name="exo_track_role_alternate">Alternatywne</string>
+  <string name="exo_track_role_closed_captions">CC</string>
+  <string name="exo_track_role_commentary">Komentarz</string>
+  <string name="exo_track_role_supplementary">Uzupełniające</string>
+  <string name="shuffle_play_toast_text">Losowanie utworów…</string>
+  <string name="toast_will_play_list_when_ad_pause">Playlista zostanie odtworzona po reklamach</string>
+  <string name="toast_will_play_song_when_ad_pause">Ten utwór zostanie odtworzony po reklamach</string>
 </resources>

@@ -3973,8 +3973,8 @@ Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
   <string name="mqs_privacy_automatically_upload">Wyślij automatycznie następnym razem</string>
   <string name="mqs_privacy_dialog_cancel">Anuluj</string>
   <string name="mqs_privacy_dialog_confirm">Wyślij</string>
-  <string name="mqs_privacy_dialog_content">Wysłać logi w celu pomocy nam w zlokalizowaniu i rozwiązaniu tego problemu? Logi mogą zawierać poufne informacje, włącznie z danymi dot. Twojej lokalizacji.</string>
-  <string name="mqs_privacy_dialog_title">Wystąpił błąd</string>
+  <string name="mqs_privacy_dialog_content">Wygląda na to, że ostatnio na Twoim urządzeniu pojawiły się błędy. Możesz wysłać logi, które być może pomogą Xiaomi zlokalizować i naprawić ten problem. Mogą one zawierać Twoje dane, takie jak np. lokalizacja. Czy chcesz wysłać logi?</string>
+  <string name="mqs_privacy_dialog_title">Wysyłanie logów</string>
   <string name="msd_driver_download">Pobierz sterownik</string>
   <string name="msd_driver_download_mac">OSX: Pobierz sterownik i zainstaluj install AndroidFileTransfer.dmg.</string>
   <string name="msd_driver_download_mac_url">Pobierz sterownik z http://www.android.com/filetransfer/</string>

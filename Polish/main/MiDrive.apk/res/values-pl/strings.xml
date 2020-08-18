@@ -568,4 +568,12 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="shortcut_dialog_content">Czy chcesz utworzyć skrót na pulpicie dla Mi Drive?</string>
   <string name="tip_shortcut_added_success">Pomyślnie utworzono</string>
   <string name="tip_shortcut_already_added">Skrót na pulpicie już istnieje</string>
+  <string name="load_label_up_no_data">Nie ma więcej elementów do wyświetlenia</string>
+  <string name="load_label_up_none">Nie ma więcej elementów do wyświetlenia</string>
+  <string name="load_label_up_refresh">Ładowanie elementów…</string>
+  <string name="load_label_up_refresh_fail">"Nie udało się załadować elementów"</string>
+  <string name="refresh_label_pull_to_refresh">Przesuń w dół, aby odświeżyć</string>
+  <string name="refresh_label_refreshed">Pomyślnie odświeżono</string>
+  <string name="refresh_label_refreshing">Odświeżanie…</string>
+  <string name="refresh_label_release_to_refresh">Puść, aby odświeżyć</string>
 </resources>

@@ -120,4 +120,44 @@
         <item quantity="few">%s nagrody</item>
         <item quantity="other">%s nagród</item>
     </plurals>
+    <plurals name="anonymous_resource_count_aod">
+        <item quantity="one">%1$d motyw AoD</item>
+        <item quantity="few">%1$d motywy AoD</item>
+        <item quantity="other">%1$d motywów AoD</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="one">%1$d czcionka</item>
+        <item quantity="few">%1$d czcionki</item>
+        <item quantity="other">%1$d czcionek</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="one">%1$d ikona</item>
+        <item quantity="few">%1$d ikony</item>
+        <item quantity="other">%1$d ikon</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="one">%1$d motyw</item>
+        <item quantity="few">%1$d motywy</item>
+        <item quantity="other">%1$d motywów</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="one">Dodaj %1$d element</item>
+        <item quantity="few">Dodaj %1$d elementy</item>
+        <item quantity="other">Dodaj %1$d elementów</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="one">Do Twojego konta dodano %1$d element. Wyświetl dodane elementy w swoich zamówieniach.</item>
+        <item quantity="few">Do Twojego konta dodano %1$d elementy. Wyświetl dodane elementy w swoich zamówieniach.</item>
+        <item quantity="other">Do Twojego konta dodano %1$d elementów. Wyświetl dodane elementy w swoich zamówieniach.</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="one">"Jeśli nie jesteś zalogowany, możesz pobrać tylko %1$d darmowy element (z wyjątkiem tapet i dzwonków). Zaloguj się, aby pobierać elementy bez ograniczeń."</item>
+        <item quantity="few">"Jeśli nie jesteś zalogowany, możesz pobrać tylko %1$d darmowe elementy (z wyjątkiem tapet i dzwonków). Zaloguj się, aby pobierać elementy bez ograniczeń."</item>
+        <item quantity="other">"Jeśli nie jesteś zalogowany, możesz pobrać tylko %1$d darmowych elementów (z wyjątkiem tapet i dzwonków). Zaloguj się, aby pobierać elementy bez ograniczeń."</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="one">"%1$d element nie jest dodany do Twojego konta"</item>
+        <item quantity="few">"%1$d elementy nie są dodane do Twojego konta"</item>
+        <item quantity="other">"%1$d elementów nie jest dodanych do Twojego konta"</item>
+    </plurals>
 </resources>
