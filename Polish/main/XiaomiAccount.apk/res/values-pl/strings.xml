@@ -92,7 +92,7 @@
   <string name="activity_not_found_notice">"Nie można znaleźć aplikacji"</string>
   <string name="add_account">Dodaj konto</string>
   <string name="add_this_verified_device">Dodaj to urządzenie do zaufanych</string>
-  <string name="agreement_and_privacy">Dokumenty prawne</string>
+  <string name="agreement_and_privacy">Warunki użytkownaia</string>
   <string name="agreement_and_privacy_title_short">Dokumenty prawne</string>
   <string name="alert_title_remove_account">Usunąć konto z urządzenia?</string>
   <string name="app_name">Konto Xiaomi</string>
@@ -703,4 +703,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="v7_preference_on">WŁ.</string>
   <string name="get_identity_auth_url_failed">"Nie udało się zweryfikować ID"</string>
   <string name="copy_to_clipboard_successful">Pomyślnie skopiowano</string>
+  <string name="help_center">Pomoc</string>
 </resources>

@@ -143,4 +143,10 @@ Zgłoś ten problem >"</string>
     <string name="float_notifications_short">Pływające</string>
     <string name="lockscreen_notifications_short">Ekran blokady</string>
     <string name="show_badge_notifications_short">Liczniki</string>
+    <string name="menu_setting_aggregatation_feedback">Opcje grupowania</string>
+    <string name="menu_setting_feedback_donot_classify">"Nie grupuj"</string>
+    <string name="menu_setting_more_settings">Więcej ustawień</string>
+    <string name="mune_setting_prefix_category">"Grupuj z "</string>
+    <string name="setting_menu_success">Pomyślnie ustawiono</string>
+    <string name="tip_feedback_thanks">Dziękujemy za Twoją opinię!</string>
 </resources>

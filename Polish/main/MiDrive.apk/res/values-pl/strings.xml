@@ -576,4 +576,14 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="refresh_label_refreshed">Pomyślnie odświeżono</string>
   <string name="refresh_label_refreshing">Odświeżanie…</string>
   <string name="refresh_label_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="update_dialog_button_cancel">Nie teraz</string>
+  <string name="update_dialog_button_ok">Aktualizuj</string>
+  <string name="update_dialog_content">"Nowa wersja: %1$s
+%2$s"</string>
+  <string name="update_dialog_title">Dostępna aktualizacja</string>
+  <string name="update_failed">Wystąpił błąd serwera. Odczekaj minutę bądź dwie i spróbuj ponownie.</string>
+  <string name="update_failed_no_app_info">"Nie udało się uzyskać pliku APK"</string>
+  <string name="update_no_network">"Brak połączenia z siecią. Sprawdź swoje ustawienia i spróbuj ponownie."</string>
+  <string name="update_no_update">Wersja jest aktualna</string>
+  <string name="update_progress_dialog_content">Pobieranie…</string>
 </resources>

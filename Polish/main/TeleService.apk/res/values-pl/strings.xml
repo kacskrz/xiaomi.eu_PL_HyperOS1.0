@@ -40,7 +40,7 @@
   <string name="allContactdeleteSuccess">Pomyślnie usunięto wszystkie kontakty z SIM</string>
   <string name="all_day">Cały dzień</string>
   <string name="always_enable_mms">Zawsze odbieraj MMS</string>
-  <string name="always_enable_mms_summary">Zawsze odbieraj MMS gdy wymiana danych jest wyłączona</string>
+  <string name="always_enable_mms_summary">Zawsze odbieraj MMS, również wtedy, gdy dane mobilne są wyłączone</string>
   <string name="answer_features_setting_category">Ustawienia odbierania</string>
   <string name="answer_state_setting_summary">Odwróć by wyciszyć, czujnik zbliżeniowy, wycisz nieznane numery itp.</string>
   <string name="answer_state_setting_title">Połączenia przychodzące</string>
