@@ -79,10 +79,11 @@ Klucz: %2$s
   <string name="invalid_certificate_title">"Nie można użyć tego pliku"</string>
   <string name="redirect_ca_certificate_close_button">Zamknij</string>
   <string name="redirect_ca_certificate_message">Certyfikaty CA mogą narazić na ryzyko Twoją prywatność i muszą być instalowane w Ustawieniach</string>
-  <string name="redirect_ca_certificate_title">"Nie można zainstalować certyfikatów CA"</string>
+  <string name="redirect_ca_certificate_title">"Zainstaluj certyfikaty CA w Ustawieniach"</string>
   <string name="select_certificate_usage_title">Wybierz typ certyfikatu</string>
   <string name="user_cert_is_added">Zainstalowano certyfikat użytkownika</string>
   <string name="user_certificate">Certyfikaty VPN i aplikacji użytkownika</string>
   <string name="wifi_cert_is_added">Zainstalowano certyfikat Wi-Fi</string>
   <string name="wifi_certificate">Certyfikat Wi-Fi</string>
+  <string name="redirect_ca_certificate_with_app_info_message">Ten certyfikat z aplikacji %1$s musi zostać zainstalowany w Ustawieniach. Instaluj certyfikaty CA tylko od organizacji, którym ufasz.</string>
 </resources>

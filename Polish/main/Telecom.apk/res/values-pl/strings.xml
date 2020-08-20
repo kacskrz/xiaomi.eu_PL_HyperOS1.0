@@ -351,4 +351,6 @@ Magazyn danych logowania może nie zostać włączony"</string>
   <string name="change_default_call_screening_dialog_affirmative">Ustaw jako domyślną</string>
   <string name="developer_title">Opcje programisty</string>
   <string name="respond_via_sms_failure_format">"Nie udało się wysłać wiadomości do %s."</string>
+  <string name="notification_incallservice_not_responding_body">Twoje połączenie korzysta z aplikacji do telefonu wbudowanej w system</string>
+  <string name="notification_incallservice_not_responding_title">%s przestał odpowiadać</string>
 </resources>

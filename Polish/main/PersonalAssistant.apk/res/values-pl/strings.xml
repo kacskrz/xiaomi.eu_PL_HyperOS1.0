@@ -1137,7 +1137,7 @@
      <string name="app_pa_setting_service_stock">Giełda</string>
      <string name="app_pa_setting_service_stock_summary">Ostatnie trendy na giełdzie</string>
      <string name="app_pa_setting_service_timetable">Plan lekcji</string>
-     <string name="app_pa_setting_service_timetable_summary">Wszystkie klasy w jednym miejscu</string>
+     <string name="app_pa_setting_service_timetable_summary">Dotknij, aby zaplanować klasy</string>
      <string name="app_pa_setting_title">Ustawienia</string>
      <string name="app_pa_setting_version">Wersja: %1$s</string>
      <string name="app_sports_action_live">Na żywo</string>
@@ -1167,4 +1167,22 @@
      <string name="app_screen_time_time">%1$d godz. %2$d min</string>
      <string name="app_screen_time_time_minute">%1$d min</string>
      <string name="save_to_note">Zapisz w Notatkach</string>
+     <string name="app_sleep">Sen</string>
+     <string name="app_sleep_awake">Wybudzenie</string>
+     <string name="app_sleep_continue">Śpij lepiej</string>
+     <string name="app_sleep_deep">Głęboki</string>
+     <string name="app_sleep_enough">OK</string>
+     <string name="app_sleep_light">Płytki</string>
+     <string name="app_sleep_sleeping">Śpij dłużej</string>
+     <string name="app_sleep_too_long">Za dużo</string>
+     <string name="app_sleep_too_short">Za mało</string>
+     <string name="app_stock_network_unavailable">"Brak połączenia z siecią"</string>
+     <string name="app_stock_search_fail">"Brak rezultatów"</string>
+     <string name="app_stock_search_loading">Chwileczkę…</string>
+     <string name="base_hour_minute">%1$d godz. %2$d min</string>
+     <string name="cta_dialog_all_purpose">Witaj w Asystencie MIUI! To zbiór najważniejszych informacji dotyczących Twoich spraw - notatek, snu, czasu spędzonego przed ekranem oraz innych funkcji.</string>
+     <string name="cta_dialog_desc_calendar">W celu wyświetlenia wydarzeń z kalendarza</string>
+     <string name="cta_dialog_desc_location">W celu obliczenia czasu podróży</string>
+     <string name="cta_dialog_desc_phone_state">W celu identyfikacji urządzenia poprzez IMEI</string>
+     <string name="cta_dialog_desc_storage">W celu zapisania elementów na urządzeniu</string>
 </resources>

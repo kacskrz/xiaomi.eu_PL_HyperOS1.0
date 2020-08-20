@@ -22,4 +22,5 @@
     <string name="something_went_wrong">Coś poszło nie tak</string>
     <string name="work_profile_provisioning_step_3_header">Dane z profilu do pracy są widoczne dla Twojego administratora IT</string>
     <string name="work_profile_provisioning_summary">Aplikacje do pracy znajdują się w profilu do pracy. Możesz wstrzymać ich działanie, gdy skończysz pracę. Dane z profilu do pracy są widoczne dla Twojego administratora IT.</string>
+    <string name="car_ui_toolbar_nav_icon_content_description">Wstecz</string>
 </resources>

@@ -32,4 +32,9 @@
         <item quantity="one">Interwał: %d sekunda</item>
         <item quantity="few">Interwał: %d sekundy</item>
     </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Czas trwania: %d sekund</item>
+        <item quantity="one">Czas trwania: %d sekunda</item>
+        <item quantity="few">Czas trwania: %d sekundy</item>
+    </plurals>
 </resources>

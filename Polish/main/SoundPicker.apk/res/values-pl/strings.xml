@@ -38,4 +38,5 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="unable_to_add_ringtone">Nie można dodać dzwonka niestandardowego</string>
     <string name="unable_to_delete_ringtone">Nie można usunąć dzwonka niestandardowego</string>
+    <string name="app_label">Dźwięki</string>
 </resources>
