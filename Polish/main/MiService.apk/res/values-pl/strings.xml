@@ -158,7 +158,7 @@
     <string name="rationale_ask_again">Bez nadanych wymaganych uprawnień aplikacja może nie działać prawidłowo. Wejdź w ustawienia aplikacji, aby zmienić jej uprawnienia.</string>
     <string name="search_menu_title">Szukaj</string>
     <string name="title_settings_dialog">Wymagane uprawnienia</string>
-	<string name="miui_main_update_success_title_12">Tylko twój</string>
+	<string name="miui_main_update_success_title_12">Ty decydujesz!</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja z chmurą jest wyłączona</string>
     <string name="miuix_appcompat_cloud_state_finished">Pomyślnie zsynchronizowano z chmurą</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchronizowanie z chmurą…</string>

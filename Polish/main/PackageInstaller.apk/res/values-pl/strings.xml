@@ -372,7 +372,7 @@ Wszystkie Twoje dotychczasowe dane zostaną zapisane."</string>
   <string name="oem_unlock_enable">Zdjęcie blokady OEM</string>
   <string name="oem_unlock_enable_summary">Zezwalaj na odblokowanie programu rozruchowego</string>
   <string name="ok">OK</string>
-  <string name="old_sdk_deny_warning">Ta aplikacja jest na straszą wersję Androida. Jeśli odmówisz uprawnień, aplikacja może nie działać prawidłowo.</string>
+  <string name="old_sdk_deny_warning">Ta aplikacja jest przeznaczona do starszej wersji Androida. Jeśli odmówisz uprawnień, aplikacja może nie działać prawidłowo.</string>
   <string name="orb_search_action">Wyszukaj czynność</string>
   <string name="other_permissions">Inne funkcje aplikacji</string>
   <string name="other_relative">Inne uprawnienia</string>

@@ -203,7 +203,7 @@
     <string name="no_special_app_access">Brak aplikacji ze specjalnym dostępem</string>
     <string name="not_set">Nie ustawiono</string>
     <string name="ok">OK</string>
-    <string name="old_sdk_deny_warning">Ta aplikacja jest na straszą wersję Androida. Jeśli odmówisz uprawnień, aplikacja może nie działać prawidłowo.</string>
+    <string name="old_sdk_deny_warning">Ta aplikacja jest przeznaczona do starszej wersji Androida. Jeśli odmówisz uprawnień, aplikacja może nie działać prawidłowo.</string>
     <string name="ongoing_usage_dialog_last_separator">" i  "</string>
     <string name="ongoing_usage_dialog_ok">OK</string>
     <string name="ongoing_usage_dialog_open_settings">Ustawienia prywatności</string>
