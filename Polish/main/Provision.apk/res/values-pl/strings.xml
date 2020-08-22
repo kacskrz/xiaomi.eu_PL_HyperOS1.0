@@ -2,7 +2,7 @@
 <resources>
   <string name="sim_card_detection_mobile_not_available">"Karta SIM nie ma połączenia z siecią"</string>
   <string name="sim_scard_detecting_check_mobile_not_available">"Twoja karta SIM nie ma połączenia z siecią operatora. Sprawdź ważność pakietu danych i spróbuj ponownie."</string>
-  <string name="start_up_slogan">Tylko twój</string>
+  <string name="start_up_slogan">Ty decydujesz!</string>
   <string name="accessibility_enabled">Ułatwienia dostępu włączone.</string>
   <string name="agree">Zgadzam się</string>
   <string name="agree_and_next">Zgadzam się</string>
