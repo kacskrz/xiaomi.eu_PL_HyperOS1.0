@@ -306,4 +306,7 @@
   <string name="wednesday_short">Śr</string>
   <string name="wednesday_shortest">Śr</string>
   <string name="yesterday">Wczoraj</string>
+  <string name="tool_box_active_loading">Chwileczkę…</string>
+  <string name="tool_box_active_no_networ">"Brak połączenia z siecią"</string>
+  <string name="tool_box_active_reload">Odśwież</string>
 </resources>

@@ -1308,9 +1308,9 @@ Możesz wyłączyć tę funkcję w Ustawienia > Bluetooth > Sparowane urządzeni
   <string name="calendar_sound_dialog_title">Wybierz dźwięk kalendarza</string>
   <string name="calendar_sound_title">Dźwięk kalendarza</string>
   <string name="call_example_name">Nazwa</string>
-  <string name="call_records_summary_1">9:35 | 26 sekund</string>
-  <string name="call_records_summary_2">16 sierpnia | 1 min 16 s</string>
-  <string name="call_records_summary_3">16 sierpnia | 2 min 24 s</string>
+  <string name="call_records_summary_1">%1$d:%2$d | %3$d sekund</string>
+  <string name="call_records_summary_2">%1$d | %2$d min %3$d s</string>
+  <string name="call_records_summary_3">%1$d | %2$d min %3$d s</string>
   <string name="call_manager_enable_summary">Zezwalaj tej usłudze na zarządzanie sposobem wykonywania połączeń.</string>
   <string name="call_manager_enable_title">Włącz menedżera połączeń</string>
   <string name="call_manager_title">Menedżer połączeń</string>
@@ -8204,4 +8204,6 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="screen_reader_mode_input_type_summary">Wybierz gest aktywujący wprowadzanie tekstu przy włączonej funkcji TalkBack</string>
   <string name="screen_reader_mode_input_type_title">Wprowadzanie tekstu</string>
   <string name="expand_button_title">Zaawansowane</string>
+  <string name="bt_show_notification_summary">Wyświetlaj permanentne powiadomienie w Panelu powiadomień</string>
+  <string name="bt_show_notification_title">Powiadomienia dot. urządzeń Bluetooth</string>
 </resources>
