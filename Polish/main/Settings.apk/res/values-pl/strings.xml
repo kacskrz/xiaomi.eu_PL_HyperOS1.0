@@ -8203,4 +8203,5 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="smart_home_value_unknown">Nieznane</string>
   <string name="screen_reader_mode_input_type_summary">Wybierz gest aktywujący wprowadzanie tekstu przy włączonej funkcji TalkBack</string>
   <string name="screen_reader_mode_input_type_title">Wprowadzanie tekstu</string>
+  <string name="expand_button_title">Zaawansowane</string>
 </resources>

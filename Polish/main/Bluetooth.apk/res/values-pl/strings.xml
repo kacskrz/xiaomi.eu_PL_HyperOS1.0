@@ -213,4 +213,8 @@
   <string name="switch_audio_device_hfp_toast_hint">Wybierz domyślne wyjście dźwięku, aby ponownie zacząć odtwarzanie dźwięku na tym urządzeniu.</string>
   <string name="switch_audio_device_phone_summary">Odtwarzaj dźwięk na tym urządzeniu</string>
   <string name="switch_audio_dialog_title">Wybierz wyjście dźwięku</string>
+  <string name="bluetooth_map_remote_advance_feature_support">Wspierane są zaawansowane funkcje dostępu do wiadomości</string>
+  <string name="bluetooth_map_remote_message_access_feature_downgrade">Dezaktualizacja funkcji zdalnego dostępu do wiadomości</string>
+  <string name="bluetooth_map_repair_for_adv_message_access_feature">Sparuj ponownie, aby użyć tych funkcji</string>
+  <string name="bluetooth_map_repair_for_message_access_version_comp">Sparuj ponownie, aby zapewnić kompatybilność wersji dostępu do wiadomości</string>
 </resources>

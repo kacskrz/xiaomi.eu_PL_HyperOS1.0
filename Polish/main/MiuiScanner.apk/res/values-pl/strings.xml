@@ -464,4 +464,7 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="share_format">Wyślij jako</string>
   <string name="text_to_be_translated_cannot_be_empty">Skaner wymaga tekstu do przetłumaczenia</string>
   <string name="textrecognition_results">Rozpoznany tekst</string>
+  <string name="general_no">Nie znaleziono rezultatów</string>
+  <string name="general_no_found">Podobne produkty</string>
+  <string name="general_plant">To, na co spoglądasz, może być:</string>
 </resources>
