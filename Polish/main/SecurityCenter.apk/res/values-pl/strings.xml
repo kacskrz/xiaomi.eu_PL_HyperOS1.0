@@ -3239,14 +3239,14 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="videobox_settings_title">Pasek z narzędziami wideo</string>
   <string name="virus_ad_icon_text">Reklama</string>
   <string name="virus_already_update">Definicje są aktualne</string>
-  <string name="virus_auto_update_engine">Aktualizacja：%s</string>
+  <string name="virus_auto_update_engine">Aktualizacja: %s</string>
   <string name="virus_dp_update_title">Aktualizacje definicji</string>
   <string name="virus_scan">Skaner antywirusowy</string>
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_fail">Nie udało się zaktualizować</string>
   <string name="virus_update_success">Pomyślnie zaktualizowano</string>
-  <string name="virus_update_tips_title">Połącz z Wi-Fi</string>
-  <string name="virus_wait_network_dialog_message">Połącz z Wi-Fi, aby pobrać aktualizacje bazy wirusów</string>
+  <string name="virus_update_tips_title">Pobieranie za pomocą danych mobilnych</string>
+  <string name="virus_wait_network_dialog_message">Telefon nie jest obecnie połączony z siecią Wi-Fi. Do pobrania definicji wirusów zostaną wykorzystane dane mobilne. Użyć ich?</string>
   <string name="vtb_func_desc">O tej funkcji</string>
   <string name="vtb_func_display_style_desc1">"Wybrane efekty nie mogą być zastosowane do filmów z HDR."</string>
   <string name="vtb_func_display_style_desc2">"Te efekty nie mogą zostać zastosowane do zrzutów ekranu."</string>
