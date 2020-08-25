@@ -8206,4 +8206,8 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="expand_button_title">Zaawansowane</string>
   <string name="bt_show_notification_summary">Wyświetlaj permanentne powiadomienie w Panelu powiadomień</string>
   <string name="bt_show_notification_title">Powiadomienia dot. urządzeń Bluetooth</string>
+  <string name="input_method_middle_function_move_cursor">Przesuwaj kursor</string>
+  <string name="input_method_middle_function_move_cursor_des">Przytrzymaj środkowy obszar, aby przesunąć kursor</string>
+  <string name="input_method_middle_function_no_function_des">"Nie przypisuj żadnych akcji"</string>
+  <string name="middle_function_key">Środkowy obszar</string>
 </resources>

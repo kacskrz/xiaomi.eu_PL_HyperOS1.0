@@ -312,4 +312,6 @@
   <string name="application_not_install_content">"Wygląda na to, że aplikacja wykonująca tą akcję nie jest zainstalowana na Twoim urządzeniu. Możesz ją zainstalować bądź przypisać do tego gestu inną akcję."</string>
   <string name="bluetooth_close">Ta aplikacja wyłączyła Bluetooth</string>
   <string name="bluetooth_open">Ta aplikacja włączyła Bluetooth</string>
+  <string name="input_method_clipboard_move_cursor_guide1">Przytrzymaj niebieski obszar, aby przesunąć kursor ~</string>
+  <string name="input_method_clipboard_move_cursor_guide2">Przesuń palec poziomo ~</string>
 </resources>
