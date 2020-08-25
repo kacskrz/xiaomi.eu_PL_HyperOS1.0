@@ -292,7 +292,7 @@
   <string name="card_title_outgoing_barred">Połączenia wychodzące zablokowane</string>
   <string name="card_title_redialing">Ponawianie</string>
   <string name="card_title_unconditionalCF">Bezwarunkowe przekierowanie połączeń włączone</string>
-  <string name="carrier_info">Informacje o operatorze</string>
+  <string name="carrier_info">Informacje od operatora</string>
   <string name="carrier_name">(nazwa operatora)</string>
   <string name="carrier_settings_title">Ustawienia operatora</string>
   <string name="cb_psw_dont_match">Hasła nie pasują</string>
