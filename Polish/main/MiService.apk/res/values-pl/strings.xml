@@ -178,4 +178,5 @@
     <string name="share_success">Pomyślnie udostępniono</string>
     <string name="share_title">Udostępnij</string>
     <string name="miui_guide_menu_privacy">Polityka prywatności</string>
+    <string name="miui_main_update_back_to_home">Przygotowywanie pulpitu…</string>
 </resources>

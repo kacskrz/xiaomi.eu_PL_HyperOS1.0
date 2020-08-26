@@ -238,4 +238,8 @@ dd.MM"</string>
     <string name="step_component_info_active_tip">Licznik kroków dostarczany jest przez aplikację Xiaomi Zdrowie. Aby kontynuować, wyraź zgodę na warunki korzystania z tej aplikacji.</string>
     <string name="step_component_info_desc">Gdy Twój cel zostanie osiągnięty, obok licznika kroków pojawi się puchar. Licznik kroków dostarczany jest przez aplikację Xiaomi Zdrowie.</string>
     <string name="step_component_info_tip">Licznik kroków dostarczany jest przez aplikację Xiaomi Zdrowie. Aby kontynuować, zainstaluj bądź zaktualizuj aplikację Xiaomi Zdrowie i wyraź zgodę na warunki korzystania z tej aplikacji.</string>
+    <string name="item_view_role_description">Karta</string>
+    <string name="material_slider_range_end">Koniec zasięgu,</string>
+    <string name="material_slider_range_start">Start zasięgu,</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Więcej niż %1$d nowych powiadomień</string>
 </resources>

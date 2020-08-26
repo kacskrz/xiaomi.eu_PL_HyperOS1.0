@@ -8174,7 +8174,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="bt_absVolume_open_dialog_summary">Ze względu na problemy z kompatybilnością niektóre urządzenia Bluetooth mogą mieć anormalne poziomy głośności, co może zostać rozwiązane poprzez wyłączenie tej opcji.</string>
   <string name="bt_absVolume_open_dialog_title">Uwaga</string>
   <string name="bt_absVolume_pre_title">Jednolita głośność</string>
-  <string name="bt_absVolume_summary">Utrzymuj taką samą głośność urządzeń Bluetooth i telefonu</string>
+  <string name="bt_absVolume_summary">Utrzymuj taką samą głośność urządzeń Bluetooth i telefonu. Możesz wyłączyć bądź włączyć tę funkcję, gdy nie są odtwarzane multimedia w tle.</string>
   <string name="custom_gesture_title">Własne gesty</string>
   <string name="device_opcust_version">Wersja operatora</string>
   <string name="launch_alipay_payment_code">Kod płatności Alipay</string>
