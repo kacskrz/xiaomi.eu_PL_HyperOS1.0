@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_mirror">
+        <item>Screen Combo</item>
+        <item>Więcej opcji sieci/Screen Combo</item>
+        <item>Screen Combo</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. Wyłącz funkcje hotspotu, Mi Share bądź przesyłania ekranu na telefonie przed użyciem Screen Combo.
+2. Wyłącz Wi-Fi na telefonie oraz komputerze.
+3. Upewnij się, że telefon jest położony blisko komputera."</item>
+        <item>Twój komputer używa technologii Bluetooth do wykrywania poprzednio połączonych telefonów. Sprawdź, czy na telefonie jest włączone Bluetooth.</item>
+        <item>"Gdy ekran jest zablokowany, telefony nie mogą synchronizować danych z komputerami. Domyślnie funkcja Screen Combo nie pozwala na zablokowanie ekranu w momencie, gdy telefon jest połączony z komputerem. Możesz to zmienić w Ustawieniach."</item>
+        <item>"1. Funkcję Screen Combo wspierają wybrane telefony Xiaomi z Androidem 10 lub wyższym. Jeśli po zeskanowaniu kodu QR widzisz stronę MIUI, Twoje urządzenie nie jest jeszcze wspierane.
+2. Aby móc korzystać z funkcji Screen Combo na komputerze, zainstaluj najpierw najnowszą wersję aplikacji Mi Smart Share."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"Nie możesz się połączyć za pomocą kodu QR?"</item>
+        <item>"Nie możesz odnaleźć telefonów w komputerze?"</item>
+        <item>"Nie możesz zablokować telefonu?"</item>
+        <item>Kompatybilność</item>
+    </string-array>
+</resources>
