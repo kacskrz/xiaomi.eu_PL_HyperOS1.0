@@ -635,4 +635,7 @@
   <string name="auto_disable_screenbuttons_summary">Aby włączyć przyciski ponownie, dotknij dwukrotnie dowolnego z nich</string>
   <string name="auto_disable_screenbuttons_title">Automatycznie wyłącz przyciski nawigacji</string>
   <string name="key_shortcut_settings_title">Skróty przycisków</string>
+  <string name="alexa_notification_add">Dodaj</string>
+  <string name="alexa_notification_cancel">Nie teraz</string>
+  <string name="alexa_notification_content">Dodać skrót do Alexy do Centrum funkcji?</string>
 </resources>
