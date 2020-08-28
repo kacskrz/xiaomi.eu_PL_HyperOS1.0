@@ -48,4 +48,6 @@ Czy chcesz włączyć NFC?"</string>
   <string name="title_connect_to_network">Connect to network</string>
   <string name="transaction_failure">Tej transakcji nie można wykonać w %1$s.</string>
   <string name="wifi_connect">Połącz</string>
+  <string name="nfc_blocking_alert_message">Dotknij, aby dowiedzieć się, jak to naprawić.</string>
+  <string name="nfc_blocking_alert_title">NFC może być blokowane</string>
 </resources>
