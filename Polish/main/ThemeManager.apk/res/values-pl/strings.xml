@@ -476,7 +476,7 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="resource_apply_trial">Wypróbuj</string>
   <string name="resource_back">Wstecz</string>
   <string name="resource_buy">"Kup "</string>
-  <string name="resource_can_not_selected">%1$s nie może zostać zaznaczonych!</string>
+  <string name="resource_can_not_selected">%1$s element nie może zostać zaznaczony!</string>
   <string name="resource_category">Kategorie</string>
   <string name="resource_clear_search_history">Wyczyść historię</string>
   <string name="resource_clear_search_history_dialog">Wyczyścić historię wyszukiwania?</string>
@@ -523,7 +523,7 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="resource_comment_upload_success">Komentarz wysłany!</string>
   <string name="resource_comment_wonderful_comments">Popularne komentarze</string>
   <string name="resource_continue">Dalej</string>
-  <string name="resource_current_using_title">Aktualne zasoby</string>
+  <string name="resource_current_using_title">Obecnie używany</string>
   <string name="resource_data_empty">Zawartość jest pusta.</string>
   <string name="resource_default">Domyślny dzwonek</string>
   <string name="resource_default_name">Element</string>
