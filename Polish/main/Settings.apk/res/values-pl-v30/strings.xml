@@ -719,4 +719,9 @@
   <string name="wifi_ap_ssid_off">Wył.</string>
   <string name="wifi_ap_ssid_on">Wł.</string>
   <string name="media_transfer_wired_usb_device_name">Słuchawki przewodowe</string>
+<!-- fix NFC variables for Android 11 29.08.2020 -->
+  <string name="nfc_repair_confirm_desc">"Czy napotkałeś/aś jeden z tych błędów?
+%1$d. Nie dało się dodać karty NFC.
+%2$d. Karty NFC nie działały.
+%3$d. Inne funkcje NFC nie działały."</string>
 </resources>
