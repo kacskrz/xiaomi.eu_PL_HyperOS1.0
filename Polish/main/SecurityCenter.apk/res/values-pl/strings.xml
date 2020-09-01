@@ -3726,4 +3726,16 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="icon_text_size_giga_byte">%.1f GB</string>
   <string name="icon_text_size_max">9,9 GB</string>
   <string name="icon_text_size_mega_byte">%d MB</string>
+  <string name="charger_detect_button_ok">Rozumiem</string>
+  <string name="charger_detect_info1">Sprawdź, czy ładowarka oraz kabel są prawidłowo podłączone.</string>
+  <string name="charger_detect_info2">"Ładowanie może zostać spowolnione także wtedy, gdy używasz niestandardowych bądź starych ładowarek i kabli."</string>
+  <string name="charger_detect_no_remind">"Nie wyświetlaj ponownie"</string>
+  <string name="charger_detect_title">Wolne ładowanie</string>
+  <string name="function_auto_reject_detail">"O tej funkcji:
+1. Gdy grasz w gry, wszystkie połączenia przychodzące na kartę SIM bez usługi danych mobilnych będą automatycznie odrzucane.
+2. Zobaczysz powiadomienia o ominiętych połączeniach, zaś inna osoba usłyszy wiadomość dźwiękową informującą o tym, że jesteś obecnie zajęty.
+3. Funkcja jest wspierana wyłącznie przez operatorów w Chinach."</string>
+  <string name="function_auto_reject_title">Odrzuć połączenia VoLTE do kart SIM bez usługi danych</string>
+  <string name="vb_fps_settings">Autom. częstotliwość odświeżania</string>
+  <string name="vb_fps_settings_tips">Ta funkcja dostosowuje częstotliwość odświeżania ekranu do klatkażu filmu, co oszczędza baterię i powoduje, że odtwarzany film jest płynniejszy. Włączenie pływających komentarzy wyłączy tą funkcję.</string>
 </resources>

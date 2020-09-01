@@ -31,7 +31,7 @@
   <string name="backup_fail_wifi_needed">"Kopiowanie nieudane. Wymagane jest połączenie z Wi-Fi."</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Brak miejsca w Chmurze Xiaomi. Ulepsz swój plan lub zwolnij miejsce.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Brak miejsca w pamięci telefonu. Zwolnij je.</string>
-  <string name="backup_failed_reason_network_error">Błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="backup_failed_reason_network_error">Sprawdź swoje ustawienia sieci i spróbuj ponownie</string>
   <string name="backup_finished_notification_content">Skopiowano aplikacje i ustawienia systemu</string>
   <string name="backup_now">Kopiuj teraz</string>
   <string name="backup_size">Rozmiar: %s</string>
@@ -288,4 +288,18 @@ Info: dane zainstalowanych aplikacji nie będą zachowane w Chmurze."</string>
   <string name="cloud_backup_detail_state_summary_china">Utwórz automatycznie kopię zapasową, gdy połączono z Wi-Fi</string>
   <string name="dialog_msg_restore_require_wlan_china">Przywrócenie kopii zapasowych wymaga połączenia z siecią Wi-Fi.</string>
   <string name="dialog_title_require_wlan_china">Połącz się z siecią Wi-Fi</string>
+  <string name="backup_action_buy_cloud_space">Uzyskaj więcej przestrzeni</string>
+  <string name="backup_action_check_network">Sprawdź ustawienia sieci</string>
+  <string name="backup_action_clean_disk_space">Zwolnij miejsce</string>
+  <string name="backup_action_retry_now">Spróbuj ponownie</string>
+  <string name="backup_remind_buy_cloud_space">Ulepsz swój plan Chmury</string>
+  <string name="backup_remind_clean_disk_space">Zwolnij miejsce w pamięci</string>
+  <string name="backup_remind_cloud_space_cost">Rozmiar kopii zapasowej: %s</string>
+  <string name="backup_warning_reason_cloud_space_not_enough">"Nie można wykonać kopii zapasowej"</string>
+  <string name="backup_warning_reason_disk_space_not_enough">"Brak miejsca
+Nie można wykonać kopii zapasowej"</string>
+  <string name="backup_warning_reason_network_error">"Błąd sieci
+Nie można wykonać kopii zapasowej"</string>
+  <string name="backup_warning_reason_no_server_response">"Połączenie przerwane
+Spróbuj ponownie"</string>
 </resources>

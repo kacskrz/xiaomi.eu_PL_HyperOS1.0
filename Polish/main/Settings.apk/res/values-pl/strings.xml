@@ -8210,4 +8210,5 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="input_method_middle_function_move_cursor_des">Przytrzymaj środkowy obszar, aby przesunąć kursor</string>
   <string name="input_method_middle_function_no_function_des">"Nie przypisuj żadnych akcji"</string>
   <string name="middle_function_key">Środkowy obszar</string>
+  <string name="miui_master_clear_prompt_battery_low">"Nie można wykonać przywrócenia do ustawień fabrycznych, gdy pozostało mniej niż %1$s baterii. Naładuj urządzenie, zanim kontynuujesz."</string>
 </resources>

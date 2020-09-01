@@ -167,45 +167,45 @@
        <item quantity="few">%d miesiące</item>
      </plurals>
      <plurals name="number_of_day_after">
-         <item quantity="one">%1$d dzień później</item>
-         <item quantity="other">%1$d dni później</item>
+         <item quantity="one">%1$d dzień po</item>
+         <item quantity="other">%1$d dni po</item>
      </plurals>
      <plurals name="number_of_day_before">
-         <item quantity="one">%1$d dzień temu</item>
-         <item quantity="other">%1$d dni temu</item>
+         <item quantity="one">%1$d dzień przed</item>
+         <item quantity="other">%1$d dni przed</item>
      </plurals>
      <plurals name="number_of_hour_after">
-         <item quantity="one">%1$d godz. później</item>
-         <item quantity="other">%1$d godz. później</item>
+         <item quantity="one">%1$d godz. po</item>
+         <item quantity="other">%1$d godz. po</item>
      </plurals>
      <plurals name="number_of_hour_before">
-         <item quantity="one">%1$d godz. temu</item>
-         <item quantity="other">%1$d godz. temu</item>
+         <item quantity="one">%1$d godz. przed</item>
+         <item quantity="other">%1$d godz. przed</item>
      </plurals>
      <plurals name="number_of_minute_after">
-         <item quantity="one">%1$d min. później</item>
-         <item quantity="other">%1$d min. później</item>
+         <item quantity="one">%1$d min. po</item>
+         <item quantity="other">%1$d min. po</item>
      </plurals>
      <plurals name="number_of_minute_before">
-         <item quantity="one">%1$d min. temu</item>
-         <item quantity="other">%1$d min. temu</item>
+         <item quantity="one">%1$d min. przed</item>
+         <item quantity="other">%1$d min. przed</item>
      </plurals>
      <plurals name="number_of_second_after">
-         <item quantity="one">%1$d sek. później</item>
-         <item quantity="other">%1$d sek. później</item>
+         <item quantity="one">%1$d sek. po</item>
+         <item quantity="other">%1$d sek. po</item>
      </plurals>
      <plurals name="number_of_second_before">
-         <item quantity="one">%1$d sek. temu</item>
-         <item quantity="other">%1$d sek. temu</item>
+         <item quantity="one">%1$d sek. przed</item>
+         <item quantity="other">%1$d sek. przed</item>
      </plurals>
      <plurals name="number_of_week_after">
-         <item quantity="one">%1$d tydzień później</item>
-         <item quantity="few">%1$d tygodnie później</item>
-         <item quantity="other">%1$d tygodni później</item>
+         <item quantity="one">%1$d tydzień po</item>
+         <item quantity="few">%1$d tygodnie po</item>
+         <item quantity="other">%1$d tygodni po</item>
      </plurals>
      <plurals name="number_of_week_before">
-         <item quantity="one">%1$d tydzień temu</item>
-         <item quantity="few">%1$d tygodnie temu</item>
-         <item quantity="other">%1$d tygodni temu</item>
+         <item quantity="one">%1$d tydzień przed</item>
+         <item quantity="few">%1$d tygodnie przed</item>
+         <item quantity="other">%1$d tygodni przed</item>
      </plurals>
 </resources>

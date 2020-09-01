@@ -2275,4 +2275,10 @@ Wygląda na to, że magazyn danych logowania nie jest włączony."</string>
     <string name="wifi_whitelist_roaming_summary">Włącz roaming pomiędzy różnymi punktami dostępu SSID WPA/WPA2-PSK z takim samym adresem MAC bramy domyślnej</string>
     <string name="sim_state_locked_dialog_title">Karta SIM zablokowana</string>
     <string name="sim_state_locked_puk_dialog_message">"Wprowadzono nieprawidłowy kod PUK co najmniej %d razy. Twoja karta SIM została zablokowana. Wymień ją na inną."</string>
+    <string name="face_unlock_passwork_and_fingerprint_v11">Wprowadź hasło lub użyj odcisku palca, aby odblokować</string>
+    <string name="face_unlock_pattern_and_fingerprint_v11">Narysuj wzór lub użyj odcisku palca, aby odblokować</string>
+    <string name="face_unlock_pin_and_fingerprint_v11">Wprowadź PIN lub użyj odcisku palca, aby odblokować</string>
+    <string name="input_password_hint_text_v11">Wprowadź hasło</string>
+    <string name="input_pattern_hint_text_v11">Narysuj wzór</string>
+    <string name="input_pin_hint_text_v11">Wprowadź PIN</string>
 </resources>

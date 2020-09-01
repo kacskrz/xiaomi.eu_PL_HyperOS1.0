@@ -2140,7 +2140,7 @@
      <string name="vlog_video_trans_code_cons">Przetwarzanie pliku wysokiej rozdzielczości…</string>
      <string name="filter_general_blackice">Czarny lód</string>
 	   <string name="filter_general_greenorange">Limonka</string>
-	   <string name="filter_general_movie">Film</string>
+	   <string name="filter_general_movie">Kino</string>
 	   <string name="filter_movie_portrait">Wyróżnienie kolorem</string>
      <string name="online_video_normal_transcoding">Odtwarzacz online nie jest jeszcze gotowy. Pobrano element.</string>
      <string name="online_video_vip_tip">Uzyskaj członkostwo VIP, aby streamować pliki wideo bez ich pełnego preładowania</string>
@@ -2188,7 +2188,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
      <string name="screen_editor_shell_storage_insufficient">"Nie można pobrać ramki urządzenia ze względu na brak miejsca"</string>
      <string name="time_burst_photo_enter">Wyzwalacz zdjęć seryjnych</string>
      <string name="time_burst_preview_title">Wyzwalacz zdjęć seryjnych</string>
-    <string name="cleaner_empty">Usuń wszystko</string>
+    <string name="cleaner_empty">Wyczyść wszystko</string>
     <string name="drop_failed">"Nie udało się zapisac"</string>
     <string name="drop_format_not_supported">"Ten typ pliku nie jest wspierany"</string>
     <string name="drop_success">Pomyślnie zapisano</string>
@@ -2237,9 +2237,19 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="sky_nocturne">Noc</string>
     <string name="sky_sunny">Słońce</string>
     <string name="text_tab_mark">Dymki</string>
-    <string name="time_burst_save_all">Zapisz wszystkie zdjęcia</string>
-    <string name="time_burst_save_select">Zapisz wybrane zdjęcia</string>
+    <string name="time_burst_save_all">Eksportuj wszystkie zdjęcia</string>
+    <string name="time_burst_save_select">Eksportuj wybrane zdjęcia</string>
     <string name="time_burst_save_video">Zapisz jako wideo</string>
     <string name="trash_size">Usunięte elementy (%s)</string>
     <string name="cleaner_title">Czyszczenie</string>
+    <string name="burst_save_dialog_title">Wybierz, które zdjęcia zachować</string>
+    <string name="filter_movie_quiet">Spokój</string>
+    <string name="filter_popular_bluedream">Drzemka</string>
+    <string name="filter_popular_shallow_summer">Czerwiec</string>
+    <string name="filter_popular_smokegreen">Saga</string>
+    <string name="filter_popular_watergreen">Szmaragd</string>
+    <string name="filter_portrait_mojito">Mojito</string>
+    <string name="filter_portrait_waterblue">Akwamaryn</string>
+    <string name="photo_page_rotate_screen">Obróć ekran</string>
+    <string name="time_burst_save_dialog_title">Eksportuj elementy</string>
 </resources>

@@ -399,7 +399,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="passport_find_device_activate_account">Aktywuj konto</string>
   <string name="passport_find_device_display_id">numer do odblokowania: %s</string>
   <string name="passport_find_password_on_web_msg">Przejdź na account.mi.com aby odzyskać hasło.</string>
-  <string name="passport_first_login_prompt">Konto Xiaomi zostanie założone automatycznie, gdy pierwszy raz się na nie zalogujesz.</string>
+  <string name="passport_first_login_prompt">Konto Xiaomi zostanie założone automatycznie, gdy pierwszy raz użyjesz numeru telefonu.</string>
   <string name="passport_forget_password">Zapomniałem hasła</string>
   <string name="passport_forget_password_no_underline">Zapomniałem hasła</string>
   <string name="passport_get_back_pwd">Odzyskaj hasło</string>
