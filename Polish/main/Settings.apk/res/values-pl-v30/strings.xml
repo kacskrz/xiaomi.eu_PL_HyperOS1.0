@@ -383,7 +383,6 @@
   <string name="nfc_payment_set_default_label">Ustaw domyślną aplikację do obsługi płatności</string>
   <string name="nfc_payment_settings_title">Płatności zbliżeniowe</string>
   <string name="nfc_payment_update_default_label">Zmień domyślną aplikację do obsługi płatności</string>
-  <string name="nfc_repair_confirm_desc">Have you experienced any of these issues?\n%1$d. You couldn\'t add or top up an NFC card.\n%2$d. Your NFC card didn\'t work.\n%3$d. Other NFC features won\'t load.</string>
   <string name="nfc_secure_settings_title">NFC wymaga odblokowania urządzenia</string>
   <string name="no_5g_in_dsds_text">Gdy używasz 2 kart SIM, telefon jest ograniczony do transmisji 4G. &lt;annotation id=\"url\"&gt;Więcej informacji&lt;/annotation&gt;</string>
   <string name="notification_access_detail_switch">Zezwalaj na dostęp do powiadomień</string>
