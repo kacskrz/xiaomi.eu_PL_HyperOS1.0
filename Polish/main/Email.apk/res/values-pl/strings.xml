@@ -1242,7 +1242,7 @@ Brak połączenia z siecią."</string>
   <string name="ntes_do_not_sms_uplink">Wyślij SMS z powiązanego numeru telefonu, a następnie dotknij „Wiadomość wysłana”.</string>
   <string name="ntes_had_send">Wiadomość wysłana</string>
   <string name="ntes_had_send_to_content">Jeśli wysłałeś już SMS z powiązanego numeru telefonu, kliknij „Wiadomość wysłana”, aby kontynuować.</string>
-  <string name="ntes_login_error_message">Nie można uzyskać informacji o koncie (błąd %s). %s</string>
+  <string name="ntes_login_error_message" formatted="false">Nie można uzyskać informacji o koncie (błąd %s). %s</string>
   <string name="ntes_password_error_hint">Jeśli podczas wprowadzania hasła wystąpią błędy, zamknij tę stronę i otwórz ją ponownie.</string>
   <string name="ntes_phone_send">Wyślij wiadomość tekstową z powiązanego numeru telefonu</string>
   <string name="ntes_send_to">Wyślij do: %s</string>
