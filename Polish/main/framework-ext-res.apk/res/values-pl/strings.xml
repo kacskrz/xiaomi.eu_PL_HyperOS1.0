@@ -314,4 +314,8 @@
   <string name="bluetooth_open">Ta aplikacja włączyła Bluetooth</string>
   <string name="input_method_clipboard_move_cursor_guide1">Przytrzymaj niebieski obszar, aby przesunąć kursor ~</string>
   <string name="input_method_clipboard_move_cursor_guide2">Przesuń palec poziomo ~</string>
+  <string name="trial_mode_dialog_button_cancel">Anuluj</string>
+  <string name="trial_mode_dialog_button_save">Zapisz</string>
+  <string name="trial_mode_dialog_message">Gra \"%s\" jest uruchomiona w trybie próbnym. Restart urządzenia bądź przełączenie się na tryb Prędkość światła usunie tę grę. Zapisać ją w pamięci wewnętrznej?</string>
+  <string name="trial_mode_dialog_title">Tryb próbny</string>
 </resources>

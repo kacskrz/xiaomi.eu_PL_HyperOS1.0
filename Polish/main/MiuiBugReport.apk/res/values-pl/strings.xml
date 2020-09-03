@@ -844,4 +844,13 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="v_code_title">Wprowadź kod</string>
   <string name="open_settings">Przejdź do ustawień</string>
   <string name="passport_can_not_receive_verification_code">"Nie otrzymałeś kodu?"</string>
+  <string name="stop_full_log_dialog_cancel">Nie teraz</string>
+  <string name="stop_full_log_dialog_confirm">Wyślij</string>
+  <string name="stop_full_log_dialog_content">Wygląda na to, że są generowane logi. Czy chcesz zatrzymać ich tworzenie i wysłać te z nich, które są gotowe?</string>
+  <string name="stop_full_log_dialog_title">Generowanie logów…</string>
+  <string name="suggest_upload_log_dialog_cancel">Nie, dzięki</string>
+  <string name="suggest_upload_log_dialog_confirm">Wyślij</string>
+  <string name="suggest_upload_log_dialog_content">"Aby pomóc inżynierom Xiaomi zlokalizować i rozwiązać zgłoszony przez Ciebie problem tak szybko, jak to możliwe, rekomendujemy wysłanie powiązanych logów. Są one wykorzystywane wyłącznie w celu analizy problemów i nie będą wykorzystywane w innych celach."</string>
+  <string name="suggest_upload_log_dialog_title">Wyślij powiązane logi</string>
+  <string name="toast_min_description_count">Opis powinien być dłuższy</string>
 </resources>

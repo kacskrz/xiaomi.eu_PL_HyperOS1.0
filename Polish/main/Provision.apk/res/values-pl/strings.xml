@@ -274,4 +274,15 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="home_settings_miui_home">Klasyczny</string>
   <string name="home_settings_poco_launcher">Z szufladą aplikacji</string>
   <string name="home_settings_title">Wybierz domyślny launcher</string>
+  <string name="wc_dialog_agree">Zgadzam się</string>
+  <string name="wc_dialog_reject">"Nie zgadzam się"</string>
+  <string name="wc_dialog_summary">Tapety Blokady codziennie dostarczają nowe i ciekawe obrazy na Twój Ekran blokady.</string>
+  <string name="wc_dialog_title">Odmieniony Ekran blokady</string>
+  <string name="wc_double_check_agree">Wypróbuj</string>
+  <string name="wc_double_check_reject">Nie, dzięki</string>
+  <string name="wc_double_check_summary">Możesz włączyć Tapety Blokady, aby sprawdzić, czy ta funkcja działa poprawnie i czy będziesz z niej zadowolony, Możesz wyłączyć tę opcję w Ustawieniach > Ekran blokady.</string>
+  <string name="wc_double_check_title">Wypróbuj Tapety Blokady</string>
+  <string name="wc_notice_link_agreement_index">Umowa użytkownika</string>
+  <string name="wc_notice_link_privacy_index">Polityka prywatności</string>
+  <string name="wc_notice_link_summary">"Przeczytałem i akceptuję warunki dostawcy treści trzecich zawarte w dokumentach %1$s i %2$s"</string>
 </resources>
