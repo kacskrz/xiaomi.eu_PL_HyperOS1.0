@@ -193,7 +193,7 @@ Jeśli zdecydujesz się na usunięcie danych po tym, jak wybrałeś ich zapisani
      <string name="deep_sleep">Głęboki sen</string>
      <string name="deep_sleep_duration">Czas trwania głębokiego snu</string>
      <string name="deep_sleep_duration_decrease_description">Twój głęboki sen jest zbyt krótki</string>
-     <string name="deep_sleep_duration_description">"Kiedy ludzie śpią, pojawiają się okresowe, nagłe ruchy gałek ocznych. Sen może zostać podzielony na etap z ruchami oczu oraz bez ruchów oczu. Głęboki sen występuje w trakcie okresu NREM i stanowi około 20 do 25% całego, nocnego snu. W czasie głębokiego snu występuje obniżona aktywność świadomości, zaś mózg znajduje się w relatywnie statycznym stanie, co powoduje, że trudniej się wybudzamy."</string>
+     <string name="deep_sleep_duration_description">"Kiedy ludzie śpią, pojawiają się okresowe, nagłe ruchy gałek ocznych. Sen może zostać podzielony na etap z ruchami oczu oraz bez ruchów oczu. Głęboki sen występuje w trakcie okresu NREM i stanowi około 20 do 25%% całego, nocnego snu. W czasie głębokiego snu występuje obniżona aktywność świadomości, zaś mózg znajduje się w relatywnie statycznym stanie, co powoduje, że trudniej się wybudzamy."</string>
      <string name="deep_sleep_duration_increase_description">Twój głęboki sen jest zbyt długi</string>
      <string name="deep_sleep_duration_normal_description">Twoja ilość głębokiego snu jest wystarczająca</string>
      <string name="delete">Usuń</string>
