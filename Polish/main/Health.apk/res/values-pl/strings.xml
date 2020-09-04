@@ -439,7 +439,7 @@ Jeśli po upływie 30 minut od położenia się do łóżka wciąż nie możesz 
      <string name="late">Późno</string>
      <string name="light_sleep">Płytki sen</string>
      <string name="light_sleep_duration">Czas trwania płytkiego snu</string>
-     <string name="light_sleep_duration_description">Kiedy ludzie śpią, pojawiają się okresowe, nagłe ruchy gałek ocznych. Sen może być podzielony pomiędzy fazę REM (Rapid Eye Movement) i fazę bez okresowych, nagłych ruchów gałek ocznych (NREM - Non-Rapid Eye Movement). Płytki sen obejmuje fazę NREM, stanowiąc około 50 do 60% całego czasu snu. W trakcie płytkiego snu świadomość jest znacząco zredukowana, zaś mózg znajduje się w relatywnie statycznym stanie, co powoduje, że łatwiej się wybudzamy.</string>
+     <string name="light_sleep_duration_description">Kiedy ludzie śpią, pojawiają się okresowe, nagłe ruchy gałek ocznych. Sen może być podzielony pomiędzy fazę REM (Rapid Eye Movement) i fazę bez okresowych, nagłych ruchów gałek ocznych (NREM - Non-Rapid Eye Movement). Płytki sen obejmuje fazę NREM, stanowiąc około 50 do 60%% całego czasu snu. W trakcie płytkiego snu świadomość jest znacząco zredukowana, zaś mózg znajduje się w relatywnie statycznym stanie, co powoduje, że łatwiej się wybudzamy.</string>
      <string name="light_sleep_time_decrease_description">Twój płytki sen jest zbyt krótki</string>
      <string name="light_sleep_time_increase_description">Twój płytki sen jest zbyt długi</string>
      <string name="light_sleep_time_normal_description">Masz wystarczająco dużo płytkiego snu</string>
@@ -642,7 +642,7 @@ Jeśli po upływie 30 minut od położenia się do łóżka wciąż nie możesz 
      <string name="rem_Duration_increase_description">Czas trwania fazy REM twojego snu jest zbyt długi</string>
      <string name="rem_duration">Czas trwania fazy REM snu</string>
      <string name="rem_duration_decrease_description">Czas trwania fazy REM twojego snu jest zbyt krótki</string>
-     <string name="rem_duration_description" formatted="false">REM odnosi się do mimowolnych ruchów gałek ocznych. Sen może być podzielony pomiędzy fazę REM (Rapid Eye Movement) i fazę bez okresowych, nagłych ruchów gałek ocznych (NREM - Non-Rapid Eye Movement). Faza REM obejmuje około 20 do 25% ogólnego czasu snu. Kiedy ludzie budzą się w trakcie tej fazy, od 74 do 95% z nich mówi, że miało złe sny i są zdolni do pamiętania tych snów. Mózg w czasie fazy REM jest bardzo aktywny, zaś ciało kompletnie zrelaksowane, co sprawia, że ta faza jest najistotniejsza dla zarządzania funkcjami kognitywnymi.</string>
+     <string name="rem_duration_description" formatted="false">REM odnosi się do mimowolnych ruchów gałek ocznych. Sen może być podzielony pomiędzy fazę REM (Rapid Eye Movement) i fazę bez okresowych, nagłych ruchów gałek ocznych (NREM - Non-Rapid Eye Movement). Faza REM obejmuje około 20 do 25%% ogólnego czasu snu. Kiedy ludzie budzą się w trakcie tej fazy, od 74 do 95%% z nich mówi, że miało złe sny i są zdolni do pamiętania tych snów. Mózg w czasie fazy REM jest bardzo aktywny, zaś ciało kompletnie zrelaksowane, co sprawia, że ta faza jest najistotniejsza dla zarządzania funkcjami kognitywnymi.</string>
      <string name="rem_duration_normal_description">Czas trwania fazy REM twojego snu jest odpowiedni</string>
      <string name="remind">Przypomnij</string>
      <string name="remind_goto_sleep">Jest już późno. Czas iść spać.</string>
@@ -698,7 +698,7 @@ Jeśli po upływie 30 minut od położenia się do łóżka wciąż nie możesz 
      <string name="sleep_deep_light_no_data_improvement">Nie udało się wykryć faz snu. Będziemy poprawiać nasze algorytmy. Bądź czujny!</string>
      <string name="sleep_detection_enable">Analizuj fazy snu</string>
      <string name="sleep_detection_feedback">Opinia</string>
-     <string name="sleep_detection_guide_four_description">Monitorowanie snu zużyje około 1% baterii na dzień.</string>
+     <string name="sleep_detection_guide_four_description">Monitorowanie snu zużyje około 1%% baterii na dzień.</string>
      <string name="sleep_detection_guide_four_high_power_description">Upewnij się, że bateria w twoim urządzeniu jest wystarczająco naładowana, zanim pójdziesz do łóżka. Niski poziom baterii może zakłócić monitoring snu.</string>
      <string name="sleep_detection_guide_four_high_power_title">Miej naładowane urządzenie</string>
      <string name="sleep_detection_guide_four_title">Niskie zużycie energii</string>
