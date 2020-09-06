@@ -611,4 +611,11 @@
         <item>Fidżi</item>
         <item>Tonga</item>
     </string-array>
+    <string-array name="account_sync_frequency">
+        <item>Ręcznie</item>
+        <item>Co 15 minut</item>
+        <item>Co godzinę</item>
+        <item>Co 4 godziny</item>
+        <item>Co 12 godzin</item>
+    </string-array>
 </resources>

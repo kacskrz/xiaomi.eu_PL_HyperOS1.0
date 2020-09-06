@@ -580,8 +580,8 @@ Pamiętaj, że do poprawnego działania ta aplikacja wymaga łączenia się z In
     <string name="new_wait_link_message_1">Przejdź do Ustawień, wprowadź \"Przenoszenie danych\" w pasku wyszukiwania i dotknij opcji \"Przenoszenie danych\" w wynikach wyszukiwania.</string>
     <string name="new_wait_link_message_2">"Przycisk \"Jestem nadawcą\" znajduje się na głównej stronie Przenoszenia danych."</string>
     <string name="new_wait_link_title_1">1. Przejdź do Ustawień na starym urządzeniu.</string>
-    <string name="new_wait_link_title_2">2. Wprowadź \"Przenoszenie danych\" w pasku wyszukiwania.</string>
-    <string name="new_wait_link_title_3">3. Dotknij opcji \"Przenoszenie danych\" w wynikach wyszukiwania.</string>
+    <string name="new_wait_link_title_2">1. Dotknij opcji \"Jestem nadawcą\" i odczekaj chwilę.</string>
+    <string name="new_wait_link_title_3">2. Wybierz odpowiedni hotspot Wi-Fi na starym urządzeniu.</string>
     <string name="option_privacy_policy">Polityka prywatności</string>
     <string name="permission_bluetooth_summary">Aby odnaleźć dostępne urządzenia w pobliżu</string>
     <string name="permission_bluetooth_title">Włączanie i wyłączanie Bluetooth</string>
@@ -647,4 +647,29 @@ Zaloguj się na swoje konto Xiaomi, aby je przywrócić."</string>
 Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate chats."</string>
     <string name="dialog_wechat_data_transfer_fail_title">"Nie udało się przenieść danych WeChata"</string>
     <string name="scanner_not_support_data_transfer_tip">"Nie można przenieść danych aplikacji (włącznie z historią czatów z aplikacji WeChat i QQ) z urządzeń spoza portfolio Xiaomi."</string>
+    <string name="dialog_connect_ap_timeout_button">Połącz</string>
+    <string name="dialog_connect_ap_timeout_message">Wygląda na to, że automatyczne łączenie trwa zbyt długo. Spróbuj połączyć się ręcznie.</string>
+    <string name="dialog_connect_ap_timeout_title">Połącz się ręcznie</string>
+    <string name="guest_manual_connect_link_text">Połącz się z nowym urządzeniem ręcznie</string>
+    <string name="host_manual_connect_link_text">Jeśli stare urządzenie szuka hotspota zbyt długo, spróbuj połączyć się ręcznie.</string>
+    <string name="manual_connection_content1">1. Dotknij przycisku \"Połącz się z nowym urządzeniem ręcznie\" na starym urządzeniu.</string>
+    <string name="manual_connection_content2">2. Wybierz odpowiedni hotspot Wi-Fi.</string>
+    <string name="manual_connection_content3">3. Wprowadź te hasło na starym urządzeniu, aby się połączyć.</string>
+    <string name="manual_connection_summary2">"Jeśli nie możesz odnaleźć tego hotspotu, odśwież listę dostępnych sieci Wi-Fi i spróbuj ponownie."</string>
+    <string name="manual_connection_title">Połącz się ze starym urządzeniem ręcznie</string>
+    <string name="not_support_data_content1">1. Elementy specyficzne dla danego urządzenia</string>
+    <string name="not_support_data_content2">2. Dane wybranych aplikacji</string>
+    <string name="not_support_data_content3">3. Dane Drugiej przestrzeni</string>
+    <string name="not_support_data_content4">4. Sklonowane aplikacje</string>
+    <string name="not_support_data_link">"Elementy, które nie mogą zostać przeniesione"</string>
+    <string name="not_support_data_summary1">"Motywy i tapety nie mogą być przeniesione za pomocą Przenoszenia danych."</string>
+    <string name="not_support_data_summary2">Część aplikacji wprowadza ścisłe zasady bezpieczeństwa, aby zapobiec przenoszeniu danych aplikacji. Mogą to być np. aplikacje bankowe bądź usługi finansowe.</string>
+    <string name="not_support_data_summary3">"Ze względu na ograniczenia systemu elementy z Drugiej przestrzeni nie mogą być przenoszone za pomocą Przenoszenia danych."</string>
+    <string name="not_support_data_summary4">"Sklonowane aplikacje i ich dane także nie mogą zostać przeniesione. Możesz natomiast przenieść odpowiednie główne aplikacje."</string>
+    <string name="not_support_data_title">"Elementy, które nie mogą zostać przeniesione"</string>
+    <string name="open_photo_and_contacts_cloud_sync_complete">Start</string>
+    <string name="open_photo_and_contacts_cloud_sync_content1">%d. Włącz synchronizację dla kontaktów i elementów w Galerii.</string>
+    <string name="open_photo_and_contacts_cloud_sync_content2">%d. Dotknij przycisku \"Synchronizuj teraz\".</string>
+    <string name="open_photo_and_contacts_cloud_sync_summary">Włącz synchronizację, aby kontakty i elementy z Galerii pojawiły się na tym urządzeniu.</string>
+    <string name="open_photo_and_contacts_cloud_sync_title">Synchronizuj kontakty i Galerię</string>
 </resources>
