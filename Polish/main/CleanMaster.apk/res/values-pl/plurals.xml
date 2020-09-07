@@ -206,4 +206,13 @@ Możesz usunąć ten plik."</item>
         <item quantity="few">&lt;Data>Znaleziono &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> wiadomości głosowe&lt;/Data></item>
         <item quantity="one">&lt;Data>Znaleziono &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> wiadomość głosową&lt;/Data></item>
     </plurals>
+    <plurals name="install_find_application">
+        <item quantity="other">Wyszukaj wśród %d aplikacji</item>
+        <item quantity="one">Wyszukaj wśród %d aplikacji</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">Znaleziono %d aplikacji</item>
+        <item quantity="one">Znaleziono %d aplikację</item>
+        <item quantity="few">Znaleziono %d aplikacje</item>
+    </plurals>
 </resources>

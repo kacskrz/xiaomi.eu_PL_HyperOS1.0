@@ -1108,4 +1108,22 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
   <string name="voice_report_off">Wyłączone</string>
   <string name="voice_report_wiredon">Ze słuchawkami</string>
   <string name="ad_close_button_text">Reklamy</string>
+    <string name="banner_btn_install">Zainstaluj</string>
+    <string name="banner_btn_not_now">Nie teraz</string>
+    <string name="banner_btn_open">Otwórz</string>
+    <string name="default_google_message_promo_content">"Ustawiono aplikację Wiadomości od Google jako Twoją domyślną aplikację do SMS-ów. Dotknij przycisku \"Otwórz\", aby ją uruchomić."</string>
+    <string name="enable_classify_tip_dialog_content">Ta opcja spowoduje ponowne uruchomienie aplikacji SMS.</string>
+    <string name="google_message_promo_content">Xiaomi zaleca zmianę aplikacji na Wiadomości od Google. Pozwala ona na wysyłanie wiadomości poprzez sieć Wi-Fi, udostępnianie multimediów w wysokiej jakości oraz więcej innych funkcji. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Zobacz szczegóły</a></font>.</string>
+    <string name="google_message_promo_title">Zmień aplikację do SMS-ów</string>
+    <string name="installed_google_message_promo_content">Xiaomi zaleca zmianę aplikacji na Wiadomości od Google. Pozwala ona na wysyłanie wiadomości poprzez sieć Wi-Fi, udostępnianie multimediów w wysokiej jakości oraz więcej innych funkcji.</string>
+    <string name="installed_google_message_promo_title">Zacznij korzystać z Wiadomości</string>
+    <string name="permission_retry_deny">Anuluj</string>
+    <string name="permission_retry_dialog_msg">Aplikacja SMS wymaga uprawnień do poprawnego działania. Aby je nadać, dotknij przycisku \"Ustawienia\", wybierz opcję \"Uprawnienia\" i zezwól aplikacji na dostęp do telefonu, SMS-ów i kontaktów.</string>
+    <string name="permission_retry_setting">Ustawienia</string>
+    <string name="pref_summary_enable_classify">Przenoś reklamy i wiadomości finansowe do oddzielnych kart</string>
+    <string name="pref_title_enable_classify">Automatycznie grupuj wiadomości</string>
+    <string name="sp_msg_entry">Usługi</string>
+    <string name="toast_not_show_camera_perm_req">Aby użyć tej funkcji, zezwól aplikacji SMS na korzystanie z aparatu</string>
+    <string name="toast_not_show_microphone_perm_req">Aby użyć tej funkcji, zezwól aplikacji SMS na korzystanie z mikrofonu</string>
+    <string name="toast_not_show_storage_perm_req">Aby użyć tej funkcji, zezwól aplikacji SMS na dostęp do pamięci</string>
 </resources>

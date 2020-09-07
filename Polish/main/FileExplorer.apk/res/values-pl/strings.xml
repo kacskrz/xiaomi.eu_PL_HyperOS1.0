@@ -779,4 +779,12 @@ and never miss the cool new ones!"</string>
   <string name="storage_maintenance_mode">Pamięć w trybie zawieszenia</string>
   <string name="drag_not_support_with_dir">"Nie można zmieniać położenia ani wysyłać folderów"</string>
   <string name="save_file_to_mishare">"Zapisano w katalogu funkcji Mi Share"</string>
+    <string name="encrypt_setting">Szyfrowanie</string>
+    <string name="not_use">Nie teraz</string>
+    <string name="operation_encrypt_summary">Zaszyfruj pliki w prywatnym katalogu. Deszyfrowanie dużych plików może trwać dłużej.</string>
+    <string name="operation_encrypt_title">Zaszyfruj prywatne pliki</string>
+    <string name="private_folder_update_msg">Aplikacja Pliki wprowadza dodatkowe zabezpieczenie - od teraz możesz zaszyfrować prywatne pliki!</string>
+    <string name="private_folder_update_msg_summary">Deszyfrowanie spowolni proces usuwania plików z prywatnego katalogu. Możesz włączyć lub wyłączyć szyfrowanie w Ustawieniach.</string>
+    <string name="private_folder_update_tips">Nowa funkcja</string>
+    <string name="use">Użyj</string>
 </resources>

@@ -793,4 +793,9 @@
   <string name="notification_uninstalled_clean_without_name">Odinstalowane aplikacje pozostawiły po sobie zbędne rzeczy</string>
   <string name="notification_whatsapp_clean_button_text">Wyczyść</string>
   <string name="notification_whatsapp_clean_size">Pamięć podręczna WhatsAppa osiągnęła %s</string>
+    <string name="install_time_format">dd.MM.yyyy</string>
+    <string name="permission_dialog_storage_btn1">Ustawienia</string>
+    <string name="permission_dialog_storage_btn2">Anuluj</string>
+    <string name="permission_dialog_storage_content">Czyszczenie wymaga uprawnienia dostępu do pamięci wewnętrznej w celu poprawnego działania. Dotknij przycisku \"Ustawienia\", aby zarządzać uprawnieniami do pamięci.</string>
+    <string name="permission_dialog_storage_title">Wymagane uprawnienia</string>
 </resources>
