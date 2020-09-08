@@ -1633,4 +1633,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="super_moon_under">Światło księżyca</string>
   <string name="super_moon_window">Okno</string>
   <string name="pano_go_on_moving">Przesuwaj urządzenie ciągle wzdłuż linii</string>
+  <string name="aiwatermark_location_absent_hint">"Nie udało się uzyskać lokalizacji"</string>
+  <string name="aiwatermark_location_list_title">Lokalizacja</string>
+  <string name="aiwatermark_location_tips">Zezwól aplikacji Aparat na dostęp do Twojej lokalizacji, aby uzyskać więcej odpowiednich znaków wodnych</string>
 </resources>
