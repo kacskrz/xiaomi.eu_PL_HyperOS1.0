@@ -1204,7 +1204,7 @@ długi zrzut ekranu"</string>
   <string name="miui_ringer_standard_description">Wycisza dzwonki dla przychodzących połączeń i powiadomień</string>
   <string name="miui_ringer_total">Godz. Ciszy</string>
   <string name="miui_ringer_total_description">Wycisza dźwięki i wyłącza wibracje dla wszystkich zdarzeń prócz alarmów</string>
-  <string name="miui_screen_rotation_freeze_message">Wyłączono obrót ekranu.</string>
+  <string name="miui_screen_rotation_freeze_message">Zablokowano obrót ekranu w trybie horyzontalnym</string>
   <string name="miui_toast_zen_dnd_to_off">Wyłączono tryb Godziny ciszy. Dźwięki i wibracje zostały przywrócone.</string>
   <string name="miui_toast_zen_standard_to_off">Wyłączono tryb Cichy. Dźwięk dzwonków i powiadomień został przywrócony.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Wyłączono tryb Godziny ciszy. Dzwonki, powiadomienia i dźwięki multimediów będą słyszalne.</string>

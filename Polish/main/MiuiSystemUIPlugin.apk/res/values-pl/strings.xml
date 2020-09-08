@@ -167,4 +167,10 @@
     <string name="wednesday_short">Śr</string>
     <string name="wednesday_shortest">Śr</string>
     <string name="yesterday">Wczoraj</string>
+    <string name="quick_settings_pcmode_cancel_button">ANULUJ</string>
+    <string name="quick_settings_pcmode_dialog_message_turnoff">Wyłącz Pocket PC</string>
+    <string name="quick_settings_pcmode_dialog_message_turnon">Włącz Pocket PC</string>
+    <string name="quick_settings_pcmode_dialog_remember_text">"Nie pokazuj ponownie"</string>
+    <string name="quick_settings_pcmode_label">Pocket PC</string>
+    <string name="quick_settings_pcmode_ok_button">OK</string>
 </resources>

@@ -188,7 +188,7 @@
   <string name="screen_on_proximity_sensor_summary">Nie zakrywaj obszaru głośnika</string>
   <string name="screen_on_proximity_sensor_title">Przypadkowe użycie</string>
   <string name="screen_paper_mode_enter_toast">Wspomaganie czytania jest włączone. Możesz wyłączyć funkcję w każdej chwili w Ustawienia &gt; Wyświetlacz &gt; Wspomaganie czytania.</string>
-  <string name="screen_rotation_freeze_message">Rotacja ekranu wyłączona</string>
+  <string name="screen_rotation_freeze_message">Zablokowano obrót ekranu w trybie horyzontalnym</string>
   <string name="screenshot_gesture_detect_alert_button">Włącz w Ustawieniach</string>
   <string name="screenshot_gesture_detect_alert_dont_again">Nie pokazuj ponownie</string>
   <string name="screenshot_gesture_detect_alert_msg">Przesunąć w dół trzema palcami, aby zrobić zrzut ekranu?</string>

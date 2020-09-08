@@ -32,4 +32,9 @@
         <item quantity="other">Zgłoszone przez %d użytkowników MIUI</item>
         <item quantity="one">Zgłoszone przez %d użytkownika MIUI</item>
     </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Rozłączenie za %1$s sekund…</item>
+        <item quantity="one">Rozłączenie za %1$s sekundę…</item>
+        <item quantity="few">Rozłączenie za %1$s sekundy…</item>
+    </plurals>
 </resources>

@@ -385,4 +385,6 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="perm_action_deny">Nigdy nie zezwalaj</string>
   <string name="perm_modem_location">Dostęp do lokalizacji</string>
   <string name="perm_modem_location_desc">Twój operator próbuje uzyskać informacje o Twojej lokalizacji. Czy chcesz mu ich udzielić?</string>
+  <string name="HIPS_Perm_recognition">Dostęp do informacji dot. aktywności</string>
+  <string name="HIPS_Perm_recognition_Desc">Zezwól aplikacji na dostęp do informacji dot. Twojej aktywności</string>
 </resources>
