@@ -3,7 +3,7 @@
     <string-array name="settings_search_mirror">
         <item>Screen Combo</item>
         <item>Więcej opcji sieci/Screen Combo</item>
-        <item>Screen Combo</item>
+        <item>Screen Combo;Przesyłanie ekranu;Wiele ekranów;PC;Komputer</item>
     </string-array>
     <string-array name="settings_tips_message">
         <item>"1. Wyłącz funkcje hotspotu, Mi Share bądź przesyłania ekranu na telefonie przed użyciem Screen Combo.

@@ -285,4 +285,5 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="wc_notice_link_agreement_index">Umowa użytkownika</string>
   <string name="wc_notice_link_privacy_index">Polityka prywatności</string>
   <string name="wc_notice_link_summary">"Przeczytaj i zaakceptuj warunki dostawcy treści trzecich zawarte w dokumentach %1$s i %2$s przed użyciem tej funkcji."</string>
+  <string name="wc_notice_link_announcement_summary">"Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki dostawcy treści trzecich zawarte w &lt;a href=\"%1$s\">Polityce prywatności&lt;/a> oraz &lt;a href=\"%2$s\">Umowie użytkownika&lt;/a>."</string>
 </resources>

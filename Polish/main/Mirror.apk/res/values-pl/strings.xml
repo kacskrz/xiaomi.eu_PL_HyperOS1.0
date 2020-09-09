@@ -195,4 +195,11 @@
     <string name="worker_try_join_in_connected_state">Pomyślnie połączono</string>
     <string name="worker_try_join_in_connecting_state">Łączenie z urządzeniem…</string>
     <string name="yesterday">Wczoraj</string>
+    <string name="http_buffer_size">Rozmiar pamięci podręcznej HTTP</string>
+    <string name="log_warning">"Przełączanie przełączników dot. logów może zwiększyć ryzyko bezpieczeństwa i wpłynąć na wydajność. Używaj ich tylko wtedy, gdy to konieczne."</string>
+    <string name="message_log">Logi wiadomości</string>
+    <string name="resource_log">Logi źródeł</string>
+    <string name="settings_log_options">Logi</string>
+    <string name="traffic_log">Logi ruchu</string>
+    <string name="worker_authorization_loading">Chwileczkę…</string>
 </resources>
