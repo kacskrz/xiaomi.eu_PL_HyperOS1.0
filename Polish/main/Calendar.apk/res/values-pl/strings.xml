@@ -853,7 +853,7 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię nic ważnego."</stri
   <string name="account_manager_installing">Instalowanie...</string>
   <string name="account_manager_not_display">Nie wyświetlaj</string>
   <string name="account_manager_settings_sync">Ustaw częstotliwość synchronizacji</string>
-  <string name="account_manager_settings_sync_immediately">Natychmiast</string>
+  <string name="account_manager_settings_sync_immediately">Synchronizacja</string>
   <string name="account_manager_tips">Nie udało się usunąć konta. Aby je usunąć, przejdź do ustawień aplikacji Kalendarz > Konta kalendarza i znajdź konto, które chcesz usunąć.</string>
   <string name="account_name_calendar">Kalendarz</string>
   <string name="account_not_exist">Konto nie istnieje</string>
@@ -902,7 +902,7 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię nic ważnego."</stri
   <string name="summary_import_by_url">Wspiera pliki kalendarza z adresu URL</string>
   <string name="tip_input_calendar_link">Wprowadź adres URL kalendarza</string>
   <string name="title_import_by_caldav">Importuj konto CalDAV</string>
-  <string name="title_import_by_email">importuj adres e-mail</string>
+  <string name="title_import_by_email">Importuj adres e-mail</string>
   <string name="title_import_by_local">Importuj lokalnie</string>
   <string name="title_import_by_url">Importuj z URL</string>
   <string name="toast_block_by_other_work">Poczekaj, aż obecne zadanie zostanie zakończone, i spróbuj ponownie</string>

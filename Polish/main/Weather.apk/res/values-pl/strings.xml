@@ -39,7 +39,7 @@
   <string name="activity_alert_detail_title"/>
   <string name="activity_find_city_dialog_cancel">Anuluj</string>
   <string name="activity_find_city_dialog_message">Zezwól Pogodzie na dostęp do lokalizacji urządzenia</string>
-  <string name="activity_find_city_dialog_message_global">Zezwól Pogodzie na dostęp do lokalizacji urządzenia przez GPS</string>
+  <string name="activity_find_city_dialog_message_global">Włącz opcje Dostęp do lokalizacji oraz Dokładność lokalizacji Google w Ustawieniach, aby móc zlokalizować poprawnie Twoje położenie w ramach automatycznej lokalizacji.</string>
   <string name="activity_find_city_dialog_message_location_service">Zezwól Pogodzie na dostęp do lokalizacji urządzenia w celu uzyskania lepszych informacji o pogodzie.</string>
   <string name="activity_find_city_dialog_set">Ustawienia</string>
   <string name="activity_find_city_dialog_title">Dostęp do lokalizacji</string>
