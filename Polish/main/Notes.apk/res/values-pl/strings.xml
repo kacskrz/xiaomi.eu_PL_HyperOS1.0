@@ -443,4 +443,5 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="sync_note_folder">%1$s oraz %2$s</string>
   <string name="sync_note_todo">%1$s oraz %2$s</string>
   <string name="cta_v2_agree_desc">Zezwól tej aplikacji na połączenie się z Internetem i nadaj jej obowiązkowe uprawnienia wymienione powyżej.</string>
+  <string name="edit_note_hint_title">Tytuł</string>
 </resources>
