@@ -714,4 +714,13 @@
         <item quantity="one">%d aplikacja</item>
         <item quantity="few">%d aplikacje</item>
     </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Możesz użyć Blokady aplikacji dla %1$s aplikacji</item>
+        <item quantity="one">Możesz użyć Blokady aplikacji dla %1$s aplikacji</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s aplikacji będzie chronionych Blokadą aplikacji</item>
+        <item quantity="one">%s aplikacja będzie chroniona Blokadą aplikacji</item>
+        <item quantity="few">%s aplikacje będą chronione Blokadą aplikacji</item>
+    </plurals>
 </resources>

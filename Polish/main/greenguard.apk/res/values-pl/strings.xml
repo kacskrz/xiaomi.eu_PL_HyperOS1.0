@@ -172,4 +172,12 @@ Rozmiar: %2$s"</string>
 Rozmiar zmian: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Aktualizacja %1$s</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Pamięć niedostępna, sprawdź kartę SD.</string>
+    <string name="I_know">Rozumiem</string>
+    <string name="bind_status_dialog_cancle">Anuluj</string>
+    <string name="bind_status_dialog_confirm">Przywróć</string>
+    <string name="bind_status_dialog_des">Wygląda na to, że poprzednio dodane urządzenie nie jest już chronione przez Kontrolę rodzicielską. Przywrócić \"%s\"?</string>
+    <string name="bind_status_dialog_title">Przywróć dodane urządzenie</string>
+    <string name="bind_status_last_bind_time">Dodano po raz pierwszy: %s</string>
+    <string name="refresh">Odśwież</string>
+    <string name="search_menu_title">Szukaj</string>
 </resources>

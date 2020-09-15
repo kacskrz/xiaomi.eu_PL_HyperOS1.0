@@ -1086,4 +1086,20 @@ dd.M."</string>
   <string name="miuix_compat_dialog_title">Zastosowano domyślny motyw: \"%s\"</string>
   <string name="miuix_compat_dialog_update_title">Wymagana jest aktualizacja</string>
   <string name="miuix_compat_mms">SMS</string>
+  <string name="home_daily">Codzienne nagłówki</string>
+  <string name="item_view_role_description">Karta</string>
+  <string name="loading_picture">Ładowanie obrazu…</string>
+  <string name="material_slider_range_end">Koniec zasięgu,</string>
+  <string name="material_slider_range_start">Początek zasięgu,</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Więcej niż %1$d nowych powiadomień</string>
+  <string name="resource_status_error">"Wystąpił błąd. Nie można wyświetlić teraz tej tapety."</string>
+  <string name="share_copy_theme_url">Kopiuj adres motywu</string>
+  <string name="share_copy_url_success">Pomyślnie skopiowano</string>
+  <string name="share_copy_wallpaper_url">Kopiuj adres tapety</string>
+  <string name="share_picture_loading">Ładowanie obrazu…</string>
+  <string name="share_save_success">Pomyślnie zapisano</string>
+  <string name="share_save_to_photo">Galeria</string>
+  <string name="share_theme_content_text">"Możesz pobrać wspaniały motyw \"%1$s\" stąd: %2$s. Od "</string>
+  <string name="share_wallpaper_content_text">"Możesz pobrać świetną tapetę \"%1$s\" stąd: %2$s. Od "</string>
+  <string name="wallpaper_setting_library">Biblioteka</string>
 </resources>

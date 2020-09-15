@@ -8213,4 +8213,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miui_master_clear_prompt_battery_low">"Nie można wykonać przywrócenia do ustawień fabrycznych, gdy pozostało mniej niż %1$s baterii. Naładuj urządzenie, zanim kontynuujesz."</string>
   <string name="wifi_connect_channel">Kanał Wi-Fi:</string>
   <string name="wifi_connect_frequency">Częstotliwość Wi-Fi:</string>
+  <string name="launch_noapp_dialog_cancel">Anuluj</string>
+  <string name="launch_noapp_dialog_install">Instaluj</string>
+  <string name="launch_noapp_dialog_replace">Ustawienia</string>
 </resources>

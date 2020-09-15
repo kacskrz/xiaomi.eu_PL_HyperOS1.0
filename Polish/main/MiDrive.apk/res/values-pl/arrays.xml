@@ -8,4 +8,9 @@
         <item>W celu zalogowania się za pomocą konta Xiaomi</item>
         <item>W celu podglądu, wysyłania, pobrania i synchronizowania plików</item>
     </string-array>
+    <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+        <item>W celu zalogowania się za pomocą konta Xiaomi</item>
+        <item>W celu podglądu, wysyłania, pobierania i synchronizacji plików</item>
+        <item>W celu sprawdzania aktualizacji</item>
+    </string-array>
 </resources>

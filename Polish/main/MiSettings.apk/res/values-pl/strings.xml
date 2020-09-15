@@ -520,4 +520,11 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="dc_light_hint_other">Ściemnianie DC może wpływać na częstotliwość odświeżania oraz na to, jak wyświetlane będą niektóre elementy.</string>
     <string name="dc_lignt_enable_hint">Tryb Ograniczenie migotania spowoduje ustawienie częstotliwości odświeżania na wartość 60 Hz. Czy chcesz przełączyć się na ten tryb?</string>
     <string name="usage_device_limit_app_prolong_time5">Dodaj czas jednorazowo</string>
+    <string name="fps_nature_summary">Wysoka częstotliwość odświeżania sprawia, że wszystko wydaje się płynniejsze, lecz bateria może się zużywać szybciej</string>
+    <string name="fps_nature_title">Wysoka</string>
+    <string name="fps_smooth_summary">Pośrednia częstotliwość odświeżania to złoty środek pomiędzy płynnością a czasem pracy na baterii</string>
+    <string name="fps_smooth_title">Pośrednia</string>
+    <string name="fps_standard_summary">Standardowa częstotliwość odświeżania oszczędza baterię</string>
+    <string name="fps_standard_title">Standardowa</string>
+    <string name="fps_user_tip">Demonstracje poszczególnych trybów są odtwarzane z małą prędkością w celach informacyjnych. Rzeczywiste działanie może wyglądać inaczej w zależności od różnych czynników.</string>
 </resources>

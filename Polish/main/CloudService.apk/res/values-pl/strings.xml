@@ -624,7 +624,7 @@ Funkcja szyfruje i przesyła numer ID urządzenia na serwery Xiaomi."</string>
   <string name="passed_synced_time_sec">Zsynchronizowano %d s temu</string>
   <string name="password">Hasło</string>
   <string name="pay_info_dialog_confirm_to_pay">Zapłać %s</string>
-  <string name="pay_info_dialog_mibi_balance_prefix">Użyj pozostałych Mi Kredytów: %s</string>
+  <string name="pay_info_dialog_mibi_balance_prefix">Użyj pozostałych Mi Monet: %s</string>
   <string name="pay_info_dialog_title">Wybierz metodę płatności</string>
   <string name="phone_number_may_required_dspt_provision">"Ta usługa może wymagać podania numeru telefonu. "</string>
   <string name="phone_number_required_dspt_provision">"Ta usługa wymaga podania numeru telefonu. "</string>
@@ -943,4 +943,12 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="power_off_locate_summary">"Wyślij informację o lokalizacji poprzez długie przytrzymanie przycisku Zasilania.
 Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="power_off_locate_title">Wyślij lokalizację przed wyłączeniem urządzenia</string>
+  <string name="cloud_space_full_gallery_notification_content_text">Ulepsz swój plan, aby uzyskać więcej miejsca w Chmurze</string>
+  <string name="cta_notification_content_text">Zezwól aplikacji %s na łącczenie się z Internetem, aby przywrócić elementy</string>
+  <string name="cta_notification_content_title">"Nie można przywrócić elementów: %s"</string>
+  <string name="micloud_manual_request_permission_cancel">Anuluj</string>
+  <string name="micloud_manual_request_permission_confirm">Ustawienia</string>
+  <string name="micloud_manual_request_permission_content">Aby móc używać usług dostarczanych przez Xiaomi, nadaj Chmurze Xiaomi w Ustawieniach następujące uprawnienia: \"%s\".</string>
+  <string name="micloud_manual_request_permission_content_on_provision">Nadaj najpierw wymagane uprawnienia w Panelu sterowania</string>
+  <string name="micloud_manual_request_permission_title">Wymagane uprawnienia</string>
 </resources>

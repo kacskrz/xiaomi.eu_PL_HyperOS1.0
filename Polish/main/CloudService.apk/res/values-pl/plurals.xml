@@ -104,4 +104,8 @@
         <item quantity="other">"Nie można wybrać więcej niż %d elementów"</item>
         <item quantity="one">"Nie można wybrać więcej niż %d elementu"</item>
     </plurals>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">"Nie można zsynchronizować %s elementów"</item>
+        <item quantity="one">"Nie można zsynchronizować %s elementu"</item>
+    </plurals>
 </resources>

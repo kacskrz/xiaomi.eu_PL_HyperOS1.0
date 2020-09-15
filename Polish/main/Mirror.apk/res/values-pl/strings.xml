@@ -141,7 +141,7 @@
     <string name="search_menu_title">Szukaj</string>
     <string name="settings_connect">Jak się połączyć</string>
     <string name="settings_connect_more_help"><u>Pomoc</u></string>
-    <string name="settings_connect_summary1">Otwórz Mi Smart Share na komputerze i wybierz \"Screen Combo\". Możesz pobrać aplikację Mi Smart Share ze strony www.miui.com.</string>
+    <string name="settings_connect_summary1">Otwórz Mi Smart Share na komputerze i wybierz \"Screen Combo\". Możesz pobrać aplikację Mi Smart Share ze strony https://pc.mi.com/aiot.</string>
     <string name="settings_connect_summary2">Zeskanuj kod QR na komputerze za pomocą telefonu. Możesz do tego wykorzystać różne aplikacje systemowe (np. Skaner, Aparat czy Przeglądarkę).</string>
     <string name="settings_connect_title1">Krok 1.</string>
     <string name="settings_connect_title2">Krok 2.</string>
@@ -202,4 +202,5 @@
     <string name="settings_log_options">Logi</string>
     <string name="traffic_log">Logi ruchu</string>
     <string name="worker_authorization_loading">Chwileczkę…</string>
+    <string name="tip_connect_fail_for_hotspot">"Nie udało się połączyć. Wyłącz hotspot i spróbuj ponownie."</string>
 </resources>

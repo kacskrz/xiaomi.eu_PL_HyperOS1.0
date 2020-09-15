@@ -3738,4 +3738,23 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="function_auto_reject_title">Odrzuć połączenia VoLTE do kart SIM bez usługi danych</string>
   <string name="vb_fps_settings">Autom. częstotliwość odświeżania</string>
   <string name="vb_fps_settings_tips">Ta funkcja dostosowuje częstotliwość odświeżania ekranu do klatkażu filmu, co oszczędza baterię i powoduje, że odtwarzany film jest płynniejszy. Włączenie pływających komentarzy wyłączy tą funkcję.</string>
+  <string name="applock_add_account_ignore">Nie teraz</string>
+  <string name="applock_add_account_ignore_with_seconds">Nie teraz (%ds)</string>
+  <string name="applock_add_account_tips">"Jeśli zapomnisz hasła Blokady aplikacji, będzie można je przywrócić za pomocą konta Xiaomi."</string>
+  <string name="applock_add_account_title">Dodaj swoje konto Xiaomi</string>
+  <string name="applock_already_add_account">Obecne konto: %s</string>
+  <string name="applock_bind_account_dialog_content">Twoje konto Xiaomi to jedyna opcja przywrócenia Blokady aplikacji w razie jej zapomnienia. Zaloguj się, aby dodać swoje konto Xiaomi.</string>
+  <string name="applock_bind_account_dialog_title">Dodaj swoje konto Xiaomi</string>
+  <string name="applock_guide_notification_summary">Chroń swoją prywatność Blokadą aplikacji</string>
+  <string name="applock_guide_notification_title">Inni ludzie mogą zobaczyć wrażliwe informacje na Twoim ekranie</string>
+  <string name="applock_no_account_login">"Nie jesteś zalogowany na swoje konto Xiaomi"</string>
+  <string name="applock_operate_faceunlock_summary">Odblokowuj aplikacje, spoglądając na ekran</string>
+  <string name="applock_operate_faceunlock_title">Użyj twarzy</string>
+  <string name="applock_operate_fingerprint_summary">Blokada aplikacji wspiera dodawanie wielu odcisków palca</string>
+  <string name="applock_operate_fingerprint_title">Użyj odcisku palca</string>
+  <string name="applock_operate_hidenoti_summary">Blokada aplikacji może to zrobić dla chronionych aplikacji</string>
+  <string name="applock_operate_hidenoti_title">Czy chcesz ukryć wrażliwe powiadomienia?</string>
+  <string name="applock_recommend_tips">%s użytkowników chroni te aplikacje</string>
+  <string name="applock_recommend_title">Wybierz aplikacje</string>
+  <string name="applock_set_complete">Użyj Blokady aplikacji</string>
 </resources>
