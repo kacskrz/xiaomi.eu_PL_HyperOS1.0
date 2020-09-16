@@ -8216,4 +8216,17 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="launch_noapp_dialog_cancel">Anuluj</string>
   <string name="launch_noapp_dialog_install">Instaluj</string>
   <string name="launch_noapp_dialog_replace">Ustawienia</string>
+  <string name="activity_check_context">"Twoje urządzenie próbuje obecnie połączyć się z Internetem. Jeśli korzystasz z danych mobilnych, ten proces może potrwać dłużej. Możesz wrócić do poprzedniego menu i połączyć się z siecią Wi-Fi bądź poczekać, aż urządzenie połączy się z siecią za pomocą danych mobilnych."</string>
+  <string name="activity_check_title">Łączenie się z Internetem</string>
+  <string name="dialog_check_button_negative">Spróbuj ponownie</string>
+  <string name="dialog_check_button_positive">Połącz się z Wi-Fi</string>
+  <string name="dialog_check_context">"Urządzenie nie może obecnie połączyć się z Internetem.
+1. Aby wybrać jedną z dostępnych sieci Wi-Fi, dotknij opcji \"Połącz się z Wi-Fi\".
+2. Jeśli chcesz użyć danych mobilnych, dotknij opcji \"Spróbuj ponownie\" lub usuń i włóż ponownie swoją kartę SIM."</string>
+  <string name="dialog_check_title">"Nie można połączyć się z Internetem"</string>
+  <string name="dialog_wifi_button_negative">Nie</string>
+  <string name="dialog_wifi_button_positive">Tak</string>
+  <string name="dialog_wifi_context">Aby skonfigurować swoje urządzenie, musisz połączyć się z Internetem. Dopóki nie połączysz się z siecią Wi-Fi, do tego celu mogą zostać wykorzystane dane mobilne. Może to spowodować naliczenie opłat przez operatora. Użyć danych mobilnych mimo to?</string>
+  <string name="dialog_wifi_title">Korzystanie z danych mobilnych</string>
+  <string name="font_size_kddi">Średni</string>
 </resources>
