@@ -282,4 +282,26 @@
         <item quantity="few">(%1$d lata)</item>
         <item quantity="other">(%1$d lat)</item>
     </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Czas trwania okresu: %1$d dni</item>
+        <item quantity="one">Czas trwania okresu: %1$d dzień</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Czas trwania cyklu: %1$d dni</item>
+        <item quantity="one">Czas trwania cyklu: %1$d dzień</item>
+    </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d cykli</item>
+        <item quantity="one">%1$d cykl</item>
+        <item quantity="few">%1$d cykle</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Okres zacznie się prawdopodobnie za %1$d dni</item>
+        <item quantity="one">Okres zacznie się prawdopodobnie za %1$d dzień</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" cykli"</item>
+        <item quantity="one">" cykl"</item>
+        <item quantity="few">" cykle"</item>
+    </plurals>
 </resources>

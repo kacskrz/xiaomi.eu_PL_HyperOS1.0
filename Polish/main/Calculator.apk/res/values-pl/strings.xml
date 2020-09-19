@@ -87,7 +87,7 @@
     <string name="description_title">O kalkulatorze</string>
     <string name="deselect_all">Odznacz</string>
     <string name="devided_by_zero_reminder_message">Nie można dzielić przez 0</string>
-    <string name="dialog_privacy_content">Oprócz podstawowych funkcji kalkulatora, nasza aplikacja zawiera również kalkulator naukowy i uniwersalny konwerter. Niektóre funkcje wymagają łączności z Internetem, aby działać normalnie. Przed użyciem Kalkulatora musisz przeczytać i zgodzić się na warunki następujących umów: %1$s, %2$s.</string>
+    <string name="dialog_privacy_content">&lt;Data&gt;Oprócz podstawowych funkcji kalkulatora, nasza aplikacja zawiera również kalkulator naukowy i uniwersalny konwerter. Niektóre funkcje wymagają łączności z Internetem, aby działać normalnie. Przed użyciem Kalkulatora musisz przeczytać i zgodzić się na warunki następujących umów: &amp;lt;a href=\"%1$s\"&amp;gt;Umowa użytkownika&amp;lt;/a&amp;gt;, &amp;lt;a href=\"%2$s\"&amp;gt;Polityka prywatności&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
     <string name="dialog_privacy_title">Warunki użytkowania</string>
     <string name="dialog_rating_desc_ask">Jakie są Twoje wrażenia z działania Kalkulatora?</string>
     <string name="dialog_rating_desc_less">Możesz przekazać nam swoją opinię?</string>
@@ -761,4 +761,36 @@ Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</st
     <string name="tv_recurrence_monthly">Miesięcznie</string>
     <string name="tv_recurrence_quaterly">Kwartalnie</string>
     <string name="tv_recurrence_yearly">Rocznie</string>
+    <string name="common_google_play_services_enable_button">Włącz</string>
+    <string name="common_google_play_services_enable_text">"Aplikacja %1$s nie będzie działać, dopóki nie włączysz Usług Google Play."</string>
+    <string name="common_google_play_services_enable_title">Włącz Usługi Google Play</string>
+    <string name="common_google_play_services_install_button">Zainstaluj</string>
+    <string name="common_google_play_services_install_text">"Aplikacja %1$s nie uruchomi się bez Usług Google Play, których nie ma na tym urządzeniu."</string>
+    <string name="common_google_play_services_install_title">Zainstaluj Usługi Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostępność Usług Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Błąd Usług Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Aplikacja %1$s ma problemy z Usługami Google Play. Spróbuj ponownie.</string>
+    <string name="common_google_play_services_unsupported_text">"Aplikacja %1$s nie uruchomi się bez Usług Google Play, które nie są wspierane przez to urządzenie."</string>
+    <string name="common_google_play_services_update_button">Zaktualizuj</string>
+    <string name="common_google_play_services_update_text">"Aplikacja %1$s nie uruchomi się, dopóki nie zaktualizujesz Usług Google Play."</string>
+    <string name="common_google_play_services_update_title">Zaktualizuj Usługi Google Play</string>
+    <string name="common_google_play_services_updating_text">"Aplikacja %1$s nie uruchomi się bez Usług Google Play, które są obecnie aktualizowane."</string>
+    <string name="common_google_play_services_wear_update_text">Wymagana jest nowsza wersja Usług Google Play. Zostaną one niezwłocznie zaktualizowane.</string>
+    <string name="common_open_on_phone">Otwórz na telefonie</string>
+    <string name="common_signin_button_text">Zaloguj się</string>
+    <string name="common_signin_button_text_long">Zaloguj się za pomocą Google</string>
+    <string name="convertion_unit_data">Konwerter danych</string>
+    <string name="currency_dialog_privacy_content">&lt;Data&gt;Konwerter walut musi połączyć się z Internetem, aby uzyskać najświeższe kursy walut. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &amp;lt;a href=\"%1$s\"&amp;gt;Umowy użytkownika&amp;lt;/a&amp;gt; oraz &amp;lt;a href=\"%2$s\"&amp;gt;Polityki prywatności&amp;lt;/a&amp;gt; Xiaomi.&lt;/Data&gt;</string>
+    <string name="dont_allow">"Nie zgadzam się"</string>
+    <string name="item_title_data_conversion">Dane</string>
+    <string name="label_powered_by">Dostarczane przez Kalkulator Mi</string>
+    <string name="privacy_disagree">Jeśli nie zgodzisz się na warunki zawarte w polityce prywatności oraz umowie użytkownika, aplikacja Kalkulator zaprzestanie gromadzenia danych, a wszystkie powiązane z Tobą dane zostaną usunięte z serwerów Xiaomi. Niektóre funkcje aplikacji mogą przestać działać. Czy chcesz odmówić zgody mimo to?</string>
+    <string name="privacy_switch">Nie, zgadzam się</string>
+    <string name="privacy_switch_disagree">Odmawiam</string>
+    <string name="unit_data_display_data_b">Bajt</string>
+    <string name="unit_data_display_data_gb">Gigabajt</string>
+    <string name="unit_data_display_data_kb">Kilobajt</string>
+    <string name="unit_data_display_data_mb">Megabajt</string>
+    <string name="unit_data_display_data_pb">Petabajt</string>
+    <string name="unit_data_display_data_tb">Terabajt</string>
 </resources>
