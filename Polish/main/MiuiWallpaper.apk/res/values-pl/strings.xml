@@ -24,7 +24,7 @@
   <string name="clearable_edittext_clear_description">Wyczyść</string>
   <string name="date_picker_lunar">Kalendarz księżycowy</string>
   <string name="earth_summary">Ziemia jest kolebką ludzkiej cywilizacji</string>
-  <string name="earth_title">Dom</string>
+  <string name="earth_title">Ziemia</string>
   <string name="game_view_content_description">Widok gier</string>
   <string name="mars_position_content_0">"Ten region zawiera klify, mesy i szerokie doliny, które prawdopodobnie są wynikiem obecności pokrytych gruzem lodowców na tym terenie. Wykryto tu również minerały ilaste, które są bardzo ważne w poszukiwaniu dowodów życia w przeszłości na Marsie.
 
@@ -43,7 +43,7 @@ krateru w Hale"</string>
   <string name="mars_position_title_2">"Krater w
 Mawrth Vallis"</string>
   <string name="mars_summary">Ogromne pustynie na Marsie zawsze zachwycały ludzkość</string>
-  <string name="mars_title">Czerwona planeta</string>
+  <string name="mars_title">Mars</string>
   <string name="miui_clock_city_name_local">Lokalny</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
@@ -58,7 +58,7 @@ Mawrth Vallis"</string>
   <string name="password_toggle_content_description">Pokaż hasło</string>
   <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
   <string name="saturn_summary">Pierścienie Saturna są najbardziej niesamowitym widowiskiem w Układzie Słonecznym</string>
-  <string name="saturn_title">Oddalony pierścień</string>
+  <string name="saturn_title">Saturn</string>
   <string name="search_menu_title">Szukaj</string>
   <string name="super_wallpaper_list_label">Super tapety</string>
   <string name="super_wallpaper_setting_apply_success_toast">Pomyślnie zastosowano</string>
