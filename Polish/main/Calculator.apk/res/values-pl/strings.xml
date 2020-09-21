@@ -87,7 +87,7 @@
     <string name="description_title">O kalkulatorze</string>
     <string name="deselect_all">Odznacz</string>
     <string name="devided_by_zero_reminder_message">Nie można dzielić przez 0</string>
-    <string name="dialog_privacy_content">&lt;Data&gt;Oprócz podstawowych funkcji kalkulatora, nasza aplikacja zawiera również kalkulator naukowy i uniwersalny konwerter. Niektóre funkcje wymagają łączności z Internetem, aby działać normalnie. Przed użyciem Kalkulatora musisz przeczytać i zgodzić się na warunki następujących umów: &amp;lt;a href=\"%1$s\"&amp;gt;Umowa użytkownika&amp;lt;/a&amp;gt;, &amp;lt;a href=\"%2$s\"&amp;gt;Polityka prywatności&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="dialog_privacy_content"><Data>Oprócz podstawowych funkcji kalkulatora, nasza aplikacja zawiera również kalkulator naukowy i uniwersalny konwerter. Niektóre funkcje wymagają łączności z Internetem, aby działać normalnie. Przed użyciem Kalkulatora musisz przeczytać i zgodzić się na warunki następujących umów: &lt;a href=\"%1$s\">Umowa użytkownika&lt;/a>, &lt;a href=\"%2$s\">Polityka prywatności&lt;/a>.</Data></string>
     <string name="dialog_privacy_title">Warunki użytkowania</string>
     <string name="dialog_rating_desc_ask">Jakie są Twoje wrażenia z działania Kalkulatora?</string>
     <string name="dialog_rating_desc_less">Możesz przekazać nam swoją opinię?</string>
@@ -780,7 +780,7 @@ Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</st
     <string name="common_signin_button_text">Zaloguj się</string>
     <string name="common_signin_button_text_long">Zaloguj się za pomocą Google</string>
     <string name="convertion_unit_data">Konwerter danych</string>
-    <string name="currency_dialog_privacy_content">&lt;Data&gt;Konwerter walut musi połączyć się z Internetem, aby uzyskać najświeższe kursy walut. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &amp;lt;a href=\"%1$s\"&amp;gt;Umowy użytkownika&amp;lt;/a&amp;gt; oraz &amp;lt;a href=\"%2$s\"&amp;gt;Polityki prywatności&amp;lt;/a&amp;gt; Xiaomi.&lt;/Data&gt;</string>
+    <string name="currency_dialog_privacy_content">&lt;Data&gt;Konwerter walut musi połączyć się z Internetem, aby uzyskać najświeższe kursy walut. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
     <string name="dont_allow">"Nie zgadzam się"</string>
     <string name="item_title_data_conversion">Dane</string>
     <string name="label_powered_by">Dostarczane przez Kalkulator Mi</string>
