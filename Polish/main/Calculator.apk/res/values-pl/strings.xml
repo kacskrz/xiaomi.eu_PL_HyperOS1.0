@@ -780,7 +780,7 @@ Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</st
     <string name="common_signin_button_text">Zaloguj się</string>
     <string name="common_signin_button_text_long">Zaloguj się za pomocą Google</string>
     <string name="convertion_unit_data">Konwerter danych</string>
-    <string name="currency_dialog_privacy_content">&lt;Data&gt;Konwerter walut musi połączyć się z Internetem, aby uzyskać najświeższe kursy walut. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
+    <string name="currency_dialog_privacy_content"><Data>Konwerter walut musi połączyć się z Internetem, aby uzyskać najświeższe kursy walut. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
     <string name="dont_allow">"Nie zgadzam się"</string>
     <string name="item_title_data_conversion">Dane</string>
     <string name="label_powered_by">Dostarczane przez Kalkulator Mi</string>
