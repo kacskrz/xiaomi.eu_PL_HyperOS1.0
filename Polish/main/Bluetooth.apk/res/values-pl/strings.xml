@@ -217,4 +217,5 @@
   <string name="bluetooth_map_remote_message_access_feature_downgrade">Dezaktualizacja funkcji zdalnego dostępu do wiadomości</string>
   <string name="bluetooth_map_repair_for_adv_message_access_feature">Sparuj ponownie, aby użyć tych funkcji</string>
   <string name="bluetooth_map_repair_for_message_access_version_comp">Sparuj ponownie, aby zapewnić kompatybilność wersji dostępu do wiadomości</string>
+  <string name="switch_audio_device_switch_hint">Możesz wyłączyć powiadomienia dot. podłączonych urządzeń w Ustawieniach > Bluetooth > Ustawienia zaawansowane.</string>
 </resources>

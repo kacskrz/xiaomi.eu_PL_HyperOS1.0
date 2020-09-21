@@ -1438,4 +1438,15 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja z Chmurą wył.</string>
   <string name="miuix_appcompat_cloud_state_finished">Pomyślnie zsynchronizowano z Chmurą</string>
   <string name="miuix_appcompat_cloud_state_syncing">Synchronizowanie z Chmurą…</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Odznacz</string>
+  <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Wybierz elementy</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Więcej</string>
+  <string name="miuix_appcompat_cancel_description">Anuluj</string>
+  <string name="miuix_appcompat_confirm_description">Potwierdź</string>
+  <string name="miuix_appcompat_delete_description">Usuń</string>
+  <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
+  <string name="miuix_appcompat_search_input_description">Szukaj</string>
+  <string name="miuix_appcompat_select_all_description">Zaznacz wszystko</string>
 </resources>

@@ -586,4 +586,5 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="update_no_network">"Brak połączenia z siecią. Sprawdź swoje ustawienia i spróbuj ponownie."</string>
   <string name="update_no_update">Wersja jest aktualna</string>
   <string name="update_progress_dialog_content">Pobieranie…</string>
+  <string name="request_permission_content_with_phone_state">Aby można było zalogować się w aplikacji za pomocą konta Xiaomi wyświetlać podglądy plików, wysyłać je, pobierać oraz synchronizować, a także sprawdzić dostępność aktualizacji, aplikacja Mi Drive wymaga uprawnień dostępu do kont, zdjęć, plików oraz numeru IMEI.</string>
 </resources>
