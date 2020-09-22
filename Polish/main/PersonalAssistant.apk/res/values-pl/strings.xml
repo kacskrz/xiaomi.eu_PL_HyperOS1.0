@@ -1169,11 +1169,11 @@
      <string name="save_to_note">Zapisz w Notatkach</string>
      <string name="app_sleep">Sen</string>
      <string name="app_sleep_awake">Wybudzenie</string>
-     <string name="app_sleep_continue">Śpij lepiej</string>
+     <string name="app_sleep_continue">Możesz spać więcej?</string>
      <string name="app_sleep_deep">Głęboki</string>
      <string name="app_sleep_enough">OK</string>
      <string name="app_sleep_light">Płytki</string>
-     <string name="app_sleep_sleeping">Śpij dłużej</string>
+     <string name="app_sleep_sleeping">Śpij dobrze</string>
      <string name="app_sleep_too_long">Za dużo</string>
      <string name="app_sleep_too_short">Za mało</string>
      <string name="app_stock_network_unavailable">"Brak połączenia z siecią"</string>
@@ -1185,4 +1185,8 @@
      <string name="cta_dialog_desc_location">W celu obliczenia czasu podróży</string>
      <string name="cta_dialog_desc_phone_state">W celu identyfikacji urządzenia poprzez IMEI</string>
      <string name="cta_dialog_desc_storage">W celu zapisania elementów na urządzeniu</string>
+     <string name="app_pa_setting_global_display">Wyświetlanie</string>
+     <string name="app_pa_setting_global_display_blur_option">Zamaż tapetę</string>
+     <string name="app_pa_setting_global_display_blur_summary">Zamazywanie tapety spowolni odpowiedź na pociągnięcie</string>
+     <string name="app_sports_title_all_leagues">Wszystkie spotkania</string>
 </resources>
