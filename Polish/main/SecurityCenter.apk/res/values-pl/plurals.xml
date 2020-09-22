@@ -723,4 +723,9 @@
         <item quantity="one">%s aplikacja będzie chroniona Blokadą aplikacji</item>
         <item quantity="few">%s aplikacje będą chronione Blokadą aplikacji</item>
     </plurals>
+    <plurals name="exit_dialog_release_memory_message">
+        <item quantity="other">&lt;Data>Czy chcesz zamknąć &lt;font color=#0099ff>%d&lt;/font> aplikacji, aby przyspieszyć pracę urządzenia?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Czy chcesz zamknąć &lt;font color=#0099ff>%d&lt;/font> aplikację, aby przyspieszyć pracę urządzenia?&lt;/Data></item>
+        <item quantity="few">&lt;Data>Czy chcesz zamknąć &lt;font color=#0099ff>%d&lt;/font> aplikacje, aby przyspieszyć pracę urządzenia?&lt;/Data></item>
+    </plurals>
 </resources>

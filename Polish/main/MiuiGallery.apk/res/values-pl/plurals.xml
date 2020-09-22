@@ -590,4 +590,14 @@
         <item quantity="other">Otrzymywanie %2$d plików ZIP (%3$s) od %1$s…</item>
         <item quantity="one">Otrzymywanie %2$d pliku ZIP (%3$s) od %1$s…</item>
     </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="one">Przefiltrowano %d niewspierany element</item>
+        <item quantity="few">Przefiltrowano %d niewspierane elementy</item>
+        <item quantity="other">Przefiltrowano %d niewspieranych elementów</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="one">Pliki PDF mogą zawierać maks. %d obraz</item>
+        <item quantity="few">Pliki PDF mogą zawierać maks. %d obrazy</item>
+        <item quantity="other">Pliki PDF mogą zawierać maks. %d obrazów</item>
+    </plurals>
 </resources>

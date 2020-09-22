@@ -237,7 +237,7 @@
   <string name="burst_image_download_item_title" formatted="false">Pobierz oryginalny (%s|%s)</string>
   <string name="burst_preview_title">Zdjęcia seryjne</string>
   <string name="burst_save_all">Zachowaj wszystkie</string>
-  <string name="burst_save_choice_title" formatted="false">Wybrano %d z %d</string>
+  <string name="burst_save_choice_title">Wybrano %1$d z %2$d</string>
   <string name="burst_save_confirm_dialog_title">Zapisywanie zdjęć</string>
   <string name="burst_save_error_msg">"Nie udało się zapisać"</string>
   <string name="burst_save_processing">Przetwarzanie…</string>
@@ -2052,7 +2052,7 @@
      <string name="device_status_sending">Wysyłanie…</string>
      <string name="device_status_success">Pomyślnie wysłano</string>
      <string name="device_status_waiting">Oczekiwanie…</string>
-     <string name="empty_description_conditions_new">"Upewnij się, że wykonano wystarczająco dużo zdjęć, podłącz ładowarkę i wyłącz ekran, aby elementy pojawiły się tutaj szybciej."</string>
+     <string name="empty_description_conditions_new">"Podłącz ładowarkę i wyłącz ekran, aby elementy pojawiły się tu szybciej"</string>
      <string name="filter_category_general">Ogólne</string>
      <string name="filter_category_movie">Film</string>
      <string name="filter_general_blackwhite">Czarno-biały</string>
@@ -2252,4 +2252,31 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="filter_portrait_waterblue">Akwamaryn</string>
     <string name="photo_page_rotate_screen">Obróć ekran</string>
     <string name="time_burst_save_dialog_title">Eksportuj elementy</string>
+    <string name="filter_popular_autumn">Jesień</string>
+    <string name="filter_popular_coffee">Kawa</string>
+    <string name="filter_popular_coldsmoke">Opar</string>
+    <string name="filter_popular_comic">Anime</string>
+    <string name="filter_popular_dream">Marzenia</string>
+    <string name="filter_popular_hill">Wzgórza</string>
+    <string name="filter_popular_kamakura">Kamakura</string>
+    <string name="internal_storage_device">Pamięć wewnętrzna</string>
+    <string name="operation_photo_rename">Zmień nazwę</string>
+    <string name="operation_pic_to_pdf">Utwórz PDF</string>
+    <string name="photodetail_failed_already_exist">Ten plik już istnieje</string>
+    <string name="photodetail_rename_failed">"Nie udało się zmienić nazwy"</string>
+    <string name="photodetail_rename_invalid">"Nazwy plików nie mogą zawierać znaków: /\\:*?&lt;&gt;|."</string>
+    <string name="photodetail_rename_success">Pomyślnie zmieniono nazwę</string>
+    <string name="photodetail_rename_title">Zmień nazwę</string>
+    <string name="photodetail_rename_too_long">Wprowadzona nazwa pliku jest za długa</string>
+    <string name="pic_to_pdf_a4_format">Format A4</string>
+    <string name="pic_to_pdf_all_not_support">"Wybrane obrazy nie mogą zostać zapisane jako plik PDF"</string>
+    <string name="pic_to_pdf_exit_notice">"Ten plik PDF nie zostanie zapisany, jeśli wyjdziesz teraz z tego trybu. Wyjść mimo to?"</string>
+    <string name="pic_to_pdf_not_support_video">"Pliki wideo nie mogą być zapisane jako plik PDF"</string>
+    <string name="pic_to_pdf_preview_loading">Ładowanie podglądu…</string>
+    <string name="pic_to_pdf_save_in">Zapisano plik PDF w lokalizacji %s</string>
+    <string name="save_error_try_a_different_template_msg">"Nie udało się zapisać. Obraz jest zbyt duży."</string>
+    <string name="search_title_photo_name">Nazwa pliku</string>
+    <string name="toast_invalid_char">"Nazwy pliku nie mogą zawierać \"%s\""</string>
+    <string name="toast_invalid_prefix">"Nazwy plików nie mogą się rozpoczynać od \".\" lub \"_\""</string>
+    <string name="toast_rename_exit">Ten plik już istnieje</string>
 </resources>

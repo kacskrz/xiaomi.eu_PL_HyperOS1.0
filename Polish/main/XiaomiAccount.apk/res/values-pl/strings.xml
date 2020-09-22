@@ -704,4 +704,6 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="get_identity_auth_url_failed">"Nie udało się zweryfikować ID"</string>
   <string name="copy_to_clipboard_successful">Pomyślnie skopiowano</string>
   <string name="help_center">Pomoc</string>
+  <string name="facebook_login">Zaloguj się za pomocą Facebooka</string>
+  <string name="google_login">Zaloguj się za pomocą Google</string>
 </resources>
