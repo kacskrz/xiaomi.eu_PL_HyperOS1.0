@@ -3263,7 +3263,7 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="launch_count_label">Licznik</string>
   <string name="launch_defaults_none">Brak ustawień domyślnych</string>
   <string name="launch_defaults_some">Część ustawień domyślnych</string>
-  <string name="launch_google_search">Uruchom Google</string>
+  <string name="launch_google_search">Uruchom Asystenta Google</string>
   <string name="launch_recents">Ostatnie aplikacje</string>
   <string name="launch_voice_assistant">Uruchom asystenta głosowego</string>
   <string name="launcher_auto_fill_empty_title">Wypełnij puste miejsca</string>
