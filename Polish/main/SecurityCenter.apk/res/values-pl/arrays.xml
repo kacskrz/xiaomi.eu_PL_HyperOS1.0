@@ -203,4 +203,9 @@
         <item>Pamięć wewnętrzna</item>
         <item>Pamięć zewnętrzna</item>
     </string-array>
+    <string-array name="cellular_package_type">
+        <item>Plan miesięczny</item>
+        <item>Plan nielimitowany</item>
+        <item>Plan dzienny</item>
+    </string-array>
 </resources>

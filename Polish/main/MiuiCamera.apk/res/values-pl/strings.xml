@@ -1636,4 +1636,8 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="aiwatermark_location_absent_hint">"Nie udało się uzyskać lokalizacji"</string>
   <string name="aiwatermark_location_list_title">Lokalizacja</string>
   <string name="aiwatermark_location_tips">Zezwól aplikacji Aparat na dostęp do Twojej lokalizacji, aby uzyskać więcej odpowiednich znaków wodnych</string>
+  <string name="fastmotion_pro_adjust_name">Parametry</string>
+  <string name="fastmotion_pro_save_time_infinity">Nielimitowany czas trwania</string>
+  <string name="fastmotion_pro_save_time_min_and_sec">Czas trwania: %1$s %2$s</string>
+  <string name="fastmotion_pro_save_time_min_or_sec">Czas trwania: %1$s</string>
 </resources>

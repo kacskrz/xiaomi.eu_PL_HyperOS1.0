@@ -207,4 +207,5 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="dialog_miplay_permission_message">Zezwól Przesyłaniu ekranu na rejestrowanie dźwięku, a także dostęp do plików w pamięci wewnętrznej oraz lokalizacji w celu poprawnego działania tej funkcji. Dotknij przycisku \"Ustawienia\" i wybierz \"Uprawnienia\", aby kontynuować.</string>
     <string name="dialog_miplay_permission_positive">Ustawineia</string>
     <string name="dialog_miplay_permission_title">Wymagane uprawnienia</string>
+    <string name="synergy_casting">"Nie można używać przesyłania ekranu w momencie, gdy działa funkcja Screen Combo"</string>
 </resources>

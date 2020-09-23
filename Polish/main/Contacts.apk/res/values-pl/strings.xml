@@ -1449,4 +1449,10 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
   <string name="miuix_appcompat_search_input_description">Szukaj</string>
   <string name="miuix_appcompat_select_all_description">Zaznacz wszystko</string>
+  <string name="dialog_delete_contact_button_delete">Usuń</string>
+  <string name="dialog_delete_contact_button_keep">Zachowaj</string>
+  <string name="dialog_delete_contact_content">Chmura Xiaomi chce usunąć niektóre z Twoich kontaktów. Usunąć je? wants to delete some of your contacts. Delete now?</string>
+  <string name="dialog_delete_contact_title">Usuwanie kontaktów</string>
+  <string name="notification_click_detail">Dotknij, aby zobaczyć szczegóły</string>
+  <string name="notification_micloudsync_delete_contact">Chmura Xiaomi chce usunąć niektóre z Twoich kontaktów</string>
 </resources>

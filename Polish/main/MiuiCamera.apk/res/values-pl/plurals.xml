@@ -37,4 +37,12 @@
         <item quantity="one">Czas trwania: %d sekunda</item>
         <item quantity="few">Czas trwania: %d sekundy</item>
     </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+    </plurals>
 </resources>
