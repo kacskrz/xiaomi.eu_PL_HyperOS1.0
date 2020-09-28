@@ -210,7 +210,7 @@
   <string name="call_description_recording">Nagrywanie…</string>
   <string name="call_forward_option">Przekazywanie połączeń</string>
   <string name="call_forwarding_number_hint">Wpisz numer do przekazania</string>
-  <string name="call_forwarding_settings">Przekierowanie połączeń</string>
+  <string name="call_forwarding_settings">Ustawienia przekierowania połączeń</string>
   <string name="call_forwarding_settings_with_label">Opcje przekierowania połączeń (%s)</string>
   <string name="call_log">Historia połączeń</string>
   <string name="call_record_active">Tylko połączone</string>

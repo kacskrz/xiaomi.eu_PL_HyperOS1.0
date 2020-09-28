@@ -199,4 +199,5 @@
     <string name="controls_no_favorites_title">Wybierz tutaj aplikacje do zarządzania urządzeniami smart home</string>
     <string name="controls_mijia_setup_title">Urządzenia smart home</string>
     <string name="status_bar_setting_title">Centrum funkcji i pasek statusu</string>
+    <string name="notification_control_center">Powiadomienia i Centrum kontroli</string>
 </resources>

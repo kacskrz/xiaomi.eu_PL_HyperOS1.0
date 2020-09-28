@@ -507,8 +507,7 @@ Usuń wtedy starsze pliki lub kup dodatkową przestrzeń na dysku."</string>
   <string name="micloud_privacy_warning_title">Podpowiedź</string>
   <string name="micloud_proceed">Kontynuuj</string>
   <string name="micloud_request_permission_confirm">OK</string>
-  <string name="micloud_request_permission_content">Chmura Xiaomi wymaga udzielenia uprawnień aby synchronizować dane. Zezwól Chmurze Xiaomi na dostęp do kalendarza, kontaktów, konta, statusu kart SIM, historii połączeń i wiadomości SMS.</string>
-  <string name="micloud_request_permission_title">Chmura Xiaomi wymaga uprawnień</string>
+  <string name="micloud_request_permission_content">Aby móc synchronizować wydarzenia z kalendarza, kontakty, SMS-y, historię połaczeń, zdjęcia, filmy i inne elementy, Chmura Xiaomi wymaga uprawnień dostępu do Twojego kalendarza, kontaktów, kont, stanu karty SIM, historii połączeń, SMS-ów, zdjęć i filmów.</string>  <string name="micloud_request_permission_title">Chmura Xiaomi wymaga uprawnień</string>
   <string name="micloud_request_sync_too_frequent">Zbyt dużo żądań. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="micloud_sec_dspt">" "</string>
   <string name="micloud_setting_antispam_summary">Wyjątki i blokowane numery</string>
@@ -951,4 +950,5 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="micloud_manual_request_permission_content">Aby móc używać usług dostarczanych przez Xiaomi, nadaj Chmurze Xiaomi w Ustawieniach następujące uprawnienia: \"%s\".</string>
   <string name="micloud_manual_request_permission_content_on_provision">Nadaj najpierw wymagane uprawnienia w Panelu sterowania</string>
   <string name="micloud_manual_request_permission_title">Wymagane uprawnienia</string>
+  <string name="privacy_doc_cloudservice_global">Chmura Xiaomi do poprawnego działania wymaga połączenia z Internetem. Synchronizowanie danych może wymagać korzystania z danych mobilnych bądź włączenia sieci Wi-Fi. Przeczytaj i zaakceptuj warunki &lt;a href=%1$s>&lt;u>Umowy użytkownika&lt;/u>&lt;/a> oraz &lt;a href=%2$s>&lt;u>Polityki prywatności&lt;/u>&lt;/a> przed skorzystaniem z usług Chmury Xiaomi.</string>
 </resources>

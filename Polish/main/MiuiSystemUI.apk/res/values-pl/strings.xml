@@ -2281,4 +2281,5 @@ Wygląda na to, że magazyn danych logowania nie jest włączony."</string>
     <string name="input_password_hint_text_v11">Wprowadź hasło</string>
     <string name="input_pattern_hint_text_v11">Narysuj wzór</string>
     <string name="input_pin_hint_text_v11">Wprowadź PIN</string>
+    <string name="notification_control_center">Powiadomienia i Centrum kontroli</string>
 </resources>

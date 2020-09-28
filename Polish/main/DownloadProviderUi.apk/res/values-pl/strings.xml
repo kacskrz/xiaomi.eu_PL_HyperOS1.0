@@ -425,4 +425,5 @@
   <string name="h5_net_error" formatted="false">"Nie udało się załadować %s (%s)"</string>
   <string name="h5_net_error_tip">"Nie udało się otworzyć URL"</string>
   <string name="no_net">"Nie udało połączyć się z siecią"</string>
+  <string name="thunder_download_speedup">Przyspieszanie prędkości za pomocą Xunlei…</string>
 </resources>

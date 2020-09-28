@@ -58,10 +58,10 @@
         <item>Imię małżonka/małżonki</item>
         <item>Urodziny małżonka/małżonki</item>
     </string-array>
-    <string-array name="settings_search_account_and_authority">
+    <string-array name="settings_search_account_and_authority_global">
         <item>Konta</item>
         <item>Dodawaj i zarządzaj kontami firm trzecich</item>
-        <item>Autoryzacja;Konto;Konto Xiaomi;Dodaj;Paruj;Xiaomi;Wyświetl;SNS;WeChat;Google;Weibo</item>
+        <item>Autoryzacja;Konto;Konto Xiaomi;Dodaj;Paruj;Xiaomi;Wyświetl;SNS;Google;Weibo</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Zmień hasło</item>
@@ -122,5 +122,10 @@
         <item>Umowa użytkownika</item>
         <item>Wyświetl Umowę użytkownika konta Xiaomi</item>
         <item>Xiaomi;Konto;Konto Xiaomi;Umowa;Użytkownika;Wyświetl</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Konta</item>
+        <item>Dodawaj i zarządzaj kontami firm trzecich</item>
+        <item>Autoryzacja;Konto;Konto Xiaomi;Dodaj;Paruj;Xiaomi;Wyświetl;SNS;WeChat;QQ;Weibo</item>
     </string-array>
 </resources>

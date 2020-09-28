@@ -1414,4 +1414,6 @@ Zaczekaj, aż okrąg stanie się czerwony."</string>
   <string name="exercise_heart_rate">Tętno</string>
   <string name="exercise_heart_rate_range">Zakres tętna</string>
   <string name="exercise_speed">Prędkość</string>
+  <string name="hr_camera_permission_desc">W celu określenia częstotliwości zmian światła dookoła palca przez aparat, dzięki czemu można określić wartość tętna</string>
+  <string name="hr_detect_fps_jitter">"Nie udało się zmierzyć tętna. Spróbuj ponownie."</string>
 </resources>

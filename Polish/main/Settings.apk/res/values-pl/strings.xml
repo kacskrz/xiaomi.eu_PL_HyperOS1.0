@@ -8229,4 +8229,20 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="dialog_wifi_context">Aby skonfigurować swoje urządzenie, musisz połączyć się z Internetem. Dopóki nie połączysz się z siecią Wi-Fi, do tego celu mogą zostać wykorzystane dane mobilne. Może to spowodować naliczenie opłat przez operatora. Użyć danych mobilnych mimo to?</string>
   <string name="dialog_wifi_title">Korzystanie z danych mobilnych</string>
   <string name="font_size_kddi">Średni</string>
+  <string name="control_center_style">Styl Centrum kontroli</string>
+  <string name="control_center_style_summary">"Zdecyduj, jak telefon ma wyświetlać przełączniki i powiadomienia"</string>
+  <string name="display_animate_category">Animowane efekty</string>
+  <string name="display_animate_content">Zredukuj ilość animowanych efektów wyświetlanych w momencie odblokowania urządzenia</string>
+  <string name="display_animate_title">Zmniejsz animacje</string>
+  <string name="legacy_control_center_desc">Przeciągnij pasek stanu w dół, aby wyświetlić przełączniki i powiadomienia</string>
+  <string name="legacy_control_center_title">Stary wygląd</string>
+  <string name="lock_screen_action">Elementy wyświetlane na Ekranie blokady po przeciągnięciu w dół</string>
+  <string name="modern_control_center_desc">Przeciągnij pasek stanu po lewej stronie, aby wyświetlić powiadomienia, bądź po prawej stronie w celu wyświetlenia Centrum kontroli</string>
+  <string name="modern_control_center_title">Nowy wygląd</string>
+  <string name="notification_control_center">Powiadomienia i Centrum funkcji</string>
+  <string name="notification_display_settings">Panel powiadomień</string>
+  <string name="notification_settings">Powiadomienia</string>
+  <string name="requires_modern_control_center">Działa wyłącznie z nowym wyglądem Centrum funkcji</string>
+  <string name="show_badge_notifications_short">Liczniki</string>
+  <string name="switchNetworkToast">Łączenie się za pomocą danych mobilnych może generować dodatkowe opłaty</string>
 </resources>

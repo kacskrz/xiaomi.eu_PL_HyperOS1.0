@@ -1640,4 +1640,15 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="fastmotion_pro_save_time_infinity">Nielimitowany czas trwania</string>
   <string name="fastmotion_pro_save_time_min_and_sec">Czas trwania: %1$s %2$s</string>
   <string name="fastmotion_pro_save_time_min_or_sec">Czas trwania: %1$s</string>
+  <string name="auto_hibernation_enter_tip">Za chwilę wyłączy się ekran…</string>
+  <string name="pref_camera_auto_hibernation">Wykonuj zdjęcia z wyłączonym ekranem</string>
+  <string name="pref_camera_auto_hibernation_description">Wyłącz ekran po %d min w celu zaoszczędzenia energii</string>
+  <string name="accessibility_dual_video_merged">Film z dwóch obiektywów</string>
+  <string name="accessibility_dual_video_standalone">Oddzielne filmy</string>
+  <string name="dual_video_record_merged">Razem</string>
+  <string name="dual_video_record_standalone">Oddzielnie</string>
+  <string name="dual_video_user_guide_main_content">Aby wykonać filmy z kilku obiektywów, wybierz dwa aparaty w urządzeniu i nagrywaj obraz z nich jednocześnie. Nagrania mogą być przechowywalne oddzielnie bądź połączone w ramach podzielonego widoku lub filmu typu \"obraz w obrazie\".</string>
+  <string name="dual_video_user_guide_main_title">Filmy z kilku obiektywów</string>
+  <string name="dual_video_user_guide_merge_content">Nagrywaj obraz z dwóch obiektywów jednocześnie i połącz nagrania w ramach podzielonego widoku bądź filmu typu \"obraz w obrazie\".</string>
+  <string name="dual_video_user_guide_standalone_content">Nagrywaj obraz z dwóch obiektywów jednocześnie i zapisz oba nagrania jako oddzielne filmy.</string>
 </resources>

@@ -93,7 +93,7 @@
     <string name="miui_feedback_edit_submit_directly">Wyślij</string>
     <string name="miui_feedback_edit_title_occurrence_time">Wybierz czas</string>
     <string name="miui_feedback_edit_title_reproductivity">Wybierz powtarzalność</string>
-    <string name="miui_feedback_edit_toast_description_required">Musisz napisać opis</string>
+    <string name="miui_feedback_edit_toast_description_required">Najpierw opisz problem</string>
     <string name="miui_feedback_edit_toast_module_required">Wybierz element</string>
     <string name="miui_feedback_edit_toast_more_desc_required">Opis powinien być dłuższy</string>
     <string name="miui_feedback_edit_toast_problem_class_required">Wybierz kategorię</string>

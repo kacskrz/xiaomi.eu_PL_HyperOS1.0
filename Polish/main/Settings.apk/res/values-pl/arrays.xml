@@ -1840,12 +1840,10 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="aggregate_entries">
         <item>Grupuj</item>
-        <item>Grupuj i zmniejsz priorytet</item>
         <item>Nie grupuj</item>
     </string-array>
     <string-array name="aggregate_summaries">
         <item>Reklamy oraz powiadomienia push dot. treści będą grupowane</item>
-        <item>Powiadomienia push będą grupowane i wyświetlane poniżej innych powiadomień</item>
         <item>Powiadomienia push nie będą grupowane</item>
     </string-array>
     <string-array name="charge_animation_style_entries">
