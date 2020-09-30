@@ -3807,4 +3807,10 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="traffic_calculation">Użyj cyklu dziennego</string>
   <string name="traffic_limit_input">Limit danych (obowiązkowy)</string>
   <string name="unknown_package">Nie wiesz, jaki jest Twój plan?</string>
+  <string name="privacy_revoke_dialog_content">Wyłączając tą opcję, cofasz swoją zgodę na warunki Polityki prywatności Panelu sterowania. Xiaomi zaprzestanie gromadzenia Twoich informacji osobistych, zaś już zgromadzone i przetworzone dane zostaną usunięte w terminach określonych przez odpowiednie przepisy prawa. Aby dostarczać Ci podstawowe usługi, Panel sterowania musi gromadzić niezbędne informacje. Twoje cofnięcie zgody na warunki Polityki prywatności zostanie uznane jako brak zgody na akceptację tego warunku.</string>
+  <string name="privacy_revoke_dialog_negetive_text">Anuluj</string>
+  <string name="privacy_revoke_dialog_positive_text">Cofnij zgodę</string>
+  <string name="privacy_revoke_dialog_title">Cofnięcie zgody</string>
+  <string name="settings_privacy_revoke_desc">Wyłączając tą opcję, cofasz swoją zgodę na warunki Polityki prywatności Panelu sterowania.</string>
+  <string name="settings_privacy_revoke_title">Cofnięcie zgody na warunki Polityki prywatności</string>
 </resources>

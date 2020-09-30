@@ -1281,4 +1281,17 @@ Brak połączenia z siecią."</string>
   <string name="server_cet_title">Szczegóły certyfikatu</string>
   <string name="show_server_cet">Pokaż certyfikat</string>
   <string name="successfully_obtained_authorization_code">Kod weryfikacyjny</string>
+  <string name="about_checking_update">Sprawdzanie aktualizacji...</string>
+  <string name="about_go_to_update">Zaktualizuj</string>
+  <string name="about_lasted_version">Wersja jest aktualna</string>
+  <string name="account_setting_general_summry">Zmień ustawienia ogólnych funkcji aplikacji</string>
+  <string name="account_setting_general_title">Ustawienia dot. funkcji</string>
+  <string name="account_settings_background_attachments_title">Automatycznie pobieraj załączniki</string>
+  <string name="account_settings_does_not_support_pop">Protokół POP3 nie wspiera ustawień tego elementu</string>
+  <string name="action_filter">Filtr</string>
+  <string name="install_mime_encrypt_cert">Zainstaluj certyfikat szyfrowania S/MIME</string>
+  <string name="install_mime_sign_cert">Zainstaluj certyfikat sygnatury S/MIME</string>
+  <string name="login_manual">Ustawienia manualne</string>
+  <string name="mailbox_setting_preference_sync_summary_close">Synchronizacja: wyłączona</string>
+  <string name="mailbox_setting_preference_sync_summary_open">Synchronizacja: włączona</string>
 </resources>

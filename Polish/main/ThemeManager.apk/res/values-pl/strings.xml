@@ -1000,7 +1000,7 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
   <string name="ota_recovery_theme_notity_content">"Możesz wrócić do motywu używanego przed aktualizacją"</string>
   <string name="ota_recovery_theme_notity_title">Przywróć swój motyw</string>
   <string name="resource_incall_show_download">Pobierz wideo</string>
-  <string name="super_wallpaper">Super tapety</string>
+  <string name="super_wallpaper">Supertapety</string>
   <string name="theme_wallpaper">Kategorie tapet</string>
   <string name="apply_choosen_type_resource">Zastosuj wybrane elementy</string>
   <string name="gallery_wallpaper">Tapety Blokady</string>
@@ -1102,4 +1102,32 @@ dd.M."</string>
   <string name="share_theme_content_text">"Możesz pobrać wspaniały motyw \"%1$s\" stąd: %2$s. Od "</string>
   <string name="share_wallpaper_content_text">"Możesz pobrać świetną tapetę \"%1$s\" stąd: %2$s. Od "</string>
   <string name="wallpaper_setting_library">Biblioteka</string>
+  <string name="already_newest_version">Wersja jest aktualna</string>
+  <string name="cancel_download">Anulowano pobieranie</string>
+  <string name="desk_loop_will_change">Uwaga</string>
+  <string name="install_failed">"Nie udało się zainstalować"</string>
+  <string name="no_install_permission">"Nie masz uprawnień do instalacji tego elementu"</string>
+  <string name="pref_lockscreen_magazine_summary">Zastąp swoją tapetę pokazami slajdów składającymi się z obrazów z różnych kategorii</string>
+  <string name="set_wallpaper_group_success">"Zastosowano %1$s.
+Co godzinę na ekranie będzie się pojawiać nowa tapeta."</string>
+  <string name="super_wallpaper_list_label">Supertapety</string>
+  <string name="super_wallpaper_setting_apply_success_toast">Pomyślnie zastosowano</string>
+  <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Zastosuj</string>
+  <string name="super_wallpaper_setting_choose_position_btn_text">Wybierz lokalizację</string>
+  <string name="super_wallpaper_setting_coordinate_title">Położenie</string>
+  <string name="super_wallpaper_setting_view_height_title">Wysokość</string>
+  <string name="task_already_exist">Zadanie już istnieje</string>
+  <string name="update">Zaktualizuj</string>
+  <string name="wallpaper_group_set_loop">Pokaz slajdów z podobnymi obrazami na Ekranie blokady</string>
+  <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AoD</string>
+  <string name="wallpaper_setting_find_more_text">Więcej tapet online</string>
+  <string name="wallpaper_setting_home_wallpaper_banner_button_text">Pulpit</string>
+  <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Ekran blokady</string>
+  <string name="wallpaper_setting_online_wallpaper_actionbar_title">Tapety online</string>
+  <string name="wallpaper_setting_online_wallpaper_none_title">Odkrywaj tapety</string>
+  <string name="wallpaper_setting_online_wallpaper_title">Tapety online</string>
+  <string name="wallpaper_setting_super_wallpaper_banner_title">Supertapety</string>
+  <string name="wallpaper_setting_super_wallpaper_more_button_text">Więcej</string>
+  <string name="wallpaper_setting_title">Tapeta</string>
+  <string name="warning_subscribe_wallpaper_group_content">"Włączono pokaz slajdów na pulpicie. Element %1$s zostanie zastosowany na nim."</string>
 </resources>
