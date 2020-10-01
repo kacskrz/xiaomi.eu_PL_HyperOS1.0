@@ -1189,4 +1189,6 @@
      <string name="app_pa_setting_global_display_blur_option">Zamaż tapetę</string>
      <string name="app_pa_setting_global_display_blur_summary">Zamazywanie tapety spowolni odpowiedź na pociągnięcie</string>
      <string name="app_sports_title_all_leagues">Wszystkie spotkania</string>
+     <string name="app_screen_time_support_false">Czas przed ekranem nie jest obecnie wspierany</string>
+     <string name="app_screen_time_auth">Czas przed ekranem</string>
 </resources>
