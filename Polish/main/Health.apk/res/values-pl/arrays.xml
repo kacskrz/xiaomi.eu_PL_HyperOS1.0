@@ -126,4 +126,8 @@
         <item>Co sobotę</item>
         <item>Co niedzielę</item>
     </string-array>
+    <string-array name="HomePageTabTitle">
+        <item>Zdrowie</item>
+        <item>Ćwiczenia</item>
+    </string-array>
 </resources>

@@ -938,7 +938,7 @@ danych snu"</string>
      <string name="tb_home_sleep_card_no_data">Sen. Brak danych na dzisiaj.</string>
      <string name="tb_home_sleep_card_not_open_trace">Sen. Analiza cykli snu jest wyłączona.</string>
      <string name="tb_home_tip_open_data_sync">Synchronizuj dane Xiaomi Zdrowie z Chmurą Xiaomi, aby zyskać dostęp do nich na innych urządzeniach. Dwukrotnie dotknij, aby rozpocząć.</string>
-     <string name="tb_home_weight_card">Waga. %1$.1f kilogramów. Czas ważenia: %2$s. Status: %3$s.</string>
+     <string name="tb_home_weight_card">Waga. %1$.2f kilogramów. Czas ważenia: %2$s. Status: %3$s.</string>
      <string name="tb_home_weight_card_no_data">Waga. Brak danych.</string>
      <string name="tb_manage_home">Tu możesz usunąć lub przearanżować zakładki wyświetlane na ekranie startowym.</string>
      <string name="tb_mens_month_date_selected">Wybrano %1$s.</string>
@@ -1416,4 +1416,23 @@ Zaczekaj, aż okrąg stanie się czerwony."</string>
   <string name="exercise_speed">Prędkość</string>
   <string name="hr_camera_permission_desc">W celu określenia częstotliwości zmian światła dookoła palca przez aparat, dzięki czemu można określić wartość tętna</string>
   <string name="hr_detect_fps_jitter">"Nie udało się zmierzyć tętna. Spróbuj ponownie."</string>
+  <string name="calories">kalorii</string>
+  <string name="hr_fp_area">Obszar odcisku palca</string>
+  <string name="hr_fp_detect_desc">Podczas bicia serca zwiększa się przepływ krwi do palca. Dzięki jasnemu źródłu światła w skanerze odcisków palców pod ekranem można uzyskać częstotliwość zmian krwi w palcu. Ta częstotliwość jest konwertowana na sygnał tętna w celu obliczenia dokładnego tętna.</string>
+  <string name="hr_fp_detect_principle_desc">"Krew może absorbować światło. Z każdym biciem serca do palców wpływa więcej krwi, przez co absorbowane jest więcej światła, zaś w przerwach pomiędzy biciami absorbowane jest mniej światła. Dzięki jasnemu źródłu światła w skanerze odcisków palców pod ekranem można uzyskać częstotliwość zmian krwi w palcu. Ta częstotliwość jest konwertowana na sygnał tętna w celu obliczenia dokładnego tętna.
+
+Dzięki dużej liczbie eksperymentów średni błąd pomiaru tętna wynosi mniej niż 3 uderzenia na minutę."</string>
+  <string name="hr_fp_detect_principle_desc_2">Uwaga: upewnij się, że palec całkowicie zakrywa obszar czytnika linii papilarnych. W trakcie wykrywania przyciśnij lekko ten obszar - jeśli przyciśnięcie będzie zbyt mocne, przepływ krwi w palcu się zmniejszy, co doprowadzi do powstania niedokładnych wyników. Dane testowe służą wyłącznie jako odniesienie i nie mogą zastąpić sprzętu medycznego.</string>
+  <string name="hr_fp_detect_start_desc">"Przyciśnij lekko palcem czytnik.
+Nie przesuwaj go."</string>
+  <string name="hr_fp_detecting">Wykrywanie…</string>
+  <string name="hr_fp_not_put_well">"Nie umieszczono palca.
+Spróbuj ponownie."</string>
+  <string name="hr_fp_report_common_desc">Normalne tętno wynosi od 60 do 100 uderzeń na minutę. Tętno poniżej 60 uderzeń na minutę jest oznaką bradykardii, podczas gdy częstotliwość akcji serca powyżej 100 uderzeń na minutę jest określana u dorosłych jako tachykardia.</string>
+  <string name="setting_cycling_goals">Ustaw cele jazdy na rowerze</string>
+  <string name="setting_running_goals">Ustaw cele biegania</string>
+  <string name="setting_walking_goals">Ustaw cele spaceru</string>
+  <string name="start_cycling">Rozpocznij jazdę na rowerze</string>
+  <string name="start_running">Rozpocznij bieganie</string>
+  <string name="start_walking">Rozpocznij spacer</string>
 </resources>

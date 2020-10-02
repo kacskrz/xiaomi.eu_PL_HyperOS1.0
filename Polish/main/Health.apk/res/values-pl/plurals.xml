@@ -304,4 +304,28 @@
         <item quantity="one">" cykl"</item>
         <item quantity="few">" cykle"</item>
     </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="one">Pozostało %1$d sek.</item>
+        <item quantity="other">Pozostało %1$d sek.</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="one">" godz. "</item>
+        <item quantity="other">" godz. "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="one">" godz. "</item>
+        <item quantity="other">" godz. "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="one">" min "</item>
+        <item quantity="other">" min "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="one">" min "</item>
+        <item quantity="other">" min "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="one">" s "</item>
+        <item quantity="other">" s "</item>
+	</plurals>
 </resources>
