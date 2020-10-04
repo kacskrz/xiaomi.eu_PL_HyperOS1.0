@@ -8244,4 +8244,5 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="requires_modern_control_center">Działa wyłącznie z nowym wyglądem Centrum funkcji</string>
   <string name="show_badge_notifications_short">Liczniki</string>
   <string name="switchNetworkToast">Łączenie się za pomocą danych mobilnych może generować dodatkowe opłaty</string>
+  <string name="allow_all_rotations_title">Zezwalaj na obrót w każdym kierunku</string>
 </resources>
