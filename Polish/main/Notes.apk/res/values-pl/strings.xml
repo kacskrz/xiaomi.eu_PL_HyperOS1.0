@@ -473,4 +473,5 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="theme_title_leaf">Liście</string>
   <string name="theme_title_nightsky">Nocne niebo</string>
   <string name="theme_title_shadow">Cienie</string>
+  <string name="doodle_save_progress_text">Zapisywanie…</string>
 </resources>
