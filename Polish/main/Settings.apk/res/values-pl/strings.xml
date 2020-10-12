@@ -8245,4 +8245,9 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="show_badge_notifications_short">Liczniki</string>
   <string name="switchNetworkToast">Łączenie się za pomocą danych mobilnych może generować dodatkowe opłaty</string>
   <string name="allow_all_rotations_title">Zezwalaj na obrót w każdym kierunku</string>
+  <string name="dpp_qrcode_generator_summary">Zeskanuj ten kod QR na urządzeniu wspierającym technologię Easy Connect</string>
+  <string name="usb_reverse_charge">Ładowanie zwrotne</string>
+  <string name="usb_use_file_transfers_miui12_5">Transferu plików</string>
+  <string name="usb_use_miui12_5">Użyj USB do...</string>
+  <string name="usb_use_photo_transfers_miui12_5">Przenoszenia zdjęć</string>
 </resources>

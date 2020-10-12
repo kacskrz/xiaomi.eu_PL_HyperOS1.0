@@ -246,7 +246,7 @@
   <string name="note">"Notatka: "</string>
   <string name="now_state">"Obecny status: "</string>
   <string name="once">Tylko raz</string>
-  <string name="open_url">Otwórz URL</string> 
+  <string name="open_url">Odwiedź</string> 
   <string name="password_toggle_content_description">Pokaż hasło</string>
   <string name="path_scanner_setting">Systemowe/Skaner</string>
   <string name="pay_no_tip">Nie pokazuj ponownie</string>
@@ -365,7 +365,7 @@
   <string name="translation_prompt_word">Umieść wyraz wewnątrz ramki</string>
   <string name="translation_see_more">Pokaż definicję</string>
   <string name="translation_type_sentence">Fraza</string>
-  <string name="translation_type_word">Słowo</string>
+  <string name="translation_type_word">Przetłumacz konwersacje</string>
   <string name="uninstall_prompt">Jeśli w trakcie odinstalowywania napotkałeś problem, przejdź do Ustawień &gt; Aplikacje &gt; Zainstalowane &gt; Skaner, dotknij przycisku \"Odinstaluj\" i spróbuj zainstalować aplikację ponownie (nie działa w tym ROM-ie).</string>
   <string name="url_is_phish">To może być strona wyłudzająca informacje</string>
   <string name="url_is_safety">Ta strona jest bezpieczna</string>
@@ -485,8 +485,27 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="page_does_not_exist">Strona nie istnieje</string>
   <string name="release_lock">Usuń blokadę</string>
   <string name="release_locked_word">Usuń blokadę słowa</string>
-  <string name="take_the_word">Przytrzymaj poniższy przycisk, aby zablokować słowo</string>
+  <string name="take_the_word">Umieść słowo w prostokącie i przytrzymaj, aby je uzyskać</string>
   <string name="wifi_low_version_prompt">Informacja dot. Wi-Fi</string>
   <string name="word_to_be_recognized_is_aligned_with_cross">Słowo do rozpoznania jest położone poziomo</string>
   <string name="word_translation">Tłumaczenie słów</string>
+  <string name="document_list_is_empty">Brak elementów</string>
+  <string name="document_read">Odczytaj</string>
+  <string name="document_rnext_step">Dalej</string>
+  <string name="document_save_text">Zapisz</string>
+  <string name="emails">E-mail</string>
+  <string name="flash_close">Wyłącz</string>
+  <string name="flash_open">Włącz</string>
+  <string name="import_picture">Importuj</string>
+  <string name="send_email">Wyślij e-mail</string>
+  <string name="study_more">Więcej</string>
+  <string name="translation_type_words">Przetłumacz słowa</string>
+  <string name="ucrop_crop">Przytnij</string>
+  <string name="ucrop_error_input_data_is_absent">Należy wprowadzić wejściowy i wyjściowy adres Uri</string>
+  <string name="ucrop_label_edit_photo">Edytuj zdjęcie</string>
+  <string name="ucrop_label_original">Oryginalne</string>
+  <string name="ucrop_menu_crop">Przytnij</string>
+  <string name="ucrop_rotate">Obróć</string>
+  <string name="ucrop_scale">Skaluj</string>
+  <string name="general_feedback">Zgłoś pomyłki</string>
 </resources>

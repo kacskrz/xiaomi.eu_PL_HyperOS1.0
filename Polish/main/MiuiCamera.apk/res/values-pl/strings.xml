@@ -1299,7 +1299,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="module_name_edit_title">Funkcje</string>
   <string name="module_name_edit_unfavorite_title">Więcej funkcji</string>
   <string name="module_name_more">Więcej</string>
-  <string name="module_name_multi_camera">Przód i tył</string>
+  <string name="module_name_multi_camera">Wiele aparatów</string>
   <string name="not_set">Nieustawione</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_record">Nagraj wideo</string>
   <string name="pref_camera_video_show_faceview_title">Zaznaczaj twarze w trybie wideo</string>
@@ -1651,4 +1651,10 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="dual_video_user_guide_main_title">Filmy z kilku obiektywów</string>
   <string name="dual_video_user_guide_merge_content">Nagrywaj obraz z dwóch obiektywów jednocześnie i połącz nagrania w ramach podzielonego widoku bądź filmu typu \"obraz w obrazie\".</string>
   <string name="dual_video_user_guide_standalone_content">Nagrywaj obraz z dwóch obiektywów jednocześnie i zapisz oba nagrania jako oddzielne filmy.</string>
+  <string name="download_cancel_hint">Anulować pobieranie %1$s?</string>
+  <string name="download_confirm">Pobierz</string>
+  <string name="download_hint">Do pobrania elementów zostanie zużyte %1$s MB danych mobilnych. Pobrać mimo to?</string>
+  <string name="download_title">Ostrzeżenie o użyciu danych</string>
+  <string name="update_loading">Pobrano %1$s</string>
+  <string name="update_start">Zaktualizuj %1$s</string>
 </resources>

@@ -607,4 +607,8 @@ Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się z administrat
         <item quantity="few">Wybrano %d elementy</item>
         <item quantity="one">Wybrano %d element</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">Wi-Fi zostanie automatycznie włączone w momencie, gdy urządzenie wykryje zapisane sieci w pobliżu i wyłączy się po %d minutach, jeśli nie uda się nawiązać z nimi połączenia</item>
+        <item quantity="one">Wi-Fi zostanie automatycznie włączone w momencie, gdy urządzenie wykryje zapisane sieci w pobliżu i wyłączy się po minucie, jeśli nie uda się nawiązać z nimi połączenia</item>
+    </plurals>
 </resources>

@@ -723,7 +723,6 @@
 %1$d. Nie dało się dodać karty NFC.
 %2$d. Karty NFC nie działały.
 %3$d. Inne funkcje NFC nie działały."</string>
-  <string name="dpp_qrcode_generator_summary">Zeskanuj ten kod QR na urządzeniu wspierającym technologię Easy Connect</string>
   <string name="miui_wifi_wakeup_summary">Wi-Fi zostanie automatycznie włączone w momencie, gdy urządzenie wykryje zapisane sieci w pobliżu i wyłączy się po 15 minutach, jeśli nie uda się nawiązać z nimi połączenia</string>
   <string name="wifi_wakeup_location_summary">Włącz lokalizację, aby móc używać tej funkcji.</string>
   <string name="wifi_wakeup_negative_button">Anuluj</string>
