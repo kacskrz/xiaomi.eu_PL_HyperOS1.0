@@ -938,7 +938,7 @@ danych snu"</string>
      <string name="tb_home_sleep_card_no_data">Sen. Brak danych na dzisiaj.</string>
      <string name="tb_home_sleep_card_not_open_trace">Sen. Analiza cykli snu jest wyłączona.</string>
      <string name="tb_home_tip_open_data_sync">Synchronizuj dane Xiaomi Zdrowie z Chmurą Xiaomi, aby zyskać dostęp do nich na innych urządzeniach. Dwukrotnie dotknij, aby rozpocząć.</string>
-     <string name="tb_home_weight_card">Waga. %1$.2f kilogramów. Czas ważenia: %2$s. Status: %3$s.</string>
+     <string name="tb_home_weight_card">Waga. %1$.1f kilogramów. Czas ważenia: %2$s. Status: %3$s.</string>
      <string name="tb_home_weight_card_no_data">Waga. Brak danych.</string>
      <string name="tb_manage_home">Tu możesz usunąć lub przearanżować zakładki wyświetlane na ekranie startowym.</string>
      <string name="tb_mens_month_date_selected">Wybrano %1$s.</string>
