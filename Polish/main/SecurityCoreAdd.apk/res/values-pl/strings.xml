@@ -460,7 +460,7 @@ Niektóre sklonowane aplikacje wymagają obsługi Google Services Framework. W t
   <string name="xspace_disable">Nie utworzono</string>
   <string name="xspace_enable">Utworzono</string>
   <string name="xspace_facebook_title">Facebook</string>
-  <string name="xspace_guide_des">Używaj 2 kont bez przełączania</string>
+  <string name="xspace_guide_des">Używaj 2 kont bez przełączania się między nimi</string>
   <string name="xspace_guide_title">Wypróbuj funkcję Sklonowane aplikacje</string>
   <string name="xspace_header">Klonowane aplikacje</string>
   <string name="xspace_instagram_title">Instagram</string>
