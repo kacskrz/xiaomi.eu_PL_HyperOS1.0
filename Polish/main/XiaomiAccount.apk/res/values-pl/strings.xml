@@ -706,4 +706,11 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="help_center">Pomoc</string>
   <string name="facebook_login">Zaloguj się za pomocą Facebooka</string>
   <string name="google_login">Zaloguj się za pomocą Google</string>
+  <string name="passport_uplink_send_sms_hint">"Dotknij przycisku \"Wyślij\" po przekierowaniu na stronę z utworzoną wiadomością."</string>
+  <string name="passport_uplink_sms_send_cancel">Anulowano wysłanie SMS-a uplink</string>
+  <string name="passport_uplink_sms_send_confirm">Wysłano</string>
+  <string name="passport_uplink_sms_send_failed">"Nie udało się zweryfikować SMS-a uplink"</string>
+  <string name="passport_uplink_sms_sending">Wysyłanie płatnego SMS-a…</string>
+  <string name="passport_uplink_suggest_dialog_msg">"Nie udało się otrzymać kodu. Czy zamiast tego chcesz wysłać płatnego SMS-a?"</string>
+  <string name="passport_uplink_suggest_dialog_title">Uwaga</string>
 </resources>
