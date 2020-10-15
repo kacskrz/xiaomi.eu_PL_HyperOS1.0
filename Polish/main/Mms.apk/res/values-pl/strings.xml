@@ -1113,7 +1113,7 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
     <string name="banner_btn_open">Otwórz</string>
     <string name="default_google_message_promo_content">"Ustawiono aplikację Wiadomości od Google jako Twoją domyślną aplikację do SMS-ów. Dotknij przycisku \"Otwórz\", aby ją uruchomić."</string>
     <string name="enable_classify_tip_dialog_content">Ta opcja spowoduje ponowne uruchomienie aplikacji SMS.</string>
-    <string name="google_message_promo_content">Xiaomi zaleca zmianę aplikacji na Wiadomości od Google. Pozwala ona na wysyłanie wiadomości poprzez sieć Wi-Fi, udostępnianie multimediów w wysokiej jakości oraz więcej innych funkcji. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Zobacz szczegóły</a></font>.</string>
+    <string name="google_message_promo_content">Xiaomi zaleca zmianę aplikacji na Wiadomości od Google. Pozwala ona na wysyłanie wiadomości poprzez sieć Wi-Fi, udostępnianie multimediów w wysokiej jakości oraz więcej innych funkcji. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Dowiedz się więcej</a></font>.</string>
     <string name="google_message_promo_title">Zmień aplikację do SMS-ów</string>
     <string name="installed_google_message_promo_content">Xiaomi zaleca zmianę aplikacji na Wiadomości od Google. Pozwala ona na wysyłanie wiadomości poprzez sieć Wi-Fi, udostępnianie multimediów w wysokiej jakości oraz więcej innych funkcji.</string>
     <string name="installed_google_message_promo_title">Zacznij korzystać z Wiadomości</string>
@@ -1136,4 +1136,14 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
     <string name="rcs_chatbot_no_waring">Wyciszaj powiadomienia o wiadomościach</string>
     <string name="rsc_chatbot_back">Wstecz</string>
     <string name="rsc_chatbot_detail">Informacje o dostawcy</string>
+    <string name="privacy_state_revoked_cancel">Anuluj</string>
+    <string name="privacy_state_revoked_content">Wyłączając tą opcję, wycofujesz swoją zgodę na warunki Polityki prywatności aplikacji SMS. Xiaomi zaprzestanie w tym momencie gromadzenia informacji o Tobie, zaś już zgromadzone i przetworzone dane zostaną usunięte z serwerów firmy w czasie określonym przepisami prawa. Usługi dostarczane przez aplikację, takie jak Wiadomości w Chmurze czy Inteligentne wiadomości muszą gromadzić niezbędne dane, aby działać normalnie. Cofnięcie zgody na warunki Polityki prywatności aplikacji SMS zostanie uznane również jako cofnięcie zgody na warunki tychże usług.</string>
+    <string name="privacy_state_revoked_dialog_title">Cofnięcie zgody</string>
+    <string name="privacy_state_revoked_revoked">Wycofaj</string>
+    <string name="privacy_state_revoked_switch">Cofnięcie zgody</string>
+    <string name="privacy_state_revoked_synopsis">Wyłączając tą opcję, wycofujesz swoją zgodę na warunki Polityki prywatności aplikacji SMS.</string>
+    <string name="smart_message_upgrade_title">Aktualizacja Polityki prywatności Inteligentnych wiadomości</string>
+    <string name="smart_msg_upgrade_main_purpose">"Funkcja Inteligentne wiadomości działa teraz także z MMS-ami. Dzięki temu będzisz mógł korzystać z większej ilości usług dostarczanych przez nadawców, a także otrzymywać wiadomości w nowych formatach."</string>
+    <string name="system_permission_declare_privacy_link">Abyś w pełni zrozumiał swoje prawa jako użytkownika aplikacji, a także metody, w ramach których Xiaomi wykorzystuje Twoje dane, przeczytaj i zaakceptuj warunki %1s.</string>
+    <string name="web_content_invalid_hint">Wyświetlanie tego elementu jest ograniczone lokalnym prawem</string>
 </resources>
