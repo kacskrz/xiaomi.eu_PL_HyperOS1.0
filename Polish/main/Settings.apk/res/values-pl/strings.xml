@@ -5228,7 +5228,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego urządzenia."</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_title">Poszczególne aplikacje</string>
 	<string name="screen_dark_mode_smart_dark_summary">Zastosuj ciemny motyw także do aplikacji firm trzecich. Część z nich może wyświetlać się nieprawidłowo.</string>
  	<string name="screen_dark_mode_smart_dark_title">Globalny ciemny motyw</string>
-	<string name="screen_dark_mode_time_title">Zaplanuj</string>
+	<string name="screen_dark_mode_time_title">Zaplanuj włączenie Ciemnego motywu</string>
   <string name="screen_effect">Schemat kolorów</string>
   <string name="screen_fps_summary">Wyższa częstotliwość odświeżania spowoduje płynniejsze działanie interfejsu, ale skróci czas pracy na baterii</string>
   <string name="screen_fps_summary_power_save">Korzystając z niższej częstotliwości odświeżania, oszczędzasz baterię</string>
@@ -8250,4 +8250,9 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="usb_use_file_transfers_miui12_5">Transferu plików</string>
   <string name="usb_use_miui12_5">Użyj USB do...</string>
   <string name="usb_use_photo_transfers_miui12_5">Przenoszenia zdjęć</string>
+  <string name="dark_mode_apps_header">Poszczególne aplikacje</string>
+  <string name="dark_mode_font_background_title">Automatycznie dostosuj teksty i tła</string>
+  <string name="exterior">Motyw systemu</string>
+  <string name="light_color_mode">Jasny motyw</string>
+  <string name="more_dark_mode_settings">Opcje Ciemnego motywu</string>
 </resources>

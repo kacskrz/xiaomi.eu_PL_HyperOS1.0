@@ -2282,4 +2282,8 @@ Wygląda na to, że magazyn danych logowania nie jest włączony."</string>
     <string name="input_pattern_hint_text_v11">Narysuj wzór</string>
     <string name="input_pin_hint_text_v11">Wprowadź PIN</string>
     <string name="notification_control_center">Powiadomienia i Centrum kontroli</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"Nie można ustawić tego elementu w trakcie połączenia"</string>
+    <string name="quick_settings_vowifi_label">Wi-Fi Calling</string>
+    <string name="quick_settings_vowifi_sim1_label">Wi-Fi Calling SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">Wi-Fi Calling SIM2</string>
 </resources>

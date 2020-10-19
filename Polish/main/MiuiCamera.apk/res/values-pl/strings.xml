@@ -1657,4 +1657,9 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="download_title">Ostrzeżenie o użyciu danych</string>
   <string name="update_loading">Pobrano %1$d%%</string>
   <string name="update_start">Zaktualizuj %1$s</string>
+  <string name="live_draft_continue">Wznów</string>
+  <string name="live_draft_empty">Brak elementów</string>
+  <string name="live_edit_exit_message_draft">Zapisz jako szkic</string>
+  <string name="live_workspace_title">Szkice</string>
+  <string name="live_workspace_title_edit">Wybierz elementy do usunięcia</string>
 </resources>

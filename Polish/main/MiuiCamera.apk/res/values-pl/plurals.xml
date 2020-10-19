@@ -45,4 +45,9 @@
         <item quantity="other">%1$d sek.</item>
         <item quantity="one">%1$d sek.</item>
     </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Usunąć %1$d szkiców?</item>
+        <item quantity="one">Usunąć %1$d szkic?</item>
+        <item quantity="few">Usunąć %1$d szkice?</item>
+    </plurals>
 </resources>
