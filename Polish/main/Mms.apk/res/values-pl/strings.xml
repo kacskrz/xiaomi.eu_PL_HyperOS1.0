@@ -1146,4 +1146,5 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
     <string name="smart_msg_upgrade_main_purpose">"Funkcja Inteligentne wiadomości działa teraz także z MMS-ami. Dzięki temu będzisz mógł korzystać z większej ilości usług dostarczanych przez nadawców, a także otrzymywać wiadomości w nowych formatach."</string>
     <string name="system_permission_declare_privacy_link">Abyś w pełni zrozumiał swoje prawa jako użytkownika aplikacji, a także metody, w ramach których Xiaomi wykorzystuje Twoje dane, przeczytaj i zaakceptuj warunki %1s.</string>
     <string name="web_content_invalid_hint">Wyświetlanie tego elementu jest ograniczone lokalnym prawem</string>
+    <string name="go_to">"Otwórz "</string>
 </resources>
