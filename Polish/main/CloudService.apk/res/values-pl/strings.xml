@@ -951,4 +951,32 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="micloud_manual_request_permission_content_on_provision">Nadaj najpierw wymagane uprawnienia w Panelu sterowania</string>
   <string name="micloud_manual_request_permission_title">Wymagane uprawnienia</string>
   <string name="privacy_doc_cloudservice_global">Chmura Xiaomi do poprawnego działania wymaga połączenia z Internetem. Synchronizowanie danych może wymagać korzystania z danych mobilnych bądź włączenia sieci Wi-Fi. Przeczytaj i zaakceptuj warunki &lt;a href=%1$s>&lt;u>Umowy użytkownika&lt;/u>&lt;/a> oraz &lt;a href=%2$s>&lt;u>Polityki prywatności&lt;/u>&lt;/a> przed skorzystaniem z usług Chmury Xiaomi.</string>
+  <string name="share_location_app_name">Znajdź</string>
+  <string name="share_location_dialog_confirm">Rozumiem</string>
+  <string name="share_location_dialog_content">Teraz możesz utworzyć skrót na pulpicie, aby szybciej odnajdywać ustawienia.</string>
+  <string name="share_location_dialog_title">Uwaga</string>
+  <string name="share_location_guide1_desc">Lokalizuj, blokuj i wymazuj dane na zgubionych urządzeniach</string>
+  <string name="share_location_guide1_title">Znajdź urządzenia</string>
+  <string name="share_location_guide2_desc">Pomóż innym osobom odnaleźć ich zgubione urządzenia</string>
+  <string name="share_location_guide2_title">Pomóż przyjaciołom i rodzinie</string>
+  <string name="share_location_guide3_desc">Upewnij się, że przyjaciele i rodzina są bezpieczni, sprawdzając wysłaną przez nich lokalizację</string>
+  <string name="share_location_guide3_title">Bądź bezpieczny</string>
+  <string name="share_location_guide_action_btn_text">Włącz</string>
+  <string name="share_location_guide_extra_btn_text">Pomiń</string>
+  <string name="share_location_menu_finddevice_settings">Ustawienia funkcji Znajdź urządzenie</string>
+  <string name="share_location_menu_help">Pomoc i opinia</string>
+  <string name="share_location_menu_messages">Historia wiadomości</string>
+  <string name="share_location_start_navigation_error">"Nie znaleziono map na urządzeniu"</string>
+  <string name="share_sdk_business_btn_grant_permission_text">Zgadzam się i kontynuuję</string>
+  <string name="share_sdk_business_family_invite_preference_summary">"Udostępniaj lokalizację i kontroluj swoje urządzenia"</string>
+  <string name="share_sdk_business_family_member_actionbar_subtitle">Udostępnij lokalizację przyjaciołom</string>
+  <string name="share_sdk_business_high_risk_invite_success_summary">Twoje zaproszenie zostało wysłane w formie SMS-a oraz systemowego powiadomienia.</string>
+  <string name="share_sdk_business_introduction">"Możesz udostępnić lokalizację przyjaciołom i rodzinie, aby upewnić się, że są oni bezpieczni, a także pomóc im odnaleźć ich zgubione urządzenia."</string>
+  <string name="share_sdk_business_low_risk_invite_success_summary">"Możesz udostępnić lokalizację przyjaciołom i rodzinie, a także kontrolować ich urządzenia."</string>
+  <string name="share_sdk_business_main_title">Udostępnij lokalizację</string>
+  <string name="share_sdk_business_permission_title">Wybierz elementy</string>
+  <string name="share_sdk_business_qr_code_invite_title">Zeskanuj kod QR, aby zaakceptować zaproszenie do udostępniania lokalizacji</string>
+  <string name="share_sdk_business_suggest_member_actionbar_subtitle">"Udostępniaj lokalizację i kontroluj swoje urządzenia"</string>
+  <string name="share_sdk_business_wechat_invite_description">%1$s zaprosił Cię do udostępniania lokalizacji</string>
+  <string name="share_sdk_business_wechat_invite_title">Udostępnij nam swoją lokalizację</string>
 </resources>
