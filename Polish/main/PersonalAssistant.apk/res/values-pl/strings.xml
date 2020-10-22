@@ -731,7 +731,7 @@
   <string name="search_setting_description">Tytuły dla Ulubionych</string>
   <string name="search_tip">Wyszukiwanie</string>
   <string name="security">Panel sterowania</string>
-  <string name="selected_shortcuts_title">Funkcje</string>
+  <string name="selected_shortcuts_title">Strona startowa</string>
   <string name="send_action_title">Dodaj do ulubionych</string>
   <string name="send_shortcut_failed">"Nie można wysłać"</string>
   <string name="send_shortcut_success">Placed on Home screen</string>
@@ -1191,4 +1191,9 @@
      <string name="app_sports_title_all_leagues">Wszystkie spotkania</string>
      <string name="app_screen_time_support_false">Czas przed ekranem nie jest obecnie wspierany</string>
      <string name="app_screen_time_auth">Czas przed ekranem</string>
+     <string name="app_pa_more">Więcej</string>
+     <string name="app_pa_search">Szukaj</string>
+     <string name="app_pa_setting_bugreport">Opinia</string>
+     <string name="shortcuts_download_dialog_text_install">Zainstaluj</string>
+     <string name="shortcuts_download_dialog_text_install_tip">Aby móc skorzystać ze skrótu \"%2$s\", zainstaluj najpierw aplikację %1$s.</string>
 </resources>

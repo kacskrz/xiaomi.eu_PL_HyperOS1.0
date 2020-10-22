@@ -698,7 +698,7 @@ Jeśli po upływie 30 minut od położenia się do łóżka wciąż nie możesz 
      <string name="sleep_deep_light_no_data_improvement">Nie udało się wykryć faz snu. Będziemy poprawiać nasze algorytmy. Bądź czujny!</string>
      <string name="sleep_detection_enable">Analizuj fazy snu</string>
      <string name="sleep_detection_feedback">Opinia</string>
-     <string name="sleep_detection_guide_four_description">Monitorowanie snu zużyje około 1% baterii na dzień.</string>
+     <string name="sleep_detection_guide_four_description">Monitorowanie snu zużyje około 1% baterii na noc.</string>
      <string name="sleep_detection_guide_four_high_power_description">Upewnij się, że bateria w twoim urządzeniu jest wystarczająco naładowana, zanim pójdziesz do łóżka. Niski poziom baterii może zakłócić monitoring snu.</string>
      <string name="sleep_detection_guide_four_high_power_title">Miej naładowane urządzenie</string>
      <string name="sleep_detection_guide_four_title">Niskie zużycie energii</string>
@@ -1409,7 +1409,7 @@ Zaczekaj, aż okrąg stanie się czerwony."</string>
   <string name="unit_count">" ilość"</string>
   <string name="unknown_state">Nieznany status</string>
   <string name="upgrade_suggestion">Zaktualizuj aplikację Xiaomi Zdrowie do najnowszej wersji i spróbuj ponownie.</string>
-  <string name="user_center">Centrum użytkownika</string>
+  <string name="user_center">Profil</string>
   <string name="yoga">Joga</string>
   <string name="exercise_heart_rate">Tętno</string>
   <string name="exercise_heart_rate_range">Zakres tętna</string>
@@ -1417,17 +1417,17 @@ Zaczekaj, aż okrąg stanie się czerwony."</string>
   <string name="hr_camera_permission_desc">W celu określenia częstotliwości zmian światła dookoła palca przez aparat, dzięki czemu można określić wartość tętna</string>
   <string name="hr_detect_fps_jitter">"Nie udało się zmierzyć tętna. Spróbuj ponownie."</string>
   <string name="calories">kalorii</string>
-  <string name="hr_fp_area">Obszar odcisku palca</string>
-  <string name="hr_fp_detect_desc">Podczas bicia serca zwiększa się przepływ krwi do palca. Dzięki jasnemu źródłu światła w skanerze odcisków palców pod ekranem można uzyskać częstotliwość zmian krwi w palcu. Ta częstotliwość jest konwertowana na sygnał tętna w celu obliczenia dokładnego tętna.</string>
-  <string name="hr_fp_detect_principle_desc">"Krew może absorbować światło. Z każdym biciem serca do palców wpływa więcej krwi, przez co absorbowane jest więcej światła, zaś w przerwach pomiędzy biciami absorbowane jest mniej światła. Dzięki jasnemu źródłu światła w skanerze odcisków palców pod ekranem można uzyskać częstotliwość zmian krwi w palcu. Ta częstotliwość jest konwertowana na sygnał tętna w celu obliczenia dokładnego tętna.
+  <string name="hr_fp_area">Czytnik linii papilarnych</string>
+  <string name="hr_fp_detect_desc">Przy każdym biciu Twojego serca krew przepływa do Twoich palców. Jasne światło umieszczone w czytniku pod ekranem pozwala na śledzenie zmian w przepływie krwi, analizę wzorów i konwersję tych danych na wartości tętna.</string>
+  <string name="hr_fp_detect_principle_desc">"Krew nie jest kompletnie przezroczysta, dzięki czemu może przez nią przenikać światło. Przy każdym biciu serca krew przepływa do palców, blokując przy tym większą ilość światła niż pomiędzy kolejnymi biciami serca. Jasne światło umieszczone w czytniku pod ekranem pozwala na śledzenie zmian w przepływie krwi, analizę wzorów i konwersję tych danych na wartości tętna.
 
-Dzięki dużej liczbie eksperymentów średni błąd pomiaru tętna wynosi mniej niż 3 uderzenia na minutę."</string>
-  <string name="hr_fp_detect_principle_desc_2">Uwaga: upewnij się, że palec całkowicie zakrywa obszar czytnika linii papilarnych. W trakcie wykrywania przyciśnij lekko ten obszar - jeśli przyciśnięcie będzie zbyt mocne, przepływ krwi w palcu się zmniejszy, co doprowadzi do powstania niedokładnych wyników. Dane testowe służą wyłącznie jako odniesienie i nie mogą zastąpić sprzętu medycznego.</string>
-  <string name="hr_fp_detect_start_desc">"Przyciśnij lekko palcem czytnik.
+Testy przeprowadzone przez Xiaomi dowodzą, że średni błąd pomiaru tętna dokonany tą metodą wynosi tylko mniej więcej 3 uderzenia na minutę."</string>
+  <string name="hr_fp_detect_principle_desc_2">Uwaga: upewnij się, że palec całkowicie zakrywa obszar czytnika linii papilarnych oznaczony ikonką. Nie napieraj zbyt mocno na czytnik - jeśli przyciśnięcie będzie zbyt mocne, przepływ krwi w palcu się zmniejszy, co doprowadzi do powstania niedokładnych wyników. Dane testowe służą wyłącznie jako odniesienie i nie mogą zastąpić sprzętu medycznego.</string>
+  <string name="hr_fp_detect_start_desc">"Przyciśnij lekko palcem ikonę czytnika.
 Nie przesuwaj go."</string>
-  <string name="hr_fp_detecting">Wykrywanie…</string>
-  <string name="hr_fp_not_put_well">"Nie umieszczono palca.
-Spróbuj ponownie."</string>
+  <string name="hr_fp_detecting">Mierzenie…</string>
+  <string name="hr_fp_not_put_well">"Palec się przesunął.
+Zacznij od nowa."</string>
   <string name="hr_fp_report_common_desc">Normalne tętno wynosi od 60 do 100 uderzeń na minutę. Tętno poniżej 60 uderzeń na minutę jest oznaką bradykardii, podczas gdy częstotliwość akcji serca powyżej 100 uderzeń na minutę jest określana u dorosłych jako tachykardia.</string>
   <string name="setting_cycling_goals">Ustaw cele jazdy na rowerze</string>
   <string name="setting_running_goals">Ustaw cele biegania</string>
@@ -1435,4 +1435,71 @@ Spróbuj ponownie."</string>
   <string name="start_cycling">Rozpocznij jazdę na rowerze</string>
   <string name="start_running">Rozpocznij bieganie</string>
   <string name="start_walking">Rozpocznij spacer</string>
+  <string name="dialog_agree_permission">Zezwól</string>
+  <string name="dialog_permission_title">Wymagane uprawnienia</string>
+  <string name="dialog_reject">Ogranicz</string>
+  <string name="hr_finger_permission_desc">Aby zmierzyć Twoje tętno, funkcja wymaga dostępu do czytnika linii papilarnych, aby móc wykrywać zmiany w przepływie krwi. Czy chcesz jej na to zezwolić?</string>
+  <string name="snore_detection_close_prompt_desc">"Nie wykryto u Ciebie chrapania bądź mówienia przez pewien okres czasu. Funkcja została wyłączona w celu zaoszczędzenia energii. Dotknij, aby sprawdzić ustawienia."</string>
+  <string name="sport_share_success">Pomyślnie udostępniono</string>
+  <string name="dialog_agree_permission">Zezwól</string>
+  <string name="dialog_permission_title">Wymagane uprawnienia</string>
+  <string name="dialog_reject">Ogranicz</string>
+  <string name="hr_finger_permission_desc">Aby zmierzyć Twoje tętno, funkcja wymaga dostępu do czytnika linii papilarnych, aby móc wykrywać zmiany w przepływie krwi. Czy chcesz jej na to zezwolić?</string>
+  <string name="snore_detection_close_prompt_desc">"Nie wykryto u Ciebie chrapania bądź mówienia przez pewien okres czasu. Funkcja została wyłączona w celu zaoszczędzenia energii. Dotknij, aby sprawdzić ustawienia."</string>
+  <string name="sport_share_success">Pomyślnie udostępniono</string>
+  <string name="detail_record_pace_describe">Tempo (czas obejmujący 1 km)</string>
+  <string name="detail_record_pace_title">Segmenty tempa</string>
+  <string name="gps_no_signal_hint">"Obecny sygnał GPS nie pozwala na śledzenie Twoich ćwiczeń i rejestrowanie tras. Przejdź do płaskiego, otwartego obszaru."</string>
+  <string name="gps_unauthorized">Wymagane uprawnienia GPS</string>
+  <string name="gps_unopened">GPS wyłączony</string>
+  <string name="location_permission_dialog_content">Zezwól aplikacji Xiaomi Zdrowie na dostęp do lokalizacji w aplikacji \"Zdrowie\" &gt; \"Zarządzaj uprawnieniami\", aby mogła ona śledzić Twoje ćwiczenia na zewnątrz.</string>
+  <string name="location_permission_dialog_negative">Nie teraz</string>
+  <string name="location_permission_dialog_positive">Zezwól</string>
+  <string name="location_permission_dialog_title">Wymagane uprawnienia do lokalizacji</string>
+  <string name="location_service_dialog_content">Włącz usługi lokalizacji w Ustawieniach, aby można było śledzić Twoje ćwiczenia na zewnątrz.</string>
+  <string name="location_service_dialog_negative">Nie teraz</string>
+  <string name="location_service_dialog_positive">Włącz</string>
+  <string name="location_service_dialog_title">Usługi lokalizacji wyłączone</string>
+  <string name="location_service_ntfc_content">Xiaomi Zdrowie</string>
+  <string name="location_service_ntfc_title">Wyszukiwanie GPS…</string>
+  <string name="sport_btn_continue">Wznów</string>
+  <string name="sport_btn_finish">Koniec</string>
+  <string name="sport_btn_pause">Pauza</string>
+  <string name="sport_counter_begin">Zacznij teraz</string>
+  <string name="sport_home_begin">Start</string>
+  <string name="sport_home_set_goal">Ustaw cel</string>
+  <string name="sport_invalid_dialog_time_content">Ćwiczenie trwało mniej niż 5 sekund. Czy chcesz je teraz zakończyć bez jego zapisywania?</string>
+  <string name="sport_invalid_dialog_title">Za szybko!</string>
+  <string name="sport_menu_share">Udostępnij</string>
+  <string name="sport_pace_chart_last_km">Mniej niż 1 km</string>
+  <string name="sport_pace_step_unit">kr./min</string>
+  <string name="sport_pref_category_voice">Dźwięk</string>
+  <string name="sport_pref_gps_voice_title">Informacje głosowe dot. sygnału GPS</string>
+  <string name="sport_pref_voice_assist_summary">Śłuchaj informacji i sugestii w trakcie ćwiczeń</string>
+  <string name="sport_pref_voice_assist_title">Informacje głosowe</string>
+  <string name="sport_settings_title">Ćwiczenia</string>
+  <string name="sport_share_fail">"Nie udało się udostępnić. Spróbuj ponownie"</string>
+  <string name="sport_share_save_local">Pomyślnie zapisano</string>
+  <string name="sport_share_title">Udostępnij</string>
+  <string name="sport_step_average_frequency">Średnio</string>
+  <string name="sport_step_max_frequency">Najwięcej</string>
+  <string name="sport_step_min_frequency">Najmniej</string>
+  <string name="sport_title_step_frequency">Kadencja</string>
+  <string name="sport_tts_begin_riding">Zacznij jazdę na rowerze</string>
+  <string name="sport_tts_begin_running">Zacznij biegać</string>
+  <string name="sport_tts_begin_walking">Zacznij spacer</string>
+  <string name="sport_tts_last_km_spent">"Osiągnięto ostatni kilometr w ciągu %s"</string>
+  <string name="sporting_goal">Cel</string>
+  <string name="sporting_hint_exit_map">Zamknij mapę</string>
+  <string name="sporting_hint_long_press">Przytrzymaj, aby zakończyć</string>
+  <string name="sporting_hint_switch_to_map">Przełącz na mapę</string>
+  <string name="sporting_key_calories">Kal.</string>
+  <string name="sporting_key_km">km</string>
+  <string name="sporting_key_speed">Tempo</string>
+  <string name="sporting_key_step">Kroki</string>
+  <string name="sporting_key_time">Czas trwania</string>
+  <string name="sporting_title_outdoor_riding">Jazda na rowerze</string>
+  <string name="sporting_title_pause">Pauza</string>
+  <string name="sporting_title_running">Bieganie</string>
+  <string name="sporting_title_waking">Spacer</string>
 </resources>

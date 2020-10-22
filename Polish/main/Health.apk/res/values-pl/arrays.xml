@@ -130,4 +130,10 @@
         <item>Zdrowie</item>
         <item>Ćwiczenia</item>
     </string-array>
+    <string-array name="SportTabTitle">
+        <item>Bieganie</item>
+        <item>Spacer</item>
+        <item>Rower</item>
+        <item>Bieżnia</item>
+    </string-array>
 </resources>

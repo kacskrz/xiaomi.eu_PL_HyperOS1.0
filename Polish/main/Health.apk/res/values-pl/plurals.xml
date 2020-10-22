@@ -328,4 +328,44 @@
         <item quantity="one">" s "</item>
         <item quantity="other">" s "</item>
 	</plurals>
+   <plurals name="sport_tts_goal_consume">
+        <item quantity="one">Spal %s kalorię, aby osiągnąć cel</item>
+        <item quantity="other">Spal %s kalorii, aby osiągnąć cel</item>
+        <item quantity="few">Spal %s kalorie, aby osiągnąć cel</item>
+   </plurals>
+   <plurals name="sport_tts_goal_distance">
+        <item quantity="one">Przebądź jeszcze %s km, aby osiągnąć cel</item>
+        <item quantity="other">Przebądź jeszcze %s km, aby osiągnąć cel</item>
+   </plurals>
+   <plurals name="sport_tts_riding_distance">
+        <item quantity="one">"Przejechano %s km"</item>
+        <item quantity="other">"Przejechano %s km"</item>
+    </plurals>
+   <plurals name="sport_tts_running_distance">
+        <item quantity="one">"Przebiegnięto %s km"</item>
+        <item quantity="other">"Przebiegnięto %s km"</item>
+   </plurals>
+   <plurals name="sport_tts_total_consume">
+        <item quantity="one">"Spalono %s kalorię"</item>
+        <item quantity="other">"Spalono %s kalorii"</item>
+        <item quantity="few">"Spalono %s kalorie"</item>
+   </plurals>
+   <plurals name="sport_tts_walking_distance">
+        <item quantity="one">"Przespacerowano %s km"</item>
+        <item quantity="other">"Przespacerowano %s km"</item>
+   </plurals>
+   <plurals name="sporting_unit_step">
+        <item quantity="one">krok</item>
+        <item quantity="few">kroki</item>
+        <item quantity="other">kroków</item>
+   </plurals>
+   <plurals name="sport_tts_goal_time">
+        <item quantity="one">Pozostało %s min do osiągnięcia celu</item>
+        <item quantity="other">Pozostało %s min do osiągnięcia celu</item>
+   </plurals>
+   <plurals name="sporting_unit_calories">
+        <item quantity="one">%1$d kaloria</item>
+        <item quantity="other">%1$d kalorii</item>
+        <item quantity="few">%1$d kalorie</item>
+   </plurals>
 </resources>

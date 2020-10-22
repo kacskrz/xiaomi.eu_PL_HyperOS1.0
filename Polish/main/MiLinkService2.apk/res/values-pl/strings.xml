@@ -205,4 +205,24 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="dialog_miplay_permission_positive">Ustawineia</string>
     <string name="dialog_miplay_permission_title">Wymagane uprawnienia</string>
     <string name="synergy_casting">"Nie można używać przesyłania ekranu w momencie, gdy działa funkcja Screen Combo"</string>
+    <string name="normal_device_desc">"Urządzenia, z którymi się połączono, ale nie oznaczono ich jako zaufane"</string>
+    <string name="normal_device_desc_limit">"Urządzenia, z którymi się połączono, ale nie oznaczono ich jako zaufane"</string>
+    <string name="normal_device_none">Brak poprzednio połączonych urządzeń</string>
+    <string name="normal_device_title">Niezaufane urządzenia</string>
+    <string name="notification_cast_desc">Przesyłanie ekranu…</string>
+    <string name="notification_desc_scanning">Wyszukiwanie urządzeń w pobliżu…</string>
+    <string name="path_setting_cast">Więcej opcji sieci/Prześlij ekran</string>
+    <string name="path_setting_cast_demo">Więcej opcji sieci/Prześlij ekran/Demos</string>
+    <string name="path_setting_cast_demo_document">Więcej opcji sieci/Prześlij ekran/Przykłady/Dokumenty</string>
+    <string name="path_setting_cast_demo_gallery">Więcej opcji sieci/Prześlij ekran/Przykłady/Zdjęcia i filmy</string>
+    <string name="path_setting_cast_demo_game">Więcej opcji sieci/Prześlij ekran/Przykłady/Gry</string>
+    <string name="path_setting_cast_feature">Więcej opcji sieci/Prześlij ekran/Specjalne funkcje</string>
+    <string name="path_setting_cast_help">Więcej opcji sieci/Prześlij ekran/Pomoc</string>
+    <string name="trust_device_desc">"Te urządzenia pojawią się tutaj w pierwszej kolejności, gdy będą one w pobliżu"</string>
+    <string name="trust_device_dialog_desc"><Data>"%s pojawi się spośród dostępnych urządzeń w pierwszej kolejności, gdy będzie ono w pobliżu, jeśli oznaczysz je jako zaufane urządzenie.&lt;br>&lt;br>Możesz &lt;a href=milink://com.milink.service/trust>zarządzać zaufanymi urządzeniami&lt;/a> w Ustawieniach."</Data></string>
+    <string name="trust_device_dialog_pos">Ufaj</string>
+    <string name="trust_device_dialog_title">Ufać temu urządzeniu?</string>
+    <string name="trust_device_manager">Zarządzaj zaufanymi urządzeniami</string>
+    <string name="trust_device_none">Brak zaufanych urządzeń</string>
+    <string name="trust_device_title">Zaufane urządzenia</string>
 </resources>
