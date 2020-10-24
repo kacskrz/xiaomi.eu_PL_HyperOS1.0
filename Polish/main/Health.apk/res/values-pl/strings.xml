@@ -1441,12 +1441,6 @@ Zacznij od nowa."</string>
   <string name="hr_finger_permission_desc">Aby zmierzyć Twoje tętno, funkcja wymaga dostępu do czytnika linii papilarnych, aby móc wykrywać zmiany w przepływie krwi. Czy chcesz jej na to zezwolić?</string>
   <string name="snore_detection_close_prompt_desc">"Nie wykryto u Ciebie chrapania bądź mówienia przez pewien okres czasu. Funkcja została wyłączona w celu zaoszczędzenia energii. Dotknij, aby sprawdzić ustawienia."</string>
   <string name="sport_share_success">Pomyślnie udostępniono</string>
-  <string name="dialog_agree_permission">Zezwól</string>
-  <string name="dialog_permission_title">Wymagane uprawnienia</string>
-  <string name="dialog_reject">Ogranicz</string>
-  <string name="hr_finger_permission_desc">Aby zmierzyć Twoje tętno, funkcja wymaga dostępu do czytnika linii papilarnych, aby móc wykrywać zmiany w przepływie krwi. Czy chcesz jej na to zezwolić?</string>
-  <string name="snore_detection_close_prompt_desc">"Nie wykryto u Ciebie chrapania bądź mówienia przez pewien okres czasu. Funkcja została wyłączona w celu zaoszczędzenia energii. Dotknij, aby sprawdzić ustawienia."</string>
-  <string name="sport_share_success">Pomyślnie udostępniono</string>
   <string name="detail_record_pace_describe">Tempo (czas obejmujący 1 km)</string>
   <string name="detail_record_pace_title">Segmenty tempa</string>
   <string name="gps_no_signal_hint">"Obecny sygnał GPS nie pozwala na śledzenie Twoich ćwiczeń i rejestrowanie tras. Przejdź do płaskiego, otwartego obszaru."</string>
@@ -1475,7 +1469,7 @@ Zacznij od nowa."</string>
   <string name="sport_pace_step_unit">kr./min</string>
   <string name="sport_pref_category_voice">Dźwięk</string>
   <string name="sport_pref_gps_voice_title">Informacje głosowe dot. sygnału GPS</string>
-  <string name="sport_pref_voice_assist_summary">Śłuchaj informacji i sugestii w trakcie ćwiczeń</string>
+  <string name="sport_pref_voice_assist_summary">Słuchaj informacji i sugestii w trakcie ćwiczeń</string>
   <string name="sport_pref_voice_assist_title">Informacje głosowe</string>
   <string name="sport_settings_title">Ćwiczenia</string>
   <string name="sport_share_fail">"Nie udało się udostępnić. Spróbuj ponownie"</string>
