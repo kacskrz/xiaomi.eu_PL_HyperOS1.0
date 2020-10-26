@@ -853,7 +853,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="suggest_upload_log_dialog_content">"Aby pomóc inżynierom Xiaomi zlokalizować i rozwiązać zgłoszony przez Ciebie problem tak szybko, jak to możliwe, rekomendujemy wysłanie powiązanych logów. Są one wykorzystywane wyłącznie w celu analizy problemów i nie będą wykorzystywane w innych celach."</string>
   <string name="suggest_upload_log_dialog_title">Wyślij powiązane logi</string>
   <string name="toast_min_description_count">Opis powinien być dłuższy</string>
-  <string name="open_settings">Przejdź do ustawień</string>
-  <string name="passport_can_not_receive_verification_code">"Nie możesz otrzymać kodu weryfikacyjnego?"</string>
   <string name="submit_dialog_not_show_again">"Nie pokazuj ponownie"</string>
 </resources>
