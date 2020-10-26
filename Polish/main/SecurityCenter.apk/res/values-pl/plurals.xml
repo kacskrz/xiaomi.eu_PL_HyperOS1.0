@@ -728,4 +728,31 @@
         <item quantity="one">&lt;Data>Czy chcesz zamknąć &lt;font color=#0099ff>%d&lt;/font> aplikację, aby przyspieszyć pracę urządzenia?&lt;/Data></item>
         <item quantity="few">&lt;Data>Czy chcesz zamknąć &lt;font color=#0099ff>%d&lt;/font> aplikacje, aby przyspieszyć pracę urządzenia?&lt;/Data></item>
     </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">"Nie udało się otrzymać darmowej, %d-dniowej wersji próbnej"</item>
+        <item quantity="one">"Nie udało się otrzymać darmowej, %d-dniowej wersji próbnej"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">Pomyślnie otrzymano darmową, %d-dniową wersję próbną</item>
+        <item quantity="one">Pomyślnie otrzymano darmową, %d-dniową wersję próbną</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Uzyskaj bezpłatną, %d-dniową wersję próbną</item>
+        <item quantity="one">Uzyskaj bezpłatną, %d-dniową wersję próbną</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Twoje subskrypcje wygasły.
+Możesz teraz uzyskać bezpłatną, %d-dniową wersję próbną!"</item>
+        <item quantity="one">"Twoje subskrypcje wygasły.
+Możesz teraz uzyskać bezpłatną, %d-dniową wersję próbną!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Uzyskaj bezpłatną, %d-dniową wersję próbną</item>
+        <item quantity="one">Uzyskaj bezpłatną, %d-dniową wersję próbną</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Usuń %d plików APK</item>
+        <item quantity="one">Usuń %d plik APK</item>
+        <item quantity="few">Usuń %d pliki APK</item>
+    </plurals>
 </resources>

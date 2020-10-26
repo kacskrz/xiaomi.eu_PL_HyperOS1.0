@@ -19,4 +19,20 @@
         <item quantity="one">1 sekunda</item>
         <item quantity="few">%s sekundy</item>
     </plurals>
+    <plurals name="clipboard_ai_allow_more">
+        <item quantity="other">Automatycznie zezwolono aplikacji %1$s na dostęp do schowka %2$d razy</item>
+        <item quantity="one">Automatycznie zezwolono aplikacji %1$s na dostęp do schowka %2$d raz</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">Aplikacja %1$s uzyskała dostęp do schowka %2$d razy</item>
+        <item quantity="one">Aplikacja %1$s uzyskała dostęp do schowka %2$d raz</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">"Zezwolono aplikacji %2$s na dostęp do schowka już %1$d razy. Czy chcesz zezwolić aplikacji %3$s na dostęp do schowka w każdym momencie?"</item>
+        <item quantity="one">"Zezwolono aplikacji %2$s na dostęp do schowka już %1$d raz. Czy chcesz zezwolić aplikacji %3$s na dostęp do schowka w każdym momencie?"</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">"Ograniczono dostęp aplikacji %2$s do schowka już %1$d razy. Czy chcesz permanentnie ograniczyć aplikacji %3$s do schowka?"</item>
+        <item quantity="one">"Ograniczono dostęp aplikacji %2$s do schowka już %1$d razy. Czy chcesz permanentnie ograniczyć aplikacji %3$s do schowka?"</item>
+    </plurals>
 </resources>

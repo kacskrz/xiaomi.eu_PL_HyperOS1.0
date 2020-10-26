@@ -355,7 +355,7 @@
   <string name="passport_account_hint_text">E-mail, nr telefonu lub ID konta Xiaomi</string>
   <string name="passport_account_identity_title">Zweryfikuj swoją tożsamość</string>
   <string name="passport_account_label">Konto Xiaomi</string>
-  <string name="passport_account_name">Konto: %1$s</string>
+  <string name="passport_account_name">"Konto: %1$s "</string>
   <string name="passport_account_not_activated">"Konto nie zostało aktywowane"</string>
   <string name="passport_account_not_actived">"Konto nie zostało jeszcze aktywowane"</string>
   <string name="passport_account_set_password">Ustaw hasło</string>
@@ -798,8 +798,8 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="passport_unknow_error">Wystąpił nieznany błąd</string>
   <string name="passport_unknow_host_network_error">Sprawdź swoje ustawienia sieci i spróbuj ponownie</string>
   <string name="passport_unknow_network_error">Wystąpił błąd sieci</string>
-  <string name="passport_user_agreement_link"><Data>"Przeczytałem i akceptuję &lt;a href=%1$s>Umowę użytkownika&lt;/a> i &lt;a href=%2$s>Politykę prywatności&lt;/a> Xiaomi."</Data></string>
-  <string name="passport_user_agreement_link_more">"&lt;Data>Przeczytałem i akceptuję &lt;a href=%1$s>Umowę użytkownika&lt;/a> oraz &lt;a href=%4$s>Politykę prywatności&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
+  <string name="passport_user_agreement_link"><Data>"Przeczytałem i akceptuję &lt;a href=\"%1$s\">Umowę użytkownika&lt;/a> i &lt;a href=\"%2$s\">Politykę prywatności&lt;/a> Xiaomi."</Data></string>
+  <string name="passport_user_agreement_link_more">"&lt;Data>Przeczytałem i akceptuję &lt;a href=\"%1$s\">Umowę użytkownika&lt;/a> oraz &lt;a href=\"%4$s\">Politykę prywatności&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data>"</string>
   <string name="passport_user_id_intro">Wprowadź hasło: %1$s</string>
   <string name="passport_v_code_error">Kod jest nieprawidłowy</string>
   <string name="passport_wrong_voice">Kod jest nieprawidłowy</string>
@@ -853,4 +853,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="suggest_upload_log_dialog_content">"Aby pomóc inżynierom Xiaomi zlokalizować i rozwiązać zgłoszony przez Ciebie problem tak szybko, jak to możliwe, rekomendujemy wysłanie powiązanych logów. Są one wykorzystywane wyłącznie w celu analizy problemów i nie będą wykorzystywane w innych celach."</string>
   <string name="suggest_upload_log_dialog_title">Wyślij powiązane logi</string>
   <string name="toast_min_description_count">Opis powinien być dłuższy</string>
+  <string name="open_settings">Przejdź do ustawień</string>
+  <string name="passport_can_not_receive_verification_code">"Nie możesz otrzymać kodu weryfikacyjnego?"</string>
+  <string name="submit_dialog_not_show_again">"Nie pokazuj ponownie"</string>
 </resources>

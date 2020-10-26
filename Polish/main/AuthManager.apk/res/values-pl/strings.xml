@@ -387,4 +387,26 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="perm_modem_location_desc">Twój operator próbuje uzyskać informacje o Twojej lokalizacji. Czy chcesz mu ich udzielić?</string>
   <string name="HIPS_Perm_recognition">Dostęp do informacji dot. aktywności</string>
   <string name="HIPS_Perm_recognition_Desc">Zezwól aplikacji na dostęp do informacji dot. Twojej aktywności</string>
+  <string name="HIPS_ACTION_REJECT_CLEAR">Ogranicz i wyczyść schowek</string>
+  <string name="HIPS_Action_Accept_This">Zezwól tym razem</string>
+  <string name="HIPS_Action_Reject_This">Ogranicz tym razem</string>
+  <string name="HIPS_Perm_read_clipboard">Dostęp do schowka</string>
+  <string name="HIPS_Perm_read_clipboard_Desc">Zezwól aplikacjom na dostęp do elementów znajdujących się w schowku</string>
+  <string name="HIPS_Perm_write_clipboard">Zapisywanie do schowka</string>
+  <string name="HIPS_Perm_write_clipboard_Desc">Zezwól aplikacjom na zapisywanie elementów w schowku</string>
+  <string name="HIPS_SecurityPrompt_Reject_Clear_This">Ogranicz i wyczyść schowek (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_This">Ogranicz tym razem (%d)</string>
+  <string name="clipboard_ai_allow_once">Automatycznie zezwolono aplikacji %1$s na dostęp do schowka</string>
+  <string name="clipboard_data">Elementy w schowku</string>
+  <string name="clipboard_data_request">Aplikacja %1$s chce uzyskać dostęp do schowka</string>
+  <string name="clipboard_deny_notification_content">Ta próba została zablokowana. Dotknij, aby zarządzać uprawnieniami.</string>
+  <string name="clipboard_deny_notification_operation">Zarządzaj</string>
+  <string name="clipboard_deny_notification_title">Aplikacja %1$s chce uzyskać dostęp do schowka</string>
+  <string name="clipboard_may_sensitive">Potencjalnie wrażliwe dane</string>
+  <string name="clipboard_read_allow_once">Aplikacja %1$s uzyskała dostęp do schowka</string>
+  <string name="go_perm_manager">Zarządzaj uprawnieniami</string>
+  <string name="no">Nie</string>
+  <string name="perm_manager_suggest_operation">Zarządzaj uprawnieniami</string>
+  <string name="perm_manager_suggest_title">Dostosować uprawnienia?</string>
+  <string name="yes">Tak</string>
 </resources>

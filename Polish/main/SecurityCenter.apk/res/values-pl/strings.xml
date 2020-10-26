@@ -3868,4 +3868,54 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="permission_instruction_write_clipboard">Te uprawnienie zezwala aplikacjom na zapisywanie elementów w schowku.</string>
   <string name="permission_instruction_write_contacts">Te uprawnienie zezwala aplikacjom na edycję, dodawanie i usuwanie informacji o kontaktach znajdujących się na urządzeniu. Mogą one zawierać m.in. częstotliwość łączenia się z daną osobą poprzez połączenia, e-maile i inne kanały komunikacji. Aplikacje z tym uprawnieniem mogą także usuwać kontakty.</string>
   <string name="permission_instruction_write_settings">Te uprawnienie zezwala aplikacjom na modyfikowanie ustawień systemu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu zmiany ustawień Twojego urządzenia i wpływania na jego poprawną pracę.</string>
+  <string name="confirm_leave">Nie, dzięki</string>
+  <string name="confirm_open">Włącz</string>
+  <string name="confirm_take">Uzyskaj</string>
+  <string name="confirm_upgrade">Opcje</string>
+  <string name="gb_voice_changer_dialog_upgrade_vip">Odnów subskrypcję, aby móc korzystać z funkcji odzewu w czasie rzeczywistym.</string>
+  <string name="gb_voice_changer_free">Darmowy</string>
+  <string name="gb_voice_changer_gender_female">Kobieta</string>
+  <string name="gb_voice_changer_gender_man">Mężczyzna</string>
+  <string name="gb_voice_changer_headset">Podłącz słuchawki, aby skorzystać z funkcji odzewu w czasie rzeczywistym</string>
+  <string name="gb_voice_changer_recommend">Rekomendowane</string>
+  <string name="gb_voice_changer_renew_dailog">Odnów subskrypcję, aby móc korzystać z tego efektu.</string>
+  <string name="gb_voice_changer_setting_account_title">Konto Xiaomi</string>
+  <string name="gb_voice_changer_setting_become_vip">Subskrybuj</string>
+  <string name="gb_voice_changer_setting_gender_subtitle">Dostosuj efekty i rekomendacje do płci</string>
+  <string name="gb_voice_changer_setting_gender_title">Płeć</string>
+  <string name="gb_voice_changer_setting_realtime_subtitle">Sprawdź, jak zmienia się Twój głos w czasie rzeczywistym</string>
+  <string name="gb_voice_changer_setting_realtime_title">Odzew w czasie rzeczywistym</string>
+  <string name="gb_voice_changer_setting_rights">Warunki usługi i Polityka prywatności</string>
+  <string name="gb_voice_changer_toast_window_bubble_tips">"Wypróbuj teraz Zmianę głosu,
+aby uzyskać 3-dniową bezpłatną wersję próbną!"</string>
+  <string name="gb_voice_changer_toast_window_new_tips">"Wypróbuj Zmianę głosu!
+Przełączaj się pomiędzy różnymi postaciami i efektami."</string>
+  <string name="gb_voice_changer_toast_window_open">Włączono efekt \"%s\"</string>
+  <string name="gb_voice_changer_toast_window_vip_expire">Twoja subskrypcja niedługo wygaśnie. Odnów ją teraz, aby uzyskać benefity!</string>
+  <string name="gb_voice_changer_trial_gender_dialog">Pomyślnie uzyskano wersję próbną! Wybierz płeć, aby odpowiednio dopasować efekty i rekomendacje.</string>
+  <string name="gb_voice_changer_trial_gender_dialog_title">Bezpłatna wersja próbna</string>
+  <string name="gb_voice_changer_trial_progress_dialog_message">Uzyskiwanie wersji próbnej…</string>
+  <string name="gb_voice_changer_user_status_expired">Subskrypcja wygasła</string>
+  <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Uzyskaj %d-dniową wersję próbną
+i odkryj funkcję Zmiany głosu Xiaomi!"</string>
+  <string name="gb_voice_changer_user_status_no_login">Zaloguj się na konto Xiaomi</string>
+  <string name="gb_voice_changer_user_status_remain_time">Data wygaśnięcia: %s</string>
+  <string name="gb_voice_changer_user_status_renew">Odnów</string>
+  <string name="gb_voice_changer_user_tips_info_vip_expire">Twoje subskrypcje wygasły. Odnów je teraz, aby uzyskać benefity!</string>
+  <string name="no_open">Nie teraz</string>
+  <string name="notification_checker_installed_apk_hint">Nie musisz zachowywać plików APK po ich instalacji</string>
+  <string name="notification_garbage_clean_botton_text_new">Wyczyść</string>
+  <string name="notification_garbage_clean_hint_new">Urządzenie może pracować lepiej</string>
+  <string name="notification_garbage_clean_size_found">"Masz %s śmieci"</string>
+  <string name="notification_garbage_clean_size_found_hint">Czas wynieść śmieci!</string>
+  <string name="notification_garbage_clean_size_found_text">Zbyt dużo śmieci</string>
+  <string name="notification_garbage_clean_size_new">Zwolnij %s pamięci</string>
+  <string name="notification_low_memory_button_text">Napraw</string>
+  <string name="notification_low_memory_hint">Śmieci spowalniają pracę urządzenia</string>
+  <string name="notification_low_memory_text">Mało pamięci</string>
+  <string name="notification_low_storage_size">Dostępne mniej niż %s pamięci</string>
+  <string name="notification_low_storage_size_1_gb_hint">Zwolnij miejsce, aby przyspieszyć pracę urządzenia</string>
+  <string name="notification_low_storage_size_1p5_gb_hint">Usuń śmieci, aby przyspieszyć pracę urządzenia</string>
+  <string name="notification_uninstall_clean_hint">Usuń śmieci, aby przyspieszyć pracę urządzenia</string>
+  <string name="notification_uninstall_clean_text">Odinstalowane aplikacje pozostawiają śmieci na urządzeniu</string>
 </resources>

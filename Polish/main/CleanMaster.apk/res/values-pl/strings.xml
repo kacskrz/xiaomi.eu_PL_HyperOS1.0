@@ -798,4 +798,23 @@
     <string name="permission_dialog_storage_btn2">Anuluj</string>
     <string name="permission_dialog_storage_content">Czyszczenie wymaga uprawnienia dostępu do pamięci wewnętrznej w celu poprawnego działania. Dotknij przycisku \"Ustawienia\", aby zarządzać uprawnieniami do pamięci.</string>
     <string name="permission_dialog_storage_title">Wymagane uprawnienia</string>
+    <string name="notification_checker_installed_apk_hint">Nie musisz zachowywać plików APK po ich instalacji</string>
+    <string name="notification_checker_picture_hint_a">Obrazy z pamięci podręcznej mogą zajmować dużo pamięci</string>
+    <string name="notification_checker_picture_hint_b">Zwolnij miejsce, usuwając niepotrzebne rzeczy</string>
+    <string name="notification_checker_picture_text_a">Wyczyść obrazy z pamięci podręcznej</string>
+    <string name="notification_checker_picture_text_b">Wyczyść %s obrazów z pamięci podręcznej</string>
+    <string name="notification_garbage_clean_botton_text_new">Wyczyść</string>
+    <string name="notification_garbage_clean_hint_new">Urządzenie może pracować lepiej</string>
+    <string name="notification_garbage_clean_size_found">"Masz %s śmieci"</string>
+    <string name="notification_garbage_clean_size_found_hint">Czas wynieść śmieci!</string>
+    <string name="notification_garbage_clean_size_found_text">Zbyt dużo śmieci</string>
+    <string name="notification_garbage_clean_size_new">Zwolnij %s pamięci</string>
+    <string name="notification_low_memory_button_text">Napraw</string>
+    <string name="notification_low_memory_hint">Śmieci spowalniają pracę urządzenia</string>
+    <string name="notification_low_memory_text">Mało pamięci</string>
+    <string name="notification_low_storage_size">Dostępne mniej niż %s pamięci</string>
+    <string name="notification_low_storage_size_1_gb_hint">Zwolnij miejsce, aby przyspieszyć pracę urządzenia</string>
+    <string name="notification_low_storage_size_1p5_gb_hint">Usuń śmieci, aby przyspieszyć pracę urządzenia</string>
+    <string name="notification_uninstall_clean_hint">Usuń śmieci, aby przyspieszyć pracę urządzenia</string>
+    <string name="notification_uninstall_clean_text">Odinstalowane aplikacje pozostawiają śmieci na urządzeniu</string>
 </resources>
