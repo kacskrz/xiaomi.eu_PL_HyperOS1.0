@@ -6132,7 +6132,7 @@ Umożliwiają to dane uwierzytelniające zainstalowane na Twoim urządzeniu."</s
   <string name="status_bar_settings_notification_style">Styl powiadomień</string>
   <string name="status_bar_settings_notification_use_app_icon">Użyj ikon z aplikacji</string>
   <string name="status_bar_settings_show_lte_for_4g">Użyj ikonki LTE zamiast 4G</string>
-  <string name="status_bar_settings_show_weather">Pokaż pogodę na pasku powiadomień</string>
+  <string name="status_bar_settings_show_weather">Pokaż informacje o pogodzie</string>
   <string name="status_bar_settings_notification_sound_vibrate">Dźwięk i wibracje</string>
   <string name="status_bar_settings_notification_vibrate">Wibracje</string>
   <string name="status_bar_settings_qs_layout">Układ przełączników</string>
@@ -8260,4 +8260,14 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="other_input_method">Inne klawiatury</string>
   <string name="sync_success">Pomyślnie zsynchronizowano</string>
   <string name="xiaomi_custom_input_method">Dostosowane do Xiaomi</string>
+  <string name="silent_mode_disable_media">Wycisz wszystko</string>
+  <string name="silent_mode_enable_media">Odtwarzaj multimedia</string>
+  <string name="silent_mode_summary">Wycisz połączenia, powiadomienia i multimedia</string>
+  <string name="silent_mode_toggle_title">Tryb cichy</string>
+  <string name="volume_adjustment">Dostosuj głośność</string>
+  <string name="zen_mode_always">Zawsze</string>
+  <string name="zen_mode_auto_rule">Zaplanuj reguły Godzin ciszy</string>
+  <string name="zen_mode_lockscreen">Gdy zablokowany</string>
+  <string name="zen_mode_more_actions">Więcej opcji Godzin ciszy</string>
+  <string name="zen_mode_summary2">Wycisz połączenia i powiadomienia, wyłącz wibracje</string>
 </resources>
