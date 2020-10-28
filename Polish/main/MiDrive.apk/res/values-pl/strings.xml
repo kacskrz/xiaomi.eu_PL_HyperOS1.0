@@ -607,7 +607,7 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="set_lock_password_dialog_title">Ustaw nowe hasło</string>
   <string name="unlock_password_dialog_msg">Zostanie wykorzystane hasło ochrony prywatności. Działa ono z zdjęciami, notatkami i plikami.</string>
   <string name="unlock_password_dialog_title">Hasło ochrony prywatności</string>
-  <string name="ai_ppt_to_pdf">Skonwertowane do PDF</string>
+  <string name="ai_ppt_to_pdf">Konwertuj slajdy do pliku PDF</string>
   <string name="ai_recommend_pdf">Skonwertowane do PDF</string>
   <string name="album">Galeria</string>
   <string name="all">Wszystko</string>
@@ -633,4 +633,5 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="save">Zapisz</string>
   <string name="save_pdf">Zapisz</string>
   <string name="saving_pdf">Zapisywanie…</string>
+  <string name="ai_ppt_to_pdf_view_all">Zobacz wszystko</string>
 </resources>

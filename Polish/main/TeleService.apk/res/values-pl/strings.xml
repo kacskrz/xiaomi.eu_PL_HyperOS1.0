@@ -1764,7 +1764,7 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="fiveg_network_mode_default">Automatycznie</string>
   <string name="fiveg_network_mode_nsa">Tryb NSA</string>
   <string name="fiveg_network_mode_sa_nsa">Tryb SA+NSA</string>
-  <string name="fiveg_network_mode_title">Wybór trybu sieci 5G</string>
+  <string name="fiveg_network_mode_title">Wybierz tryb sieci 5G</string>
   <string name="fiveg_sa_vice_switch_title">Tryb SA (druga karta)</string>
   <string name="preference_countrycode_title">Kod kraju</string>
 </resources>
