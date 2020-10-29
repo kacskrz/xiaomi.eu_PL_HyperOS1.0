@@ -327,4 +327,5 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="trash_box_close_tip">Zamknij okno</string>
   <string name="trash_box_delete_all">Czy chcesz usunąć wszystkie elementy z kosza na zawsze?</string>
   <string name="user_feedback">Opinia</string>
+  <string name="no_network">"Nie udało się połączyć z siecią"</string>
 </resources>

@@ -368,4 +368,34 @@
         <item quantity="other">%1$d kalorii</item>
         <item quantity="few">%1$d kalorie</item>
    </plurals>
+   <plurals name="sporting_content_min">
+        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d min</item>
+   </plurals>
+   <plurals name="sporting_content_sec">
+        <item quantity="one">%1$d sek.</item>
+        <item quantity="other">%1$d sek.</item>
+   </plurals>
+   <plurals name="sporting_content_calories">
+        <item quantity="one">"Spalono już %1$s kalorię"</item>
+        <item quantity="other">"Spalono już %1$s kalorii"</item>
+        <item quantity="few">"Spalono już %1$s kalorie"</item>
+   </plurals>
+   <plurals name="sporting_content_riding_km">
+        <item quantity="one">"Przejechano już %1$s km"</item>
+        <item quantity="other">"Przejechano już %1$s km"</item>
+   </plurals>
+   <plurals name="sporting_content_running_km">
+        <item quantity="one">"Przebiegnięto już %1$s km"</item>
+        <item quantity="other">"Przebiegnięto już %1$s km"</item>
+   </plurals>
+   <plurals name="sporting_content_walking_km">
+        <item quantity="one">"Przespacerowano już %1$s km"</item>
+        <item quantity="other">"Przespacerowano już %1$s km"</item>
+   </plurals>
+   <plurals name="sporting_content_walking_stpe">
+        <item quantity="one">"Przespacerowano już %1$s krok"</item>
+        <item quantity="few">"Przespacerowano już %1$s kroki"</item>
+        <item quantity="other">"Przespacerowano już %1$s kroków"</item>
+   </plurals>
 </resources>

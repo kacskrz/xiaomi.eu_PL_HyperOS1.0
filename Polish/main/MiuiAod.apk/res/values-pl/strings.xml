@@ -244,4 +244,8 @@ dd.MM"</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Więcej niż %1$d nowych powiadomień</string>
     <string name="aod_dual_clock_date">HH:mm dd.MM</string>
     <string name="aod_dual_clock_date_12">hh:mm dd.MM</string>
+    <string name="add_custom_image">Własny obraz</string>
+    <string name="share">Udostępnij</string>
+    <string name="share_to_community">Udostępnij na Mi Community</string>
+    <string name="step_to_image_community">Znajdź więcej na Mi Community</string>
 </resources>
