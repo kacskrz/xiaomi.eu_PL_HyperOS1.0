@@ -967,7 +967,7 @@
   <string name="movie_download">Pobierz</string>
   <string name="movie_download_failed">Nie udało się pobrać</string>
   <string name="movie_download_failed_for_notwork">Nie udało się pobrać. Połącz się z siecią i spróbuj ponownie.</string>
-  <string name="movie_download_sdk_without_wifi_msg">Twoje urządzenie nie jest podłączone do sieci Wi-Fi. Pobrać wymagany plugin (3MB) za pomocą danych komórkowych?</string>
+  <string name="movie_download_sdk_without_wifi_msg">Twoje urządzenie nie jest podłączone do sieci Wi-Fi. Pobrać wymagany plugin (%2$d MB) za pomocą danych komórkowych?</string>
   <string name="movie_download_sdk_without_wifi_title">Pobierz za pomocą danych komórkowych</string>
   <string name="movie_download_with_metered_network_msg">Używanie danych komórkowych do pobierania plików zwiększy ich użycie. Jeśli przekroczysz limit swojego planu danych, operator obciąży Cię dodatkową opłatą.</string>
   <string name="movie_download_with_metered_network_title">Ostrzeżenie o użyciu danych</string>
@@ -1146,7 +1146,7 @@
   <string name="photo_editor_miui_beauty_no_face">"Nie można wykryć twarzy"</string>
   <string name="photo_editor_mosaic">Mozaika</string>
   <string name="photo_editor_navigator_cancel">Anuluj</string>
-  <string name="photo_editor_navigator_download_network_metered_msg">Pobieranie %s wymaga użycia ok. 4 MB danych mobilnych. Pobrać teraz?</string>
+  <string name="photo_editor_navigator_download_network_metered_msg">Pobieranie %s wymaga użycia ok. %2$d MB danych mobilnych. Pobrać teraz?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Użycie danych</string>
   <string name="photo_editor_navigator_export">Zapisz</string>
   <string name="photo_editor_navigator_module_download_failed">"Nie można pobrać %s"</string>
@@ -1483,10 +1483,10 @@
   <string name="slim_cost_time_minute">Pozostało %d min</string>
   <string name="slim_cost_time_minute_and_second">Pozostało %1$d min %2$d s</string>
   <string name="slim_cost_time_second">Pozostało %d s</string>
-  <string name="slim_description_dialog_detail">Zmniejsz rozmiar zdjęć na urządzeniu. Oryginalne pliki będą zachowane w Chmurze.</string>
+  <string name="slim_description_dialog_detail">Kompresuj zdjęcia i pozostaw ich mniejsze kopie w wysokiej rozdzielczości na urządzeniu, zaś oryginalne zdjęcia przechowuj w Chmurze Xiaomi.</string>
   <string name="slim_description_dialog_ok">Rozumiem</string>
   <string name="slim_description_dialog_slim_after">"Przed:  167 KB"</string>
-  <string name="slim_description_dialog_slim_before">"Po:  3,07 MB"</string>
+  <string name="slim_description_dialog_slim_before">"Po: %2$d MB"</string>
   <string name="slim_dialog_message">Z Chmury zostaną pobrane zoptymalizowane zdjęcia zamiast oryginalnych</string>
   <string name="slim_exit_dialog_positive">Zatrzymaj</string>
   <string name="slim_exit_dialog_title">Zatrzymaj optymalizację</string>
@@ -1715,7 +1715,7 @@
   <string name="video_compress_download_failed_for_notwork">"Nie udało się pobrać wtyczki. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
   <string name="video_compress_encode_video">Kompresowanie wideo…</string>
   <string name="video_compress_lib_download">Pobierz wtyczkę kompresji wideo</string>
-  <string name="video_compress_lib_download_without_wifi">"Twoje urządzenie nie jest połączone z siecią Wi-Fi. Aby pobrać wtyczkę kompresji wideo, możesz użyć danych mobilnych (1.3MB)."</string>
+  <string name="video_compress_lib_download_without_wifi">"Twoje urządzenie nie jest połączone z siecią Wi-Fi. Aby pobrać wtyczkę kompresji wideo, możesz użyć danych mobilnych (%2$d MB)."</string>
   <string name="video_compress_not_with_8k">"Nie można skompresować wideo w rozdzielczości 8K"</string>
   <string name="video_compress_not_with_format">"Kompresja wideo nie jest wspierana dla tego formatu"</string>
   <string name="video_compress_not_with_low_quality">Obecna rozdzielczość jest najniższa</string>
@@ -2279,4 +2279,16 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="toast_invalid_char">"Nazwy pliku nie mogą zawierać \"%s\""</string>
     <string name="toast_invalid_prefix">"Nazwy plików nie mogą się rozpoczynać od \".\" lub \"_\""</string>
     <string name="toast_rename_exit">Ten plik już istnieje</string>
+    <string name="download_type_origin_subtitle_china">Oryginalne obrazy zajmują więcej miejsca i mogą być pobierane tylko poprzez sieć Wi-Fi</string>
+    <string name="download_type_origin_title">Oryginalne</string>
+    <string name="download_type_thumbnail_subtitle">Obrazy w wysokiej rozdzielczości wyglądają prawie tak samo jak oryginalne obrazy, lecz zajmują mniej miejsca</string>
+    <string name="download_type_thumbnail_title">Wysoka rozdzielczość</string>
+    <string name="new_album_invalid_byte">Nazwa jest zbyt długa</string>
+    <string name="notice_click_lock_orientation">Dotknij, aby zablokować orientację</string>
+    <string name="operation_replace_album_cover">Zmień zdjęcie albumu</string>
+    <string name="operation_replace_album_cover_custom_mode">Własne</string>
+    <string name="operation_replace_album_cover_default_mode">Domyślne</string>
+    <string name="photo_page_lock_screen">Zablokuj orientację</string>
+    <string name="toast_orientation_locked">Pomyślnie zablokowano orientację</string>
+    <string name="watch_all_photo">Galeria</string>
 </resources>

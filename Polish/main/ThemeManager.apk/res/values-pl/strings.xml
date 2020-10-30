@@ -1130,4 +1130,25 @@ Co godzinę na ekranie będzie się pojawiać nowa tapeta."</string>
   <string name="wallpaper_setting_super_wallpaper_more_button_text">Więcej</string>
   <string name="wallpaper_setting_title">Tapeta</string>
   <string name="warning_subscribe_wallpaper_group_content">"Włączono pokaz slajdów na pulpicie. Element %1$s zostanie zastosowany na nim."</string>
+  <string name="de_mix_mode_superwallpaper">Supertapety</string>
+  <string name="de_mix_mode_superwallpaper_with_aod_desc">Ekran zawsze włączony, ekran blokady i pulpit</string>
+  <string name="de_mix_mode_superwallpaper_without_aod_desc">Ekran blokady i pulpit</string>
+  <string name="de_super_wp_apply_wallpaper_button_text">Zastosuj</string>
+  <string name="de_super_wp_dialog_tip_content">Supertapety są ustawiane na Ekranie blokady, pulpicie i innych powiązanych z nimi elementach równocześnie.</string>
+  <string name="de_super_wp_dialog_tip_title">Supertapety</string>
+  <string name="de_super_wp_land_position_default_des">Lądowisko</string>
+  <string name="personalize_alarm_ringtone_title">Alarmy</string>
+  <string name="personalize_aod_title">AoD</string>
+  <string name="personalize_call_ringtone_title">Dzwonki</string>
+  <string name="personalize_charge_style_title">Ładowanie</string>
+  <string name="personalize_default_font">Domyślna czcionka</string>
+  <string name="personalize_fingerprint_style_title">Odcisk palca</string>
+  <string name="personalize_icon_title">Ikony</string>
+  <string name="personalize_notify_ringtone_title">Powiadomienia</string>
+  <string name="personalize_notify_style_title">Efekty</string>
+  <string name="personalize_theme_entrance">Motywy</string>
+  <string name="personalize_third_font">Czcionki</string>
+  <string name="personalize_title">Tapeta i personalizacja</string>
+  <string name="personalize_wallpaper_sub_title">Supertapety i obrazy wyróżniające</string>
+  <string name="personalize_wallpaper_title">Tapeta</string>
 </resources>

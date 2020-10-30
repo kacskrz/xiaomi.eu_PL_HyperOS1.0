@@ -17,7 +17,7 @@
     <string name="audio_video_document">Audio, wideo i dokumenty</string>
     <string name="birthday">Urodziny</string>
     <string name="btn_got_it">Rozumiem</string>
-    <string name="btn_install_complete">Zainstalowano. Rozpocznij transfer.</string>
+    <string name="btn_install_complete">Zainstalowano</string>
     <string name="button_finish">Gotowe</string>
     <string name="button_import">Importuj</string>
     <string name="button_return">Wstecz</string>
@@ -97,7 +97,7 @@ Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi przepisami i polityk
   <string name="friday_shortest">P</string>
     <string name="get_known_tip">Spróbuj ponownie</string>
     <string name="group_info_scanning">Obliczanie…</string>
-    <string name="guest_hint_connect_new_device">Wybierz nowe urządzenie, aby się z nim połączyć</string>
+    <string name="guest_hint_connect_new_device">Wybierz nowe urządzenie</string>
     <string name="guest_unfinished_task_alert_btn_negative">Zacznij od nowa</string>
     <string name="guest_unfinished_task_alert_btn_positive">Kontynuuj</string>
     <string name="guest_unfinished_task_alert_message">Masz nieukończone zadania przenoszenia. Kontynuować przenoszenie?</string>
@@ -313,11 +313,11 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="scanner_send_dialog_btn">Rozumiem</string>
     <string name="scanner_send_dialog_message">"Nie wyłączaj Wi-Fi i nie przełączaj się pomiędzy sieciami w trakcie przenoszenia."</string>
     <string name="scanner_size_selected">Wybrano: %s</string>
-    <string name="scanner_time_remained">Przewidywany czas: %s</string>
+    <string name="scanner_time_remained">Przewidywany czas transferu: %s</string>
     <string name="scanner_title_tip">Wybierz elementy do przeniesienia</string>
     <string name="search_input_description">Szukaj</string>
     <string name="search_mode_button_back_description">Wstecz</string>
-    <string name="searching_for_new_device">Szukanie urządzenia w pobliżu…</string>
+    <string name="searching_for_new_device">Szukanie nowego urządzenia…</string>
     <string name="select_all">Zaznacz wszystko</string>
     <string name="select_all_description">Zaznacz wszystko</string>
     <string name="select_empty">Najpierw wybierz elementy do zaimportowania</string>
@@ -343,7 +343,7 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="sim_not_ready">Karta SIM jest w użyciu. Spróbuj ponownie później.</string>
     <string name="sim_unavailable">Karta SIM jest niedostępna.</string>
     <string name="sip_phone">Telefon SIP</string>
-    <string name="soft_ap_create_failed">"Nie udało się utworzyć hotspotu"</string>
+    <string name="soft_ap_create_failed">"Nie udało się utworzyć hotspotu. Spróbuj ponownie."</string>
     <string name="soft_ap_creating">Tworzenie hotspotu…</string>
     <string name="succ_description">Gotowe</string>
   <string name="sunday">Niedziela</string>
@@ -373,11 +373,11 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
 2. Pobierz i zainstaluj Przenoszenie danych.
 3. Dotknij przycisk poniżej, gdy instalacja się zakończy."</string>
     <string name="trans_intro_title">FAQ</string>
-    <string name="trans_main_activity_tutor_first">"Przenieś swoje zdjęcia, kontakty, wiadomości, historię połączeń, audio, wideo, dokumenty i aplikacje na nowe urządzenie"</string>
+    <string name="trans_main_activity_tutor_first">Przenieś elementy na nowe urządzenie</string>
     <string name="trans_one_key_migrate">Przenoszenie danych</string>
     <string name="trans_receive_time_remained">Otrzymano: %1$s | Pozostało: %2$s</string>
     <string name="trans_send_time_remained">Wysłano: %1$s | Pozostało: %2$s</string>
-    <string name="trans_show_qr_code_label">Połącz się ze starym urządzeniem</string>
+    <string name="trans_show_qr_code_label">Otwórz Przenoszenie danych na starym urządzeniu</string>
     <string name="trans_sync_transfer_data_list">Wyvierz elementy do przeniesienia na starym urządzeniu</string>
     <string name="trans_time_format_second">Mniej niż minutę</string>
     <string name="trans_time_spent">Czas: %s</string>
@@ -672,4 +672,23 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="open_photo_and_contacts_cloud_sync_content2">%d. Dotknij przycisku \"Synchronizuj teraz\".</string>
     <string name="open_photo_and_contacts_cloud_sync_summary">Włącz synchronizację, aby kontakty i elementy z Galerii pojawiły się na tym urządzeniu.</string>
     <string name="open_photo_and_contacts_cloud_sync_title">Synchronizuj kontakty i Galerię</string>
+    <string name="appname_app_data_suffix">Dane aplikacji %1$s</string>
+    <string name="fail_list_tips">"Te elementy nie mogły zostać przeniesione na nowe urządzenie."</string>
+    <string name="guest_connect_dialog_ensure_text">Połącz</string>
+    <string name="guest_connect_dialog_fail_message">"Nie udało się połączyć. Spróbuj ponownie."</string>
+    <string name="host_install_hint">"Przenoszenie danych nie jest zainstalowane?"</string>
+    <string name="main_receiver_summary">Dotknij, aby otrzymać elementy</string>
+    <string name="main_receiver_title">Nowe</string>
+    <string name="main_sender_summary">Dotknij, aby wysłać elementy</string>
+    <string name="main_sender_title">Stare</string>
+    <string name="receiver_finish_detail_button">Wyświetl raport</string>
+    <string name="receiver_finish_detail_fail">"Nie udało się przenieść"</string>
+    <string name="receiver_finish_detail_success">Przeniesione elementy</string>
+    <string name="receiver_finish_title">"Gotowe!"</string>
+    <string name="select_android_summary">Huawei, OPPO, vivo i inne</string>
+    <string name="select_mi_summary">Xiaomi i Redmi</string>
+    <string name="select_old_device_title">Wybierz markę starego urządzenia</string>
+    <string name="sender_finish_bottom_tips">"Upewnij się, że skopiowano wszystkie ważne rzeczy przed wyczyszczeniem danych z urządzenia."</string>
+    <string name="sender_finish_title">Pomyślnie przeniesiono</string>
+    <string name="transfer_finish_summary">Przeniesiono %1$s (%2$s)</string>
 </resources>
