@@ -2272,7 +2272,7 @@ Ustawienie dotyczy wszystkich użytkowników tego urządzenia."</string>
   <string name="dual_wifi_switching_prompt">Przełączanie pomiędzy sieciami</string>
   <string name="dual_wifi_switching_summary">Zwiększenie prędkości połączenia poprzez dwupasmowe Wi-Fi wymaga skorzystania z dwóch różnych pasm sieci Wi-Fi. Jeśli połączysz się z inną główną siecią, połączenie z siecią dodatkową zostanie utracone.</string>
   <string name="dump_log">Wygeneruj logi dot. problemu</string>
-  <string name="dump_log_summary">"Funkcja jest przeznaczona do generowania logów w wersjach Alfa oraz Beta MIUI. Używaj jej z rozwagą.
+  <string name="dump_log_summary">"Funkcja jest przeznaczona do generowania logów w wersji Beta MIUI. Używaj jej z rozwagą.
 Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="dump_log_title">O tej funkcji</string>
   <string name="easymode_hint">Dotknij, aby wyłączyć tryb Lite</string>
@@ -8270,4 +8270,6 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="zen_mode_lockscreen">Gdy zablokowany</string>
   <string name="zen_mode_more_actions">Więcej opcji Godzin ciszy</string>
   <string name="zen_mode_summary2">Wycisz połączenia i powiadomienia, wyłącz wibracje</string>
+  <string name="gxzw_lowlight_open_summary">Zmniejsz jasność ikony czytnika linii papilarnych. Urządzenie może odblokowywać się wolniej ze względu na mniejszą ilość światła.</string>
+  <string name="gxzw_lowlight_open_title">Odblokowanie odciskiem palca z niższą jasnością</string>
 </resources>

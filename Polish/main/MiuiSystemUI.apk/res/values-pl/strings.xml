@@ -2286,4 +2286,15 @@ Wygląda na to, że magazyn danych logowania nie jest włączony."</string>
     <string name="quick_settings_vowifi_label">Wi-Fi Calling</string>
     <string name="quick_settings_vowifi_sim1_label">Wi-Fi Calling SIM1</string>
     <string name="quick_settings_vowifi_sim2_label">Wi-Fi Calling SIM2</string>
+    <string name="touch_filtered_warning">Aplikacja Ustawienia nie może zweryfikować Twojej odpowiedzi, ponieważ jakaś aplikacja zasłania monit dot. uprawnień.</string>
+    <string name="wifi_debugging_allow">Zezwól</string>
+    <string name="wifi_debugging_always">Zawsze zezwól w tej sieci</string>
+    <string name="wifi_debugging_message">"Nazwa sieci (SSID):
+%1$s
+
+Adres sieci Wi-Fi (BSSID):
+%2$s"</string>
+    <string name="wifi_debugging_secondary_user_message">Obecnie działający użytkownik na tym urządzeniu nie może włączyć trybu debugowania poprzez sieć. Aby skorzystać z tej funkcji, przełącz się na domyślnego użytkownika.</string>
+    <string name="wifi_debugging_secondary_user_title">Debugowanie poprzez sieć niedozwolone</string>
+    <string name="wifi_debugging_title">Czy chcesz zezwolić na debugowanie poprzez sieć w ramach tej sieci?</string>
 </resources>

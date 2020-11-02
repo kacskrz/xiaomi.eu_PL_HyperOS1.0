@@ -474,4 +474,11 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="theme_title_nightsky">Nocne niebo</string>
   <string name="theme_title_shadow">Cienie</string>
   <string name="doodle_save_progress_text">Zapisywanie…</string>
+  <string name="dlg_update_cancel">Nie teraz</string>
+  <string name="dlg_update_checkbox_title">Ignoruj tą wersję</string>
+  <string name="dlg_update_title">Dostępna aktualizacja</string>
+  <string name="dlg_update_update_now">Aktualizuj</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Nie teraz</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Aktualizuj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostępna aktualizacja</string>
 </resources>

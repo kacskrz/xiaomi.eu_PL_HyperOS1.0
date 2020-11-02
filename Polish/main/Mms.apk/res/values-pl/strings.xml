@@ -1147,4 +1147,21 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
     <string name="system_permission_declare_privacy_link">Abyś w pełni zrozumiał swoje prawa jako użytkownika aplikacji, a także metody, w ramach których Xiaomi wykorzystuje Twoje dane, przeczytaj i zaakceptuj warunki %1s.</string>
     <string name="web_content_invalid_hint">Wyświetlanie tego elementu jest ograniczone lokalnym prawem</string>
     <string name="go_to">"Otwórz "</string>
+    <string name="message_cannot_send_air_mode">"Nie można wysłać wiadomości.
+Wyłącz tryb samolotowy."</string>
+    <string name="message_cannot_send_sim_unavailable">"Nie można wysłać wiadomości.
+Sprawdź kartę SIM."</string>
+    <string name="message_failed_and_cotanct_operator">Wystąpił błąd. <font color="#1c86ee">Skontaktuj się z operatorem</font>.</string>
+    <string name="message_failed_and_feedback">Wystąpił błąd. <font color="#1c86ee">Zgłoś problem</font>.</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Odznacz</string>
+    <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Zaznacz elementy</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Więcej</string>
+    <string name="miuix_appcompat_cancel_description">Anuluj</string>
+    <string name="miuix_appcompat_confirm_description">Potwierdź</string>
+    <string name="miuix_appcompat_delete_description">Usuń</string>
+    <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
+    <string name="miuix_appcompat_search_input_description">Szukaj</string>
+    <string name="miuix_appcompat_select_all_description">Zaznacz wszystko</string>
 </resources>
