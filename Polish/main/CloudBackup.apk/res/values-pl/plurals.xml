@@ -27,4 +27,8 @@
         <item quantity="one">%d aplikacja na tym urządzeniu</item>
         <item quantity="few">%d aplikacje na tym urządzeniu</item>
     </plurals>
+    <plurals name="cloud_backup_detail_frequence_day">
+        <item quantity="other">Wykonuj kopię co %d dni</item>
+        <item quantity="one">Wykonuj kopię każdego dnia</item>
+    </plurals>
  </resources>

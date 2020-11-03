@@ -9,4 +9,14 @@
     <item quantity="one">%d uprawnienie</item>
     <item quantity="few">%d uprawnienia</item>
   </plurals>
+  <plurals name="miui_app_all_permission_number">
+    <item quantity="other">%d uprawnień</item>
+    <item quantity="one">%d uprawnienie</item>
+    <item quantity="few">%d uprawnienia</item>
+  </plurals>
+  <plurals name="miui_app_privacy_permission_number">
+    <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> uprawnień dot. prywatności&lt;/Data></item>
+    <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> uprawnienie dot. prywatności&lt;/Data></item>
+    <item quantity="few">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> uprawnienia dot. prywatności&lt;/Data></item>
+  </plurals>
 </resources>

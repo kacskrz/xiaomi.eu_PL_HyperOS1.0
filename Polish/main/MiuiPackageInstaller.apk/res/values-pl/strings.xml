@@ -469,4 +469,5 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="intercept_confirm_dialog_positive">Zweryfikuj</string>
     <string name="intercept_confirm_dialog_title">Uwaga</string>
     <string name="spannable_continue_text">Rozumiem ryzyko. Zainstaluj mimo to.</string>
+    <string name="miui_other_permission">Inne</string>
 </resources>

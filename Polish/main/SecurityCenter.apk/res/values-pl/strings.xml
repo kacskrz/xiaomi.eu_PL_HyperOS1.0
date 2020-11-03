@@ -3948,4 +3948,11 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
   <string name="vb_video_effects_setting_warmth">Ciepłe</string>
   <string name="write_clipboard_tip_content">Te uprawnienie zezwala aplikacjom na zapis elementów w schowku. Spam może zakłocić codzienne korzystanie przez Ciebie ze schowka.</string>
   <string name="write_clipboard_tip_title">Zapisywanie elementów w schowku</string>
+  <string name="privacy_thumbnail_blur_category_financial">Finanse</string>
+  <string name="privacy_thumbnail_blur_category_other">Inne</string>
+  <string name="privacy_thumbnail_blur_category_photography">Zdjęcia i filmy</string>
+  <string name="privacy_thumbnail_blur_category_tip">Zalecane</string>
+  <string name="privacy_thumbnail_blur_search_empty">"Nie znaleziono rezultatów"</string>
+  <string name="privacy_thumbnail_blur_title">Zamaż podglądy</string>
+  <string name="privacy_thumbnail_blur_top_tip">Wybierz aplikacje, których podglądy w menu ostatnio otwartych aplikacji będą zamazane</string>
 </resources>
