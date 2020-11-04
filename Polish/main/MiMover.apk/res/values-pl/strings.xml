@@ -677,10 +677,10 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="guest_connect_dialog_ensure_text">Połącz</string>
     <string name="guest_connect_dialog_fail_message">"Nie udało się połączyć. Spróbuj ponownie."</string>
     <string name="host_install_hint">"Przenoszenie danych nie jest zainstalowane?"</string>
-    <string name="main_receiver_summary">Dotknij, aby otrzymać elementy</string>
-    <string name="main_receiver_title">Nowe</string>
-    <string name="main_sender_summary">Dotknij, aby wysłać elementy</string>
-    <string name="main_sender_title">Stare</string>
+    <string name="main_receiver_summary">Importuj elementy</string>
+    <string name="main_receiver_title">Nowy</string>
+    <string name="main_sender_summary">Wyślij elementy</string>
+    <string name="main_sender_title">Stary</string>
     <string name="receiver_finish_detail_button">Wyświetl raport</string>
     <string name="receiver_finish_detail_fail">"Nie udało się przenieść"</string>
     <string name="receiver_finish_detail_success">Przeniesione elementy</string>
