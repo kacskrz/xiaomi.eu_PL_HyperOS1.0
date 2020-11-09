@@ -440,7 +440,6 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="save_to_gallery_icon_name">Zapisz w Galerii</string>
   <string name="save_to_gallery_success_message">Pomyślnie zapisano w Galerii</string>
   <string name="download_rsc_tips">Ładowanie dźwięków tła…</string>
-  <string name="content_desc_close_button">Zamknij</string>
   <string name="dialog_internet_error_title">Wystąpił błąd</string>
   <string name="no_internet_message">Urządzenie musi połączyć się z sieecią w celu wycofania zgody. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
   <string name="non_wifi_environment">Połącz się z siecią Wi-Fi, aby pobrać efekty audio</string>
