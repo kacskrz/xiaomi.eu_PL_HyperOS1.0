@@ -318,4 +318,5 @@
   <string name="trial_mode_dialog_button_save">Zapisz</string>
   <string name="trial_mode_dialog_message">Gra \"%s\" jest uruchomiona w trybie próbnym. Restart urządzenia bądź przełączenie się na tryb Prędkość światła usunie tę grę. Zapisać ją w pamięci wewnętrznej?</string>
   <string name="trial_mode_dialog_title">Tryb próbny</string>
+  <string name="bottom_bar_smallwindow_text">Puść, aby dodać</string>
 </resources>

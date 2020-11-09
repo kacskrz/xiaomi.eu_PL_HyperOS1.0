@@ -481,4 +481,11 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Nie teraz</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Aktualizuj</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Dostępna aktualizacja</string>
+  <string name="doodle_saving">Zapisywanie</string>
+  <string name="doodle_tool_background">Zmień tło</string>
+  <string name="doodle_tool_text_dialog_hint">Wprowadź tekst</string>
+  <string name="note_invalid_mindnote_hint">"Mapy myśli nie są dostępne w tej wersji. Zaktualizuj aplikację, aby skorzystać z tej funkcji."</string>
+  <string name="note_mindnote_entrance_hint">"Zacznij pisać "</string>
+  <string name="note_mindnote_entrance_icon_text">Utwórz mapę myśli</string>
+  <string name="toolbar_done_description">Gotowe</string>
 </resources>

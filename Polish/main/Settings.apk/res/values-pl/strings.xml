@@ -1421,7 +1421,7 @@ Możesz wyłączyć tę funkcję w Ustawienia > Bluetooth > Sparowane urządzeni
   <string name="clear_adb_keys">Odwołaj dostęp do debugowania USB</string>
   <string name="clear_all_data">Wymaż wszystkie dane</string>
   <string name="clear_cache_btn_text">Wyczyść pamięć podręczną</string>
-  <string name="clear_data_alert_info">Wszystkie kopie zapasowe przechowywane na tym urządzeniu zostaną usunięte. Wykonaj kopię zapasową ważnych plików na komputerze i w chmurze Xiaomi, zanim przejdziesz dalej.</string>
+  <string name="clear_data_alert_info">Wszystkie kopie zapasowe przechowywane na tym urządzeniu zostaną usunięte. Wykonaj kopię zapasową ważnych plików na komputerze i w chmurze Xiaomi, zanim zresetujesz urządzenie do ustawień fabrycznych.</string>
   <string name="clear_data_dlg_text">Wszystkie dane tej aplikacji zostaną trwale usunięte. Dotyczy to wszystkich plików, ustawień, kont, baz danych itd.</string>
   <string name="clear_data_dlg_title">Usunąć dane aplikacji?</string>
   <string name="clear_data_failed">Nie można wyczyścić danych aplikacji.</string>
@@ -2027,7 +2027,7 @@ Ustawienie dotyczy wszystkich użytkowników tego urządzenia."</string>
   <string name="dialog_backup_password_cancel">Anuluj</string>
   <string name="dialog_backup_password_change_machine_tips">"Nie będziesz w stanie przesłać kopii zabezpieczonych hasłem. Wyłącz hasło kopii zapasowej przed użyciem Przenoszenia danych."</string>
   <string name="dialog_backup_password_to_settings">Ustawienia</string>
-  <string name="dialog_backup_title">Zaktualizować kopie zapasowe przed przywróceniem do ustawień fabrycznych?</string>
+  <string name="dialog_backup_title">Wykonać kopię zapasową elementów?</string>
   <string name="dialog_chose_item">Wybierz element do wyświetlenia</string>
   <string name="dialog_content_login">Aktualizacja wymaga konta Xiaomi. Wpisać się?</string>
   <string name="dialog_no">Nie</string>

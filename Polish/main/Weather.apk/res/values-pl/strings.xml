@@ -103,8 +103,8 @@
   <string name="button_exit">"Nie zgadzam się"</string>
   <string name="button_not_allow">Anuluj</string>
   <string name="button_settings_cancel">Anuluj</string>
-  <string name="button_settings_confirm">Odmów</string>
-  <string name="button_settings_confirm_to_revoke_msg">"Nie będziesz mógł korzystać z aplikacji Pogoda po odwołaniu autoryzacji"</string>
+  <string name="button_settings_confirm">Cofnij zgodę</string>
+  <string name="button_settings_confirm_to_revoke_msg">"Wyłączając tę opcję, wycofujesz zgodę na warunki Polityki prywatności aplikacji Pogoda. Xiaomi zaprzestanie gromadzenia danych o Tobie. Dane, które zostały już zgromadzone i przetworzone, zostaną usunięte w terminie określonym odpowiednimi przepisami prawa. Aby dostarczać swoje podstawowe usługi, aplikacja Poogda musi gromadzić niezbędne dane o Tobie. Cofnięcie zgody na warunki Polityki prywatności zostanie potraktowane jako brak zgody na akceptację tegoż warunku."</string>
   <string name="button_settings_confirm_to_revoke_title">Odmówić autoryzacji?</string>
   <string name="button_sure_abandon">Porzucić zmiany?</string>
   <string name="change_alert">Sprawdź połączenie z siecią i spróbuj ponownie</string>
@@ -270,7 +270,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="precipitation_degree_two">light</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="privacy_grant_failed">"Nie można udzielić autoryzacji. Spróbuj ponownie później."</string>
-  <string name="privacy_grant_or_revoke_settings">Autoryzacja</string>
+  <string name="privacy_grant_or_revoke_settings">Cofnięcie zgody na warunki Polityki prywatności</string>
   <string name="privacy_grant_success">Pomyślnie udzielono autoryzacji</string>
   <string name="privacy_policy">Polityka prywatności</string>
   <string name="privacy_revoke_failed">"Nie można odwołać autoryzacji. Spróbuj ponownie później."</string>
@@ -440,4 +440,15 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="save_to_gallery_icon_name">Zapisz w Galerii</string>
   <string name="save_to_gallery_success_message">Pomyślnie zapisano w Galerii</string>
   <string name="download_rsc_tips">Ładowanie dźwięków tła…</string>
+  <string name="content_desc_close_button">Zamknij</string>
+  <string name="dialog_internet_error_title">Wystąpił błąd</string>
+  <string name="no_internet_message">Urządzenie musi połączyć się z sieecią w celu wycofania zgody. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+  <string name="non_wifi_environment">Połącz się z siecią Wi-Fi, aby pobrać efekty audio</string>
+  <string name="privacy_policy_msg">&lt;Data>Ta aplikacja zawiera następujące funkcje:&lt;br/>•Informacje o pogodzie dopasowane do lokalizacji&lt;br/>• Prognozę pogody&lt;br/>• Ostrzeżenia o pogodzie&lt;br/>&lt;br/>Pogoda musi gromadzić niezbędne dane osobowe, aby świadczyć podstawowe usługi. Możesz dowiedzieć się, jak Xiaomi wykorzystuje dane, które zbiera, z &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>. Przeczytaj i zaakceptuj &lt;a href=\"%2$s\">Umowę użytkownika&lt;/a> i &lt;a href=\"%3$s\">Politykę prywatności&lt;/a> przed skorzystaniem z Pogody. W dowolnym momencie możesz wycofać swoją zgodę na warunki Polityki prywatności w Ustawieniach.&lt;/Data></string>
+  <string name="privacy_policy_msg_for_gp">&lt;Data>Ta aplikacja zawiera następujące funkcje:&lt;br/>•Informacje o pogodzie dopasowane do lokalizacji&lt;br/>• Prognozę pogody&lt;br/>• Ostrzeżenia o pogodzie&lt;br/>&lt;br/>Pogoda musi gromadzić niezbędne dane osobowe, w tym dane o lokalizacji, aby udostępniać te funkcje, nawet gdy aplikacja jest zamknięta lub nie jest używana. Możesz dowiedzieć się, jak Xiaomi wykorzystuje dane, które zbiera, z &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>. Przeczytaj i zaakceptuj &lt;a href=\"%2$s\">Umowę użytkownika&lt;/a> i &lt;a href=\"%3$s\">Politykę prywatności&lt;/a> przed skorzystaniem z Pogody. W dowolnym momencie możesz wycofać swoją zgodę na warunki Polityki prywatności w Ustawieniach.&lt;/Data></string>
+  <string name="revoke_fail">"Nie można połączyć się z siecią"</string>
+  <string name="revoke_privacy_policy_title">Cofnięcie zgody</string>
+  <string name="weather_aqi_full_air_quality_forcast">Pełna prognoza jakości powietrza</string>
+  <string name="weather_more_air_quality">Więcej o jakości powietrza</string>
+  <string name="welcome_app_title">Witaj w Pogodzie!</string>
 </resources>

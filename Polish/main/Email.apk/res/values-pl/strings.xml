@@ -580,7 +580,8 @@ dla:
   <string name="mail_header_network_not_available">Brak połączenia z siecią.</string>
   <string name="mail_login_help">Jak się zalogować?</string>
   <string name="mail_outlook_login_tips">Zgodnie z wymaganiami firmy Microsoft zostaniesz przekierowany na stronę logowania tej firmy.</string>
-  <string name="mail_outlook_oauth_login">Zaloguj się za pomocą OAuth</string>
+  <string name="mail_outlook_oauth_login">"Zaloguj się za pomocą OAuth
+(osoby prywatne nie mogą synchronizować kalendarzy Outlooka przy logowaniu w ten sposób)"</string>
   <string name="mail_outlook_psw_login">Zaloguj się hasłem</string>
   <string name="mail_search_lab">pasek wyszukiwania</string>
   <string name="mailbox_list_account_selector_combined_view">Widok łączony</string>
@@ -1294,4 +1295,26 @@ Brak połączenia z siecią."</string>
   <string name="login_manual">Ustawienia manualne</string>
   <string name="mailbox_setting_preference_sync_summary_close">Synchronizacja: wyłączona</string>
   <string name="mailbox_setting_preference_sync_summary_open">Synchronizacja: włączona</string>
+  <string name="bottom_bar_more_pdf">Eksportuj do pliku PDF</string>
+  <string name="bottom_bar_more_pdf_exporting">Eksportowanie…</string>
+  <string name="contain_view_all_body">Zobacz pełną wiadomość</string>
+  <string name="copy">Kopiuj</string>
+  <string name="drive_card_button_tips">Skopiuj kod i uzyskaj dostęp do udostępnionej zawartości</string>
+  <string name="drive_card_code">Kod dostępu</string>
+  <string name="drive_card_tips">Znaleziono link do udostępniania: %s</string>
+  <string name="drive_card_title">Link do chmury</string>
+  <string name="expand_button_title">Zaawansowane</string>
+  <string name="login_err_outlook_msg">"%s
+Sprawdź, czy hasło w aplikacji jest włączone. Jeśli tak jest, przejdź na stronę Microsoftu, aby je zresetować."</string>
+  <string name="message_all_body">Pełna wiadomość</string>
+  <string name="not_set">Nie ustawiono</string>
+  <string name="pdf_save_error">Treść jest zbyt duża i nie może zostać wyeksportowana jako plik PDF</string>
+  <string name="pdf_save_no_body">Poczekaj, aż wiadomość się załaduje, i spróbuj ponownie</string>
+  <string name="pdf_save_to">Zapisano do</string>
+  <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
+  <string name="v7_preference_off">WYŁ.</string>
+  <string name="v7_preference_on">WŁ.</string>
+  <string name="wps_card_button_tips">Otwórz WPS</string>
+  <string name="wps_card_tips">Znaleziono link do udostępniania \"%s\"</string>
+  <string name="wps_card_title">Dokumenty WPS</string>
 </resources>
