@@ -817,4 +817,12 @@
     <string name="notification_low_storage_size_1p5_gb_hint">Usuń śmieci, aby przyspieszyć pracę urządzenia</string>
     <string name="notification_uninstall_clean_hint">Usuń śmieci, aby przyspieszyć pracę urządzenia</string>
     <string name="notification_uninstall_clean_text">Odinstalowane aplikacje pozostawiają śmieci na urządzeniu</string>
+    <string name="browser_scan_history_desc">Historia przeglądarki</string>
+    <string name="browser_search_history_desc">Wyszukiwane elementy</string>
+    <string name="call_log">Historia połączeń</string>
+    <string name="clip_board_history_desc">Elementy ze schowka</string>
+    <string name="clipboard">Schowek</string>
+    <string name="phone_search">Wyszukiwanie Google</string>
+    <string name="privacy_appdata_chrome_history_des">Odwiedzone strony</string>
+    <string name="search_history">Historia wyszukiwania</string>
 </resources>

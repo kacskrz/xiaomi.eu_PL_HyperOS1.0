@@ -1151,4 +1151,8 @@ Co godzinę na ekranie będzie się pojawiać nowa tapeta."</string>
   <string name="personalize_title">Tapeta i personalizacja</string>
   <string name="personalize_wallpaper_sub_title">Supertapety i obrazy wyróżniające</string>
   <string name="personalize_wallpaper_title">Tapeta</string>
+  <string name="boot_audio_dialog_cancel">Anuluj</string>
+  <string name="boot_audio_dialog_confirm">OK</string>
+  <string name="boot_audio_dialog_content">Dźwięk startowy jest obecnie wyłączony. Czy chcesz go włączyć i zastosować ten dźwięk?</string>
+  <string name="boot_audio_dialog_title">Uwaga</string>
 </resources>

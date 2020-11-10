@@ -302,4 +302,6 @@ Nie można wykonać kopii zapasowej"</string>
 Nie można wykonać kopii zapasowej"</string>
   <string name="backup_warning_reason_no_server_response">"Połączenie przerwane
 Spróbuj ponownie"</string>
+  <string name="cloud_backup_detail_frequence_every_7_day">Co %d dni</string>
+  <string name="cloud_backup_detail_frequence_every_day">Codziennie</string>
 </resources>

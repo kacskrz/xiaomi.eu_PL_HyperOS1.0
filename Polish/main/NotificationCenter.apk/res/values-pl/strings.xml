@@ -152,4 +152,23 @@ Zgłoś ten problem >"</string>
     <string name="channel_name_aggregation">Zgrupowane powiadomienia</string>
     <string name="channel_name_notification">Powiadomienia z aplikacji</string>
     <string name="channel_name_recovered">Przywrócone powiadomienia</string>
+    <string name="aggregate_title">Reguły dla zgrupowanych powiadomień</string>
+    <string name="channel_keyguard_hide_content">Wyświetlaj powiadomienia, ukryj treść</string>
+    <string name="channel_keyguard_show_content">Wyświetlaj powiadomienia i ich treść</string>
+    <string name="channel_keyguard_show_nothing">"Nie wyświetlaj powiadomień wcale"</string>
+    <string name="fold_importance_default">Zalecane</string>
+    <string name="fold_importance_important">Istotne</string>
+    <string name="fold_importance_unimportant">Nieistotne</string>
+    <string name="fold_title">Reguły dla zgrupowanych powiadomień</string>
+    <string name="notification_keyguard_hide_content">Wyświetlaj powiadomienia, ukryj treść</string>
+    <string name="notification_keyguard_show_content">Wyświetl powiadomienie i treść</string>
+    <string name="notification_keyguard_show_nothing">"Nie wyświetlaj powiadomień na Ekranie blokady"</string>
+    <string name="rule_keyguard_display">Format</string>
+    <string name="summary_aggregate_default">Powiadomienia dot. reklam i te związane z treściami zostaną zgrupowane</string>
+    <string name="summary_aggregate_home">"Push notifications won't be grouped"</string>
+    <string name="summary_fold_importance_default">MIUI zdecyduje, które powiadomienia powinny się pojawiać, a które nie</string>
+    <string name="summary_fold_importance_important">Powiadomienie pojawi się w Panelu powiadomień</string>
+    <string name="summary_fold_importance_unimportant">Powiadomienie pojawi się w oddzielnym katalogu</string>
+    <string name="title_aggregate_default">Grupuj powiadomienia</string>
+    <string name="title_aggregate_home">"Nie grupuj powiadomień"</string>
 </resources>

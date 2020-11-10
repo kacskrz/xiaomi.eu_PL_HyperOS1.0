@@ -3955,4 +3955,12 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
   <string name="privacy_thumbnail_blur_search_empty">"Nie znaleziono rezultatów"</string>
   <string name="privacy_thumbnail_blur_title">Zamaż podglądy</string>
   <string name="privacy_thumbnail_blur_top_tip">Wybierz aplikacje, których podglądy w menu ostatnio otwartych aplikacji będą zamazane</string>
+  <string name="network_disable_dialog_btn_text">Rozumiem</string>
+  <string name="network_disable_dialog_content">Urządzenie musi połączyć się z siecią, aby móc wycofać zgodę. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+  <string name="network_disable_dialog_title">"Nie można połączyć się z siecią"</string>
+  <string name="privacy_dialog_content_part1">Witaj w Panelu sterowania! Sprawdza on Twoje urządzenie pod kątem śmieci i wirusów, a także pozwala na zarządzanie aplikacjami, kontrolowanie zużycia danych przez nie, blokowanie połączeń oraz wiadomości i wiele innych rzeczy.</string>
+  <string name="privacy_dialog_content_part2"><Data>Aplikacja musi gromadzić niezbędne dane o Tobie, aby dostarczać Ci jej usługi i móc je ulepszać. Możesz dowiedzieć się, jak Xiaomi przetwarza gromadzone informacje, z &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>. Możesz cofnąć swoją zgodę na jej warunki w Ustawieniach w dowolnym momencie.</Data></string>
+  <string name="privacy_dialog_content_part3"><Data>"Przeczytaj i zaakceptuj warunki &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> przed skorzystaniem z Panelu sterowania. Jeśli nie zgodzisz się na użycie wspomnianych usług, nie będzie możka korzystać z niektórych funkcji aplikacji. Jej podstawowa funkcjonalność nadal będzie dostępna."</Data></string>
+  <string name="privacy_dialog_revoking">Wycofywanie zgody…</string>
+  <string name="privacy_dialog_title">Warunki użytkowania</string>
 </resources>

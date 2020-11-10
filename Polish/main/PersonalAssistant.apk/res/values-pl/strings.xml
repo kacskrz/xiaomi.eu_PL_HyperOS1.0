@@ -1196,4 +1196,5 @@
      <string name="app_pa_setting_bugreport">Opinia</string>
      <string name="shortcuts_download_dialog_text_install">Zainstaluj</string>
      <string name="shortcuts_download_dialog_text_install_tip">Aby móc skorzystać ze skrótu \"%2$s\", zainstaluj najpierw aplikację %1$s.</string>
+     <string name="card_expand_note_toast_install">Aby skorzystać z tej funkcji, zainstaluj aplikację Notatki</string>
 </resources>

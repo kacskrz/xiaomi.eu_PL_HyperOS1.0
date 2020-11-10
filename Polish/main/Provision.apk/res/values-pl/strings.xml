@@ -288,4 +288,6 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="wc_notice_link_announcement_summary">"Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki dostawcy treści trzecich zawarte w &lt;a href=\"%1$s\">Polityce prywatności&lt;/a> oraz &lt;a href=\"%2$s\">Umowie użytkownika&lt;/a>."</string>
   <string name="other_settings_ad_dialog_agree">Włącz</string>
   <string name="other_settings_ad_dialog_disagree">Wyłącz</string>
+  <string name="boot_video_replay">Odtwórz ponownie</string>
+  <string name="boot_video_skip">Pomiń</string>
 </resources>
