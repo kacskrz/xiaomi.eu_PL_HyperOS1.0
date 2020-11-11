@@ -692,4 +692,5 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="sender_finish_title">Pomyślnie przeniesiono</string>
     <string name="transfer_finish_summary">Przeniesiono %1$s (%2$s)</string>
     <string name="need_location_permission_confirm">Ustawienia</string>
+    <string name="provision_receiver_finish_button">Dalej</string>
 </resources>

@@ -1356,7 +1356,7 @@ Zaczekaj, aż okrąg stanie się czerwony."</string>
   <string name="hr_strength_lowest">Najniższe</string>
   <string name="hr_strength_mid">Średnie</string>
   <string name="jump_freq">Częstotliwość skoków</string>
-  <string name="jump_rope_count_minutes">" skoków/min"</string> - change to your format, prolly strokes per minute
+  <string name="jump_rope_count_minutes">" skoków/min"</string>
   <string name="lowest_jump">Najniższy skok</string>
   <string name="mens_avg_menstrual_period">Śr. okres</string>
   <string name="mens_avg_period">Śr. cykl</string>

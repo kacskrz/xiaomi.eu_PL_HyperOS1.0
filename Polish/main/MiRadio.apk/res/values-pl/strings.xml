@@ -338,4 +338,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="open_settings">Przejdź do ustawień</string>
   <string name="recommend">Polecane</string>
   <string name="no_hint">NIE.</string>
+  <string name="play_mode_shuffle_title">Wymieszaj</string>
+  <string name="play_mode_single_title">Powtórz</string>
+  <string name="talkback_mode_repeat_none">Tryb sekwencji</string>
 </resources>

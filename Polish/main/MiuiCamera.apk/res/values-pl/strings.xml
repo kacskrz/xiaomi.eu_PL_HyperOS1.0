@@ -1019,7 +1019,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_video_focusmode_entry_auto">Dotknij</string>
   <string name="pref_video_focusmode_entry_continuous">Ciągły</string>
   <string name="pref_video_focusmode_title">Tryb ostrości</string>
-  <string name="pref_video_hfr_title">Film w zwolnionym tempie</string>
+  <string name="pref_video_hfr_title">Klatkaż filmu</string>
   <string name="pref_video_quality_entry_1080p">FHD 1080p, 30 kl./s</string>
   <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, 60 kl./s</string>
   <string name="pref_video_quality_entry_480p">SD 480p</string>
@@ -1663,4 +1663,5 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="live_workspace_title">Szkice</string>
   <string name="live_workspace_title_edit">Wybierz elementy do usunięcia</string>
   <string name="pref_camera_video_ai_scene_title">Aparat SI</string>
+  <string name="pref_video_quality_hfr_title">Klatkaż i jakość zdjęć</string>
 </resources>
