@@ -527,4 +527,11 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="fps_standard_summary">Standardowa częstotliwość odświeżania oszczędza baterię</string>
     <string name="fps_standard_title">Standardowa</string>
     <string name="fps_user_tip">Demonstracje poszczególnych trybów są odtwarzane z małą prędkością w celach informacyjnych. Rzeczywiste działanie może wyglądać inaczej w zależności od różnych czynników.</string>
+    <string name="usage_new_home_week_average_count">Śr. %s</string>
+    <string name="usage_new_home_week_compare_text1_new">(%s%% więcej niż w zeszłym tygodniu)</string>
+    <string name="usage_new_home_week_compare_text2_new">(%s%% mniej niż w zeszłym tygodniu)</string>
+    <string name="usage_new_home_week_unlock_compare_decrease">(%.2f mniej niż w zeszłym tygodniu)</string>
+    <string name="usage_new_home_week_unlock_compare_increase">(%.2f więcej niż w zeszłym tygodniu)</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary_new">Dokładność co do minuty (zużywa więcej energii)</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary_new">Dokładność co do minuty w ciągu pozostałych %d godzin (zużywa mniej energii)</string>
 </resources>
