@@ -640,7 +640,7 @@ Jeśli po upływie 30 minut od położenia się do łóżka wciąż nie możesz 
      <string name="recorded_menstruation">Zapisany okres</string>
      <string name="reference">Materiały referencyjne</string>
      <string name="rem_Duration_increase_description">Czas trwania fazy REM twojego snu jest zbyt długi</string>
-     <string name="rem_duration">Czas trwania fazy REM snu</string>
+     <string name="rem_duration">REM</string>
      <string name="rem_duration_decrease_description">Czas trwania fazy REM twojego snu jest zbyt krótki</string>
      <string name="rem_duration_description" formatted="false">REM odnosi się do mimowolnych ruchów gałek ocznych. Sen może być podzielony pomiędzy fazę REM (Rapid Eye Movement) i fazę bez okresowych, nagłych ruchów gałek ocznych (NREM - Non-Rapid Eye Movement). Faza REM obejmuje około 20 do 25%% ogólnego czasu snu. Kiedy ludzie budzą się w trakcie tej fazy, od 74 do 95%% z nich mówi, że miało złe sny i są zdolni do pamiętania tych snów. Mózg w czasie fazy REM jest bardzo aktywny, zaś ciało kompletnie zrelaksowane, co sprawia, że ta faza jest najistotniejsza dla zarządzania funkcjami kognitywnymi.</string>
      <string name="rem_duration_normal_description">Czas trwania fazy REM twojego snu jest odpowiedni</string>
@@ -694,7 +694,7 @@ Jeśli po upływie 30 minut od położenia się do łóżka wciąż nie możesz 
      <string name="sleep_deep">Głęboki sen</string>
      <string name="sleep_deep_light_analysis">Płytki sen i glęboki sen</string>
      <string name="sleep_deep_light_close_tip">Analiza głębokiego snu jest wyłączona</string>
-     <string name="sleep_deep_light_no_data">Brak danych</string>
+     <string name="sleep_deep_light_no_data">Położenie telefonu obok poduszki spowoduje, że dane będą bardziej dokładne</string>
      <string name="sleep_deep_light_no_data_improvement">Nie udało się wykryć faz snu. Będziemy poprawiać nasze algorytmy. Bądź czujny!</string>
      <string name="sleep_detection_enable">Analizuj fazy snu</string>
      <string name="sleep_detection_feedback">Opinia</string>
@@ -729,7 +729,7 @@ Jeśli problem będzie powtarzać się systematycznie, sprawdź swoje urządzeni
      <string name="sleep_detector_title">Monitorowanie snu</string>
      <string name="sleep_detector_unopened">Jeszcze nie zacząłeś monitorować swojego snu.</string>
      <string name="sleep_duration">Czas trwania snu</string>
-     <string name="sleep_duration_description">Czas trwania snu to czas pomiędzy pójściem do łóżka a wstaniem. Czas pomiędzy wstaniem a pójściem do łóżka, o ile następuje to w porze nocnej, jest wyłączony z pomiaru.</string>
+     <string name="sleep_duration_description">Czas trwania snu to czas, w którym nie jesteś wybudzony w trakcie dnia. Ogólnie dorośli powinni spać od 7 do 9 godzin, zaś młodzież powinna spać dłużej. Odpowiednia ilość snu jest istotna dla dobrego zdrowia oraz równowagi.</string>
      <string name="sleep_duration_enough_description">"Miałeś wystarczającą ilość snu."</string>
      <string name="sleep_duration_everyday">Dobowy czas trwania snu</string>
      <string name="sleep_duration_fewer_description">"Spałeś mniej niż 7 godzin. Większa ilość snu będzie lepsza dla Ciebie."</string>
@@ -934,7 +934,7 @@ danych snu"</string>
      <string name="tb_home_exercise_card_not_set_goal">Ćwiczenie. %1$s. Ukończono: %2$s. Cel otwarty.</string>
      <string name="tb_home_exercise_card_not_supported_step">"Ćwiczenie. To urządzenie nie liczy kroków."</string>
      <string name="tb_home_exercise_card_speed_of_progress">Ćwiczenie. %1$s. Ukończono: %2$s. Cel: %3$s. Postęp: %4$s.</string>
-     <string name="tb_home_sleep_card">Sen. %1$s dzisiaj. Pójście do łóżka o %2$s. Pobudka o %3$s. %4$s.</string>
+     <string name="tb_home_sleep_card">Dzisiejszy sen: %1$s, %2$s</string>
      <string name="tb_home_sleep_card_no_data">Sen. Brak danych na dzisiaj.</string>
      <string name="tb_home_sleep_card_not_open_trace">Sen. Analiza cykli snu jest wyłączona.</string>
      <string name="tb_home_tip_open_data_sync">Synchronizuj dane Xiaomi Zdrowie z Chmurą Xiaomi, aby zyskać dostęp do nich na innych urządzeniach. Dwukrotnie dotknij, aby rozpocząć.</string>
@@ -1419,9 +1419,7 @@ Zaczekaj, aż okrąg stanie się czerwony."</string>
   <string name="calories">kalorii</string>
   <string name="hr_fp_area">Czytnik linii papilarnych</string>
   <string name="hr_fp_detect_desc">Przy każdym biciu Twojego serca krew przepływa do Twoich palców. Jasne światło umieszczone w czytniku pod ekranem pozwala na śledzenie zmian w przepływie krwi, analizę wzorów i konwersję tych danych na wartości tętna.</string>
-  <string name="hr_fp_detect_principle_desc">"Krew nie jest kompletnie przezroczysta, dzięki czemu może przez nią przenikać światło. Przy każdym biciu serca krew przepływa do palców, blokując przy tym większą ilość światła niż pomiędzy kolejnymi biciami serca. Jasne światło umieszczone w czytniku pod ekranem pozwala na śledzenie zmian w przepływie krwi, analizę wzorów i konwersję tych danych na wartości tętna.
-
-Testy przeprowadzone przez Xiaomi dowodzą, że średni błąd pomiaru tętna dokonany tą metodą wynosi tylko mniej więcej 3 uderzenia na minutę."</string>
+  <string name="hr_fp_detect_principle_desc">Krew nie jest kompletnie przezroczysta, dzięki czemu może przez nią przenikać światło. Przy każdym biciu serca krew przepływa do palców, blokując przy tym większą ilość światła niż pomiędzy kolejnymi biciami serca. Jasne światło umieszczone w czytniku pod ekranem pozwala na śledzenie zmian w przepływie krwi, analizę wzorów i konwersję tych danych na wartości tętna.</string>
   <string name="hr_fp_detect_principle_desc_2">Uwaga: upewnij się, że palec całkowicie zakrywa obszar czytnika linii papilarnych oznaczony ikonką. Nie napieraj zbyt mocno na czytnik - jeśli przyciśnięcie będzie zbyt mocne, przepływ krwi w palcu się zmniejszy, co doprowadzi do powstania niedokładnych wyników. Dane testowe służą wyłącznie jako odniesienie i nie mogą zastąpić sprzętu medycznego.</string>
   <string name="hr_fp_detect_start_desc">"Przyciśnij lekko palcem ikonę czytnika.
 Nie przesuwaj go."</string>
@@ -1520,4 +1518,24 @@ Zacznij od nowa."</string>
   <string name="sport_tts_goal_finish_half">Jesteś w połowie drogi! Działaj dalej!</string>
   <string name="sport_tts_pause_by_user">Wstrzymano ćwiczenie</string>
   <string name="sporting_location">Lokalizuj</string>
+  <string name="hr_fp_detect_principle_desc_3">Teaty przeprowadzone przez Xiaomi wykazały, że ta metoda mierzy tętno z maksymalnym błędem ok. 3 uderzeń na minutę.</string>
+  <string name="loading">Chwileczkę…</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Odznacz</string>
+  <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Zaznacz elementy</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Więcej</string>
+  <string name="miuix_appcompat_cancel_description">Anuluj</string>
+  <string name="miuix_appcompat_confirm_description">Potwierdź</string>
+  <string name="miuix_appcompat_delete_description">Usuń</string>
+  <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
+  <string name="miuix_appcompat_select_all_description">Zaznacz wszystko</string>
+  <string name="network_not_available2">"Nie udało się połączyć z siecią"</string>
+  <string name="privacy_setting">Prywatność</string>
+  <string name="sleep_day_multi_short_title">Drzemka %1$d</string>
+  <string name="sleep_day_single_short_title">Drzemka</string>
+  <string name="sleep_day_title">Sen w dzień</string>
+  <string name="sleep_night_title">Sen w nocy</string>
+  <string name="sleep_state_this_month">"Sen w tym miesiącu"</string>
+  <string name="sleep_state_this_week">"Sen w tym tygodniu"</string>
 </resources>

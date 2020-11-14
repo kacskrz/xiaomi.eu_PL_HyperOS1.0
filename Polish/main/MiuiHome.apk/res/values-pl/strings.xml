@@ -644,6 +644,6 @@
   <string name="work_profile_second_content">Aplikacje i dane służbowe są widoczne dla Twojego administratora</string>
   <string name="work_profile_title">Profil do pracy</string>
   <string name="recents_layout_style">Widok elementów w menu Ostatnich aplikacji</string>
-  <string name="recents_layout_style_horizontal">Pionowy</string>
-  <string name="recents_layout_style_vertical">Poziomy</string>
+  <string name="recents_layout_style_horizontal">Poziomo</string>
+  <string name="recents_layout_style_vertical">Pionowo</string>
 </resources>
