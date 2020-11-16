@@ -171,4 +171,5 @@ Zgłoś ten problem >"</string>
     <string name="summary_fold_importance_unimportant">Powiadomienie pojawi się w oddzielnym katalogu</string>
     <string name="title_aggregate_default">Grupuj powiadomienia</string>
     <string name="title_aggregate_home">"Nie grupuj powiadomień"</string>
+    <string name="show_weather">Wyświetlaj informacje o pogodzie</string>
 </resources>

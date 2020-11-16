@@ -8272,4 +8272,21 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="zen_mode_summary2">Wycisz połączenia i powiadomienia, wyłącz wibracje</string>
   <string name="gxzw_lowlight_open_summary">Zmniejsz jasność ikony czytnika linii papilarnych. Urządzenie może odblokowywać się wolniej ze względu na mniejszą ilość światła.</string>
   <string name="gxzw_lowlight_open_title">Odblokowanie odciskiem palca z niższą jasnością</string>
+  <string name="accessibility_voice_access_title">Kontrola głosem</string>
+  <string name="screen_enhance_engine_ai_note">"Aby Twoje wrażenia z oglądania były naturalne, funkcja nie będzie działać w momencie, gdy obraz składa się z kolorów podstawowych lub zawiera zaawansowane poprawki."</string>
+  <string name="screen_enhance_engine_ai_open">Ulepsz obrazy</string>
+  <string name="screen_enhance_engine_ai_pic_summary">Automatycznie rozpoznawaj obiekty takie jak rośliny, zdjęcia czy budynki i dostosowuj do nich wyświetlane efekty. Funkcja znacznie zwiększa zużycie energii.</string>
+  <string name="screen_enhance_engine_ai_title">Ulepszanie obrazu za pomocą SI</string>
+  <string name="screen_enhance_engine_memc_pic_summary">Dodaj dodatkowe klatki obrazu do filmów, aby stały się one plynniejsze i żywsze.</string>
+  <string name="screen_enhance_engine_s2h_open">Ulepszanie HDR za pomocą SI</string>
+  <string name="screen_enhance_engine_s2h_pic_summary">Przetwarzaj filmy za pomocą efektów HDR, aby wychwycić więcej detali z jaśniejszych i ciemniejszych partii kadru i spowodować, że kolory będą bardziej intensywne. Funkcja jest wspierana przez wybrane aplikacje.</string>
+  <string name="screen_enhance_engine_s2h_title">Ulepszanie HDR za pomocą SI</string>
+  <string name="screen_enhance_engine_sr_for_pic">Ulepsz obrazy</string>
+  <string name="screen_enhance_engine_sr_for_video">Ulepsz filmy</string>
+  <string name="screen_enhance_engine_sr_pic_summary">Skaluj obrazy i filmy maksymalnie do rozdzielczości 1440p. Funkcja jest wspierana przez wybrane aplikacje i znacznie zwiększa zużycie energii.</string>
+  <string name="screen_enhance_engine_sr_title">Superrozdzielczość</string>
+  <string name="screen_enhance_engine_title">Silnik obrazów SI</string>
+  <string name="screen_enhance_status_disable">Wył.</string>
+  <string name="screen_enhance_status_enable">Wł.</string>
+  <string name="tether_password_illegal_character">Hasło zawiera niedozwolone znaki. Wprowadź je ponownie.</string>
 </resources>

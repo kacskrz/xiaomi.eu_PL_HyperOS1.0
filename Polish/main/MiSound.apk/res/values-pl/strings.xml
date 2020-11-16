@@ -199,4 +199,12 @@
   <string name="v7_preference_on">WŁ.</string>
   <string name="ringtone_output_device_summary">Zezwalaj głośnikowi na odtwarzanie dzwonka telefonu bądź dźwięku powiadomień, gdy podłączone są akcesoria takie jak słuchawki przewodowe bądź urządzenia Bluetooth</string>
   <string name="ringtone_output_device_title">Dźwięk z głośnika</string>
+  <string name="choose_bluetooth_device">Wybierz urządzenie</string>
+  <string name="end_wireless_transmission">Zatrzymaj</string>
+  <string name="switch_bluetooth_device">Przełącz urządzenie</string>
+  <string name="wireless_transmission">Głośnik bezprzewodowy</string>
+  <string name="wireless_transmission_cancel">Anuluj</string>
+  <string name="wireless_transmission_confirm">Włącz</string>
+  <string name="wireless_transmission_definition">Transmituj dźwięk z mikrofonu telefonu do zewnętrznego urządzenia Bluetooth</string>
+  <string name="wireless_transmission_prompt">Aby przesyłać dźwięk, bezprzewodowy głośnik musi mieć włączoną funkcję Bluetooth. Włączyć ją teraz?</string>
 </resources>

@@ -409,4 +409,12 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="perm_manager_suggest_operation">Zarządzaj uprawnieniami</string>
   <string name="perm_manager_suggest_title">Dostosować uprawnienia?</string>
   <string name="yes">Tak</string>
+  <string name="grant_dialog_storage_category_title">Aplikacja wymaga uprawnień do Galerii oraz wiadomości w aplikacjach społecznościowych</string>
+  <string name="grant_dialog_storage_gallery_title">Galeria</string>
+  <string name="grant_dialog_storage_sociality_title">Wiadomości w aplikacjach społecznościowych</string>
+  <string name="storage_policy_notify_both_title">"Aplikacja %1$s nie może uzyskać dostępu do Galerii oraz wiadomości w aplikacjach społecznościowych"</string>
+  <string name="storage_policy_notify_content">Dotknij, aby dostosować uprawnienia</string>
+  <string name="storage_policy_notify_gallery_title">"Aplikacja %1$s nie może korzystać z Galerii"</string>
+  <string name="storage_policy_notify_sociality_title">"Aplikacja %1$s nie może uzyskać dostępu do wiadomości w aplikacjach społecznościowych"</string>
+  <string name="storage_policy_notify_title">"Aplikacja %1$s nie może korzystać z Galerii"</string>
 </resources>
