@@ -488,4 +488,15 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="note_mindnote_entrance_hint">"Zacznij pisać "</string>
   <string name="note_mindnote_entrance_icon_text">Utwórz mapę myśli</string>
   <string name="toolbar_done_description">Gotowe</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Odznacz</string>
+  <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Zaznacz elementy</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Więcej</string>
+  <string name="miuix_appcompat_cancel_description">Anuluj</string>
+  <string name="miuix_appcompat_confirm_description">Potwierdź</string>
+  <string name="miuix_appcompat_delete_description">Usuń</string>
+  <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
+  <string name="miuix_appcompat_search_input_description">Szukaj</string>
+  <string name="miuix_appcompat_select_all_description">Zaznacz wszystko</string>
 </resources>

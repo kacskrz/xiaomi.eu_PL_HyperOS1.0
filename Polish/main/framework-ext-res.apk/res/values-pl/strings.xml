@@ -262,7 +262,6 @@
   <string name="talk_back_water_mark_string2">Wciśnij i przytrzymaj \"Volume+\" i \"Volume-\" przez 3 sekundy, by go wyłączyć</string>
   <string name="throwing_print">Drukuj</string>
   <string name="throwing_screen">Projekcja</string>
-  <string name="tips_prompt_enable_midrop">Udostępniaj pliki urządzeniom w pobliżu</string>
   <string name="total">Godziny ciszy</string>
   <string name="total_description">Wycisza dźwięki i wyłącza wibracje dla wszystkich elementów z wyjątkiem alarmów</string>
   <string name="total_title">Godziny ciszy</string>
@@ -319,4 +318,5 @@
   <string name="trial_mode_dialog_message">Gra \"%s\" jest uruchomiona w trybie próbnym. Restart urządzenia bądź przełączenie się na tryb Prędkość światła usunie tę grę. Zapisać ją w pamięci wewnętrznej?</string>
   <string name="trial_mode_dialog_title">Tryb próbny</string>
   <string name="bottom_bar_smallwindow_text">Puść, aby dodać</string>
+  <string name="send_files_by">Wyślij pliki przez</string>
 </resources>

@@ -8289,4 +8289,11 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="screen_enhance_status_disable">Wył.</string>
   <string name="screen_enhance_status_enable">Wł.</string>
   <string name="tether_password_illegal_character">Hasło zawiera niedozwolone znaki. Wprowadź je ponownie.</string>
+  <string name="audio_share_cancel">Nie, dzięki</string>
+  <string name="audio_share_confirm">Udostępnij</string>
+  <string name="bluetooth_audio_share_feature_notice_summary">Udostępnić dźwięk innym połączonym urządzeniom?</string>
+  <string name="bluetooth_audio_share_feature_notice_title">Udostępnij dźwięk</string>
+  <string name="bt_audio_share_property">Udostepnianie</string>
+  <string name="bt_audio_share_switch_summary">Udostępnij dźwięk połączonym urządzeniom Bluetooth</string>
+  <string name="bt_audio_share_switch_title">Udostępnij dźwięk</string>
 </resources>

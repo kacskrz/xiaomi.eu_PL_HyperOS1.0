@@ -755,4 +755,78 @@ Możesz teraz uzyskać bezpłatną, %d-dniową wersję próbną!"</item>
         <item quantity="one">Usuń %d plik APK</item>
         <item quantity="few">Usuń %d pliki APK</item>
     </plurals>
+    <plurals name="image_protect_del_tips">
+        <item quantity="other">Czy chcesz usunąć na zawsze %d obrazów?</item>
+        <item quantity="one">Czy chcesz usunąć na zawsze %d obraz?</item>
+        <item quantity="few">Czy chcesz usunąć na zawsze %d obrazy?</item>
+    </plurals>
+    <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">Po opuszczeniu tej strony zostanie usuniętych na zawsze %d obrazów. Wyjść mimo to?</item>
+        <item quantity="one">Po opuszczeniu tej strony zostanie usunięty na zawsze %d obraz. Wyjść mimo to?</item>
+        <item quantity="few">Po opuszczeniu tej strony zostaną usunięte na zawsze %d obrazy. Wyjść mimo to?</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Usuń %d obrazów</item>
+        <item quantity="one">Usuń %d obraz</item>
+        <item quantity="few">Usuń %d obrazy</item>
+    </plurals>
+    <plurals name="pp_times">
+        <item quantity="other">%s razy</item>
+        <item quantity="one">%s raz</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d aplikacji</item>
+        <item quantity="one">%d aplikacja</item>
+        <item quantity="few">%d aplikacje</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">Przyznano %d ryzykownych uprawnień</item>
+        <item quantity="one">Przyznano %d ryzykowne uprawnienie</item>
+        <item quantity="few">Przyznano %d ryzykowne uprawnienia</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">Znaleziono %d ryzykownych aplikacji</item>
+        <item quantity="one">Znaleziono %d ryzykowną aplikację</item>
+        <item quantity="few">Znaleziono %d ryzykowne aplikacje</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="few">Wykryto %d zagrożenia ujawnienia informacji o lokalizacji</item>
+        <item quantity="one">Wykryto %d zagrożenie ujawnienia informacji o lokalizacji</item>
+        <item quantity="other">Wykryto %d zagrożeń ujawnienia informacji o lokalizacji</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">Wykryto %d zagrożeń</item>
+        <item quantity="one">Wykryto %d zagrożenie</item>
+        <item quantity="few">Wykryto %d zagrożenia</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">Znaleziono %d potencjalnych zagrożeń</item>
+        <item quantity="one">Znaleziono %d potencjalne zagrożenie</item>
+        <item quantity="few">Znaleziono %d potencjalne zagrożenia</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d zdjęć może zawierać prywatne bądź wrażliwe informacje</item>
+        <item quantity="one">%d zdjęcie może zawierać prywatne bądź wrażliwe informacje</item>
+        <item quantity="few">%d zdjęcia mogą zawierać prywatne bądź wrażliwe informacje</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d funkcji chroniących prywatność jest wyłączonych</item>
+        <item quantity="one">%d funkcja chroniąca prywatność jest wyłączona</item>
+        <item quantity="few">%d funkcje chroniące prywatność są wyłączone</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">Przyznano %d wrażliwych uprawnień</item>
+        <item quantity="one">Przyznano %d wrażliwe uprawnienie</item>
+        <item quantity="few">Przyznano %d wrażliwe uprawnienia</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Odinstaluj %d aplikacji</item>
+        <item quantity="one">Odinstaluj %d aplikację</item>
+        <item quantity="few">Odinstaluj %d aplikacji</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d elementów wymaga dodatkowej ochrony</item>
+        <item quantity="one">%d element wymaga dodatkowej ochrony</item>
+        <item quantity="few">%d elementy wymagają dodatkowej ochrony</item>
+    </plurals>
 </resources>

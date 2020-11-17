@@ -417,4 +417,9 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="storage_policy_notify_gallery_title">"Aplikacja %1$s nie może korzystać z Galerii"</string>
   <string name="storage_policy_notify_sociality_title">"Aplikacja %1$s nie może uzyskać dostępu do wiadomości w aplikacjach społecznościowych"</string>
   <string name="storage_policy_notify_title">"Aplikacja %1$s nie może korzystać z Galerii"</string>
+  <string name="HIPS_Perm_Access_Gallery">Dostęp do Galerii</string>
+  <string name="HIPS_Perm_Access_Gallery_Desc">Zezwól aplikacji na dostęp do elementów w Galerii</string>
+  <string name="HIPS_Perm_tencentControl">Dostęp do wiadomości w aplikacjach społecznościowych</string>
+  <string name="HIPS_Perm_tencentControl_Desc">Zezwól aplikacji na dostep do wiadomości z WeChata i QQ</string>
+  <string name="HIPS_SecurityPrompt_Reject_Never">"Odmów i nie pytaj ponownie (%d)"</string>
 </resources>

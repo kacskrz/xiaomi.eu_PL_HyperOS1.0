@@ -218,4 +218,7 @@
   <string name="bluetooth_map_repair_for_adv_message_access_feature">Sparuj ponownie, aby użyć tych funkcji</string>
   <string name="bluetooth_map_repair_for_message_access_version_comp">Sparuj ponownie, aby zapewnić kompatybilność wersji dostępu do wiadomości</string>
   <string name="switch_audio_device_switch_hint">Możesz wyłączyć powiadomienia dot. podłączonych urządzeń w Ustawieniach > Bluetooth > Ustawienia zaawansowane.</string>
+  <string name="bt_audio_share_notification_content">Dotknij, aby zobaczyć opcje</string>
+  <string name="bt_audio_share_notification_title">Udostępnianie dźwięku</string>
+  <string name="notice_audio_share_disconnected">Telefon nie udostępnia dźwięku (przerwane połączenie)</string>
 </resources>
