@@ -3813,8 +3813,6 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="privacy_revoke_dialog_title">Cofnięcie zgody</string>
   <string name="settings_privacy_revoke_desc">Wyłączając tą opcję, cofasz swoją zgodę na warunki Polityki prywatności Panelu sterowania.</string>
   <string name="settings_privacy_revoke_title">Cofnięcie zgody na warunki Polityki prywatności</string>
-  <string name="HIPS_Perm_External_Storage">Dostęp do plików w pamięci zewnętrznej</string>
-  <string name="HIPS_Perm_External_Storage_Desc">dodawanie i usuwanie plików z pamięci zewnętrznej</string>
   <string name="battery_health_level_text">Kondycja baterii</string>
   <string name="battery_status_level_excellent">Świetna</string>
   <string name="battery_status_level_good">Dobra</string>
