@@ -2291,4 +2291,5 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="photo_page_lock_screen">Zablokuj orientację</string>
     <string name="toast_orientation_locked">Pomyślnie zablokowano orientację</string>
     <string name="watch_all_photo">Galeria</string>
+    <string name="unsupport_type">"Ten typ pliku nie jest wspierany"</string>
 </resources>
