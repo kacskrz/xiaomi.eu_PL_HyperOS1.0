@@ -508,4 +508,6 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="ucrop_rotate">Obróć</string>
   <string name="ucrop_scale">Skaluj</string>
   <string name="general_feedback">Zgłoś pomyłki</string>
+  <string name="identify_the_results">Rozpoznaj rezultaty</string>
+  <string name="picture_is_being_saved">Zapisywanie obrazu</string>
 </resources>

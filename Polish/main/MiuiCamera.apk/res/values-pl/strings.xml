@@ -1665,4 +1665,11 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="pref_camera_video_ai_scene_title">Aparat SI</string>
   <string name="pref_video_quality_hfr_title">Klatkaż i jakość zdjęć</string>
   <string name="confirm_fastmotion_reset_manually_parameter_message">Czy chcesz zresetować parametry?</string>
+  <string name="time_stamp_date_format">dd.MM.yyyy</string>
+  <string name="accessibility_preview_expand">Przybliż</string>
+  <string name="accessibility_preview_front">Podgląd przedniego aparatu</string>
+  <string name="accessibility_preview_select_tip">Pozycja %1$d</string>
+  <string name="accessibility_preview_selected">Wybrane</string>
+  <string name="accessibility_preview_shrink">Oddal</string>
+  <string name="accessibility_preview_zoom_tip">Podgląd przybliżenia %1$.1fX</string>
 </resources>
