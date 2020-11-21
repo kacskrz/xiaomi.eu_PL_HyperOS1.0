@@ -1538,4 +1538,5 @@ Zacznij od nowa."</string>
   <string name="sleep_night_title">Sen w nocy</string>
   <string name="sleep_state_this_month">"Sen w tym miesiącu"</string>
   <string name="sleep_state_this_week">"Sen w tym tygodniu"</string>
+  <string name="hr_disable_in_split_screen">"Nie można zmierzyć tętna, gdy używasz Dzielonego ekranu"</string>
 </resources>
