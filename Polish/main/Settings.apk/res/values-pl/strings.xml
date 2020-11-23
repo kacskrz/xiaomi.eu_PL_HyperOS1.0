@@ -8275,7 +8275,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="accessibility_voice_access_title">Kontrola głosem</string>
   <string name="screen_enhance_engine_ai_note">"Aby Twoje wrażenia z oglądania były naturalne, funkcja nie będzie działać w momencie, gdy obraz składa się z kolorów podstawowych lub zawiera zaawansowane poprawki."</string>
   <string name="screen_enhance_engine_ai_open">Ulepsz obrazy</string>
-  <string name="screen_enhance_engine_ai_pic_summary">Automatycznie rozpoznawaj obiekty takie jak rośliny, zdjęcia czy budynki i dostosowuj do nich wyświetlane efekty. Funkcja znacznie zwiększa zużycie energii.</string>
+  <string name="screen_enhance_engine_ai_pic_summary">Automatycznie rozpoznawaj obiekty takie jak rośliny, zwierzęta czy budynki i dostosowuj do nich wyświetlane efekty. Funkcja znacznie zwiększa zużycie energii.</string>
   <string name="screen_enhance_engine_ai_title">Ulepszanie obrazu za pomocą SI</string>
   <string name="screen_enhance_engine_memc_pic_summary">Dodaj dodatkowe klatki obrazu do filmów, aby stały się one plynniejsze i żywsze.</string>
   <string name="screen_enhance_engine_s2h_open">Ulepszanie HDR za pomocą SI</string>
@@ -8296,4 +8296,11 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="bt_audio_share_property">Udostepnianie</string>
   <string name="bt_audio_share_switch_summary">Udostępnij dźwięk połączonym urządzeniom Bluetooth</string>
   <string name="bt_audio_share_switch_title">Udostępnij dźwięk</string>
+  <string name="gxzw_anim_dialog_cancel_enroll">Anuluj</string>
+  <string name="gxzw_anim_dialog_enroll">OK</string>
+  <string name="gxzw_anim_dialog_message">Dodaj swój odcisk palca, aby móc zobaczyć jego animację. Czy chcesz go teraz dodać?</string>
+  <string name="gxzw_anim_dialog_title">Dodaj odcisk palca</string>
+  <string name="resolution_qhd_summary">3200×1440 (zużywa więcej energii)</string>
+  <string name="save_battery_mode">Oszczędzaj energię z rozdzielczością QHD+</string>
+  <string name="save_battery_mode_summary">Automatycznie zmieniaj rozdzielczość, aby zaoszczędzić energię</string>
 </resources>
