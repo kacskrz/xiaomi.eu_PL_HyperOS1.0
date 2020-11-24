@@ -829,4 +829,67 @@ Możesz teraz uzyskać bezpłatną, %d-dniową wersję próbną!"</item>
         <item quantity="one">%d element wymaga dodatkowej ochrony</item>
         <item quantity="few">%d elementy wymagają dodatkowej ochrony</item>
     </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d problemów z zużyciem baterii</item>
+        <item quantity="one">%d problem z zużyciem baterii</item>
+        <item quantity="few">%d problemy z zużyciem baterii</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Zoptymalizuj %d rzeczy, aby zaoszczędzić baterię</item>
+        <item quantity="one">Zoptymalizuj %d rzecz, aby zaoszczędzić baterię</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">razy</item>
+        <item quantity="one">raz</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d problemów z zużyciem baterii</item>
+        <item quantity="one">%d problem z zużyciem baterii</item>
+        <item quantity="few">%d problemy z zużyciem baterii</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" godz."</item>
+        <item quantity="one">" godz."</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Aby uzyskać dokładne statystyki, naładuj urządzenie do pełna co najmniej %2$d razy</item>
+        <item quantity="one">Aby uzyskać dokładne statystyki, naładuj urządzenie do pełna co najmniej %2$d raz</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Rozwiąż %d problemów z zużyciem baterii</item>
+        <item quantity="one">Rozwiąż %d problem z zużyciem baterii</item>
+        <item quantity="few">Rozwiąż %d problemy z zużyciem baterii</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Możesz rozwiązać %d problemów z baterią</item>
+        <item quantity="one">Możesz rozwiązać %d problem z baterią</item>
+        <item quantity="few">Możesz rozwiązać %d problemy z baterią</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" Można zoptymalizować %d elementów"</item>
+        <item quantity="one">" Można zoptymalizować %d element"</item>
+        <item quantity="few">" Można zoptymalizować %d elementy"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Zoptymalizuj %d rzeczy, aby zaoszczędzić baterię</item>
+        <item quantity="one">Zoptymalizuj %d rzecz, aby zaoszczędzić baterię</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Możesz optymalizować %d rzeczy, aby zaoszczędzić baterię</item>
+        <item quantity="one">Możesz optymalizować %d rzecz, aby zaoszczędzić baterię</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d aplikacji często korzysta z autostartu</item>
+        <item quantity="one">%d aplikacja często korzysta z autostartu</item>
+        <item quantity="few">%d aplikacje często korzystają z autostartu</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d aplikacji drenuje baterię</item>
+        <item quantity="one">%d aplikacja drenuje baterię</item>
+        <item quantity="few">%d aplikacje drenują baterię</item>
+    </plurals>
 </resources>

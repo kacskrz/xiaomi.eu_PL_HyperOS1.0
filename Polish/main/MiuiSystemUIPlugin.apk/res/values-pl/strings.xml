@@ -235,7 +235,7 @@
     <string name="volume_dialog_accessibility_dismissed_message">Ukryto kontrolki głośności</string>
     <string name="volume_dialog_accessibility_shown_message">Pokazywane kontrolki głośności: %s. Przesuń w górę, aby zniknęły.</string>
     <string name="wireless_charging_connected_message">"Nie można użyć bezprzewodowego ładowania zwrotnego, gdy ładujesz urządzenie bezprzewodowo."</string>
-    <string name="wireless_charging_low_battery_level_message">"Nie można użyć bezprzewodowego ładowania zwrotnego, gdy poziom naładowania baterii wynosi mniej niż 30%."</string>
+    <string name="wireless_charging_low_battery_level_message">"Nie można użyć bezprzewodowego ładowania zwrotnego, gdy poziom naładowania baterii wynosi mniej niż %d%%."</string>
     <string name="wireless_charging_ok">Rozumiem</string>
     <string name="wireless_charging_saver_cancel">Wyłącz</string>
     <string name="wireless_charging_saver_message">Włączone jest Oszczędzanie baterii. Czy chcesz, aby bezprzewodowe ładowanie zwrotne było dalej dostępne?</string>

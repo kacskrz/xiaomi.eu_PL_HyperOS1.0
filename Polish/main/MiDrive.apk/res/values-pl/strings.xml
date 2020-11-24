@@ -634,4 +634,8 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="save_pdf">Zapisz</string>
   <string name="saving_pdf">Zapisywanie…</string>
   <string name="ai_ppt_to_pdf_view_all">Zobacz wszystko</string>
+  <string name="exception_not_support_modify_for_overseas_user">"Ta funkcja nie jest dostępna poza Chinami"</string>
+  <string name="not_support_upload_file_for_overseas_users">"Wysyłanie nie jest dostępne poza Chinami"</string>
+  <string name="stay_tuned">Bądź czujny</string>
+  <string name="stay_tuned_sub_desc">Ta funkcja jest obecnie dostępna tylko w Chinach</string>
 </resources>
