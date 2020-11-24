@@ -2409,7 +2409,6 @@ Adres sieci Wi-Fi (BSSID):
     <string name="controls_structure_tooltip">Przeciągnij, aby zobaczyć więcej</string>
     <string name="demote">Oznacz te powiadomienie jako niebędące konwersacją</string>
     <string name="device_services">Usługi urządzenia</string>
-    <string name="disable_carrier_button_text">Wyłącz eSIM</string>
     <string name="dnd_suppressing_shade_text">Powiadomienia wstrzymane przez tryb Godziny ciszy</string>
     <string name="dock_alignment_not_charging">Zmień położenie telefonu, aby naładować go bezprzewodowo</string>
     <string name="dock_alignment_slow_charging">Zmień położenie telefonu, aby ładować go szybciej</string>
@@ -2488,15 +2487,9 @@ Czy nadal je pokazywać?"</string>
     <string name="notification_appops_settings">Ustawienia</string>
     <string name="notification_bubble_title">Dymek</string>
     <string name="notification_channel_dialog_title">Wszystkie powiadomienia: %1$s</string>
-    <string name="notification_channel_disabled">"Nie będziesz w ogóle widzieć tych powiadomień"</string>
     <string name="notification_channel_hints">Wskazówki</string>
     <string name="notification_channel_minimized">Powiadomienia będą zminimalizowane</string>
     <string name="notification_channel_silenced">Powiadomienia będą wyświetlane bez dźwięku</string>
-    <string name="notification_channel_summary_bubble">Przyciąga uwagę dzięki pływającym skrótom do treści.</string>
-    <string name="notification_channel_summary_default">Może włączyć dzwonek lub wibracje w zależności od ustawień telefonu</string>
-    <string name="notification_channel_summary_default_with_bubbles">Może włączyć dzwonek lub wibracje w zależności od ustawień telefonu. Rozmowy z aplikacji %1$s są domyślnie wyświetlane jako dymki.</string>
-    <string name="notification_channel_summary_low">Brak dźwięku lub wibracji</string>
-    <string name="notification_channel_summary_priority">Wyświetla się jako pływający dymek u góry sekcji rozmów, pokazuje zdjęcie profilowe na ekranie blokady</string>
     <string name="notification_channel_summary_bubble">Przyciąga uwagę dzięki pływającym skrótom do treści.</string>
     <string name="notification_channel_summary_default">Może włączyć dzwonek lub wibracje w zależności od ustawień telefonu</string>
     <string name="notification_channel_summary_default_with_bubbles">Może włączyć dzwonek lub wibracje w zależności od ustawień telefonu. Rozmowy z aplikacji %1$s są domyślnie wyświetlane jako dymki.</string>
@@ -2521,9 +2514,7 @@ Czy nadal je pokazywać?"</string>
     <string name="notification_section_header_gentle">Ciche</string>
     <string name="notification_section_header_incoming">Nowe</string>
     <string name="notification_silence_title">Ciche</string>
-    <string name="notification_unblockable_desc">"Te powiadomienia nie mogą być modyfikowane."</string>
     <string name="open_saver_setting_action">Ustawienia</string>
-    <string name="orb_search_action">Wyszukaj czynność</string>
     <string name="output_calls_title">Wyjście dla połączeń telefonicznych</string>
     <string name="output_none_found">Brak urządzeń</string>
     <string name="output_none_found_service_off">Brak urządzeń. Spróbuj włączyć %1$s</string>
@@ -2545,7 +2536,6 @@ Czy nadal je pokazywać?"</string>
     <string name="quick_controls_setup_title">Skonfiguruj kontrolki urządzeń</string>
     <string name="quick_controls_subtitle">Dodaj kontrolki dla połączonych urządzeń</string>
     <string name="quick_controls_title">Kontrolki urządzeń</string>
-    <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d urządzeń)</string>
     <string name="quick_settings_bluetooth_secondary_label_audio">Dźwięk</string>
     <string name="quick_settings_bluetooth_secondary_label_battery_level">%s baterii</string>
     <string name="quick_settings_bluetooth_secondary_label_headset">Słuchawki</string>
@@ -2553,7 +2543,6 @@ Czy nadal je pokazywać?"</string>
     <string name="quick_settings_bluetooth_secondary_label_input">Wejście</string>
     <string name="quick_settings_bluetooth_secondary_label_transient">Włączanie…</string>
     <string name="quick_settings_cast_no_wifi">Nie połączono się z Wi‑Fi</string>
-    <string name="quick_settings_connected_battery_level">Połączono, bateria %1$s</string>
     <string name="quick_settings_dark_mode_secondary_label_battery_saver">Oszczędzanie baterii</string>
     <string name="quick_settings_dark_mode_secondary_label_on_at">Wł. o %s</string>
     <string name="quick_settings_dark_mode_secondary_label_on_at_sunset">Wł. o zachodzie słońca</string>
