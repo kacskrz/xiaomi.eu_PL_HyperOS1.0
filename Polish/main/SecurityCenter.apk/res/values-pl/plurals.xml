@@ -870,9 +870,9 @@ Możesz teraz uzyskać bezpłatną, %d-dniową wersję próbną!"</item>
         <item quantity="few">Możesz rozwiązać %d problemy z baterią</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
-        <item quantity="other">" Można zoptymalizować %d elementów"</item>
-        <item quantity="one">" Można zoptymalizować %d element"</item>
-        <item quantity="few">" Można zoptymalizować %d elementy"</item>
+        <item quantity="other">" Można poprawić %d elementów"</item>
+        <item quantity="one">" Można poprawić %d element"</item>
+        <item quantity="few">" Można poprawić %d elementy"</item>
     </plurals>
     <plurals name="power_center_battery_suggest">
         <item quantity="other">Zoptymalizuj %d rzeczy, aby zaoszczędzić baterię</item>

@@ -517,7 +517,8 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="err_remote_no_space">Brak miejsca na nowym urządzeniu</string>
     <string name="err_remote_timeout">Przekroczono czas żądania transferu</string>
     <string name="err_send_error">"Nie udało się wysłać"</string>
-    <string name="waiting_restore_desktop">Przenoszenie aplikacji firm trzecich w celu przywrócenia układu pulpitu…</string>
+    <string name="waiting_restore_aod">Przywracanie Ekranu zawsze włączonego…</string>
+    <string name="waiting_restore_desktop">Przywracanie układu pulpitu…</string>
     <string name="backup_died_summary">Dotknij przycisku \"Połącz ponownie\". Transfer zostanie wznowiony od momentu, w którym wystąpił błąd.</string>
     <string name="backup_died_title">Wystąpił błąd</string>
     <string name="qq_app_receive_fail">"Nie udało się otrzymać aplikacji QQ"</string>

@@ -646,4 +646,6 @@
   <string name="recents_layout_style">Widok elementów w menu Ostatnich aplikacji</string>
   <string name="recents_layout_style_horizontal">Poziomo</string>
   <string name="recents_layout_style_vertical">Pionowo</string>
+  <string name="remove_dialog_message">Aplikacja zawiera niezbędne funkcje systemu. W jej przypadku można tylko usunąć jej ikonę.</string>
+  <string name="remove_dialog_title_format">Usunąć %s?</string>
 </resources>

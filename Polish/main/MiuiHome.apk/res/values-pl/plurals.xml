@@ -31,4 +31,9 @@
    <plurals name="announce_for_unread">
        <item quantity="other">%2$s nieprzeczytanych z %1$s</item>
    </plurals>
+   <plurals name="remove_dialog_title_multi_format">
+       <item quantity="one">Usunąć %1$d aplikację?</item>
+       <item quantity="other">Usunąć %1$d aplikacji?</item>
+       <item quantity="few">Usunąć %1$d aplikacje?</item>
+    </plurals>
 </resources>

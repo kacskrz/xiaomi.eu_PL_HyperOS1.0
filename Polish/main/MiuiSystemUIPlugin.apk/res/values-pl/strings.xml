@@ -243,4 +243,7 @@
     <string name="wireless_charging_tips_disable">"Nie pokazuj ponownie"</string>
     <string name="wireless_charging_tips_message">Umieść urządzenia wspierające technologię bezprzewodowego ładowania Qi, takie jak niektóre telefony czy akcesoria, z tyłu urządzenia.</string>
     <string name="wireless_charging_tips_title">Bezprzewodowe ładowanie zwrotne</string>
+    <string name="safe_media_volume_warning">"Zwiększyć głośność ponad zalecany poziom?
+ 
+Głośne słuchanie może uszkodzić Twój słuch."</string>
 </resources>
