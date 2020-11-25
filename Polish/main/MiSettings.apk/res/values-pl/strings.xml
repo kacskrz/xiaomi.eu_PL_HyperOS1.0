@@ -534,4 +534,6 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="usage_new_home_week_unlock_compare_increase">(%.2f więcej niż w zeszłym tygodniu)</string>
     <string name="usage_stats_limit_time_high_accuracy_summary_new">Dokładność co do minuty (zużywa więcej energii)</string>
     <string name="usage_stats_limit_time_low_accuracy_summary_new">Dokładność co do minuty w ciągu pozostałych %d godzin (zużywa mniej energii)</string>
+    <string name="usage_state_holiday_day_hour_minute">Dni wolne: %1$s %2$s</string>
+    <string name="usage_state_holiday_time">Dni wolne: %s</string>
 </resources>

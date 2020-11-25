@@ -127,4 +127,6 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
+  <string name="uninstall_warning_content">"Nagrywanie ekranu to aplikacja systemowa. Po jej odinstalowaniu nie będzie można nagrywać ekranu."</string>
+  <string name="uninstall_warning_title">Odinstalować aplikację Nagrywanie ekranu?</string>
 </resources>

@@ -26,8 +26,8 @@
   <string name="altitude_uncalibrate_refresh">Spróbuj ponownie</string>
   <string name="altitude_uncalibrate_tip">"Nie można skalibrować wysokości"</string>
   <string name="altitude_unit">m</string>
-  <string name="app_description_content">Masz zamiar usunąć tę aplikację. Upewnij się, że nie będziesz już potrzebował jej funkcjonalności.</string>
-  <string name="app_description_title">O aplikacji</string>
+  <string name="app_description_content">Kompas to aplikacja systemowa. Po jej odinstalowaniu nie będzie możliwe sprawdzanie kierunków, położenia, ciśnienia atmosferycznego i aktualnej wysokości.</string>
+  <string name="app_description_title">Odinstalować aplikację Kompas?</string>
   <string name="app_label">Kompas</string>
   <string name="calibrate_failed">Kalibracja wysokości nieudana</string>
   <string name="calibrate_failed_no_location">"Kalibracja nieudana"</string>

@@ -330,4 +330,7 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="no_network">"Nie udało się połączyć z siecią"</string>
   <string name="uninstall_warning_content">"Dyktafon jest aplikacją systemową. Po jej odinstalowaniu nie będzie można nagrywać i przetwarzać dźwięku."</string>
   <string name="uninstall_warning_title">Odinstalować Dyktafon?</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Nie teraz</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Aktualizuj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostępna aktualizacja</string>
 </resources>
