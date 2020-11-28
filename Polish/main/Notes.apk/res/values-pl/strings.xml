@@ -499,4 +499,6 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
   <string name="miuix_appcompat_search_input_description">Szukaj</string>
   <string name="miuix_appcompat_select_all_description">Zaznacz wszystko</string>
+  <string name="notes_description_content">"Notatki to aplikacja systemowa. Nie będziesz w stanie jej używać po jej odinstalowaniu."</string>
+  <string name="notes_description_title">Odinstalować Notatki?</string>
 </resources>

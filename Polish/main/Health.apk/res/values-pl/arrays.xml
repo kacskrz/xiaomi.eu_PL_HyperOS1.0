@@ -134,7 +134,16 @@
         <item>Bieganie</item>
         <item>Spacer</item>
         <item>Rower</item>
-        <item>Bieżnia</item>
+        <item>Skakanka</item>
         <item>Trening</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Ndz.</item>
+        <item>Pon.</item>
+        <item>Wt.</item>
+        <item>Śr.</item>
+        <item>Czw.</item>
+        <item>Pt.</item>
+        <item>Sob.</item>
     </string-array>
 </resources>
