@@ -1603,7 +1603,7 @@ Zacznij od nowa."</string>
   <string name="skipping_detection_no">Nie udało się wykryć treningu.</string>
   <string name="skipping_detection_no_hint">Unikaj hałaśliwych miejsc i trzymaj urządzenie w pobliżu.</string>
   <string name="skipping_kcal">Kalorie</string>
-  <string name="skipping_pause">Koniec czasu skakania</string>
+  <string name="skipping_pause">Wstrzymano czas skakania</string>
   <string name="skipping_pause_tips">Wstrzymano | Wznów trening, aby automatycznie kontynuować śledzenie</string>
   <string name="skipping_ready">Możesz teraz rozpocząć trening</string>
   <string name="skipping_ready_hint_one">Trzymaj to urządzenie nie dalej niż 1 metr od siebie.</string>
@@ -1613,7 +1613,7 @@ Zacznij od nowa."</string>
   <string name="skipping_start_counting">Start</string>
   <string name="skipping_time">Czas trwania</string>
   <string name="skipping_upload_dialog_agree_and_upload">Zaakceptuj i prześlij</string>
-  <string name="skipping_upload_dialog_msg">Aby zapewnić dokładniejsze liczenie skoków na skakance, Xiaomi Zdrowie prześle plik nagrania przy użyciu Wi-Fi w celu zoptymalizowania efektu rozpoznawania skakania. Aby chronić Twoją prywatność, przesyłanie i przechowywanie plików nagrań będzie zaszyfrowane.</string>
+  <string name="skipping_upload_dialog_msg">Aby zapewnić dokładniejsze liczenie skoków na skakance, Xiaomi Zdrowie prześle plik nagrania przy użyciu %s w celu zoptymalizowania efektu rozpoznawania skakania. Aby chronić Twoją prywatność, przesyłanie i przechowywanie plików nagrań będzie zaszyfrowane.</string>
   <string name="skipping_upload_dialog_reject_not_remind">Odrzuć i nie pytaj ponownie</string>
   <string name="skipping_upload_dialog_title">Prześlij nagrania ze skakaniem na skakance, aby poprawić rozpoznawanie</string>
   <string name="skipping_upload_tips">Prześlij to nagranie ze skakaniem na skakance, aby poprawić efekt rozpoznawania</string>
@@ -1625,4 +1625,5 @@ Zacznij od nowa."</string>
   <string name="swipe_up_to_end">Przesuń w górę, aby zakończyć</string>
   <string name="try_again">Spróbuj ponownie</string>
   <string name="voice_remind">Zwiększyliśmy głośność, aby lepiej słyszeć instrukcje.</string>
+  <string name="treadmill">Bieżnia</string>
 </resources>

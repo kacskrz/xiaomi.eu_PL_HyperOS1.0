@@ -4187,7 +4187,7 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="power_optimize_enable_now_button">Włącz</string>
     <string name="power_optimize_gps_summary">Ogranicz dostęp do lokalizacji dla wszystkich aplikacji</string>
     <string name="power_optimize_power_save_extend_time">Dodaj %s</string>
-    <string name="power_optimize_power_save_summary">Włącz Ciemny motyw i zastosuj różne optymalizacje systemu, które ograniczają aktywność w tle i oszczędzają w ten sposób energię</string>
+    <string name="power_optimize_power_save_summary">Włącz Oszczędzanie baterii i zastosuj różne optymalizacje systemu, które ograniczają aktywność w tle</string>
     <string name="power_optimize_prohibit_app_autostart">"Nie zezwalaj aplikacjom na autostart"</string>
     <string name="power_optimize_reduce_fps">Obniż częstotliwość odświeżania ekranu do %d Hz</string>
     <string name="power_optimize_reduce_fps_summary">Obniżenie częstotliwości odświeżania działa w większości scenariuszy</string>
