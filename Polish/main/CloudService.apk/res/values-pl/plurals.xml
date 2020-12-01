@@ -108,4 +108,8 @@
         <item quantity="other">"Nie można zsynchronizować %s elementów"</item>
         <item quantity="one">"Nie można zsynchronizować %s elementu"</item>
     </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Spróbuj ponownie za %d sek.</item>
+        <item quantity="one">Spróbuj ponownie za %d sek.</item>
+    </plurals>
 </resources>

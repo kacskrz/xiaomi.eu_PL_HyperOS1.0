@@ -32,4 +32,22 @@
     <string name="input_method_switch_settings_text">Ustawienia klawiatury</string>
     <string name="input_method_tab_clipboard_text">Schowek</string>
     <string name="input_method_tab_phrase_text">Częste zwroty</string>
+    <string name="input_method_clipboard_add_to_phrase_success">Dodaj do częstych zwrotów</string>
+    <string name="input_method_function_select_guide_title">Przytrzymaj, aby wyświetlić więcej opcji</string>
+    <string name="input_method_function_select_left_view_title">Ustaw funkcję lewego przycisku</string>
+    <string name="input_method_function_select_right_view_title">Ustaw funkcję prawego przycisku</string>
+    <string name="input_method_function_clipboard">Schowek i częste zwroty</string>
+    <string name="input_method_function_clipboard_des">Dotknij, aby zobaczyć zawartość schowka i częste zwroty</string>
+    <string name="input_method_function_no_function">Brak</string>
+    <string name="input_method_function_no_function_des">"Nie pokazuj żadnych skrótów"</string>
+    <string name="input_method_function_switch">Przełącz pomiędzy klawiaturami</string>
+    <string name="input_method_function_switch_des">Dotknij, aby przełączyć się na inną klawiaturę</string>
+    <string name="input_method_function_switch_keyboard_language">Przełączaj języki</string>
+    <string name="input_method_function_switch_keyboard_language_des">Dotknij, aby przełączać się pomiędzy językami klawiatury</string>
+    <string name="input_method_function_switch_keyboard_type">Przełączaj klawiatury</string>
+    <string name="input_method_function_switch_keyboard_type_des">Dotknij, aby przełączać się pomiędzy klawiaturami</string>
+    <string name="input_method_function_voice">Wprowadzanie głosowe</string>
+    <string name="input_method_function_voice_des">Dotknij, aby użyć wprowadzania głosowego</string>
+    <string name="input_method_function_xiaoai">Wprowadzanie głosowe za pomocą Mi SI</string>
+    <string name="input_method_function_xiaoai_des">Dotknij, aby użyć wprowadzania głosowego Mi SI</string>
 </resources>
