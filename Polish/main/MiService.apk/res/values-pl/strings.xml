@@ -179,4 +179,8 @@
     <string name="share_title">Udostępnij</string>
     <string name="miui_guide_menu_privacy">Polityka prywatności</string>
     <string name="miui_main_update_back_to_home">Przygotowywanie pulpitu…</string>
+    <string name="icon_add_description">Dodaj skrót na pulpicie</string>
+    <string name="icon_remove_confirm">Usuń</string>
+    <string name="icon_remove_description_content">"\"Usługi i opinie\" są aplikacją systemową. Ciągle będzie można z niej korzystać za pomocą Ustawień po usunięciu skrótu."</string>
+    <string name="icon_remove_description_title">Usunąć \"Usługi i opinie\" z pulpitu?</string>
 </resources>

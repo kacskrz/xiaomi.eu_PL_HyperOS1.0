@@ -638,4 +638,7 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="not_support_upload_file_for_overseas_users">"Wysyłanie nie jest dostępne poza Chinami"</string>
   <string name="stay_tuned">Bądź czujny</string>
   <string name="stay_tuned_sub_desc">Ta funkcja jest obecnie dostępna tylko w Chinach</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Nie teraz</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Zaktualizuj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Aktualizacja dostępna</string>
 </resources>

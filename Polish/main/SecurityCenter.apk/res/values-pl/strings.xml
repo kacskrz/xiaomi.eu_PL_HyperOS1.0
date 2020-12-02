@@ -4053,7 +4053,7 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
   <string name="pp_understanding_privacy">Świadomość</string>
   <string name="pp_virtual_identity_manager">Wirtualne ID</string>
   <string name="privacy_risk_app">Ryzykowne aplikacje</string>
-  <string name="privacy_risk_app_fuzzy">Aplikacje z niezamazanych podglądami</string>
+  <string name="privacy_risk_app_fuzzy">Aplikacje z niezamazanymi podglądami</string>
   <string name="privacy_risk_dangerous_bar_title">Uprawnienia wysokiego ryzyka</string>
   <string name="privacy_risk_dangerous_manager">Kontroluj urządzenie</string>
   <string name="privacy_risk_dangerous_manager_msg">Zezwól aplikacjom na częściowe kontrolowanie urządzenia</string>
@@ -4097,7 +4097,7 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
   <string name="privacy_risk_result_uninstall_btn">Odinstaluj</string>
   <string name="privacy_risk_sensitive">Wrażliwe uprawnienia</string>
   <string name="privacy_risk_sensitive_bar_title">Wrażliwe uprawnienia</string>
-  <string name="privacy_risk_sensitive_call_records">Zezwól aplikacjom na dostęp do historii połączeń</string>
+  <string name="privacy_risk_sensitive_call_records">Zezwól aplikacjom na dostęp bądź edycję historii połączeń</string>
   <string name="privacy_risk_sensitive_contact">Zezwól aplikacjom na dostep bądź edycję kontaktów</string>
   <string name="privacy_risk_sensitive_location">Zezwól aplikacjom na lokalizację urządzenia za pomocą dostępnych sieci lub satelit</string>
   <string name="privacy_risk_sensitive_permissions">Wrażliwe uprawnienia</string>
@@ -4261,4 +4261,7 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="special_perm_vr_title">Używanie asystenta VR</string>
     <string name="special_perm_window_msg">Zezwól aplikacjom na wyświetlanie elementów w trybie Obraz w obrazie</string>
     <string name="special_perm_window_title">Wyświetlanie elementów w trybie Obraz w obrazie</string>
+    <string name="app_behavior_link_start">Wywołany start</string>
+    <string name="app_behavior_share_file">Udostępnij plik</string>
+    <string name="app_behavior_share_picture">Udostępnij obraz</string>
 </resources>

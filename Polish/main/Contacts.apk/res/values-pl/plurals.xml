@@ -193,4 +193,9 @@
         <item quantity="other">Zaznacz tylko %1$d</item>
         <item quantity="one">Zaznacz tylko %1$d</item>
     </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d elementów</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="few">%1$d elementy</item>
+    </plurals>
 </resources>

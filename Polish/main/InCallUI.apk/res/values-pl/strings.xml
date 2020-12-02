@@ -279,4 +279,7 @@
   <string name="waiting_close_airplane_mode">Proszę czekać...</string>
   <string name="wifi_call">Połączenie VoWiFi</string>
   <string name="video_call_downgrade_insufficient_bandwidth">Niewystarczająca przepustowość. Przełączanie na rozmowę głosową.</string>
+  <string name="ai_mode_auto">Automatycznie</string>
+  <string name="ai_mode_manual">Ręcznie</string>
+  <string name="ai_mode_subtitles">Napisy</string>
 </resources>

@@ -8342,4 +8342,6 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="title_font_settings">Ustawienia czcionki</string>
   <string name="toast_apply_font_fail">"Nie można ustawić czcionki"</string>
   <string name="resolution_sub_title">MIUI może zamknąć aplikacje uruchomione w tle w trakcie zmiany rozdzielczości</string>
+  <string name="font_setting_weight_toast">"Obecna czcionka nie wspiera zmiany jej grubości"</string>
+  <string name="face_unlock_prompt">Informacja dot. odblokowania twarzą</string>
 </resources>

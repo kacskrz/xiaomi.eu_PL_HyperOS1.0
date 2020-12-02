@@ -333,4 +333,7 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="xiaomi_market_sdk_update_dialog_cancel">Nie teraz</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Aktualizuj</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Dostępna aktualizacja</string>
+  <string name="clear_data_dialog_content">Elementy w pamięci podręcznej, dane aplikacji oraz jej ustawienia zostaną usunięte, lecz nagrania pozostaną na swoim miejscu.</string>
+  <string name="clear_data_dialog_title">Wyczyścić dane?</string>
+  <string name="preference_clear_data">Wyczyść dane</string>
 </resources>

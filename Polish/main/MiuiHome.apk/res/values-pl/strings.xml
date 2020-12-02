@@ -648,4 +648,7 @@
   <string name="recents_layout_style_vertical">Pionowo</string>
   <string name="remove_dialog_message">Aplikacja zawiera niezbędne funkcje systemu. W jej przypadku można tylko usunąć jej ikonę.</string>
   <string name="remove_dialog_title_format">Usunąć %s?</string>
+  <string name="icon_customize_summary">Wybierz styl ikon i dostosuj ich rozmiar</string>
+  <string name="icon_form">Ikony</string>
+  <string name="icon_style">Styl</string>
 </resources>
