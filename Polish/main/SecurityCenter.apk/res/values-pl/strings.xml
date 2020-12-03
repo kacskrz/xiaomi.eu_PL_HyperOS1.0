@@ -4264,4 +4264,5 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="app_behavior_link_start">Wywołany start</string>
     <string name="app_behavior_share_file">Udostępnij plik</string>
     <string name="app_behavior_share_picture">Udostępnij obraz</string>
+    <string name="ai_allow_all">Powiadamiaj, gdy uprawnienie jest wykorzystywane dla wszystkich</string>
 </resources>

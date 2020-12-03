@@ -317,7 +317,11 @@
   <string name="trial_mode_dialog_button_save">Zapisz</string>
   <string name="trial_mode_dialog_message">Gra \"%s\" jest uruchomiona w trybie próbnym. Restart urządzenia bądź przełączenie się na tryb Prędkość światła usunie tę grę. Zapisać ją w pamięci wewnętrznej?</string>
   <string name="trial_mode_dialog_title">Tryb próbny</string>
-  <string name="bottom_bar_smallwindow_text">Puść, aby dodać</string>
+  <string name="bottom_bar_smallwindow_text">Puść, aby przypiąć</string>
   <string name="send_files_by">Wyślij pliki przez</string>
   <string name="magic_window_toast">Włączono Powielanie aplikacji.</string>
+  <string name="disable_nfc">Wyłączono NFC w trakcie ładowania bezprzewodowego</string>
+  <string name="disable_nfc_reverse">Wyłączono NFC w trakcie bezprzewodowego ładowania zwrotnego</string>
+  <string name="enable_nfc">Zakończono ładowanie. Włączono NFC z powrotem.</string>
+  <string name="enable_nfc_reverse">Zakończono ładowanie zwrotne. Włączono NFC z powrotem.</string>
 </resources>
