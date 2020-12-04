@@ -1511,4 +1511,10 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="call_record_user_notice_permission_desc_microphone">W celu nagrywania połączeń</string>
   <string name="call_record_user_notice_permission_desc_storage">W celu zapisywania nagrań</string>
   <string name="call_record_user_notice_title">Wyszukiwanie połączeń głosowych</string>
+  <string name="hide_app_description_content">"Kontakty to aplikacja systemowa. Po usunięciu jej skrótu z pulpitu nadal będzie można z niej korzystać za pośrednictwem aplikacji Telefon."</string>
+  <string name="hide_app_description_title">Usunąć \"Kontakty\" z pulpitu?</string>
+  <string name="restore_app_btn_cancel">Anuluj</string>
+  <string name="restore_app_btn_restore">OK</string>
+  <string name="restore_app_description_content">Dodaj skrót na pulpicie, aby szybciej uzyskiwać dostęp do swoich kontaktów.</string>
+  <string name="restore_app_description_title">Dodać \"Kontakty\" na pulpit?</string>
 </resources>

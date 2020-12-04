@@ -95,4 +95,7 @@
   <string name="refocus_relighting_shuye">Liście</string>
   <string name="refocus_relighting_wutai">Scena</string>
   <string name="refocus_relighting_ziran">Naturalne</string>
+  <string name="exit_alert_msg">Wszystkie niezapisane zmiany zostaną utracone.</string>
+  <string name="exit_alert_title">Anulować zmiany?</string>
+  <string name="ok">OK</string>
 </resources>

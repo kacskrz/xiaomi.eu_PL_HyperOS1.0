@@ -306,7 +306,7 @@
   <string name="apn_settings_not_available">Ustawienia nazwy punktu dostępu są niedostępne dla tego użytkownika</string>
   <string name="app_info">O aplikacji</string>
   <string name="app_label">Interfejs</string>
-  <string name="app_name">Blokada klawiszy</string>
+  <string name="app_name">Blokada ekranu</string>
   <string name="app_permissions_info_button_label">Otwórz informacje o aplikacji</string>
   <string name="app_process_limit_title">Limit procesów w tle</string>
   <string name="as_important">Ważne</string>
@@ -2630,4 +2630,6 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="volume_ringer_status_normal">Dzwonek</string>
     <string name="volume_ringer_status_silent">Wyciszenie</string>
     <string name="volume_ringer_status_vibrate">Wibracja</string>
+    <string name="keyboard_key_back">Wstecz</string>
+    <string name="keyboard_key_space">Spacja</string>
 </resources>

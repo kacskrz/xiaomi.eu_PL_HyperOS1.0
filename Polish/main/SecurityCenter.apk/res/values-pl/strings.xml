@@ -4265,4 +4265,6 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="app_behavior_share_file">Udostępnij plik</string>
     <string name="app_behavior_share_picture">Udostępnij obraz</string>
     <string name="ai_allow_all">Powiadamiaj, gdy uprawnienie jest wykorzystywane dla wszystkich</string>
+    <string name="allow_all">Zezwól wszystkim</string>
+    <string name="confirm_allow_all_permission">Czy chcesz zezwolić wszystkim aplikacjom na korzystanie z tej funkcji?</string>
 </resources>

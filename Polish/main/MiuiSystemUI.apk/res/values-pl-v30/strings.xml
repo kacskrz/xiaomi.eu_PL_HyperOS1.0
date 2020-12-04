@@ -179,4 +179,7 @@ Spróbuj ponownie za %d sekund."</string>
     <string name="usb_accessory_permission_prompt">Zezwolić aplikacji %1$s na dostęp do urządzenia %2$s?</string>
     <string name="usb_device_confirm_prompt">Otworzyć aplikację %1$s do obsługi urządzenia %2$s?</string>
     <string name="usb_device_permission_prompt">Zezwolić aplikacji %1$s na dostęp do urządzenia %2$s?</string>
+    <string name="keyguard_plugged_in">%s • Ładowanie</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Szybkie ładowanie</string>
+    <string name="keyguard_plugged_in_charging_slowly">%s • Wolne ładowanie</string>
 </resources>

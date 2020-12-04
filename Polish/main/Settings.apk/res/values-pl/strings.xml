@@ -8300,8 +8300,8 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="gxzw_anim_dialog_enroll">OK</string>
   <string name="gxzw_anim_dialog_message">Dodaj swój odcisk palca, aby móc zobaczyć jego animację. Czy chcesz go teraz dodać?</string>
   <string name="gxzw_anim_dialog_title">Dodaj odcisk palca</string>
-  <string name="resolution_fhd_summary">2400×1080 (oszczędza baterię)</string>
-  <string name="resolution_qhd_summary">3200×1440 (bardziej ostre)</string>
+  <string name="resolution_fhd_summary" formatted="false">%d×%d (oszczędza baterię)</string>
+  <string name="resolution_qhd_summary" formatted="false">%d×%d (bardziej ostre)</string>
   <string name="save_battery_mode">Oszczędzaj energię z rozdzielczością WQHD+</string>
   <string name="save_battery_mode_summary">Automatycznie zmieniaj rozdzielczość, aby zaoszczędzić energię</string>
   <string name="headset_connectiong">Łączenie...</string>
@@ -8344,4 +8344,10 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="resolution_sub_title">MIUI może zamknąć aplikacje uruchomione w tle w trakcie zmiany rozdzielczości</string>
   <string name="font_setting_weight_toast">"Obecna czcionka nie wspiera zmiany jej grubości"</string>
   <string name="face_unlock_prompt">Informacja dot. odblokowania twarzą</string>
+  <string name="intelligence_suppression_title">Automatyczne (zalecane)</string>
+  <string name="screen_enhance_engine_memc_note">"Nie można ulepszyć filmów, gdy włączona jest superrozdzielczość. Włączając ulepszanie filmów, wyłączysz superrozdzielczość."</string>
+  <string name="screen_enhance_engine_sr_for_video_note">"Superrozdzielczość nie działa z ulepszonymi filmami. Włączając superrozdzielczość, wyłączysz ulepszanie filmów."</string>
+  <string name="screen_enhance_engine_sr_pic_summary_video_only">Skaluj rozdielczość filmów do maksymalnie 1440p. Funkcja jest wspierana przez wybrane aplikacje i zwiększa zużycie energii.</string>
+  <string name="wifi_connect_channel">Kanał Wi-Fi:</string>
+  <string name="wifi_connect_frequency">Częstotliwość Wi-Fi:</string>
 </resources>
