@@ -8348,6 +8348,4 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="screen_enhance_engine_memc_note">"Nie można ulepszyć filmów, gdy włączona jest superrozdzielczość. Włączając ulepszanie filmów, wyłączysz superrozdzielczość."</string>
   <string name="screen_enhance_engine_sr_for_video_note">"Superrozdzielczość nie działa z ulepszonymi filmami. Włączając superrozdzielczość, wyłączysz ulepszanie filmów."</string>
   <string name="screen_enhance_engine_sr_pic_summary_video_only">Skaluj rozdielczość filmów do maksymalnie 1440p. Funkcja jest wspierana przez wybrane aplikacje i zwiększa zużycie energii.</string>
-  <string name="wifi_connect_channel">Kanał Wi-Fi:</string>
-  <string name="wifi_connect_frequency">Częstotliwość Wi-Fi:</string>
 </resources>

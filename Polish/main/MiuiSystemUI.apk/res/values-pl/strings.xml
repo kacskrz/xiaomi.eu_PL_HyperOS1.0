@@ -2630,6 +2630,4 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="volume_ringer_status_normal">Dzwonek</string>
     <string name="volume_ringer_status_silent">Wyciszenie</string>
     <string name="volume_ringer_status_vibrate">Wibracja</string>
-    <string name="keyboard_key_back">Wstecz</string>
-    <string name="keyboard_key_space">Spacja</string>
 </resources>
