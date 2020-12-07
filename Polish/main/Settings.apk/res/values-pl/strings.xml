@@ -7113,7 +7113,7 @@ Każdy użytkownik może aktualizować aplikacje wszystkich innych użytkownikó
   <string name="user_exit_guest_dialog_remove">Usuń</string>
   <string name="user_exit_guest_title">Usuń gościa</string>
   <string name="user_experience_program">Program zadowolenia użytkownika</string>
-  <string name="user_experience_program_summary">Pomóż nam w ulepszaniu produktów przez anonimowe przesyłanie danych</string>
+  <string name="user_experience_program_summary">Pomóż MIUI w ulepszaniu produktów przez anonimowe przesyłanie danych. Aby dowiedzieć się więcej, przeczytaj warunki tegoż Programu.</string>
   <string name="user_experience_program_title">Program zadowolenia użytkownika</string>
   <string name="user_feedback">Opinia</string>
   <string name="user_guest">Gość</string>
@@ -8348,4 +8348,5 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="screen_enhance_engine_memc_note">"Nie można ulepszyć filmów, gdy włączona jest superrozdzielczość. Włączając ulepszanie filmów, wyłączysz superrozdzielczość."</string>
   <string name="screen_enhance_engine_sr_for_video_note">"Superrozdzielczość nie działa z ulepszonymi filmami. Włączając superrozdzielczość, wyłączysz ulepszanie filmów."</string>
   <string name="screen_enhance_engine_sr_pic_summary_video_only">Skaluj rozdielczość filmów do maksymalnie 1440p. Funkcja jest wspierana przez wybrane aplikacje i zwiększa zużycie energii.</string>
+  <string name="user_experience_open_url">Dowiedz się więcej odn. Programu zadowolenia użytkownika</string>
 </resources>

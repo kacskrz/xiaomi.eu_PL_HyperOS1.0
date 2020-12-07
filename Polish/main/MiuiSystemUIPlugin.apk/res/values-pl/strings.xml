@@ -246,4 +246,6 @@
     <string name="safe_media_volume_warning">"Zwiększyć głośność ponad zalecany poziom?
  
 Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem."</string>
+    <string name="accessibility_back">Wstecz</string>
+    <string name="slider_view_content_description">Przesuń w górę, aby wyłączyć urządzenie bądź w dół, aby uruchomić je ponownie</string>
 </resources>

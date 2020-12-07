@@ -392,7 +392,7 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="miui_failed_solution_3">Spróbuj zapisać paczkę instalacyjną w innej lokalizacji.</string>
     <string name="miui_failed_solution_4">Zwolnij miejsce w Panelu sterowania > Czyszczenie i spróbuj ponownie.</string>
     <string name="miui_failed_solution_5">Spróbuj użyć kompatybilnej paczki instalacyjnej.</string>
-    <string name="miui_failed_solution_6">Odinstaluj tą aplikację w Drugiej przestrzeni i spróbuj ponownie.</string>
+    <string name="miui_failed_solution_6">Odinstaluj obecnie zainstalowaną wersję i spróbuj ją zainstalować ponownie.</string>
     <string name="miui_failed_solution_7">Pobierz najnowszą wersję aplikacji z sklepu Google Play lub innego zaufanego źródła.</string>
     <string name="miui_solution_msg_2">Rozwiązanie</string>
     <string name="pref_key_app_store_summary">Informuj o możliwości pobrania aplikacji z bezpiecznego źródła przed instalacją</string>
@@ -470,4 +470,6 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="intercept_confirm_dialog_title">Uwaga</string>
     <string name="spannable_continue_text">Rozumiem ryzyko. Zainstaluj mimo to.</string>
     <string name="miui_other_permission">Inne</string>
+    <string name="miui_failed_solution_8">Pobierz aplikację z zaufanego źródła.</string>
+    <string name="install_continue">Instaluj</string>
 </resources>

@@ -397,7 +397,7 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="HIPS_SecurityPrompt_Reject_Clear_This">Ogranicz i wyczyść schowek (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_This">Ogranicz tym razem (%d)</string>
   <string name="clipboard_ai_allow_once">Automatycznie zezwolono aplikacji %1$s na dostęp do schowka</string>
-  <string name="clipboard_data">Elementy w schowku</string>
+  <string name="clipboard_data">"Zawartość: "</string>
   <string name="clipboard_data_request">Aplikacja %1$s chce uzyskać dostęp do schowka</string>
   <string name="clipboard_deny_notification_content">Ta próba została zablokowana. Dotknij, aby zarządzać uprawnieniami.</string>
   <string name="clipboard_deny_notification_operation">Zarządzaj</string>
@@ -422,4 +422,10 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="HIPS_Perm_tencentControl">Dostęp do wiadomości w aplikacjach społecznościowych</string>
   <string name="HIPS_Perm_tencentControl_Desc">Zezwól aplikacji na dostep do wiadomości z WeChata i QQ</string>
   <string name="HIPS_SecurityPrompt_Reject_Never">"Odmów i nie pytaj ponownie (%d)"</string>
+  <string name="clipboard_read_ai_deny_once">Ograniczono dostęp do schowka: %1$s</string>
+  <string name="clipboard_read_deny_dialog_title">Ograniczono dostęp do schowka: %1$s</string>
+  <string name="forbid_notice_me">Nie informuj ponownie</string>
+  <string name="go_behavior_record">Zachowania aplikacji</string>
+  <string name="keep_notice_me">Informuj dalej</string>
+  <string name="notification_click_tip">Dotknij, aby zobaczyć szczegóły</string>
 </resources>

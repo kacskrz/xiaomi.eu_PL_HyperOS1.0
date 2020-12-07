@@ -1319,4 +1319,5 @@ Sprawdź, czy hasło w aplikacji jest włączone. Jeśli tak jest, przejdź na s
   <string name="wps_card_title">Dokumenty WPS</string>
   <string name="app_uninstall_content">Poczta to aplikacja systemowa. Nie będzie można dodawać kont e-mail, otrzymywać i wysyłać wiadomości, a także synchronizować kont e-mail po jej odinstalowaniu.</string>
   <string name="app_uninstall_title">Odinstalować Pocztę?</string>
+  <string name="open_pdf_error">Nie udało się otworzyć pliku PDF. Pobierz inną aplikację do otwarcia tego pliku i spróbuj ponownie.</string>
 </resources>

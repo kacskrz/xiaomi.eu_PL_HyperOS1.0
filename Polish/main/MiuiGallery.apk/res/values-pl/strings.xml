@@ -2291,5 +2291,20 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="photo_page_lock_screen">Zablokuj orientację</string>
     <string name="toast_orientation_locked">Pomyślnie zablokowano orientację</string>
     <string name="watch_all_photo">Galeria</string>
-    <string name="unsupport_type">"Ten typ pliku nie jest wspierany"</string>
+    <string name="unsupport_type">"Ten format nie jest wspierany"</string>
+    <string name="album_homepage_show_all_photos">Pokaż wszystkie zdjęcia</string>
+    <string name="album_lockscreen_wallpapers">Tapety Ekranu blokady</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Odznacz</string>
+    <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Wybierz elementy</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Więcej</string>
+    <string name="miuix_appcompat_cancel_description">Anuluj</string>
+    <string name="miuix_appcompat_confirm_description">Potwierdź</string>
+    <string name="miuix_appcompat_delete_description">Usuń</string>
+    <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
+    <string name="miuix_appcompat_search_input_description">Szukaj</string>
+    <string name="miuix_appcompat_select_all_description">Zaznacz wszystko</string>
+    <string name="pic_to_pdf_saved_in_fileexplorer">Pomyślnie zapisano. Zobacz rezultat w aplikacji Pliki.</string>
+    <string name="toast_orientation_unlock">Odblokowano orientację ekranu</string>
 </resources>

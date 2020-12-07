@@ -35,4 +35,9 @@
         <item quantity="other">"Ograniczono dostęp aplikacji %2$s do schowka już %1$d razy. Czy chcesz permanentnie ograniczyć aplikacji %3$s do schowka?"</item>
         <item quantity="one">"Ograniczono dostęp aplikacji %2$s do schowka już %1$d razy. Czy chcesz permanentnie ograniczyć aplikacji %3$s do schowka?"</item>
     </plurals>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">Zablokowano %2$d prób uzyskania dostępu do schowka: %1$s</item>
+        <item quantity="one">Zablokowano %2$d próbę uzyskania dostępu do schowka: %1$s</item>
+        <item quantity="few">Zablokowano %2$d próby uzyskania dostępu do schowka: %1$s</item>
+    </plurals>
 </resources>
