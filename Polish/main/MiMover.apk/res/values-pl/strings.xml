@@ -161,7 +161,7 @@ Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi przepisami i polityk
     <string name="main_chooser_item_android_mi">Importuj z urządzenia Xiaomi</string>
     <string name="main_chooser_item_ios">"Importuj z iPhone'a"</string>
     <string name="main_chooser_title">Wybierz stare urządzenie</string>
-    <string name="message_request_package_stats_perm">Dotknij przycisku \"Kontynuuj\", aby otworzyć Ustawienia i nadaj Przenoszeniu danych wymagane uprawnienia.</string>
+    <string name="message_request_package_stats_perm">Aplikacja Przenoszenie danych wymaga tego uprawnienia, aby uzyskać informacje na temat zainstalowanych aplikacji na urządzeniu oraz przenieść je na inne urządzenie.</string>
     <string name="miui_need_location_permission_summary">"Zezwól Przenoszeniu danych na dostęp do Twojej lokalizacji, aby odnaleźć urządzenia w pobliżu. Bez nadania tego uprawnienia nie będzie można skorzystać z możliwości tej aplikacji."</string>
     <string name="miui_need_location_permission_title">Dostęp do lokalizacji</string>
     <string name="miui_need_open_high_accuracy_summary">"Zezwól Przenoszeniu danych na dostęp do Twojej lokalizacji w trybie Wysokiej dokładności, aby odnaleźć urządzenia w pobliżu. Bez nadania tego uprawnienia nie będzie można skorzystać z możliwości tej aplikacji."</string>
@@ -549,7 +549,7 @@ Pamiętaj, że do poprawnego działania ta aplikacja wymaga łączenia się z In
     <string name="permission_read_storage_title">Dostęp do pamięci</string>
     <string name="permission_write_storage_summary">W celu przenoszenia plików ze starego urządzenia na nowe</string>
     <string name="permission_write_storage_title">Zapisywanie elementów w pamięci</string>
-    <string name="title_request_write_settings_perm">Wymagane uprawnienie do zmiany ustawień systemu</string>
+    <string name="title_request_write_settings_perm">Zezwól na zmienianie ustawień systemu</string>
     <string name="ble_connect_button">Połącz</string>
     <string name="ble_connect_failed">"Nie udało się połączyć. Spróbuj połączyć się ręcznie."</string>
     <string name="ble_connect_failed_title">"Nie udało się połączyć"</string>
@@ -694,4 +694,10 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="transfer_finish_summary">Przeniesiono %1$s (%2$s)</string>
     <string name="need_location_permission_confirm">Ustawienia</string>
     <string name="provision_receiver_finish_button">Dalej</string>
+    <string name="location_permission_request">Aby łączyć się z innymi urządzeniami w pobliżu</string>
+    <string name="summary_open_wlan">Aplikacja Przenoszenie danych wymaga tego uprawnienia, aby zapewnić stabilność procesu przenoszenia danych.</string>
+    <string name="summary_request_alert_window_prem">Aplikacja Przenoszenie danych wymaga tego uprawnienia, aby zapewnić stabilność procesu przenoszenia danych.</string>
+    <string name="summary_request_write_settings_prem">Aplikacja Przenoszenie danych wymaga tego uprawnienia, aby włączyć sieć Wi-Fi i utworzyć hotspot w celu przeniesienia plików.</string>
+    <string name="title_open_wlan">Włącz Wi-Fi</string>
+    <string name="title_request_alert_window_perm">Zezwól na pływające okna</string>
 </resources>

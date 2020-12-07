@@ -32,8 +32,8 @@
        <item quantity="other">%2$s nieprzeczytanych z %1$s</item>
    </plurals>
    <plurals name="remove_dialog_title_multi_format">
-       <item quantity="one">Usunąć %1$d aplikację?</item>
-       <item quantity="other">Usunąć %1$d aplikacji?</item>
-       <item quantity="few">Usunąć %1$d aplikacje?</item>
-    </plurals>
+       <item quantity="one">Usunąć %1$d aplikację z pulpitu?</item>
+       <item quantity="other">Usunąć %1$d aplikacji z pulpitu?</item>
+       <item quantity="few">Usunąć %1$d aplikacje z pulpitu?</item>
+   </plurals>
 </resources>
