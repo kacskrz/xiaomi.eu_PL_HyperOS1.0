@@ -285,7 +285,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="rainfall_settings_title">Ostrzeżenie o ulewach</string>
   <string name="real_time_sunrise">Wschód o %1$s</string>
   <string name="real_time_sunset">Zachód o %1$s</string>
-  <string name="realtime_aqi_title"/>
+  <string name="realtime_aqi_title">Indeks jakości powietrza</string>
   <string name="realtime_cityname_default">Lokalizacja</string>
   <string name="realtime_humidity_title">Wilgotność</string>
   <string name="realtime_temperature_no_data">b.d.</string>
