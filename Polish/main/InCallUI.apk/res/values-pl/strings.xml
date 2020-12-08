@@ -282,4 +282,5 @@
   <string name="ai_mode_auto">Automatycznie</string>
   <string name="ai_mode_manual">Ręcznie</string>
   <string name="ai_mode_subtitles">Napisy</string>
+  <string name="description_incoming_video">Wideo profilowe dla przychodzących połączeń</string>
 </resources>

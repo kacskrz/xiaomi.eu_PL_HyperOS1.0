@@ -1680,7 +1680,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="doc_shortcut_short">Dokum.</string>
   <string name="video_shortcut_long">Film</string>
   <string name="video_shortcut_short">Film</string>
-  <string name="capture_shortcut_long">Zdjęcie</string>
-  <string name="capture_shortcut_short">Zdjęcie</string>
+  <string name="capture_shortcut_long">Selfie</string>
+  <string name="capture_shortcut_short">Selfie</string>
   <string name="pref_p_d_e">Pro</string>
 </resources>

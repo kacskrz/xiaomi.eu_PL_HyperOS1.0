@@ -374,8 +374,8 @@ Wystarczy zetknąć urządzenia ze sobą (najlepiej tyłem) i dotknąć ekranu. 
   <string name="aod_mode_turn_off">Wył.</string>
   <string name="aod_mode_turn_on">Wł.</string>
   <string name="aod_name_wanxiang">Ekran zawsze włączony</string>
-  <string name="aod_notification_style_animation">Pokaż animację</string>
-  <string name="aod_notification_style_none">Nie wybudzaj ekranu</string>
+  <string name="aod_notification_style_animation">Animacja</string>
+  <string name="aod_notification_style_none">Brak</string>
   <string name="aod_notification_style_screen_on">Wybudź ekran</string>
   <string name="aod_sample_date">Wtorek, 10 maja</string>
   <string name="aod_settings_category_name">Ekran zawsze włączony</string>
@@ -8349,4 +8349,11 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="screen_enhance_engine_sr_for_video_note">"Superrozdzielczość nie działa z ulepszonymi filmami. Włączając superrozdzielczość, wyłączysz ulepszanie filmów."</string>
   <string name="screen_enhance_engine_sr_pic_summary_video_only">Skaluj rozdielczość filmów do maksymalnie 1440p. Funkcja jest wspierana przez wybrane aplikacje i zwiększa zużycie energii.</string>
   <string name="user_experience_open_url">Dowiedz się więcej odn. Programu zadowolenia użytkownika</string>
+  <string name="aggregate_rule_group_disabled">"Nie grupuj"</string>
+  <string name="aggregate_rule_group_enabled">Grupuj</string>
+  <string name="aod_notification_style">Efekt powiadomień</string>
+  <string name="error_xcap_not_add">Typ APN nie może być typem XCAP.</string>
+  <string name="fold_rule_default">Zalecane</string>
+  <string name="fold_rule_important">Istotne</string>
+  <string name="fold_rule_unimportant">Nieistotne</string>
 </resources>

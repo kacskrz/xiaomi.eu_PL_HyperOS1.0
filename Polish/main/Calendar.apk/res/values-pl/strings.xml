@@ -935,4 +935,8 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię nic ważnego."</stri
   <string name="txt_server_url">Adres serwera</string>
   <string name="click_for_create_event">Kliknij, aby utworzyć wydarzenie (%s)</string>
   <string name="click_paste">Kliknij, aby wkleić</string>
+  <string name="icon_add_description">Dodaj skrót na pulpicie</string>
+  <string name="icon_remove_confirm">Usuń</string>
+  <string name="icon_remove_description_content">"Kalendarz to aplikacja systemowa. Pozwala ona na tworzenie i zarządzanie wydarzeniami. Nadal będzie można z niej korzystać za pośrednictwem widżetu na pulpicie bądź Asystenta MIUI, nawet po usunięciu jej skrótu z pulpitu."</string>
+  <string name="icon_remove_description_title">Usunąć \"Kalendarz\" z pulpitu?</string>
 </resources>
