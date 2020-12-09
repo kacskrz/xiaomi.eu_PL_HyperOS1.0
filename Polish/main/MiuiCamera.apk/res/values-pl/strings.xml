@@ -1683,4 +1683,5 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="capture_shortcut_long">Selfie</string>
   <string name="capture_shortcut_short">Selfie</string>
   <string name="pref_p_d_e">Pro</string>
+  <string name="document_blur_warn">Tekst jest rozmazany</string>
 </resources>
