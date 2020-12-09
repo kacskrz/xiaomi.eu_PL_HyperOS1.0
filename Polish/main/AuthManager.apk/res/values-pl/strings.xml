@@ -428,4 +428,8 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="go_behavior_record">Zachowania aplikacji</string>
   <string name="keep_notice_me">Informuj dalej</string>
   <string name="notification_click_tip">Dotknij, aby zobaczyć szczegóły</string>
+  <string name="blur_location_now_tip">Przybliżona lokalizacja włączona</string>
+  <string name="go_setting">Ustawienia</string>
+  <string name="real_location_off">Przybliżona lokalizacja włączona</string>
+  <string name="real_location_on">Przybliżona lokalizacja wyłączona</string>
 </resources>

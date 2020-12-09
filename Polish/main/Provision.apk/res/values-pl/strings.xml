@@ -290,4 +290,5 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="other_settings_ad_dialog_disagree">Wyłącz</string>
   <string name="boot_video_replay">Odtwórz ponownie</string>
   <string name="boot_video_skip">Pomiń</string>
+  <string name="service_security_over_r"><Data>Przeczytaj i zaakceptuj &lt;a href=%1$s>Politykę prywatności&lt;/a > przed skorzystaniem z Panelu sterowania.&lt;br/>&lt;br/>Zgodnie z wymaganiami Androida 11, jednorazowe uprawnienie zostanie cofnięte w ciągu 5 sekund od zamknięcia danej aplikacji. Jeśli otworzysz ją jeszcze raz w ciągu tego czasu, uprawnienie zostanie wycofane.</Data></string>
 </resources>
