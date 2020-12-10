@@ -83,4 +83,16 @@
         <item quantity="one">%1$s zadanie</item>
         <item quantity="few">%1$s zadania</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">Znaleziono %1$s notatek</item>
+        <item quantity="one">Znaleziono %1$s notatkę</item>
+        <item quantity="few">Znaleziono %1$s notatki</item>
+        <item quantity="many">Znaleziono %1$s notatek</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">Znaleziono %1$s zadań</item>
+        <item quantity="one">Znaleziono %1$s zadanie</item>
+        <item quantity="few">Znaleziono %1$s zadania</item>
+        <item quantity="many">Znaleziono %1$s zadań</item>
+    </plurals>
 </resources>

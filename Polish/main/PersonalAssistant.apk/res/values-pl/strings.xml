@@ -1197,4 +1197,10 @@
      <string name="shortcuts_download_dialog_text_install">Zainstaluj</string>
      <string name="shortcuts_download_dialog_text_install_tip">Aby móc skorzystać ze skrótu \"%2$s\", zainstaluj najpierw aplikację %1$s.</string>
      <string name="card_expand_note_toast_install">Aby skorzystać z tej funkcji, zainstaluj aplikację Notatki</string>
+     <string name="card_expand_note_dialog_message_new">Nowa notatka tworzona jest za każdym razem wtedy, gdy dotkniesz przycisku \"Gotowe\" w Asystencie MIUI.</string>
+     <string name="card_expand_note_dialog_title_new">Zapisz</string>
+     <string name="card_expand_note_toast_install_new">Aby skorzystać z tej funkcji, zainstaluj aplikację Notatki</string>
+     <string name="card_expand_note_toast_save_done_new">Zapisano w Notatkach</string>
+     <string name="save_to_note_new">Zapisz w Notatkach</string>
+     <string name="toast_reach_text_limit_truncate_new">Notatka jest za długa. Jej nadmiarowa część została usunięta.</string>
 </resources>
