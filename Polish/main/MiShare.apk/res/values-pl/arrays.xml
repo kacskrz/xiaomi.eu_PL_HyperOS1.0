@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Dostęp i zapisywanie obrazów, aplikacji i innych plików, a także ich przenoszenie</item>
+        <item>Przenoszenie plików za pomocą Bluetooth bądź Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Wysyłanie i otrzymywanie plików</item>
+        <item>Przenoszenie plików poprzez Bluetooth i Wi-Fi</item>
+        <item>Znajdywanie urządzeń w pobliżu poprzez Bluetooth</item>
+        <item>Znajdywanie urządzeń w pobliżu i przenoszenie plików poprzez Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>Dostęp i zapisywanie obrazów, aplikacji i innych plików, a także ich przenoszenie</item>
+        <item>Przenoszenie plików za pomocą Bluetooth bądź Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>Wysyłanie i otrzymywanie plików</item>
+        <item>Przenoszenie plików poprzez Bluetooth i Wi-Fi</item>
+        <item>Znajdywanie urządzeń w pobliżu poprzez Bluetooth</item>
+        <item>Znajdywanie urządzeń w pobliżu i przenoszenie plików poprzez Wi-Fi</item>
+    </string-array>
+</resources>

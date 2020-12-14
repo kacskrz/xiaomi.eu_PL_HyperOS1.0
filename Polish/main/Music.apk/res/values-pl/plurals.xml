@@ -153,4 +153,13 @@ Czy chcesz ją odnowić?"</item>
         <item quantity="other">Płynne przejście pomiędzy utworami: %d s</item>
         <item quantity="one">Płynne przejście pomiędzy utworami: %d s</item>
     </plurals>
+    <plurals name="list_header_fans_count">
+        <item quantity="one">%d obserwujący</item>
+        <item quantity="other">%d obserwujących</item>
+    </plurals>
+    <plurals name="list_header_follow_count">
+        <item quantity="one">Obserwuje %d osobę</item>
+        <item quantity="few">Obserwuje %d osoby</item>
+        <item quantity="other">Obserwuje %d osób</item>
+    </plurals>
 </resources>
