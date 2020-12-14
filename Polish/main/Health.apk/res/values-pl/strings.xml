@@ -694,7 +694,7 @@ Jeśli po upływie 30 minut od położenia się do łóżka wciąż nie możesz 
      <string name="sleep_deep">Głęboki sen</string>
      <string name="sleep_deep_light_analysis">Płytki sen i glęboki sen</string>
      <string name="sleep_deep_light_close_tip">Analiza głębokiego snu jest wyłączona</string>
-     <string name="sleep_deep_light_no_data">Położenie telefonu obok poduszki spowoduje, że dane będą bardziej dokładne</string>
+     <string name="sleep_deep_light_no_data">Nie udało się śledzić snu. Umieszczenie urządzenia obok poduszki sprawi, że dane dotyczące snu będą dokładniejsze.</string>
      <string name="sleep_deep_light_no_data_improvement">Nie udało się wykryć faz snu. Będziemy poprawiać nasze algorytmy. Bądź czujny!</string>
      <string name="sleep_detection_enable">Analizuj fazy snu</string>
      <string name="sleep_detection_feedback">Opinia</string>
@@ -938,7 +938,7 @@ danych snu"</string>
      <string name="tb_home_sleep_card_no_data">Sen. Brak danych na dzisiaj.</string>
      <string name="tb_home_sleep_card_not_open_trace">Sen. Analiza cykli snu jest wyłączona.</string>
      <string name="tb_home_tip_open_data_sync">Synchronizuj dane Xiaomi Zdrowie z Chmurą Xiaomi, aby zyskać dostęp do nich na innych urządzeniach. Dwukrotnie dotknij, aby rozpocząć.</string>
-     <string name="tb_home_weight_card">Waga. %1$.1f kilogramów. Czas ważenia: %2$s. Status: %3$s.</string>
+     <string name="tb_home_weight_card">Waga. %1$.2f kilogramów. Czas ważenia: %2$s. Status: %3$s.</string>
      <string name="tb_home_weight_card_no_data">Waga. Brak danych.</string>
      <string name="tb_manage_home">Tu możesz usunąć lub przearanżować zakładki wyświetlane na ekranie startowym.</string>
      <string name="tb_mens_month_date_selected">Wybrano %1$s.</string>
@@ -1546,7 +1546,7 @@ Zacznij od nowa."</string>
   <string name="MediaControlView_subtitle_off_text">Wył.</string>
   <string name="MediaControlView_subtitle_track_number_and_lang_text">Ścieżka %1$d – %2$s</string>
   <string name="MediaControlView_subtitle_track_number_text">Ścieżka %1$d</string>
-  <string name="altitude_pressure_hint">*Obliczone na podstawie ciśnienia powietrza. Mogą występować pewne błędy.</string>
+  <string name="altitude_pressure_hint">*Wysokość obliczona na podstawie ciśnienia atmosferycznego jest przybliżona</string>
   <string name="default_notification_channel_name">Teraz odtwarzane</string>
   <string name="environment_detection_again">Spróbuj ponownie</string>
   <string name="environment_detection_fail">"Wygląda na to, że jest za głośno"</string>
@@ -1603,7 +1603,7 @@ Zacznij od nowa."</string>
   <string name="skipping_detection_no">Nie udało się wykryć treningu.</string>
   <string name="skipping_detection_no_hint">Unikaj hałaśliwych miejsc i trzymaj urządzenie w pobliżu.</string>
   <string name="skipping_kcal">Kalorie</string>
-  <string name="skipping_pause">Wstrzymano czas skakania</string>
+  <string name="skipping_pause">Wstrzymano trening</string>
   <string name="skipping_pause_tips">Wstrzymano | Wznów trening, aby automatycznie kontynuować śledzenie</string>
   <string name="skipping_ready">Możesz teraz rozpocząć trening</string>
   <string name="skipping_ready_hint_one">Trzymaj to urządzenie nie dalej niż 1 metr od siebie.</string>
@@ -1612,11 +1612,11 @@ Zacznij od nowa."</string>
   <string name="skipping_reset_time">Odpoczynek</string>
   <string name="skipping_start_counting">Start</string>
   <string name="skipping_time">Czas trwania</string>
-  <string name="skipping_upload_dialog_agree_and_upload">Zaakceptuj i prześlij</string>
-  <string name="skipping_upload_dialog_msg">Aby zapewnić dokładniejsze liczenie skoków na skakance, Xiaomi Zdrowie prześle plik nagrania przy użyciu %s w celu zoptymalizowania efektu rozpoznawania skakania. Aby chronić Twoją prywatność, przesyłanie i przechowywanie plików nagrań będzie zaszyfrowane.</string>
-  <string name="skipping_upload_dialog_reject_not_remind">Odrzuć i nie pytaj ponownie</string>
-  <string name="skipping_upload_dialog_title">Prześlij nagrania ze skakaniem na skakance, aby poprawić rozpoznawanie</string>
-  <string name="skipping_upload_tips">Prześlij to nagranie ze skakaniem na skakance, aby poprawić efekt rozpoznawania</string>
+  <string name="skipping_upload_dialog_agree_and_upload">Wyślij</string>
+  <string name="skipping_upload_dialog_msg">Gdy Twoje urządzenie jest połączone z %s, możesz przesłać dźwięk nagrany podczas ćwiczeń, aby poprawić dokładność statystyk treningu. Aby chronić Twoją prywatność, pliki audio zostaną zaszyfrowane.</string>
+  <string name="skipping_upload_dialog_reject_not_remind">Nie, dziękuję</string>
+  <string name="skipping_upload_dialog_title">Wyślij nagranie</string>
+  <string name="skipping_upload_tips">Wyślij nagranie, aby statystyki były dokładniejsze</string>
   <string name="sport_audio_permission_dialog_content">Ta aplikacja wymaga uprawnień do nagrywania dźwięku, aby móc śledzić treningi na podstawie wydawanych dźwięków.</string>
   <string name="sport_audio_permission_dialog_desc">W celu śledzenia treningów na podstawie wydawanych dźwięków</string>
   <string name="sport_audio_permission_dialog_title">Wymagane uprawnienia</string>

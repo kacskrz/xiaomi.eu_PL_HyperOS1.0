@@ -1320,4 +1320,6 @@ Sprawdź, czy hasło w aplikacji jest włączone. Jeśli tak jest, przejdź na s
   <string name="app_uninstall_content">Poczta to aplikacja systemowa. Nie będzie można dodawać kont e-mail, otrzymywać i wysyłać wiadomości, a także synchronizować kont e-mail po jej odinstalowaniu.</string>
   <string name="app_uninstall_title">Odinstalować Pocztę?</string>
   <string name="open_pdf_error">Nie udało się otworzyć pliku PDF. Pobierz inną aplikację do otwarcia tego pliku i spróbuj ponownie.</string>
+  <string name="sms_not_found_tip">Nie udało się uruchomić aplikacji SMS. Uruchom ją ręcznie i wyślij SMS weryfikacyjny.</string>
+  <string name="webview_not_found">Strona nie mogła zostać otwarta, ponieważ nie znaleziono komponentu WebView.</string>
 </resources>
