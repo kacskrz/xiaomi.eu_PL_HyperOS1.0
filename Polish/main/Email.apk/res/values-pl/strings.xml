@@ -1322,4 +1322,5 @@ Sprawdź, czy hasło w aplikacji jest włączone. Jeśli tak jest, przejdź na s
   <string name="open_pdf_error">Nie udało się otworzyć pliku PDF. Pobierz inną aplikację do otwarcia tego pliku i spróbuj ponownie.</string>
   <string name="sms_not_found_tip">Nie udało się uruchomić aplikacji SMS. Uruchom ją ręcznie i wyślij SMS weryfikacyjny.</string>
   <string name="webview_not_found">Strona nie mogła zostać otwarta, ponieważ nie znaleziono komponentu WebView.</string>
+  <string name="account_settings_only_notify_inbox">Powiadamiaj tylko o e-mailach z folderu Odebrane</string>
 </resources>

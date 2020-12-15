@@ -1683,4 +1683,11 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="capture_shortcut_long">Selfie</string>
   <string name="capture_shortcut_short">Selfie</string>
   <string name="pref_p_d_e">Pro</string>
+  <string name="accessibility_reference_line_text">Panel dostosowania linii odniesienia</string>
+  <string name="camcorder_tip_current_max_video_duration">W obecnej rozdzielczości można nagrać maks. %d-minutowy film</string>
+  <string name="center_mark">Punkt środkowy</string>
+  <string name="pref_camera_reference_capture_title">Linia odniesienia</string>
+  <string name="pref_camera_reference_capture_title_golden_section">Złoty podział</string>
+  <string name="pref_camera_reference_capture_title_left_golden_spiral">Lewa złota spirala</string>
+  <string name="pref_camera_reference_capture_title_right_golden_spiral">Prawa złota spirala</string>
 </resources>

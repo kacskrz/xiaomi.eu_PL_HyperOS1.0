@@ -8359,4 +8359,16 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="magic_window_name">Podziel okno</string>
   <string name="truetone_summary">Dostosuj kolory do otoczenia</string>
   <string name="truetone_title">Adaptacyjne kolory</string>
+  <string name="dpp_before_share_summary">Udostępnić sieć Wi-Fi \"%1$s\" innej osobie?</string>
+  <string name="dpp_cannot_connect_target">"Nie można połączyć się z siecią docelową"</string>
+  <string name="dpp_connect_success">Pomyślnie połączono</string>
+  <string name="dpp_not_support">"Nie można udostępnić tej sieci"</string>
+  <string name="dpp_qr_code_summary">Połącz się z siecią Wi-Fi, skanując kod QR.</string>
+  <string name="dpp_scanner_summary">Umieść kod QR w środku ramki</string>
+  <string name="dpp_shared_fail">"Nie udało się udostępnić sieci Wi-Fi"</string>
+  <string name="dpp_shared_success">Pomyślnie udostępniono sieć Wi-Fi</string>
+  <string name="dpp_sharing_wifi_summary">Udostępnianie sieci Wi-Fi…</string>
+  <string name="dpp_theme_title">Udostępniona sieć Wi-Fi</string>
+  <string name="show_charging_in_non_lockscreen_animation">Wyświetlaj animację ładowania po odblokowaniu urządzenia</string>
+  <string name="show_charging_in_non_lockscreen_animation_summary">Wyświetlaj animację ładowania także wtedy, gdy urządzenie jest odblokowane. W takim przypadku będzie ona ukryta tylko w trakcie oglądania filmów bądź innych elementów wykorzystujących pełny ekran</string>
 </resources>
