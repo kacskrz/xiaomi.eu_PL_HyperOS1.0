@@ -6839,7 +6839,7 @@ Tymczasem możesz dalej konfigurować nowe urządzenie %1$s."</string>
   <string name="unlogin_account_summary">Jedno konto Xiaomi. Wszystkie usługi Mi</string>
   <string name="unlogin_account_title">Zaloguj się na konto Xiaomi</string>
   <string name="unmount_inform_text">Nośnik USB zostanie odłączony.</string>
-  <string name="unmute_sound_title">Dźwięk podgłośnienia</string>
+  <string name="unmute_sound_title">Dźwięk wyłączenia trybu cichego/Godzin ciszy</string>
   <string name="unrestrict_max_aspect_ratio_title">Ze wsparciem pełnego ekranu</string>
   <string name="unrestricted_app_summary">Włącz nieograniczony dostęp do danych, gdy jest włączone Oszczędzanie danych</string>
   <string name="unrestricted_app_title">Nieograniczone użycie danych</string>
