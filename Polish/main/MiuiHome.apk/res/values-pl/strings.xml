@@ -651,4 +651,6 @@
   <string name="icon_customize_summary">Wybierz styl ikon i dostosuj ich rozmiar</string>
   <string name="icon_form">Ikony</string>
   <string name="icon_style">Styl</string>
+  <string name="launcher_icon_management">Zarządzaj ikonami na pulpicie</string>
+  <string name="restore_icon_successful">Pomyślnie dodano</string>
 </resources>
