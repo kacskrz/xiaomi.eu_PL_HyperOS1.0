@@ -892,4 +892,33 @@ Możesz teraz uzyskać bezpłatną, %d-dniową wersję próbną!"</item>
         <item quantity="one">%d aplikacja drenuje baterię</item>
         <item quantity="few">%d aplikacje drenują baterię</item>
     </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="one">Połącz co najmniej %s kropkę</item>
+        <item quantity="other">Połącz co najmniej %s kropek</item>
+        <item quantity="few">Połącz co najmniej %s kropki</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="one">Wybrano %d element</item>
+        <item quantity="other">Wybrano %d elementów</item>
+        <item quantity="few">Wybrano %d elementy</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="one">%d dzień bez skanowania</item>
+        <item quantity="other">%d dni bez skanowania</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="one">Usuń %d zbędny plik APK</item>
+        <item quantity="other">Usuń %d zbędnych plików APK</item>
+        <item quantity="few">Usuń %d zbędne pliki APK</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="one">Połącz co najmniej %s kropkę</item>
+        <item quantity="other">Połącz co najmniej %s kropek</item>
+        <item quantity="few">Połącz co najmniej %s kropki</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="one">Wprowadź %s cyfrę</item>
+        <item quantity="other">Wprowadź %s cyfr</item>
+        <item quantity="few">Wprowadź %s cyfry</item>
+    </plurals>
 </resources>
