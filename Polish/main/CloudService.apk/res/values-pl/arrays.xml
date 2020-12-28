@@ -158,4 +158,21 @@
         <item>Włącz synchronizację</item>
         <item>Szybkie odpowiedzi;Schowek;Edytor;Chmura;Synchronizacja;Usługi Chmury</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Synchronizuj kontakty, wiadomości, notatki, kalendarz i wiele więcej</item>
+        <item>Kopiuj aplikacje, układ pulpitu i tapety</item>
+        <item>Kopiuj ważne ustawienia, hasła Wi-Fi, ustawienia ekranu itp.</item>
+        <item>"Zablokuj zdalnie urządzenie w przypadku zagubienia"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Synchronizuj kontakty, wiadomości, notatki, kalendarz i wiele więcej</item>
+        <item>Kopiuj aplikacje, układ pulpitu i tapety</item>
+        <item>Kopiuj ważne ustawienia, hasła Wi-Fi, ustawienia ekranu itp.</item>
+        <item>"Zablokuj zdalnie urządzenie w przypadku zagubienia"</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Synchronizuj notatki z Chmurą Xiaomi</item>
+        <item>Włącz synchronizację</item>
+        <item>Notatki;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
 </resources>

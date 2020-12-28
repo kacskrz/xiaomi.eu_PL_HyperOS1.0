@@ -134,7 +134,6 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
     <string name="support_device_type">Wspierane urządzenia</string>
     <string name="throwing_print">Drukuj</string>
     <string name="throwing_screen">Prześlij ekran</string>
-    <string name="tips_prompt_enable_midrop">Udostępniaj pliki urządzeniom w pobliżu</string>
     <string name="to_feedback">Zgłoś</string>
     <string name="transfer_intercept_to_remote">"Nie udało się wysłać: %1$s"</string>
     <string name="transfer_to_pc_summary">"Najnowsza wersja oprogramowania AIoT zainstalowana na laptopach Xiaomi jest kompatybilna z aplikacją Mi Share. Możesz sprawdzić listę kompatybilnych modeli laptopów na stronie MIUI. Jeśli Twój laptop znajduje się na liście, ale oprogramowanie AIoT nie jest na nim zainstalowane, zaktualizuj BIOS laptopa oraz sterownik karty sieciowej, a następnie pobierz AIoT."</string>
@@ -184,4 +183,7 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="tile_state_active">Wł.</string>
   <string name="tile_state_inactive">Wył.</string>
   <string name="tile_state_unavailable">Niedostępne</string>
+  <string name="error_mirror_working">"Nie można udostępniać elementów w trakcie udostępniania ekranu"</string>
+  <string name="error_remote_mirror_working">"Inne urządzenie nie może zaakceptować transferu w trakcie udostępniania ekranu"</string>
+  <string name="send_files_by">Udostępnij pliki przez</string>
 </resources>

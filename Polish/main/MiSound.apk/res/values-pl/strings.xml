@@ -208,4 +208,22 @@
   <string name="wireless_transmission_definition">Transmituj dźwięk z mikrofonu telefonu do zewnętrznego urządzenia Bluetooth</string>
   <string name="wireless_transmission_prompt">Aby przesyłać dźwięk, bezprzewodowy głośnik musi mieć włączoną funkcję Bluetooth. Włączyć ją teraz?</string>
   <string name="music_headset_effect_harman_kardon_summary">Certyfikowany, profesjonalny dźwięk</string>
+  <string name="sound_effect_hall">Hol</string>
+  <string name="sound_effect_original">Oryginalny</string>
+  <string name="sound_effect_room">Pokój</string>
+  <string name="sound_effect_theater">Teatr</string>
+  <string name="sound_transmission_cancel">Nie, dzięki</string>
+  <string name="sound_transmission_confirm">Zezwól</string>
+  <string name="sound_transmission_continue">Wznów</string>
+  <string name="sound_transmission_device">Urządzenie</string>
+  <string name="sound_transmission_dialog_message">Asystent dźwięku</string>
+  <string name="sound_transmission_dialog_title">Włącz Bluetooth</string>
+  <string name="sound_transmission_end">Zatrzymaj</string>
+  <string name="sound_transmission_processing">Mikrofon</string>
+  <string name="sound_transmission_prompt">Zezwól tej funkcji na włączenie Bluetooth, aby móc używać bezprzewodowego mikrofonu.</string>
+  <string name="sound_transmission_scenes">Scena</string>
+  <string name="sound_transmission_start">Start</string>
+  <string name="sound_transmission_stop">Wstrzymaj</string>
+  <string name="sound_transmission_title">Mikrofon bezprzewodowy</string>
+  <string name="transmission_volume_option_title">Głośność mikrofonu</string>
 </resources>

@@ -112,4 +112,9 @@
         <item quantity="other">Spróbuj ponownie za %d sek.</item>
         <item quantity="one">Spróbuj ponownie za %d sek.</item>
     </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">%d notatek</item>
+        <item quantity="one">%d notatka</item>
+        <item quantity="few">%d notatki</item>
+    </plurals>
 </resources>

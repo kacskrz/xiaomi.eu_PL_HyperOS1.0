@@ -40,4 +40,9 @@
         <item quantity="one">Zablokowano %2$d próbę uzyskania dostępu do schowka: %1$s</item>
         <item quantity="few">Zablokowano %2$d próby uzyskania dostępu do schowka: %1$s</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Wybrano %d elementów</item>
+        <item quantity="one">Wybrano %d element</item>
+        <item quantity="few">Wybrano %d elementy</item>
+    </plurals>
 </resources>
