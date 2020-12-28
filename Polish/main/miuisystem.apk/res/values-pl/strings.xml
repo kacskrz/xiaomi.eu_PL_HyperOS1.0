@@ -16,7 +16,7 @@
   <string name="autumn_equinox">秋分</string>
   <string name="beep">Brzęczyk</string>
   <string name="bells">Dzwony</string>
-  <string name="birdcicada_preview">Dźwięk natury - Ptaki i świetliki</string>
+  <string name="birdcicada_preview">Ptaki i świetliki</string>
   <string name="blues">Blues</string>
   <string name="bottle">Butelka</string>
   <string name="breeze">Bryza</string>
@@ -221,7 +221,7 @@
   <string name="vip_login">Zaloguj się</string>
   <string name="vip_not_login">Niezalogowany</string>
   <string name="vip_sign">Podpis:</string>
-  <string name="waterdrop_preview">Dźwięk natury - Krople wody</string>
+  <string name="waterdrop_preview">Krople wody</string>
   <string name="white_dews">白露</string>
   <string name="windchime">Wietrzne dzwonki</string>
   <string name="winter_begins">立冬</string>
@@ -256,4 +256,10 @@ dd.MM"</string>
   <string name="wallpaper_group_more_system_wallpaper_title">Więcej systemowych tapet</string>
   <string name="wallpaper_group_color_move_title">Płynne kolory</string>
   <string name="wallpaper_group_sgn_mountain_title">Mount Siguniang</string>
+  <string name="africaanimals_preview">Sawanna</string>
+  <string name="amazonanimals_preview">Las deszczowy</string>
+  <string name="miui_clock_city_name_second">Drugi zegar</string>
+  <string name="australiaanimals_preview">Australia</string>
+  <string name="southwestmountain_preview">Góry</string>
+  <string name="stoneskimming_preview">Światła schodów</string>
 </resources>

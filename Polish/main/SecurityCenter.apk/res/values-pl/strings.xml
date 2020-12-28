@@ -4262,8 +4262,8 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="special_perm_window_msg">Zezwól aplikacjom na wyświetlanie elementów w trybie Obraz w obrazie</string>
     <string name="special_perm_window_title">Wyświetlanie elementów w trybie Obraz w obrazie</string>
     <string name="app_behavior_link_start">Wywołany start</string>
-    <string name="app_behavior_share_file">Udostępnij plik</string>
-    <string name="app_behavior_share_picture">Udostępnij obraz</string>
+    <string name="app_behavior_share_file">Udostępnianie plików</string>
+    <string name="app_behavior_share_picture">Udostępnianie obrazów</string>
     <string name="ai_allow_all">Decyduj za mnie w każdym przypadku</string>
     <string name="allow_all">Zezwól wszystkim</string>
     <string name="ac_notification_action_text">Włącz</string>
@@ -4309,4 +4309,8 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="version_can_update">Możesz zaktualizować %s do najnowszej wersji Beta, aby uzyskać dostęp do nowych funkcjonalności jako pierwszy.</string>
     <string name="version_check_update">Sprawdź aktualizacje</string>
     <string name="version_update_title">Aktualizuj %s</string>
+    <string name="provision_back">Wstecz</string>
+    <string name="provision_next">Dalej</string>
+    <string name="provision_skip_underline">Pomiń</string>
+    <string name="view_traffic_detail">Zobacz szczegóły</string>
 </resources>

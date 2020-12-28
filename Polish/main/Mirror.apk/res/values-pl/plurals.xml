@@ -57,4 +57,19 @@
         <item quantity="other">%d minut temu</item>
         <item quantity="one">1 minutę temu</item>
     </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">Odrzucono %2$d plików, w tym %1$s</item>
+        <item quantity="one">Odrzucono %2$d plik, w tym %1$s</item>
+        <item quantity="few">Odrzucono %2$d pliki, w tym %1$s</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">Otrzymano %2$d plików, w tym %1$s</item>
+        <item quantity="one">Otrzymano %2$d plik, w tym %1$s</item>
+        <item quantity="few">Otrzymano %2$d pliki, w tym %1$s</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Wybrano %d elementów</item>
+        <item quantity="few">Wybrano %d elementy</item>
+        <item quantity="one">Wybrano %d element</item>
+    </plurals>
 </resources>

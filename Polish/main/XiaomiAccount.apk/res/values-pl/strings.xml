@@ -713,4 +713,12 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="passport_uplink_sms_sending">Wysyłanie płatnego SMS-a…</string>
   <string name="passport_uplink_suggest_dialog_msg">"Nie udało się otrzymać kodu. Czy zamiast tego chcesz wysłać płatnego SMS-a?"</string>
   <string name="passport_uplink_suggest_dialog_title">Uwaga</string>
+  <string name="download_file">Pobieranie %s…</string>
+  <string name="passport_login_other_phone">Użyj innego konta</string>
+  <string name="passport_provision_input_email_register_prompt">Twoje osobiste dane będą przechowywane zgodnie z odpowiednimi przepisami i regulacjami wybranego regionu.</string>
+  <string name="passport_provision_password_req_notice">Od %1$d do %2$d znaków co najmniej %3$d typów: litery, cyfry, znaki specjalne</string>
+  <string name="passport_registered_phone_num_v2">Numer telefonu</string>
+  <string name="provision_back">Wstecz</string>
+  <string name="provision_next">Dalej</string>
+  <string name="provision_skip_underline">Pomiń</string>
 </resources>

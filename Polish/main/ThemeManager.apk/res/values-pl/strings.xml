@@ -1182,4 +1182,5 @@ Co godzinę na ekranie będzie się pojawiać nowa tapeta."</string>
   <string name="restore_icon_later">Możesz ponownie dodać skrót na pulpicie w Ustawieniach</string>
   <string name="uninstall_theme">Usunąć \"Motywy\" z pulpitu?</string>
   <string name="uninstall_theme_description">"Motywy to aplikacja systemowa. Dostarcza ona różne możliwości dostosowania interfejsu takie jak motywy, tapety czy ikony. Nadal będzie można z niej korzystać za pomocą Ustawień - nawet po usunięciu skrótu z pulpitu."</string>
+  <string name="super_wallpaper_list_footer_text">Bądź czujny - nowe wydania wkrótce!</string>
 </resources>

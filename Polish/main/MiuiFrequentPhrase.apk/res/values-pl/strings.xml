@@ -32,7 +32,7 @@
     <string name="input_method_switch_settings_text">Ustawienia klawiatury</string>
     <string name="input_method_tab_clipboard_text">Schowek</string>
     <string name="input_method_tab_phrase_text">Częste zwroty</string>
-    <string name="input_method_clipboard_add_to_phrase_success">Dodaj do częstych zwrotów</string>
+    <string name="input_method_clipboard_add_to_phrase_success">Dodano do częstych zwrotów</string>
     <string name="input_method_function_select_guide_title">Przytrzymaj, aby wyświetlić więcej opcji</string>
     <string name="input_method_function_select_left_view_title">Ustaw funkcję lewego przycisku</string>
     <string name="input_method_function_select_right_view_title">Ustaw funkcję prawego przycisku</string>

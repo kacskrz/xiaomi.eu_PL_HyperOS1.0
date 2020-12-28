@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="settings_search_mirror">
-        <item>Screen Combo</item>
-        <item>Więcej opcji sieci/Screen Combo</item>
-        <item>Screen Combo;Przesyłanie ekranu;Wiele ekranów;PC;Komputer</item>
+        <item>MIUI+ Beta</item>
+        <item>Więcej opcji sieci/MIUI+ Beta</item>
+        <item>Screen Combo;Przesyłanie ekranu;Wiele ekranów;PC;Komputer;MIUI+;Lustro;Duet;Duo</item>
     </string-array>
     <string-array name="settings_tips_message">
-        <item>"1. Wyłącz funkcje hotspotu, Mi Share bądź przesyłania ekranu na telefonie przed użyciem Screen Combo.
+        <item>"1. Wyłącz funkcje hotspotu, Mi Share bądź przesyłania ekranu na telefonie przed użyciem tej funkcji.
 2. Wyłącz Wi-Fi na telefonie oraz komputerze.
-3. Upewnij się, że telefon jest położony blisko komputera."</item>
+3. Upewnij się, że telefon jest położony blisko komputera. Jeśli obydwa urządzenia znajdują się w różnych miejscach, nie będą mogły się połączyć."</item>
         <item>Twój komputer używa technologii Bluetooth do wykrywania poprzednio połączonych telefonów. Sprawdź, czy na telefonie jest włączone Bluetooth.</item>
-        <item>"Gdy ekran jest zablokowany, telefony nie mogą synchronizować danych z komputerami. Domyślnie funkcja Screen Combo nie pozwala na zablokowanie ekranu w momencie, gdy telefon jest połączony z komputerem. Możesz to zmienić w Ustawieniach."</item>
-        <item>"1. Funkcję Screen Combo wspierają wybrane telefony Xiaomi z Androidem 10 lub wyższym. Jeśli po zeskanowaniu kodu QR widzisz stronę MIUI, Twoje urządzenie nie jest jeszcze wspierane.
-2. Aby móc korzystać z funkcji Screen Combo na komputerze, zainstaluj najpierw najnowszą wersję aplikacji Mi Smart Share."</item>
+        <item>"Gdy ekran jest zablokowany, telefony nie mogą synchronizować danych z komputerami. Domyślnie aplikacja nie pozwala na zablokowanie ekranu w momencie, gdy telefon jest połączony z komputerem. Możesz to zmienić w Ustawieniach."</item>
+        <item>"1. Funkcję wspierają telefony:  Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra/Mi 10T/Mi 10T Pro, Redmi K20 Pro/Mi 9T Pro, Redmi K30 Pro/POCO F2 Pro. Jeśli po zeskanowaniu kodu QR widzisz stronę MIUI, Twoje urządzenie nie jest jeszcze wspierane.
+2. Funkcję wspierają komputery: 小米笔记本Pro 15 增强版, 小米笔记本Pro 15.6 2020款, Redmi G 游戏本, RedmiBook 16, RedmiBook 14 II, RedmiBook Air 13. Pobierz aplikację MIUI+ Beta na te komputery ze strony https://pc.mi.com/aiot."</item>
     </string-array>
     <string-array name="settings_tips_title">
         <item>"Nie możesz się połączyć za pomocą kodu QR?"</item>

@@ -324,4 +324,6 @@
   <string name="disable_nfc_reverse">Wyłączono NFC w trakcie bezprzewodowego ładowania zwrotnego</string>
   <string name="enable_nfc">Zakończono ładowanie. Włączono NFC z powrotem.</string>
   <string name="enable_nfc_reverse">Zakończono ładowanie zwrotne. Włączono NFC z powrotem.</string>
+  <string name="freeform_exchange_tip">Puść, aby otworzyć aplikację</string>
+  <string name="freeform_exchange_tip2">Przeciągnij do rogu, aby zakończyć</string>
 </resources>

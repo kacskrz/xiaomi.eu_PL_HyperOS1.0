@@ -1754,8 +1754,8 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="smart_dual_sim_prompt">Gdy obecny zasięg jest kiepski, Twoje urządzenie połączy się z siecią z danymi mobilnymi za pomocą drugiej karty SIM. Może to generować dodatkowe opłaty przez operatora. Aby ograniczyć takie ryzyko, ustaw limit zużycia danych mobilnych.</string>
   <string name="smart_dual_sim_summary">Przełącz się na drugą kartę SIM i korzystaj z jej danych mobilnych automatycznie wtedy, gdy obecny zasięg jest kiepski. Gdy się on polepszy, telefon powróci do domyślnej karty SIM.</string>
   <string name="smart_dual_sim_title">Inteligentny dual SIM</string>
-  <string name="fiveg_sa_switch_title_slot0">SIM 1 - tryb SA</string>
-  <string name="fiveg_sa_switch_title_slot1">SIM 2 - tryb SA</string>
+  <string name="fiveg_sa_switch_title_slot0">SIM %d - tryb SA</string>
+  <string name="fiveg_sa_switch_title_slot1">SIM %d - tryb SA</string>
   <string name="smart_dual_sim_prompt_ok">Ustawienia</string>
   <string name="smart_dual_sim_prompt_title">Ostrzeżenie dot. użycia danych (SIM %s)</string>
   <string name="mobile_intelligent_connection_title">Inteligentne łączenie z danymi mobilnymi</string>
@@ -1769,4 +1769,5 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="preference_countrycode_title">Kod kraju</string>
   <string name="vonr_switch_summary">Użyj VoNR, aby poprawić jakość połączeń głosowych</string>
   <string name="vonr_switch_title">Użyj VoNR</string>
+  <string name="stk_name">Zestaw narzędzi SIM</string>
 </resources>
