@@ -398,8 +398,4 @@
         <item quantity="few">"Przespacerowano już %1$s kroki"</item>
         <item quantity="other">"Przespacerowano już %1$s kroków"</item>
    </plurals>
-   <plurals name="hr_fp_detect_time_remainder">
-        <item quantity="other">Pozostało %1$d sek.</item>
-        <item quantity="one">Pozostało %1$d sek.</item>
-   </plurals>
 </resources>
