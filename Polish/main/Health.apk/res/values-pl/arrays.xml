@@ -146,4 +146,9 @@
         <item>Pt.</item>
         <item>Sob.</item>
     </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Obraz</item>
+        <item>Trasa</item>
+        <item>Karta</item>
+    </string-array>
 </resources>
