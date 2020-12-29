@@ -804,7 +804,6 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_magic_mirror_title">Lustro</string>
   <string name="pref_camera_manual_description_title">Opis parametrów w trybie Pro</string>
   <string name="pref_camera_manual_mode_title">Ręczny</string>
-  <string name="pref_camera_manually_exposure_value">Ręczna ekspozycja</string>
   <string name="pref_camera_mfnr_sat_enable_title">Włącz MFNR</string>
   <string name="pref_camera_mono_mode_title">Mono</string>
   <string name="pref_camera_movie_solid_title">Stabilizacja obrazu</string>
