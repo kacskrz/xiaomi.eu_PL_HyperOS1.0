@@ -613,7 +613,7 @@ były bardziej widoczne na zdjęciach"</string>
   <string name="parameter_peak_raw_title">Format RAW</string>
   <string name="parameter_wb_description">Poza standardowymi ustawieniami balansu bieli (światło dzienne, żarowe, jarzeniowe, pochmurne) możesz także ustawić balans bieli na dowolną wartość od 2000 do 8000 w skali Kelwina.</string>
   <string name="parameter_wb_title">Balans bieli</string>
-  <string name="parameter_zoom_slider_description">Przeciągaj suwak powiększenia w górę bądź w dół, aby płynnie zmieniać ujęcie z dalekiego kadru na konkretny obiekt.</string>
+  <string name="parameter_zoom_slider_description">Przeciągaj suwak powiększenia poziomo, aby płynnie zmieniać ujęcie z dalekiego kadru na konkretny obiekt.</string>
   <string name="parameter_zoom_slider_title">Powiększenie</string>
   <string name="path_settings">Systemowe/Aparat/Ustawienia</string>
   <string name="pic_flaw_blink_more">Ktoś w kadrze zamknął oczy</string>
@@ -1690,4 +1690,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="pref_camera_reference_capture_title_golden_section">Złoty podział</string>
   <string name="pref_camera_reference_capture_title_left_golden_spiral">Lewa złota spirala</string>
   <string name="pref_camera_reference_capture_title_right_golden_spiral">Prawa złota spirala</string>
+  <string name="manual_picture_style">Parametry</string>
+  <string name="parameter_manual_picturestyle_description">Saturacja pozwala na kontrolowanie głębi i intensywności kolorów, zmiana kontrastu zwiększa bądź zmniejsza różnicę pomiędzy jasnymi a ciemnymi partiami kadru, zaś ostrość tworzy wrażenie większej szczegółowości w ramach zdjęcia.</string>
+  <string name="reset_manual_picture_style_toast">Pomyślnie zresetowano parametry</string>
 </resources>

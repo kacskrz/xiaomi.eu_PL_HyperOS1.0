@@ -24,7 +24,7 @@
   <string name="config_mode_title">Zachowanie aplikacji w tle</string>
   <string name="config_no_restrict_description">Oszczędzanie energii nie ogranicza działania aplikacji w tle</string>
   <string name="config_no_restrict_title">Bez ograniczeń</string>
-  <string name="config_restrict_function_description">"Aplikacja w tle nie zostanie zamknięta jednak niektóre funkcje np. powiadomienia push mogą zostać ograniczone"</string>
+  <string name="config_restrict_function_description">Zamknij aplikacje po 10 minutach aktywności w tle</string>
   <string name="config_restrict_function_title">Ogranicz aplikacje w tle</string>
   <string name="config_restrict_running_description">Aplikacja działająca w tle zostanie zamknięta</string>
   <string name="config_restrict_running_title">Zamknij aplikację</string>
