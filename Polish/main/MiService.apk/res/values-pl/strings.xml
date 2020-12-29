@@ -187,7 +187,7 @@
     <string name="miui_main_continue">Dalej</string>
     <string name="miui_main_control_center_desc">Lub przejdź do starej wersji w Ustawieniach > Powiadomienia i Centrum funkcji</string>
     <string name="miui_main_control_center_open">Nowe Centrum funkcji</string>
-    <string name="miui_main_control_center_title">Przesuń, aby przełączyć się między Panelem powiadomień a Centrum kontroli</string>
+    <string name="miui_main_control_center_title">Przesuń, aby przełączyć się między Panelem powiadomień a Centrum funkcji</string>
     <string name="miui_main_mirror_tab_desc1">Połącz automatycznie</string>
     <string name="miui_main_mirror_tab_desc2">Oglądaj obrazy na większym ekranie</string>
     <string name="miui_main_mirror_tab_desc3">Udostępniaj pliki natychmiast</string>
