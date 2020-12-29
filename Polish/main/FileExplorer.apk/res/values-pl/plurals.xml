@@ -25,12 +25,12 @@
        <item quantity="many">%1$d dni temu</item>
    </plurals>
     <plurals name="delete_files_confirm">
-        <item quantity="other">Usuń %1$d plików</item>
-        <item quantity="zero">Usuń %1$d plików</item>
-        <item quantity="one">Usuń %1$d plik</item>
-        <item quantity="two">Usuń %1$d pliki</item>
-        <item quantity="few">Usuń %1$d pliki</item>
-        <item quantity="many">Usuń %1$d plików</item>
+        <item quantity="other">Usunąć %1$d plików</item>
+        <item quantity="zero">Usunąć %1$d plików</item>
+        <item quantity="one">Usunąć %1$d plik</item>
+        <item quantity="two">Usunąć %1$d pliki</item>
+        <item quantity="few">Usunąć %1$d pliki</item>
+        <item quantity="many">Usunąć %1$d plików</item>
     </plurals>
     <plurals name="delete_folders_confirm">
         <item quantity="other">" i %1$d katalogów?"</item>
@@ -285,5 +285,10 @@
         <item quantity="zero"> %1$d elementów</item>
         <item quantity="one">%d element</item>
         <item quantity="few">%d elementy</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Wybrano %d elementów</item>
+        <item quantity="one">Wybrano %d element</item>
+        <item quantity="few">Wybrano %d elementy</item>
     </plurals>
 </resources>
