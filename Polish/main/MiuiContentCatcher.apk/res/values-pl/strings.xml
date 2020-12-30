@@ -31,4 +31,8 @@
   <string name="settings_clear_data_confirmation_description">"Jeśli usuniesz hasła, będziesz musiał je wpisać ręcznie, gdy będziesz się logować następnym razem.
 Na pewno to zrobić?"</string>
   <string name="using_miui_autofill_message">Aby wprowadzać hasła automatycznie, MIUI będzie zapisywać informacje o koncie oraz hasła na Twoim urządzeniu.</string>
+  <string name="login_mi_account_alert">Uwaga</string>
+  <string name="login_mi_account_summary">Aby włączyć synchronizację haseł z Chmurą Xiaomi, konieczne jest zalogowanie się na konto Xiaomi. Czy chcesz to zrobić teraz?</string>
+  <string name="password_manager">Synchronizacja z Chmurą</string>
+  <string name="password_manager_summary">Synchronizuj hasła zgromadzone w Menedżerze haseł z Chmurą Xiaomi</string>
 </resources>
