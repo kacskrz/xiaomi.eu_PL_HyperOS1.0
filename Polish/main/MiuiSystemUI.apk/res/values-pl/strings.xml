@@ -1581,7 +1581,7 @@ Aby dowiedzieć się więcej, skontaktuj się z administratorem.
   <string name="quick_settings_notifications_label">Powiadomienia</string>
   <string name="quick_settings_papermode_label">Tryb czytania</string>
   <string name="quick_settings_powermode_label">Wydajny</string>
-  <string name="quick_settings_quietmode_label">Cisza</string>
+  <string name="quick_settings_quietmode_label">Godz. ciszy</string>
   <string name="quick_settings_reset_confirmation_button">Ukryj</string>
   <string name="quick_settings_reset_confirmation_message">Pojawi się ponownie, gdy następnym włączysz go w ustawieniach.</string>
   <string name="quick_settings_reset_confirmation_title">Ukryć %1$s?</string>

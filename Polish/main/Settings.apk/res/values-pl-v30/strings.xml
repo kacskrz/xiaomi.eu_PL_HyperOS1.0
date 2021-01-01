@@ -463,7 +463,7 @@
   <string name="quick_controls_lower">sterowanie urządzeniami</string>
   <string name="quick_settings_media_player">Media resumption</string>
   <string name="quick_settings_media_player_summary">Shows and persists media player in Quick Settings. Requires reboot.</string>
-  <string name="repeat_days_in_week">Repeat</string>
+  <string name="repeat_days_in_week">Powtarzaj</string>
   <string name="reset_dashboard_summary_onlyApps">Aplikacje można zresetować</string>
   <string name="right_edge">Prawa krawędź</string>
   <string name="ring_volume_title">Głośność dzwonka i powiadomień</string>
@@ -539,8 +539,8 @@
   <string name="tether_settings_summary_usb_tethering_only">Tylko USB</string>
   <string name="tethering_footer_info_sta_ap_concurrency">Funkcje hotspotu i tetheringu pozwalają zapewnić połączenie z internetem innym urządzeniom za pomocą Wi-Fi lub komórkowego połączenia transmisji danych. Aplikacje mogą też utworzyć hotspot, by udostępniać treści urządzeniom w pobliżu.</string>
   <string name="tethering_interface_options">Tethering</string>
-  <string name="time_zen_mode_turn_off">Time turn off</string>
-  <string name="time_zen_mode_turn_on">Time turn on</string>
+  <string name="time_zen_mode_turn_off">Zakończenie</string>
+  <string name="time_zen_mode_turn_on">Rozpoczęcie</string>
   <string name="twilight_mode_launch_location">Location settings</string>
   <string name="twilight_mode_location_off_dialog_message">Device location needed to determine your sunset and sunrise times.</string>
   <string name="unlock_set_unlock_pin_summary">Enter %1$d-%2$d numbers to unlock device</string>
