@@ -679,7 +679,7 @@ Do aktywacji tej usługi wymagane jest wysłanie wiadomości SMS, za którą ope
   <string name="private_settings">Ustawienia</string>
   <string name="processing">Przetwarzanie...</string>
   <string name="prvate_contact">Prywatny kontakt</string>
-  <string name="quick_reply">Odp</string>
+  <string name="quick_reply">Odpowiedz</string>
   <string name="rate_limit_surpassed">Potwierdź</string>
   <string name="rcs_auto_resend_as_sms_remind_change">Zmień ustawienia</string>
   <string name="rcs_auto_resend_as_sms_remind_desp">"Wiadomości większe niż 900B mogą zostać skonwertowane i wysłane jako SMS, gdy zasięg jest słaby. Kliknij przycisk \"Zmień ustawienia\", jeśli nie chcesz konwertować takich wiadomości."</string>
