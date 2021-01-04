@@ -758,4 +758,8 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="white_bellied_sea_eagle">Bielik</string>
     <string name="willow_grouse">Pardwa mszarna</string>
     <string name="wombat">Wombat</string>
+    <string name="animal_select_alert_info">Można wybrać maks. 5 elementów</string>
+    <string name="random_play_sound_alert">"Usłyszysz dźwięki zwierząt z tego regionu, gdy otrzymasz powiadomienia"</string>
+    <string name="branch_ramphastos">Tukanowate</string>
+    <string name="item_liebird">Dzięciołowe</string>
 </resources>

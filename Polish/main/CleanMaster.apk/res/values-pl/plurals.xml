@@ -220,4 +220,17 @@ Możesz usunąć ten plik."</item>
         <item quantity="one">Usuń %d plik APK</item>
         <item quantity="few">Usuń %d pliki APK</item>
     </plurals>
+    <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">Wystarczy dla %d zdjęć</item>
+        <item quantity="one">Wystarczy dla %d zdjęcia</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">Wystarczy dla %d utworów</item>
+        <item quantity="one">Wystarczy dla %d utworu</item>
+    </plurals>
+    <plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d aplikacji z wideo w pamięci podręcznej</item>
+        <item quantity="one">%d aplikacja z wideo w pamięci podręcznej</item>
+        <item quantity="few">%d aplikacje z wideo w pamięci podręcznej</item>
+    </plurals>
 </resources>

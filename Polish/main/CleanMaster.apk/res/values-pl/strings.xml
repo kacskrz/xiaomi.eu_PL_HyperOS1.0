@@ -817,4 +817,41 @@
     <string name="notification_low_storage_size_1p5_gb_hint">Usuń śmieci, aby przyspieszyć pracę urządzenia</string>
     <string name="notification_uninstall_clean_hint">Usuń śmieci, aby przyspieszyć pracę urządzenia</string>
     <string name="notification_uninstall_clean_text">Odinstalowane aplikacje pozostawiają śmieci na urządzeniu</string>
+    <string name="hints_quick_deep_clean2">Zwolnij %s</string>
+    <string name="powerful_acceleration">Defragmentacja</string>
+    <string name="powerful_acceleration_after">Po</string>
+    <string name="powerful_acceleration_before">Przed</string>
+    <string name="powerful_acceleration_enable_summary">"Defragmentacja zostanie wykonana automatycznie wtedy, gdy nie korzystasz z urządzenia"</string>
+    <string name="powerful_acceleration_enable_title">Defragmentuj w tle</string>
+    <string name="powerful_acceleration_item_button">Włącz</string>
+    <string name="powerful_acceleration_item_tip_normal">Pamięć wygląda dobrze!</string>
+    <string name="powerful_acceleration_notification_summary">Dotknij, aby zwolnić więcej miejsca</string>
+    <string name="powerful_acceleration_notification_title">Defragmentacja ukończona</string>
+    <string name="powerful_acceleration_tip">Pamięć wewnętrzna cierpi na fragmentację plików, która może spowolnić Twoje urządzenie. Defragmentacja porządkuje fizycznie Twoje pliki, dzieląc je na mniejsze fragmenty, co zmniejsza lagowanie.</string>
+    <string name="powerful_acceleration_tip_high"><Data>Twoja pamięć jest &lt;font color=#ff0000 >znacznie&lt;/font> pofragmentowana. Defragmentacja może rozwiązać ten problem.</Data></string>
+    <string name="powerful_acceleration_tip_middle"><Data>Twoja pamięć jest &lt;font color=#ff0000 >częściowo&lt;/font> pofragmentowana. Defragmentacja może rozwiązać ten problem.</Data></string>
+    <string name="powerful_acceleration_toast">"Defragmentacja zostanie wykonana wtedy, gdy nie korzystasz z urządzenia"</string>
+    <string name="rs_clean_size_free_space">Zwolnij %s</string>
+    <string name="rs_clean_size_storage_size">Zajęte %1$s/%2$s</string>
+    <string name="rs_clean_size_storage_title">Pamięć</string>
+    <string name="video_clean">Wyczyść wideo w pamięci podręcznej</string>
+    <string name="video_clean_auto_clean">Wyczyść automatycznie</string>
+    <string name="video_clean_auto_clean_summary">Wyczyść pliki wideo w pamięci podręcznej automatycznie po wykonaniu skanowania</string>
+    <string name="video_clean_cache_tip">Wyczyszczone pliki wideo mogą zostać ponownie załadowane później</string>
+    <string name="video_clean_create_desktop_icon">Skrót na pulpicie</string>
+    <string name="video_clean_create_desktop_icon_summary">Dodaj skrót na pulpicie, aby czyścić wideo w pamięci podręcznej jednym dotknięciem</string>
+    <string name="video_clean_desktop_icon_created">Pomyślnie dodano skrót na pulpicie</string>
+    <string name="video_clean_garbage">Wideo w pamięci podręcznej</string>
+    <string name="video_clean_garbage_cleared">Pomyślnie wyczyszczono wideo w pamięci podręcznej</string>
+    <string name="video_clean_notification_summary">Wyczyść pliki wideo gromadzone przez aplikacje</string>
+    <string name="video_clean_notification_title">Zwolnij %s</string>
+    <string name="video_clean_personal_settings_title">Dodatkowe ustawienia</string>
+    <string name="video_clean_qq_clean_summary">Wyczyść śmieci, aby zwolnić miejsce</string>
+    <string name="video_clean_qq_clean_title">Czyszczenie QQ</string>
+    <string name="video_clean_remind_settings_title">Przypominaj o czyszczeniu</string>
+    <string name="video_clean_scan_app_tip">Skanowanie aplikacji %1$d/%2$d</string>
+    <string name="video_clean_video_manager_summary">Zarządzaj wszystkimi plikami wideo na urządzeniu</string>
+    <string name="video_clean_video_manager_title">Menedżer wideo</string>
+    <string name="video_clean_wechat_clean_summary">Wyczyść śmieci, aby przyspieszyć pracę urządzenia</string>
+    <string name="video_clean_wechat_clean_title">Czyszczenie WeChata</string>
 </resources>

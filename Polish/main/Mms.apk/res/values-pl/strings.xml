@@ -1164,4 +1164,5 @@ Sprawdź kartę SIM."</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
     <string name="miuix_appcompat_search_input_description">Szukaj</string>
     <string name="miuix_appcompat_select_all_description">Zaznacz wszystko</string>
+    <string name="no_dialogue_yet">Wybierz konwersację</string>
 </resources>
