@@ -2636,4 +2636,5 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="input_lockscreen_password_hint_text">Wprowadź hasło</string>
     <string name="input_lockscreen_pattern_hint_text">Narysuj wzór</string>
     <string name="input_lockscreen_pin_hint_text">Wprowadź PIN</string>
+    <string name="heads_up_snooze_toast">"Powiadomienia z tej aplikacji nie będą się pojawiać, dopóki nie odblokujesz urządzenia ponownie"</string>
 </resources>

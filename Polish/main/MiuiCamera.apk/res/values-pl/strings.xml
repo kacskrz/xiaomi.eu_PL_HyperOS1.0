@@ -1702,4 +1702,10 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="clone_guide_copy_tip7">Eksperymentuj z pozami.</string>
   <string name="clone_guide_copy_title2">Wideo z zamrożeniem klatki</string>
   <string name="pref_live_duration_title">Czas trwania livestreamu</string>
+  <string name="makeup_effect_entry_apricot_white">Alabaster</string>
+  <string name="makeup_effect_entry_dusk_night">Mrok</string>
+  <string name="makeup_effect_entry_neutral">Neutralne</string>
+  <string name="makeup_effect_entry_palm">Palma</string>
+  <string name="makeup_effect_entry_taro">Taro</string>
+  <string name="makeup_effect_entry_vitality">Werwa</string>
 </resources>
