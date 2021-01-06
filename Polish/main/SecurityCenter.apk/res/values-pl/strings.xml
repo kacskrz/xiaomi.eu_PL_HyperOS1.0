@@ -4158,7 +4158,7 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="power_center_problem_title">Napraw problemy</string>
     <string name="power_center_reduce_dpi_summary">Rozdzielczość QHD+ zużywa więcej energii</string>
     <string name="power_center_reduce_resolution">Niższa rozdzielczość ekranu</string>
-    <string name="power_center_used_time_Introduction">Czas na baterii od ostatniego naładowania %s</string>
+    <string name="power_center_used_time_Introduction">Czas na baterii od ostatniego naładowania powyżej %s</string>
     <string name="power_optimize__set_lockscreen_time_holder">Blokuj urządzenie po %d sek. nieaktywności</string>
     <string name="power_optimize__set_lockscreen_time_summary">Blokowanie urządzenia w szybszym czasie oszczędza energię</string>
     <string name="power_optimize_aod_summary">Gdy ekran jest wyłączony, Twoje urządzenie oszczędza energię</string>
