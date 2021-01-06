@@ -2637,4 +2637,8 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="input_lockscreen_pattern_hint_text">Narysuj wzór</string>
     <string name="input_lockscreen_pin_hint_text">Wprowadź PIN</string>
     <string name="heads_up_snooze_toast">"Powiadomienia z tej aplikacji nie będą się pojawiać, dopóki nie odblokujesz urządzenia ponownie"</string>
+    <string name="zen_mode_warnings_all_time_content">Powiadomienia i połączenia będą wyciszone</string>
+    <string name="zen_mode_warnings_keyguard_content">Powiadomienia i połączenia będą wyciszone, gdy urządzenie jest zablokowane</string>
+    <string name="zen_mode_warnings_quit_immediately">Wyłącz</string>
+    <string name="zen_mode_warnings_title">Włączone Godziny ciszy</string>
 </resources>

@@ -85,4 +85,9 @@
         <item quantity="one">Dodano %s kontrolkę.</item>
         <item quantity="few">Dodano %s kontrolki.</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowych powiadomień</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+    </plurals>
 </resources>

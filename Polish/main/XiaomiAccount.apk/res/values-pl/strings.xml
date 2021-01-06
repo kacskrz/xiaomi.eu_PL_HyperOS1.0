@@ -721,4 +721,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="provision_back">Wstecz</string>
   <string name="provision_next">Dalej</string>
   <string name="provision_skip_underline">Pomiń</string>
+  <string name="passport_login_other_way">Inne metody logowania</string>
 </resources>
