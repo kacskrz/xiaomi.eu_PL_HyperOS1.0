@@ -8430,7 +8430,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="checkbox_text">Przełącznik</string>
   <string name="customize_knock_gesture">Własne gesty knykcia</string>
   <string name="general_text">Pole tekstowe</string>
-  <string name="general_time">"Czas: %1$d:%2$d. Długie wibracje reprezentują godziny, krótkie - minuty. Przed godzinami i minutami pojawi się krótka pauza. Dwukrotnie dotknij, aby wypróbować."</string>
+  <string name="general_time">"Czas: %1$d:%2$d. Długie wibracje reprezentują godziny, krótkie - minuty. Pomiędzy godzinami i minutami pojawi się krótka pauza. Dwukrotnie dotknij, aby wypróbować."</string>
   <string name="haptic_experience">Demo</string>
   <string name="haptic_experience_details">Reakcje haptyczne i ułatwienia dostępu</string>
   <string name="haptic_switch_summary">Otrzymuj odpowiednią do wybranych elementów reakcję haptyczną, gdy włączony jest Czytnik ekranowy</string>
