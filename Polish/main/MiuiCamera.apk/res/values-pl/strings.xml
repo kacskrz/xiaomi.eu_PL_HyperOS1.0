@@ -1681,7 +1681,6 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="video_shortcut_short">Film</string>
   <string name="capture_shortcut_long">Selfie</string>
   <string name="capture_shortcut_short">Selfie</string>
-  <string name="pref_p_d_e">Pro</string>
   <string name="accessibility_reference_line_text">Otwórz panel z opcjami linii odniesienia</string>
   <string name="camcorder_tip_current_max_video_duration">W obecnej rozdzielczości można nagrać maks. %d-minutowy film</string>
   <string name="center_mark">Punkt środkowy</string>

@@ -1011,12 +1011,6 @@ Możesz teraz uzyskać bezpłatną, %d-dniową wersję próbną!"</item>
         <item quantity="few">Teraz</item>
         <item quantity="many">Teraz</item>
     </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d zaznaczonych elementów</item>
-        <item quantity="one">%d zaznaczony element</item>
-        <item quantity="few">%d zaznaczone elementy</item>
-        <item quantity="many">%d zaznaczonych elementów</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minut temu</item>
         <item quantity="one">1 minutę temu</item>
