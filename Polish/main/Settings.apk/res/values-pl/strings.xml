@@ -8455,4 +8455,9 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="seekbar_text">Suwak</string>
   <string name="tab_text">Karta</string>
   <string name="wallet_header_title">Portfel i płatności</string> 
+  <string name="dsu_is_running">Uruchomiony DSU</string>
+  <string name="dsu_loader_description">Wgraj obraz dynamicznej aktualizacji systemu (Dynamic System Update)</string>
+  <string name="dsu_loader_loading">Ładowanie...</string>
+  <string name="dsu_loader_title">Wgraj obraz DSU</string>
+  <string name="wifi_enhanced_mac_randomization_summary">Gdy ten tryb jest włączony, adres MAC urządzenia może zmieniać się za każdym razem, gdy łączy się ono z siecią, która ma włączoną randomizację adresów MAC.</string>
 </resources>

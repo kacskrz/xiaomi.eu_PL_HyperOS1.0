@@ -144,4 +144,7 @@
   <string name="headset_update_failed">"Nie udało się zaktualizować"</string>
   <string name="headset_update_ok">Gotowe</string>
   <string name="headset_updating">Aktualizowanie</string>
+  <string name="fast_connect_new_feture_sound_normalizer">Normalizowanie dźwięku</string>
+  <string name="fast_connect_new_feture_title">Nowe funkcje</string>
+  <string name="fast_connect_same_accout_devices_title">Inne połączone urządzenie: %1$s</string>
 </resources>

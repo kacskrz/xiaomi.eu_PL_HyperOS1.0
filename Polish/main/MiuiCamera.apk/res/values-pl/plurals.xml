@@ -50,4 +50,8 @@
         <item quantity="one">Usunąć %1$d szkic?</item>
         <item quantity="few">Usunąć %1$d szkice?</item>
     </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="one">Możesz nagrywać zamrożone wideo tylko z %d elementem.</item>
+        <item quantity="other">Możesz nagrywać zamrożone wideo tylko z %d elementami.</item>
+    </plurals>
 </resources>

@@ -641,4 +641,6 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="xiaomi_market_sdk_update_dialog_cancel">Nie teraz</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Zaktualizuj</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Aktualizacja dostępna</string>
+  <string name="detail_download_path">"Lokalizacja: "</string>
+  <string name="detail_download_time">"Pobrano: "</string>
 </resources>

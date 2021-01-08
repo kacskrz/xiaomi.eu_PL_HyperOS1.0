@@ -226,4 +226,5 @@
   <string name="sound_transmission_stop">Wstrzymaj</string>
   <string name="sound_transmission_title">Mikrofon bezprzewodowy</string>
   <string name="transmission_volume_option_title">Głośność mikrofonu</string>
+  <string name="sound_transmission_function_generalize">"Transmituj dźwięk z mikrofonu w telefonie do zewnętrznego urządzenia Bluetooth"</string>
 </resources>
