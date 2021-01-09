@@ -590,7 +590,7 @@
   <string name="wifi_dpp_qr_code_is_not_valid_format">Nieprawidłowy format kodu QR</string>
   <string name="wifi_eap_ocsp">Stan certyfikatu online</string>
   <string name="wifi_enhanced_mac_randomization">Randomizacja MAC ulepszona w zakresie Wi‑Fi</string>
-  <string name="wifi_enhanced_mac_randomization_summary">When this mode is enabled, this device’s MAC address may change each time it connects to a network that has MAC randomization enabled.</string>
+  <string name="wifi_enhanced_mac_randomization_summary">Gdy ten tryb jest włączony, adres MAC urządzenia może zmieniać się za każdym razem, gdy łączy się ono z siecią, która ma włączoną randomizację adresów MAC.</string>
   <string name="wifi_expiry_time">Wygasa %1$s</string>
   <string name="wifi_hotspot_auto_off_summary">Gdy żadne urządzenie nie jest połączone</string>
   <string name="wifi_no_internet">Brak dostępu do Internetu</string>
@@ -729,4 +729,5 @@
   <string name="wifi_wakeup_positive_button">Włącz</string>
   <string name="wifi_wakeup_scan_summary">Zezwól aplikacjom i usługom na wyszukiwanie sieci Wi-Fi, aby móc automatycznie włączać Wi-Fi. Włączenie tej funkcji pozwoli urządzeniu na automatyczne łączenie się z zapisanymi sieciami Wi-Fi w pobliżu.</string>
   <string name="wifi_wakeup_title">Włącz dodatkowe funkcje</string>
+  <string name="status_device_wifi_mac_address">Adres MAC Wi-Fi urządzenia</string>
 </resources>
