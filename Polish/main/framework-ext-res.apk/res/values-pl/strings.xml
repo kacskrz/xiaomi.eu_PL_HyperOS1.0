@@ -326,4 +326,10 @@
   <string name="enable_nfc_reverse">Zakończono ładowanie zwrotne. Włączono NFC z powrotem.</string>
   <string name="freeform_exchange_tip">Puść, aby otworzyć aplikację</string>
   <string name="freeform_exchange_tip2">Przeciągnij do rogu, aby zakończyć</string>
+  <string name="dock_tip_floatwindow">Przytrzymaj i przeciągnij pasek do krawędzi ekranu, aby wejść w tryb podzielonego ekranu.</string>
+  <string name="dock_tip_splitscreen_landscape_drag">Przeciągnij pasek poziomo, aby zamienić miejscami obydwa okna aplikacji.</string>
+  <string name="dock_tip_splitscreen_landscape_float">Przytzymaj i przeciągnij w dół, aby włączyć tryb pływającego okna.</string>
+  <string name="dock_tip_splitscreen_portrait_drag">Przeciągnij pasek pionowo, aby zamienić miejscami obydwa okna aplikacji.</string>
+  <string name="dock_tip_splitscreen_portrait_float">Przytrzymaj i przeciągnij do lewej lub prawej krawędzi ekranu, aby włączyć tryb pływającego okna.</string>
+  <string name="miui_multiwindow_not_support_split">Aplikacja %1$s nie wspiera podzielonego ekranu.</string>
 </resources>
