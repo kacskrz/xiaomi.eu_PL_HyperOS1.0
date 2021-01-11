@@ -1637,7 +1637,7 @@ Jeśli problem będzie się powtarzał, skontaktuj się z operatorem."</string>
   <string name="voicemail_number_not_set">&lt;Nie ustawiono&gt;</string>
   <string name="voicemail_provider">Usługa</string>
   <string name="voicemail_provider_summary">Wybierz usługę poczty głosowej</string>
-  <string name="voicemail_settings">Konfiguracja poczty głosowej</string>
+  <string name="voicemail_settings">Ustawienia poczty głosowej</string>
   <string name="voicemail_settings_number_hint">Wpisz numer poczty głosowej</string>
   <string name="voicemail_settings_number_label">Numer poczty głosowej</string>
   <string name="voicemail_settings_number_title">Numer poczty głosowej</string>

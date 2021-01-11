@@ -653,4 +653,5 @@
   <string name="icon_style">Styl</string>
   <string name="launcher_icon_management">Zarządzaj ikonami na pulpicie</string>
   <string name="restore_icon_successful">Pomyślnie dodano</string>
+  <string name="clearable_edittext_clear_description">Wyczyść</string>
 </resources>

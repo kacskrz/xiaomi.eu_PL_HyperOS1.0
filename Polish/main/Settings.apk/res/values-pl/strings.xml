@@ -8460,4 +8460,5 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="dsu_loader_loading">Ładowanie...</string>
   <string name="dsu_loader_title">Wgraj obraz DSU</string>
   <string name="wifi_enhanced_mac_randomization_summary">Gdy ten tryb jest włączony, adres MAC urządzenia może zmieniać się za każdym razem, gdy łączy się ono z siecią, która ma włączoną randomizację adresów MAC.</string>
+  <string name="launcher_icon_management">Zarządzaj ikonami na pulpicie</string>
 </resources>

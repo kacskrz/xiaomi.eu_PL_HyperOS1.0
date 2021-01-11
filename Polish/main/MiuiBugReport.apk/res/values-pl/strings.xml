@@ -854,4 +854,10 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="suggest_upload_log_dialog_title">Wyślij powiązane logi</string>
   <string name="toast_min_description_count">Opis powinien być dłuższy</string>
   <string name="submit_dialog_not_show_again">"Nie pokazuj ponownie"</string>
+  <string name="close">Zamknij</string>
+  <string name="date_time_picker_dialog_title">Ustaw datę i godzinę</string>
+  <string name="miuix_appcompat_deselect_all">Odznacz</string>
+  <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_select_item">Zaznacz elementy</string>
+  <string name="send">Wyślij</string>
 </resources>
