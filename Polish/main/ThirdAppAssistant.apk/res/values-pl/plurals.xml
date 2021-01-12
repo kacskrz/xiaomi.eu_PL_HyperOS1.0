@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="er_app_update">
+        <item quantity="other">Aby zapobiec wymuszonym zamknięciom, zaktualizuj %d aplikacji</item>
+        <item quantity="one">Aby zapobiec wymuszonym zamknięciom, zaktualizuj %d aplikację</item>
+        <item quantity="few">Aby zapobiec wymuszonym zamknięciom, zaktualizuj %d aplikacje</item>
+    </plurals>
+    <plurals name="er_app_update_more">
+        <item quantity="other">Aby zapobiec wymuszonym zamknięciom, zaktualizuj %d aplikacji</item>
+        <item quantity="one">Aby zapobiec wymuszonym zamknięciom, zaktualizuj %d aplikację</item>
+        <item quantity="few">Aby zapobiec wymuszonym zamknięciom, zaktualizuj %d aplikacje</item>
+    </plurals>
+</resources>

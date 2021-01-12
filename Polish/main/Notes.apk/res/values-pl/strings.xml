@@ -583,4 +583,8 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="toast_excerpt_saved">Zapisywanie fragmentu w Notatkach…</string>
   <string name="toast_refuse_to_use_storage_in_excerpt">Aby móc dodawać obrazy do notatek, zezwól aplikacji Notatki na dostęp do pamięci</string>
   <string name="view_all_notes">Zobacz wszystko</string>
+  <string name="blackboard_note">Inteligentna tablica</string>
+  <string name="default_update_documents">Dostępna jest aktualizacja. Czy chcesz ją wykonać teraz?</string>
+  <string name="note_mindnote_entrance_hint_newversion">"Zacznij pisać "</string>
+  <string name="note_mindnote_entrance_icon_text_newversion">Utwórz mapę myśli</string>
 </resources>

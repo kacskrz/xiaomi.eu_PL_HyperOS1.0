@@ -147,4 +147,6 @@
   <string name="fast_connect_new_feture_sound_normalizer">Normalizowanie dźwięku</string>
   <string name="fast_connect_new_feture_title">Nowe funkcje</string>
   <string name="fast_connect_same_accout_devices_title">Inne połączone urządzenie: %1$s</string>
+  <string name="headset_loss_notify_summary">Wygląda na to, że co najmniej jedna ze słuchawek nie znajduje się w zestawie ładującym. Rozejrzyj się dookoła!</string>
+  <string name="headset_loss_notify_title">Alert o zgubionej słuchawce</string>
 </resources>

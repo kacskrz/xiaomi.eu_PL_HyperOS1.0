@@ -854,4 +854,6 @@
     <string name="video_clean_video_manager_title">Menedżer wideo</string>
     <string name="video_clean_wechat_clean_summary">Wyczyść śmieci, aby przyspieszyć pracę urządzenia</string>
     <string name="video_clean_wechat_clean_title">Czyszczenie WeChata</string>
+    <string name="video_clean_image_clean_summary">Usuń duplikaty zdjęć, aby zwolnić miejsce</string>
+    <string name="video_clean_image_clean_title">Usuń duplikaty zdjęć</string>
 </resources>

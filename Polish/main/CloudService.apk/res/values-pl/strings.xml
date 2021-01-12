@@ -1041,4 +1041,7 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="provision_skip_underline">Pomiń</string>
   <string name="sync_dspt_entrance_provision_confirm_content_v2">"System MIUI może zapisywać kopie osobistych danych urządzenia w chmurze. Korzystanie z Chmury Xiaomi jest całkowicie darmowe."</string>
   <string name="sync_dspt_entrance_provision_v2">Synchronizuj w Chmurze swoje zdjęcia, kontakty, historię połączeń czy SMS. Miej dostęp do swoich danych na stronie %s.</string>
+  <string name="retain_data_high_quality_photo_waring_message">Obrazy w wysokiej jakości zostaną usunięte z Galerii po wylogowaniu. Oryginalne pliki wciąż będą znajdować się w Chmurze. Możesz również pobrać oryginalne pliki przed wylogowaniem się.</string>
+  <string name="retain_data_high_quality_photo_waring_title">"Obrazy w wysokiej jakości nie będą dostępne"</string>
+  <string name="share_location_menu_create_shortcut">Skrót na pulpicie</string>
 </resources>

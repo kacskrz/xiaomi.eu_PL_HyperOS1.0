@@ -1788,4 +1788,8 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="video_effect_entry_northern_europe_describe">Niskie nasycenie i kontrast wprowadzają nordycki noir w pochmurne i słabo oświetlone wnętrza.</string>
   <string name="video_effect_entry_rome_describe">Ciepły, retro, monochromatyczny efekt działa w większości scen.</string>
   <string name="video_effect_entry_summer_day_describe">Niski kontrast i jasne odcienie sprawdzają się, gdy konieczne jest zachowanie odcieni skóry. Ten filtr jest odpowiedni do scen słonecznych na zewnątrz.</string>
+  <string name="close_night_algo_toast_low_power">Naładuj urządzenie, aby móc ustawić ekspozycję</string>
+  <string name="close_night_algo_toast_thermal">Schłodź urządzenie, aby móc ustawić ekspozycję</string>
+  <string name="pref_super_night_se_summary">Jeśli aparat rozpozna ciemną scenerię, automatycznie uruchomi on Tryb nocny i poprawi jakość zdjęcia za pomocą algorytmów</string>
+  <string name="pref_super_night_se_title">Automatyczny Tryb nocny</string>
 </resources>

@@ -548,7 +548,7 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="user_avatar_update_title">Zmień zdjęcie profilowe</string>
   <string name="user_avatar_uploading">Chwileczkę…</string>
   <string name="user_id_hint">E-mail/Telefon/Numer konta Xiaomi</string>
-  <string name="user_protocol_and_privacy_protocol">"Przeczytałem i zaakceptowałem warunki Umowy użytkownika i Polityki prywatności."</string>
+  <string name="user_protocol_and_privacy_protocol"><Data>"Przeczytałem i zaakceptowałem warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>."</Data></string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
   <string name="v_code_title">Wprowadź kod weryfikacyjny</string>

@@ -42,4 +42,26 @@
     <string name="dialog_title_message_auto_update">Automatycznie aktualizuj aplikacje</string>
     <string name="go_open">Włącz</string>
     <string name="open_success">Pomyślnie włączono</string>
+    <string name="dialog_content_message_anr">"%s nie odpowiada ze względu na wewnętrzny błąd. "</string>
+    <string name="er_app_anr">%s nie odpowiada</string>
+    <string name="er_app_crash">Wymuszono zamknięcie %s</string>
+    <string name="er_app_crash_description_anr">"Wymuszono zamknięcie aplikacji, ponieważ nie odpowiadała"</string>
+    <string name="er_app_crash_description_npe">Wymuszono zamknięcie aplikacji ze względu na wyjątek pustego wskaźnika</string>
+    <string name="er_app_crash_description_oom">Wymuszono zamknięcie aplikacji ze względu na brak pamięci</string>
+    <string name="er_app_crash_description_other">Wymuszono zamknięcie aplikacji z powodu błędu</string>
+    <string name="er_app_crash_description_shell">Wymuszono zamknięcie aplikacji z powodu błędu terminala</string>
+    <string name="er_app_description_native_oom">Kiedy aplikacji brakuje pamięci, ekran może być czarny bądź zacząć błyskać. Możliwe jest także wymuszenie zamknięcia aplikacji</string>
+    <string name="er_app_update_button">Aktualizuj</string>
+    <string name="er_exception_all">Wszystkie problemy</string>
+    <string name="er_exception_anr">Brak odpowiedzi</string>
+    <string name="er_exception_crash">Awarie</string>
+    <string name="er_exception_npe">Wyjątki pustego wskaźnika</string>
+    <string name="er_exception_oom">Błędy pamięci</string>
+    <string name="er_exception_other">Inne</string>
+    <string name="er_exception_shell">Błędy terminala</string>
+    <string name="er_exception_type_title">Wszystkie problemy</string>
+    <string name="er_no_data">"Nie znaleziono rezultatów"</string>
+    <string name="er_notification_switch_content">Otrzymuj powiadomienia o błędach w aplikacjach firm trzecich about errors in third party apps</string>
+    <string name="er_notification_switch_title">Informuj o błędach</string>
+    <string name="er_wechat_update_64bit">Zaktualizuj aplikację WeChat do wersji 64-bitowej, aby zwiększyć stabilność</string>
 </resources>

@@ -162,8 +162,7 @@ Później będziesz mógł zainstalować inne klawiatury z Google Play."</string
   <string name="pref_title_voice_slot">Preferowana karta SIM (rozmowy)</string>
   <string name="privacy_policy">Polityka Prywatności</string>
   <string name="protect_persoanl_info_statement">Xiaomi chroni Twoje osobiste informacje w zgodzie z odpowiednimi przepisami, regulacjami i politykami prywatności.</string>
-  <string name="provision_inputmethod_policy_description">"
-Wybór ten możesz potem zmienić w Ustawieniach telefonu"</string>
+  <string name="provision_inputmethod_policy_description"><Data>Wyświetl &lt;a href=%1$s>Politykę prywatności&lt;/a > wybranej klawiatury.</Data></string>
   <string name="provision_inputmethod_policy_description1"/>
   <string name="recorder_introduction">Dzięki tej aplikacji możesz nagrywać dźwięk i synchronizować nagrania z chmurą.</string>
   <string name="require_authority_statement">Aby pozwolić nam dostarczać podstawowe usługi, musisz nadać następujące uprawnienia w celu gromadzenia przez Xiaomi Twoich osobistych informacji:</string>
