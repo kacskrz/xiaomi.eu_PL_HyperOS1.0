@@ -643,4 +643,21 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="xiaomi_market_sdk_update_dialog_title">Aktualizacja dostępna</string>
   <string name="detail_download_path">"Lokalizacja: "</string>
   <string name="detail_download_time">"Pobrano: "</string>
+  <string name="channel_pc_edit">Edytowane na komputerze</string>
+  <string name="channel_pc_upload">Wysłane z komputera</string>
+  <string name="channel_pc_view">Wyświetlone na komputerze</string>
+  <string name="channel_phone_edit">Edytowane na telefonie</string>
+  <string name="channel_phone_upload">Wysłane z telefonu</string>
+  <string name="channel_phone_view">Wyświetlone na telefonie</string>
+  <string name="channel_web_edit">Edytowane w przeglądarce</string>
+  <string name="channel_web_upload">Wysłane z przeglądarki</string>
+  <string name="channel_web_view">Wyświetlone w przeglądarce</string>
+  <string name="delete_operation_record">Usunąć ten rekord?</string>
+  <string name="delete_operation_record_timeout">"Nie udało się usunąć rekordu. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
+  <string name="jump_to_directory">Otwórz folder</string>
+  <string name="no_recent_activity">Brak ostatnich elementów</string>
+  <string name="operation_dialog_jump_message">Otwieranie folderu…</string>
+  <string name="operation_will_not_show_after_delete">Po usunięciu rekordu nie będzie się on tutaj pojawiać.</string>
+  <string name="recent_file">Ostatnie</string>
+  <string name="recent_jump_to_privacy_fail_notice">To prywatny plik. Wróć na stronę startową i przeciągnij w dół, aby go wyświetlić.</string>
 </resources>

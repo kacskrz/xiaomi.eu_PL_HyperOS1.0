@@ -260,4 +260,9 @@
         <item quantity="few">Wysyłanie… Pozostały %1$d elementy (%2$s%%)</item>
         <item quantity="one">Wysyłanie… Pozostał %1$d element (%2$s%%)</item>
     </plurals>
+    <plurals name="view_all">
+        <item quantity="other">1$d elementów</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="few">%1$d elementy</item>
+    </plurals>
 </resources>

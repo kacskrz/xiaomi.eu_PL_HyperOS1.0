@@ -255,4 +255,5 @@ dd.MM"</string>
     <string name="on">Wł.</string>
     <string name="scheduled_style_summary">Ustaw własny czas</string>
     <string name="temporary_style_summary">Zalecane</string>
+    <string name="aod_theme_store">Motywy Ekranu zawsze włączonego</string>
 </resources>

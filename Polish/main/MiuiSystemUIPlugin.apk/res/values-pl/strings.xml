@@ -215,11 +215,11 @@
     <string name="miui_ringer_status_open">Wł.</string>
     <string name="miui_ringer_total">Godz. ciszy</string>
     <string name="miui_ringer_total_description">Wycisz dźwięki i wyłącz wibracje wszystkich elementów z wyjątkiem alarmów</string>
-    <string name="miui_toast_zen_dnd_to_off">Tryb Godziny ciszy został wyłączony. Przywrócono dźwięki i wibracje.</string>
-    <string name="miui_toast_zen_standard_to_off">Tryb Cichy został wyłączony. Przywrócono głośność dzwonków.</string>
+    <string name="miui_toast_zen_dnd_to_off">Połączenia i powiadomienia nie będą już wyciszone</string>
+    <string name="miui_toast_zen_standard_to_off">Wyłączono tryb Cichy</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Tryb Cichy został wyłączony. Przywrócono głośność dzwonków (w tym powiadomień oraz multimediów).</string>
-    <string name="miui_toast_zen_to_dnd">Włączono tryb Godziny ciszy. Dźwięki zostały wyciszone, a wibracje wyłączone.</string>
-    <string name="miui_toast_zen_to_standard">Włączono tryb Cichy. Wyciszono dźwięki połączeń i powiadomień.</string>
+    <string name="miui_toast_zen_to_dnd">Połączenia i powiadomienia będą wyciszone</string>
+    <string name="miui_toast_zen_to_standard">Włączono tryb Cichy</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Włączono tryb Cichy. Wyciszono dzwonki (w tym dźwięki powiadomień oraz multimediów).</string>
     <string name="power_off">Wyłącz</string>
     <string name="quick_settings_pcmode_dialog_description">Tryb PC wspiera zadania w kilku oknach i może być używany klawiaturą oraz myszką. Włączenie tego trybu zamknie wszystkie uruchomione aplikacje. Niektóre z nich mogą nie wspierać tego trybu.</string>
@@ -241,7 +241,7 @@
     <string name="wireless_charging_saver_message">Włączone jest Oszczędzanie baterii. Czy chcesz, aby bezprzewodowe ładowanie zwrotne było dalej dostępne?</string>
     <string name="wireless_charging_saver_ok">Tak</string>
     <string name="wireless_charging_tips_disable">"Nie pokazuj ponownie"</string>
-    <string name="wireless_charging_tips_message">Umieść urządzenia wspierające technologię bezprzewodowego ładowania Qi, takie jak niektóre telefony czy akcesoria, z tyłu urządzenia.</string>
+    <string name="wireless_charging_tips_message">Umieść urządzenia, które chcesz naładować bezprzewodowo (np. telefon, zegarek czy słuchawki) na tyle telefonu. Upewnij się, że telefon jest naładowany w co najmniej %d%% przed rozpoczęciem ładowania.</string>
     <string name="wireless_charging_tips_title">Bezprzewodowe ładowanie zwrotne</string>
     <string name="safe_media_volume_warning">"Zwiększyć głośność ponad zalecany poziom?
  
@@ -286,4 +286,8 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="password_toggle_content_description">Pokaż hasło</string>
     <string name="quick_settings_pcmode_turn_off_description">Na monitorze zostanie wyświetlony ekran z telefonu. Wyłączyć tryb PC?</string>
     <string name="quick_settings_pcmode_turn_on_description">Na monitorze zostanie wyświetlony ekran z komputera. Włączyć tryb PC?</string>
+    <string name="dnd_popup_close_message">Rozumiem</string>
+    <string name="dnd_popup_message">Możesz włączyć tryb Godziny ciszy, aby wyciszyć połączenia i powiadomienia bez wyłączania dźwięku multimediów.</string>
+    <string name="miui_toast_zen_to_dnd_when_lock">Połączenia i powiadomienia będą wyciszone, gdy urządzenie jest zablokowane</string>
+    <string name="wireless_charging_tips_sub_message">Inne urządzenie musi wspierać standard ładowania bezprzewodowego Qi.</string>
 </resources>

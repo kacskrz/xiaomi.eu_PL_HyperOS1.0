@@ -8465,5 +8465,5 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="switch_headset_anti_lost_summary">Otrzymuj alert, gdy jedna ze słuchawek jest daleko od ucha bądź zestawu ładującego dłużej niż minutę</string>
   <string name="switch_headset_anti_lost_title">Alert o zgubionej słuchawce</string>
   <string name="wifi_enhanced_handover">Rozszerzone przełączanie się</string>
-  <string name="wifi_enhanced_handover_summary">Szybko przełączaj się pomiędzy punktami dostępowymi oferującymi te same szyfrowanie</string>
+  <string name="wifi_enhanced_handover_summary">Szybko przełączaj się pomiędzy różnymi punktami dostępowymi</string>
 </resources>
