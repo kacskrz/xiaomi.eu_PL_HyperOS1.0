@@ -614,7 +614,7 @@ Opuścić tę stronę?"</string>
   <string name="miuichromium_error_page_btn_close">Zamknij</string>
   <string name="miuichromium_error_page_btn_refresh">Odśwież</string>
   <string name="miuichromium_error_page_btn_report_issue">Zgłoś błąd</string>
-  <string name="miuichromium_error_page_description_no_connection" formatted="false">Nie udało się połączyć się z siecią z powodu słabego sygnału lub nieprawidłowej konfiguracji sieci. Sprawdź %s1ustawienia sieciowe%s2 i spróbuj ponownie.</string>
+  <string name="miuichromium_error_page_description_no_connection" formatted="false">Nie udało się połączyć z siecią z powodu słabego sygnału lub nieprawidłowej konfiguracji sieci. Sprawdź %s1ustawienia sieciowe%s2 i spróbuj ponownie.</string>
   <string name="miuichromium_error_page_diagnose">Diagnostyka sieci</string>
   <string name="miuichromium_error_page_diagnose_banner">Diagnostyka sieci</string>
   <string name="miuichromium_error_page_diagnose_certificate">Nie można zweryfikować protokołu sieciowego</string>
@@ -869,7 +869,7 @@ Na pewno chcesz opuścić stronę?"</string>
   <string name="mw_miuichromium_error_page_btn_close">Zamknij</string>
   <string name="mw_miuichromium_error_page_btn_refresh">Odśwież</string>
   <string name="mw_miuichromium_error_page_btn_report_issue">Zgłoś błąd</string>
-  <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">Nie udało się połączyć się z siecią z powodu słabego sygnału lub nieprawidłowej konfiguracji sieci. Sprawdź %s1ustawienia sieciowe%s2 i spróbuj ponownie.</string>
+  <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">Nie udało się połączyć z siecią z powodu słabego sygnału lub nieprawidłowej konfiguracji sieci. Sprawdź %s1ustawienia sieciowe%s2 i spróbuj ponownie.</string>
   <string name="mw_miuichromium_error_page_diagnose">Diagnostyka sieci</string>
   <string name="mw_miuichromium_error_page_diagnose_banner">Diagnostyka sieci</string>
   <string name="mw_miuichromium_error_page_diagnose_certificate">Nie można zweryfikować protokołu sieciowego</string>
