@@ -700,4 +700,5 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="summary_request_write_settings_prem">Aplikacja Przenoszenie danych wymaga tego uprawnienia, aby włączyć sieć Wi-Fi i utworzyć hotspot w celu przeniesienia plików.</string>
     <string name="title_open_wlan">Włącz Wi-Fi</string>
     <string name="title_request_alert_window_perm">Zezwól na pływające okna</string>
+    <string name="host_new_device_hint">To urządzenie</string>
 </resources>
