@@ -144,9 +144,17 @@
   <string name="headset_update_failed">"Nie udało się zaktualizować"</string>
   <string name="headset_update_ok">Gotowe</string>
   <string name="headset_updating">Aktualizowanie</string>
-  <string name="fast_connect_new_feture_sound_normalizer">Normalizowanie dźwięku</string>
-  <string name="fast_connect_new_feture_title">Nowe funkcje</string>
-  <string name="fast_connect_same_accout_devices_title">Inne połączone urządzenie: %1$s</string>
   <string name="headset_loss_notify_summary">Wygląda na to, że co najmniej jedna ze słuchawek nie znajduje się w zestawie ładującym. Rozejrzyj się dookoła!</string>
   <string name="headset_loss_notify_title">Alert o zgubionej słuchawce</string>
+  <string name="fast_connect_anti_lost_content">"Ustaw alert informujący, że jedna ze słuchawek została zgubiona.
+Aby dowiedzieć się więcej szczegółów, sprawdź ustawienia."</string>
+  <string name="fast_connect_new_feture_anti_lost">Alert o zgubionej słuchawce</string>
+  <string name="fast_connect_new_feture_same_account">Połącz się ze zsynchronizowanymi urządzeniami</string>
+  <string name="fast_connect_new_feture_sound_normalizer">Lepszy dźwięk</string>
+  <string name="fast_connect_new_feture_title">"Co nowego"</string>
+  <string name="fast_connect_same_account_content">Urządzenia Bluetooth mogą być synchronizowane z Twoim kontem Xiaomi i za jego pomocą mogą łączyć się z innymi urządzeniami bez konieczności ich ponownego parowania.</string>
+  <string name="fast_connect_same_accout_devices_connecting">Łączenie za pomocą Chmury Xiaomi…</string>
+  <string name="fast_connect_same_accout_devices_title">"Połączono %1$s z innymi urządzeniami"</string>
+  <string name="fast_connect_sound_normalizer_content">"Lepszy dźwięk podczas rozmów.
+Szyszy protokół transmisji."</string>
 </resources>

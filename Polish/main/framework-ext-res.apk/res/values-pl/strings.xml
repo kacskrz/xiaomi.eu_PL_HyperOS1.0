@@ -332,4 +332,5 @@
   <string name="dock_tip_splitscreen_portrait_drag">Przeciągnij pasek pionowo, aby zamienić miejscami obydwa okna aplikacji.</string>
   <string name="dock_tip_splitscreen_portrait_float">Przytrzymaj i przeciągnij do lewej lub prawej krawędzi ekranu, aby włączyć tryb pływającego okna.</string>
   <string name="miui_multiwindow_not_support_split">Aplikacja %1$s nie wspiera podzielonego ekranu.</string>
+  <string name="turn_on_work_profile">Włącz</string>
 </resources>

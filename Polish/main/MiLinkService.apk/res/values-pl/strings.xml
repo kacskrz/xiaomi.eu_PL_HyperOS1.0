@@ -228,4 +228,36 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="trust_device_manager">Zarządzaj zaufanymi urządzeniami</string>
     <string name="trust_device_none">Brak zaufanych urządzeń</string>
     <string name="trust_device_title">Zaufane urządzenia</string>
+    <string name="close">Zamknij</string>
+    <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
+    <string name="global_privacy">Warunki użytkowania</string>
+    <string name="global_privacy_detail">&lt;Data>Przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%2$s>Polityki prywatności&lt;/a> przed skorzystaniem z tej aplikacji.&lt;br>Jeśli nie zgadzasz się na korzystanie z wyżej wymienionych usług, nie będziesz mógł korzystać z niektórych funkcji tej aplikacji, jednakże jej podstawowa funkcjonalność będzie nadal dostępna.&lt;/Data></string>
+    <string name="global_privacy_explain">Witamy w Projekcji! Ta aplikacja zapewnia następujące usługi:</string>
+    <string name="global_privacy_feature">Używanie zminimalizowanych okien, przesyłanie ekranu, gdy jest on wyłączony i ukrywanie prywatnych elementów.</string>
+    <string name="global_privacy_main">Wyświetlanie elementów z ekranu telefonu na większym zewnętrznym monitorze.</string>
+    <string name="global_privacy_negative">Nie zgadzam się</string>
+    <string name="global_privacy_positive">Zgadzam się</string>
+    <string name="global_privacy_tip">&lt;Data>Xiaomi musi zbierać niezbędne dane osobowe, aby świadczyć podstawowe usługi i optymalizować proces projekcji. Możesz dowiedzieć się, jak firma przetwarza informacje, które zbiera z &lt;a href=%1$s>Polityki prywatności&lt;/a>. W każdej chwili możesz wycofać zgodę na jej warunki w Ustawieniach.&lt;/Data></string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Odznacz wszystko</string>
+    <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Zaznacz elementy</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Więcej</string>
+    <string name="miuix_appcompat_cancel_description">Anuluj</string>
+    <string name="miuix_appcompat_confirm_description">Potwierdź</string>
+    <string name="miuix_appcompat_delete_description">Usuń</string>
+    <string name="miuix_appcompat_deselect_all">Odznacz</string>
+    <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
+    <string name="miuix_appcompat_search_input_description">Szukaj</string>
+    <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+    <string name="miuix_appcompat_select_all_description">Wybierz wszystko</string>
+    <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Przeciągnij w dół, aby odświeżyć</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Na razie to wszystko</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Na razie to wszystko</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
 </resources>
