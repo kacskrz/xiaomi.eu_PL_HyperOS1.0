@@ -467,7 +467,6 @@
   <string name="reset_dashboard_summary_onlyApps">Aplikacje można zresetować</string>
   <string name="right_edge">Prawa krawędź</string>
   <string name="ring_volume_title">Głośność dzwonka i powiadomień</string>
-  <string name="ringer_mode_setting_summary">Wycisz przychodzące połączenia i powiadomienia</string>
   <string name="ringer_mode_setting_title">Tryb cichy</string>
   <string name="roaming_warning">Mogą zostać naliczone opłaty za roaming.</string>
   <string name="roaming_warning_multiuser">Jeśli zezwolisz na roaming danych, mogą zostać naliczone znaczne opłaty.\n\nTo ustawienie dotyczy wszystkich użytkowników tego telefonu.</string>
