@@ -145,14 +145,6 @@
   <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
   <string name="miuix_appcompat_select_all_description">Wybierz wszystko</string>
   <string name="miuix_appcompat_select_item">Wybierz elementy</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Przeciągnij w dół, aby odświeżyć</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">To wszystko na teraz</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">To wszystko na teraz</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
   <string name="more">Więcej</string>
   <string name="send">Wyślij</string>
 </resources>

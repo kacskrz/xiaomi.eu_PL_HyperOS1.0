@@ -1517,7 +1517,6 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="restore_app_btn_restore">OK</string>
   <string name="restore_app_description_content">Dodaj skrót na pulpicie, aby szybciej uzyskiwać dostęp do swoich kontaktów.</string>
   <string name="restore_app_description_title">Dodać \"Kontakty\" na pulpit?</string>
-  <string name="cancel">Anuluj</string>
   <string name="contacts_trash_activity_hint">Wybierz kontakty do przywrócenia</string>
   <string name="contacts_trash_activity_title">Ostatnio usunięte kontakty</string>
   <string name="contacts_trash_delete">Usuń</string>
