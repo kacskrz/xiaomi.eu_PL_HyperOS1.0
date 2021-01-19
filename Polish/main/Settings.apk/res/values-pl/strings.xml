@@ -8467,4 +8467,16 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="wifi_enhanced_handover">Rozszerzone przełączanie się</string>
   <string name="wifi_enhanced_handover_summary">Szybko przełączaj się pomiędzy różnymi punktami dostępowymi</string>
   <string name="mute_media_sound_summary">Gry, muzyka, filmy i inne aplikacje</string>
+  <string name="miheadet_up_music">Poprzedni</string>
+  <string name="miheadset_active">Energetyczne</string>
+  <string name="miheadset_bright">Żywe</string>
+  <string name="miheadset_call_assist">Mi SI</string>
+  <string name="miheadset_define_self">Własne</string>
+  <string name="miheadset_enhence_high">Ulepszone soprany</string>
+  <string name="miheadset_enhence_low">Ulepszony bas</string>
+  <string name="miheadset_formal">Standardowe</string>
+  <string name="miheadset_local_ota">Aktualizacja</string>
+  <string name="miheadset_next">Następny</string>
+  <string name="miheadset_play_pause">Odtwórz/Pauza</string>
+  <string name="miheadset_soft">Spokojne</string>
 </resources>

@@ -3763,7 +3763,7 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="exit_dialog_release_memory_positive_button">Zamknij</string>
   <string name="exit_dialog_release_memory_title"><Data>Przyspiesz pracę urządzenia o &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
   <string name="menu_item_notification_optimize_text">Zajęte %d%%</string>
-  <string name="menu_text_deepclean_summary" formatted="false">Zajęte %1s/%2s</string>
+  <string name="menu_text_deepclean_summary">Zajęte %1$s/%2$s</string>
   <string name="stranger_call_dialog_add_block_list">Zablokuj</string>
   <string name="stranger_call_dialog_add_contacts">Nowy kontakt</string>
   <string name="stranger_call_dialog_notification_body">Dodaj ten numer do kontaktów bądź go zablokuj</string>
@@ -4016,8 +4016,8 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
   <string name="pp_hide_app_form_desktop">Usuń ikony aplikacji z pulpitu</string>
   <string name="pp_icon_layout_status_bg_content_enable">Chronione</string>
   <string name="pp_icon_layout_status_bg_content_unable">Wył.</string>
-  <string name="pp_interception_net_visit_content_manager">Ochrona Galerii i aplikacji społecznościowych</string>
-  <string name="pp_interception_net_visit_content_manager_detail">Wybierz aplikacje, które mogą uzyskiwać dostęp do Twoich zdjęć, filmów i historii połączeń</string>
+  <string name="pp_interception_net_visit_content_manager">Ochrona Galerii i plików z aplikacji społecznościowych</string>
+  <string name="pp_interception_net_visit_content_manager_detail">Wybierz aplikacje, które mogą uzyskiwać dostęp do Galerii oraz plików z aplikacji społecznościowych</string>
   <string name="pp_local_msg">Informacje o lokalizacji</string>
   <string name="pp_manage_apps_location_information">Zezwól aplikacjom na dostęp do Twojej lokalizacji</string>
   <string name="pp_one_app_two_use">Używaj dwóch kont bez wylogowywania się</string>
@@ -4040,7 +4040,7 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
   <string name="pp_prohibit_use_camera_in_background_detail">"Domyślnie aplikacje nie będą mogły korzystać z aparatu w tle"</string>
   <string name="pp_record_msg">Nagrywanie dźwięku</string>
   <string name="pp_safe_box">Prywatna przestrzeń</string>
-  <string name="pp_safe_box_detail">Aby chronić Twoją prywatność, MIUI pozwoli Ci kontrolować to, jakie aplikacje uzyskują dostep do Twoich zdjęć oraz historii czatu z mediów społecznościowych.</string>
+  <string name="pp_safe_box_detail">Prywatne elementy są szyfrowane i przechowywane tylko na tym urządzeniu. Inne osoby nie będą mogły uzyskać do nich dostępu, gdy korzystają one z tego urządzenia, podobnie jak samo urządzenie nie będzie mogło używać tych elementów w jakikolwiek sposób.</string>
   <string name="pp_safe_box_summary">Ochrona prywatności</string>
   <string name="pp_safe_input_pwd">Chroń swoje hasła</string>
   <string name="pp_safe_keyboard">Bezpieczna klawiatura</string>
@@ -4269,8 +4269,8 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="ac_notification_action_text">Włącz</string>
     <string name="app_behavior_access_gallery">Aplikacja %1s uzyskała dostęp do Galerii</string>
     <string name="app_behavior_access_gallery_single">Ta aplikacja uzyskała dostęp do Galerii</string>
-    <string name="app_behavior_access_sociality">Aplikacja %1s uzyskała dostęp do wiadomości w aplikacjach społecznościowych</string>
-    <string name="app_behavior_access_sociality_single">Ta aplikacja uzyskała dostęp do wiadomości w aplikacjach społecznościowych</string>
+    <string name="app_behavior_access_sociality">Aplikacja %1s uzyskała dostęp do aplikacji społecznościowych</string>
+    <string name="app_behavior_access_sociality_single">Ta aplikacja uzyskała dostęp do aplikacji społecznościowych</string>
     <string name="app_behavior_delete_pic">Aplikacja %1s usunęła elementy z Galerii</string>
     <string name="app_behavior_delete_pic_single">Ta aplikacja usunęła elementy z Galerii</string>
     <string name="confirm_allow_all_permission">Zezwolić wszystkim aplikacjom na korzystanie z tego uprawnienia?</string>
@@ -4321,4 +4321,32 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="in_delete">Usuwanie…</string>
     <string name="in_recover">Przywracanie…</string>
     <string name="setting_online_service">Usługi online</string>
+    <string name="gb_adv_touch_adv_title">Tryb klasyczny (domyślny)</string>
+    <string name="gb_adv_touch_custom1">Odpowiedź na przesunięcia</string>
+    <string name="gb_adv_touch_custom2">Czułość dotyku</string>
+    <string name="gb_adv_touch_custom3">Dokładność celowania</string>
+    <string name="gb_adv_touch_custom4">Stabilność dotknięć</string>
+    <string name="gb_adv_touch_custom_tip1">Większa reakcja na przeciągnięcia zwiększa szybkość reakcji na ten gest, a mniejsza reakcja na przeciągnięcia sprawia, że gest jest bardziej stabilny.</string>
+    <string name="gb_adv_touch_custom_tip2">Większa czułość dotyku zwiększa szybkość reakcji na ten gest, a mniejsza czułość sprawia, że gest jest bardziej stabilny.</string>
+    <string name="gb_adv_touch_custom_tip3">Większa dokładność celowania sprawia, że mniejsze przeciągnięcia są bardziej precyzyjne, a mniejsza dokładność celowania sprawia, że ten gest jest bardziej stabilny.</string>
+    <string name="gb_adv_touch_custom_tip4">Większa stabilność dotknięć sprawia, że są one bardziej stałe, a niższa stabilność dotknięć zwiększa precyzyjność mniejszych przeciągnięć.</string>
+    <string name="gb_adv_touch_custom_title">Dostosuj</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Ten tryb jest przeznaczony dla profesjonalnych graczy. Zwykli gracze mogą uznać go za niewygodny.</string>
+    <string name="gb_adv_touch_mode_select_title">Gesty</string>
+    <string name="gb_adv_touch_pro_title">Tryb Pro</string>
+    <string name="gtb_spring_festival_back_game">Wróć do gry</string>
+    <string name="gtb_spring_festival_goto_gameturbo">Zobacz</string>
+    <string name="summary_password_manager">Menedżer haseł pozwala na szyfrowanie Twoich haseł i przechowywanie ich w chmurze</string>
+    <string name="title_password_manager">Włącz Menedżer haseł</string>
+    <string name="vb_video_super_division">Skaluj rozdzielczość</string>
+    <string name="vb_video_super_division_desc">"Skaluj rozdzielczość w górę automatycznie, gdy jest ona niższa bądź równa 720p.
+
+Funkcja zwiększa zużycie energii.
+
+Nie działa ona z interpolowaniem obrazu.
+Włączenie jednej z funkcji wyłączy wszystkie inne."</string>
+    <string name="vb_video_super_division_tips">"Nadal niewyraźnie?
+Wypróbuj skalowanie rozdzielczości!"</string>
+    <string name="videobox_settings_timing">Alert dot. przerw</string>
+    <string name="videobox_settings_timing_desc">Co godzinę otrzymuj alert przypominający o konieczności zrobienia sobie przerwy</string>
 </resources>

@@ -193,4 +193,14 @@
         <item quantity="other">Zaznacz tylko %1$d</item>
         <item quantity="one">Zaznacz tylko %1$d</item>
     </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">Trwale usunięto %d kontaktów</item>
+        <item quantity="one">Trwale usunięto %d kontakt</item>
+        <item quantity="few">Trwale usunięto %d kontakty</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">Pomyślnie przywrócono %d kontaktów</item>
+        <item quantity="one">Pomyślnie przywrócono %d kontakt</item>
+        <item quantity="few">Pomyślnie przywrócono %d kontakty</item>
+    </plurals>
 </resources>

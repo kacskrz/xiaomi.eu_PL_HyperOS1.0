@@ -208,4 +208,11 @@
         <item>Plan nielimitowany</item>
         <item>Plan dzienny</item>
     </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Najniższa</item>
+        <item>Niska</item>
+        <item>Normalna</item>
+        <item>Wysoka</item>
+        <item>Najwyższa</item>
+    </string-array>
 </resources>

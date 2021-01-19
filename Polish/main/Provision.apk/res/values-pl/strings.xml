@@ -296,4 +296,8 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="provision_back">Wstecz</string>
   <string name="provision_next">Dalej</string>
   <string name="provision_skip_underline">Pomiń</string>
+  <string name="privacy_provision_more">Dowiedz się więcej o ochronie prywatności</string>
+  <string name="privacy_provision_summary">Ochrona prywatności przyświeca każdemu produktowi Xiaomi</string>
+  <string name="privacy_provision_text">Xiaomi zobowiązuje się szanować i chronić Twoją prywatność. Stawiając na badania i rozwój w dziedzinie bezpieczeństwa informacji, firma nieustannie pracuje nad ulepszaniem metod, praktyk i rozwiązań technicznych, które chronią Twoje dane. Dzieli się również swoimi najnowszymi osiągnięciami z jej partnerami, aby zapewnić prywatność wszędzie tam, gdzie się znajdujesz.</string>
+  <string name="privacy_provision_title">Prywatność</string>
 </resources>

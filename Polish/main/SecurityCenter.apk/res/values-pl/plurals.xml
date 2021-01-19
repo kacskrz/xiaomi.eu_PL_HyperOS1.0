@@ -1017,4 +1017,15 @@ Możesz teraz uzyskać bezpłatną, %d-dniową wersję próbną!"</item>
         <item quantity="few">%d minuty temu</item>
         <item quantity="many">%d minut temu</item>
     </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Gratulacje! Odblokowano %s easter eggów."</item>
+        <item quantity="one">"Gratulacje! Odblokowano %s easter egg."</item>
+        <item quantity="few">"Gratulacje! Odblokowano %s easter eggi."</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Oglądasz filmy już od %d godzin.
+Zrób sobie przerwę!"</item>
+        <item quantity="one">"Oglądasz filmy już od %d godziny.
+Zrób sobie przerwę!"</item>
+    </plurals>
 </resources>

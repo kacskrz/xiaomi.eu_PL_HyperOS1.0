@@ -1640,7 +1640,7 @@ Zacznij od nowa."</string>
   <string name="share_card_title_free_training">Treningi freestyle</string>
   <string name="share_card_title_high_interval_training">HIIT</string>
   <string name="share_card_title_indoor_rinding">Rowerek %s</string>
-  <string name="share_card_title_indoor_running">Bieganie %s</string>
+  <string name="share_card_title_indoor_running">Bieg w pomieszczeniu %s</string>
   <string name="share_card_title_open_swimming">Pływanie na otwartych wodach %s</string>
   <string name="share_card_title_outdoor_hiking">Wędrówka %s</string>
   <string name="share_card_title_outdoor_riding">Jazda na rowerze %s</string>
@@ -1659,4 +1659,9 @@ Zacznij od nowa."</string>
   <string name="sport_tts_1">Raz</string>
   <string name="sport_tts_2">Dwa</string>
   <string name="sport_tts_3">Trzy</string>
+  <string name="dialog_new_version_title">Dostępna aktualizacja</string>
+  <string name="discard_update">Nie, dzięki</string>
+  <string name="find_new_verision">Dostępna wersja %s</string>
+  <string name="immediately_experience">Aktualizuj</string>
+  <string name="location_perm_description">W celu śledzenia treningów na zewnątrz i rejestrowania tras</string>
 </resources>
