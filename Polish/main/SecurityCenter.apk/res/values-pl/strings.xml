@@ -3678,7 +3678,7 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="first_settings_share_enable_subtitle">Elementy, które udostępnisz w serwisach społecznościowych (np. WeChat) będą mieć oznakę MIUI</string>
   <string name="first_settings_subtitle">Oto kilka opcji bezpiecznego udostępniania dostępnych dla Ciebie:</string>
   <string name="first_settings_title">Chroń swoją prywatność</string>
-  <string name="loading_text_format" formatted="false">Usuwanie prywatnych informacji ze zdjęć (%d/%d)…</string>
+  <string name="loading_text_format" formatted="false">Sprawdzanie, czy zdjęcia zawierają prywatne dane (%d/%d)…</string>
   <string name="notification_garbage_clean_botton_text">Wyczyść</string>
   <string name="notification_garbage_clean_hint">Wyczyść pamięć</string>
   <string name="notification_garbage_clean_size">Zwolnij %s</string>
@@ -4349,4 +4349,17 @@ Włączenie jednej z funkcji wyłączy wszystkie inne."</string>
 Wypróbuj skalowanie rozdzielczości!"</string>
     <string name="videobox_settings_timing">Alert dot. przerw</string>
     <string name="videobox_settings_timing_desc">Co godzinę otrzymuj alert przypominający o konieczności zrobienia sobie przerwy</string>
+    <string name="app_manager_tab_app">Aplikacje</string>
+    <string name="app_manager_tab_manager">Zarządzaj</string>
+    <string name="app_manager_to_appstore">Odkryj więcej aplikacji</string>
+    <string name="app_manager_uninstall_button_text">Odinstaluj</string>
+    <string name="app_manager_uninstall_notify_title">Odinstaluj rzadko używane aplikacje</string>
+    <string name="app_manager_update">Aktualizuj</string>
+    <string name="app_manager_updater_notify_message">Aktualizuj aplikacje, aby uzyskać nowe funkcje</string>
+    <string name="card_uninstall_button_text">Zarządzaj</string>
+    <string name="card_uninstall_summary">Odinstaluj rzadko używane aplikacje, aby zwolnić miejsce</string>
+    <string name="card_uninstall_title_1">Odinstaluj rzadko używane aplikacje</string>
+    <string name="power_center_battery_health_poor_tip">Wygląda na to, że kondycja baterii jest niska. Sprawdź ją w serwisie</string>
+    <string name="power_center_battery_health_summary">Naładuj do pełna i rozładuj urządzenie %1$d-%2$d razy, aby poprawić dokładność statystyk kondycji baterii</string>
+    <string name="summary_app_update_new">Aktualizuj aplikacje, aby uzyskać nowe funkcje</string>
 </resources>

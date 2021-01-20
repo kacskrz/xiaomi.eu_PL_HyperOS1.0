@@ -2641,4 +2641,13 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="zen_mode_warnings_keyguard_content">Powiadomienia i połączenia będą wyciszone, gdy urządzenie jest zablokowane</string>
     <string name="zen_mode_warnings_quit_immediately">Wyłącz</string>
     <string name="zen_mode_warnings_title">Włączone Godziny ciszy</string>
+    <string name="accessibility_enter_lock_setting">Dotknij, aby otworzyć ustawienia Tapet blokady</string>
+    <string name="accessibility_keyboard_delete_button">Usuń</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps Lock</string>
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Liczby</string>
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Symbole</string>
+    <string name="accessibility_keyboard_ok_button">Enter</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Litery</string>
+    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Blokada symboli</string>
+    <string name="accessibility_keyguard_face_unlock_view">Odblokowanie twarzą</string>
 </resources>

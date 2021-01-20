@@ -1028,4 +1028,23 @@ Zrób sobie przerwę!"</item>
         <item quantity="one">"Oglądasz filmy już od %d godziny.
 Zrób sobie przerwę!"</item>
     </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="one">Odinstaluj %d aplikację</item>
+        <item quantity="few">Odinstaluj %d aplikacje</item>
+        <item quantity="other">Odinstaluj %d aplikacji</item>
+    </plurals>
+    <plurals name="app_manager_updater_notify_title">
+        <item quantity="one">Dostępne aktualizacje: %d</item>
+        <item quantity="other">Dostępne aktualizacje: %d</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="few">&lt;Data>Można odinstalować &lt;font color=#F22424>%d&lt;/font> aplikacje&lt;/Data></item>
+        <item quantity="other">&lt;Data>Można odinstalować &lt;font color=#F22424>%d&lt;/font> aplikacji&lt;/Data></item>
+        <item quantity="one">&lt;Data>Można odinstalować &lt;font color=#F22424>%d&lt;/font> aplikację&lt;/Data></item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Zaktualizuj &lt;font color=#F22424>%d&lt;/font> aplikacji&lt;/Data></item>
+        <item quantity="one">&lt;Data>Zaktualizuj &lt;font color=#F22424>%d&lt;/font> aplikację&lt;/Data></item>
+        <item quantity="few">&lt;Data>Zaktualizuj &lt;font color=#F22424>%d&lt;/font> aplikacje&lt;/Data></item>
+    </plurals>
 </resources>

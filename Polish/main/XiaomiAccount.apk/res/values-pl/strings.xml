@@ -722,4 +722,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="provision_next">Dalej</string>
   <string name="provision_skip_underline">Pomiń</string>
   <string name="passport_login_other_way">Inne metody logowania</string>
+  <string name="password_view_hide_password">Ukryj hasło</string>
+  <string name="password_view_show_password">Pokaż hasło</string>
+  <string name="weixin_login">Zaloguj się przez WeChat</string>
 </resources>

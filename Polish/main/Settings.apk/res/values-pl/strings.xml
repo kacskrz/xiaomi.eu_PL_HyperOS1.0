@@ -8478,4 +8478,6 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miheadset_next">Następny</string>
   <string name="miheadset_play_pause">Odtwórz/Pauza</string>
   <string name="miheadset_soft">Spokojne</string>
+  <string name="accessibility_back">Wstecz</string>
+  <string name="accessibility_clear">Wyczyść</string>
 </resources>

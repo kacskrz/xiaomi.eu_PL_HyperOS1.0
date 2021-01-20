@@ -660,4 +660,5 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="operation_will_not_show_after_delete">Po usunięciu rekordu nie będzie się on tutaj pojawiać.</string>
   <string name="recent_file">Ostatnie</string>
   <string name="recent_jump_to_privacy_fail_notice">To prywatny plik. Wróć na stronę startową i przeciągnij w dół, aby go wyświetlić.</string>
+  <string name="home_action_up">Wstecz</string>
 </resources>

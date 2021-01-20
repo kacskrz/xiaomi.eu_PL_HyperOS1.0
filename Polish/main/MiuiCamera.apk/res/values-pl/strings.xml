@@ -1362,7 +1362,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="module_name_super_moon">Superksiężyc</string>
   <string name="pixel_ai_108">AI 108 Mpx</string>
   <string name="pixel_ai_108_close">Zamknij tryb AI 108 Mpx</string>
-  <string name="pref_camera_dynamic_frame_rate_summary">Obniż ilość klatek na sekundę w słabych warunkach oświetleniowych z %1$d do %2$d kl./s w celu poprawy jakości filmów</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">Klatkaż zostanie automatycznie obniżony w słabych warunkach oświetleniowych, aby poprawić jakość filmów</string>
   <string name="pref_camera_dynamic_frame_rate_title">Dostosuj klatkaż</string>
   <string name="pref_camera_fastmotion_duration">Czas trwania</string>
   <string name="pref_camera_fastmotion_duration_description">Domyślnie czas trwania sesji jest nieograniczony. Możesz także ustawić minutnik, który zakończy sesję w odpowiednim momencie.</string>
@@ -1792,4 +1792,6 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="close_night_algo_toast_thermal">Schłodź urządzenie, aby móc ustawić ekspozycję</string>
   <string name="pref_super_night_se_summary">Jeśli aparat rozpozna ciemną scenerię, automatycznie uruchomi on Tryb nocny i poprawi jakość zdjęcia za pomocą algorytmów</string>
   <string name="pref_super_night_se_title">Automatyczny Tryb nocny</string>
+  <string name="pref_camera_predictive_shutter_description">Śledź ruch, aby zminimalizować zamazania na zdjęciach dzieci, psów i innych aktywnych obiektów</string>
+  <string name="pref_camera_predictive_shutter_title">Śledzenie ruchu</string>
 </resources>

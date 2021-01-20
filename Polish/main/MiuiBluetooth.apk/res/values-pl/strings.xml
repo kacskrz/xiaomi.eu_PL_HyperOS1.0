@@ -157,4 +157,5 @@ Aby dowiedzieć się więcej szczegółów, sprawdź ustawienia."</string>
   <string name="fast_connect_same_accout_devices_title">"Połączono %1$s z innymi urządzeniami"</string>
   <string name="fast_connect_sound_normalizer_content">"Lepszy dźwięk podczas rozmów.
 Szyszy protokół transmisji."</string>
+  <string name="fast_connect_same_accout_ok">Rozumiem</string>
 </resources>
