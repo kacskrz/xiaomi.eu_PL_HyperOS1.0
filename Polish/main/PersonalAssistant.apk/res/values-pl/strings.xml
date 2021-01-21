@@ -1203,4 +1203,16 @@
      <string name="card_expand_note_toast_save_done_new">Zapisano w Notatkach</string>
      <string name="save_to_note_new">Zapisz w Notatkach</string>
      <string name="toast_reach_text_limit_truncate_new">Notatka jest za długa. Jej nadmiarowa część została usunięta.</string>
+     <string name="app_sports_fav_cancel_multi_league_content" formatted="false">"The club's schedule in %s and %s will no longer be pushed to you"</string>
+     <string name="app_sports_title_tip">Dane dot. spotkań dostarcza firma trzecia</string>
+     <string name="app_health_setting_music_name_fire">Kominek</string>
+     <string name="app_health_setting_music_name_forest">Las</string>
+     <string name="app_health_setting_music_name_night">Letnia noc</string>
+     <string name="app_health_setting_music_name_ocean">Plaża</string>
+     <string name="app_health_setting_music_name_rain">Mżawka</string>
+     <string name="app_health_setting_text_default_duration">Czas trwania</string>
+     <string name="app_health_setting_text_download_alert_message">"Wygląda na to, że nie połączono się z siecią Wi-Fi. Czy chcesz użyć %1$s danych mobilnych do pobrania elementów?"</string>
+     <string name="app_health_setting_text_sleep_aid_settings">Sen</string>
+     <string name="app_health_setting_text_title">Zdrowie</string>
+     <string name="app_travel_card_none">Brak danych</string>
 </resources>

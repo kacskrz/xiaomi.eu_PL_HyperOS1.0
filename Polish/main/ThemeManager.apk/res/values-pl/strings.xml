@@ -1183,4 +1183,19 @@ Co godzinę na ekranie będzie się pojawiać nowa tapeta."</string>
   <string name="uninstall_theme">Usunąć \"Motywy\" z pulpitu?</string>
   <string name="uninstall_theme_description">"Motywy to aplikacja systemowa. Dostarcza ona różne możliwości dostosowania interfejsu takie jak motywy, tapety czy ikony. Nadal będzie można z niej korzystać za pomocą Ustawień - nawet po usunięciu skrótu z pulpitu."</string>
   <string name="super_wallpaper_list_footer_text">Bądź czujny - nowe wydania wkrótce!</string>
+  <string name="can_not_apply_error">"Ten format wideo nie jest wspierany"</string>
+  <string name="can_not_apply_size_invalid">Te wideo jest za duże</string>
+  <string name="exo_controls_fullscreen_description">Tryb pełnoekranowy</string>
+  <string name="font_compat_dialog_buy_confirm">Kup</string>
+  <string name="font_compat_dialog_buy_content">Niektóre aplikacje mogą nie wspierać innych czcionek niż domyślne. Ten problem być może zostanie rozwiązany przez aktualizację systemu. Czy chcesz kupić tę czcionkę?</string>
+  <string name="font_compat_dialog_cancel">Anuluj</string>
+  <string name="font_compat_dialog_download_confirm">Pobierz</string>
+  <string name="font_compat_dialog_download_content">Niektóre aplikacje mogą nie wspierać innych czcionek niż domyślne. Ten problem być może zostanie rozwiązany przez aktualizację systemu. Czy chcesz pobrać tę czcionkę?</string>
+  <string name="font_compat_dialog_title">Problemy z kompatybilnością</string>
+  <string name="font_compat_dialog_trial_confirm">Wypróbuj</string>
+  <string name="font_compat_dialog_trial_content">Niektóre aplikacje mogą nie wspierać innych czcionek niż domyślne. Ten problem być może zostanie rozwiązany przez aktualizację systemu. Czy chcesz wypróbować tę czcionkę?</string>
+  <string name="hide_retract_button">Ukryj</string>
+  <string name="scrollable_wallpaper_close">Wyłączono przewijanie</string>
+  <string name="scrollable_wallpaper_open">Włączono przewijanie</string>
+  <string name="set_as_colorring">Ustaw jako własny dzwonek</string>
 </resources>

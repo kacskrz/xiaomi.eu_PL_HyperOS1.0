@@ -15,4 +15,10 @@
         <item>Wieczór</item>
         <item>Wieczór</item>
     </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 minut</item>
+        <item>20 minut</item>
+        <item>30 minut</item>
+        <item>60 minut</item>
+    </string-array>
 </resources>
