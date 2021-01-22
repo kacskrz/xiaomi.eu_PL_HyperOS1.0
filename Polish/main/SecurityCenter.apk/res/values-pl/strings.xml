@@ -377,7 +377,7 @@
   <string name="app_manager_permission_startself_title">Autostart</string>
   <string name="app_manager_permission_summary_reject">Ogranicz wszystko</string>
   <string name="app_manager_powerkeeper_miui_auto">Oszczędzanie baterii MIUI</string>
-  <string name="app_manager_powerkeeper_no_bg">Ogranicz aktywność w tle</string>
+  <string name="app_manager_powerkeeper_no_bg">Zamknij aplikację</string>
   <string name="app_manager_powerkeeper_no_restrict">Bez ograniczeń</string>
   <string name="app_manager_powerkeeper_restrict_bg">Ogranicz aplikacje w tle</string>
   <string name="app_manager_pref_ads">Pokazuj rekomendacje</string>
