@@ -279,7 +279,7 @@
   <string name="choose_some_people">Wybierz album twarzy od %s</string>
   <string name="choose_video_compress_quality">Wybierz rozdzielczość</string>
   <string name="chooser_fragment_mishare_title">Wyślij do</string>
-  <string name="cleaner_empty_value_description">Wszystko ok</string>
+  <string name="cleaner_empty_value_description">Wszystko OK</string>
   <string name="cleaner_photo_pick_delete_selected">Usuń wybrane</string>
   <string name="cleaner_raw_action">Wyświetl szczegóły</string>
   <string name="cleaner_raw_description">Zwolnij miejsce, usuwając duże zdjęcia w formacie RAW</string>

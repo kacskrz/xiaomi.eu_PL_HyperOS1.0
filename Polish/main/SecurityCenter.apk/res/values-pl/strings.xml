@@ -278,7 +278,7 @@
   <string name="app_behavior_warning_content">"Zakończ ten proces, jeśli nie zezwoliłeś na taką akcję"</string>
   <string name="app_behavior_warning_location_title">Aplikacja %1s uzyskuje Twoją lokalizację</string>
   <string name="app_bg_restrict_dialog_message">Ograniczenie łączności z siecią dla aplikacji może powodować ich nieprawidłową pracę</string>
-  <string name="app_check_no_issue">Wszystko ok. Bez problemów z baterią!</string>
+  <string name="app_check_no_issue">Wszystko OK. Bez problemów z baterią!</string>
   <string name="app_detail">Szczegóły</string>
   <string name="app_error_tip_for_launcher">Komponenty sprzętowe urządzenia lub wersja systemu Android mogą powodować problemy ze zgodnością, przez co niektóre aplikacje mogą pracować niepoprawnie, zawieszać się lub zostać zatrzymane. Jeśli napotkasz takie problemy, podziel się swoją opinią z twórcami aplikacji.</string>
   <string name="app_error_tip_for_store">Komponenty sprzętowe urządzenia lub wersja systemu Android mogą powodować problemy ze zgodnością, przez co niektóre aplikacje mogą nie potrafić się zainstalować. Jeśli napotkasz takie problemy lub aplikacje nie będą pracować poprawnie, zawieszać się lub zostaną zatrzymane, poczekaj aż twórca aplikacji naprawi błędy, a następnie zainstaluj ponownie.</string>
@@ -1434,7 +1434,7 @@ Twojej gamingowej sesji"</string>
   <string name="hints_scan_danger_result">Wykryto zagrożenie. Napraw.</string>
   <string name="hints_scan_progress">Ukończono: %d</string>
   <string name="hints_scan_result_no_finish">Skanowanie nie zostało ukończone. Uruchom ponownie.</string>
-  <string name="hints_scan_result_phone_safe">Wszystko ok</string>
+  <string name="hints_scan_result_phone_safe">Wszystko OK</string>
   <string name="hints_scan_result_risk">Wykryto zagrożenie</string>
   <string name="hints_scan_result_safe">Bezpiecznie</string>
   <string name="hints_scanning">Skanowanie…</string>
@@ -1684,7 +1684,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="memory_clean_cleaning_title">Czyszczenie cache</string>
   <string name="memory_clean_click_tip">Optymalizacja pamięci</string>
   <string name="memory_clean_memory_size_tip">Cache</string>
-  <string name="memory_clean_no_need_clean">Wszystko ok</string>
+  <string name="memory_clean_no_need_clean">Wszystko OK</string>
   <string name="memory_clean_no_running_process">Brak zadań</string>
   <string name="memory_clean_running_process_title">Monitorowanie aplikacji (%d)</string>
   <string name="memory_cleaned_memory_info">"Dostępny RAM: "</string>
@@ -2458,7 +2458,7 @@ W trakcie kalibracji, MIUI wyśle wiadomość tekstową do Twojego operatora, ab
   <string name="quick_optimize_no_fix_issue_subtitle">"Nie można wydłużyć czasu na baterii"</string>
   <string name="quick_optimize_no_fix_issue_title">"Nie można naprawić problemów z baterią"</string>
   <string name="quick_optimize_no_issue">Bez problemów z baterią</string>
-  <string name="quick_optimize_no_issue_subtitle">Wszystko ok</string>
+  <string name="quick_optimize_no_issue_subtitle">Wszystko OK</string>
   <string name="quick_optimize_no_issue_title">"Nie wykryto problemów z baterią"</string>
   <string name="quick_optimize_sub_battery_text">Pozostało ok. %s</string>
   <string name="quick_optimize_sub_summary_text">Dodano %s do czasu na baterii</string>
@@ -2979,7 +2979,7 @@ Jeśli nie modyfikowałeś MIUI w żaden sposób, upewnij się, że wiesz skąd 
   <string name="text_button">OK</string>
   <string name="text_day"/>
   <string name="text_lock_info">Narysuj wzór odblokowania</string>
-  <string name="there_is_no">Wszystko ok</string>
+  <string name="there_is_no">Wszystko OK</string>
   <string name="third_application">Z Google Play</string>
   <string name="third_desktop_dialog_content">Launchery z nieznanych źródeł mogą powodować problemy takie jak wyciek danych, duże użycie baterii, lagowanie itd. Tylko zweryfikowane przez MIUI aplikacje mogą być ustawione jako Twój domyślny launcher.</string>
   <string name="third_desktop_dialog_ok">Rozumiem</string>
