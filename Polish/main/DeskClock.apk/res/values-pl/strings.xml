@@ -459,4 +459,5 @@
   <string name="action_for_restart">Powtórz</string>
   <string name="action_for_snooze">Drzemka</string>
   <string name="action_for_stop">Zatrzymaj</string>
+  <string name="voice_add_alarm">Dodaj alarm komendą głosową</string>
 </resources>

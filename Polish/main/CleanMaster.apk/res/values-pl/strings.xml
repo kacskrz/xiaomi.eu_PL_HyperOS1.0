@@ -856,4 +856,5 @@
     <string name="video_clean_wechat_clean_title">Czyszczenie WeChata</string>
     <string name="video_clean_image_clean_summary">Usuń duplikaty zdjęć, aby zwolnić miejsce</string>
     <string name="video_clean_image_clean_title">Usuń duplikaty zdjęć</string>
+    <string name="junk_temporary_file">Pliki tymczasowe</string>
 </resources>

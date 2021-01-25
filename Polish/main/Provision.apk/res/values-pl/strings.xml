@@ -66,7 +66,7 @@
   <string name="font_hint_large">Domyślny rozmiar czcionki</string>
   <string name="framework_introduction">Framework Usług Xiaomi pozwala Ci na korzystanie z konta Xiaomi, Mi Push, Mi Stats oraz MIUI BI.</string>
   <string name="framwork_base_service">Aby dostarczać Ci te usługi, Framework Usług Xiaomi (Konto Xiaomi, Mi Push, Mi Stats, MIUI BI) wymaga połączenia z Internetem, a także dostępu do Twojego numeru telefonu, lokalizacji, numerów IMEI i IMSI, a także zezwolenia na korzystanie z powiadomień push na Twoim urządzeniu.</string>
-  <string name="google_service_introduction">Aby móc działać normalnie, sklep Google Play wymaga połączenia z Internetem, a także dostępu do Twojej lokalizacji, możliwości nagrywania dźwięku, wykonywania połączeń, dostępu do wydarzeń z kalendarza, historii rozmów, sensorów, pamięci, aparatu, informacji o urządzeniu oraz kontach. </string>
+  <string name="google_service_introduction">Aby móc działać normalnie, sklep Google Play wymaga połączenia z Internetem, a także dostępu do Twojej lokalizacji, możliwości wysyłania SMS-ów i MMS-ów, nagrywania dźwięku, wykonywania połączeń, dostępu do wydarzeń z kalendarza, historii rozmów, sensorów, pamięci, aparatu, informacji o urządzeniu oraz kontach. </string>
   <string name="ime_privacy_policy">Polityka Prywatności wybranej klawiatury</string>
   <string name="ime_privacy_policy_no_network">"Nie można połączyć się z siecią. Wyświetl Politykę Prywatności z %s."</string>
   <string name="input_method_category">"Wybierz domyślną klawiaturę do wprowadzania tekstu.
@@ -242,7 +242,7 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="title_fingerprint">Ustaw blokadę</string>
   <string name="two_dimensional_code_scan">Skanuj kod QR</string>
   <string name="user_agreement">Warunki użytkowania</string>
-  <string name="user_agreement_declare">Przed użyciem MIUI musisz przeczytać i zaakceptować Umowę użytkownika oraz Politykę prywatności Xiaomi. W trakcie aktywacji urządzenia Usługa aktywacji kart SIM Xiaomi, Chmura Xiaomi, Systemowy Launcher, Częste zwroty, Usługa tłumaczenia, funkcja Znajdź urządzenie, Bateria i wydajność, Menedżer uprawnień oraz MIUI Daemon połączą się z siecią.</string>
+  <string name="user_agreement_declare">Przed użyciem MIUI musisz przeczytać i zaakceptować Umowę użytkownika oraz Politykę prywatności Xiaomi. W trakcie aktywacji urządzenia Usługa aktywacji kart SIM Xiaomi, Chmura Xiaomi, usługa Kopii zapasowej, Systemowy launcher, Częste zwroty, Usługa tłumaczenia, funkcja Znajdź urządzenie, Bateria i wydajność, Menedżer uprawnień oraz MIUI Daemon połączą się z siecią.</string>
   <string name="voice_assist_advice">Mi AI pozwala używać kontrolować telefon za pomocą głosu, ale zużywa więcej energii (+1% na godzinę).</string>
   <string name="voice_assist_condition">"Możesz używać Mi AI, gdy:
 1. ekran jest włączony,

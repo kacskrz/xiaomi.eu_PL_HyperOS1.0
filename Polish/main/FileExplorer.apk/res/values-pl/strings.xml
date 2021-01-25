@@ -814,4 +814,17 @@ and never miss the cool new ones!"</string>
     <string name="operation_paste_to_folder">Skopiuj do folderu</string>
     <string name="operation_send_to_pc">Przenieś na komputer</string>
     <string name="more">Więcej</string>
+    <string name="access_limit">Ograniczenia dostępu</string>
+    <string name="access_tips">"Nie można uzyskać dostępu do elementu. Spróbuj użyć zamiast tego domyślnego frameworka Androida."</string>
+    <string name="close">Zamknij</string>
+    <string name="go_ahead">Otwórz</string>
+    <string name="mirror_no_recommended_app">Brak zalecanych aplikacji</string>
+    <string name="mirror_open_mode_error">"Nie udało się załadować elementów"</string>
+    <string name="mirror_open_mode_loading">Chwileczkę…</string>
+    <string name="operation_open_mode">Otwórz z...</string>
+    <string name="qq_msg">"Ze względu na ograniczenia Androida 11, aplikacja Pliki nie może uzyskać dostępu do dokumentów QQ."</string>
+    <string name="qq_title">"Nie można uzyskać dostępu do dokumentów QQ"</string>
+    <string name="send">Wyślij</string>
+    <string name="wechat_msg">"Ze względu na ograniczenia Androida 11, aplikacja Pliki nie może uzyskać dostępu do dokumentów otwieranych w WeChacie. Otwórz i zapisz dokumenty w WeChacie, aby pojawiły się one tutaj."</string>
+    <string name="wechat_title">"Nie można uzyskać dostępu do dokumentów WeChata"</string>
 </resources>
