@@ -816,7 +816,6 @@ and never miss the cool new ones!"</string>
     <string name="more">Więcej</string>
     <string name="access_limit">Ograniczenia dostępu</string>
     <string name="access_tips">"Nie można uzyskać dostępu do elementu. Spróbuj użyć zamiast tego domyślnego frameworka Androida."</string>
-    <string name="close">Zamknij</string>
     <string name="go_ahead">Otwórz</string>
     <string name="mirror_no_recommended_app">Brak zalecanych aplikacji</string>
     <string name="mirror_open_mode_error">"Nie udało się załadować elementów"</string>
