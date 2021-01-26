@@ -210,4 +210,25 @@
     <string name="miui_main_ring_title">Dźwięki powiadomień inspirowane naturą</string>
     <string name="miui_main_update_end_title">Witaj w MIUI</string>
     <string name="miui_main_update_success_title_12_5">Witaj w MIUI 12.5</string>
+    <string name="copy">Kopiuj</string>
+    <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
+    <string name="expand_button_title">Zaawansowane</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Odznacz wszystko</string>
+    <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Zaznacz elementy</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Więcej</string>
+    <string name="miuix_appcompat_cancel_description">Anuluj</string>
+    <string name="miuix_appcompat_confirm_description">Potwierdź</string>
+    <string name="miuix_appcompat_delete_description">Usuń</string>
+    <string name="miuix_appcompat_deselect_all">Odznacz</string>
+    <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
+    <string name="miuix_appcompat_search_input_description">Szukaj</string>
+    <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+    <string name="miuix_appcompat_select_all_description">Wybierz wszystko</string>
+    <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+    <string name="not_set">Nie ustawiono</string>
+    <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
+    <string name="v7_preference_off">WYŁ.</string>
+    <string name="v7_preference_on">WŁ.</string>
 </resources>

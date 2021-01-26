@@ -555,7 +555,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="doodle_guide_dialog_skip">Pomiń</string>
   <string name="doodle_guide_dialog_title">Szkicowanie</string>
   <string name="doodle_guide_quick_shape_hint" formatted="false">Przytrzymaj szkic przez %d–%d sekund, aby automatycznie dostosować kreski</string>
-  <string name="excerpt">Utwórz fragment</string>
+  <string name="excerpt">Fragmenty</string>
   <string name="excerpt_bubble_tips">Skopiowany tekst i zapisane obrazy będą zapisywane w Notatkach</string>
   <string name="excerpt_link_bubble_tips">Dotknij, aby zapisać w Notatkach</string>
   <string name="excerpt_note">Moje fragmenty</string>

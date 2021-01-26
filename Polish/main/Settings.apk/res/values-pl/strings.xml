@@ -8480,4 +8480,6 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miheadset_soft">Spokojne</string>
   <string name="accessibility_back">Wstecz</string>
   <string name="accessibility_clear">Wyczyść</string>
+  <string name="miheadset_connect_toast_tips">Najpierw podłącz słuchawki</string>
+  <string name="miheadset_unpair_device_text">Akcesorium %1$s zostanie rozparowane z każdego urządzenia powiązanego z tym kontem Xiaomi.</string>
 </resources>

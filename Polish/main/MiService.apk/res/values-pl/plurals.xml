@@ -57,4 +57,9 @@
     <plurals name="miui_guide_accessibility_page_current_count">
         <item quantity="other">Strona %1$d z %2$d</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Zaznaczono %d elementów</item>
+        <item quantity="one">Zaznaczono %d element</item>
+        <item quantity="few">Zaznaczono %d elementy</item>
+    </plurals>
 </resources>
