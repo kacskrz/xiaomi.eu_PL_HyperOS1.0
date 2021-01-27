@@ -1794,4 +1794,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="pref_super_night_se_title">Automatyczny Tryb nocny</string>
   <string name="pref_camera_predictive_shutter_description">Śledź ruch, aby zminimalizować zamazania na zdjęciach dzieci, psów i innych aktywnych obiektów</string>
   <string name="pref_camera_predictive_shutter_title">Śledzenie ruchu</string>
+  <string name="live_music_title_unknown">Nieznany utwór</string>
+  <string name="live_music_author_unknown">Nieznany artysta</string>
+  <string name="live_music_cut_prompt">Wybierz ściezkę dźwiękową</string>
 </resources>
