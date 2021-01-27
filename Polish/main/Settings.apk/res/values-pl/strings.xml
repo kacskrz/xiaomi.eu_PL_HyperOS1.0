@@ -8482,4 +8482,19 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="accessibility_clear">Wyczyść</string>
   <string name="miheadset_connect_toast_tips">Najpierw podłącz słuchawki</string>
   <string name="miheadset_unpair_device_text">Akcesorium %1$s zostanie rozparowane z każdego urządzenia powiązanego z tym kontem Xiaomi.</string>
+  <string name="miheadset_fitness_check">Test dopasowania wkładek</string>
+  <string name="miheadset_fitness_check_checking">Testowanie…</string>
+  <string name="miheadset_fitness_check_continue">Dalej</string>
+  <string name="miheadset_fitness_check_restart">Od nowa</string>
+  <string name="miheadset_fitness_check_result_dialog1">Przed rozpoczęciem testu umieść słuchawki w obydwu uszach.</string>
+  <string name="miheadset_fitness_check_result_dialog2">Przed rozpoczęciem testu zakończ trwającą rozmowę.</string>
+  <string name="miheadset_fitness_check_result_dialog_title">Uwaga</string>
+  <string name="miheadset_fitness_check_result_not_ok">Złe dopasowanie</string>
+  <string name="miheadset_fitness_check_result_ok">Dobre dopasowanie</string>
+  <string name="miheadset_fitness_check_result_summary1">Te dopasowanie jest dla Ciebie dobre!</string>
+  <string name="miheadset_fitness_check_result_summary2">Popraw wkładkę bądź włóż inną i przeprowadź test ponownie.</string>
+  <string name="miheadset_fitness_check_start">Start</string>
+  <string name="miheadset_fitness_check_summary1">Dowiedz się, które wkładki zapewniają najlepsze dopasowanie i wrażenia słuchowe.</string>
+  <string name="miheadset_fitness_check_summary2">Umieść słuchawki w obydwu uszach i dotknij przycisku \"Start\".</string>
+  <string name="miheadset_fitness_check_summary3">Postaraj się, aby słuchawki nie wypadły z uszu.</string>
 </resources>

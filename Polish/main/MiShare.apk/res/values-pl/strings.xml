@@ -91,9 +91,8 @@
     <string name="mi_drop">Mi Share</string>
     <string name="mishare_folder_in_file_explorer">Menedżer plików > MiShare</string>
     <string name="mishare_service_channel_desc">Powiadomienia o procesach Mi Share</string>
-    <string name="mishare_settings_summary_international">"Możesz używać Mi Share do przesyłania elementów do urządzeń w pobliżu.
-W tym momencie aplikacja jest kompatybilna jedynie z telefonami Xiaomi oraz Redmi.
-Wkrótce z Mi Share będą kompatybilne urządzenia marek: OPPO, vivo, realme i innych. Możesz sprawdzić listę kompatybilnych urządzeń na stronie narzędzia."</string>
+    <string name="mishare_settings_summary_international">"Mi Share pozwala Ci na bezprzewodowe wysyłanie plików do innych urządzeń znajdujących się w pobliżu.
+Funkcja jest wspierana przez telefony OPPO, vivo, realme, a także innych producentów. Możesz sprawdzić listę wspieranych urządzeń na oficjalnej stronie wybranej marki."</string>
     <string name="mishare_state_protection">Włącz Mi Share automatycznie</string>
     <string name="mishare_state_protection_summary">Włącz funkcję Mi Share automatycznie, gdy zostanie włączone Bluetooth bądź Wi-Fi</string>
     <string name="mishare_state_protection_summary_china">Włącz funkcję Mi Share automatycznie, gdy zostanie włączone Bluetooth bądź Wi-Fi</string>
@@ -186,4 +185,6 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="error_mirror_working">"Nie można udostępniać elementów w trakcie udostępniania ekranu"</string>
   <string name="error_remote_mirror_working">"Inne urządzenie nie może zaakceptować transferu w trakcie udostępniania ekranu"</string>
   <string name="send_files_by">Udostępnij pliki przez</string>
+  <string name="error_permission_denied">Aby móc korzystać z tej funkcji, przyznaj Mi Share wszystkie wymagane uprawnienia w Ustawieniach.</string>
+  <string name="nearby_share">Udostępnianie w pobliżu</string>
 </resources>

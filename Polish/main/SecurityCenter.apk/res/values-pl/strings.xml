@@ -4362,4 +4362,6 @@ Wypróbuj skalowanie rozdzielczości!"</string>
     <string name="power_center_battery_health_poor_tip">Wygląda na to, że kondycja baterii jest niska. Sprawdź ją w serwisie</string>
     <string name="power_center_battery_health_summary">Naładuj do pełna i rozładuj urządzenie %1$d-%2$d razy, aby poprawić dokładność statystyk kondycji baterii</string>
     <string name="summary_app_update_new">Aktualizuj aplikacje, aby uzyskać nowe funkcje</string>
+    <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
+    <string name="send">Wyślij</string>
 </resources>
