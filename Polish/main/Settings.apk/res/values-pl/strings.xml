@@ -8304,9 +8304,9 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="resolution_qhd_summary" formatted="false">%d×%d (bardziej ostre)</string>
   <string name="save_battery_mode">Oszczędzaj energię z rozdzielczością WQHD+</string>
   <string name="save_battery_mode_summary">Automatycznie zmieniaj rozdzielczość, aby zaoszczędzić energię</string>
-  <string name="headset_connectiong">Łączenie...</string>
-  <string name="headset_remove_message">Czy chcesz usunąć te urządzenie ze swojego konta?</string>
-  <string name="headset_remove_message_indicate">Wszystkie urządzenia powiązane z kontem Xiaomi zostaną usunięte</string>
+  <string name="headset_connectiong">Łączenie…</string>
+  <string name="headset_remove_message">Rozparować urządzenie?</string>
+  <string name="headset_remove_message_indicate">Urządzenie %1$s zostanie rozparowane ze wszystkich urządzeń powiązanych z tym kontem Xiaomi.</string>
   <string name="headset_unsaved_device">Usuń urządzenie</string>
   <string name="miheadset_Box">Box</string>
   <string name="miheadset_LeftEar">Lewa</string>
@@ -8497,4 +8497,18 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miheadset_fitness_check_summary1">Dowiedz się, które wkładki zapewniają najlepsze dopasowanie i wrażenia słuchowe.</string>
   <string name="miheadset_fitness_check_summary2">Umieść słuchawki w obydwu uszach i dotknij przycisku \"Start\".</string>
   <string name="miheadset_fitness_check_summary3">Postaraj się, aby słuchawki nie wypadły z uszu.</string>
+  <string name="headset_unsaved_devices">Używane na innych urządzeniach</string>
+  <string name="miheadset_anc_indicate">Podłącz i sparuj słuchawki</string>
+  <string name="miheadset_audio_mode">Jakość dźwięku</string>
+  <string name="miheadset_audio_mode_high">Wysoka</string>
+  <string name="miheadset_audio_mode_listen">Niska</string>
+  <string name="miheadset_audio_mode_normal">Normalna</string>
+  <string name="miheadset_auto_ack_mode">"Automatycznie odbieraj połączenia, gdy nosisz słuchawki"</string>
+  <string name="miheadset_auto_ack_mode_summary">Automatycznie odbieraj połączenia</string>
+  <string name="miheadset_double_click_key_mode">Dwukrotne dotknięcie</string>
+  <string name="miheadset_minus">Głośność-</string>
+  <string name="miheadset_multi_connect_mode">Łączność z kilkoma urządzeniami na raz</string>
+  <string name="miheadset_multi_connect_mode_summary">Połącz się z różnymi urządzeniami w tym samym momencie</string>
+  <string name="miheadset_plus">Głośność+</string>
+  <string name="miheadset_triple_click_key_mode">Trzykrotne dotknięcie</string>
 </resources>
