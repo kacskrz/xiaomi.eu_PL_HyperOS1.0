@@ -1323,4 +1323,9 @@ Sprawdź, czy hasło w aplikacji jest włączone. Jeśli tak jest, przejdź na s
   <string name="sms_not_found_tip">Nie udało się uruchomić aplikacji SMS. Uruchom ją ręcznie i wyślij SMS weryfikacyjny.</string>
   <string name="webview_not_found">Strona nie mogła zostać otwarta, ponieważ nie znaleziono komponentu WebView.</string>
   <string name="account_settings_only_notify_inbox">Powiadamiaj tylko o e-mailach z folderu Odebrane</string>
+  <string name="conversation_report_un_spam">To nie spam</string>
+  <string name="email_no_snippet">[Brak treści wiadomości]</string>
+  <string name="general_preference_trash_contact">Informuj o spamie</string>
+  <string name="general_preference_trash_contact_sum">Zarządzaj e-mailami od nadawców, którzy zostali zgłoszeni jako spam przez dużą ilość użytkowników</string>
+  <string name="web_view_load_error_tip">Nie można wyświetlić treści tego e-maila ze względu na pewne problemy. Możesz spróbować zgłosić ten problem twórcom aplikacji.</string>
 </resources>
