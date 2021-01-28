@@ -320,7 +320,7 @@
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
         <item quantity="other">Kolaże mogą zawierać od %1$d do %2$d zdjęć</item>
-        <item quantity="one">Kolaże mogą zawierać od %1$d do %2$d zdjęć</item> <!-- tbh it's idiot -->
+        <item quantity="one">Kolaże mogą zawierać od %1$d do %2$d zdjęć</item>
     </plurals>
     <plurals name="burst_image_download_item_title_count">
         <item quantity="other">%d zdjęć</item>
