@@ -4359,9 +4359,14 @@ Wypróbuj skalowanie rozdzielczości!"</string>
     <string name="card_uninstall_button_text">Zarządzaj</string>
     <string name="card_uninstall_summary">Odinstaluj rzadko używane aplikacje, aby zwolnić miejsce</string>
     <string name="card_uninstall_title_1">Odinstaluj rzadko używane aplikacje</string>
-    <string name="power_center_battery_health_poor_tip">Wygląda na to, że kondycja baterii jest niska. Sprawdź ją w serwisie</string>
+    <string name="power_center_battery_health_poor_tip">Wygląda na to, że kondycja baterii jest niska. Sprawdź ją w serwisie.</string>
     <string name="power_center_battery_health_summary">Naładuj do pełna i rozładuj urządzenie %1$d-%2$d razy, aby poprawić dokładność statystyk kondycji baterii</string>
     <string name="summary_app_update_new">Aktualizuj aplikacje, aby uzyskać nowe funkcje</string>
     <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
     <string name="send">Wyślij</string>
+    <string name="antivirus_third_privacy_title">Polityki prywatności firm trzecich</string>
+    <string name="gamebox_macro">Kombosy</string>
+    <string name="gb_game_macro_bubble_tips">Wypróbuj kombosy</string>
+    <string name="gb_game_macro_toast_tips">"Wypróbuj kombosy!
+Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
 </resources>
