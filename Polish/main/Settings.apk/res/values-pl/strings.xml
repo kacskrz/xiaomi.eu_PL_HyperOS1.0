@@ -8511,4 +8511,9 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miheadset_multi_connect_mode_summary">Połącz się z różnymi urządzeniami w tym samym momencie</string>
   <string name="miheadset_plus">Głośność+</string>
   <string name="miheadset_triple_click_key_mode">Trzykrotne dotknięcie</string>
+  <string name="var_font_switch_title">Zmienna grubość czcionki</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Nie</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">Tak</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">Aby zmienić te ustawienie, konieczne jest ponowne uruchomienie urządzenia.</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Uruchomić ponownie?</string>
 </resources>
