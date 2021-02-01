@@ -2650,4 +2650,5 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="accessibility_keyboard_symbol_board_shift2letter_button">Litery</string>
     <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Blokada symboli</string>
     <string name="accessibility_keyguard_face_unlock_view">Odblokowanie twarzą</string>
+    <string name="control_center_notification_switch_guide">Przeciągnij, aby przełączyć się między Centrum kontroli i Panelu powiadomień</string>
 </resources>

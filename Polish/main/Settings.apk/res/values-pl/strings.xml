@@ -8516,4 +8516,6 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">Tak</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">Aby zmienić te ustawienie, konieczne jest ponowne uruchomienie urządzenia.</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Uruchomić ponownie?</string>
+  <string name="haptic_video_content_description">Demonstracja wideo reakcji haptycznych</string>
+  <string name="wlan_scanner_unresizeble">"Nie można wyświetlić ustawień Wi-Fi w trybie Dzielonego ekranu"</string>
 </resources>

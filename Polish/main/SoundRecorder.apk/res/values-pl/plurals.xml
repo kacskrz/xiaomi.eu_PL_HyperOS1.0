@@ -69,4 +69,9 @@
         <item quantity="other">Usunięte elementy mogą być przechowywane w koszu przez maks. %d dni</item>
         <item quantity="one">Usunięte elementy mogą być przechowywane w koszu przez maks. %d dzień</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Zaznaczono %d elementów</item>
+        <item quantity="one">Zaznaczono %d element</item>
+        <item quantity="few">Zaznaczono %d elementy</item>
+    </plurals>
 </resources>

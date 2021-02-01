@@ -826,4 +826,10 @@ and never miss the cool new ones!"</string>
     <string name="send">Wyślij</string>
     <string name="wechat_msg">"Ze względu na ograniczenia Androida 11, aplikacja Pliki nie może uzyskać dostępu do dokumentów otwieranych w WeChacie. Otwórz i zapisz dokumenty w WeChacie, aby pojawiły się one tutaj."</string>
     <string name="wechat_title">"Nie można uzyskać dostępu do dokumentów WeChata"</string>
+    <string name="cdd_message">"Ze względu na ograniczenia Androida 11 nie jest możliwe wyświetlenie niektórych wygenerowanych w aplikacjach firm trzecich plików w aplikacji Pliki."</string>
+    <string name="cdd_title">Uwaga</string>
+    <string name="mirror_can_not_drag_mask_new">Przeciągnij elementy do %s</string>
+    <string name="mirror_side_bar_tab_tranfer_name">Transfery i pobierania</string>
+    <string name="transfer">Transfery i pobierania</string>
+    <string name="transfer_summary">Pobierania i elementy przesłane przez Mi Share</string>
 </resources>

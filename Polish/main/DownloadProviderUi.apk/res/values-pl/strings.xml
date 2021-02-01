@@ -428,4 +428,7 @@
   <string name="thunder_download_speedup">Przyspieszanie prędkości za pomocą Xunlei…</string>
   <string name="download_description_content">"Aplikacja Pobrane jest aplikacją systemową. Po jej usunięciu z pulpitu nie będzie można zarządzać pobraniami."</string>
   <string name="download_description_title">Usunąć \"Pobrane\" z pulpitu?</string>
+  <string name="edit_hint2">Wprowadź adres HTTP, FTP, magnet lub ed2k</string>
+  <string name="new_add_bt2">Dodaj zadanie torrent</string>
+  <string name="task_add">Dodawanie zadania…</string>
 </resources>
