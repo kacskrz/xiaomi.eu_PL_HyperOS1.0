@@ -8416,7 +8416,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="provision_skip_underline">Pomiń</string>
   <string name="screen_enhance_engine_ai_note_2">%d. Ulepszone mogą zostać tylko zdjęcia z aplikacji Galeria.</string>
   <string name="screen_enhance_engine_ai_note_3">"%d. Funkcja nie będzie działać, jeśli wybierzesz opcje wyświetlania oryginalnych kolorów bądź zastosowane są zaawansowane poprawki."</string>
-  <string name="screen_enhance_engine_memc_note_1">Funkcja zwiększa zużycie energii.</string>
+  <string name="screen_enhance_engine_memc_note_1">%d. Funkcja zwiększa zużycie energii.</string>
   <string name="screen_enhance_engine_sr_note">Funkcja zwiększa zużycie energii.</string>
   <string name="sound_haptic_settings">Dźwięk i dotyk</string>
   <string name="sound_settings_tab_haptic">Dotyk</string>
@@ -8518,4 +8518,21 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Uruchomić ponownie?</string>
   <string name="haptic_video_content_description">Demonstracja wideo reakcji haptycznych</string>
   <string name="wlan_scanner_unresizeble">"Nie można wyświetlić ustawień Wi-Fi w trybie Dzielonego ekranu"</string>
+  <string name="color_game_led_applications_title">Wybierz aplikacje</string>
+  <string name="color_game_led_applications_title_summary">Możesz ograniczyć korzystanie z diody LED poszczególnym aplikacjom</string>
+  <string name="color_game_led_battery_title">Włącz diodę w trakcie ładowania</string>
+  <string name="color_game_led_charging_summary">Dioda zostanie wyłączona, gdy telefon się naładuje</string>
+  <string name="color_game_led_end_time">Zakończenie</string>
+  <string name="color_game_led_game_mode_summary">Wyświetlaj efekty dla gier, gdy włączone jest Game Turbo</string>
+  <string name="color_game_led_game_mode_title">Włącz w Game Turbo</string>
+  <string name="color_game_led_incall_pulse_title">Włącz, gdy nadejdzie połączenie</string>
+  <string name="color_game_led_notification_pulse_title">Dioda będzie informować o powiadomieniach, gdy ekran będzie wyłączony</string>
+  <string name="color_game_led_remind_title">Przypomnienia</string>
+  <string name="color_game_led_special_scene_title">Efekty specjalne</string>
+  <string name="color_game_led_start_time">Rozpoczęcie</string>
+  <string name="color_game_led_summary">"Nie działa w trybie Godziny ciszy"</string>
+  <string name="color_game_led_time_title">Czas włączania diody</string>
+  <string name="color_game_led_title">Dioda LED</string>
+  <string name="screen_enhance_engine_memc_note_2">%d. Funkcja działa wyłącznie wtedy, gdy włączony jest pasek z narzędziami wideo.</string>
+  <string name="setup_password_skip">Pomiń</string>
 </resources>

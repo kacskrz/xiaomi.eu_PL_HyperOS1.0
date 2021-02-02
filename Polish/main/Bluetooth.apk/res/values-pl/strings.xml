@@ -221,4 +221,5 @@
   <string name="bt_audio_share_notification_content">Dotknij, aby zobaczyć opcje</string>
   <string name="bt_audio_share_notification_title">Udostępnianie dźwięku</string>
   <string name="notice_audio_share_disconnected">Telefon nie udostępnia dźwięku (przerwane połączenie)</string>
+  <string name="snapdragon_sound_notification_content">Urządzenie wspiera technologię Qualcomm® Snapdragon Sound™</string>
 </resources>
