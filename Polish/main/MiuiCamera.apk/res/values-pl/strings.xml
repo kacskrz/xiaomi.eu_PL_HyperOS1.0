@@ -1797,4 +1797,22 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="live_music_title_unknown">Nieznany utwór</string>
   <string name="live_music_author_unknown">Nieznany artysta</string>
   <string name="live_music_cut_prompt">Wybierz ściezkę dźwiękową</string>
+  <string name="beauty_fragment_tab_name_makeups">Makijaż</string>
+  <string name="beauty_makeups_bluefemale">Zimny</string>
+  <string name="beauty_makeups_gentleman">Srebrny</string>
+  <string name="beauty_makeups_nude">Naturalny</string>
+  <string name="beauty_makeups_pinkfemale">Płatek</string>
+  <string name="beauty_makeups_solid">Kontur</string>
+  <string name="beauty_makeups_toughman">Brąz</string>
+  <string name="beauty_origin_skincolor">Oryginalny</string>
+  <string name="beauty_skincolor_caramel">Karmel</string>
+  <string name="beauty_skincolor_lotus">Słońce</string>
+  <string name="beauty_skincolor_matte">Matowy</string>
+  <string name="beauty_skincolor_milktea">Kremowy</string>
+  <string name="beauty_skincolor_peach">Brzoskwinia</string>
+  <string name="beauty_skincolor_pink">Kwiat</string>
+  <string name="beauty_skincolor_wheat">Pszenica</string>
+  <string name="beauty_skincolor_white">Ivory</string>
+  <string name="edit_color_skin">Odcień skóry</string>
+  <string name="edit_solid">Kontur</string>
 </resources>
