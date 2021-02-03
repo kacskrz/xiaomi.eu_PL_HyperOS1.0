@@ -95,4 +95,9 @@
         <item quantity="few">Znaleziono %1$s zadania</item>
         <item quantity="many">Znaleziono %1$s zadań</item>
     </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">%1$s elementów</item>
+        <item quantity="one">%1$s element</item>
+        <item quantity="few">%1$s elementy</item>
+    </plurals>
 </resources>

@@ -356,10 +356,10 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="todo_edit_btn_today">Dziś</string>
   <string name="todo_edit_btn_tomorrow">Jutro</string>
   <string name="todo_edit_text_hint">Wpisz opis zadania</string>
-  <string name="todo_event_description_a_week_ago">Tydzień temu</string>
-  <string name="todo_event_description_a_week_later">Za tydzień</string>
-  <string name="todo_event_description_day_after_tomorrow">Za 2 dni</string>
-  <string name="todo_event_description_day_before_yesterday">2 dni temu</string>
+  <string name="todo_event_description_a_week_ago">%1$d tydzień temu</string>
+  <string name="todo_event_description_a_week_later">Za %1$d tydzień</string>
+  <string name="todo_event_description_day_after_tomorrow">Za %1$d dni</string>
+  <string name="todo_event_description_day_before_yesterday">%1$d dni temu</string>
   <string name="todo_event_description_today">Dziś</string>
   <string name="todo_event_description_tomorrow">Jutro</string>
   <string name="todo_event_description_yesterday">Wczoraj</string>
@@ -417,7 +417,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="toolbar_undo_description">Cofnij</string>
   <string name="toolbar_voice_description">Głos</string>
   <string name="trash_folder_name">Kosz</string>
-  <string name="trash_folder_reminder">Notatki zostaną trwale usunięte po 30 dniach.</string>
+  <string name="trash_folder_reminder">Notatki zostaną trwale usunięte po %1$d dniach.</string>
   <string name="unclassfied_folder_name">Bez kategorii</string>
   <string name="undo">Cofnij</string>
   <string name="unknown_source">Nieznane źródło</string>
