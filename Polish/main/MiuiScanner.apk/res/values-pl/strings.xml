@@ -486,7 +486,6 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="release_lock">Usuń blokadę</string>
   <string name="release_locked_word">Usuń blokadę słowa</string>
   <string name="take_the_word">Umieść słowo w prostokącie i przytrzymaj, aby je uzyskać</string>
-  <string name="wifi_low_version_prompt">Informacja dot. Wi-Fi</string>
   <string name="word_to_be_recognized_is_aligned_with_cross">Słowo do rozpoznania jest położone poziomo</string>
   <string name="word_translation">Tłumaczenie słów</string>
   <string name="document_list_is_empty">Brak elementów</string>
