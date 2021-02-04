@@ -256,4 +256,10 @@ dd.MM"</string>
     <string name="scheduled_style_summary">Ustaw własny czas</string>
     <string name="temporary_style_summary">Zalecane</string>
     <string name="aod_theme_store">Motywy Ekranu zawsze włączonego</string>
+    <string name="align_center_horizontally">Poziomy i wyśrodkowany</string>
+    <string name="align_center_vertically">Pionowy i wyśrodkowany</string>
+    <string name="align_left_horizontally">Poziomy i wyrównany do lewej</string>
+    <string name="align_left_vertically">Pionowy i wyrównany do lewej</string>
+    <string name="align_right_horizontally">Poziomy i wyrównany do prawej</string>
+    <string name="align_right_vertically">Pionowy i wyrównany do prawej</string>
 </resources>
