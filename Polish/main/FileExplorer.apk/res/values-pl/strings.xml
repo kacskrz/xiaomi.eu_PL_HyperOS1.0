@@ -232,7 +232,7 @@
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Kliknij tutaj&lt;/a&gt;aby otworzyć kosz w chmurze</string>
   <string name="found_router">Podłączono router</string>
   <string name="found_usb">Podłączono nośnik USB</string>
-  <string name="ftp_account_req_notice">Login i hasło mogą zwierać 4~16 znaków w tym cyfry i litery alfabetu. Wielkość liter ma znaczenie.</string>
+  <string name="ftp_account_req_notice">Login i hasło mogą zawierać od 4 do 16 znaków, w tym cyfry i litery alfabetu. Wielkość liter ma znaczenie.</string>
   <string name="ftp_anonymous_login">Anonimowe logowanie</string>
   <string name="ftp_anonymous_warning_msg">Włączenie tej opcji może zmniejszyć bezpieczeństwo działania serwera FTP. Czy chcesz włączyć mimo to tą opcję?</string>
   <string name="ftp_anonymous_warning_title">Uwaga</string>
