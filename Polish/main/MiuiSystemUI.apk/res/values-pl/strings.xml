@@ -2653,5 +2653,4 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="control_center_notification_switch_guide">Przeciągnij, aby przełączyć się między Centrum kontroli i Panelu powiadomień</string>
     <string name="bluetooth_le_audio_profile_summary_connected">Połączono z LE_AUDIO</string>
     <string name="bluetooth_le_audio_profile_summary_use_for">Użyj do LE_AUDIO</string>
-    <string name="quick_settings_sim_disabled">" (nieaktywna)"</string>
 </resources>
