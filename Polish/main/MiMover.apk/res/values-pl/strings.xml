@@ -232,7 +232,7 @@ Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi przepisami i polityk
     <string name="new_trans_intro_question_3">"3. Dlaczego narzędzie informuje o braku miejsca na starym urządzeniu?"</string>
     <string name="new_trans_intro_question_4">"4. Dlaczego niektóre aplikacje nie przeniosły się?"</string>
     <string name="new_trans_intro_question_5">"5. Dlaczego hasła z niektórych kont firm trzecich nie przeniosły się?"</string>
-    <string name="new_trans_intro_question_6">"6. Dlaczego dane aplikacji nie mogą być przeniesione z urządzenia firm trzecich?"</string>
+    <string name="new_trans_intro_question_6">"6. Dlaczego dane aplikacji nie mogą być przeniesione z urządzenia firmy trzeciej?"</string>
     <string name="new_trans_intro_question_7">"7. Jeśli wyjdę z Przenoszenia danych w trakcie przenoszenia, będę musiał je zacząć od nowa?"</string>
     <string name="new_trans_intro_title_new">"Na nowym urządzeniu: "</string>
     <string name="new_trans_intro_title_old">"Na starym urządzeniu: "</string>
