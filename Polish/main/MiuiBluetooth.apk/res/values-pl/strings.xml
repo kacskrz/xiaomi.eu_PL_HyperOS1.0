@@ -158,4 +158,6 @@ Aby dowiedzieć się więcej szczegółów, sprawdź ustawienia."</string>
   <string name="fast_connect_sound_normalizer_content">"Lepszy dźwięk podczas rozmów.
 Szyszy protokół transmisji."</string>
   <string name="fast_connect_same_accout_ok">Rozumiem</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">Połączono z LE_AUDIO</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">Użyj do LE_AUDIO</string>
 </resources>

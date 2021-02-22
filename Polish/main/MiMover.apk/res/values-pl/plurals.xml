@@ -170,4 +170,9 @@
         <item quantity="one">%d minuta</item>
         <item quantity="few">%d minuty</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Wybrano %d elementy</item>
+        <item quantity="one">Wybrano %d element</item>
+        <item quantity="few">Wybrano %d elementów</item>
+    </plurals>
 </resources>

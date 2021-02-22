@@ -1165,4 +1165,5 @@ Sprawdź kartę SIM."</string>
     <string name="miuix_appcompat_search_input_description">Szukaj</string>
     <string name="miuix_appcompat_select_all_description">Zaznacz wszystko</string>
     <string name="no_dialogue_yet">Wybierz konwersację</string>
+    <string name="rcs_chatbot_blocked_tip">"Ta miniaplikacja została zablokowana. Nie można rozpocząć konwersacji."</string>
 </resources>

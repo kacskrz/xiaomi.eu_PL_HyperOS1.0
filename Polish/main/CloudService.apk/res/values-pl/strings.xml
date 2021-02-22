@@ -1065,4 +1065,5 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="sync_page_route_not_now">Nie, dzięki</string>
   <string name="sync_page_route_ok">Włącz</string>
   <string name="sync_page_route_remember">"Nie pokazuj ponownie"</string>
+  <string name="micloud_setting_bluetooth_summary">Synchronizuj informacje o sparowanych urządzeniach z Chmurą</string>
 </resources>

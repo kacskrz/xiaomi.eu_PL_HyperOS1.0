@@ -587,4 +587,8 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="default_update_documents">Dostępna jest aktualizacja. Czy chcesz ją wykonać teraz?</string>
   <string name="note_mindnote_entrance_hint_newversion">"Zacznij pisać "</string>
   <string name="note_mindnote_entrance_icon_text_newversion">Utwórz mapę myśli</string>
+  <string name="sync_desc_state_complete">Zsynchronizowano z Chmurą</string>
+  <string name="sync_desc_state_complete_china">Wszystkie %1$s zostały zsynchronizowane</string>
+  <string name="sync_desc_state_disable">Włącz synchronizację z Chmurą</string>
+  <string name="sync_desc_state_running">Synchronizowanie z Chmurą</string>
 </resources>

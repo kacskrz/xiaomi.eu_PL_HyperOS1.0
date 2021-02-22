@@ -1832,7 +1832,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="network_connection_timed_out">Przekroczono czas żądania</string>
   <string name="pref_video_cast_setting_summary">Włącz, aby móc nagrywać jeden film kilkoma urządzeniamis</string>
   <string name="pref_video_cast_setting_title">Nagrywanie dwoma telefonami</string>
-  <string name="remote_online_connecting">Dostępne urządzenia</string>
+  <string name="remote_online_connecting">Wybierz urządzenie, aby się z nim połączyć</string>
   <string name="remote_online_disconnect_confirmation">Anulować łączenie się z %1$s?</string>
   <string name="remote_online_exit_confirmation">Wyłączyć Nagrywanie dwoma telefonami?</string>
   <string name="remote_online_exit_connecting">Rozłączyć się i wyjść z Nagrywania dwoma telefonami?</string>
@@ -1855,4 +1855,8 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="video_cast_service_name">Dwa telefony</string>
   <string name="video_cast_state_exited">Opuszczono Nagrywanie dwoma telefonami</string>
   <string name="video_cast_state_paused">Wstrzymano</string>
+  <string name="mimoji_eyelid">Powieki</string>
+  <string name="accessibility_preview_remote">Podgląd Nagrywania dwoma telefonami</string>
+  <string name="pref_multi_camera_dual_video_remote">Nagrywanie dwoma telefonami</string>
+  <string name="timerburst_pressed_hint">Dotknij ponownie, aby zatrzymać</string>
 </resources>

@@ -1218,7 +1218,7 @@ współczynnik próbkowania"</string>
   <string name="bootloader_locked_check_status">Dodaj konto</string>
   <string name="bootloader_locked_question_1">Dlaczego urządzenie jest odblokowane?</string>
   <string name="bootloader_locked_question_2">Co robić gdy urządzenie jest zablokowane na xiaomi.eu?</string>
-  <string name="bootloader_status_privacy_dialog_message">Mi Unlock wymaga dostępu do konta, CPU ID, numeru IMEI oraz IMSI do poprawnego działania. Xiaomi gromadzi, użytkuje i przetwarza Twoje dane zgodnie z naszą %s. Zgadzasz się?</string>
+  <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock potrzebuje dostępu do Twojego konta Xiaomi, CPU ID, IMEI, IMSI, aby działać normalnie. Przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>. Czy zgadzasz się na nie?</Data></string>
   <string name="bootloader_status_privacy_dialog_no">Anuluj</string>
   <string name="bootloader_status_privacy_dialog_title">Wymagane uprawnienia</string>
   <string name="bootloader_status_privacy_dialog_url_text">Polityką prywatności</string>
@@ -8220,8 +8220,8 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="dialog_check_button_negative">Spróbuj ponownie</string>
   <string name="dialog_check_button_positive">Połącz się z Wi-Fi</string>
   <string name="dialog_check_context">"Urządzenie nie może obecnie połączyć się z Internetem.
-1. Aby wybrać jedną z dostępnych sieci Wi-Fi, dotknij opcji \"Połącz się z Wi-Fi\".
-2. Jeśli chcesz użyć danych mobilnych, dotknij opcji \"Spróbuj ponownie\" lub usuń i włóż ponownie swoją kartę SIM."</string>
+· Aby wybrać jedną z dostępnych sieci Wi-Fi, dotknij opcji \"Połącz się z Wi-Fi\".
+· Jeśli chcesz użyć danych mobilnych, dotknij opcji \"Spróbuj ponownie\" lub usuń i włóż ponownie swoją kartę SIM."</string>
   <string name="dialog_check_title">"Nie można połączyć się z Internetem"</string>
   <string name="dialog_wifi_button_negative">Nie</string>
   <string name="dialog_wifi_button_positive">Tak</string>
@@ -8519,20 +8519,24 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="haptic_video_content_description">Demonstracja wideo reakcji haptycznych</string>
   <string name="wlan_scanner_unresizeble">"Nie można wyświetlić ustawień Wi-Fi w trybie Dzielonego ekranu"</string>
   <string name="color_game_led_applications_title">Wybierz aplikacje</string>
-  <string name="color_game_led_applications_title_summary">Możesz ograniczyć korzystanie z diody LED poszczególnym aplikacjom</string>
+  <string name="color_game_led_applications_title_summary">Wybierz aplikacje, z którymi będzie działać dioda LED</string>
   <string name="color_game_led_battery_title">Włącz diodę w trakcie ładowania</string>
   <string name="color_game_led_charging_summary">Dioda zostanie wyłączona, gdy telefon się naładuje</string>
   <string name="color_game_led_end_time">Zakończenie</string>
   <string name="color_game_led_game_mode_summary">Wyświetlaj efekty dla gier, gdy włączone jest Game Turbo</string>
   <string name="color_game_led_game_mode_title">Włącz w Game Turbo</string>
   <string name="color_game_led_incall_pulse_title">Włącz, gdy nadejdzie połączenie</string>
-  <string name="color_game_led_notification_pulse_title">Dioda będzie informować o powiadomieniach, gdy ekran będzie wyłączony</string>
-  <string name="color_game_led_remind_title">Przypomnienia</string>
+  <string name="color_game_led_notification_pulse_title">Dioda będzie informować o powiadomieniach w trybie Ekran zawsze włączony</string>
+  <string name="color_game_led_remind_title">Efekty</string>
   <string name="color_game_led_special_scene_title">Efekty specjalne</string>
   <string name="color_game_led_start_time">Rozpoczęcie</string>
   <string name="color_game_led_summary">"Nie działa w trybie Godziny ciszy"</string>
-  <string name="color_game_led_time_title">Czas włączania diody</string>
+  <string name="color_game_led_time_title">Zaplanuj włączanie diody</string>
   <string name="color_game_led_title">Dioda LED</string>
   <string name="screen_enhance_engine_memc_note_2">%d. Funkcja działa wyłącznie wtedy, gdy włączony jest pasek z narzędziami wideo.</string>
   <string name="setup_password_skip">Pomiń</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">Połączono z LE_AUDIO</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">Użyj do LE_AUDIO</string>
+  <string name="expert_detail_content_description">Zobacz szczegóły</string>
+  <string name="miui_master_clear_prompt_battery_low">"Nie można wykonać resetu do ustawień fabrycznych, gdy pozostało mniej niż %1$s baterii. Naładuj urządzenie, zanim wykonasz ten krok."</string>
 </resources>
