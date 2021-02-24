@@ -252,6 +252,7 @@
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">Znaleziono %1$d nowych zdjęć</item>
+        <item quantity="few">Znaleziono %1$d nowe zdjęcia</item>
         <item quantity="one">Znaleziono 1 nowe zdjęcie</item>
     </plurals>
     <plurals name="search_feedback_done_mark_false_positive">
