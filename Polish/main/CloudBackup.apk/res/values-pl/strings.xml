@@ -233,14 +233,14 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
   <string name="restore_home_failed">"Nie można przywrócić pulpitu"</string>
   <string name="restore_home_screen_apps">Przywróć z kopii w Chmurze</string>
   <string name="restore_init_description">Zacznij przywracanie</string>
-  <string name="restore_network_pause">%s (Kliknij, aby wznowić)</string>
+  <string name="restore_network_pause">Wstrzymano proces, aby zaoszczędzić dane mobilne. Kliknij, aby wznowić.</string>
   <string name="restore_network_unconnect">%s (Oczekiwanie na sieć)</string>
   <string name="restore_task_cancelling">Anulowanie…</string>
   <string name="restore_task_in_process">Przywracanie…</string>
   <string name="restore_task_unfinished">Nie udało się przywrócić</string>
   <string name="restore_unfinished">Przywracanie, spróbuj ponownie później</string>
   <string name="restoreing_file_tile">Przywracanie %d plików</string>
-  <string name="restoring_file_title_no_progress">Przywracanie plików…</string>
+  <string name="restoring_file_title_no_progress">Przywracanie aplikacji…</string>
   <string name="restoring_data">Przywracanie danych…</string>
   <string name="restoring_home_screen_apps">Przywracanie z Chmury Xiaomi…</string>
   <string name="restoring_settings">Przywracanie ustawień…</string>
@@ -307,4 +307,16 @@ Spróbuj ponownie"</string>
   <string name="provision_back">Wstecz</string>
   <string name="provision_next">Dalej</string>
   <string name="provision_skip_underline">Pomiń</string>
+  <string name="btn_restore_cancel_app_app">"Nie przywracaj danych WeChata"</string>
+  <string name="cloud_backup_detail_app_data">Skopiuj dane WeChata</string>
+  <string name="cloud_backup_detail_app_data_summary">Wykonaj kopię zapasową historii czatu, plików i innych elementów</string>
+  <string name="confirm_restore_app_data">Nadpisywanie danych aplikacji</string>
+  <string name="confirm_restore_app_data_summary">Przywrócenie danych WeChata nadpisze obecne dane aplikacji znajdujące się na urządzeniu. Przywrócić mimo to?</string>
+  <string name="dialog_backup_failed">"Nie udało się wykonać kopii"</string>
+  <string name="dialog_buy_cloud_space">Ulepsz</string>
+  <string name="dialog_cloud_space_not_enough">Ta kopia zapasowa wymaga %1$s miejsca w Chmurze. Ulepsz swój plan, aby móc ją wykonać.</string>
+  <string name="hint_restore_wechat_data">Uwaga: Dane WeChata mogą nie zostać przywrócone w niektórych przypadkach ze względu na problemy z kompatybilnością.</string>
+  <string name="restore_detail_category_app_data">Dane WeChata</string>
+  <string name="restore_detail_category_app_data_summary">Historia czatu, pliki i inne elementy (%s)</string>
+  <string name="restoring_app_data_title_no_progress">Przywracanie danych WeChata…</string>
 </resources>

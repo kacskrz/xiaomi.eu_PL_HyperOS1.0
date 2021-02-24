@@ -1859,4 +1859,6 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="accessibility_preview_remote">Podgląd Nagrywania dwoma telefonami</string>
   <string name="pref_multi_camera_dual_video_remote">Nagrywanie dwoma telefonami</string>
   <string name="timerburst_pressed_hint">Dotknij ponownie, aby zatrzymać</string>
+  <string name="audio_map_summary_tip">Monitoruj głośność lewego i prawego kanału w czasie rzeczywistym i dostosowuj ją za pomocą suwaka</string>
+  <string name="histogram_summary_tip">Wyświetlaj ekspozycję w czasie rzeczywistym</string>
 </resources>

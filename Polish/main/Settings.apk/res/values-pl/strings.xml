@@ -8558,4 +8558,10 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="wifi_assistant_prompt_button">Rozumiem</string>
   <string name="wifi_assistant_prompt_checkbox">Pytaj o pozwolenie na korzystanie z danych mobilnych</string>
   <string name="wifi_assistant_prompt_summary">"Gdy sieć Wi-Fi, z którą jest obecnie połączone Twoje urządzenie, nie może połączyć się z Internetem, połączy się ono z innymi dostępnymi sieciami Wi-Fi bądź skorzysta z danych mobilnych."</string>
+  <string name="miheadset_ancBalance">Średnie</string>
+  <string name="miheadset_ancClosed">Wył.</string>
+  <string name="miheadset_ancDecrease">Niskie</string>
+  <string name="miheadset_ancIncrease">Wysokie</string>
+  <string name="miheadset_transparentMode">Przezroczystość</string>
+  <string name="miheadset_voiceIncrease">Wzmocnienie głosu</string>
 </resources>

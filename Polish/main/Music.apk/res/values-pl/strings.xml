@@ -1354,4 +1354,7 @@ Jeśli nie zgadzasz się na korzystanie ze wspomnianych usług, niektóre funkcj
   <string name="user_profile_created_playlist_title">Własne playlisty</string>
   <string name="user_profile_fans_count">Obserwujący: %s</string>
   <string name="user_profile_follow_count">Obserwuje: %s</string>
+  <string name="app_description_content">"Muzyka to aplikacja systemowa zawierająca odtwarzacz audio, która umożliwia Ci zarządzanie plikami audio. Po usunięciu skrótu nadal będzie można odtwarzać pliki audio."</string>
+  <string name="app_description_title">Usunąć \"Muzykę\" z pulpitu?</string>
+  <string name="talkback_cut">Edytor dzwonków</string>
 </resources>

@@ -160,4 +160,8 @@ Szyszy protokół transmisji."</string>
   <string name="fast_connect_same_accout_ok">Rozumiem</string>
   <string name="bluetooth_le_audio_profile_summary_connected">Połączono z LE_AUDIO</string>
   <string name="bluetooth_le_audio_profile_summary_use_for">Użyj do LE_AUDIO</string>
+  <string name="miheadset_notification_Box">Zestaw</string>
+  <string name="miheadset_notification_Disconnect">Rozłącz</string>
+  <string name="miheadset_notification_LeftEar">L</string>
+  <string name="miheadset_notification_RightEar">P</string>
 </resources>
