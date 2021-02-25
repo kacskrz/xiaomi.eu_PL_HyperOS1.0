@@ -300,4 +300,10 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="privacy_provision_summary">Ochrona prywatności przyświeca każdemu produktowi Xiaomi</string>
   <string name="privacy_provision_text">Xiaomi zobowiązuje się szanować i chronić Twoją prywatność. Stawiając na badania i rozwój w dziedzinie bezpieczeństwa informacji, firma nieustannie pracuje nad ulepszaniem metod, praktyk i rozwiązań technicznych, które chronią Twoje dane. Dzieli się również swoimi najnowszymi osiągnięciami z jej partnerami, aby zapewnić prywatność wszędzie tam, gdzie się znajdujesz.</string>
   <string name="privacy_provision_title">Prywatność</string>
+  <string name="permission_MIUIDaemon_introduction">Demon MIUI umożliwia przesłanie danych z urządzenia wtedy, gdy jego ekran jest uszkodzony.</string>
+  <string name="permission_read_contacts">Dostęp do kontaktów</string>
+  <string name="permission_read_contacts_introduction">W celu weryfikacji tożsamości</string>
+  <string name="permission_read_message">Dostęp do SMS-ów</string>
+  <string name="permission_read_message_introduction">W celu weryfikacji własności urządzenia</string>
+  <string name="service_name_MIUIDaemon">Demon MIUI</string>
 </resources>
