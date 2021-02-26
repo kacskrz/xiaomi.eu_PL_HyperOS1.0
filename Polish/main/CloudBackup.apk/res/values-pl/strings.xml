@@ -295,11 +295,11 @@ Info: dane zainstalowanych aplikacji nie będą zachowane w Chmurze."</string>
   <string name="backup_remind_buy_cloud_space">Ulepsz swój plan Chmury</string>
   <string name="backup_remind_clean_disk_space">Zwolnij miejsce w pamięci</string>
   <string name="backup_remind_cloud_space_cost">Rozmiar kopii zapasowej: %s</string>
-  <string name="backup_warning_reason_cloud_space_not_enough">"Nie można wykonać kopii zapasowej"</string>
+  <string name="backup_warning_reason_cloud_space_not_enough">"Nie można skopiować"</string>
   <string name="backup_warning_reason_disk_space_not_enough">"Brak miejsca
-Nie można wykonać kopii zapasowej"</string>
+Nie można skopiować"</string>
   <string name="backup_warning_reason_network_error">"Błąd sieci
-Nie można wykonać kopii zapasowej"</string>
+Nie można skopiować"</string>
   <string name="backup_warning_reason_no_server_response">"Połączenie przerwane
 Spróbuj ponownie"</string>
   <string name="cloud_backup_detail_frequence_every_7_day">Co %d dni</string>
