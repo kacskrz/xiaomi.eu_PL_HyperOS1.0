@@ -61,52 +61,52 @@
     <string-array name="settings_search_account_and_authority_global">
         <item>Konta</item>
         <item>Dodawaj i zarządzaj kontami firm trzecich</item>
-        <item>Autoryzacja;Konto;Konto Xiaomi;Dodaj;Paruj;Xiaomi;Wyświetl;SNS;Google;Weibo</item>
+        <item>Konta;SNS;Google;Facebook;Konto Xiaomi;Konto</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Zmień hasło</item>
         <item>Zmień hasło do konta Xiaomi</item>
-        <item>Zmień;Hasło;Xiaomi;Konto Xiaomi;Konto</item>
+        <item>Zmień hasło;Zaktualizuj hasło;Xiaomi;Konto Xiaomi;Konto</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Pomoc</item>
         <item>Uzyskaj pomoc i wsparcie w kwestii konta Xiaomi</item>
-        <item>Xiaomi;Konto;Konto Xiaomi;Pomoc;Wsparcie;Wyświetl</item>
+        <item>Konto;Konto Xiaomi;Pomoc z kontem;Centrum pomocy;Pomoc</item>
     </string-array>
     <string-array name="settings_search_login_2_step_verify">
         <item>Weryfikacja dwuetapowa</item>
         <item>Ustaw weryfikację dwuetapową dla swojego konta Xiaomi</item>
-        <item>Zaloguj się;Logowanie;dwuetapowa;weryfikacja;Xiaomi;Konto;Konto Xiaomi;Ustawienia</item>
+        <item>Zaloguj się;Logowanie;dwuetapowa;weryfikacja;Xiaomi;Konto;Konto Xiaomi;Konto</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
-        <item>Logowanie się i bezpieczeństwo</item>
+        <item>Bezpieczeństwo konta</item>
         <item>Numer telefonu i e-mail, zarządzanie hasłem</item>
-        <item>Konto;Bezpieczeństwo;Zaloguj się;Logowanie;Xiaomi;Konto Xiaomi;Numer telefonu;E-mail;Zmień;Hasło;Dodaj;Paruj</item>
+        <item>Bezpieczeństwo konta;Zaloguj się;Logowanie się;Xiaomi;Ochrona konta;Konto Xiaomi;Numer telefonu;E-mail;Zmień hasło;Dodaj e-mail;Dodaj numer telefonu;Konto</item>
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Urządzenia</item>
         <item>Zarządzaj urządzeniami powiązanymi ze swoim kontem Xiaomi</item>
-        <item>Urządzenia;Zarządzaj;Zaloguj się;Logowanie;Lista urządzeń;Xiaomi;Konto Xiaomi;Konto</item>
+        <item>Urządzenia;Zarządzaj urządzeniami;Moje urządzenia;Zaloguj się;Logowanie;Lista urządzeń;Xiaomi;Konto Xiaomi;Konto</item>
     </string-array>
     <string-array name="settings_search_payment_information">
         <item>Informacje dot. płatności</item>
         <item>Wyświetl i zarządzaj informacjami dot. płatności</item>
-        <item>Płatność;Informacje;Xiaomi;Konto Xiaomi;Konto</item>
+        <item>Zapłać;Płatność;Metoda płatności;Metody płatności;Informacje;Xiaomi;Konto Xiaomi;Konto</item>
     </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Polityka prywatności</item>
         <item>Wyświetl Politykę prywatności konta Xiaomi</item>
-        <item>Xiaomi;Konto;Konto Xiaomi;Prywatność;Polityka;Wyświetl</item>
+        <item>Xiaomi;Konto;Konto Xiaomi;Polityka prywatności</item>
     </string-array>
     <string-array name="settings_search_security_email_address">
         <item>Adres e-mail</item>
         <item>Dodaj adres e-mail</item>
-        <item>Bezpieczeństwo;E-mail;Xiaomi;Konto;Konto Xiaomi;Dodaj;Paruj</item>
+        <item>Bezpieczeństwo;E-mail;Dodaj e-mail;Xiaomi;Konto;Konto Xiaomi</item>
     </string-array>
     <string-array name="settings_search_security_phone_number">
         <item>Numer telefonu</item>
         <item>Dodaj numer telefonu</item>
-        <item>Bezpieczeństwo;Konto;Konto Xiaomi;Telefon;Xiaomi;Numer telefonu;Dodaj;Paruj</item>
+        <item>Bezpieczeństwo;Konto;Konto Xiaomi;Telefon;Xiaomi;Numer telefonu;Dodaj numer telefonu</item>
     </string-array>
     <string-array name="settings_search_system_ad">
         <item>Reklamy</item>
@@ -116,16 +116,16 @@
     <string-array name="settings_search_user_information">
         <item>Informacje o koncie</item>
         <item>Wyświetl swój awatar i zarządzaj informacjami dot. konta</item>
-        <item>Konto;Informacje;Osobiste;Awatar;Nazwa;Xiaomi;ID;Konto Xiaomi;Wyświetl;Ustawienia</item>
+        <item>Konto;Informacje osobiste;Informacje o koncie;Awatar;Nazwa;Xiaomi;ID;Konto Xiaomi</item>
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Umowa użytkownika</item>
         <item>Wyświetl Umowę użytkownika konta Xiaomi</item>
-        <item>Xiaomi;Konto;Konto Xiaomi;Umowa;Użytkownika;Wyświetl</item>
+        <item>Konto Xiaomi;Konto;Umowa użytkownika;EULA</item>
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Konta</item>
         <item>Dodawaj i zarządzaj kontami firm trzecich</item>
-        <item>Autoryzacja;Konto;Konto Xiaomi;Dodaj;Paruj;Xiaomi;Wyświetl;SNS;WeChat;QQ;Weibo</item>
+        <item>Konta;Wyświetl;SNS;WeChat;QQ;Weibo;Konto Xiaomi;Konto</item>
     </string-array>
 </resources>

@@ -8543,8 +8543,8 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miheadset_key_config_close_summary">Wyłącz redukcję szumów</string>
   <string name="miheadset_key_config_gesture_control">Gesty</string>
   <string name="miheadset_key_config_next_music">Następny utwór</string>
-  <string name="miheadset_key_config_noise_control">Aktywna redukcja szumów</string>
-  <string name="miheadset_key_config_noise_control_summary">Przytrzymaj, aby przełączyć się pomiędzy dwoma wybranymi trybami aktywnej redukcji szumów</string>
+  <string name="miheadset_key_config_noise_control">Redukcja szumów</string>
+  <string name="miheadset_key_config_noise_control_summary">Przytrzymaj, aby przełączyć się pomiędzy dwoma wybranymi trybami redukcji szumów</string>
   <string name="miheadset_key_config_noise_summary">Blokuj dźwięki z zewnątrz</string>
   <string name="miheadset_key_config_press_left">Przytrzymaj lewą słuchawkę</string>
   <string name="miheadset_key_config_press_right">Przytrzymaj prawą słuchawkę</string>
@@ -8564,4 +8564,5 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miheadset_ancIncrease">Wysokie</string>
   <string name="miheadset_transparentMode">Przezroczystość</string>
   <string name="miheadset_voiceIncrease">Wzmocnienie głosu</string>
+  <string name="title_special_features_health_global">Tętno</string>
 </resources>

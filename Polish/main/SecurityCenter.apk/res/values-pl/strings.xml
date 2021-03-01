@@ -149,7 +149,7 @@
   <string name="antivirus_sec_network_unavailable">"Aplikacja nie ma obecnie dostępu do sieci. Zezwolić aplikacji na dostęp do Internetu?"</string>
   <string name="antivirus_toast_already_update">Pomyślnie zaktualizowano</string>
   <string name="antivirus_toast_network_unavailable">Nie można połączyć się z siecią</string>
-  <string name="antivirus_toast_update_failed">Nie można zaktualizować</string>
+  <string name="antivirus_toast_update_failed">Serwery Xiaomi są zajęte. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="antivirus_toast_update_success">Pomyślnie zaktualizowano</string>
   <string name="antivirus_toast_updating">Aktualizowanie...</string>
   <string name="antivirus_update_btn_contiue">Dalej</string>
@@ -4369,4 +4369,32 @@ Wypróbuj skalowanie rozdzielczości!"</string>
     <string name="gb_game_macro_bubble_tips">Wypróbuj kombosy</string>
     <string name="gb_game_macro_toast_tips">"Wypróbuj kombosy!
 Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
+    <string name="auto_task_edit_condition_summary_new">Na przykład \"O %s\"</string>
+    <string name="auto_task_notify_task_cancel_count_down_new">Zaplanowane zadanie zostanie anulowane w ciągu %d sekund</string>
+    <string name="auto_task_notify_task_count_down_new">Zaplanowane zadanie rozpocznie się za %d sekund</string>
+    <string name="deep_power_save_item_summary_lock_screen_time_new">Uśpij ekran po %d sekundach nieaktywności w celu oszczędzania energii</string>
+    <string name="gb_shoulder_key">Bumpery</string>
+    <string name="gb_shoulder_key_add_show_btn">Pokaż wirtualne przyciski w grach</string>
+    <string name="gb_shoulder_key_add_tips">Przenieś przyciski [L] i [R] do jakiejkolwiek funkcjonalnej pozycji i używaj ich za pomocą bumperów</string>
+    <string name="gb_shoulder_key_btn_cancel">Anuluj</string>
+    <string name="gb_shoulder_key_btn_save_exit">Zapisz</string>
+    <string name="gb_shoulder_key_dialog_txt">Możesz włączyć tryb Game Turbo, używając bumperów.</string>
+    <string name="gb_shoulder_key_guide_btn_done">Rozumiem</string>
+    <string name="gb_shoulder_key_guide_btn_next">Dalej</string>
+    <string name="gb_shoulder_key_guide_tips">Skonfiguruj bumpery, aby grać jak profesjonalista!</string>
+    <string name="gb_shoulder_key_guide_tips1">Otwórz pasek narzędzi i skonfiguruj przyciski bumperów</string>
+    <string name="gb_shoulder_key_settings_guide_tips1">Przenieś przyciski [L] i [R] do jakiejkolwiek funkcjonalnej pozycji, aby ukończyć konfigurację</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">Użyj bumperów do wywoływania przypisanych im przez Ciebie funkcji w grach</string>
+    <string name="never_new">%d raz</string>
+    <string name="power_center_list_item_set_lockscreen_time_new">Uśpij ekran po %d sekundach nieaktywności</string>
+    <string name="power_save_mode_auto_exit_summary_new">Wyłącz powyżej %s naładowania​</string>
+    <string name="superpower_notification_title_new">Pozostało mniej niż %s baterii</string>
+    <string name="superpower_settins_autoenter_summary_new">Włącz ten tryb automatycznie, gdy poziom naładowania baterii osiągnie mniej niż %s</string>
+    <string name="superpower_settins_autoleave_summary_new">Wyłącz ten tryb automatycznie, gdy bateria jest naładowana w co najmniej %s</string>
+    <string name="traffic_to_limit_warning">"Wykorzystano %s limitu danych"</string>
+    <string name="vb_video_effects_dolby_dialog_enhancer">Ulepszone dialogi</string>
+    <string name="vb_video_effects_dolby_headset">" (tylko słuchawki)"</string>
+    <string name="vb_video_effects_dolby_open">Dolby Atmos wł.</string>
+    <string name="vb_video_effects_dolby_stereo_expansion">Szersze stereo</string>
+    <string name="view_traffic_details">Wyświetl statystyki zużycia danych</string>
 </resources>

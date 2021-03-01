@@ -1664,4 +1664,9 @@ Zacznij od nowa."</string>
   <string name="find_new_verision">Dostępna wersja %s</string>
   <string name="immediately_experience">Aktualizuj</string>
   <string name="location_perm_description">W celu śledzenia treningów na zewnątrz i rejestrowania tras</string>
+  <string name="date_time_picker_dialog_title">Ustaw datę i godzinę</string>
+  <string name="miuix_appcompat_deselect_all">Odznacz</string>
+  <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+  <string name="send">Wyślij</string>
 </resources>

@@ -187,4 +187,23 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="send_files_by">Udostępnij pliki przez</string>
   <string name="error_permission_denied">Aby móc korzystać z tej funkcji, przyznaj Mi Share wszystkie wymagane uprawnienia w Ustawieniach.</string>
   <string name="nearby_share">Udostępnianie w pobliżu</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Odznacz wszystko</string>
+  <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Zaznacz elementy</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Więcej</string>
+  <string name="miuix_appcompat_cancel_description">Anuluj</string>
+  <string name="miuix_appcompat_confirm_description">Potwierdź</string>
+  <string name="miuix_appcompat_delete_description">Usuń</string>
+  <string name="miuix_appcompat_deselect_all">Odznacz</string>
+  <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
+  <string name="miuix_appcompat_search_input_description">Szukaj</string>
+  <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_select_all_description">Wybierz wszystko</string>
+  <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+  <string name="more">Więcej</string>
+  <string name="send">Wyślij</string>
+  <string name="actionbar_button_up_description">Wstecz</string>
+  <string name="clearable_edittext_clear_description">Wyczyść</string>
+  <string name="close">Zamknij</string>
 </resources>

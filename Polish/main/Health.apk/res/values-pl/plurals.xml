@@ -398,4 +398,9 @@
         <item quantity="few">"Przespacerowano już %1$s kroki"</item>
         <item quantity="other">"Przespacerowano już %1$s kroków"</item>
    </plurals>
+   <plurals name="miuix_appcompat_items_selected">
+        <item quantity="one">Wybrano %d element</item>
+        <item quantity="few">Wybrano %d elementy</item>
+        <item quantity="other">Wybrano %d elementów</item>
+   </plurals>
 </resources>

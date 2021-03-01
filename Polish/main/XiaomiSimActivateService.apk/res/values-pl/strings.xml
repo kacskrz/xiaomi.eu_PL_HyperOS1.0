@@ -7,7 +7,7 @@
   <string name="activate_auto_sms_notification_title">Rejestracja karty SIM</string>
   <string name="activate_feature_call_log_sync">Synchronizacja rejestru</string>
   <string name="activate_feature_default_name">Usługa Xiaomi</string>
-  <string name="activate_feature_find_device">Lokalizacja urządzenia nie może połączyć się z siecią</string>
+  <string name="activate_feature_find_device">Lokalizacja SMS</string>
   <string name="activate_feature_live_talk">Pakiet doładowania</string>
   <string name="activate_feature_mi_roaming">Mi Roaming</string>
   <string name="activate_feature_mms_sync">Synchronizuj wiadomości</string>
