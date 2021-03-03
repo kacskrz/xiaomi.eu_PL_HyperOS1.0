@@ -227,4 +227,9 @@
   <string name="sound_transmission_title">Mikrofon bezprzewodowy</string>
   <string name="transmission_volume_option_title">Głośność mikrofonu</string>
   <string name="sound_transmission_function_generalize">"Transmituj dźwięk z mikrofonu w telefonie do zewnętrznego urządzenia Bluetooth"</string>
+  <string name="dolby_dax_geq_select_title">Efekty</string>
+  <string name="dolby_dax_geq_title">Graficzny equalizer</string>
+  <string name="dolby_dax_profile_dynamic">Dynamiczny</string>
+  <string name="dolby_dax_setting">Efekty Dolby</string>
+  <string name="dolby_dax_title">Dźwięk przestrzenny</string>
 </resources>

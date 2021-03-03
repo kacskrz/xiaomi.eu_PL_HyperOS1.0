@@ -460,4 +460,9 @@
   <string name="action_for_snooze">Drzemka</string>
   <string name="action_for_stop">Zatrzymaj</string>
   <string name="voice_add_alarm">Dodaj alarm komendą głosową</string>
+  <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
+  <string name="miuix_appcompat_deselect_all">Odznacz</string>
+  <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+  <string name="send">Wyślij</string>
 </resources>

@@ -109,4 +109,9 @@
         <item quantity="few">Stoper jest uruchomiony już %s godziny. Dotknij, aby zobaczyć.</item>
         <item quantity="one">Stoper jest uruchomiony już %s godzinę. Dotknij, aby zobaczyć.</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Wybrano %d elementów</item>
+        <item quantity="one">Wybrano %d element</item>
+        <item quantity="few">Wybrano %d elementy</item>
+    </plurals>
 </resources>

@@ -306,4 +306,8 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="permission_read_message">Dostęp do SMS-ów</string>
   <string name="permission_read_message_introduction">W celu weryfikacji własności urządzenia</string>
   <string name="service_name_MIUIDaemon">Demon MIUI</string>
+  <string name="item_contents_wwarning">"Jeśli zgubisz urządzenie, nie zapobiegniesz używaniu go przez inne osoby i uzyskiwaniu dostępu do Twoich danych, dopóki nie ustawisz blokady ekranu. Pominąć mimo to?"</string>
+  <string name="item_return">Ustaw</string>
+  <string name="item_skip">Pomiń</string>
+  <string name="title_set_fingerprint">Blokada ekranu</string>
 </resources>
