@@ -1861,4 +1861,5 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="timerburst_pressed_hint">Dotknij ponownie, aby zatrzymać</string>
   <string name="audio_map_summary_tip">Monitoruj głośność lewego i prawego kanału w czasie rzeczywistym i dostosowuj ją za pomocą suwaka</string>
   <string name="histogram_summary_tip">Wyświetlaj ekspozycję w czasie rzeczywistym</string>
+  <string name="pref_customization_style">Własny styl</string>
 </resources>
