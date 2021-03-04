@@ -1058,7 +1058,7 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="quick_service_maintenance_price_title">Naprawy</string>
   <string name="quick_service_title">Szybkie usługi</string>
   <string name="recommend_service_cloudservice_description">Synchronizuj dane aplikacji systemowych i wykonuj kopię ustawień, pulpitu i innych rzeczy</string>
-  <string name="recommend_service_sharelocation_description">Lokalizuj urządzenia, blokuje je i wymaż z nich dane</string>
+  <string name="recommend_service_sharelocation_description">Lokalizuj urządzenia, blokuj je i wymaż z nich dane</string>
   <string name="recommend_service_title">Polecane usługi</string>
   <string name="sync_page_autofill_login">Zaloguj się na konto Xiaomi, aby móc użyć Menedżera haseł</string>
   <string name="sync_page_route_message">Menedżer haseł pozwala na zaszyfrowanie Twoich haseł i przechowywanie ich w chmurze. Włączyć go teraz?</string>
