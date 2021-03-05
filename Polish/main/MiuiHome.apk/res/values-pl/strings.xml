@@ -656,4 +656,7 @@
   <string name="clearable_edittext_clear_description">Wyczyść</string>
   <string name="assistant_edge_gesture_summary">Przesuń od lewego dolnego bądź prawego dolnego rogu, aby uruchomić Asystenta Google</string>
   <string name="assistant_edge_gesture_title">Przesuń od dolnej krawędzi, aby uruchomić Asystenta Google</string>
+  <string name="network_error">"Nie udało się połączyć z siecią. Spróbuj ponownie."</string>
+  <string name="russia_preinstall_folder_name">Rosja</string>
+  <string name="server_error">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
 </resources>
