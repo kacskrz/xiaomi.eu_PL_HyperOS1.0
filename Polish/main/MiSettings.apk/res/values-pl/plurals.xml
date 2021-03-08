@@ -204,4 +204,9 @@
         <item quantity="other">Śr. %.2f razy</item>
         <item quantity="one">Śr. %.2f raz</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Wybrano %d elementów</item>
+        <item quantity="one">Wybrano %d element</item>
+        <item quantity="few">Wybrano %d elementy</item>
+    </plurals>
 </resources>

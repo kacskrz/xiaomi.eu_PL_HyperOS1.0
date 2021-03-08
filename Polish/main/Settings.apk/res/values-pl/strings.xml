@@ -8569,4 +8569,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miui_sos_pa_title">Lokalizacja ratunkowa</string>
   <string name="miui_sos_pa_turn_off">Wył.</string>
   <string name="miui_sos_pa_turn_on">Wł.</string>
+  <string name="bt_leaudio_open_dialog_summary">"Gdy LC3 jest włączone, nie będzie można połączyć więcej niż jednego urządzenia na raz z telefonem. Po włączeniu tej funkcji inne urządzenia zostaną rozłączone. Włączyć ją mimo to?"</string>
+  <string name="bt_leaudio_open_dialog_title">Uwaga</string>
+  <string name="bt_leaudio_summary">Dźwięk wysokiej jakości</string>
 </resources>

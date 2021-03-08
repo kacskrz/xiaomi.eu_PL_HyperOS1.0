@@ -611,4 +611,9 @@ Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się z administrat
         <item quantity="other">Wi-Fi zostanie automatycznie włączone w momencie, gdy urządzenie wykryje zapisane sieci w pobliżu i wyłączy się po %d minutach, jeśli nie uda się nawiązać z nimi połączenia</item>
         <item quantity="one">Wi-Fi zostanie automatycznie włączone w momencie, gdy urządzenie wykryje zapisane sieci w pobliżu i wyłączy się po minucie, jeśli nie uda się nawiązać z nimi połączenia</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Otrzymuj alert, gdy jedna ze słuchawek jest daleko od ucha bądź zestawu ładującego dłużej niż %d minut</item>
+        <item quantity="one">Otrzymuj alert, gdy jedna ze słuchawek jest daleko od ucha bądź zestawu ładującego dłużej niż %d minutę</item>
+        <item quantity="few">Otrzymuj alert, gdy jedna ze słuchawek jest daleko od ucha bądź zestawu ładującego dłużej niż %d minuty</item>
+    </plurals>
 </resources>

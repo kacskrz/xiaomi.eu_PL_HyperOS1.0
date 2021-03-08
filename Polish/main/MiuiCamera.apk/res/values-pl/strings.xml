@@ -1862,4 +1862,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="audio_map_summary_tip">Monitoruj głośność lewego i prawego kanału w czasie rzeczywistym i dostosowuj ją za pomocą suwaka</string>
   <string name="histogram_summary_tip">Wyświetlaj ekspozycję w czasie rzeczywistym</string>
   <string name="pref_customization_style">Własny styl</string>
+  <string name="dual_video_record_remote">Nagrywanie dwoma telefonami</string>
+  <string name="dual_video_user_guide_remote_content">"Nagrywanie dwoma telefonami pozwala na łączenie strumieni z dwóch różnych urządzeń w jedno wideo. Możesz podglądać obydwa strumienie i finalny efekt na tym urządzeniu. Dźwięk będzie nagrywany wyłącznie tym urządzeniem."</string>
+  <string name="dual_video_user_guide_remote_p">Telefon %d</string>
 </resources>
