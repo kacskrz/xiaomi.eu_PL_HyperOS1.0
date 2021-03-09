@@ -172,4 +172,9 @@ Zgłoś ten problem >"</string>
     <string name="title_aggregate_default">Grupuj powiadomienia</string>
     <string name="title_aggregate_home">"Nie grupuj powiadomień"</string>
     <string name="show_weather">Wyświetlaj informacje o pogodzie</string>
+    <string name="notification_fold_description1">Katalog powiadomień został wprowadzony w MIUI 9. Ta funkcja filtruje nieistotne powiadomienia i umieszcza je w oddzielnym folderze.</string>
+    <string name="notification_fold_description2">MIUI zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
+    <string name="notification_fold_description3">"Jeśli powiadomienia, które uważasz za ważne, nadal trafiają do katalogu powiadomień, upewnij się, że zgłosiłeś nam takie problemy. Będziemy wdzięczni za Twoją opinię."</string>
+    <string name="notification_fold_footer_icon_summary">Pokazuj ikony z zgrupowanych nieistotnych powiadomień</string>
+    <string name="notification_fold_footer_icon_title">Pokazuj ikony aplikacji</string>
 </resources>

@@ -2520,7 +2520,7 @@ Więcej informacji uzyskasz od administratora organizacji."</string>
   <string name="face_data_manage_unlock_title">Odblokuj twarzą</string>
   <string name="face_data_siggesstion_next">Dalej</string>
   <string name="face_data_siggesstion_next_time">Dalej (%d sek.)</string>
-  <string name="face_data_suggesstion_first">Odblokowanie telefonu przy użyciu danych twarzy jest mniej bezpieczne niż używanie hasła ekranu blokady, wzoru czy PIN. Twój telefon może zostać odblokowany przez osoby, które wyglądają tak samo lub za pomocą Twoich zdjęć.</string>
+  <string name="face_data_suggesstion_first">Odblokowanie telefonu przy użyciu danych twarzy jest mniej bezpieczne niż używanie hasła ekranu blokady, wzoru czy PIN-u. Twój telefon może zostać odblokowany przez osoby, które wyglądają tak samo lub za pomocą Twoich zdjęć.</string>
   <string name="face_data_suggesstion_second">Upewnij się, że wszystkie części twarzy nie są zakryte przedmiotami i są wyraźnie widoczne. Twoja twarz powinna być dobrze oświetlona.</string>
   <string name="face_unlock">Odblokowanie twarzą</string>
   <string name="face_unlock_be_on_the_screen">Utrzymuj telefon przed twarzą</string>
@@ -8572,4 +8572,12 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="bt_leaudio_open_dialog_summary">"Gdy LC3 jest włączone, nie będzie można połączyć więcej niż jednego urządzenia na raz z telefonem. Po włączeniu tej funkcji inne urządzenia zostaną rozłączone. Włączyć ją mimo to?"</string>
   <string name="bt_leaudio_open_dialog_title">Uwaga</string>
   <string name="bt_leaudio_summary">Dźwięk wysokiej jakości</string>
+  <string name="already_delete_system_app">Odinstalowane aplikacje systemowe</string>
+  <string name="codec_low_latency_video_summary">Dźwięk o niskiej latencji polepsza wrażenia z gier i filmów oraz powoduje, że synchronizacja dźwięku i obrazu jest bardziej naturalna.</string>
+  <string name="face_data_introduction_add">Start</string>
+  <string name="headset_notification_switch_summary">Gdy słuchawki są połączone, wyświetlaj status w Panelu powiadomień</string>
+  <string name="headset_notification_switch_title">Widżet w Panelu powiadomień</string>
+  <string name="keyboard_skin_follow_system_enable">Włącz Ciemny motyw razem z systemem</string>
+  <string name="miui_face_enroll_risk_warning_btn_cancel">Anuluj</string>
+  <string name="miui_face_enroll_risk_warning_title_text">Uwaga</string>
 </resources>
