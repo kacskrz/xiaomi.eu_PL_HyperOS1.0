@@ -1852,7 +1852,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="video_cast_notification_content">Dotknij, aby zatrzymać</string>
   <string name="video_cast_notification_title">Używanie kilku aparatów w tle…</string>
   <string name="video_cast_service_error">"Nie udało się włączyć Nagrywania dwoma telefonami w tle"</string>
-  <string name="video_cast_service_name">Dwa telefony</string>
+  <string name="video_cast_service_name">Nagrywanie dwoma telefonami</string>
   <string name="video_cast_state_exited">Opuszczono Nagrywanie dwoma telefonami</string>
   <string name="video_cast_state_paused">Wstrzymano</string>
   <string name="mimoji_eyelid">Powieki</string>
