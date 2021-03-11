@@ -8580,4 +8580,5 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="keyboard_skin_follow_system_enable">Włącz Ciemny motyw razem z systemem</string>
   <string name="miui_face_enroll_risk_warning_btn_cancel">Anuluj</string>
   <string name="miui_face_enroll_risk_warning_title_text">Uwaga</string>
+  <string name="work_mode_off_summary">Aplikacje i powiadomienia są wyłączone</string>
 </resources>
