@@ -545,7 +545,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="set_success">Pomyślnie ustawiono</string>
   <string name="setting_about_item_des">Wersja</string>
   <string name="setting_about_item_title">O aplikacji</string>
-  <string name="setting_des">Możesz ustawić swój pokaz slajdów w Ustawieniach &gt; Ekran blokady i odcisk palca &gt; Codzienne tapety blokady</string>
+  <string name="setting_des">Pokaz slajdów jest dostarczany przez Tapety Blokady. Aby wyświetlić wszystkie opcje, wyszukaj frazę \"Tapety Blokady\" w Ustawieniach.</string>
   <string name="setting_head">Opcje</string>
   <string name="setting_ok">Ustawienia</string>
   <string name="setting_tip">Nie pokazuj ponownie</string>
@@ -771,4 +771,27 @@ dd.M"</string>
   <string name="see_detail">Zobacz</string>
   <string name="understand_band_story">Dowiedz się więcej</string>
   <string name="detail_menu_settingbtn_save">Zapisz w Galerii</string>
+  <string name="idbct_opt_low_dev_desc_text">Zawsze pobieraj obrazy w standardowej jakości</string>
+  <string name="idbct_opt_low_dev_main_text">Standardowa</string>
+  <string name="time_interval_dialog_content1">Tapety Blokady wyświetlają nowy obraz za każdym razem, gdy odblokowujesz urządzenie.</string>
+  <string name="time_interval_dialog_content2">Możesz zmienić częstotliwość zmian obrazków w \"Ustawieniach pokazu slajdów\".</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Odznacz wszystko</string>
+  <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Zaznacz elementy</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Więcej</string>
+  <string name="miuix_appcompat_cancel_description">Anuluj</string>
+  <string name="miuix_appcompat_confirm_description">Potwierdź</string>
+  <string name="miuix_appcompat_delete_description">Usuń</string>
+  <string name="miuix_appcompat_deselect_all">Odznacz</string>
+  <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
+  <string name="miuix_appcompat_search_input_description">Szukaj</string>
+  <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_select_all_description">Wybierz wszystko</string>
+  <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+  <string name="more">Więcej</string>
+  <string name="send">Wyślij</string>
+  <string name="actionbar_button_up_description">Wstecz</string>
+  <string name="clearable_edittext_clear_description">Wyczyść</string>
+  <string name="close">Zamknij</string>
 </resources>
