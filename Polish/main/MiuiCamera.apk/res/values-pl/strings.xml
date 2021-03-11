@@ -1871,4 +1871,6 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="prep_video_ai_audio_new_desc_tip">Dźwięki wyostrzonego obiektu są wzmocnione</string>
   <string name="prep_video_ai_audio_single_desc_tip">Dźwięki spoza ekranu są filtrowane</string>
   <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Zbliżenie audio nie działa z odsłuchem dousznym i zewnętrznym mikrofonem"</string>
+  <string name="dialog_button_goto">Ustawienia</string>
+  <string name="remote_online_permission">"Zmień uprawnienie aplikacji Aparat do korzystania z lokalizacji na \"Zezwól tylko, gdy korzystam z aplikacji\", aby móc korzystać z funkcji Nagrywanie dwoma telefonami."</string>
 </resources>
