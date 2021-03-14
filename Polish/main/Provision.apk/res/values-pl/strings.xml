@@ -272,7 +272,7 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="position_subheading">Informacje dot. lokalizacji</string>
   <string name="home_settings_miui_home">Klasyczny</string>
   <string name="home_settings_poco_launcher">Z szufladą aplikacji</string>
-  <string name="home_settings_title">Wybierz domyślny launcher</string>
+  <string name="home_settings_title">Wybierz układ pulpitu</string>
   <string name="wc_dialog_agree">Zgadzam się</string>
   <string name="wc_dialog_reject">"Nie zgadzam się"</string>
   <string name="wc_dialog_summary">Tapety Blokady codziennie dostarczają nowe i ciekawe obrazy na Twój Ekran blokady.</string>
