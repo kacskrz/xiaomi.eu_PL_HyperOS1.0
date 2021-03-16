@@ -4418,7 +4418,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="exo_track_role_closed_captions">Napisy</string>
     <string name="exo_track_role_commentary">Komentarz</string>
     <string name="exo_track_role_supplementary">Materiały dodatkowe</string>
-    <string name="notification_enter_power_save_mode_subtitle">Wyłącz, aby urządzenie jest naładowane w co najmniej %s</string>
+    <string name="notification_enter_power_save_mode_subtitle">Wyłącz, gdy urządzenie jest naładowane w co najmniej %s</string>
     <string name="notification_enter_power_save_mode_title">Włączono Oszczędzanie baterii</string>
     <string name="notification_exit_power_save_mode_full_subtitle">Urządzenie jest naładowane</string>
     <string name="notification_exit_power_save_mode_now">Wyłącz</string>
