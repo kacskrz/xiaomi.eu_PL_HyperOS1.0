@@ -231,4 +231,6 @@
     <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
     <string name="v7_preference_off">WYŁ.</string>
     <string name="v7_preference_on">WŁ.</string>
+    <string name="close">Zamknij</string>
+    <string name="send">Wyślij</string>
 </resources>

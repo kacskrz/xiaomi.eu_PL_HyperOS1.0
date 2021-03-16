@@ -354,4 +354,6 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="miuix_appcompat_select_item">Wybierz elementy</string>
   <string name="more">Więcej</string>
   <string name="send">Wyślij</string>
+  <string name="notification_save_as_complete">Pomyślnie zapisano</string>
+  <string name="save_as">Zapisz jako</string>
 </resources>

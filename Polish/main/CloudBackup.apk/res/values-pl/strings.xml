@@ -321,4 +321,21 @@ Spróbuj ponownie"</string>
   <string name="restoring_app_data_title_no_progress">Przywracanie danych WeChata…</string>
   <string name="button_confirm">Rozumiem</string>
   <string name="pc_mode_not_support_restore_warning">"Nie można przywrócić elementów w trybie PC. Wyłącz tryb PC i spróbuj ponownie."</string>
+  <string name="close">Zamknij</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Odznacz wszystko</string>
+  <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Zaznacz elementy</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Więcej</string>
+  <string name="miuix_appcompat_cancel_description">Anuluj</string>
+  <string name="miuix_appcompat_confirm_description">Potwierdź</string>
+  <string name="miuix_appcompat_delete_description">Usuń</string>
+  <string name="miuix_appcompat_deselect_all">Odznacz</string>
+  <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
+  <string name="miuix_appcompat_search_input_description">Szukaj</string>
+  <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_select_all_description">Wybierz wszystko</string>
+  <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+  <string name="more">Więcej</string>
+  <string name="send">Wyślij</string>
 </resources>
