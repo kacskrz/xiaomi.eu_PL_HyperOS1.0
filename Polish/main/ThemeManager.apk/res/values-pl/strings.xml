@@ -1108,8 +1108,7 @@ dd.M."</string>
   <string name="install_failed">"Nie udało się zainstalować"</string>
   <string name="no_install_permission">"Nie masz uprawnień do instalacji tego elementu"</string>
   <string name="pref_lockscreen_magazine_summary">Zastąp swoją tapetę pokazami slajdów składającymi się z obrazów z różnych kategorii</string>
-  <string name="set_wallpaper_group_success">"Zastosowano %1$s.
-Co godzinę na ekranie będzie się pojawiać nowa tapeta."</string>
+  <string name="set_wallpaper_group_success">Pomyślnie zastosowano tapetę \"%1$s\"</string>
   <string name="super_wallpaper_list_label">Supertapety</string>
   <string name="super_wallpaper_setting_apply_success_toast">Pomyślnie zastosowano</string>
   <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Zastosuj</string>
@@ -1197,4 +1196,6 @@ Co godzinę na ekranie będzie się pojawiać nowa tapeta."</string>
   <string name="scrollable_wallpaper_close">Wyłączono przewijanie</string>
   <string name="scrollable_wallpaper_open">Włączono przewijanie</string>
   <string name="set_as_colorring">Ustaw jako własny dzwonek</string>
+  <string name="ringtone_confirm_dialog_message">"Długość tego dzwonka jest dość długa. Użyć go mimo to?"</string>
+  <string name="ringtone_confirm_dialog_title">Uwaga</string>
 </resources>
