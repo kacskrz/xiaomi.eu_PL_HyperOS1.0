@@ -51,7 +51,7 @@
     <string name="last_sent_time_second">Teraz</string>
     <string name="list_title_disable_notification">Powiadomienia nie są włączone</string>
     <string name="loading">Chwileczkę...</string>
-    <string name="lock_screen_display_rules">Jak wyświetlać?</string>
+    <string name="lock_screen_display_rules">Styl</string>
     <string name="lock_screen_tip_toast">Najpierw włącz powiadomienia w \"Powiadomieniach aplikacji\"</string>
     <string name="lockscreen_notifications">Powiadomienia na ekranie blokady</string>
     <string name="menu_setting_recommend_to_minus">Wyświetl mniej powiadomień</string>
@@ -177,4 +177,10 @@ Zgłoś ten problem >"</string>
     <string name="notification_fold_description3">"Jeśli powiadomienia, które uważasz za ważne, nadal trafiają do katalogu powiadomień, upewnij się, że zgłosiłeś nam takie problemy. Będziemy wdzięczni za Twoją opinię."</string>
     <string name="notification_fold_footer_icon_summary">Pokazuj ikony z zgrupowanych nieistotnych powiadomień</string>
     <string name="notification_fold_footer_icon_title">Pokazuj ikony aplikacji</string>
+    <string name="float_notification_snooze_strategy">Tymczasowo ukryj</string>
+    <string name="float_notification_snooze_summary">Przesuń pływające powiadomienie w górę, aby tymczasowo ukryć nowe powiadomienia tego typu</string>
+    <string name="miui_snooze_always_float">Nie ukrywaj</string>
+    <string name="miui_snooze_cancel">Anuluj</string>
+    <string name="miui_snooze_default_time">Na %d minut</string>
+    <string name="miui_snooze_until_unlock_screen">Do zablokowania ekranu</string>
 </resources>

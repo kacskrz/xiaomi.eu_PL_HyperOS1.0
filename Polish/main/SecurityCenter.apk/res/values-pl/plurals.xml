@@ -1047,4 +1047,21 @@ Zrób sobie przerwę!"</item>
         <item quantity="one">&lt;Data>Zaktualizuj &lt;font color=#F22424>%d&lt;/font> aplikację&lt;/Data></item>
         <item quantity="few">&lt;Data>Zaktualizuj &lt;font color=#F22424>%d&lt;/font> aplikacje&lt;/Data></item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Przewiń do przodu o %d sekundy</item>
+        <item quantity="one">Przewiń do przodu o %d sekundę</item>
+        <item quantity="few">Przewiń do przodu o %d sekundy</item>
+        <item quantity="many">Przewiń do przodu o %d sekund</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Przewiń do tyłu o %d sekundy</item>
+        <item quantity="one">Przewiń do tyłu o %d sekundę</item>
+        <item quantity="few">Przewiń do tyłu o %d sekundy</item>
+        <item quantity="many">Przewiń do tyłu o %d sekund</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Urządzenie wyłączy się za %d sekund</item>
+        <item quantity="few">Urządzenie wyłączy się za %d sekundy</item>
+        <item quantity="one">Urządzenie wyłączy się za %d sekundę</item>
+    </plurals>
 </resources>

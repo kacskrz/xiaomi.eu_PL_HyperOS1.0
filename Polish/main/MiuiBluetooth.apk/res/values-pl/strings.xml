@@ -164,4 +164,10 @@ Szyszy protokół transmisji."</string>
   <string name="miheadset_notification_Disconnect">Rozłącz</string>
   <string name="miheadset_notification_LeftEar">L</string>
   <string name="miheadset_notification_RightEar">P</string>
+  <string name="headset_device_error_box_close">Zestaw ładujący jest wyłączony</string>
+  <string name="headset_device_error_disconnect">Obydwie słuchawki rozłączone. Zamknij zestaw ładujący i otwórz go ponownie, aby zacząć aktualizację od nowa.</string>
+  <string name="headset_device_error_no_device">Co najmniej jednej słuchawki nie ma w zestawie ładującym</string>
+  <string name="headset_device_error_single_device">"Nie można zaktualizować jednej słuchawki. Sparuj ją ponownie."</string>
+  <string name="headset_device_sync_donot_move_device">Synchronizowanie… Poczekaj, aż synchronizacja zostanie zakończona, zanim użyjesz słuchawek.</string>
+  <string name="headset_device_sync_wait_connect">Synchronizowanie… Poczekaj, aż połączenie zostanie automatycznie ustanowione, zanim użyjesz słuchawek.</string>
 </resources>

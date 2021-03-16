@@ -8582,4 +8582,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miui_face_enroll_risk_warning_title_text">Uwaga</string>
   <string name="work_mode_off_summary">Aplikacje i powiadomienia są wyłączone</string>
   <string name="miheadset_key_config_ANC_list_title">Redukcja szumów</string>
+  <string name="miheadset_ancHigh">Samolot</string>
+  <string name="miheadset_ancLow">Biuro</string>
+  <string name="miheadset_ancMedium">Normalne</string>
 </resources>
