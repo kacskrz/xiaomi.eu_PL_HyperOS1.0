@@ -100,7 +100,7 @@
   <string name="album_share_subtitle_requesting">Pobieranie informacji o albumie...</string>
   <string name="album_share_title_new_album">Udostępnij nowy album</string>
   <string name="album_show_local_only">Pokaż lokalne albumy</string>
-  <string name="album_show_local_only_summary">Możliwość usunięcia tylko lokalnych albumów pojawi się wtedy, gdy włączona jest ta funkcja</string>
+  <string name="album_show_local_only_summary">Włącz, aby pokazać lub usunąć zdjęcia na urządzeniu</string>
   <string name="album_sort_type">Sortowanie</string>
   <string name="album_sort_type_create_time_asc">Od starych do nowych</string>
   <string name="album_sort_type_create_time_desc">Od nowych do starych</string>
@@ -141,7 +141,7 @@
   <string name="authorize_to_device_failed">"Nie udało się zautoryzować"</string>
   <string name="authorize_watch_on_tv_failed">"Nie udało się zautoryzować w celu wyświetlania na telewizorze"</string>
   <string name="auto_backup_introduce">Automatycznie synchronizuj zdjęcia i filmy z Chmurą (wymagane jest konto Xiaomi)</string>
-  <string name="auto_download_media_title">Pobierz automatycznie</string>
+  <string name="auto_download_media_title">Pobierz zdjęcia z Chmury automatycznie</string>
   <string name="auto_update_face">Dodaj zdjęcia</string>
   <string name="auto_update_face_summary">Dopasuj i dodaj zdjęcia do albumów dzieci</string>
   <string name="auto_update_off">Wył.</string>
@@ -330,8 +330,8 @@
   <string name="cloud_guide_slim_text">Odzyskaj do 90% miejsca w pamięci urządzenia przez optymalizację zdjęć.</string>
   <string name="cloud_guide_slim_title">Włącz optymalizację zdjęć (do %1$s oszczędzonego miejsca)</string>
   <string name="cloud_guide_welcome_title">Chmura</string>
-  <string name="cloud_privacy_with_ai_album">Funkcje i prywatność</string>
-  <string name="cloud_privacy_with_face">Funkcje i prywatność</string>
+  <string name="cloud_privacy_with_ai_album">Polityka prywatności synchronizacji i przetwarzania zdjęć</string>
+  <string name="cloud_privacy_with_face">Polityka prywatności synchronizacji i rozpoznawania twarzy</string>
   <string name="cloud_screenshots_display_name">Zrzuty</string>
   <string name="cloud_settings">Synchronizacja</string>
   <string name="cloud_storage_extend">Rozszerz przestrzeń chmury</string>
@@ -1461,7 +1461,7 @@
   <string name="share_public_url_text">Udostępniłem Ci album %1$s. Zobacz go na %2$s</string>
   <string name="share_with_family">Udostępnij rodzinie</string>
   <string name="sharer_quota_fulfiled">Ten album jest już udostępniony maksymalnej liczbie osób.</string>
-  <string name="show_cloud_albumlist_summary">Nowe elementy z wybranych albumów nie będą przesyłane do Chmury po wyłączeniu synchronizacji.</string>
+  <string name="show_cloud_albumlist_summary">Zarządzaj albumami zsynchronizowanymi z chmurą</string>
   <string name="show_hidden_album_summary">Pokaż i zarządzaj ukrytymi albumami</string>
   <string name="show_hidden_album_title">Pokaż ukryte albumy</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Pomyślnie przeniesiono</string>
@@ -2375,7 +2375,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="filter_popular_icesnow">Śnieg</string>
     <string name="filter_popular_wintersun">Środek zimy</string>
     <string name="filter_sky_dynamic_text_yanhua">Tekst</string>
-    <string name="filter_sky_dynamic_text_yanhua_hint" formatted="false">Wprowadź od %1$d do %1$d znaków</string>
+    <string name="filter_sky_dynamic_text_yanhua_hint">Wprowadź od %1$d do %2$d znaków</string>
     <string name="filter_sky_random_download_failed">"Nie udało się pobrać. Kod błędu: "</string>
     <string name="filter_sky_text_yanhua">Tekst</string>
     <string name="filter_texture_shadow">Zmierzch</string>
@@ -2576,4 +2576,20 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="sync_backup_enable_confirm_title">Połącz zsynchronizowane elementy</string>
     <string name="vlog_filter_master_close">Usunięto efekty wideo</string>
     <string name="vlog_filter_master_open">Zastosowano efekty wideo</string>
+    <string name="filter_sky_hongxi">Karmazyn</string>
+    <string name="filter_sky_huanxia">Marzenia</string>
+    <string name="filter_sky_jiyun">Cumulusy</string>
+    <string name="filter_sky_nuanyang">Ciepło</string>
+    <string name="filter_sky_xiaying">Szkarłat</string>
+    <string name="filter_sky_xieyang">Zmrok</string>
+    <string name="filter_sky_xiguang">Promienie</string>
+    <string name="filter_sky_yunbo">Fale</string>
+    <string name="filter_sky_yunmeng">Fantasy</string>
+    <string name="magic_bitmap_damaged">Plik obrazu jest uszkodzony</string>
+    <string name="magic_matting_error_px">"Ten rozmiar obrazka nie jest wspierany"</string>
+    <string name="magic_video_cut_frame">Przetwarzanie…</string>
+    <string name="magic_video_cut_frame_back">Dotknij ponownie, aby anulować</string>
+    <string name="network_message">"Aby działać normalnie, funkcja wymaga połączenia z Internetem. Wygląda na to, że obecnie urządzenie nie jest połączone z siecią Wi-Fi. Czy chcesz użyć danych mobilnych, aby kontynuować? Ich wykorzystanie może generować dodatkowe opłaty od operatora."</string>
+    <string name="network_title">Połącz się z siecią</string>
+    <string name="operation_google_lens">Obiektyw Google</string>
 </resources>
