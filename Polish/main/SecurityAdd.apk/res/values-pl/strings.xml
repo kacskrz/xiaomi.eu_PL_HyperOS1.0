@@ -328,4 +328,5 @@
   <string name="gb_adv_touch_custom_title">Dostosuj</string>
   <string name="gb_adv_touch_mode_pro_tips">*Ten tryb jest przeznaczony dla profesjonalnych graczy. Zwykli gracze mogą uznać go za niewygodny.</string>
   <string name="gb_adv_touch_pro_title">Tryb Pro</string>
+  <string name="gb_not_support_on_device">"Ta aplikacja nie może być używana na zewnętrznym ekranie"</string>
 </resources>

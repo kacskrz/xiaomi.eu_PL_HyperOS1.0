@@ -8585,4 +8585,6 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miheadset_ancHigh">Samolot</string>
   <string name="miheadset_ancLow">Biuro</string>
   <string name="miheadset_ancMedium">Normalne</string>
+  <string name="codec_low_latency_zmi_summary">Automatycznie zmniejsz opóźnienie dźwięku i ulepsz efekty dźwiękowe w grach</string>
+  <string name="codec_low_latency_zmi_title">Niska latencja w grach</string>
 </resources>

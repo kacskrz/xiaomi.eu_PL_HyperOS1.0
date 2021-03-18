@@ -181,6 +181,6 @@ Zgłoś ten problem >"</string>
     <string name="float_notification_snooze_summary">Przesuń pływające powiadomienie w górę, aby tymczasowo ukryć nowe powiadomienia tego typu</string>
     <string name="miui_snooze_always_float">Nie ukrywaj</string>
     <string name="miui_snooze_cancel">Anuluj</string>
-    <string name="miui_snooze_default_time">Na %d minut</string>
+    <string name="miui_snooze_default_time">Na %d min</string>
     <string name="miui_snooze_until_unlock_screen">Do zablokowania ekranu</string>
 </resources>
