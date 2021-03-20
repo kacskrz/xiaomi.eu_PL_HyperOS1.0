@@ -35,4 +35,5 @@ Na pewno to zrobić?"</string>
   <string name="login_mi_account_summary">Aby włączyć synchronizację haseł z Chmurą Xiaomi, konieczne jest zalogowanie się na konto Xiaomi. Czy chcesz to zrobić teraz?</string>
   <string name="password_manager">Synchronizacja z Chmurą</string>
   <string name="password_manager_summary">Synchronizuj hasła zgromadzone w Menedżerze haseł z Chmurą Xiaomi</string>
+  <string name="back_button_label">Wstecz</string>
 </resources>

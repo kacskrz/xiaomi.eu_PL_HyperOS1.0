@@ -2654,4 +2654,14 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="bluetooth_le_audio_profile_summary_connected">Połączono z LE_AUDIO</string>
     <string name="bluetooth_le_audio_profile_summary_use_for">Użyj do LE_AUDIO</string>
     <string name="finger_error_single_mode">"Nie można użyć czytnika linii papilarnych w trybie Jedna Dłoń. Wyjdź z tego trybu i spróbuj ponownie."</string>
+    <string name="float_notification_snooze_strategy">Tymczasowo ukryj pływające powiadomienia</string>
+    <string name="miui_snooze_always_float">"Nie ukrywaj"</string>
+    <string name="miui_snooze_cancel">Anuluj</string>
+    <string name="miui_snooze_default_time">Na %d min</string>
+    <string name="miui_snooze_to_settings">Ustawienia</string>
+    <string name="miui_snooze_toast_hint_default">"Nadchodzące powiadomienia będą ukryte przez %d min. "</string>
+    <string name="miui_snooze_toast_hint_until_unlock_screen">"Nadchodzące powiadomienia będą ukryte do momentu zablokowania ekranu. "</string>
+    <string name="miui_snooze_until_unlock_screen">Do zablokowania ekranu</string>
+    <string name="miui_snooze_user_set_fail">Aby zobaczyć więcej opcji, przejdź do Ustawień > Powiadomienia i Centrum funkcji</string>
+    <string name="miui_snooze_user_set_success">Pomyślnie zastosowano. Aby zobaczyć więcej opcji, przejdź do Ustawień > Powiadomienia i Centrum funkcji.</string>
 </resources>

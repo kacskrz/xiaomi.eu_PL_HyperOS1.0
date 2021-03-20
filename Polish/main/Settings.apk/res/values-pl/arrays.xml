@@ -1866,4 +1866,12 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Podstawowe</item>
         <item>Pop</item>
     </string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>Dodatkowy</item>
+        <item>Pełny</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Zwiększ prędkość za pomocą danych komórkowych tylko wtedy, gdy sygnał sieci Wi-Fi jest kiepski</item>
+        <item>Połącz sieć Wi-Fi oraz dane komórkowe i zwiększ dzięki temu prędkość połączenia</item>
+    </string-array>
 </resources>

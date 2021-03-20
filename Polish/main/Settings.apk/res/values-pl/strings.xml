@@ -7611,7 +7611,7 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="wifi_link_turbo_on">Wł.</string>
   <string name="wifi_link_turbo_recommendation">Polecane aplikacje</string>
   <string name="wifi_link_turbo_recommendation_summary">Otrzymuj rekomendacje oparte na statystykach zużycia danych</string>
-  <string name="wifi_link_turbo_summary">Przyspiesz prędkość połączenia dla wybranych aplikacji przy użyciu danych mobilnych, gdy jakość połączenia z siecią Wi-Fi jest słaba</string>
+  <string name="wifi_link_turbo_summary">Użyj danych mobilnych do zwiększenia prędkości połączenia. Korzystanie z tej funkcji może generować dodatkowe opłaty od operatora.</string>
   <string name="wifi_menu_advanced">Zaawansowane</string>
   <string name="wifi_menu_configure">Skonfiguruj</string>
   <string name="wifi_menu_connect">Połącz z siecią</string>
@@ -8587,4 +8587,5 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miheadset_ancMedium">Normalne</string>
   <string name="codec_low_latency_zmi_summary">Automatycznie zmniejsz opóźnienie dźwięku i ulepsz efekty dźwiękowe w grach</string>
   <string name="codec_low_latency_zmi_title">Niska latencja w grach</string>
+  <string name="wifi_link_turbo_mode">Tryb zwiększenia prędkości</string>
 </resources>

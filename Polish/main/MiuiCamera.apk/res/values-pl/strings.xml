@@ -1873,4 +1873,8 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Zbliżenie audio nie działa z monitorem dousznym i zewnętrznym mikrofonem"</string>
   <string name="dialog_button_goto">Ustawienia</string>
   <string name="remote_online_permission">"Zmień uprawnienie aplikacji Aparat do korzystania z lokalizacji na \"Zezwól tylko, gdy korzystam z aplikacji\", aby móc korzystać z funkcji Nagrywanie dwoma telefonami."</string>
+  <string name="accessibility_double_click_to_exit">Dwukrotnie dotknij, aby wyjść</string>
+  <string name="accessibility_lock_focus_success">Pomyślnie zablokowano ostrość</string>
+  <string name="accessibility_touch_focus_fail">"Nie udało się ustawić ostrości"</string>
+  <string name="accessibility_touch_focus_success">Pomyślnie ustawiono ostrość</string>
 </resources>
