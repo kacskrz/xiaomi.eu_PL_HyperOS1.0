@@ -100,7 +100,7 @@
   <string name="feedback_choose_third_app_name">Wybierz aplikację</string>
   <string name="feedback_collect_log_failed">Nie udało się pobrać logów</string>
   <string name="feedback_contact_info_hint">E-mail</string>
-  <string name="feedback_continue">Kontynuuj z opinią</string>
+  <string name="feedback_continue">Wyślij opinię</string>
   <string name="feedback_delete_images">Usuń obrazy</string>
   <string name="feedback_description">Opis</string>
   <string name="feedback_description_bugreport_hint">W niektórych przypadkach (…) mój telefon zachowuje się niepoprawnie (…).</string>
@@ -571,8 +571,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="select_system_app_tag">Wybierz problem</string>
   <string name="service_unavailiable">"Nie udało się uzyskać informacji. Spróbuj ponownie później."</string>
   <string name="submit_dialog_cancel">Anuluj</string>
-  <string name="submit_dialog_confirm">Wyślij</string>
-  <string name="submit_dialog_content">Twoje zgłoszenie, wraz z załącznikami oraz logami, zostanie wysłane na serwery Xiaomi. Może zawierać informacje osobiste oraz dane o lokalizacji.</string>
+  <string name="submit_dialog_content"><Data>"Twoje zgłoszenie, wraz z załącznikami oraz logami, zostanie wysłane na serwery Xiaomi. Może zawierać ono informacje osobiste oraz dane o lokalizacji. Wybranie przycisku \"Zgoda\" oznacza, że przeczytałeś i zgodziłeś się na warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> i &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> Xiaomi. Jeśli zgłaszasz problemy występujące na kilku urządzeniach, oprócz logu z tego urządzenia na serwery zostaną wysłane także logi z innych telefonów, na których jest zalogowane Twoje konto Xiaomi."</Data></string>
   <string name="submit_dialog_content_global">Twoje zgłoszenie, wraz z załącznikami (jeśli dołączono) oraz logami (jeśli zaznaczono odpowiednie pola wyboru elementów, których nie należy wysyłać), zostanie wysłane na serwery Xiaomi. Logi mogą zawierać informacje osobiste oraz dane o lokalizacji.</string>
   <string name="submit_dialog_title">Wyślij raport</string>
   <string name="submit_feedback_info_failed">Nie udało się wysłać zgłoszenia</string>
