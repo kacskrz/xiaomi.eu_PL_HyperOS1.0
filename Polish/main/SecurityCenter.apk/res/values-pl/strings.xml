@@ -4429,4 +4429,14 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="pp_privacy_protection_lab">Laboratorium Ochrony prywatności</string>
     <string name="pp_privacy_protection_lab_summary">Zapewnij sobie prywatność</string>
     <string name="settings_battery_power_save_suggest_title">Sugestie i ostrzeżenia Oszczędzania baterii</string>
+    <string name="gamebox_collimator">Celownik</string>
+    <string name="gamebox_time">Minutnik</string>
+    <string name="gb_collimator_color">Kolor</string>
+    <string name="gb_collimator_size">Rozmiar</string>
+    <string name="gb_collimator_style">Typ</string>
+    <string name="gb_collimator_toast">Celownik znacznie ułatwia trafienie w cel</string>
+    <string name="gb_game_time_toast">Dostępny jest teraz Minutnik!</string>
+    <string name="gb_not_support_on_device">"Ta aplikacja nie może być używana na ekranie zewnętrznym"</string>
+    <string name="vb_ve_settings_ai_stronger">SI</string>
+    <string name="vtb_func_display_style_desc0">SI może rozpoznawać różne obiekty (np. ludzi, zwierzęta, rośliny czy budynki) w filmach i dynamicznie je ulepszać.</string>
 </resources>

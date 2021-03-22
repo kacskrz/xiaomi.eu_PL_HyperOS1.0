@@ -8588,4 +8588,8 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="codec_low_latency_zmi_summary">Automatycznie zmniejsz opóźnienie dźwięku i ulepsz efekty dźwiękowe w grach</string>
   <string name="codec_low_latency_zmi_title">Niska latencja w grach</string>
   <string name="wifi_link_turbo_mode">Tryb zwiększenia prędkości</string>
+  <string name="add_one_text_app_name_once">Możesz dodać jeden pakiet na raz</string>
+  <string name="add_text_app_name">Dodaj testową aplikację</string>
+  <string name="add_text_app_name_here">Wprowadź nazwę pakietu</string>
+  <string name="add_text_app_package_name">Dodaj testową aplikację</string>
 </resources>

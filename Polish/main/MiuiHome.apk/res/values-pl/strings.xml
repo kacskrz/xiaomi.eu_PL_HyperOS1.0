@@ -659,4 +659,8 @@
   <string name="network_error">"Nie udało się połączyć z siecią. Spróbuj ponownie."</string>
   <string name="russia_preinstall_folder_name">Rosja</string>
   <string name="server_error">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="default_folder_title_hot">Popularne aplikacje</string>
+  <string name="deleted_system_applications">Odinstalowane aplikacje systemowe</string>
+  <string name="remove_sys_app_content">Będziesz mógł ponownie dodać skrót na pulpicie w Ustawieniach &gt; Aplikacje &gt; Zarządzaj skrótami na pulpicie. Usunąć go teraz?</string>
+  <string name="remove_sys_app_title">Usunąć skrót z pulpitu?</string>
 </resources>

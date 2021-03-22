@@ -939,4 +939,16 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię nic ważnego."</stri
   <string name="icon_remove_confirm">Usuń</string>
   <string name="icon_remove_description_content">"Kalendarz to aplikacja systemowa. Pozwala ona na tworzenie i zarządzanie wydarzeniami. Nadal będzie można z niej korzystać za pośrednictwem widżetu na pulpicie bądź Asystenta MIUI, nawet po usunięciu jej skrótu z pulpitu."</string>
   <string name="icon_remove_description_title">Usunąć \"Kalendarz\" z pulpitu?</string>
+  <string name="calendar_privacy_policy">Polityka prywatności</string>
+  <string name="calendar_user_agreement">Umowa użytkownika</string>
+  <string name="copy">Kopiuj</string>
+  <string name="expand_button_title">Zaawansowane</string>
+  <string name="miuix_appcompat_deselect_all">Odznacz</string>
+  <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+  <string name="not_set">Nie ustawiono</string>
+  <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
+  <string name="prefsx_notify_sound_none">Cichy</string>
+  <string name="v7_preference_off">WYŁ.</string>
+  <string name="v7_preference_on">WŁ.</string>
 </resources>
