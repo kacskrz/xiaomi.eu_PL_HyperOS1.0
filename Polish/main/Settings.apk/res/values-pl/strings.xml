@@ -8592,4 +8592,5 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="add_text_app_name">Dodaj testową aplikację</string>
   <string name="add_text_app_name_here">Wprowadź nazwę pakietu</string>
   <string name="add_text_app_package_name">Dodaj testową aplikację</string>
+  <string name="miheadset_adaptive">Adaptacyjne</string>
 </resources>
