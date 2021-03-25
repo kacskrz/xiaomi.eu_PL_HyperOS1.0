@@ -392,8 +392,8 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="wind_direction_no_data">Wiatr</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
-  <string name="xiaomi_weather_description_content">"Masz zamiar usunąć tę aplikację. Upewnij się, że nie będziesz już potrzebował jej funkcjonalności."</string>
-  <string name="xiaomi_weather_description_title">O aplikacji</string>
+  <string name="xiaomi_weather_description_content">"Pogoda to aplikacja systemowa. Po jej odinstalowaniu nie będzie można wyświetlać informacji o pogodzie, a także korzystać z powiązanych z aplikacją widżetów."</string>
+  <string name="xiaomi_weather_description_title">Odinstalować Pogodę?</string>
   <string name="yes_vote_ratio">For %1$s%%</string>
   <string name="your_location">Twoja lokalizacja</string>
   <string name="dislike_alert_dialog_title">Dlaczego nie chcesz widzieć tej zawartości?</string>
@@ -450,4 +450,6 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="weather_aqi_full_air_quality_forcast">Pełna prognoza jakości powietrza</string>
   <string name="weather_more_air_quality">Więcej o jakości powietrza</string>
   <string name="welcome_app_title">Witaj w Pogodzie!</string>
+  <string name="xiaomi_weather_description_content_remove">"Pogoda to aplikacja systemowa. Po jej odinstalowaniu nie będzie można wyświetlać informacji o pogodzie, a także korzystać z powiązanych z aplikacją widżetów."</string>
+  <string name="xiaomi_weather_description_title_remove">Usunąć Pogodę z pulpitu?</string>
 </resources>
