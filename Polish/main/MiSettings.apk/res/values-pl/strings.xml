@@ -526,7 +526,7 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="fps_smooth_title">Wysoka</string>
     <string name="fps_standard_summary">Standardowa częstotliwość odświeżania oszczędza baterię</string>
     <string name="fps_standard_title">Standardowa</string>
-    <string name="fps_user_tip">Demonstracje poszczególnych trybów są odtwarzane z małą prędkością w celach informacyjnych. Rzeczywiste działanie może wyglądać inaczej w zależności od różnych czynników.</string>
+    <string name="fps_user_tip">1. Demonstracje poszczególnych trybów są odtwarzane z małą prędkością w celach informacyjnych. Rzeczywiste działanie może wyglądać inaczej w zależności od różnych czynników.</string>
     <string name="usage_new_home_week_average_count">Śr. %s</string>
     <string name="usage_new_home_week_compare_text1_new">(%s%% więcej niż w zeszłym tygodniu)</string>
     <string name="usage_new_home_week_compare_text2_new">(%s%% mniej niż w zeszłym tygodniu)</string>
@@ -850,4 +850,7 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
     <string name="miuix_appcompat_select_all_description">Wybierz wszystko</string>
     <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+    <string name="adaptive_fps_tip">2. Osiągnij najlepszy kompromis pomiędzy płynnością a czasem pracy na baterii, korzystając z dynamicznego dostosowania częstotliwości odświeżania ekranu.</string>
+    <string name="close">Zamknij</string>
+    <string name="send">Wyślij</string>
 </resources>
