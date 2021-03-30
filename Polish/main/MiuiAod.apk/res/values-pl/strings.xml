@@ -262,4 +262,10 @@ dd.MM"</string>
     <string name="align_left_vertically">Pionowy i wyrównany do lewej</string>
     <string name="align_right_horizontally">Poziomy i wyrównany do prawej</string>
     <string name="align_right_vertically">Pionowy i wyrównany do prawej</string>
+    <string name="close">Zamknij</string>
+    <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
+    <string name="miuix_appcompat_deselect_all">Odznacz</string>
+    <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+    <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+    <string name="send">Wyślij</string>
 </resources>

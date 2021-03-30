@@ -442,4 +442,6 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="miuix_appcompat_select_item">Wybierz elementy</string>
   <string name="stop_blur_location">Tak</string>
   <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
+  <string name="close">Zamknij</string>
+  <string name="send">Wyślij</string>
 </resources>

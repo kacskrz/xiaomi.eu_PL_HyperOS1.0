@@ -356,4 +356,6 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="send">Wyślij</string>
   <string name="notification_save_as_complete">Pomyślnie zapisano</string>
   <string name="save_as">Zapisz jako</string>
+  <string name="remove_icon_description_content">"Dyktafon to aplikacja systemowa. Po usunięciu skrótu z pulpitu nie będzie można zarządzać nagraniami."</string>
+  <string name="remove_icon_description_title">Usunąć \"Dyktafon\" z pulpitu?</string>
 </resources>

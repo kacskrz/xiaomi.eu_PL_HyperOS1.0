@@ -1773,4 +1773,5 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="sensor_answer_summary">Przyłóż telefon do ucha, aby automatycznie rozpocząć przychodzące połączenie</string>
   <string name="sensor_answer_title">Zbliż, aby rozmawiać</string>
   <string name="select_apn_list_title">Wybierz domyślny APN: karta %1$s</string>
+  <string name="wfcmode_ims_preferred">Preferuj IMS</string>
 </resources>

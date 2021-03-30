@@ -252,4 +252,6 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
     <string name="miuix_appcompat_select_all_description">Wybierz wszystko</string>
     <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+    <string name="dialog_scanning_precondition_new_china">Włącz Wi-Fi, Bluetooth i lokalizację, aby móc używać Przesyłania ekranu. Zrobić to teraz?</string>
+    <string name="dialog_scanning_precondition_new_global">Włącz Wi-Fi, Bluetooth i lokalizację, aby móc używać Przesyłania ekranu. Zrobić to teraz?</string>
 </resources>

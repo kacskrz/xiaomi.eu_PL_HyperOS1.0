@@ -233,4 +233,9 @@ Możesz usunąć ten plik."</item>
         <item quantity="one">%d aplikacja z wideo w pamięci podręcznej</item>
         <item quantity="few">%d aplikacje z wideo w pamięci podręcznej</item>
     </plurals>
+    <plurals name="whatsapp_file_audio_dec">
+        <item quantity="other">%1$s plików audio</item>
+        <item quantity="one">%1$s plik audio</item>
+        <item quantity="few">%1$s pliki audio</item>
+    </plurals>
 </resources>

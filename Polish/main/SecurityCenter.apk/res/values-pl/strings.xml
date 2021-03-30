@@ -4439,4 +4439,24 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gb_not_support_on_device">"Ta aplikacja nie może być używana na ekranie zewnętrznym"</string>
     <string name="vb_ve_settings_ai_stronger">SI</string>
     <string name="vtb_func_display_style_desc0">SI może rozpoznawać różne obiekty (np. ludzi, zwierzęta, rośliny czy budynki) w filmach i dynamicznie je ulepszać.</string>
+    <string name="cetus_invisible_mode">Incognito</string>
+    <string name="cetus_invisible_mode_description_card">Zawieś uprawnienia</string>
+    <string name="cetus_invisible_mode_description_switch">Włącz, aby zawiesić uprawnienia dot. mikrofonu, aparatu i lokalizacji dla wszystkich aplikacji</string>
+    <string name="cetus_invisible_mode_warn_all">"Jesteś incognito. Uprawnienia dot. mikrofonu, aparatu i lokalizacji są zawieszone."</string>
+    <string name="cetus_invisible_mode_warn_camera">"Jesteś incognito. Uprawnienia dot. aparatu są zawieszone."</string>
+    <string name="cetus_invisible_mode_warn_location">"Jesteś incognito. Uprawnienia dot. lokalizacji są zawieszone."</string>
+    <string name="cetus_invisible_mode_warn_record_audio">"Jesteś incognito. Uprawnienia dot. mikrofonu są zawieszone."</string>
+    <string name="power_center_night_charge_noti_subtitle">Bateria będzie naładowana do pełna o %s</string>
+    <string name="power_center_night_charge_noti_title">Włączono optymalizację ładowania</string>
+    <string name="power_center_night_charge_protection">Optymalizacja ładowania</string>
+    <string name="power_center_night_charge_protection_setting">Wyświetl więcej opcji w Panelu sterowania > Bateria.</string>
+    <string name="power_center_night_charge_protection_summary">Aby zredukować starzenie się baterii, MIUI uczy się Twoich nawyków, aby ograniczyć niepotrzebne ciągłe ładowanie</string>
+    <string name="power_dailog_night_charge_protection_done">Rozumiem</string>
+    <string name="power_dailog_night_charge_protection_summary">Wygląda na to, że w większości przypadków ładujesz swoją baterię do pełna, co może przyspieszyć jej starzenie. Aby uniknąć tego problemu, MIUI włączyło dla Ciebie optymalizację ładowania.</string>
+    <string name="storage_clear_available_total_size">Zajęto %1$s/%3$s | Dostępne %2$s</string>
+    <string name="storage_clear_cache">Zwolnij %s</string>
+    <string name="storage_clear_cache_deep">Zwolnij miejsce</string>
+    <string name="storage_clear_cache_large">Zwolnij %s</string>
+    <string name="storage_clear_more_tools">Więcej narzędzi do czyszczenia pamięci</string>
+    <string name="storage_clear_video">Wyczyść pamięć podręczną wideo</string>
 </resources>

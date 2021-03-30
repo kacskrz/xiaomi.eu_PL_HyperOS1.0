@@ -857,4 +857,9 @@
     <string name="video_clean_image_clean_summary">Usuń duplikaty zdjęć, aby zwolnić miejsce</string>
     <string name="video_clean_image_clean_title">Usuń duplikaty zdjęć</string>
     <string name="junk_temporary_file">Pliki tymczasowe</string>
+    <string name="whatsapp_cache_clear">Czyszczenie pamięci podręcznej…</string>
+    <string name="whatsapp_detail_cache_result">Wyczyszczono %s</string>
+    <string name="whatsapp_detail_sort_created">Sortuj po dacie</string>
+    <string name="whatsapp_file_recv">Otrzymane</string>
+    <string name="whatsapp_file_send">Wysłane</string>
 </resources>

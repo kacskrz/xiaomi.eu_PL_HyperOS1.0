@@ -591,4 +591,9 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="sync_desc_state_complete_china">Wszystkie %1$s zostały zsynchronizowane</string>
   <string name="sync_desc_state_disable">Włącz synchronizację z Chmurą</string>
   <string name="sync_desc_state_running">Synchronizowanie z Chmurą</string>
+  <string name="close">Zamknij</string>
+  <string name="miuix_appcompat_deselect_all">Odznacz</string>
+  <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+  <string name="send">Wyślij</string>
 </resources>
