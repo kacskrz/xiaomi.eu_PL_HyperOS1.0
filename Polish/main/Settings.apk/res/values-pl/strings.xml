@@ -2904,8 +2904,8 @@ Kopia zapasowa nie wlicza się do limitu miejsca na Dysku Google. Nie zostanie t
   <string name="gxzw_quick_open_slow_summary">Dotknij i przytrzymaj ikonę czytnika, aby otworzyć menu ze skrótami. Następnie przesuń palcem w danym kierunku, aby użyć wybranej opcji.</string>
   <string name="gxzw_quick_open_slow_title">Dotknij i przytrzymaj</string>
   <string name="gxzw_quick_open_title">Skróty</string>
-  <string name="handy_mode">Jedna Dłoń</string>
-  <string name="handy_mode_enable">Jedna Dłoń</string>
+  <string name="handy_mode">Tryb Jedna Dłoń</string>
+  <string name="handy_mode_enable">Tryb Jedna Dłoń</string>
   <string name="handy_mode_enter_ask">Pytaj przed włączeniem Jednej Dłoni</string>
   <string name="handy_mode_size">Rozmiar ekranu</string>
   <string name="handy_mode_tips">"Przesuń palcem z lewej lub prawej strony od przycisku Ekran główny, aby zbliżyć ekran do jednej ze stron. "</string>
@@ -3550,7 +3550,7 @@ PIN musi zawierać tyle samo cyfr co PIN głównego profilu."</string>
   <string name="lockscreen_label">Ekran blokady</string>
   <string name="lockscreen_magazine">Codzienne tapety blokady</string>
   <string name="lockscreen_magazine_india">Glance dla Xiaomi</string>
-  <string name="lockscreen_magazine_summary">Wysokiej jakości tapety</string>
+  <string name="lockscreen_magazine_summary">Każdego dnia na ekranie blokady będzie pojawiać się nowa tapeta</string>
   <string name="lockscreen_magazine_title">Codzienne tapety blokady</string>
   <string name="lockscreen_settings_title">Preferencje ekranu blokady</string>
   <string name="lockscreen_sidepanel_shortcuts_summary">Dostosuj skróty aplikacji, które mają być wyświetlane po przeciągnięciu w prawo na ekranie blokady</string>

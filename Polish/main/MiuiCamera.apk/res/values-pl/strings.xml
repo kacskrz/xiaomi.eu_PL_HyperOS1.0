@@ -944,6 +944,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_whitebalance_title">WB</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">Ciemno</string>
   <string name="pref_camera_zoom_mode_entry_macro">Makro</string>
+  <string name="pref_camera_zoom_mode_entry_macro_abbr">MAKRO</string>
   <string name="pref_camera_zoom_mode_entry_standard">Normalny</string>
   <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
@@ -951,8 +952,8 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">TELE 5X</string>
   <string name="pref_camera_zoom_mode_entry_tele_abbr">TELE</string>
   <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
-  <string name="pref_camera_zoom_mode_entry_ultra">Bardzo szeroki</string>
-  <string name="pref_camera_zoom_mode_entry_ultra_abbr">BARDZO SZEROKI</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">B. szeroki</string>
+  <string name="pref_camera_zoom_mode_entry_ultra_abbr">B. SZEROKI</string>
   <string name="pref_camera_zoom_mode_entry_wide">Szeroki</string>
   <string name="pref_camera_zoom_mode_entry_wide_abbr">SZEROKI</string>
   <string name="pref_camera_zoom_mode_title">Obiektyw</string>
