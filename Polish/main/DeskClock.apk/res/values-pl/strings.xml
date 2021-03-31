@@ -465,4 +465,7 @@
   <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
   <string name="miuix_appcompat_select_item">Wybierz elementy</string>
   <string name="send">Wyślij</string>
+  <string name="version_update_dialog_negative_desc">Nie teraz</string>
+  <string name="version_update_dialog_positive_desc">Aktualizuj</string>
+  <string name="version_update_dialog_title">Dostępna aktualizacja</string>
 </resources>

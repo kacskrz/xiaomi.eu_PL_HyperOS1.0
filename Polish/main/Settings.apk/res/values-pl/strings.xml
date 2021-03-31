@@ -8603,4 +8603,6 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
 Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="bluetooth_phonebook_access_dialog_title">Zezwolić na dostęp do kontaktów i historii połączeń?</string>
   <string name="bluetooth_phonebook_access_notification_content">Niezaufane urządzenie chce uzyskać dostęp do Twoich kontaktów i historii połączeń. contacts and call log. Dotknij, aby uzyskać szczegóły.</string>
+  <string name="xiaomi_hp_location">Dostęp do precyzyjnej lokalizacji</string>
+  <string name="xiaomi_hp_location_description">Dostęp do precyzyjnej lokalizacji umożliwia dokładniejszą nawigację</string>
 </resources>

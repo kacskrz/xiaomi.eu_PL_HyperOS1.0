@@ -232,4 +232,8 @@
   <string name="dolby_dax_profile_dynamic">Dynamiczny</string>
   <string name="dolby_dax_setting">Efekty Dolby</string>
   <string name="dolby_dax_title">Dźwięk przestrzenny</string>
+  <string name="music_headset_audio_visual_mute">Podgląd bez dźwięku</string>
+  <string name="music_headset_audio_visual_unmute">Podgląd z dźwiękiem</string>
+  <string name="not_support_sound_transmission_content">"Funkcja nie jest wspierana przez połączone urządzenie. Spróbuj jej użyć z innym urządzeniem Bluetooth."</string>
+  <string name="not_support_sound_transmission_prompt">Uwaga</string>
 </resources>
