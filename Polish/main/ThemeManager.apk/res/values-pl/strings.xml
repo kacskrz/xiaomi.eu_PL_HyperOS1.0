@@ -603,7 +603,7 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="resource_on_trial">Motyw próbny: %1$s</string>
   <string name="resource_on_use">Zastosowano: %1$s</string>
   <string name="resource_online">Online</string>
-  <string name="resource_online_picker">Wybierz pobrany dzwonek</string>
+  <string name="resource_online_picker">Wybierz dzwonek online</string>
   <string name="resource_pack_confirm">Nawet jeśli już zakupiłeś %1$d komponentów w tym motywie, będzie taniej, jeśli zakupisz pozostałe komponenty w zestawie.</string>
   <string name="resource_pack_discount_info">%1$s mniej!</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Ten motyw nie jest już dostępny</string>
