@@ -1878,4 +1878,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="accessibility_lock_focus_success">Pomyślnie zablokowano ostrość</string>
   <string name="accessibility_touch_focus_fail">"Nie udało się ustawić ostrości"</string>
   <string name="accessibility_touch_focus_success">Pomyślnie ustawiono ostrość</string>
+  <string name="accessibility_multi_cam_reselect_button">Wybierz aparaty ponownie</string>
+  <string name="accessibility_pro_parameters_panel_on">Otwórz menu z parametrami PRO</string>
+  <string name="super_night_owl_toast">Trzymaj telefon stabilnie</string>
 </resources>
