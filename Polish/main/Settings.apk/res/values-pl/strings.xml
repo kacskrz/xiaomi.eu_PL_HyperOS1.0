@@ -8605,4 +8605,20 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="bluetooth_phonebook_access_notification_content">Niezaufane urządzenie chce uzyskać dostęp do Twoich kontaktów i historii połączeń. contacts and call log. Dotknij, aby uzyskać szczegóły.</string>
   <string name="xiaomi_hp_location">Dostęp do precyzyjnej lokalizacji</string>
   <string name="xiaomi_hp_location_description">Dostęp do precyzyjnej lokalizacji umożliwia dokładniejszą nawigację</string>
+  <string name="headset_find_both">Obie</string>
+  <string name="headset_find_cancel">Anuluj</string>
+  <string name="headset_find_connected">Połączono</string>
+  <string name="headset_find_disconnect">Nie połączono</string>
+  <string name="headset_find_handle_tip">Dotknij, aby odtworzyć alarm</string>
+  <string name="headset_find_left">Lewa</string>
+  <string name="headset_find_notify_connected">Połączono</string>
+  <string name="headset_find_notify_disconnect">Rozłączono. Połącz i spróbuj ponownie.</string>
+  <string name="headset_find_play_warning">Wygląda na to, że co najmniej jedna ze słuchawek jest w Twoim uchu. Odtworzenie tego alarmu teraz może uszkodzić Twój słuch. Zanim kontynuujesz, zdejmij słuchawki z uszu.</string>
+  <string name="headset_find_playing">Odtwarzanie…</string>
+  <string name="headset_find_query_play">Odtwórz</string>
+  <string name="headset_find_right">Prawa</string>
+  <string name="headset_find_tip">Twoje słuchawki powinny znajdować się w pobliżu i być połączone z tym urządzeniem, aby je znaleźć. Odtworzenie alarmu w momencie, gdy co najmniej jedna ze słuchawek znajduje się w Twoim uchu, może uszkodzić Twój słuch.</string>
+  <string name="headset_find_tip_title">Uwaga</string>
+  <string name="headset_find_title">Znajdź swoje słuchawki</string>
+  <string name="headset_find_voice_warning">Ostrzeżenie dot. wysokiej głośności</string>
 </resources>
