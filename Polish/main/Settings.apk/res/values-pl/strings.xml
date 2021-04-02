@@ -8622,4 +8622,11 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="headset_find_title">Znajdź swoje słuchawki</string>
   <string name="headset_find_voice_warning">Ostrzeżenie dot. wysokiej głośności</string>
   <string name="subscreen_title">Tylny wyświetlacz</string>
+  <string name="dclight_unavailable_prompt">Tryb Ograniczenie migotania jest wspierany tylko przez zewnętrzny ekran</string>
+  <string name="display_prompt_confirm">Rozumiem</string>
+  <string name="keyguard_notification_status_title">Gdy nadejdą powiadomienia i ekran jest wyłączony</string>
+  <string name="launcher_wallpaper_title">Pulpit i tapeta</string>
+  <string name="lock_screen_after_fold_screen_summary">"Urządzenie zostanie zablokowane po złożeniu z wyjątkiem sytuacji, gdy korzystasz z przedniego aparatu bądź głośnika."</string>
+  <string name="lock_screen_after_fold_screen_title">Złóż, aby zablokować</string>
+  <string name="screen_refresh_unavailable_prompt">Zmiana częstotliwości odświeżania jest wspierana tylko przez zewnętrzny ekran</string>
 </resources>

@@ -663,4 +663,11 @@
   <string name="deleted_system_applications">Odinstalowane aplikacje systemowe</string>
   <string name="remove_sys_app_content">Będziesz mógł ponownie dodać skrót na pulpicie w Ustawieniach &gt; Aplikacje &gt; Zarządzaj skrótami na pulpicie. Usunąć go teraz?</string>
   <string name="remove_sys_app_title">Usunąć skrót z pulpitu?</string>
+  <string name="default_screen_preview_title_inner_display">Ustaw ekran główny jako domyślny</string>
+  <string name="default_screen_preview_title_outer_display">Ustaw ekran zewnętrzny jako domyślny</string>
+  <string name="icon_size_inner_display">Rozmiar ikon ekranu głównego</string>
+  <string name="menu_cell_setting_inner_display">Układ ekranu głównego</string>
+  <string name="menu_default_screen_preview_inner_display">Ustaw ekran główny jako domyślny</string>
+  <string name="menu_default_screen_preview_outer_display">Ustaw ekran zewnętrzny jako domyślny</string>
+  <string name="screen_cells_config_title_inner_display">Układ ekranu głównego</string>
 </resources>

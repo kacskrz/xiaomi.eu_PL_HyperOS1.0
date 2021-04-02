@@ -1166,4 +1166,30 @@ Sprawdź kartę SIM."</string>
     <string name="miuix_appcompat_select_all_description">Zaznacz wszystko</string>
     <string name="no_dialogue_yet">Wybierz konwersację</string>
     <string name="rcs_chatbot_blocked_tip">"Ta miniaplikacja została zablokowana. Nie można rozpocząć konwersacji."</string>
+    <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
+    <string name="messages_installed_notification_text_xiaomi">Dotknij, aby rozpocząć czat</string>
+    <string name="messages_installed_notification_title_xiaomi">Zainstalowano Wiadomości</string>
+    <string name="miuix_appcompat_deselect_all">Odznacz</string>
+    <string name="miuix_appcompat_select_all">Wybierz wszystko</string>
+    <string name="miuix_appcompat_select_item">Zaznacz elementy</string>
+    <string name="notification_channel_name_xiaomi">Powiadomienia dot. aktualizacji aplikacji</string>
+    <string name="privacy_revoke_nonetwork_msg">Aby wycofać zgodę, urządzenie musi połączyć się z Internetem. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+    <string name="privacy_revoke_nonetwork_ok">Rozumiem</string>
+    <string name="privacy_revoke_nonetwork_title">"Nie można połączyć się z siecią"</string>
+    <string name="promo_back_btn_text_xiaomi">Wróć do SMS od Xiaomi</string>
+    <string name="promo_install_btn_text">Dalej</string>
+    <string name="promo_install_bullet_1_xiaomi">Używaj Asystenta Google do tekstów i zadań</string>
+    <string name="promo_install_bullet_2_xiaomi">Twoje obecne konwersacje i multimedia pozostaną na miejscu</string>
+    <string name="promo_install_bullet_3_xiaomi">Łatwo znajdź wysłane wiadomości i multimedia</string>
+    <string name="promo_install_bullet_4_xiaomi">Użyj Wiadomości jako domyślnej aplikacji do SMS-ów</string>
+    <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Dowiedz się więcej</a></string>
+    <string name="promo_install_subtitle_xiaomi">Uzyskaj czat o wyższej jakości działający niezależnie od tego, czy jesteś w zasięgu sieci Wi-Fi, czy korzystasz z danych komórkowych. Zainstaluj Wiadomości i użyj ich jako domyślnej aplikacji do SMS-ów. <a href="https://support.google.com/messages/answer/6089066">Dowiedz się więcej</a></string>
+    <string name="promo_install_title_xiaomi">Xiaomi zaleca instalację Wiadomości od Google</string>
+    <string name="promo_launch_messages_btn_text">Otwórz Wiadomości</string>
+    <string name="promo_no_thanks_btn_text_xiaomi">Nie, dzięki</string>
+    <string name="promo_post_install_animation_alt_text_xiaomi">Wiadomości od Google są teraz Twoją domyślną aplikacją do SMS-ów. Aby umieścić ją w panelu ulubionych na pulpicie, przytrzymaj ikonkę aplikacji SMS od Xiaomi i przenieś ją poza obszar ulubionych, a następnie przytrzymaj ikonę Wiadomości od Google i przenieś ją w to miejsce.</string>
+    <string name="promo_post_install_title_no_default_xiaomi">Zastąp SMS od Xiaomi aplikacją Wiadomości od Google</string>
+    <string name="promo_post_install_title_with_default_xiaomi">Rozpocznij pisanie z aplikacją Wiadomości od Google</string>
+    <string name="promo_use_messages_btn_text">Użyj Wiadomości</string>
+    <string name="small_window_log_text">"Aparat nie może być używany w trybie wielu okien"</string>
 </resources>

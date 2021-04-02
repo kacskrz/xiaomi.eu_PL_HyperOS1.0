@@ -1198,4 +1198,13 @@ dd.M."</string>
   <string name="set_as_colorring">Ustaw jako własny dzwonek</string>
   <string name="ringtone_confirm_dialog_message">"Długość tego dzwonka jest dość długa. Użyć go mimo to?"</string>
   <string name="ringtone_confirm_dialog_title">Uwaga</string>
+  <string name="wallpaper_apply_full">Zastosuj na obu ekranach</string>
+  <string name="wallpaper_apply_large">Zastosuj na głównym ekranie</string>
+  <string name="wallpaper_apply_small">Zastosuj na zewnętrznym ekranie</string>
+  <string name="wallpaper_set_as_both_large">Ustaw wszędzie na głównym ekranie</string>
+  <string name="wallpaper_set_as_both_small">Ustaw wszędzie na zewnętrznym ekranie</string>
+  <string name="wallpaper_set_as_desktop_large">Ustaw na pulpicie na głównym ekranie</string>
+  <string name="wallpaper_set_as_desktop_small">Ustaw na pulpicie na zewnętrznym ekranie</string>
+  <string name="wallpaper_set_as_lockscreen_large">Ustaw na Ekranie blokady na głównym ekranie</string>
+  <string name="wallpaper_set_as_lockscreen_small">Ustaw na Ekranie blokady na zewnętrznym ekranie</string>
 </resources>

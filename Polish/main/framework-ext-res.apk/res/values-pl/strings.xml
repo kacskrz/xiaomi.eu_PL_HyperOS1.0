@@ -333,4 +333,9 @@
   <string name="dock_tip_splitscreen_portrait_float">Przytrzymaj i przeciągnij do lewej lub prawej krawędzi ekranu, aby włączyć tryb pływającego okna.</string>
   <string name="miui_multiwindow_not_support_split">Aplikacja %1$s nie wspiera podzielonego ekranu.</string>
   <string name="turn_on_work_profile">Włącz</string>
+  <string name="relaunch_dialog_alwaysUsePrompt">Zapamiętaj mój wybór</string>
+  <string name="relaunch_dialog_button_cancel">Anuluj</string>
+  <string name="relaunch_dialog_button_confirm">OK</string>
+  <string name="relaunch_dialog_message">"Nie można dostosować rozmiaru okna, gdy korzystasz z aplikacji. Możesz ją zrestartować w celu zmiany rozmiaru, ale jej dane wygenerowane w trakcie tej sesji zostaną utracone. Zrestartować mimo to?"</string>
+  <string name="relaunch_dialog_title">Zrestartować \"%s\"?</string>
 </resources>
