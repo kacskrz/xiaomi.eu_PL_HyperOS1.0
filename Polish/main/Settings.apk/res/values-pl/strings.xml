@@ -8621,4 +8621,5 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="headset_find_tip_title">Uwaga</string>
   <string name="headset_find_title">Znajdź swoje słuchawki</string>
   <string name="headset_find_voice_warning">Ostrzeżenie dot. wysokiej głośności</string>
+  <string name="subscreen_title">Tylny wyświetlacz</string>
 </resources>
