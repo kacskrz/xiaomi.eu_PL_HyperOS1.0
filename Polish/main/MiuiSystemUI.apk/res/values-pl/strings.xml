@@ -2664,13 +2664,4 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="miui_snooze_until_unlock_screen">Do zablokowania ekranu</string>
     <string name="miui_snooze_user_set_fail">Aby zobaczyć więcej opcji, przejdź do Ustawień > Powiadomienia i Centrum funkcji</string>
     <string name="miui_snooze_user_set_success">Pomyślnie zastosowano. Aby zobaczyć więcej opcji, przejdź do Ustawień > Powiadomienia i Centrum funkcji.</string>
-    <string name="keyguard_charging_info_battery_used_time_text">Na baterii</string>
-    <string name="keyguard_charging_info_drained_power_percent_text">Drenowana</string>
-    <string name="keyguard_charging_info_last_charged_time_text">Ostatnie ładowanie</string>
-    <string name="keyguard_charging_info_tip_text1">Aby przedłużyć żywotność baterii, nie pozwalaj na jej rozładowywanie poniżej 10%.</string>
-    <string name="keyguard_charging_info_tip_text2">"Nie ładuj urządzenia do pełna. Kilka krótszych ładowań jest lepszych niż ładowanie przez noc do pełna."</string>
-    <string name="keyguard_charging_info_tip_text3">Unikaj ładowania urządzenia, gdy temperatura otoczenia jest niższa niż 0℃.</string>
-    <string name="keyguard_charging_info_tip_text4">"Nie używaj aktywnie urządzenia, gdy jest ono ładowane, aby uniknąć jego przegrzania."</string>
-    <string name="keyguard_charging_info_tip_text5">Gdy baterie są bardziej gorące niż zazwyczaj, ich ładowanie trwa dłużej.</string>
-    <string name="keyguard_charging_info_tip_text6">Wyłącz ekran i odłóż urządzenie, aby je schłodzić.</string>
 </resources>
