@@ -100,9 +100,9 @@
   <string name="ok">OK</string>
   <string name="doc_photo_enhance_bin_desc">Czarno-biała kopia</string>
   <string name="doc_photo_enhance_color_desc">Skan z ulepszonymi kolorami</string>
-  <string name="doc_photo_enhance_moer">Usuń efekt moiré</string>
-  <string name="doc_photo_enhance_moer_desc">Usuń wzory moiré ekranu</string>
-  <string name="doc_photo_enhance_moer_toast">Usuń wzory moiré ekranu</string>
+  <string name="doc_photo_enhance_moer">Usuń efekt mory</string>
+  <string name="doc_photo_enhance_moer_desc">Usuń efekt mory</string>
+  <string name="doc_photo_enhance_moer_toast">Usuń efekt mory</string>
   <string name="doc_photo_enhance_undistortion">Unikanie zniekształceń</string>
   <string name="doc_photo_enhance_undistortion_desc">Popraw zniekształcenie obrazu</string>
   <string name="doc_photo_toast_undistortion_close">Unikanie zniekształceń wył.</string>
