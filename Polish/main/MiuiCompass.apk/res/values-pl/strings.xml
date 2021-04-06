@@ -104,4 +104,6 @@
   <string name="dialog_body_no_network_china">Połącz się z siecią Wi-Fi lub włącz dane mobilne.</string>
   <string name="location_not_enabled_summary_no_pressure_sensor">Kompas wymaga dostępu do lokalizacji, aby móc wyświetlać Twoje obecne położenie.</string>
   <string name="gradienter_title">Poziom</string>
+  <string name="remove_icon_description_content">"Kompas to aplikacja systemowa. Po usunięciu jej skrótu z pulpitu nie będzie można używać jej do sprawdzania kierunku, położenia, ciśnienia atmosferycznego i obecnej wysokości."</string>
+  <string name="remove_icon_description_title">Usunąć \"Kompas\" z pulpitu?</string>
 </resources>
