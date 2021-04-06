@@ -601,4 +601,9 @@
         <item quantity="few">Pliki PDF mogą zawierać maks. %d obrazy</item>
         <item quantity="other">Pliki PDF mogą zawierać maks. %d obrazów</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="one">Wybrano %d element</item>
+        <item quantity="few">Wybrano %d elementy</item>
+        <item quantity="other">Wybrano %d elementów</item>
+    </plurals>
 </resources>
