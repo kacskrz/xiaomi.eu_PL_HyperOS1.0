@@ -174,4 +174,33 @@ Wpisz numer powiązany z nową kartą SIM aby aktywować ponownie %s"</string>
   <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Aby aktywować %2$s, zostanie wysłany &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>płatny, zagraniczny SMS&lt;/b>. Operator pobierze od Ciebie opłatę za tego SMS-a według Twojej taryfy.</string>
   <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Aby aktywować %3$s, zostanie wysłany &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>płatny, krajowy SMS&lt;/b> oraz &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>płatny, zagraniczny SMS&lt;/b>. Operator pobierze od Ciebie opłatę za te SMS-y według Twojej taryfy.</string>
   <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Aby aktywować %2$s, zostanie wysłany &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>płatny SMS&lt;/font>. Operator pobierze od Ciebie opłatę za tego SMS-a według Twojej taryfy.</string>
+  <string name="actionbar_button_up_description">Wstecz</string>
+  <string name="clearable_edittext_clear_description">Wyczyść</string>
+  <string name="close">Zamknij</string>
+  <string name="date_picker_lunar">Tradycyjny chiński kalendarz</string>
+  <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Odznacz wszystko</string>
+  <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Zaznacz elementy</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Więcej</string>
+  <string name="miuix_appcompat_cancel_description">Anuluj</string>
+  <string name="miuix_appcompat_confirm_description">Potwierdź</string>
+  <string name="miuix_appcompat_delete_description">Usuń</string>
+  <string name="miuix_appcompat_deselect_all">Odznacz</string>
+  <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
+  <string name="miuix_appcompat_search_input_description">Szukaj</string>
+  <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_select_all_description">Wybierz wszystko</string>
+  <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Przeciągnij w dół, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">To wszystko na teraz</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">To wszystko na teraz</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
+  <string name="more">Więcej</string>
+  <string name="send">Wyślij</string>
 </resources>

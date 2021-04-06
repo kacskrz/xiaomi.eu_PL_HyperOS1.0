@@ -2664,4 +2664,5 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="miui_snooze_until_unlock_screen">Do zablokowania ekranu</string>
     <string name="miui_snooze_user_set_fail">Aby zobaczyć więcej opcji, przejdź do Ustawień > Powiadomienia i Centrum funkcji</string>
     <string name="miui_snooze_user_set_success">Pomyślnie zastosowano. Aby zobaczyć więcej opcji, przejdź do Ustawień > Powiadomienia i Centrum funkcji.</string>
+    <string name="choose_clock_dual_clock_hint_text">"Nie można zmienić formatu, gdy włączony jest Podwójny zegar"</string>
 </resources>

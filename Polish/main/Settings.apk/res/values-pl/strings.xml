@@ -8322,8 +8322,8 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miheadset_game_mode">Tryb gry</string>
   <string name="miheadset_game_mode_summary">Zmniejsz opóźnienie dźwięku w trakcie grania</string>
   <string name="miheadset_ignore">Odparuj</string>
-  <string name="miheadset_in_ear_check">Wykrywaj położenie słuchawek</string>
-  <string name="miheadset_in_ear_check_summary">Wstrzymaj bądź wznów odtwarzanie automatycznie, gdy przestaniesz bądź zaczniesz nosić słuchawki</string>
+  <string name="miheadset_in_ear_check">Wykrywanie słuchawek w uchu</string>
+  <string name="miheadset_in_ear_check_summary">Wstrzymaj odtwarzanie, gdy zdejmujesz słuchawki i wznawiaj je automatycznie wtedy, gdy wkładasz je do uszu</string>
   <string name="miheadset_last_version">Oprogramowanie jest aktualne</string>
   <string name="miheadset_moreSettingsInAi">Dodatkowe ustawienia</string>
   <string name="miheadset_openAnc">Redukcja szumów</string>
