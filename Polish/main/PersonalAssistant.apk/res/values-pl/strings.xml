@@ -1241,4 +1241,11 @@
     <string name="app_assist_sleep_redownload_dialog_title">Pobierz dźwięki</string>
     <string name="app_cancel">Anuluj</string>
     <string name="app_download_failure">Pobieranie nieudane</string>
+    <string name="close">Zamknij</string>
+    <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
+    <string name="miuix_appcompat_deselect_all">Odznacz</string>
+    <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+    <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+    <string name="search_header_dialog_title">Zmień tło</string>
+    <string name="send">Wyślij</string>
 </resources>

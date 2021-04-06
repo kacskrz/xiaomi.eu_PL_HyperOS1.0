@@ -169,4 +169,9 @@
         <item quantity="few">%1$d urządzenia</item>
         <item quantity="other">%1$d urządzeń</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Wybrano %d elementów</item>
+        <item quantity="one">Wybrano %d element</item>
+        <item quantity="few">Wybrano %d elementy</item>
+    </plurals>
 </resources>
