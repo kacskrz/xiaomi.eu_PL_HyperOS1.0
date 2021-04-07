@@ -8628,4 +8628,8 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="lock_screen_after_fold_screen_summary">"Urządzenie zostanie zablokowane po złożeniu z wyjątkiem sytuacji, gdy korzystasz z przedniego aparatu bądź głośnika."</string>
   <string name="lock_screen_after_fold_screen_title">Złóż, aby zablokować</string>
   <string name="screen_refresh_unavailable_prompt">Zmiana częstotliwości odświeżania jest wspierana tylko przez zewnętrzny ekran</string>
+  <string name="miheadset_ancDepth">Głębokie</string>
+  <string name="miheadset_ancEquilibrium">Zbalansowane</string>
+  <string name="miheadset_ancMild">Lekkie</string>
+  <string name="oem_lock_info_message">Zrestartuj urządzenie, aby aktywować funkcję ochrony urządzenia.</string>
 </resources>

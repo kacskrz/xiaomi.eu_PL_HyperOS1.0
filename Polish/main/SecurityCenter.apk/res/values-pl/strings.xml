@@ -3986,9 +3986,9 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
   <string name="image_protect_tips_title">Usuwanie zdjęć</string>
   <string name="image_protect_total_activity_label">Otrzymuj powiadomienia o usuniętych zdjęciach</string>
   <string name="perm_list_header_title_has_storage">Aplikacje z dostępem do pamięci</string>
-  <string name="permission_instruction_gallery">Aby chronić Twoją prywatność, MIUI pozwoli Ci zdecydować, czy chcesz zezwolić aplikacjom posiadającym uprawnienia dostępu do pamięci na dostęp do Galerii.</string>
-  <string name="permission_instruction_sociality">Aby chronić Twoją prywatność, MIUI pozwoli Ci zdecydować, czy chcesz zezwolić aplikacjom posiadającym uprawnienia dostępu do pamięci na dostęp do Twoich wiadomości w aplikacjach społecznościowych.</string>
-  <string name="permission_instruction_storage">Aby chronić Twoją prywatność, MIUI pozwoli Ci zdecydować, czy chcesz zezwolić aplikacjom posiadającym uprawnienia dostępu do pamięci na dostęp do Galerii oraz Twoich wiadomości w aplikacjach społecznościowych.</string>
+  <string name="permission_instruction_gallery">Jeśli zezwolisz aplikacjom na dostęp do plików w ich własnych katalogach, MIUI pozwoli Ci także zadecydować o tym, czy chcesz, aby uzyskiwały one także dostęp do elementów w Galerii, w celu ochrony Twojej prywatności. Ponieważ aplikacje z API 29 i wyżej Androida już wspierają partycje w pamięci, ten przełącznik nie będzie dla nich dostępny.</string>
+  <string name="permission_instruction_sociality">Jeśli zezwolisz aplikacjom na dostęp do plików w ich własnych katalogach, MIUI pozwoli Ci także zadecydować o tym, czy chcesz, aby uzyskiwały one także dostęp do elementów wygenerowanych w aplikacjach mediów społecznościowych, w celu ochrony Twojej prywatności. Ponieważ aplikacje z API 29 i wyżej Androida już wspierają partycje w pamięci, ten przełącznik nie będzie dla nich dostępny.</string>
+  <string name="permission_instruction_storage">Jeśli zezwolisz aplikacjom na dostęp do plików w ich własnych katalogach, MIUI pozwoli Ci także zadecydować o tym, czy chcesz, aby uzyskiwały one także dostęp do elementów w Galerii i plików wygenerowanych w aplikacjach mediów społecznościowych, w celu ochrony Twojej prywatności. Ponieważ aplikacje z API 29 i wyżej Androida już wspierają partycje w pamięci, ten przełącznik nie będzie dla nich dostępny.</string>
   <string name="pp_app_behavior_record_detail">Rejestruj wszystkie zachowania aplikacji</string>
   <string name="pp_app_del_img_intercept_detail">Otrzymuj powiadomienia w momencie, gdy aplikacje usuwają elementy z Galerii bez Twojego pozwolenia</string>
   <string name="pp_app_gets_dangerous_permission_reminder">Otrzymuj powiadomienia, gdy aplikacje używają uprawnień wysokiego ryzyka</string>
@@ -4459,4 +4459,13 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="storage_clear_cache_large">Zwolnij %s</string>
     <string name="storage_clear_more_tools">Więcej narzędzi do czyszczenia pamięci</string>
     <string name="storage_clear_video">Wyczyść pamięć podręczną wideo</string>
+    <string name="power_center_unoffical_battery_button">Znajdź autoryzowany serwis</string>
+    <string name="power_center_unoffical_battery_dialog">Ostrzeżenie dot. nieautoryzowanej baterii</string>
+    <string name="power_center_unoffical_battery_dialog_positive">Dowiedz się więcej</string>
+    <string name="power_center_unoffical_battery_dialog_summary">Wygląda na to, że w tym urządzeniu znajduje się nieautoryzowana bateria. Aby chronić urządzenie, zostanie zmniejszona moc ładowania. Używanie nieautoryzowanych baterii może skutkować ich puchnięciem, przegrzewaniem i wyciekiem. Ponadto mogą one powodować pojawienie się ognia bądź innych zagrożeń. Znajdź autoryzowany serwis i wymień baterię.</string>
+    <string name="power_center_unoffical_battery_noti_summary">Obecna bateria może być niebezpieczna</string>
+    <string name="power_center_unoffical_battery_summary1">Urządzenie zostało wyposażone w wbudowaną baterię, która powinna być wymieniana wyłącznie przez autoryzowany serwis.</string>
+    <string name="power_center_unoffical_battery_summary2">Wymiana baterii w inny sposób może uszkodzić urządzenie. Używanie nieautoryzowanych baterii może skutkować ich puchnięciem, przegrzewaniem i wyciekiem. Ponadto mogą one powodować pojawienie się ognia bądź innych zagrożeń. Nie używaj nieautoryzowanych baterii.</string>
+    <string name="power_center_unoffical_battery_tip">"Informacje o kondycji baterii nie są dostępne dla tej nieautoryzowanej baterii. Dotknij, aby dowiedzieć się więcej o zagrożeniach dla bezpieczeństwa."</string>
+    <string name="power_center_unoffical_battery_title">Zagrożenia powodowane używaniem nieautoryzowanych baterii</string>
 </resources>

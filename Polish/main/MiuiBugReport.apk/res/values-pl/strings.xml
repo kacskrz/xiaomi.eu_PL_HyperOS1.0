@@ -859,4 +859,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
   <string name="miuix_appcompat_select_item">Zaznacz elementy</string>
   <string name="send">Wyślij</string>
+  <string name="submit_dialog_confirm">Wyślij</string>
 </resources>

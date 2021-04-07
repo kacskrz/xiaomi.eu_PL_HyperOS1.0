@@ -1064,4 +1064,8 @@ Zrób sobie przerwę!"</item>
         <item quantity="few">Urządzenie wyłączy się za %d sekundy</item>
         <item quantity="one">Urządzenie wyłączy się za %d sekundę</item>
     </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Anuluj (%d sek.)</item>
+        <item quantity="one">Anuluj (%d sek.)</item>
+    </plurals>
 </resources>

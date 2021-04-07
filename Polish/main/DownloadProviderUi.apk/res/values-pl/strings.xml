@@ -453,4 +453,6 @@
   <string name="tip_download_icon_retry">"Nie udało się dodać skrótu. Spróbuj ponownie."</string>
   <string name="toast_download_icon_restore_fail">"Nie udało się dodać skrótu"</string>
   <string name="toast_download_icon_restore_success">Pomyślnie dodano</string>
+  <string name="dialog_download_dir_content" formatted="false">Domyślny katalog pobierania został zmieniony z \"%s\" na \"%s/DLManager\".</string>
+  <string name="dialog_download_dir_title">Nowa lokalizacja pobrań</string>
 </resources>
