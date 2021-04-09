@@ -295,4 +295,6 @@
     <string name="public_pdf_print_fail">"Nie udało się wydrukować dokumentu"</string>
     <string name="public_pdf_print_title">Drukuj</string>
     <string name="public_thumbnail_title">Podgląd</string>
+    <string name="public_sensor_ratation_land_tip">Orient. pozioma</string>
+    <string name="public_sensor_ratation_port_tip">Orient. pionowa</string>
 </resources>
