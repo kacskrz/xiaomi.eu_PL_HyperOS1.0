@@ -37,4 +37,11 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
   <string name="privacy_station_title">Prywatność w Xiaomi</string>
+  <string name="copyright">Prawa autorskie</string>
+  <string name="instruction">Informacje dot. bezpieczeństwa</string>
+  <string name="privacy_policy">Polityka prywatności</string>
+  <string name="sar">Informacje dot. ekspozycji RF</string>
+  <string name="user_agreement">Warunki użytkowania</string>
+  <string name="user_experience_program">Program ulepszania doświadczeń</string>
+  <string name="user_manual">Przewodnik</string>
 </resources>
