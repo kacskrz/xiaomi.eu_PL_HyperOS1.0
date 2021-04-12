@@ -444,4 +444,8 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
   <string name="close">Zamknij</string>
   <string name="send">Wyślij</string>
+  <string name="cetus_invisible_mode_notice_audio">"Jesteś incognito. Nie można użyć mikrofonu."</string>
+  <string name="cetus_invisible_mode_notice_camera">"Jesteś incognito. Nie można użyć aparatu."</string>
+  <string name="cetus_invisible_mode_notice_location">"Jesteś incognito. Nie można uzyskać lokalizacji."</string>
+  <string name="cetus_invisible_mode_notice_tip">Dotknij, aby wyłączyć tryb Incognito w Ustawieniach</string>
 </resources>

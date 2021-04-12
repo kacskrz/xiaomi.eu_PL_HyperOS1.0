@@ -8632,4 +8632,9 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="miheadset_ancEquilibrium">Zbalansowane</string>
   <string name="miheadset_ancMild">Lekkie</string>
   <string name="oem_lock_info_message">Zrestartuj urządzenie, aby aktywować funkcję ochrony urządzenia.</string>
+  <string name="fingerprint_base_title">Odcisk palca %s</string>
+  <string name="fingerprint_gxzw_add_fingerprint_finish">Zapisano jako \"%s\"</string>
+  <string name="miheadset_fitness_check_result_l_not_ok">Popraw słuchawkę</string>
+  <string name="miheadset_fitness_check_result_r_not_ok">Popraw słuchawkę</string>
+  <string name="voip_assistant_settings">Asystent VoIP</string>
 </resources>

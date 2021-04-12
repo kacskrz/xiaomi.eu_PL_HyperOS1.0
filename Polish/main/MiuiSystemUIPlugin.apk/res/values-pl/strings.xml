@@ -202,7 +202,7 @@
     <string name="notification_control_center">Powiadomienia i Centrum kontroli</string>
     <string name="accessibility_volume_collapse">Zwiń</string>
     <string name="accessibility_volume_expand">Rozwiń</string>
-    <string name="miui_dnd_count_down">Licznik Godzin ciszy</string>
+    <string name="miui_dnd_count_down">Przesuń, aby ustawić minutnik</string>
     <string name="miui_dnd_count_down_time">"Licznik Godzin ciszy
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Ustawienia</string>

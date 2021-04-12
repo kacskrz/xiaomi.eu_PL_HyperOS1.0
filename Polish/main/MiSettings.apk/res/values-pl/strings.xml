@@ -853,4 +853,5 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="adaptive_fps_tip">2. Osiągnij najlepszy kompromis pomiędzy płynnością a czasem pracy na baterii, korzystając z dynamicznego dostosowania częstotliwości odświeżania ekranu.</string>
     <string name="close">Zamknij</string>
     <string name="send">Wyślij</string>
+    <string name="usage_app_holiday_limit">Dni wolne</string>
 </resources>

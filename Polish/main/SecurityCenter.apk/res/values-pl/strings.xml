@@ -4468,4 +4468,14 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="power_center_unoffical_battery_summary2">Wymiana baterii w inny sposób może uszkodzić urządzenie. Używanie nieautoryzowanych baterii może skutkować ich puchnięciem, przegrzewaniem i wyciekiem. Ponadto mogą one powodować pojawienie się ognia bądź innych zagrożeń. Nie używaj nieautoryzowanych baterii.</string>
     <string name="power_center_unoffical_battery_tip">"Informacje o kondycji baterii nie są dostępne dla tej nieautoryzowanej baterii. Dotknij, aby dowiedzieć się więcej o zagrożeniach dla bezpieczeństwa."</string>
     <string name="power_center_unoffical_battery_title">Zagrożenia powodowane używaniem nieautoryzowanych baterii</string>
+    <string name="power_center_super_wireless_charge">Szybkie ładowanie bezprzewodowe</string>
+    <string name="power_center_super_wireless_charge_dialog_positive">Zostaw włączone</string>
+    <string name="power_center_super_wireless_charge_dialog_summary">"Ten tryb zwiększa prędkość wentylatora ładowarki bezprzewodowej. Zostaw ten tryb włączony, aby naładować urządzenie szybciej bądź wyłącz go, jeśli uważasz, że dźwięk jest zbyt głośny."</string>
+    <string name="power_center_super_wireless_charge_dialog_summary2">Aby zobaczyć więcej opcji, przejdź do Panelu sterowania > Bateria > Ustawienia.</string>
+    <string name="power_center_super_wireless_charge_dialog_title">Szybkie ładowanie bezprzewodowe</string>
+    <string name="power_center_super_wireless_charge_noti_summary">Dotknij, aby otworzyć ustawienia</string>
+    <string name="power_center_super_wireless_charge_noti_switch">Powiadomienie o szybkim ładowaniu bezprzewodowym</string>
+    <string name="power_center_super_wireless_charge_noti_title">Szybkie ładowanie bezprzewodowe wł.</string>
+    <string name="power_center_super_wireless_charge_summary">"Zwiększ prędkość wentylatora ładowarki bezprzewodowej"</string>
+    <string name="power_center_super_wireless_charge_toast_close">Szybkie ładowanie bezprzewodowe wył.</string>
 </resources>
