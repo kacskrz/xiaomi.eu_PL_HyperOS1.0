@@ -766,4 +766,5 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
  Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostępna nowa wersja!</string>
+  <string name="feature_title_pc_mode_setting">Tryb PC</string>
 </resources>
