@@ -20,9 +20,9 @@
     <item quantity="few">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> uprawnienia dot. prywatności&lt;/Data></item>
   </plurals>
     <plurals name="app_info_permission_count">
-        <item quantity="one">%1$s uprawnienie</item>
-        <item quantity="few">%1$s uprawnienia</item>
-        <item quantity="other">%1$s uprawnień</item>
+        <item quantity="one">%1$s uprawnienie, w tym także</item>
+        <item quantity="few">%1$s uprawnienia, w tym także</item>
+        <item quantity="other">%1$s uprawnień, w tym także</item>
     </plurals>
     <plurals name="app_info_private_permission_count">
         <item quantity="one">%1$s uprawnienie dot. prywatności</item>
