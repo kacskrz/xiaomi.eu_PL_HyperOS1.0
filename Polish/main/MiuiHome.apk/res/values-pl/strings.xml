@@ -690,4 +690,8 @@
   <string name="miuix_appcompat_select_item">Wybierz elementy</string>
   <string name="more">Więcej</string>
   <string name="send">Wyślij</string>
+  <string name="launcher_search">Pasek wyszukiwania</string>
+  <string name="provision_back">Wstecz</string>
+  <string name="provision_next">Dalej</string>
+  <string name="provision_skip_underline">Pomiń</string>
 </resources>
