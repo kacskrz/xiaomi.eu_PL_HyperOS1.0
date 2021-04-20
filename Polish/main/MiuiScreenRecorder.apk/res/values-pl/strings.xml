@@ -147,4 +147,7 @@
   <string name="miuix_appcompat_select_item">Wybierz elementy</string>
   <string name="more">Więcej</string>
   <string name="send">Wyślij</string>
+  <string name="app_notification_channel_record_complete">Powiadomienia dot. zakończonych nagrań</string>
+  <string name="app_notification_record_complete">"Zapisano nagranie w Galerii
+Dotknij, aby je zobaczyć"</string>
 </resources>
