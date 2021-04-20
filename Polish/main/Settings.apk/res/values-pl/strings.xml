@@ -8637,4 +8637,5 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="miheadset_fitness_check_result_l_not_ok">Popraw słuchawkę</string>
   <string name="miheadset_fitness_check_result_r_not_ok">Popraw słuchawkę</string>
   <string name="voip_assistant_settings">Asystent VoIP</string>
+  <string name="screen_recorder_title">Nagrywanie ekranu</string>
 </resources>

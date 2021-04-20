@@ -694,4 +694,5 @@
   <string name="provision_back">Wstecz</string>
   <string name="provision_next">Dalej</string>
   <string name="provision_skip_underline">Pomiń</string>
+  <string name="recents_clear_all_tasks">Wyczyść wszystko</string>
 </resources>
