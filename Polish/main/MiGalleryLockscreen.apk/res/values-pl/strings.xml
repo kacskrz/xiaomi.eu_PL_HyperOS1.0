@@ -653,7 +653,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="subscribe_success_content_per_three_hour">Zmieniaj tapetę co 3 godziny</string>
   <string name="subscribe_success_content_per_unlock">Zmieniaj tapetę po każdym odblokowaniu telefonu</string>
   <string name="subscribe_update_time_setting">Ustaw różny przedział czasowy</string>
-  <string name="summary"/>
+  <string name="summary">"Aby wyświetlać treści online, wyraź zgodę na warunki &lt;a href='%s'>Polityki prywatności Xiaomi&lt;/a>. Jeśli odmówisz, dostępne będą wyłącznie tapety znajdujące się na urządzeniu."</string>
   <string name="summary2">"Używając tej funkcji, zgadzasz się na naszą &lt;a href ='%1$s'&gt;Umowę użytkownika&lt;/a&gt; i &lt;a href='%2$s'&gt;Politykę prywatności&lt;/a&gt;. Do poprawnego działania funkcja ta potrzebuje połączenia z Internetem.​"</string>
   <string name="summary_international"/>
   <string name="sure_close_gallery">Wyłączyć Tapety Blokady?</string>
