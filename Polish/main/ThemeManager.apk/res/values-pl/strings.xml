@@ -1207,4 +1207,5 @@ dd.M."</string>
   <string name="wallpaper_set_as_desktop_small">Ustaw na pulpicie na zewnętrznym ekranie</string>
   <string name="wallpaper_set_as_lockscreen_large">Ustaw na Ekranie blokady na głównym ekranie</string>
   <string name="wallpaper_set_as_lockscreen_small">Ustaw na Ekranie blokady na zewnętrznym ekranie</string>
+  <string name="multiwindow_no_support_icon">"Nie można zmienić ikon podczas korzystania z Dzielonego ekranu"</string>
 </resources>
