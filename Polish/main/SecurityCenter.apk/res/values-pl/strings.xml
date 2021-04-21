@@ -4241,8 +4241,8 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="special_perm_intercept_setting_title">Odczyt ustawień urządzenia</string>
     <string name="special_perm_intercept_significance_msg">Dostęp do informacji o urządzeniu (może zawierać osobiste dane)</string>
     <string name="special_perm_intercept_significance_title">Dostęp do informacji o urządzeniu</string>
-    <string name="special_perm_intercept_system_msg">Instaluj aplikacje, które mogą zawierać wirusy lub zachowywać się w inny sposób</string>
-    <string name="special_perm_intercept_system_title">"Wpłyń na bezpieczeństwo i stabilność systemu"</string>
+    <string name="special_perm_intercept_system_msg">Możliwość instalacji aplikacji, które mogą zawierać wirusy lub zachowywać się w inny nieprzewidziany sposób</string>
+    <string name="special_perm_intercept_system_title">"Wpływanie na bezpieczeństwo i stabilność systemu"</string>
     <string name="special_perm_intercept_title">"\"%s\" to bardzo wrażliwe uprawnienie. Jeśli je nadasz, Twoje dane mogą ulec wyciekowi, a Twoja własność może zostać zagrożona. Oto lista rzeczy, które będą mogły wykonać aplikacje:"</string>
     <string name="special_perm_intercept_usb_title">"\"%s\" to bardzo wrażliwe uprawnienie przewidziane tylko dla developerów. Jeśli je nadasz, Twoje dane mogą ulec wyciekowi, a Twoja własność może zostać zagrożona. Oto lista rzeczy, które mogą się dziać:"</string>
     <string name="special_perm_manager_msg">Zezwól aplikacjom na kontrolowanie tego urządzenia</string>
