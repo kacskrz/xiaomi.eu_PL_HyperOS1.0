@@ -1357,4 +1357,10 @@ Jeśli nie zgadzasz się na korzystanie ze wspomnianych usług, niektóre funkcj
   <string name="app_description_content">"Muzyka to aplikacja systemowa zawierająca odtwarzacz audio, która umożliwia Ci zarządzanie plikami audio. Po usunięciu skrótu nadal będzie można odtwarzać pliki audio."</string>
   <string name="app_description_title">Usunąć \"Muzykę\" z pulpitu?</string>
   <string name="talkback_cut">Edytor dzwonków</string>
+  <string name="btn_text_view_all">Wyświetl wszystko</string>
+  <string name="failed_to_connect_hint">Sprawdź ustawienia sieci i spróbuj ponownie</string>
+  <string name="failed_to_connect_text">"Nie udało się połączyć z siecią"</string>
+  <string name="hint_search_songs_playlists_artists">Wyszukaj utwory, playlisty i artystów</string>
+  <string name="loading_text">Chwileczkę…</string>
+  <string name="title_recently_played">Ostatnio odtwarzane</string>
 </resources>
