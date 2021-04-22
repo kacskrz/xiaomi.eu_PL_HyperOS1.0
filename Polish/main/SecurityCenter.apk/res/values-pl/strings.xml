@@ -289,7 +289,7 @@
   <string name="app_manager_advanced_setting">Zaawansowane</string>
   <string name="app_manager_allow">Tak</string>
   <string name="app_manager_app_ifno_version">Wersja</string>
-  <string name="app_manager_app_info_label">Info</string>
+  <string name="app_manager_app_info_label">Informacje o aplikacji</string>
   <string name="app_manager_app_info_name">Nazwa</string>
   <string name="app_manager_app_info_pkg">Pakiet</string>
   <string name="app_manager_app_lock">Blokada aplikacji</string>
