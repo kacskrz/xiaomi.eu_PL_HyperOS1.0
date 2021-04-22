@@ -5257,7 +5257,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego urządzenia."</string>
   <string name="screen_monochrome_mode_summary">Przełącz w tryb monochromatyczny, aby oszczędzać baterię</string>
   <string name="screen_monochrome_mode_title">Tryb monochromatyczny</string>
   <string name="screen_never_timeout_title">Nie usypiaj</string>
-  <string name="screen_on_proximity_sensor_summary">Blokuj ekran gdy urządzenie jest w kieszeni</string>
+  <string name="screen_on_proximity_sensor_summary">Blokuj ekran, gdy urządzenie jest w kieszeni</string>
   <string name="screen_on_proximity_sensor_title">Przypadkowe użycie</string>
   <string name="screen_optimize">Kolory</string>
   <string name="screen_optimize_disabled">Nie można zmienić kolorów w Trybie czytania</string>
