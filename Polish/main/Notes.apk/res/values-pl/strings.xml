@@ -257,10 +257,8 @@
   <string name="repeat_mode_set_item_none">Nigdy</string>
   <string name="repeat_mode_set_item_normal_workday">Od poniedziałku do piątku</string>
   <string name="repeat_mode_set_item_week">Co tydzień (%s)</string>
-  <string name="repeat_mode_set_item_week_detail">Co tydzień (%s)</string>
   <string name="repeat_mode_set_item_year">Co rok (%s)</string>
-  <string name="repeat_mode_set_item_year_detail">Co rok (%s)</string>
-  <string name="repeat_mode_set_item_year_detail_day">dd.MM</string>
+  <string name="repeat_mode_set_item_year_detail_day">dd MMM</string>
   <string name="repeat_mode_set_title">Powtarzaj</string>
   <string name="repeat_mode_week">Co tydzień</string>
   <string name="repeat_mode_year">Co rok</string>
