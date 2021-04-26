@@ -1669,4 +1669,15 @@ Zacznij od nowa."</string>
   <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
   <string name="miuix_appcompat_select_item">Wybierz elementy</string>
   <string name="send">Wyślij</string>
+  <string name="auth_dialog_description">"Włączyć rekomendacje?
+
+Aby je dostarczać, aplikacja udostępni dane dot. Twojego zdrowia firmie trzeciej. Elementy, które zostaną udostępnione, obejmują informacje osobiste (wiek, płeć), statystyki dot. zdrowia (wzrost, waga, dane dot. ćwiczeń) oraz dane dot. Twoich zachowań (godziny rozpoczynania i kończenia ćwiczeń, a także czas ich trwania).
+
+Przed udostępnieniem tych elementów zostaną one zanonimizowane, aby uniemożliwić firmie trzeciej identyfikację osoby na podstawie otrzymanych przez nią danych.
+
+Jeśli nie chcesz uzyskać dostępu do rekomendacji dot. kursów, możesz ciągle korzystać z normalnych ćwiczeń."</string>
+  <string name="auth_dialog_link">Aby w pełni zrozumieć Twoje prawa jako użytkownika, a także metody, w ramach których Xiaomi wykorzystuje Twoje dane, przeczytaj i zaakceptuj warunki &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Polityki prywatności&lt;/a>&lt;/font>.</string>
+  <string name="auth_dialog_title">Rekomendacje dot. kursów</string>
+  <string name="personal_course_recommend_subtitle">Uzyskaj dostęp do zalecanych dla Ciebie kursów opartych na danych dot. Ciebie, Twojego zdrowia i preferencji</string>
+  <string name="personal_course_recommend_title">Rekomendacje dot. kursów</string>
 </resources>

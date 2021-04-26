@@ -1904,4 +1904,13 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="miuix_appcompat_select_item">Wybierz elementy</string>
   <string name="more">Więcej</string>
   <string name="send">Wyślij</string>
+  <string name="dd_frn_f_t">Złóż urządzenie, aby użyć przedniego aparatu</string>
+  <string name="esp_tip">Podgląd zewnętrznego ekranu</string>
+  <string name="pref_camera_esp">Podgląd tylnego ekranu</string>
+  <string name="pref_camera_track_focus_preferred_description">"Włącz tę opcję, aby automatycznie ustawiać ostrość na ludziach i zwierzętach. Będzie można również ręcznie wybrać śledzony obiekt."</string>
+  <string name="pref_camera_track_focus_preferred_title">Śledzenie obiektów</string>
+  <string name="prep_video_ai_audio_new_desc_tip_alone">Dźwięki wyostrzonego obiektu są wzmocnione w trybie poziomym</string>
+  <string name="prep_video_ai_audio_single_desc_tip_alone">Dźwięki spoza ekranu są filtrowane w trybie poziomym</string>
+  <string name="process_tips_1">"Nie składaj urządzenia, dopóki film się nie zapisze"</string>
+  <string name="process_tips_2">"Nie rozkładaj urządzenia, dopóki film się nie zapisze"</string>
 </resources>
