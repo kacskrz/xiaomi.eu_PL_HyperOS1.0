@@ -606,4 +606,24 @@
         <item quantity="few">Wybrano %d elementy</item>
         <item quantity="other">Wybrano %d elementów</item>
     </plurals>
+    <plurals name="photo_count">
+        <item quantity="one">%d zdjęcie</item>
+        <item quantity="few">%d zdjęcia</item>
+        <item quantity="other">%d zdjęć</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="one">Zsynchronizowano %d zdjęcie</item>
+        <item quantity="few">Zsynchronizowano %d zdjęcia</item>
+        <item quantity="other">Zsynchronizowano %d zdjęć</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="one">Zsynchronizowano %d film</item>
+        <item quantity="few">Zsynchronizowano %d filmy</item>
+        <item quantity="other">Zsynchronizowano %d filmów</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="one">%d film</item>
+        <item quantity="few">%d filmy</item>
+        <item quantity="other">%d filmów</item>
+    </plurals>
 </resources>

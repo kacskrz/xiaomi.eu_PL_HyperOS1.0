@@ -8644,4 +8644,13 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="miheadset_double_press_right">Dwukrotnie wciśnij prawą słuchawkę</string>
   <string name="miheadset_triple_press_left">Trzykrotnie wciśnij lewą słuchawkę</string>
   <string name="miheadset_triple_press_right">Trzykrotnie wciśnij prawą słuchawkę</string>
+  <string name="external_ram_dialog_btn_cancel">Później</string>
+  <string name="external_ram_dialog_btn_ok">Zrestartuj</string>
+  <string name="external_ram_dialog_message">Aby zastosować zmiany, zrestartuj urządzenie.</string>
+  <string name="external_ram_dialog_title">Zrestartuj urządzenie</string>
+  <string name="external_ram_summary">"Dodaj %1$s %2$s pamięci RAM, zajmując pamięć wewnętrzną. Używaj tej funkcji tylko wtedy, gdy dostępna jest wystarczająca ilość pamięci na urządzeniu."</string>
+  <string name="external_ram_title">Rozszerzenie pamięci</string>
+  <string name="external_ram_toast">"Nie można skorzystać z rozszerzenia pamięci ze względu na brak miejsca"</string>
+  <string name="permission_records">Wykorzystanie uprawnień</string>
+  <string name="permission_records_summary">Podsumowanie tego, w jaki sposób aplikacje korzystają z uprawnień</string>
 </resources>

@@ -353,4 +353,10 @@ Magazyn danych logowania może nie zostać włączony"</string>
   <string name="respond_via_sms_failure_format">"Nie udało się wysłać wiadomości do %s."</string>
   <string name="notification_incallservice_not_responding_body">Twoje połączenie korzysta z aplikacji do telefonu wbudowanej w system</string>
   <string name="notification_incallservice_not_responding_title">%s przestał odpowiadać</string>
+  <string name="do_not_show_again">"Nie pokazuj ponownie"</string>
+  <string name="scam_cancle">Anuluj</string>
+  <string name="scam_message">"Konfigurujesz obecnie przekierowanie połączeń. Po zakończeniu konfiguracji wszystkie przychodzące połączenia będą odbierane przez numer telefonu %1$s. Jeśli nie jesteś jego właścicielem, istnieje ryzyko ujawnienia Twoich osobistych danych lub zagrożenia bezpieczeństwa Twojej własności. Używaj tej funkcji ostrożnie."</string>
+  <string name="scam_message_2">**21*Numer przekierowania# to kod przekierowania połączeń. Jeśli masz jakieś pytania, skontaktuj się ze swoim operatorem.</string>
+  <string name="scam_ok">Zadzwoń</string>
+  <string name="scam_title">Przypomnienie dot. ryzyka oszustwa</string>
 </resources>

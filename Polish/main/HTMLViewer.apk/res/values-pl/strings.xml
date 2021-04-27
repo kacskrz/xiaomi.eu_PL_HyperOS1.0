@@ -44,4 +44,6 @@
   <string name="user_agreement">Warunki użytkowania</string>
   <string name="user_experience_program">Program ulepszania doświadczeń</string>
   <string name="user_manual">Przewodnik</string>
+  <string name="close">Zamknij</string>
+  <string name="send">Wyślij</string>
 </resources>

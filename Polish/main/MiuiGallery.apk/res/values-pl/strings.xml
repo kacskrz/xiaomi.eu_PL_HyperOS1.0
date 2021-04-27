@@ -1351,7 +1351,7 @@
   <string name="search_backup_now">Włącz</string>
   <string name="search_backup_sub_title">Włącz, aby znaleźć więcej obrazów</string>
   <string name="search_backup_title">Synchronizuj z Chmurą Xiaomi</string>
-  <string name="search_clear_histories">Wyczyść</string>
+  <string name="search_clear_histories">Wyczyść historię wyszukiwania</string>
   <string name="search_connection_error">Nie udało się połączyć z siecią</string>
   <string name="search_connection_error_and_set">Dotknij, aby sprawdzić ustawienia sieci</string>
   <string name="search_error">Wystąpił błąd</string>
@@ -2617,4 +2617,16 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="web_sso_login_fail">Musisz zalogować się ponownie</string>
     <string name="web_sso_login_message">Logowanie…</string>
     <string name="webview_reload">Spróbuj ponownie</string>
+    <string name="cloud_full_space_tip_message">Ulepsz swój plan Chmury, aby móc zsynchronizować z nią wszystkie zdjęcia i filmy.</string>
+    <string name="cloud_full_space_tip_negative">Nie teraz</string>
+    <string name="cloud_full_space_tip_positive">Ulepsz</string>
+    <string name="cloud_full_space_tip_title">Brak miejsca w Chmurze</string>
+    <string name="filter_food_orangeflavor">Tangerine</string>
+    <string name="filter_general_past">Dawne czasy</string>
+    <string name="filter_popular_gingertea">Imbir</string>
+    <string name="filter_popular_mango">Mango</string>
+    <string name="filter_popular_windchime">Dzwoneczek</string>
+    <string name="filter_travel_charlotte">Charlotte</string>
+    <string name="mishare_all_devices">Wszystkie urządzenia</string>
+    <string name="synced_photo_video_count">Zsynchronizowano %1$s i %2$s</string>
 </resources>

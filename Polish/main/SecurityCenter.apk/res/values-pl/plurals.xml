@@ -1068,4 +1068,14 @@ Zrób sobie przerwę!"</item>
         <item quantity="other">Anuluj (%d sek.)</item>
         <item quantity="one">Anuluj (%d sek.)</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d aplikacji</item>
+        <item quantity="few">%d aplikacje</item>
+        <item quantity="one">%d aplikacja</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d aplikacji</item>
+        <item quantity="few">%d aplikacje</item>
+        <item quantity="one">%d aplikacja</item>
+    </plurals>
 </resources>

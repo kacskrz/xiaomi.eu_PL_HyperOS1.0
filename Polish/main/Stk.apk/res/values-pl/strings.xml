@@ -33,4 +33,6 @@
   <string name="stk_dialog_title">Zestaw narzędzi SIM</string>
   <string name="stk_intent_permission">Wymagane uprawnienia</string>
   <string name="stk_no_service">Brak dostępnej usługi</string>
+  <string name="close">Zamknij</string>
+  <string name="send">Wyślij</string>
 </resources>

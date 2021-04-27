@@ -4478,4 +4478,26 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="power_center_super_wireless_charge_noti_title">Szybkie ładowanie bezprzewodowe wł.</string>
     <string name="power_center_super_wireless_charge_summary">"Zwiększ prędkość wentylatora ładowarki bezprzewodowej"</string>
     <string name="power_center_super_wireless_charge_toast_close">Szybkie ładowanie bezprzewodowe wył.</string>
+    <string name="app_behavior_about_setting">Ustawienia</string>
+    <string name="app_behavior_dashboard_desc">Aktywność w ciągu ostatnich %d godz.</string>
+    <string name="app_behavior_dashboard_total_usage_title">Wyświetl wszystkie wyniki</string>
+    <string name="app_behavior_dashboard_usage">Zachowania aplikacji</string>
+    <string name="app_behavior_dashboard_usage_list_title">Wyświetl wg uprawnienia</string>
+    <string name="app_behavior_desc_allowed">Zezwolono</string>
+    <string name="app_behavior_desc_allowed_on_background">Zezwolono w tle</string>
+    <string name="app_behavior_desc_denied">Odmówiono</string>
+    <string name="app_behavior_desc_denied_on_background">Odmówiono w tle</string>
+    <string name="app_behavior_desc_other_perm_allowed">Ostatnia aktywność: %s</string>
+    <string name="app_behavior_desc_other_perm_denied">Aktywność w ciągu ostatnich %d godz.</string>
+    <string name="app_behavior_global_settings_perm_tips">Otrzymuj alert w pasku statusu, gdy aplikacje nagrywają dźwięk lub używają aparatu</string>
+    <string name="app_behavior_record_setting_button_title">Wyświetlaj zachowania usług systemowych</string>
+    <string name="app_behavior_record_setting_show_system">Wyświetlaj zachowania usług systemowych</string>
+    <string name="app_behavior_record_setting_show_system_desc">"Włącz tę opcję, aby wyświetlać zachowania podstawowych usług systemowych. Aby zapewnić jego stabilność, te usługi będą korzystać z wymaganych przez nich uprawnień. Niektóre z tych uprawnień nie mogą zostać ograniczone."</string>
+    <string name="app_behavior_record_setting_show_system_title">Wyświetlaj zachowania usług systemowych</string>
+    <string name="app_behavior_record_setting_title">Rekordy zachowań aplikacji</string>
+    <string name="cetus_invisible_mode_warn_open">Tryb incognito zawiesza uprawnienia dot. mikrofonu, aparatu i lokalizacji dla wszystkich aplikacji. Włączyć ten tryb teraz?</string>
+    <string name="network_assistant_privacy">Aby śledzić zużycie danych przez aplikację, Xiaomi gromadzi informacje takie jak nazwy pakietów, zużycie danych przez Wi-Fi i dane komórkowe, szczytowe i pozaszczytowe zużycie danych oraz czas włączania i wyłączania Wi-Fi oraz danych mobilnych. Te dane są gromadzone lokalnie na urządzeniu.</string>
+    <string name="privacy_global_guide_permission_guide_text">"Otrzymasz alert w pasku statusu, gdy aplikacje nagrywają dźwięk lub używają aparatu. Aby dowiedzieć się, jaka aplikacja korzysta z tych uprawnień, dotknij alert."</string>
+    <string name="privacy_hide_other_permissions">Ukryj inne uprawnienia</string>
+    <string name="privacy_show_other_permissions">Pokaż inne uprawnienia</string>
 </resources>

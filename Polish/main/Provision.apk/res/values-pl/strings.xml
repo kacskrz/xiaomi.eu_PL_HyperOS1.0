@@ -310,4 +310,6 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="item_return">Ustaw</string>
   <string name="item_skip">Pomiń</string>
   <string name="title_set_fingerprint">Blokada ekranu</string>
+  <string name="close">Zamknij</string>
+  <string name="send">Wyślij</string>
 </resources>
