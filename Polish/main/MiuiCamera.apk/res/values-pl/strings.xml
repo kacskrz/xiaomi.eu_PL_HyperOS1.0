@@ -1913,4 +1913,8 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="prep_video_ai_audio_single_desc_tip_alone">Dźwięki spoza ekranu są filtrowane w trybie poziomym</string>
   <string name="process_tips_1">"Nie składaj urządzenia, dopóki film się nie zapisze"</string>
   <string name="process_tips_2">"Nie rozkładaj urządzenia, dopóki film się nie zapisze"</string>
+  <string name="module_name_scanner">Skaner</string>
+  <string name="scan_install_prompt_header">Zainstaluj Skaner</string>
+  <string name="scan_install_prompt_loading">Instalacja Skanera…</string>
+  <string name="scan_install_prompt_message">Zainstaluj Skaner i spróbuj ponownie.</string>
 </resources>

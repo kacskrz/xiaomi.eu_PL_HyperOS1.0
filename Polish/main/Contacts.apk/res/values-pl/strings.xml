@@ -1527,4 +1527,10 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="contacts_trash_restore">Przywróć</string>
   <string name="contacts_trash_restore_loading">Przywracanie…</string>
   <string name="ensure">OK</string>
+  <string name="close">Zamknij</string>
+  <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
+  <string name="miuix_appcompat_deselect_all">Odznacz</string>
+  <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+  <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+  <string name="send">Wyślij</string>
 </resources>

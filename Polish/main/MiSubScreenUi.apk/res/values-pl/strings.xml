@@ -229,12 +229,12 @@ dd.MM."</string>
     <string name="saturday_shortest">Sob</string>
     <string name="search_menu_title">Szukaj</string>
     <string name="send">Wyślij</string>
-    <string name="small_display_style">Motyw tylnego ekranu</string>
+    <string name="small_display_style">Tylny wyświetlacz</string>
     <string name="step_to_image_community">Znajdź więcej w Mi Community</string>
     <string name="sub_screen_app_name">Tylny wyświetlacz</string>
     <string name="subscreen_other">Inny</string>
     <string name="subscreen_other_dialog_cancel">Anuluj</string>
-    <string name="subscreen_other_dialog_confirm">OK</string>
+    <string name="subscreen_other_dialog_confirm">Włącz</string>
     <string name="subscreen_other_dialog_goto">Dodaj</string>
     <string name="subscreen_other_dialog_message">Superoszczędzanie baterii wyłącza główny ekran. Za pomocą tylnego wyświetlacza możliwe będzie tylko sprawdzanie godziny, odbieranie połączeń i dzwonienie pod numery alarmowe. Gdy ta funkcja jest włączona, urządzenie będzie mogło działać do %d na jednym ładowaniu. Włączyć ją teraz?</string>
     <string name="subscreen_other_dialog_title">Superoszczędzanie baterii</string>
@@ -319,4 +319,12 @@ dd.MM."</string>
     <string name="wednesday_shortest">Śr</string>
     <string name="wireless_change_to_ac_charging">Przełącz na ładowanie przewodowe</string>
     <string name="yesterday">Wczoraj</string>
+    <string name="add_emergency_contact">Dodaj kontakt alarmowy</string>
+    <string name="has_add_contact">Dodano</string>
+    <string name="not_add_contact">Nie dodano</string>
+    <string name="sps_cancel">Przytrzymaj, aby wyjść</string>
+    <string name="subscreen_could_edit_pic">Przeciągaj obrazki, aby je zeskanować, przytrzymaj, aby usunąć</string>
+    <string name="wilderness_dcalling">Połączono</string>
+    <string name="wilderness_dialing">Łączenie</string>
+    <string name="wilderness_is_starting">Włączanie Superoszczędzania baterii…</string>
 </resources>

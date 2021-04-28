@@ -8653,4 +8653,7 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="external_ram_toast">"Nie można skorzystać z rozszerzenia pamięci ze względu na brak miejsca"</string>
   <string name="permission_records">Wykorzystanie uprawnień</string>
   <string name="permission_records_summary">Podsumowanie tego, w jaki sposób aplikacje korzystają z uprawnień</string>
+  <string name="miheadset_network_not_available">Sprawdź swoje ustawienia sieci i spróbuj ponownie</string>
+  <string name="bluetooth_footer_mac_message">"Adres Bluetooth telefonu: %1$s"</string>
+  <string name="bluetooth_preference_found_media_devices">Dostępne urządzenia</string>
 </resources>

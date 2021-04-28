@@ -1245,4 +1245,5 @@
     <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
     <string name="search_header_dialog_title">Zmień tło</string>
     <string name="send">Wyślij</string>
+    <string name="app_first_loading_txt">Ładowanie...</string>
 </resources>
