@@ -236,10 +236,10 @@ dd.MM."</string>
     <string name="subscreen_other_dialog_cancel">Anuluj</string>
     <string name="subscreen_other_dialog_confirm">Włącz</string>
     <string name="subscreen_other_dialog_goto">Dodaj</string>
-    <string name="subscreen_other_dialog_message">Superoszczędzanie baterii wyłącza główny ekran. Za pomocą tylnego wyświetlacza możliwe będzie tylko sprawdzanie godziny, odbieranie połączeń i dzwonienie pod numery alarmowe. Gdy ta funkcja jest włączona, urządzenie będzie mogło działać do %d na jednym ładowaniu. Włączyć ją teraz?</string>
+    <string name="subscreen_other_dialog_message">Superoszczędzanie baterii wyłącza główny ekran. Za pomocą tylnego wyświetlacza możliwe będzie tylko sprawdzanie godziny, odbieranie połączeń i dzwonienie pod numery alarmowe. Gdy ta funkcja jest włączona, urządzenie będzie mogło działać do %d dni na jednym ładowaniu. Włączyć ją teraz?</string>
     <string name="subscreen_other_dialog_title">Superoszczędzanie baterii</string>
     <string name="subscreen_other_next_dialog_message">Musisz dodać kontakty alarmowe przed skorzystaniem z funkcji Superoszczędzanie baterii. Dodać teraz?</string>
-    <string name="subscreen_other_wilderness_summary">Superoszczędzanie baterii wyłącza główny ekran. Za pomocą tylnego wyświetlacza możliwe będzie tylko sprawdzanie godziny, odbieranie połączeń i dzwonienie pod numery alarmowe. Gdy ta funkcja jest włączona, urządzenie będzie mogło działać do %d na jednym ładowaniu.</string>
+    <string name="subscreen_other_wilderness_summary">Superoszczędzanie baterii wyłącza główny ekran. Za pomocą tylnego wyświetlacza możliwe będzie tylko sprawdzanie godziny, odbieranie połączeń i dzwonienie pod numery alarmowe. Gdy ta funkcja jest włączona, urządzenie będzie mogło działać do %d dni na jednym ładowaniu.</string>
     <string name="subscreen_other_wilderness_title">Superoszczędzanie baterii</string>
     <string name="subscreen_settings_fail">Nie udało się ukończyć tego działania</string>
     <string name="subscreen_settings_mode">Wyłącz po</string>

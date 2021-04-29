@@ -8354,7 +8354,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="fold_rule_default">Zalecane</string>
   <string name="fold_rule_important">Istotne</string>
   <string name="fold_rule_unimportant">Nieistotne</string>
-  <string name="magic_window_name">Podziel okno</string>
+  <string name="magic_window_name">Równoległe okna</string>
   <string name="truetone_summary">Dostosuj kolory do otoczenia</string>
   <string name="truetone_title">Adaptacyjne kolory</string>
   <string name="dpp_before_share_summary">Udostępnić sieć Wi-Fi \"%1$s\" innej osobie?</string>
