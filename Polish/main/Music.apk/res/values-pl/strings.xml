@@ -767,7 +767,7 @@
   <string name="no_scanned_songs">Pusto</string>
   <string name="no_song">Brak utworów</string>
   <string name="no_song_downloaded">Nie udało się znaleźć utworów do pobrania</string>
-  <string name="no_song_subtitle">Słuchaj fajnej muzyki</string>
+  <string name="no_song_subtitle">Brak utworów</string>
   <string name="no_song_title">Muzyka</string>
   <string name="no_system_cropper_find">System nie ma możliwości przycięcia obrazu</string>
   <string name="normal_quality">Dobra</string>
