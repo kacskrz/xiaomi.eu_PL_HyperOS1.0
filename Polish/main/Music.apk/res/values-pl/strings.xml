@@ -1317,7 +1317,7 @@ Be Happy"</string>
   <string name="info_system_version">Wersja systemu:</string>
   <string name="network_disable">"Nie udało się połączyć z siecią"</string>
   <string name="privacy_request_desc"><Data>"Mi Muzyka musi gromadzić niezbędne informacje w celu dostarczania usług streamowania online. Możesz się dowiedzieć, jak Xiaomi przetwarza te dane, czytając &lt;a href=\"%1$s\">Politykę prywatności&lt;/a>. Możesz cofnąć zgodę na warunki tejże polityki w ustawieniach aplikacji w dowolnym momencie.
-Przed skorzystaniem z aplikacji przeczytaj i zaakceptuj warunki &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%1$s\">Polityki prywatnościlt;/a>.
+Przed skorzystaniem z aplikacji przeczytaj i zaakceptuj warunki &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>.
 Jeśli nie zgadzasz się na korzystanie ze wspomnianych usług, niektóre funkcje tej aplikacji nie będą działać, niemniej jej podstawowa funkcjonalność nadal będzie dostępna."</Data></string>
   <string name="privacy_request_subtitle">"Witaj w Mi Muzyce! Aplikacja dostarcza następujące usługi:
 
