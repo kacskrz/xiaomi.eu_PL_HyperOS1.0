@@ -323,7 +323,7 @@ dd.MM."</string>
     <string name="has_add_contact">Dodano</string>
     <string name="not_add_contact">Nie dodano</string>
     <string name="sps_cancel">Przytrzymaj, aby wyjść</string>
-    <string name="subscreen_could_edit_pic">Przeciągaj obrazki, aby je zeskanować, przytrzymaj, aby usunąć</string>
+    <string name="subscreen_could_edit_pic">Przeciągaj obrazki, aby je skalować, przytrzymaj, aby usunąć</string>
     <string name="wilderness_dcalling">Połączono</string>
     <string name="wilderness_dialing">Łączenie</string>
     <string name="wilderness_is_starting">Włączanie Superoszczędzania baterii…</string>
