@@ -1078,4 +1078,7 @@ Zrób sobie przerwę!"</item>
         <item quantity="few">%d aplikacje</item>
         <item quantity="one">%d aplikacja</item>
     </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Rozumiem (%d sek.)</item>
+    </plurals>
 </resources>

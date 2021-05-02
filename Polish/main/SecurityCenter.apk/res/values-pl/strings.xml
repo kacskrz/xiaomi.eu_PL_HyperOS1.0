@@ -4500,4 +4500,13 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="privacy_global_guide_permission_guide_text">"Otrzymasz alert w pasku statusu, gdy aplikacje nagrywają dźwięk lub używają aparatu. Aby dowiedzieć się, jaka aplikacja korzysta z tych uprawnień, dotknij alert."</string>
     <string name="privacy_hide_other_permissions">Ukryj inne uprawnienia</string>
     <string name="privacy_show_other_permissions">Pokaż inne uprawnienia</string>
+    <string name="gamebox_micharge">Kontrola temperatury ładowania</string>
+    <string name="gamebox_micharge_dialog_message">"Włącz tę funkcję, aby ograniczyć ładowanie przy podłączonej ładowarce. Będzie ona wtedy wykorzystywana wyłącznie jako zasilacz, co pomoże uniknąć przegrzewania urządzenia w trakcie grania."</string>
+    <string name="gamebox_micharge_dialog_title">Kontrola temperatury ładowania</string>
+    <string name="gamebox_micharge_settings_summray">Używaj ładowarki wyłącznie jako zasilacza, co pomoże uniknąć przegrzania</string>
+    <string name="gamebox_micharge_toast">Kontrola temperatury ładowania wł.</string>
+    <string name="gb_shoulder_key_dialog_message">"Możesz użyć obu bumperów jednocześnie, aby uruchomić tryb Game Turbo wtedy, gdy nie grasz."</string>
+    <string name="gb_shoulder_key_settings_summary">"Używaj obydwu bumperów, aby uruchomić tryb Game Turbo wtedy, gdy nie grasz"</string>
+    <string name="gb_shoulder_key_settings_title">Używaj bumperów, aby włączyć Game Turbo</string>
+    <string name="gb_shoulder_key_settings_title_new">Szybkie uruchamianie Game Turbo</string>
 </resources>

@@ -329,4 +329,8 @@
   <string name="gb_adv_touch_mode_pro_tips">*Ten tryb jest przeznaczony dla profesjonalnych graczy. Zwykli gracze mogą uznać go za niewygodny.</string>
   <string name="gb_adv_touch_pro_title">Tryb Pro</string>
   <string name="gb_not_support_on_device">"Ta aplikacja nie może być używana na zewnętrznym ekranie"</string>
+  <string name="gb_gpu_tips_lod">Zwiększ przejrzystość obrazu, optymalizując tekstury oddalonych obiektów</string>
+  <string name="gb_gpu_tips_render">Używaj renderowania wielowątkowego, aby zoptymalizować wrażenia z grania</string>
+  <string name="gb_gputuner_lod_deviation">Mip-mapy poziomów szczegółowości (LOD bias)</string>
+  <string name="gb_gputuner_multi_render">Renderowanie wielowątkowe</string>
 </resources>
