@@ -1164,7 +1164,7 @@
      <string name="app_health_card_energy">Kalorie</string>
      <string name="health_card_goal_completion">Osiągnięto cel</string>
      <string name="health_card_overdue">Przekroczono cel</string>
-     <string name="app_screen_time_title">"Czas przed ekranem: "</string>
+     <string name="app_screen_time_title">Czas przed ekranem</string>
      <string name="app_screen_time_time">%1$d godz. %2$d min</string>
      <string name="app_screen_time_time_minute">%1$d min</string>
      <string name="save_to_note">Zapisz w Notatkach</string>
