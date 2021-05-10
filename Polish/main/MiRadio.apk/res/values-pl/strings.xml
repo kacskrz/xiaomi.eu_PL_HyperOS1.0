@@ -342,4 +342,9 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="play_mode_single_title">Powtórz</string>
   <string name="talkback_mode_repeat_none">Tryb sekwencji</string>
   <string name="permission_runtime_perm_desc_location">W celu uzyskiwania dostępu do lokalnych stacji radiowych</string>
+  <string name="global_app_description_content">"Radio FM to aplikacja systemowa. Po jej odinstalowaniu nie będzie można słuchać radia."</string>
+  <string name="global_app_description_title">Odinstalować Radio FM?</string>
+  <string name="global_remove_app_description_content">"Radio FM to aplikacja systemowa. Po usunięciu jej skrótu z pulpitu słuchanie radia może być utrudnione."</string>
+  <string name="global_remove_app_description_title">Usunąć skrót do Radia FM z pulpitu?</string>
+  <string name="talkback_speed">Prędkość</string>
 </resources>

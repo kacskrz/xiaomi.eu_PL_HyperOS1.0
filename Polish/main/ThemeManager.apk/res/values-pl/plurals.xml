@@ -172,4 +172,9 @@
         <item quantity="few">Przewiń do tyłu o %d sekundy</item>
         <item quantity="many">Przewiń do tyłu o %d sekund</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Zaznaczono %d elementów</item>
+        <item quantity="one">Zaznaczono %d element</item>
+        <item quantity="few">Zaznaczono %d elementy</item>
+    </plurals>
 </resources>

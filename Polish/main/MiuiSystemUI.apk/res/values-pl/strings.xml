@@ -1036,7 +1036,7 @@ Należy używać tylko dołączonej ładowarki."</string>
   <string name="kg_invalid_confirm_pin_hint">Kody PIN nie pasują</string>
   <string name="kg_invalid_puk">Wpisz poprawny kod PUK. Kolejne próby spowodują trwałe wyłączenie karty SIM.</string>
   <string name="kg_invalid_sim_pin_hint">Wpisz kod PIN o długości od 4 do 8 cyfr.</string>
-  <string name="kg_invalid_sim_puk_hint">Kod PUK musi mieć co najmniej 8 cyfr.</string>
+  <string name="kg_invalid_sim_puk_hint">Kod PUK musi mieć %1$d cyfr.</string>
   <string name="kg_login_too_many_attempts">Zbyt wiele prób narysowania wzoru</string>
   <string name="kg_password_instructions">Wpisz hasło</string>
   <string name="kg_password_pin_failed">Operacja z kodem PIN karty SIM nie udała się.</string>

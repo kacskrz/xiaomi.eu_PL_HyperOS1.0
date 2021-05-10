@@ -83,7 +83,6 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="error_sdcard_access">Brak dostępu do pamięci</string>
   <string name="error_sdcard_unmounted">Brak karty SD lub została wyjęta</string>
   <string name="export_to_note">Skopiuj</string>
-  <string name="fm_record">Nagrania z FM (%d)</string>
   <string name="head_set_tip_dialog_msg">Odłącz słuchawki, aby móc nagrywać dźwięk z ustawieniami (np. Muzyka, Głos).</string>
   <string name="head_set_tip_dialog_ok">Rozumiem</string>
   <string name="head_set_tip_dialog_title">Użyj mikrofonu</string>
@@ -160,19 +159,19 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="pay_error_unknown">Nieznany błąd</string>
   <string name="playback_delete_records">Usuń nagranie</string>
   <string name="playback_share_records">Udostępnij nagranie</string>
-  <string name="preference_enable_earpiece_summary">Odtwarza nagranie w słuchawkach lub głośniku przednim</string>
-  <string name="preference_enable_earpiece_title">Odtwarzaj na słuchawkach</string>
+  <string name="preference_enable_earpiece_summary">Odtwórz dźwięk za pomocą głośnika słuchawki</string>
+  <string name="preference_enable_earpiece_title">Tryb słuchawki</string>
   <string name="preference_led_indicator">Powiadomienie o nagrywaniu</string>
-  <string name="preference_led_indicator_prompt">Pokaż skrót na pasku stanu i powiadomienie LED gdy ekran jest wyłączony</string>
+  <string name="preference_led_indicator_prompt">Pokazuj niebieski wskaźnik na ekranie blokady i uruchom diodę podczas nagrywania</string>
   <string name="preference_online_orders">Zamówienia online</string>
   <string name="preference_recog_faqs">Przepisywania online FAQ</string>
   <string name="preference_recog_terms">Warunki użytkowania</string>
-  <string name="preference_record_desktop_indicator_summary">Wyświetlaj niebieski wskaźnik na pulpcie, gdy aplikacja Dyktafon działa w tle</string>
+  <string name="preference_record_desktop_indicator_summary">Wyświetlaj niebieski wskaźnik na pulpicie w trakcie nagrywania</string>
   <string name="preference_record_desktop_indicator_title">Oznaczenie na pulpicie</string>
   <string name="preference_record_scenes_dialog_title">Wybierz kategorię typu nagrania</string>
   <string name="preference_scenes">Typ nagrania</string>
   <string name="preference_silent_mode">Wycisz dzwonek przy nagrywaniu</string>
-  <string name="preference_status_bar_indicator_prompt">Pokaż skrót na pasku statusu w trakcie nagrywania</string>
+  <string name="preference_status_bar_indicator_prompt">Pokazuj niebieski wskaźnik na ekranie blokady podczas nagrywania</string>
   <string name="preference_tip_rename">Pokazuj pytanie o zmianę nazwy nagrania</string>
   <string name="privacy_policy_title">Polityka Prywatności</string>
   <string name="recognition_button_add_to_queue">Dodaj do kolejki</string>
@@ -264,7 +263,7 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="runtime_permission_ungranted">Brak wystarczających uprawnień dla Nagrywania</string>
   <string name="search_app">Nagrywania</string>
   <string name="search_empty">"Nie odnaleziono rezultatów"</string>
-  <string name="search_enable_earpiece_title">Odtwarzaj na głośniku</string>
+  <string name="search_enable_earpiece_title">Tryb słuchawki</string>
   <string name="search_hint">Szukaj</string>
   <string name="search_led_indicator">Powiadomienia na ekranie blokady</string>
   <string name="search_led_indicator_prompt">Pokaż skrót na pasku stanu i powiadomienie LED gdy ekran jest wyłączony</string>
@@ -358,4 +357,13 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="save_as">Zapisz jako</string>
   <string name="remove_icon_description_content">"Dyktafon to aplikacja systemowa. Po usunięciu skrótu z pulpitu nie będzie można zarządzać nagraniami."</string>
   <string name="remove_icon_description_title">Usunąć \"Dyktafon\" z pulpitu?</string>
+  <string name="all_record">Wszystkie nagrania</string>
+  <string name="fm_record">Radio</string>
+  <string name="no_content">Brak elementów</string>
+  <string name="no_playback_file">Wybierz nagranie, aby zobaczyć szczegóły</string>
+  <string name="normal_settings_pref_title">Ustawienia ogólne</string>
+  <string name="other_settings_pref_title">Dodatkowe ustawienia</string>
+  <string name="recorder_record">Dźwięk</string>
+  <string name="remind_settings_pref_title">Powiadomienia</string>
+  <string name="tap_to_record">Dotknij przycisk, aby rozpocząć nagranie</string>
 </resources>

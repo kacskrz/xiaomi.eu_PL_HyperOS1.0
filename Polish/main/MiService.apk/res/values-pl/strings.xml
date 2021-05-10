@@ -101,8 +101,8 @@
     <string name="miui_feedback_edit_toast_third_packagename_required">Wprowadź nazwę aplikacji</string>
     <string name="miui_feedback_main_answer_title">"Tu znajduje się odpowiedź na to pytanie"</string>
     <string name="miui_feedback_main_frequent_question_title">FAQ</string>
-    <string name="miui_feedback_main_menu_catch_full_log">Wygeneruj logi</string>
-    <string name="miui_feedback_main_menu_feedback_list">Historia opinii</string>
+    <string name="miui_feedback_main_menu_catch_full_log">Uzyskaj logi</string>
+    <string name="miui_feedback_main_menu_feedback_list">Moje opinie</string>
     <string name="miui_feedback_main_search_footer">"Nie ma tu pytań, które chcesz zadać?"</string>
     <string name="miui_feedback_main_search_footer_submit">Wyślij opinię</string>
     <string name="miui_feedback_main_search_issue">Wpisz słowa kluczowe do wyszukania</string>
@@ -233,4 +233,7 @@
     <string name="v7_preference_on">WŁ.</string>
     <string name="close">Zamknij</string>
     <string name="send">Wyślij</string>
+    <string name="miui_feedback_main_item_customer_service">Usługi posprzedażowe</string>
+    <string name="miui_feedback_main_menu_view_privacy">Polityka prywatności</string>
+    <string name="miui_feedback_main_search_no_answer">"Nie znaleziono rezultatów"</string>
 </resources>

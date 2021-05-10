@@ -1647,7 +1647,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="accessibility_dual_video_standalone">Oddzielne filmy</string>
   <string name="dual_video_record_merged">Razem</string>
   <string name="dual_video_record_standalone">Oddzielnie</string>
-  <string name="dual_video_user_guide_main_content">Aby wykonać filmy z kilku obiektywów, wybierz dwa aparaty w urządzeniu i nagrywaj obraz z nich jednocześnie. Nagrania mogą być przechowywalne oddzielnie bądź połączone w ramach podzielonego widoku lub filmu typu \"obraz w obrazie\".</string>
+  <string name="dual_video_user_guide_main_content">Aby wykonać filmy z kilku obiektywów, wybierz dwa aparaty w urządzeniu i nagrywaj obraz z nich jednocześnie. Nagrania mogą być przechowywane oddzielnie bądź połączone w ramach podzielonego widoku lub filmu typu \"obraz w obrazie\".</string>
   <string name="dual_video_user_guide_main_title">Filmy z kilku obiektywów</string>
   <string name="dual_video_user_guide_merge_content">Nagrywaj obraz z dwóch obiektywów jednocześnie i połącz nagrania w ramach podzielonego widoku bądź filmu typu \"obraz w obrazie\".</string>
   <string name="dual_video_user_guide_standalone_content">Nagrywaj obraz z dwóch obiektywów jednocześnie i zapisz oba nagrania jako oddzielne filmy.</string>
@@ -1827,8 +1827,8 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="dialog_button_scan">Szukaj urządzeń</string>
   <string name="network_connection_failed">"Nie udało się połączyć"</string>
   <string name="network_connection_ongoing">Łączenie…</string>
-  <string name="network_connection_prerequisites">Aby móc używać Nagrywania dwoma telefonami, włącz Bluetooth i Wi-Fi.</string>
-  <string name="network_connection_prerequisites_china">Aby móc używać Nagrywania dwoma telefonami, włącz Bluetooth i Wi-Fi.</string>
+  <string name="network_connection_prerequisites">Aby móc używać Nagrywania dwoma telefonami, włącz Bluetooth i Wi-Fi w Centrum funkcji.</string>
+  <string name="network_connection_prerequisites_china">Aby móc używać Nagrywania dwoma telefonami, włącz Bluetooth i Wi-Fi w Centrum funkcji.</string>
   <string name="network_connection_rejected">Odrzucono</string>
   <string name="network_connection_timed_out">Przekroczono czas żądania</string>
   <string name="pref_video_cast_setting_summary">Włącz, aby móc nagrywać jeden film kilkoma urządzeniami</string>
@@ -1864,7 +1864,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="histogram_summary_tip">Wyświetlaj ekspozycję w czasie rzeczywistym</string>
   <string name="pref_customization_style">Własny styl</string>
   <string name="dual_video_record_remote">Nagrywanie dwoma telefonami</string>
-  <string name="dual_video_user_guide_remote_content">"Nagrywanie dwoma telefonami pozwala na łączenie strumieni z dwóch różnych urządzeń w jedno wideo. Możesz podglądać obydwa strumienie i finalny efekt na tym urządzeniu. Dźwięk będzie nagrywany wyłącznie tym urządzeniem."</string>
+  <string name="dual_video_user_guide_remote_content">"Połącz strumienie z dwóch różnych urządzeń w jedno wideo. Możesz podglądać obydwa strumienie i finalny efekt na tym urządzeniu. Dźwięk będzie nagrywany wyłącznie tym urządzeniem."</string>
   <string name="dual_video_user_guide_remote_p">Telefon %d</string>
   <string name="pref_video_ai_audio_single">Dźwięk przedni</string>
   <string name="prek_b_j_o">Odtwórz efekt dźwięku przestrzennego</string>
@@ -1917,4 +1917,8 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="scan_install_prompt_header">Zainstaluj Skaner</string>
   <string name="scan_install_prompt_loading">Instalacja Skanera…</string>
   <string name="scan_install_prompt_message">Zainstaluj Skaner i spróbuj ponownie.</string>
+  <string name="dual_video_user_guide_main_content_new">"Filmy w tym trybie są nagrywane za pomocą kilku obiektywów jednocześnie.
+Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem i stworzenie filmu z wielu aparatów po wybraniu opcji \"Razem\"."</string>
+  <string name="dual_video_user_guide_merge_content_new">Nagrania mogą być przechowywane połączone w ramach podzielonego widoku lub filmu typu \"obraz w obrazie\".</string>
+  <string name="dual_video_user_guide_standalone_content_new">Filmy mogą być także oddzielone od siebie i zapisane jako dwa oddzielne pliki.</string>
 </resources>

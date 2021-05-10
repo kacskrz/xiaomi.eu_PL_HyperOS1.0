@@ -291,4 +291,7 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="miui_toast_zen_to_dnd_when_lock">Połączenia i powiadomienia będą wyciszone, gdy urządzenie jest zablokowane</string>
     <string name="wireless_charging_tips_sub_message">Inne urządzenie musi wspierać standard ładowania bezprzewodowego Qi.</string>
     <string name="smart_home_title">Urządzenia smart home</string>
+    <string name="wireless_charging_fg_control_cancel">Anuluj</string>
+    <string name="wireless_charging_fg_control_messgae">"Bezprzewodowe ładowanie zwrotne zostało wyłączone, ponieważ pozostało mniej niż %d%% baterii. Możesz dostosować ustawienia, aby pozwolić na dłuższe działanie tej opcji."</string>
+    <string name="wireless_charging_fg_control_ok">Dostosuj</string>
 </resources>

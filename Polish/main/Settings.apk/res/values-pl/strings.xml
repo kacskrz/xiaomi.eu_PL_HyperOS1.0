@@ -8638,8 +8638,8 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="miheadset_fitness_check_result_r_not_ok">Popraw słuchawkę</string>
   <string name="voip_assistant_settings">Asystent VoIP</string>
   <string name="screen_recorder_title">Nagrywanie ekranu</string>
-  <string name="freeform_guide_slide_to_small_freeform_summary">Przeciągnij od dołu do prawego górnego rogu ekranu, aby włączyć pływające okno</string>
-  <string name="freeform_guide_slide_to_small_freeform_title">Przeciągnij, aby włączyć pływające okno</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary">Przytrzymaj dół okna i przeciągnij je do prawego górnego rogu</string>
+  <string name="freeform_guide_slide_to_small_freeform_title">Minimalizuj aplikację</string>
   <string name="miheadset_double_press_left">Dwukrotnie wciśnij lewą słuchawkę</string>
   <string name="miheadset_double_press_right">Dwukrotnie wciśnij prawą słuchawkę</string>
   <string name="miheadset_triple_press_left">Trzykrotnie wciśnij lewą słuchawkę</string>

@@ -786,4 +786,11 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="actionbar_button_up_description">Wstecz</string>
   <string name="clearable_edittext_clear_description">Wyczyść</string>
   <string name="close">Zamknij</string>
+  <string name="backup_hint_pad">Nie wyłączaj urządzenia</string>
+  <string name="new_local_tab_backup_pad">Skopiuj</string>
+  <string name="new_local_tab_restore_pad">Przywróć</string>
+  <string name="new_pc_backup_restore_link_pad">Urządzenie mobilne</string>
+  <string name="new_pc_backup_summary2_pad">Podłącz urządzenie do komputera za pomocą kabla USB.</string>
+  <string name="new_pc_restore_content2_pad">%d. Skopiuj swoją kopię z komputera to katalogu MIUI-Backup-AllBackup.</string>
+  <string name="not_enough_storage_tips">Za mało miejsca. Zwolnij je i spróbuj ponownie.</string>
 </resources>
