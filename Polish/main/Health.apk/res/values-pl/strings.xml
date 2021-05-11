@@ -1680,4 +1680,9 @@ Jeśli nie chcesz uzyskać dostępu do rekomendacji dot. kursów, możesz ciągl
   <string name="auth_dialog_title">Rekomendacje dot. kursów</string>
   <string name="personal_course_recommend_subtitle">Uzyskaj dostęp do zalecanych dla Ciebie kursów opartych na danych dot. Ciebie, Twojego zdrowia i preferencji</string>
   <string name="personal_course_recommend_title">Rekomendacje dot. kursów</string>
+  <string name="add_model_card2">"Dotknij przycisku powyżej, aby dodać karty.
+Będzie można dzięki nim śledzić ćwiczenia i aktywność."</string>
+  <string name="dialog_exit_use">Wyjdź</string>
+  <string name="download_apk">Pobieranie %s…</string>
+  <string name="download_background">Pobierz</string>
 </resources>

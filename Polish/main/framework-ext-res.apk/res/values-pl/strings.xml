@@ -338,4 +338,6 @@
   <string name="relaunch_dialog_button_confirm">OK</string>
   <string name="relaunch_dialog_message">"Nie można dostosować rozmiaru okna, gdy korzystasz z aplikacji. Możesz ją zrestartować w celu zmiany rozmiaru, ale jej dane wygenerowane w trakcie tej sesji zostaną utracone. Zrestartować mimo to?"</string>
   <string name="relaunch_dialog_title">Zrestartować \"%s\"?</string>
+  <string name="application_cannot_open_au_pay">Zainstaluj najpierw aplikację au PAY</string>
+  <string name="miui_multiwindow_not_support_small_window">"%1$s nie wspiera pływających okien"</string>
 </resources>

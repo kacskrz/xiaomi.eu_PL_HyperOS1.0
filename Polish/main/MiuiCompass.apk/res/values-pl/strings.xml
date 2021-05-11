@@ -106,4 +106,6 @@
   <string name="gradienter_title">Poziom</string>
   <string name="remove_icon_description_content">"Kompas to aplikacja systemowa. Po usunięciu jej skrótu z pulpitu nie będzie można używać jej do sprawdzania kierunku, położenia, ciśnienia atmosferycznego i obecnej wysokości."</string>
   <string name="remove_icon_description_title">Usunąć \"Kompas\" z pulpitu?</string>
+  <string name="first_using_dialog_message_no_camera">Kompas wymaga dostępu do Internetu i informacji o lokalizacji, aby móc działać poprawnie. Zezwolić na te uprawnienia?</string>
+  <string name="open_perm_msg_no_camera">Kompas wymaga dostępu do informacji o lokalizacji, aby móc określić położenie. Zezwolić na te uprawnienie?</string>
 </resources>
