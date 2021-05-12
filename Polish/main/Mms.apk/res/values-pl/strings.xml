@@ -1279,7 +1279,6 @@ Sprawdź kartę SIM."</string>
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
-    <string name="more">Więcej</string>
     <string name="morning">Poranek</string>
     <string name="night">Wieczór</string>
     <string name="noon">Południe</string>
@@ -1295,7 +1294,6 @@ Sprawdź kartę SIM."</string>
     <string name="time_picker_dialog_title">Ustaw czas</string>
     <string name="time_picker_label_hour">G</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="today">Dzisiaj</string>
     <string name="tomorrow">Jutro</string>
     <string name="tuesday">Wtorek</string>
     <string name="tuesday_short">Wt</string>
@@ -1303,5 +1301,4 @@ Sprawdź kartę SIM."</string>
     <string name="wednesday">Środa</string>
     <string name="wednesday_short">Śr</string>
     <string name="wednesday_shortest">Śr</string>
-    <string name="yesterday">Wczoraj</string>
 </resources>
