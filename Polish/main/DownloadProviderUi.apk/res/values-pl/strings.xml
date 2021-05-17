@@ -455,4 +455,17 @@
   <string name="toast_download_icon_restore_success">Pomyślnie dodano</string>
   <string name="dialog_download_dir_content" formatted="false">Domyślny katalog pobierania został zmieniony z \"%s\" na \"%s/DLManager\".</string>
   <string name="dialog_download_dir_title">Nowa lokalizacja pobrań</string>
+  <string name="character_counter_content_description">Przekroczono limit znaków %1$d z %2$d</string>
+  <string name="collect_diagnosis_log">Gromadź logi diagnostyczne</string>
+  <string name="diagnosis_log_send_failed">Nie udało się wysłać logu diagnostycznego.</string>
+  <string name="diagnosis_log_sent_format">"Wysłano log diagnostyczny.
+ID: %s
+Wyślij ten kod do wsparcia technicznego."</string>
+  <string name="for_diagnosis_usage_only">Używaj tej informacji tylko do celów diagnostycznych.</string>
+  <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
+  <string name="passport_oauth_actionbar_title">Konto Xiaomi</string>
+  <string name="passport_oauth_sucess_tip">Pomyślnie zautoryzowano</string>
+  <string name="password_toggle_content_description">Wyświetlaj hasło</string>
+  <string name="send_diagnosis_log">Wyślij log diagnostyczny</string>
+  <string name="sending">Wysyłanie…</string>
 </resources>

@@ -8638,8 +8638,8 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="miheadset_fitness_check_result_r_not_ok">Popraw słuchawkę</string>
   <string name="voip_assistant_settings">Asystent VoIP</string>
   <string name="screen_recorder_title">Nagrywanie ekranu</string>
-  <string name="freeform_guide_slide_to_small_freeform_summary">Przytrzymaj dół okna i przeciągnij je do prawego górnego rogu</string>
-  <string name="freeform_guide_slide_to_small_freeform_title">Minimalizuj aplikację</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary">Przytrzymaj pasek akcji i przeciągnij go do rogu ekranu</string>
+  <string name="freeform_guide_slide_to_small_freeform_title">Minimalizuj pływające okno</string>
   <string name="miheadset_double_press_left">Dwukrotnie wciśnij lewą słuchawkę</string>
   <string name="miheadset_double_press_right">Dwukrotnie wciśnij prawą słuchawkę</string>
   <string name="miheadset_triple_press_left">Trzykrotnie wciśnij lewą słuchawkę</string>
@@ -8656,4 +8656,8 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="miheadset_network_not_available">Sprawdź swoje ustawienia sieci i spróbuj ponownie</string>
   <string name="bluetooth_footer_mac_message">"Adres Bluetooth telefonu: %1$s"</string>
   <string name="bluetooth_preference_found_media_devices">Dostępne urządzenia</string>
+  <string name="adjust_ligth">Dostosowanie jasności</string>
+  <string name="miheadset_single_ear_indicate">Noś obie słuchawki, aby użyć redukcji szumów</string>
+  <string name="smooth_adjust_ligth">Płynniejsze przejścia</string>
+  <string name="smooth_adjust_ligth_summary">Gdy zmieniasz jasność ręcznie, przejścia pomiędzy jej poszczególnymi stopniami będą bardziej płynne. Gdy ta funkcja jest włączona, w niektórych sytuacjach mogą wystąpić drobne niespójności kolorów.</string>
 </resources>

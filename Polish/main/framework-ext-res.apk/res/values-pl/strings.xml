@@ -285,7 +285,7 @@
   <string name="wifi_assistant_wifi_no_internet">Ta sieć Wi-Fi nie ma dostępu do Internetu</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Pokaż akcje.</string>
   <string name="wireless_charging_notification_message1">"Nie znaleziono bezprzewodowych urządzeń do naładowania. Bezprzewodowe ładowanie zwrotne zostało wyłączone."</string>
-  <string name="wireless_charging_notification_message2">Bateria jest naładowana w mniej niż 30%. Bezprzewodowe ładowanie zwrotne zostało wyłączone.</string>
+  <string name="wireless_charging_notification_message2">Bateria jest naładowana w mniej niż %s. Bezprzewodowe ładowanie zwrotne zostało wyłączone.</string>
   <string name="wireless_charging_notification_message3">W trakcie ładowania wystąpił błąd. Bezprzewodowe ładowanie zwrotne zostało wyłączone.</string>
   <string name="wireless_charging_notification_titile">Wyłączono ładowanie zwrotne</string>
   <string name="xspace_head">Sklonowana aplikacja</string> 

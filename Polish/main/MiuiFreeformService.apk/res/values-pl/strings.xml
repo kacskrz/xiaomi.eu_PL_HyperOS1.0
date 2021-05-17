@@ -25,8 +25,8 @@
     <string name="how_to_slide_up_to_close_summary">Przesuń pasek akcji pływającego okna w górę</string>
     <string name="how_to_use_freeform">Jak używać pływających okien</string>
     <string name="bottom_bar_smallwindow_text">Puść, aby przypiąć</string>
-    <string name="freeform_slide_to_small_freeform">Zmniejszanie pływających okien</string>
-    <string name="freeform_slide_to_small_freeform_summary">Przesuń pływające okno do prawego górnego rogu ekranu</string>
-    <string name="fullscreen_slide_to_small_freeform">Włączanie pływających okien</string>
-    <string name="fullscreen_slide_to_small_freeform_summary">Przeciągnij od dołu do prawego górnego rogu ekranu, aby włączyć pływające okno</string>
+    <string name="freeform_slide_to_small_freeform">Minimalizuj pływające okno</string>
+    <string name="freeform_slide_to_small_freeform_summary">Przytrzymaj pasek akcji i przeciągnij go do rogu ekranu</string>
+    <string name="fullscreen_slide_to_small_freeform">Minimalizuj aplikację</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Przeciągnij od dolnej krawędzi do prawego górnego rogu ekranu</string>
 </resources>
