@@ -659,8 +659,6 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="fmt_time_second_millis">s.S</string>
   <string name="fmt_weekday_long">EEEE</string>
   <string name="fmt_weekday_short">E</string>
-  <string name="monday_short">Pon</string>
-  <string name="monday_shortest">P</string>
   <string name="month_april">kwietnia</string>
   <string name="month_april_short">kwi</string>
   <string name="month_april_shortest">K</string>
