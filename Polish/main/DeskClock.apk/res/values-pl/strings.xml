@@ -508,4 +508,6 @@
   <string name="month_september">września</string>
   <string name="month_september_short">wrz</string>
   <string name="month_september_shortest">W</string>
+  <string name="select_operation">Wybierz</string>
+  <string name="shutdown_alarm_alert_enable_summary_new">Włącz tę opcję, aby włączać alarmy w momencie, gdy urządzenie jest wyłączone. Włączane będą jedynie alarmy, które zostały ustawione na przynajmniej %d minut po wyłączeniu urządzenia.</string>
 </resources>

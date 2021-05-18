@@ -4509,4 +4509,13 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gb_shoulder_key_settings_summary">"Używaj obydwu bumperów, aby uruchomić tryb Game Turbo wtedy, gdy nie grasz"</string>
     <string name="gb_shoulder_key_settings_title">Używaj bumperów, aby włączyć Game Turbo</string>
     <string name="gb_shoulder_key_settings_title_new">Szybkie uruchamianie Game Turbo</string>
+    <string name="applock_mixtype_hidepwd_icon">Ukryj</string>
+    <string name="applock_mixtype_showpwd_icon">Pokaż</string>
+    <string name="exception_checking">Sprawdzanie…</string>
+    <string name="gamebooster_network_dialog_cn_message">"Nie możesz korzystać z trybu Game Turbo, gdy Panel sterowania nie może połączyć się z Internetem i uzyskać dostępu do Twojej lokalizacji. Zezwolić na to teraz?"</string>
+    <string name="xspace_warning_dialog_button">Rozumiem</string>
+    <string name="xspace_warning_dialog_message">Ze względu na ograniczenia wprowadzone w Androidzie %d, wszystkie sklonowane aplikacje będą mogły uzyskać dostęp jedynie do zdjęć i filmów wygenerowanych i zapisanych wewnątrz odpowiedniej sklonowanej aplikacji.</string>
+    <string name="xspace_warning_dialog_title">Uwaga</string>
+    <string name="gb_storage_game_dialog_message">"Możesz automatycznie gromadzić gry w trybie Game Turbo. Po włączeniu tej funkcji nie będą się one pojawiać na pulpicie. Włączyć ją teraz?"</string>
+    <string name="tips">Uwaga</string>
 </resources>
