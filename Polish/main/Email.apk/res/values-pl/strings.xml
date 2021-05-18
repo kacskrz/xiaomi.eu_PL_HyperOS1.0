@@ -1464,7 +1464,6 @@ Sprawdź, czy hasło w aplikacji jest włączone. Jeśli tak jest, przejdź na s
   <string name="miuix_appcompat_select_all_description">Wybierz wszystko</string>
   <string name="miuix_appcompat_select_item">Wybierz elementy</string>
   <string name="more">Więcej</string>
-  <string name="send">Wyślij</string>
   <string name="actionbar_button_up_description">Wstecz</string>
   <string name="clearable_edittext_clear_description">Wyczyść</string>
   <string name="close">Zamknij</string>

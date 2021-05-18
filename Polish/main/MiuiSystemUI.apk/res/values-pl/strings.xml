@@ -2667,5 +2667,4 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="choose_clock_dual_clock_hint_text">"Nie można zmienić formatu, gdy włączony jest Podwójny zegar"</string>
     <string name="start_camera_error_try_again">"Nie udało się uruchomić Aparatu. Spróbuj ponownie."</string>
     <string name="lock_screen_access_to_5G">Dostęp do sieci 5G</string>
-    <string name="miui_screen_rotation_freeze_message">Zablokowano obracanie ekranu w trybie poziomym</string>
 </resources>
