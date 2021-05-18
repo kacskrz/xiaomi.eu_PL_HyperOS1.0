@@ -1513,4 +1513,5 @@ Sprawdź, czy hasło w aplikacji jest włączone. Jeśli tak jest, przejdź na s
   <string name="tell_you_later">Później</string>
   <string name="weixin_info_summary">Konto WeChat: %s. Dotknij, aby skopiować.</string>
   <string name="x_account_settings_mibill_resolve_label_summary">Automatycznie rozpoznaj rachunki kart kredytowych</string>
+  <string name="settings_attachment">Załączniki</string>
 </resources>
