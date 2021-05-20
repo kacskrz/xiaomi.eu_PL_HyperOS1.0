@@ -509,7 +509,7 @@
   <string name="show_refresh_rate">Pokaż częstotliwość odświeżania</string>
   <string name="show_refresh_rate_summary">Pokaż bieżącą częstotliwość odświeżania</string>
   <string name="silent_notifications_status_bar">Ukryj ciche powiadomienia na pasku stanu</string>
-  <string name="sound_mode">Tryb cichy i Nie przeszkadzać</string>
+  <string name="sound_mode">Tryb cichy</string>
   <string name="sound_settings_example_summary">Głośność dzwonka i powiadomień na poziomie 80%</string>
   <string name="sound_settings_summary">Głośność dzwonka i powiadomień na poziomie %1$s</string>
   <string name="storage_category">Pamięć</string>

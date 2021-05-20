@@ -40,16 +40,19 @@
         <item quantity="few">Usunąć %d nagrania?</item>
     </plurals>
     <plurals name="search_alll_records_hint">
-        <item quantity="other">Szukaj spośród %d nagrań</item>
-        <item quantity="one">Szukaj spośród %d nagrania</item>
+        <item quantity="other">%d nagrań</item>
+        <item quantity="few">%d nagrania</item>
+        <item quantity="one">%d nagranie</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">Szukaj spośród %d nagrań rozmów</item>
-        <item quantity="one">Szukaj spośród %d nagrania rozmowy</item>
+        <item quantity="other">%d nagrań rozmów</item>
+        <item quantity="few">%d nagrania rozmów</item>
+        <item quantity="one">%d nagranie rozmowy</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">Szukaj spośród %d nagrań</item>
-        <item quantity="one">Szukaj spośród %d nagrania</item>
+        <item quantity="other">%d nagrań</item>
+        <item quantity="few">%d nagrania</item>
+        <item quantity="one">%d nagranie</item>
     </plurals>
     <plurals name="recovery_failed_dialog_message">
         <item quantity="other">"Nie udało się przywrócić %d elementów ze względu na nieznany błąd."</item>
@@ -73,5 +76,15 @@
         <item quantity="other">Zaznaczono %d elementów</item>
         <item quantity="one">Zaznaczono %d element</item>
         <item quantity="few">Zaznaczono %d elementy</item>
+    </plurals>
+    <plurals name="search_fm_records_hint">
+        <item quantity="other">%d nagrań radia</item>
+        <item quantity="few">%d nagrania radia</item>
+        <item quantity="one">%d nagranie radia</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d nagrań</item>
+        <item quantity="few">%d nagrania</item>
+        <item quantity="one">%d nagranie</item>
     </plurals>
 </resources>
