@@ -4518,4 +4518,6 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="xspace_warning_dialog_title">Uwaga</string>
     <string name="gb_storage_game_dialog_message">"Możesz automatycznie gromadzić gry w trybie Game Turbo. Po włączeniu tej funkcji nie będą się one pojawiać na pulpicie. Włączyć ją teraz?"</string>
     <string name="tips">Uwaga</string>
+    <string name="exit_dialog_release_storage_message_new">Zajęte jest więcej niż %s pamięci urządzenia. Zwolnij miejsce, odinstalowując aplikacje, których nie używasz.</string>
+    <string name="vb_ve_settings_display_style_tips_new">*Efekty zostaną zastosowane tylko do obszaru odtwarzania filmu</string>
 </resources>

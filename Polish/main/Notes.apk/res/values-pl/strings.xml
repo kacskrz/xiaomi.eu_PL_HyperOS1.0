@@ -695,4 +695,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="month_september">września</string>
   <string name="month_september_short">wrz</string>
   <string name="month_september_shortest">W</string>
+  <string name="data_empty_folder">Brak innych folderów</string>
+  <string name="handwrite_description">Notatka odręczna</string>
+  <string name="menu_add_handwrite_description">Dodaj notatkę odręczną</string>
 </resources>

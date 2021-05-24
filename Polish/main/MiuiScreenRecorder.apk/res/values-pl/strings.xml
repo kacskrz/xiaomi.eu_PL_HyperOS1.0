@@ -150,4 +150,5 @@
   <string name="app_notification_channel_record_complete">Powiadomienia dot. zakończonych nagrań</string>
   <string name="app_notification_record_complete">"Zapisano nagranie w Galerii
 Dotknij, aby je zobaczyć"</string>
+  <string name="view_recorded_file">Dotknij, aby zobaczyć nagranie</string>
 </resources>

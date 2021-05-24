@@ -510,4 +510,10 @@
   <string name="month_september_shortest">W</string>
   <string name="select_operation">Wybierz</string>
   <string name="shutdown_alarm_alert_enable_summary_new">Włącz tę opcję, aby włączać alarmy w momencie, gdy urządzenie jest wyłączone. Włączane będą jedynie alarmy, które zostały ustawione na przynajmniej %d minut po wyłączeniu urządzenia.</string>
+  <string name="close_alarm_new">Stop</string>
+  <string name="not_set_temporarily">Nie, dzięki</string>
+  <string name="set_now">Ustaw</string>
+  <string name="slider_text_new">Przesuń w górę, aby zatrzymać</string>
+  <string name="timer_got_it_new">Wycisz</string>
+  <string name="week_ringtone_recommend_desc">Alarm naturalny odtwarza różne dźwięki w zależności od dnia. Ustawić go jako domyślny alarm?</string>
 </resources>

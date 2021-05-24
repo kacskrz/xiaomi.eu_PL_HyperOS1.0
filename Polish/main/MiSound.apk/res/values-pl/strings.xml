@@ -236,4 +236,18 @@
   <string name="music_headset_audio_visual_unmute">Podgląd z dźwiękiem</string>
   <string name="not_support_sound_transmission_content">"Funkcja nie jest wspierana przez połączone urządzenie. Spróbuj jej użyć z innym urządzeniem Bluetooth."</string>
   <string name="not_support_sound_transmission_prompt">Uwaga</string>
+  <string name="hearing_assist_bluetooth_headset">Słuchawki Bluetooth</string>
+  <string name="hearing_assist_bluetooth_headset_disconnected">Nie połączono</string>
+  <string name="hearing_assist_bluetooth_headset_not_supported">Niewspierane</string>
+  <string name="hearing_assist_btn_headset_choice">Wybierz urządzenie</string>
+  <string name="hearing_assist_btn_start">Start</string>
+  <string name="hearing_assist_btn_stop">Stop</string>
+  <string name="hearing_assist_exit_btn_continue">Zostaw włączony</string>
+  <string name="hearing_assist_exit_btn_stop">Wyłącz</string>
+  <string name="hearing_assist_exit_tips_summary">Obecnie pracuje monitor douszny. Wyłączyć go?</string>
+  <string name="hearing_assist_exit_tips_title">Wyłącz monitor douszny</string>
+  <string name="hearing_assist_tips_message_one">%d. Przełącznik Monitora dousznego jest dostępny w Centrum funkcji. Możesz go tam dodać.</string>
+  <string name="hearing_assist_tips_message_two">%d. Funkcja jest wspierana przez wybrane modele słuchawek Bluetooth.</string>
+  <string name="hearing_assist_title">Monitor douszny</string>
+  <string name="hearing_assist_volume">"Głośność mikrofonu"</string>
 </resources>

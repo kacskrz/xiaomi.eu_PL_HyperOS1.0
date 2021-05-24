@@ -1,25 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<plurals name="fast_connect_headset_reset">
-        <item quantity="other">Kliknij i przytrzymaj przycisk zestawu przez %1$d sekund</item>
-        <item quantity="one">Kliknij i przytrzymaj przycisk zestawu przez %1$d sekundę</item>
-        <item quantity="few">Kliknij i przytrzymaj przycisk zestawu przez %1$d sekundy</item>
-	</plurals>
-    <plurals name="fast_connect_reset_air2_se">
-        <item quantity="other">Naciśnij i przytrzymaj obszar wrażliwy na dotyk na słuchawkach przez %1$d sekund</item>
-        <item quantity="one">Naciśnij i przytrzymaj obszar wrażliwy na dotyk na słuchawkach przez %1$d sekundę</item>
-        <item quantity="few">Naciśnij i przytrzymaj obszar wrażliwy na dotyk na słuchawkach przez %1$d sekundy</item>
-    </plurals>
-    <plurals name="fast_connect_reset_nzbt">
-        <item quantity="other">Naciśnij i przytrzymaj przycisk przez %1$s sekund, gdy urządzenie jest wyłączone</item>
-        <item quantity="few">Naciśnij i przytrzymaj przycisk przez %1$s sekundy, gdy urządzenie jest wyłączone</item>
-        <item quantity="one">Naciśnij i przytrzymaj przycisk przez %1$s sekundę, gdy urządzenie jest wyłączone</item>
-    </plurals>
-    <plurals name="fast_connect_reset_common_seconds">
-        <item quantity="other">Naciśnij i przytrzymaj przez %1$d sekund, aby zresetować</item>
-        <item quantity="few">Naciśnij i przytrzymaj przez %1$d sekundy, aby zresetować</item>
-        <item quantity="one">Naciśnij i przytrzymaj przez %1$d sekundę, aby zresetować</item>
-    </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">Godzinę temu</item>
         <item quantity="one">Godzinę temu</item>

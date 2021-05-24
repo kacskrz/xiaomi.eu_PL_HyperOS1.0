@@ -206,4 +206,5 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="actionbar_button_up_description">Wstecz</string>
   <string name="clearable_edittext_clear_description">Wyczyść</string>
   <string name="close">Zamknij</string>
+  <string name="error_remote_ap_working">Poproś drugą osobę o wyłączenie funkcji hotspotu</string>
 </resources>

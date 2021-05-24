@@ -1081,4 +1081,9 @@ Zrób sobie przerwę!"</item>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Rozumiem (%d sek.)</item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">"Wynik wydajności urządzenia jest niższy niż %d punktów. Zoptymalizować je teraz?"</item>
+        <item quantity="one">"Wynik wydajności urządzenia jest niższy niż %d punkt. Zoptymalizować je teraz?"</item>
+        <item quantity="few">"Wynik wydajności urządzenia jest niższy niż %d punkty. Zoptymalizować je teraz?"</item>
+    </plurals>
 </resources>

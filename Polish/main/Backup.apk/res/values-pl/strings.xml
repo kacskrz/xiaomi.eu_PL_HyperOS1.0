@@ -793,4 +793,6 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="new_pc_backup_summary2_pad">Podłącz urządzenie do komputera za pomocą kabla USB.</string>
   <string name="new_pc_restore_content2_pad">%d. Skopiuj swoją kopię z komputera to katalogu MIUI-Backup-AllBackup.</string>
   <string name="not_enough_storage_tips">Za mało miejsca. Zwolnij je i spróbuj ponownie.</string>
+  <string name="apps_item_desc">Aplikacja</string>
+  <string name="new_pc_restore_content1_pad">%d. Podłącz urządzenie do komputera za pomocą kabla USB.</string>
 </resources>
