@@ -294,4 +294,13 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="wireless_charging_fg_control_cancel">Anuluj</string>
     <string name="wireless_charging_fg_control_messgae">"Bezprzewodowe ładowanie zwrotne zostało wyłączone, ponieważ pozostało mniej niż %d%% baterii. Możesz dostosować ustawienia, aby pozwolić na dłuższe działanie tej opcji."</string>
     <string name="wireless_charging_fg_control_ok">Dostosuj</string>
+    <string name="hearing_assist_bluetooth_enable_tips_cancle">Anuluj</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">Włącz</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">Monitor douszny działa, gdy włączone jest Bluetooth. Włączyć je teraz?</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">Włącz Bluetooth</string>
+    <string name="hearing_assist_transmission_label">Monitor douszny</string>
+    <string name="hearing_assist_transmission_tips_cancel">Anuluj</string>
+    <string name="hearing_assist_transmission_tips_continue">Włącz</string>
+    <string name="hearing_assist_transmission_tips_summary">"Monitor douszny przekazuje strumień z mikrofonu telefonu do podłączonych słuchawek Bluetooth. Włączyć tę funkcję?"</string>
+    <string name="hearing_assist_transmission_tips_title">Monitor douszny</string>
 </resources>

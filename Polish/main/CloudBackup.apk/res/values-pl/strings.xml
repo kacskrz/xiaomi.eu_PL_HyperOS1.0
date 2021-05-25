@@ -338,4 +338,12 @@ Spróbuj ponownie"</string>
   <string name="miuix_appcompat_select_item">Wybierz elementy</string>
   <string name="more">Więcej</string>
   <string name="send">Wyślij</string>
+  <string name="backup_action_access_permission">Ustawienia</string>
+  <string name="backup_failed_reason_app_usage_denied">Nadaj wymagane uprawnienia, aby wykonać kopię</string>
+  <string name="backup_warning_reason_app_usage_denied">"Nie udało się zsynchronizować danych.
+Wymagane są uprawnienia."</string>
+  <string name="dialog_app_usage_denied">Nadaj aplikacji Kopia w Chmurze uprawnienie \"Dostęp do użytkowania\" w Ustawieniach, aby móc wykonać kopię.</string>
+  <string name="dialog_btn_confirm2">Rozumiem</string>
+  <string name="dialog_btn_enter">Ustawienia</string>
+  <string name="dialog_need_permission">Wymagane uprawnienia</string>
 </resources>

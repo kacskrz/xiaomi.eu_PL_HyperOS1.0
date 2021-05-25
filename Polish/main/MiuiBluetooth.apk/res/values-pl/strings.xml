@@ -280,4 +280,5 @@ Szyszy protokół transmisji."</string>
     <string name="wednesday">Środa</string>
     <string name="wednesday_short">Śr</string>
     <string name="wednesday_shortest">Śr</string>
+    <string name="headset_device_sync">Synchronizacja…</string>
 </resources>

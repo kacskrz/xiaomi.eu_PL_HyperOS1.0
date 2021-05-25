@@ -500,7 +500,7 @@
   <string name="switch_personal_assistant_none">Brak</string>
   <string name="system_shortcuts_remove">Usuń</string>
   <string name="system_shortcuts_more_operation">O aplikacji</string>
-  <string name="system_text">Systemowe</string>
+  <string name="system_text">Automatyczne</string>
   <string name="task_access_locked_app_msg">Włączono Blokadę aplikacji</string>
   <string name="title_jeejen">Jeejen Home screen</string>
   <string name="title_select_live_folder">Wybierz katalog</string>

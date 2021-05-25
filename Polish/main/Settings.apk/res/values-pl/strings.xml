@@ -6848,8 +6848,8 @@ Tymczasem możesz dalej konfigurować nowe urządzenie %1$s."</string>
   <string name="update_new_version">Dostępna jest aktualizacja</string>
   <string name="update_progress_for_updates">Aktualizowanie（%s）</string>
   <string name="upload_audio_log">Rozpoczynanie raportu audio</string>
-  <string name="upload_debug_log_summary">Pokaż przycisk \"Raport MIUI\" dla każdego błędu systemu lub aplikacji</string>
-  <string name="upload_debug_log_title">Prześlij rejestr debugowania</string>
+  <string name="upload_debug_log_summary">Udostępnij dane, aby pomóc poprawić MIUI</string>
+  <string name="upload_debug_log_title">Użytkowanie i diagnostyka</string>
   <string name="upload_gps_log">Rozpoczynanie raportu GPS</string>
   <string name="upload_modem_log">Rozpoczynanie raportu modemu</string>
   <string name="usage">Wykorzystanie danych</string>
@@ -8785,4 +8785,8 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="three_gesture_horizontal">Przesuń poziomo %d palcami</string>
   <string name="three_gesture_pc_mode">Włącz tryb PC</string>
   <string name="user_agreement">Warunki użytkowania</string>
+  <string name="smart_home_select_smart_device">Aplikacja do zarządzania urządzeniami smart home</string>
+  <string name="upload_debug_log_detail">"Pomóż poprawić wrażenia z korzystania z MIUI poprzez automatyczne wysyłanie do Xiaomi informacji diagnostycznych oraz danych dot. urządzenia i korzystania z aplikacji. Pomoże to poprawić żywotność baterii, stabilność MIUI i aplikacji itp.
+Wysłane dane będą zawierać ogólne informacje o urządzeniu i korzystaniu z niego (np. poziom naładowania baterii, aktywność systemu i aplikacji, błędy). Dane zostaną wykorzystane do poprawiania urządzeń bazujących na nakładce MIUI.
+Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania informacji niezbędnych do działania podstawowych usług."</string>
 </resources>

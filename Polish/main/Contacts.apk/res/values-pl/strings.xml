@@ -1569,4 +1569,5 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="fmt_time_second_millis">s.S</string>
   <string name="fmt_weekday_long">EEEE</string>
   <string name="fmt_weekday_short">E</string>
+  <string name="no_contact_selected">Wybierz kontakt, aby wyświetlić szczegóły</string>
 </resources>

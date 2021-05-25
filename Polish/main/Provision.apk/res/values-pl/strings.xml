@@ -312,4 +312,8 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="title_set_fingerprint">Blokada ekranu</string>
   <string name="close">Zamknij</string>
   <string name="send">Wyślij</string>
+  <string name="other_settings_upload_debug_log_detail">"Pomóż poprawić wrażenia z korzystania z MIUI poprzez automatyczne wysyłanie do Xiaomi informacji diagnostycznych oraz danych dot. urządzenia i korzystania z aplikacji. Pomoże to poprawić żywotność baterii, stabilność MIUI i aplikacji itp.
+Wysłane dane będą zawierać ogólne informacje o urządzeniu i korzystaniu z niego (np. poziom naładowania baterii, aktywność systemu i aplikacji, błędy). Dane zostaną wykorzystane do poprawiania urządzeń bazujących na nakładce MIUI.
+Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania informacji niezbędnych do działania podstawowych usług.
+Możesz kontrolować tę funkcję z poziomu Ustawień > Hasła i bezpieczeństwo > Prywatność > Użytkowanie i diagnostyka."</string>
 </resources>

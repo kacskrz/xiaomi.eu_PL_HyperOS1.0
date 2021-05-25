@@ -1086,4 +1086,9 @@ Zrób sobie przerwę!"</item>
         <item quantity="one">"Wynik wydajności urządzenia jest niższy niż %d punkt. Zoptymalizować je teraz?"</item>
         <item quantity="few">"Wynik wydajności urządzenia jest niższy niż %d punkty. Zoptymalizować je teraz?"</item>
     </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d ryzyk związanych z prywatnością</item>
+        <item quantity="few">%d ryzyka związane z prywatnością</item>
+        <item quantity="one">%d ryzyko związane z prywatnością</item>
+    </plurals>
 </resources>

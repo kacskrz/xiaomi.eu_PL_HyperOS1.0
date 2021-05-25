@@ -855,4 +855,6 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="send">Wyślij</string>
     <string name="usage_app_holiday_limit">Dni wolne</string>
     <string name="service_ringtone_title">Dzwonek usługodawcy</string>
+    <string name="authorization_btn_text">Start</string>
+    <string name="authorization_tips">Wymagane uprawnienia</string>
 </resources>
