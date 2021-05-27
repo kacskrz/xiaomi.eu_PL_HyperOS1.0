@@ -8770,12 +8770,11 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="wednesday_short">Śr</string>
   <string name="wednesday_shortest">Śr</string>
   <string name="copyright">Prawa autorskie</string>
-  <string name="dark_mode_auto_time_summary">Włącz Ciemny motyw o wybranej porze</string>
+  <string name="dark_mode_auto_time_summary">Włączaj i wyłączaj Ciemny motyw o wybranej porze</string>
   <string name="dark_mode_auto_time_title">Własny czas</string>
-  <string name="dark_mode_day_night_mode_summary">Automatycznie włączaj Ciemny motyw po zachodzie słońca</string>
-  <string name="dark_mode_day_night_mode_title">Po zachodzie słońca</string>
+  <string name="dark_mode_day_night_mode_summary">Automatycznie włączaj Ciemny motyw po zachodzie słońca i wyłączaj go, gdy ono wschodzi</string>
+  <string name="dark_mode_day_night_mode_title">Od zachodu do wschodu słońca</string>
   <string name="dark_mode_time_settings">Zaplanuj włączanie Ciemnego motywu</string>
-  <string name="dark_mode_time_settings_summary">Ustawienia dot. czasu włączania/wyłączania Ciemnego notywu</string>
   <string name="headphone_assisted_summary">"Przekazuj strumień z mikrofonu telefonu do podłączonych słuchawek Bluetooth"</string>
   <string name="headphone_assisted_title">Monitor douszny</string>
   <string name="maintenance_title">Tryb naprawy</string>
