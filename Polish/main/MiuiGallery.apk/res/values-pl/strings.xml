@@ -2136,7 +2136,7 @@
      <string name="vlog_float_view_original_ratio">Original</string>
      <string name="vlog_improt_encode_video_error">Wystąpił błąd enkodera. Spróbuj ponownie.</string>
      <string name="vlog_photo_edit_not_support">"Nie można edytować obrazów"</string>
-     <string name="vlog_video_trans_code_cons">Przetwarzanie pliku wysokiej rozdzielczości…</string>
+     <string name="vlog_video_trans_code_cons">Importowanie…</string>
      <string name="filter_general_blackice">Czarny lód</string>
 	   <string name="filter_general_greenorange">Limonka</string>
 	   <string name="filter_general_movie">Kino</string>
@@ -2629,4 +2629,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="filter_travel_charlotte">Charlotte</string>
     <string name="mishare_all_devices">Wszystkie urządzenia</string>
     <string name="synced_photo_video_count">Zsynchronizowano %1$s i %2$s</string>
+    <string name="home_page_all_photos">Wszystko</string>
+    <string name="home_page_camera">Z Aparatu</string>
+    <string name="home_page_custom">Własne</string>
 </resources>
