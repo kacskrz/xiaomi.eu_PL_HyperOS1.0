@@ -2776,4 +2776,5 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="wednesday">Środa</string>
     <string name="wednesday_short">Śr</string>
     <string name="wednesday_shortest">Śr</string>
+    <string name="face_unlock_swipe_up_retry">Przesuń w górę, aby spróbować ponownie</string>
 </resources>

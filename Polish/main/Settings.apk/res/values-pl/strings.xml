@@ -8788,4 +8788,6 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="upload_debug_log_detail">"Pomóż poprawić wrażenia z korzystania z MIUI poprzez automatyczne wysyłanie do Xiaomi informacji diagnostycznych oraz danych dot. urządzenia i korzystania z aplikacji. Pomoże to poprawić żywotność baterii, stabilność MIUI i aplikacji itp.
 Wysłane dane będą zawierać ogólne informacje o urządzeniu i korzystaniu z niego (np. poziom naładowania baterii, aktywność systemu i aplikacji, błędy). Dane zostaną wykorzystane do poprawiania urządzeń bazujących na nakładce MIUI.
 Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania informacji niezbędnych do działania podstawowych usług."</string>
+  <string name="screen_timeout_subtitle">Wyświetlanie statycznych elementów przez dłuższy czas może spowodować, że kolory będą nierówne</string>
+  <string name="switch_power_sound">Dźwięk ładowania</string>
 </resources>
