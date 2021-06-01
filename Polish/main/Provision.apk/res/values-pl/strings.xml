@@ -316,4 +316,6 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
 Wysłane dane będą zawierać ogólne informacje o urządzeniu i korzystaniu z niego (np. poziom naładowania baterii, aktywność systemu i aplikacji, błędy). Dane zostaną wykorzystane do poprawiania urządzeń bazujących na nakładce MIUI.
 Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania informacji niezbędnych do działania podstawowych usług.
 Możesz kontrolować tę funkcję z poziomu Ustawień > Hasła i bezpieczeństwo > Prywatność > Użytkowanie i diagnostyka."</string>
+  <string name="disagreement_terminate_miuidaemon">"Jeśli nie chcesz nadać tych uprawnień bądź udostępnić Twoich danych, nie będzie można korzystać z tej usługi. Możesz zdecydować o zaprzestaniu korzystania z tej usługi lub ograniczenia dla niej uprawnień w Ustawieniach w dowolnym momencie. Xiaomi będzie używać uprawnień wyłącznie wtedy, gdy rozpoczniesz przesyłanie danych z urządzenia w momencie, gdy jego ekran jest uszkodzony."</string>
+  <string name="require_miuidaemon_authority_statement">Aby pozwolić Xiaomi na dostarczanie tej usługi i gromadzenie Twoich danych, musisz nadać jej następujące uprawnienia:</string>
 </resources>
