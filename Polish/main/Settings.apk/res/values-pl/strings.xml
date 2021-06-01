@@ -8794,4 +8794,9 @@ Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania in
   <string name="time_floating_window_summary">Wyświetlaj zegar w pływającym oknie nad innymi aplikacjami</string>
   <string name="oaid_apps_summary">Zezwól bądź ogranicz dostęp do identyfikatora dla poszczególnych aplikacji</string>
   <string name="oaid_apps_title">Zarządzaj wirtualnym ID</string>
+  <string name="charge_animation_style_none">Wył.</string>
+  <string name="charge_animation_style_lollipop">Przepływ (klasyczna)</string>
+  <string name="charge_animation_style_video">Blask (z Mi 10)</string>
+  <string name="charge_animation_style_wave">Fala (z Mi Mix Alpha)</string>
+  <string name="charge_animation_style_particle">Cząstka</string>
 </resources>
