@@ -1784,4 +1784,5 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="unfold_speaker_pref_title">Rozłóż, aby użyć głośnika</string>
   <string name="four_point_five_switch_summary">Użyj sieci 4.5G, aby poprawić prędkość dostępu do danych i jakość rozmów głosowych.</string>
   <string name="four_point_five_switch_title">4.5G</string>
+  <string name="invalid_secretcode_format_txt">Nieprawidłowy format sekretnego kodu!</string>
 </resources>

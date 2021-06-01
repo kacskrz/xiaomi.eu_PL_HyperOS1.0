@@ -342,4 +342,7 @@
   <string name="miui_multiwindow_not_support_small_window">"%1$s nie wspiera pływających okien"</string>
   <string name="stylus_pen_mask_screenshot">Dotknij ekranu, aby wykonać zrzut ekranu</string>
   <string name="stylus_pen_mask_text">Dotknij ekranu, aby zacząć pisanie</string>
+  <string name="battery_authentic_failed_button">Rozumiem</string>
+  <string name="battery_authentic_failed_title">Uwaga</string>
+  <string name="other_ime">Inne klawiatury</string>
 </resources>

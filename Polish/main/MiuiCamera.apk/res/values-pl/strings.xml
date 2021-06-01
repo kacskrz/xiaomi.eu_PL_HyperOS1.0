@@ -1727,8 +1727,8 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="color_effect_entry_new_5_describe">Brązowawe odcienie i średni kontrast tworzą ciepłą atmosferę scen plenerowych kręconych przy naturalnym oświetleniu.</string>
   <string name="color_effect_entry_new_bbp_describe">Wysoki kontrast i niskie nasycenie nadają kinowy charakter większości scen.</string>
   <string name="color_effect_entry_orange_describe">Klasyczna sztuczka filmowa, która sprawia, że ciemne obszary są zimniejsze, a światła cieplejsze. Ten filtr odświeży zarówno miejską dżunglę, jak i wspaniałe plenery.</string>
-  <string name="dolly_zoom_capture_tip1">Umieść obiekt w kadrze i trzymaj urządzenie w odległości co najmniej %d metra</string>
-  <string name="dolly_zoom_capture_tip2">Odsuń stopniowo urządzenie od obiektu</string>
+  <string name="dolly_zoom_capture_tip1">Umieść obiekt w kadrze</string>
+  <string name="dolly_zoom_capture_tip2">Utrzymuj obiekt w środku kadru i stopniowo odsuwaj od niego urządzenie</string>
   <string name="dolly_zoom_capture_tip3">Zgubiono obiekt. Rozpocznij ponownie.</string>
   <string name="dolly_zoom_capture_tip4">Przesunięto urządzenie za daleko. Zacznij od nowa.</string>
   <string name="dolly_zoom_capture_tip5">Nie można zapisać wideo</string>
@@ -1921,4 +1921,5 @@ na nagrywanie i edycję filmów w drodze"</string>
 Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem i stworzenie filmu z wielu aparatów po wybraniu opcji \"Razem\"."</string>
   <string name="dual_video_user_guide_merge_content_new">Nagrania mogą być przechowywane połączone w ramach podzielonego widoku lub filmu typu \"obraz w obrazie\".</string>
   <string name="dual_video_user_guide_standalone_content_new">Filmy mogą być także oddzielone od siebie i zapisane jako dwa oddzielne pliki.</string>
+  <string name="dolly_zoom_capture_tip6">Umieść obiekt w środku ramki</string>
 </resources>

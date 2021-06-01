@@ -5,4 +5,9 @@
         <item quantity="one">%1$d plik</item>
         <item quantity="few">%1$d pliki</item>
     </plurals>
+    <plurals name="battery_authentic_failed_message">
+        <item quantity="other">Wygląda na to, że bateria została rozłączona. Urządzenie wyłączy się za %d sekund. Aby rozwiązać ten problem, skontaktuj się ze wsparciem technicznym.</item>
+        <item quantity="few">Wygląda na to, że bateria została rozłączona. Urządzenie wyłączy się za %d sekundy. Aby rozwiązać ten problem, skontaktuj się ze wsparciem technicznym.</item>
+        <item quantity="one">Wygląda na to, że bateria została rozłączona. Urządzenie wyłączy się za %d sekundę. Aby rozwiązać ten problem, skontaktuj się ze wsparciem technicznym.</item>
+    </plurals>
 </resources>

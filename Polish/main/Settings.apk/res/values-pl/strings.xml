@@ -1387,7 +1387,7 @@ Możesz wyłączyć tę funkcję w Ustawienia > Bluetooth > Sparowane urządzeni
   <string name="change_theme_reboot">Zmiana motywu wymaga restartu urządzenia.</string>
   <string name="channel_notifications_off_desc">Android blokuje tę kategorię powiadomień na urządzeniu</string>
   <string name="charge_length_format">%1$s temu</string>
-  <string name="charging_sounds_title">Dźwięk ładowania</string>
+  <string name="charging_sounds_title">Dźwięk i wibracje ładowania</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_importance">Ważność powiadomień</string>
   <string name="check_importance_dialog_cancel">Anuluj</string>
@@ -8790,4 +8790,8 @@ Wysłane dane będą zawierać ogólne informacje o urządzeniu i korzystaniu z 
 Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania informacji niezbędnych do działania podstawowych usług."</string>
   <string name="screen_timeout_subtitle">Wyświetlanie statycznych elementów przez dłuższy czas może spowodować, że kolory będą nierówne</string>
   <string name="switch_power_sound">Dźwięk ładowania</string>
+  <string name="time_floating_window">Pływający zegar</string>
+  <string name="time_floating_window_summary">Wyświetlaj zegar w pływającym oknie nad innymi aplikacjami</string>
+  <string name="oaid_apps_summary">Zezwól bądź ogranicz dostęp do identyfikatora dla poszczególnych aplikacji</string>
+  <string name="oaid_apps_title">Zarządzaj wirtualnym ID</string>
 </resources>
