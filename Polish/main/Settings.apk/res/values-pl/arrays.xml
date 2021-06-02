@@ -1846,12 +1846,6 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Reklamy oraz powiadomienia push dot. treści będą grupowane</item>
         <item>Powiadomienia push nie będą grupowane</item>
     </string-array>
-    <string-array name="charge_animation_style_entries">
-        <item>Wyłączona</item>
-        <item>Przepływ (klasyczna)</item>
-        <item>Blask (z Mi 10)</item>
-        <item>Fala (z Mi Mix Alpha)</item>
-    </string-array>
     <string-array name="paper_color_values">
         <item>Wszystkie kolory</item>
         <item>Jasne kolory</item>

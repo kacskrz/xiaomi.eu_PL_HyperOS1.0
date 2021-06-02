@@ -1785,4 +1785,14 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="four_point_five_switch_summary">Użyj sieci 4.5G, aby poprawić prędkość dostępu do danych i jakość rozmów głosowych.</string>
   <string name="four_point_five_switch_title">4.5G</string>
   <string name="invalid_secretcode_format_txt">Nieprawidłowy format sekretnego kodu!</string>
+  <string name="full_forwarding_number">Numer przekierowywania</string>
+  <string name="full_forwarding_number_error_msg">Wspierane są tylko numery telefonu zaczynające się od \"0\".</string>
+  <string name="full_forwarding_number_error_title">Nieprawidłowy numer telefonu</string>
+  <string name="full_forwarding_number_prefix">"Numer telefonu: "</string>
+  <string name="full_forwarding_option_forwarding">Przekierowanie</string>
+  <string name="full_forwarding_option_off">WYŁ.</string>
+  <string name="full_forwarding_option_voicemail">Poczta głosowa</string>
+  <string name="full_forwarding_settings">Pełne przekierowanie</string>
+  <string name="play_voicemail_settings">Odtwarzanie poczty głosowej</string>
+  <string name="voicemail_callforward_settings">Poczta głosowa i przekierowanie połączeń</string>
 </resources>

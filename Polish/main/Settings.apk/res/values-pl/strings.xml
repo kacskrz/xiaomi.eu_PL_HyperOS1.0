@@ -8799,4 +8799,5 @@ Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania in
   <string name="charge_animation_style_video">Blask (z Mi 10)</string>
   <string name="charge_animation_style_wave">Fala (z Mi Mix Alpha)</string>
   <string name="charge_animation_style_particle">Cząstka</string>
+  <string name="security_center_title">Panel sterowania</string>
 </resources>
