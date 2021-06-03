@@ -8800,4 +8800,6 @@ Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania in
   <string name="charge_animation_style_wave">Fala (z Mi Mix Alpha)</string>
   <string name="charge_animation_style_particle">Cząstka</string>
   <string name="security_center_title">Panel sterowania</string>
+  <string name="risk_tip">Wykryto ryzyko</string>
+  <string name="miui_input_method_attention">Uwaga</string>
 </resources>
