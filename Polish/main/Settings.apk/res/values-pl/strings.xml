@@ -8803,4 +8803,5 @@ Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania in
   <string name="risk_tip">Wykryto ryzyko</string>
   <string name="miui_input_method_attention">Uwaga</string>
   <string name="more">Więcej</string>
+  <string name="bluetooth_unlock_settings_unlock_summary">Funkcja działa z opaskami Mi Band i zegarkami Mi Watch</string>
 </resources>

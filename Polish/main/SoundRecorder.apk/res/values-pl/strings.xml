@@ -366,4 +366,6 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="recorder_record">Dźwięk</string>
   <string name="remind_settings_pref_title">Powiadomienia</string>
   <string name="tap_to_record">Dotknij przycisk, aby rozpocząć nagranie</string>
+  <string name="delete_recorder">Usuń</string>
+  <string name="play_speed">Prędkość %1$.1fX</string>
 </resources>
