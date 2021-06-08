@@ -4571,4 +4571,24 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="pc_hidemode_power_save">Energia</string>
     <string name="pc_performance_mode_dialog_summary">W Trybie wydajności Twoje urządzenie będzie mogło działać przez %s. Zwiększa on jednak zużycie energii i może powodować przegrzewanie się urządzenia.</string>
     <string name="pc_performance_mode_dialog_title">Tryb wydajności</string>
+    <string name="app_predict_dialog_button">Dodaj na pulpit</string>
+    <string name="app_predict_dialog_message">SI zasugeruje aplikacje, które w danej chwili potrzebujesz</string>
+    <string name="app_predict_dialog_success">Pomyślnie dodano widżet na pulpit</string>
+    <string name="app_predict_guide_button">Dodaj</string>
+    <string name="app_predict_guide_message">SI zasugeruje aplikacje, które w danej chwili potrzebujesz</string>
+    <string name="app_predict_guide_title">Inteligentne sugestie aplikacji</string>
+    <string name="power_setting_wireless_reverse_charging_fg_control_title">Limit ładowania</string>
+    <string name="power_wireless_need_update_text">Aktualizowanie…</string>
+    <string name="power_wireless_update_button_text">Aktualizuj</string>
+    <string name="power_wireless_update_dialog_button">Rozumiem</string>
+    <string name="power_wireless_update_dialog_message">Aby móc zaktualizować oprogramowanie ładowania bezprzewodowego, naładuj urządzenie w co najmniej %s.</string>
+    <string name="power_wireless_update_dialog_title">Niski poziom baterii</string>
+    <string name="power_wireless_update_driver">Aktualizacje oprogramowania</string>
+    <string name="power_wireless_update_notification_button">Wyświetl</string>
+    <string name="power_wireless_update_notification_subtitle">Wykonaj aktualizację, aby poprawić stabilność ładowania bezprzewodowego</string>
+    <string name="power_wireless_update_notification_title">Aktualizacja oprogramowania ładowania bezprzewodowego</string>
+    <string name="power_wireless_update_text">Aktualna</string>
+    <string name="power_wireless_update_tv_text">"Aktualizacja oprogramowania 6 Nie wyłączaj urządzenia."</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Zatrzymaj bezprzewodowe ładowanie zwrotne, kiedy poziom naładowania baterii będzie wynosić %s</string>
+    <string name="setting_wireless_reverse_charging_summary">Umieść urządzenie wspierające technologię ładowania bezprzewodowego Qi (np. telefon czy zegarek) na środku obudowy</string>
 </resources>
