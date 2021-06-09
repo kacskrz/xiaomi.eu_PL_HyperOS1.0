@@ -857,4 +857,7 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="service_ringtone_title">Dzwonek usługodawcy</string>
     <string name="authorization_btn_text">Start</string>
     <string name="authorization_tips">Wymagane uprawnienia</string>
+    <string name="usage_state_focus_mode_experience_warning_message_pad">"Tryb skupienia pozwala tylko na korzystanie z Aparatu. Nie będziesz w stanie wyłączyć tego trybu w trakcie jego trwania."</string>
+    <string name="usage_state_focus_mode_warning_message_pad">"Tryb skupienia pozwala tylko na korzystanie z Aparatu. Nie będziesz w stanie wyłączyć tego trybu w trakcie jego trwania."</string>
+    <string name="usage_state_focus_weak_summary_pad">Odłóż urządzenie na bok</string>
 </resources>

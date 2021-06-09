@@ -250,4 +250,12 @@
   <string name="hearing_assist_tips_message_two">%d. Funkcja jest wspierana przez wybrane modele słuchawek Bluetooth.</string>
   <string name="hearing_assist_title">Monitor douszny</string>
   <string name="hearing_assist_volume">"Głośność mikrofonu"</string>
+  <string name="headset_use_long_time">Wygląda na to, że nosisz słuchawki dłużej, niż jest to zalecane. Zdejmij je i zrób sobie przerwę.</string>
+  <string name="headset_use_loud_volume">Głośność słuchawek była wysoka przez długi czas. Aby chronić Twój słuch, została ona zmniejszona do zalecanego poziomu.</string>
+  <string name="headset_use_not_support_noise_reduction">Wygląda na to, że Twoje obecne otoczenie jest bardzo hałaśliwe. Noszenie słuchawek teraz może wpłynąć na Twój słuch.</string>
+  <string name="headset_use_prompt">Słuchawki</string>
+  <string name="headset_use_support_noise_reduction">Wygląda na to, że Twoje obecne otoczenie jest bardzo hałaśliwe. Użyj redukcji szumów, aby chronić swój słuch.</string>
+  <string name="headset_volume_content">Bieżąca głośność słuchawek przekracza zalecany limit. Zmniejsz głośność, aby chronić słuch.</string>
+  <string name="headset_volume_prompt">Głośność słuchawek</string>
+  <string name="see_details">Szczegóły</string>
 </resources>
