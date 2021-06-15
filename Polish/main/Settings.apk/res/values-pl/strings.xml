@@ -2847,8 +2847,8 @@ Kopia zapasowa nie wlicza się do limitu miejsca na Dysku Google. Nie zostanie t
   <string name="gesture_setting_off">Wyłączone</string>
   <string name="gesture_setting_on">Włączone</string>
   <string name="gesture_w">Wzór W</string>
-  <string name="gesture_wakeup_summary">Funkcja działa tylko, gdy ustawiony jest motyw Domyślny lub Klasyczny</string>
-  <string name="gesture_wakeup_title">Kliknij dwukrotnie, aby wybudzić lub wyłączyć ekran</string>
+  <string name="gesture_wakeup_summary">Funkcja działa tylko, gdy ustawione są wbudowane motywy</string>
+  <string name="gesture_wakeup_title">Kliknij dwukrotnie, aby wybudzić lub wyłączyć ekran, gdy urządzenie jest zablokowane</string>
   <string name="gesture_z">Wzór Z</string>
   <string name="global_change_warning">To ustawienie obowiązuje wszystkich użytkowników tego urządzenia.</string>
   <string name="global_font_change_title">Zmień rozmiar czcionki</string>
@@ -8638,7 +8638,8 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
   <string name="miheadset_fitness_check_result_r_not_ok">Popraw słuchawkę</string>
   <string name="voip_assistant_settings">Asystent VoIP</string>
   <string name="screen_recorder_title">Nagrywanie ekranu</string>
-  <string name="freeform_guide_slide_to_small_freeform_summary">Przytrzymaj pasek akcji i przeciągnij go do rogu ekranu</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary">"Przytrzymaj pasek akcji i przeciągnij go do rogu ekranu.
+Funkcja działa tylko, gdy jako sposób nawigacji po systemie ustawiono gesty."</string>
   <string name="freeform_guide_slide_to_small_freeform_title">Minimalizuj pływające okno</string>
   <string name="miheadset_double_press_left">Dwukrotnie wciśnij lewą słuchawkę</string>
   <string name="miheadset_double_press_right">Dwukrotnie wciśnij prawą słuchawkę</string>
@@ -8812,4 +8813,5 @@ Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania in
   <string name="bt_audiorepair_pre_title">Napraw przerywanie dźwięku</string>
   <string name="bt_audiorepair_summary">Napraw przerywanie dźwięku w połączonych urządzeniach Bluetooth</string>
   <string name="bt_audiorepair_working">Naprawianie przerywania dźwięku…</string>
+  <string name="lockpassword_confirm_your_lock_pin_header">Potwierdź swój PIN</string>
 </resources>

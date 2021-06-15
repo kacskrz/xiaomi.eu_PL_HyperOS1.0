@@ -345,4 +345,5 @@
   <string name="battery_authentic_failed_button">Rozumiem</string>
   <string name="battery_authentic_failed_title">Uwaga</string>
   <string name="other_ime">Inne klawiatury</string>
+  <string name="samsung_phone">Telefon Samsung</string>
 </resources>

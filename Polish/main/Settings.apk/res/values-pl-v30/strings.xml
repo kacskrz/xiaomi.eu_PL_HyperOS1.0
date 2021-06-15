@@ -729,7 +729,7 @@
   <string name="wifi_wakeup_scan_summary">Zezwól aplikacjom i usługom na wyszukiwanie sieci Wi-Fi, aby móc automatycznie włączać Wi-Fi. Włączenie tej funkcji pozwoli urządzeniu na automatyczne łączenie się z zapisanymi sieciami Wi-Fi w pobliżu.</string>
   <string name="wifi_wakeup_title">Włącz dodatkowe funkcje</string>
   <string name="status_device_wifi_mac_address">Adres MAC Wi-Fi urządzenia</string>
-  <string name="repeat_call_info">Informuj dźwiękiem bądź wibracją o otrzymaniu kolejnego połączenia z tego samego numeru w ciągu %d minut</string>
+  <string name="repeat_call_info">Informuj dźwiękiem bądź wibracją o otrzymaniu kolejnego połączenia od tego samego kontaktu bądź numeru w ciągu %d minut, gdy włączony jest tryb Nie przeszkadzać</string>
   <string name="alarm_volume_option_title">Alarm</string>
   <string name="media_volume_option_title">Multimedia</string>
   <string name="ring_volume_option_title">Dzwonek</string>
