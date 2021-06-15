@@ -4591,4 +4591,5 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="power_wireless_update_tv_text">"Aktualizacja oprogramowania 6 Nie wyłączaj urządzenia."</string>
     <string name="setting_wireless_reverse_charging_fg_control_summary">Zatrzymaj bezprzewodowe ładowanie zwrotne, kiedy poziom naładowania baterii będzie wynosić %s</string>
     <string name="setting_wireless_reverse_charging_summary">Umieść urządzenie wspierające technologię ładowania bezprzewodowego Qi (np. telefon czy zegarek) na środku obudowy</string>
+    <string name="time_picker_dialog_title">Ustaw czas</string>
 </resources>
