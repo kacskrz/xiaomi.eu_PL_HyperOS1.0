@@ -8814,4 +8814,6 @@ Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania in
   <string name="bt_audiorepair_summary">Napraw przerywanie dźwięku w połączonych urządzeniach Bluetooth</string>
   <string name="bt_audiorepair_working">Naprawianie przerywania dźwięku…</string>
   <string name="lockpassword_confirm_your_lock_pin_header">Potwierdź swój PIN</string>
+  <string name="miheadset_dual_connect_mode">Połącz się z dwoma urządzeniami</string>
+  <string name="miheadset_dual_connect_mode_summary">Włącz tę funkcję, aby połączyć swoje słuchawki z dwoma urządzeniami Bluetooth jednocześnie</string>
 </resources>

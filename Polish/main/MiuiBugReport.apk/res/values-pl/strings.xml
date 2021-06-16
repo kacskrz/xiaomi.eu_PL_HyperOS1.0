@@ -30,18 +30,18 @@
   <string name="catch_full_log_dialog_content">"MIUI generuje teraz log. Może to wpłynąć na ogólną wydajność urządzenia. Jeśli nie jesteś w stanie odtworzyć problemu, który chcesz zgłosić, wróć do logów i kliknij przycisk \"Anuluj\"."</string>
   <string name="catch_full_log_dump_hprof_failed">"Nie można wygenerować logu dot. lagów"</string>
   <string name="catch_full_log_item_content_catch_direct">"1. Wróć do funkcji, którą chcesz zgłosić, i odtwórz problem.
-2. Wróć do tej strony i kliknij na \"Zakończ i wyślij\"."</string>
+2. Wróć do tej strony i dotknij opcji \"Zakończ i wyślij\"."</string>
   <string name="catch_full_log_item_content_need_open">"1. Dotknij przycisku \"Wygeneruj log\".
 2. Wróć do funkcji, którą chcesz zgłosić, i odtwórz problem.
-3. Wróć do tej strony i kliknij na \"Zakończ i wyślij\"."</string>
-  <string name="catch_full_log_item_content_title">Kroki:</string>
-  <string name="catch_full_log_item_title_audio">Audio, nagrywanie audio i rozmowy</string>
+3. Wróć do tej strony i dotknij opcji \"Zakończ i wyślij\"."</string>
+  <string name="catch_full_log_item_content_title">Jak wygenerować log:</string>
+  <string name="catch_full_log_item_title_audio">Audio, nagrywanie dźwięku i rozmowy</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
   <string name="catch_full_log_item_title_dump_heap">Lagi</string>
   <string name="catch_full_log_item_title_gps">Lokalizacja</string>
   <string name="catch_full_log_item_title_sensor">Sensory</string>
   <string name="catch_full_log_item_title_signal">Zasięg sieci</string>
-  <string name="catch_full_log_item_title_wifi">Wi-Fi i ShareMe</string>
+  <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
   <string name="catch_full_log_notification_content">Kliknij, by wrócić do logów</string>
   <string name="catch_full_log_notification_title">Generowanie logów…</string>
   <string name="catch_full_log_privacy_content_audio">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać informacje o plikach audio na urządzeniu (włącznie z historią odtwarzania i nagrywania). Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery MIUI w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
@@ -719,7 +719,7 @@ Rozmiar (akt. przyrostowa): %2$s"</string>
   <string name="add_to_trust_device">Dodaj do zaufanych urządzeń</string>
   <string name="auth_fail_warning">Sesja wygasła. Zaloguj się ponownie później.</string>
   <string name="bind_sign_in_title">Dodaj konto Xiaomi</string>
-  <string name="catch_full_log_item_title_wifi_china">Wi-Fi i ShareMe</string>
+  <string name="catch_full_log_item_title_wifi_china">Wi-Fi</string>
   <string name="catch_full_log_privacy_content_wifi_china">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać Twoje osobiste dane, informacje o lokalizacji, a także adresy IP i MAC urządzenia. Jeśli jesteś połączony z niezaszyfrowaną siecią Wi-Fi, możemy mieć także możliwość dostępu do części danych komunikacyjnych. Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery MIUI w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
   <string name="change_activate_email">Zmień adres e-mail</string>
   <string name="change_password">Zmień hasło</string>
@@ -860,4 +860,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="miuix_appcompat_select_item">Zaznacz elementy</string>
   <string name="send">Wyślij</string>
   <string name="submit_dialog_confirm">Wyślij</string>
+  <string name="catch_full_log_dialog_title">Generowanie logów…</string>
+  <string name="catch_full_log_category">Typy logów</string>
+  <string name="catch_full_log_item_content_catching">Generowanie logów…</string>
 </resources>

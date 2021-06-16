@@ -2782,4 +2782,8 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="miui_unimportant_notifications">Nieistotne powiadomienia</string>
     <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Przytrzymaj przyciski &lt;font color=#e6e6e6>[Zasilanie]&lt;/font> i &lt;font color=#e6e6e6>[Głośność+]&lt;/font>, dopóki nie zobaczysz &lt;img src=\"\">.</Data></string>
     <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Wybierz opcję &lt;font color=#e6e6e6>[Wipe]&lt;/font>, a następnie przesuń suwak znajdujący się na dole ekranu. Po wykonaniu tej operacji naciśnij przycisk &lt;font color=#e6e6e6>[Reboot System]&lt;/font>.</Data></string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"Nie można ustawić w trakcie rozmowy"</string>
+    <string name="quick_settings_vowifi_label">Wi-Fi Calling</string>
+    <string name="quick_settings_vowifi_sim1_label">Wi-Fi Calling SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">Wi-Fi Calling SIM2</string>
 </resources>

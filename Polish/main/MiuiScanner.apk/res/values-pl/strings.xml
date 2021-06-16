@@ -566,4 +566,5 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="title_desktop_uninstall">Odinstalować Skaner?</string>
   <string name="wifi_low_version_prompt">Wi-Fi musi być włączone ręcznie</string>
   <string name="picture">Galeria</string>
+  <string name="document_rename_error">Nie udało się zmienić nazwy</string>
 </resources>
