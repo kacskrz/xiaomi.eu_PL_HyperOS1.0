@@ -1685,4 +1685,7 @@ Będzie można dzięki nim śledzić ćwiczenia i aktywność."</string>
   <string name="dialog_exit_use">Wyjdź</string>
   <string name="download_apk">Pobieranie %s…</string>
   <string name="download_background">Pobierz</string>
+  <string name="complete_progress">Postęp</string>
+  <string name="tb_step_widget" formatted="false">Dziś. %1$s. Postęp: %2$d%</string>
+  <string name="view_step_and_progress">Zobacz obecną ilość kroków</string>
 </resources>

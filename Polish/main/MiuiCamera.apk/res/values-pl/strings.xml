@@ -1922,4 +1922,8 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem i 
   <string name="dual_video_user_guide_merge_content_new">Nagrania mogą być przechowywane połączone w ramach podzielonego widoku lub filmu typu \"obraz w obrazie\".</string>
   <string name="dual_video_user_guide_standalone_content_new">Filmy mogą być także oddzielone od siebie i zapisane jako dwa oddzielne pliki.</string>
   <string name="dolly_zoom_capture_tip6">Umieść obiekt w środku ramki</string>
+  <string name="time_freeze_action_end_tip">Dotknij przycisku, aby odmrozić tło</string>
+  <string name="time_freeze_action_start_tip">Dotknij przycisku, aby zamrozić tło</string>
+  <string name="time_freeze_adjust_button_title">Dostosuj</string>
+  <string name="time_freeze_clipbox_tint">Zamroź</string>
 </resources>
