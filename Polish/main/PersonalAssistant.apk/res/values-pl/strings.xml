@@ -1246,4 +1246,6 @@
     <string name="search_header_dialog_title">Zmień tło</string>
     <string name="send">Wyślij</string>
     <string name="app_first_loading_txt">Ładowanie...</string>
+    <string name="app_pa_setting_global_display_backdrop_blur_option">Zamaż poglądy kart</string>
+    <string name="app_pa_setting_global_display_backdrop_blur_summary">Zastosuj rozmycie Gaussa do teł kart Asystenta. Funkcja może spowolnić odpowiedź na przeciągnięcie.</string>
 </resources>
