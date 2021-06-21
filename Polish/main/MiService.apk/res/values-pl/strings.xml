@@ -238,4 +238,6 @@
     <string name="miui_feedback_main_search_no_answer">"Nie znaleziono rezultatów"</string>
     <string name="public_authorize_now">Ustawienia</string>
     <string name="public_please_authorize">Wymagane uprawnienia</string>
+    <string name="miui_feedback_main_item_catch_full_log">Logi</string>
+    <string name="miui_feedback_main_item_feedback_list">Moje raporty</string>
 </resources>
