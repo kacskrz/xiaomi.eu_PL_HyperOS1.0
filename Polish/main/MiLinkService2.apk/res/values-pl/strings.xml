@@ -251,4 +251,10 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="miuix_appcompat_select_item">Wybierz elementy</string>
     <string name="dialog_scanning_precondition_new_china">Włącz Wi-Fi, Bluetooth i lokalizację, aby móc używać Przesyłania ekranu. Zrobić to teraz?</string>
     <string name="dialog_scanning_precondition_new_global">Włącz Wi-Fi, Bluetooth i lokalizację, aby móc używać Przesyłania ekranu. Zrobić to teraz?</string>
+    <string name="audio_record_des">W celu przesyłania dźwięku z urządzenia do zewnętrznych monitorów</string>
+    <string name="dialog_location_permission_message">Aby móc odnaleźć zewnętrzne monitory w pobliżu, aplikacja wymaga dostępu do lokalizacji. Wybierz opcję \"Zezwól\" w dialogu dot. uprawnień, aby uniknąć możliwych błędów.</string>
+    <string name="dialog_location_permission_title">Wymagane uprawnienia</string>
+    <string name="file_read_des">W celu wyświetlania zdjęć i innych plików na zewnętrznych monitorach</string>
+    <string name="notify">Przesyłanie ekranu działa w tle</string>
+    <string name="p2p_location_des">W celu połączenia Twojego urządzenia z zewnętrznymi monitorami</string>
 </resources>

@@ -8816,4 +8816,10 @@ Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania in
   <string name="lockpassword_confirm_your_lock_pin_header">Potwierdź swój PIN</string>
   <string name="miheadset_dual_connect_mode">Połącz się z dwoma urządzeniami</string>
   <string name="miheadset_dual_connect_mode_summary">Włącz tę funkcję, aby połączyć swoje słuchawki z dwoma urządzeniami Bluetooth jednocześnie</string>
+  <string name="default_document_title">Dokumenty</string>
+  <string name="document_default_status">Wybierz</string>
+  <string name="face_password_unlock">Dane twarzy i blokada ekranu</string>
+  <string name="fingerprint_face_password_unlock">Odciski palca, dane twarzy i blokada ekranu</string>
+  <string name="fingerprint_password_unlock">Odciski palca i blokada ekranu</string>
+  <string name="password_unlock">Blokada ekranu</string>
 </resources>

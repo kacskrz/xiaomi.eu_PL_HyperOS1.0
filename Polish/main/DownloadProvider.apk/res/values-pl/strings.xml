@@ -39,7 +39,7 @@
   <string name="download_running_percent">W trakcie, %d%%</string>
   <string name="download_unknown_title">Brak nazwy</string>
   <string name="enter_garbage_clean">Zwolnij miejsce w pamięci urządzenia</string>
-  <string name="insufficient_space">"Brak miejsca w pamięci urządzenia"</string>
+  <string name="insufficient_space">"Brak miejsca"</string>
   <string name="mobile_recommended_title">Użycie danych mobilnych</string>
   <string name="notif_text_engine_off">Pobieranie...</string>
   <string name="notif_text_engine_on">Pobieranie...</string>
@@ -100,4 +100,5 @@ Wybierz %2$s, aby pobrać po nawiązaniu połączenia z siecią Wi-Fi."</string>
   <string name="xl_speedup_experience_notify_title">Xunlei membership</string>
   <string name="xl_speedup_notify_button_experience">Try for free</string>
   <string name="xl_speedup_notify_button_member">Become a member</string>
+  <string name="download_no_application">Brak aplikacji obsługujących ten format</string>
 </resources>

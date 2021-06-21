@@ -468,4 +468,5 @@ Magazyn danych logowania może nie zostać włączony"</string>
   <string name="wednesday">Środa</string>
   <string name="wednesday_short">Śr</string>
   <string name="wednesday_shortest">Śr</string>
+  <string name="message_no_voice_capability">"Nie można wykonywać połączeń na tym urządzeniu"</string>
 </resources>

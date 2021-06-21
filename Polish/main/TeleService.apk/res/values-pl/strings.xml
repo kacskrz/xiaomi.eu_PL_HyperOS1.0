@@ -1904,4 +1904,12 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="wednesday">Środa</string>
   <string name="wednesday_short">Śr</string>
   <string name="wednesday_shortest">Śr</string>
+  <string name="fiveg_carrier_aggregation_title">Agregacja operatorów 5G</string>
+  <string name="label_ndp_nck">Kod odblokowania NCK</string>
+  <string name="no_unlock_chance_hint">"Nie masz już prób.
+Skontaktuj się z operatorem"</string>
+  <string name="sim_me_lock_disabled">Wyłączono blokadę simlock.</string>
+  <string name="simmelock_name">Blokada SIM ME</string>
+  <string name="strPasswordLengthIncorrect">Od 4 do 16 cyfr!</string>
+  <string name="unlock_chances_left">Pozostałe próby:</string>
 </resources>

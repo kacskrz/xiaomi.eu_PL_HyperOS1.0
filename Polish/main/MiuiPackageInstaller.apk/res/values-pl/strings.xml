@@ -527,4 +527,7 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="warning_msg_virus">Wykryto wirusy</string>
     <string name="app_info_version_des">Wersja: %1$s | Rozmiar: %2$s</string>
     <string name="app_info_version_des_replace">Wersja: %1$s -&gt; %2$s | Rozmiar: %3$s</string>
+    <string name="anonymous_source_warning_tablet">Twoje urządzenia i dane są bardziej narażone na atak przez nieznane aplikacje. Instalując tę aplikację zgadzasz się na to, że ponosisz pełną odpowiedzialność za uszkodzenia urządzeń lub utratę danych w wyniku korzystania z tej aplikacji.</string>
+    <string name="install_failed_incompatible_tablet">"Ta aplikacja nie jest kompatybilna z Twoim urządzeniem."</string>
+    <string name="install_failed_msg_tablet">"Aplikacja %1$s nie mogła zostać zainstalowana na Twoim urządzeniu."</string>
 </resources>
