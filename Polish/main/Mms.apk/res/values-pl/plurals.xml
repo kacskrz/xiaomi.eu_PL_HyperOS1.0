@@ -35,7 +35,8 @@
         <item quantity="one">%1$s wynik dla zapytania „%2$s”</item>
     </plurals>
     <plurals name="recipient_count">
-        <item quantity="other">Osoby: %1$s</item>
+        <item quantity="other">%1$s osób</item>
+        <item quantity="few">%1$s osoby</item>
         <item quantity="one">1 osoba</item>
     </plurals>
     <plurals name="timed_message_expired_title">

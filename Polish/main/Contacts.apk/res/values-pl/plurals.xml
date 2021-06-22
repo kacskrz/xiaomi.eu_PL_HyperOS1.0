@@ -37,8 +37,9 @@
         <item quantity="one">%1$d osoba z %2$s</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">Osoby: %1$d</item>
+        <item quantity="other">%1$d osób</item>
         <item quantity="one">%1$d osoba</item>
+        <item quantity="few">%1$d osoby</item>
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">%1$d numerów</item>
