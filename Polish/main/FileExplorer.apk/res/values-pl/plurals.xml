@@ -291,4 +291,9 @@
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="search_head_hint_all">
+        <item quantity="other">Wyniki wyszukiwania (%1$d elementów)</item>
+        <item quantity="one">Wyniki wyszukiwania (%1$d element)</item>
+        <item quantity="few">Wyniki wyszukiwania (%1$d elementy)</item>
+    </plurals>
 </resources>
