@@ -333,7 +333,6 @@
   <string name="gb_gpu_tips_render">Używaj renderowania wielowątkowego, aby zoptymalizować wrażenia z grania</string>
   <string name="gb_gputuner_lod_deviation">Mip-mapy poziomów szczegółowości (LOD bias)</string>
   <string name="gb_gputuner_multi_render">Renderowanie wielowątkowe</string>
-  <string name="close">Zamknij</string>
   <string name="copy">Kopiuj</string>
   <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
   <string name="expand_button_title">Zaawansowane</string>
