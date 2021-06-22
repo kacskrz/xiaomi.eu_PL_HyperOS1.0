@@ -725,4 +725,9 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="password_view_hide_password">Ukryj hasło</string>
   <string name="password_view_show_password">Pokaż hasło</string>
   <string name="weixin_login">Zaloguj się przez WeChat</string>
+  <string name="operator_mobile_agreement">Usługi weryfikacji dostarczane przez China Mobile</string>
+  <string name="operator_other">Numer telefonu</string>
+  <string name="operator_telecom_agreement">Usługi weryfikacji dostarczane przez konto eSurfing</string>
+  <string name="operator_unicom_agreement">Usługi weryfikacji dostarczane przez China Unicom</string>
+  <string name="skip_query_account">Pomiń</string>
 </resources>

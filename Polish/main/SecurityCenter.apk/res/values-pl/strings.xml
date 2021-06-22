@@ -4647,4 +4647,12 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="sp_system_security_title">Bezpieczeństwo systemu</string>
     <string name="sp_website_scan_summary">Bezpieczne przeglądanie sieci</string>
     <string name="sp_website_scan_title">Sprawdzaj strony</string>
+    <string name="app_settings_link">Dodatkowe ustawienia w aplikacji</string>
+    <string name="confirm_open_shut_down_password_content">Ustaw blokadę ekranu przed włączeniem funkcji potwierdzenia wyłączenia urządzenia.</string>
+    <string name="confirm_open_shut_down_password_title">Ustaw blokadę ekranu</string>
+    <string name="scan_open_shut_down_password_content">Chroń urządzenie przed nieautoryzowanym dostępem</string>
+    <string name="scan_open_shut_down_password_title">Potiwerdzenie wyłączenia</string>
+    <string name="shut_down_password_content">Jeśli zgubisz urządzenie, potwierdzenie wyłączenia ochroni je przed wyłączeniem przez jakąkolwiek inną osobę.</string>
+    <string name="verify_shut_down_password_content">Wymagaj potwierdzenia blokadą ekranu chęci wyłączenia urządzenia, gdy ekran jest zablokowany</string>
+    <string name="verify_shut_down_password_title">Potwierdzenie wyłączenia</string>
 </resources>

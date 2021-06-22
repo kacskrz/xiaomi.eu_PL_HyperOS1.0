@@ -113,4 +113,9 @@
         <item quantity="many">%d minut temu</item>
         <item quantity="other">%d minut temu</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Wybrano %d elementów</item>
+        <item quantity="few">Wybrano %d elementy</item>
+        <item quantity="one">Wybrano %d element</item>
+    </plurals>
 </resources>
