@@ -530,4 +530,7 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="anonymous_source_warning_tablet">Twoje urządzenia i dane są bardziej narażone na atak przez nieznane aplikacje. Instalując tę aplikację zgadzasz się na to, że ponosisz pełną odpowiedzialność za uszkodzenia urządzeń lub utratę danych w wyniku korzystania z tej aplikacji.</string>
     <string name="install_failed_incompatible_tablet">"Ta aplikacja nie jest kompatybilna z Twoim urządzeniem."</string>
     <string name="install_failed_msg_tablet">"Aplikacja %1$s nie mogła zostać zainstalowana na Twoim urządzeniu."</string>
+    <string name="install_confirm_question_des_10_tablet">"Jeśli akceptujesz ryzyko i chcesz kontynuować instalację, zautoryzuj ją w Panelu sterowania > Zarządzaj aplikacjami > Uprawnienia > Aplikacje z potencjalnym ryzykiem. Jeśli nie możesz odnaleźć tej opcji, zaktualizuj Panel sterowania i spróbuj ponownie."</string>
+    <string name="settings_warning_dialog_msg_tablet">"Twoje urządzenie jest narażone na zagrożenia bezpieczeństwa. Nie będziesz powiadamiany o możliwości pobrania bezpiecznej wersji aplikacji. Wyłączyć tę funkcję mimo to?"</string>
+    <string name="untrusted_external_source_warning_summary_tablet">Aplikacje z nieznanych źródeł mogą być szkodliwe dla Twojego urządzenia. Instalując je, ponosisz pełną odpowiedzialność za potencjalne uszkodzenie urządzenia lub utratę danych.</string>
 </resources>
