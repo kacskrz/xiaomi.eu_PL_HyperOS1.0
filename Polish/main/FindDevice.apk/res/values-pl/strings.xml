@@ -86,7 +86,7 @@ Przejdź na stronę i.mi.com/ss i złóż prośbę o odblokowanie urządzenia."<
   <string name="unlocking">Aktywacja...</string>
   <string name="verifing_account">Weryfikacja hasła…</string>
   <string name="verify_password_failed">Nie udało się zweryfikować ID konta Xiaomi (%s)</string>
-  <string name="find_device_notice">Przejdź na i.mi.com, aby zlokalizować, zablokować, lub przywrócić urządzenie.</string>
+  <string name="find_device_notice">Przejdź na i.mi.com, aby zlokalizować, zablokować lub przywrócić urządzenie bądź wykonywać zdalnie zdjęcia.</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Odznacz wszystko</string>
   <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
   <string name="miuix_appcompat_action_mode_title_empty">Zaznacz elementy</string>
@@ -109,4 +109,6 @@ Przejdź na stronę i.mi.com/ss i złóż prośbę o odblokowanie urządzenia."<
   <string name="find_device_notice_sms_alert_with_common_charge_hint">"Aby zaktualizować status karty SIM i upewnić się, że wszystkie usługi działają normalnie, po przełączeniu kart SIM zostanie wysłany jeden &lt;font color=#0097FF>&lt;b>płatny SMS&lt;/b>&lt;/font>. Operator pobierze od Ciebie opłatę za tego SMS-a według Twojej taryfy."</string>
   <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Aby zaktualizować status karty SIM i upewnić się, że wszystkie usługi działają normalnie, po przełączeniu kart SIM zostanie wysłany jeden &lt;font color=#0097FF>&lt;b>płatny, krajowy SMS&lt;/b>&lt;/font>. Operator pobierze od Ciebie opłatę za tego SMS-a według Twojej taryfy."</string>
   <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Aby zaktualizować status karty SIM i upewnić się, że wszystkie usługi działają normalnie, po przełączeniu kart SIM zostanie wysłany jeden &lt;font color=#0097FF>&lt;b>płatny, zagraniczny SMS&lt;/b>&lt;/font>. Operator pobierze od Ciebie opłatę za tego SMS-a według Twojej taryfy."</string>
+  <string name="find_device_capture_notification_content">Inne autoryzowane urządzenie wykonuje zdalnie zdjęcie w ramach funkcji Znajdź urządzenie na stronie i.mi.com.</string>
+  <string name="find_device_capture_notification_title">Funkcja Znajdź urządzenie wykonuje zdjęcie zdalnie…</string>
 </resources>

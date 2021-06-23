@@ -8822,4 +8822,33 @@ Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania in
   <string name="fingerprint_face_password_unlock">Odciski palca, dane twarzy i blokada ekranu</string>
   <string name="fingerprint_password_unlock">Odciski palca i blokada ekranu</string>
   <string name="password_unlock">Blokada ekranu</string>
+  <string name="pad_backup_summary">Skopiuj i przywracaj elementy na tym urządzeniu</string>
+  <string name="pad_backup_title">Tablet</string>
+  <string name="pad_computer_backup_summary">Skopiuj i przywracaj elementy za pomocą komputera</string>
+  <string name="pad_how_backup_content">"Możesz zapisywać kopie lokalnie bądź w Chmurze. Lokalne kopie zapasowe mogą być przechowywane na tym tablecie, na komputerze bądź urządzeniu USB (np. pendrive).
+
+Tablet
+Kopia ustawień systemowych, kont, danych aplikacji oraz innych elementów będzie zapisana w oddzielnym pliku przechowywanym na urządzeniu (katalog MIUI-backup-AllBackup). Pamiętaj: wykonanie resetu do ustawień fabrycznych usunie te kopie z urządzenia. Pamiętaj, aby przed wykonaniem tej operacji przenieść je na komputer bądź urządzenie USB.
+
+Komputer
+Utwórz kopię zapasową na tym tablecie, a następnie przejdź do katalogu MIUI-backup-AllBackup i skopiuj wykonaną kopię na komputer za pomocą kabla USB.
+
+Urządzenie USB
+Kopia ustawień systemowych, kont, danych aplikacji oraz innych elementów będzie zapisana na urządzeniu USB.
+
+Chmura Xiaomi
+Dzięki Chmurze Xiaomi możesz synchronizować z nią swoje kontakty, zdjęcia, filmy, listę aplikacji, ustawienia systemowe oraz układ pulpitu.."</string>
+  <string name="pad_how_restore_backup_content">"Oto, jak możesz przywrócić elementy z kopii zapasowej za pomocą różnych opcji:
+
+Tablet
+Dotknij opcji \"Tablet\", znajdź opcję przywrócenia elementów i wybierz odpowiednią kopię zapasową.
+
+Komputer
+Skopiuj wykonaną kopię z komputera za pomocą kabla USB do katalogu MIUI-backup-AllBackup i przywróć elementy według instrukcji powyżej.
+
+Urządzenie USB
+Skopiuj wykonaną kopię z urządzenia USB do katalogu MIUI-backup-AllBackup i wybierz opcję przywrócenia elementów z urządzenia USB.
+
+Chmura Xiaomi
+Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
 </resources>
