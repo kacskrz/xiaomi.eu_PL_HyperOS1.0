@@ -857,4 +857,14 @@ and never miss the cool new ones!"</string>
     <string name="size_lv6">Większe niż %d GB</string>
     <string name="total_size">Łącznie: %s</string>
     <string name="today">Dzisiaj</string>
+    <string name="app_all_purpose_pad">Witaj w aplikacji Pliki! Możesz jej użyć do zarządzania plikami znajdującymi się na urządzeniu.</string>
+    <string name="enter">Otwórz Pliki</string>
+    <string name="guide_one_summary">Ostatnie elementy są grupowane według daty.</string>
+    <string name="guide_one_title">Elementy ułożone w osi czasu</string>
+    <string name="guide_three_summary">Dodawaj, usuwaj i zmieniaj skróty znajdujące się na stronie startowej.</string>
+    <string name="guide_three_title">Zmieniaj skróty</string>
+    <string name="guide_two_summary">Domyślnie zdjęcia z Galerii oraz zrzuty ekranu są ukryte.</string>
+    <string name="guide_two_title">Zobacz tylko najważniejsze rzeczy</string>
+    <string name="next">Dalej</string>
+    <string name="start_all">Zobacz wszystko</string>
 </resources>
