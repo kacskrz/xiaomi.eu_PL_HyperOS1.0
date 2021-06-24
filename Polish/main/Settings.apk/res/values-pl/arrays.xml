@@ -1868,4 +1868,9 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Zwiększ prędkość za pomocą danych komórkowych tylko wtedy, gdy sygnał sieci Wi-Fi jest kiepski</item>
         <item>Połącz sieć Wi-Fi oraz dane komórkowe i zwiększ dzięki temu prędkość połączenia</item>
     </string-array>
+    <string-array name="color_game_led_freq_entries">
+        <item>Co 2 sekundy</item>
+        <item>Co 3 sekundy</item>
+        <item>Co 5 sekund</item>
+    </string-array>
 </resources>

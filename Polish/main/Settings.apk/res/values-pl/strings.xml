@@ -8851,4 +8851,10 @@ Skopiuj wykonaną kopię z urządzenia USB do katalogu MIUI-backup-AllBackup i w
 
 Chmura Xiaomi
 Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
+  <string name="color_game_led_color_title">Kolor diody</string>
+  <string name="color_game_led_dialog_freq">sek.</string>
+  <string name="color_game_led_feature_off">Wył.</string>
+  <string name="color_game_led_feature_on">Wł.</string>
+  <string name="color_game_led_freq">%s sek.</string>
+  <string name="color_game_led_freq_title">Częstotliwość zmiany</string>
 </resources>
