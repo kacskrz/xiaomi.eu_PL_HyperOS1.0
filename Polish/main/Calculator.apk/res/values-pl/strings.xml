@@ -803,4 +803,10 @@ Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</st
     <string name="privacy_revoke_progress">Wycofywanie zgody…</string>
     <string name="user_experience_program_title">Program doświadczeń użytkownika</string>
     <string name="withdraw_network_error">Urządzenie musi połączyć się z Internetem, aby móc wycofać zgodę. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+    <string name="label_investment_disclaimer">Dla powtarzających się obliczeń używamy trzymiesięcznego okresu rozliczeniowego</string>
+    <string name="label_monthly_investment">Miesięczna inwestycja</string>
+    <string name="xiaomi_calculator_delete_description">"Kalkulator to aplikacja systemowa. Po jej odinstalowaniu nie będzie można korzystać z różnych konwerterów i innych dodatkowych funkcji dostarczanych przez tę aplikację."</string>
+    <string name="xiaomi_calculator_delete_title">Odinstalować Kalkulator?</string>
+    <string name="xiaomi_calculator_remove_icon_description">"Kalkulator to aplikacja systemowa. Po usunięciu jej skrótu korzystanie z konwerterów i innych dodatkowych funkcji dostarczanych przez tę aplikację będzie utrudnione."</string>
+    <string name="xiaomi_calculator_remove_icon_title">Usunąć \"Kalkulator\" z pulpitu?</string>
 </resources>
