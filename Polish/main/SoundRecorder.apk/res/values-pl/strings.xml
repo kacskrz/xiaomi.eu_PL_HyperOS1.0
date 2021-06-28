@@ -368,4 +368,6 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="tap_to_record">Dotknij przycisk, aby rozpocząć nagranie</string>
   <string name="delete_recorder">Usuń</string>
   <string name="play_speed">Prędkość %1$.1fX</string>
+  <string name="low_battery_error_for_pad">"Pozostało mniej niż %s baterii. Aby mieć pewność, że nagranie nie zaginie, zatrzymaj i zapisz je."</string>
+  <string name="notification_recording_ticker_for_pad">Twoje urządzenie nagrywa teraz dźwięk w Trybie cichym. Aby wyjść z tego trybu, użyj przycisków głośności.</string>
 </resources>
