@@ -346,4 +346,8 @@
   <string name="battery_authentic_failed_title">Uwaga</string>
   <string name="other_ime">Inne klawiatury</string>
   <string name="samsung_phone">Telefon Samsung</string>
+  <string name="small_freeform_enter_warning">Pływające okno</string>
+  <string name="small_freeform_exit_tip">Zamknij pływające okno</string>
+  <string name="small_freeform_memory_toast_app_type">"Nie można otworzyć okna. Aplikacja wymaga zbyt dużo pamięci, aby móc działać."</string>
+  <string name="small_freeform_memory_toast_game_type">"Nie można otworzyć okna. Gra wymaga zbyt dużo pamięci, aby móc działać."</string>
 </resources>

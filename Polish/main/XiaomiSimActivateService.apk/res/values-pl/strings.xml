@@ -203,4 +203,6 @@ Wpisz numer powiązany z nową kartą SIM aby aktywować ponownie %s"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
   <string name="more">Więcej</string>
   <string name="send">Wyślij</string>
+  <string name="sim_activate_failed">"Nie udało się aktywować usługi"</string>
+  <string name="sim_activate_prepare">Aktywuj usługę</string>
 </resources>

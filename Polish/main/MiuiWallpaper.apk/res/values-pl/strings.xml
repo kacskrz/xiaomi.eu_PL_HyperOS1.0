@@ -117,4 +117,5 @@ dd.M"</string>
     <string name="weather_summary">Lokalna prognoza pogody</string>
     <string name="weather_super_wallpaper_label">Pogoda</string>
     <string name="weather_title">Pogoda</string>
+    <string name="download_button">Pobierz</string>
 </resources>

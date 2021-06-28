@@ -8354,7 +8354,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="fold_rule_default">Zalecane</string>
   <string name="fold_rule_important">Istotne</string>
   <string name="fold_rule_unimportant">Nieistotne</string>
-  <string name="magic_window_name">Równoległe okna</string>
+  <string name="magic_window_name">Optymalizacja aplikacji w widoku poziomym</string>
   <string name="truetone_summary">Dostosuj kolory do otoczenia</string>
   <string name="truetone_title">Adaptacyjne kolory</string>
   <string name="dpp_before_share_summary">Udostępnić sieć Wi-Fi \"%1$s\" innej osobie?</string>
@@ -8857,4 +8857,7 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="color_game_led_feature_on">Wł.</string>
   <string name="color_game_led_freq">%s sek.</string>
   <string name="color_game_led_freq_title">Częstotliwość zmiany</string>
+  <string name="gxzw_anim_unlock_effect">Animacja odcisku palca %s</string>
+  <string name="magic_list_empty_text">Brak aplikacji kompatybilnych z tą funkcją</string>
+  <string name="reset_network_title_noSim">Zresetuj Wi-Fi i Bluetooth</string>
 </resources>

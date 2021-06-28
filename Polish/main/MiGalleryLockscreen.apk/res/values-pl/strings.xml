@@ -320,7 +320,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="llks_whole_cate">Wszystkie kategorie</string>
   <string name="load_hdpicture_complete">Pomyślnie załadowano oryginalny obraz</string>
   <string name="loading">Chwilka...</string>
-  <string name="lock_show_permission_exception">Wystąpił błąd. Zezwól Tapetom Blokady na wyświetlanie na ekranie blokady w Panelu sterowania.</string>
+  <string name="lock_show_permission_exception">Zezwól Tapetom Blokady na wyświetlanie elementów na Ekranie blokady</string>
   <string name="lockscreen_h5_back_tv">Wstecz</string>
   <string name="lockscreen_h5_close_tv">Wył.</string>
   <string name="lockscreen_h5_refresh_btn_tv">Odśwież</string>

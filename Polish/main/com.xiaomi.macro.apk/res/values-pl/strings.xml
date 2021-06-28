@@ -101,4 +101,5 @@
     <string name="times">razy</string>
     <string name="two_guide_introduce">Dotykaj ekranu tak, jak chcesz, aby utworzyć makro</string>
     <string name="using_tutorial">Tutorial</string>
+    <string name="gb_macro_floatview_noti">Zezwól aplikacji MiMacro na wyświetlanie się nad innymi aplikacjami</string>
 </resources>

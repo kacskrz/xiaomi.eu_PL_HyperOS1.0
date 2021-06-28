@@ -875,7 +875,7 @@ Gdy temperatura się obniży, telefon będzie działał normalnie."</string>
   <string name="inactive_apps_title">Nieaktywne aplikacje</string>
   <string name="incorrect_pincode">Nieprawidłowy PIN</string>
   <string name="incorrect_pukcode">Nieprawidłowy kod PUK</string>
-  <string name="input_password_after_boot_msg">Wpisz hasło aby odblokować telefon</string>
+  <string name="input_password_after_boot_msg">Wpisz hasło, aby odblokować urządzenie</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Nie można przełączać profili podczas aktywnego połączenia"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Nie można przełączać profili podczas włączonej kontroli rodzicielskiej"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Nie można przełączać profili, gdy włączone jest Ultraoszczędzanie baterii"</string>
@@ -2784,4 +2784,16 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Wybierz opcję &lt;font color=#e6e6e6>[Wipe]&lt;/font>, a następnie przesuń suwak znajdujący się na dole ekranu. Po wykonaniu tej operacji naciśnij przycisk &lt;font color=#e6e6e6>[Reboot System]&lt;/font>.</Data></string>
     <string name="pad_zen_mode_warnings_all_time_content">Powiadomienia będą wyciszone</string>
     <string name="pad_zen_mode_warnings_keyguard_content">Gdy urządzenie jest zablokowane, powiadomienia będą wyciszone</string>
+    <string name="device_locked_without_biometric">Nie można dokonać weryfikacji biometrycznej, ponieważ korzystasz z blokady ekranu aplikacji firmy trzeciej</string>
+    <string name="device_locked_without_biometric_face">Nie można dokonać weryfikacji biometrycznej, ponieważ korzystasz z blokady ekranu aplikacji firmy trzeciej</string>
+    <string name="device_locked_without_biometric_finger">Nie można dokonać weryfikacji biometrycznej, ponieważ korzystasz z blokady ekranu aplikacji firmy trzeciej</string>
+    <string name="fingerprint_again_identified_msg_password">Odblokuj urządzenie odciskiem palca bądź hasłem</string>
+    <string name="fingerprint_again_identified_msg_pattern">Odblokuj urządzenie odciskiem palca bądź wzorem</string>
+    <string name="fingerprint_again_identified_msg_pin">Odblokuj urządzenie odciskiem palca bądź kodem3 PIN</string>
+    <string name="fingerprint_not_identified_msg_password">Nie udało się zweryfikować odcisku palca określoną ilość razy. Spróbuj ponownie później lub wprowadź hasło, aby odblokować</string>
+    <string name="fingerprint_not_identified_msg_pattern">Nie udało się zweryfikować odcisku palca określoną ilość razy. Spróbuj ponownie później lub wprowadź wzór, aby odblokować</string>
+    <string name="fingerprint_not_identified_msg_pin">Nie udało się zweryfikować odcisku palca określoną ilość razy. Spróbuj ponownie później lub wprowadź PIN, aby odblokować</string>
+    <string name="fs_gesture_final_see_more">Zobacz więcej demonstracji w Ustawieniach > Pulpit > Nawigacja systemowa</string>
+    <string name="input_pattern_after_boot_msg">Narysuj wzór, aby odblokować urządzenie</string>
+    <string name="input_pin_after_boot_msg">Wprowadź kod PIN, aby odblokować urządzenie</string>
 </resources>
