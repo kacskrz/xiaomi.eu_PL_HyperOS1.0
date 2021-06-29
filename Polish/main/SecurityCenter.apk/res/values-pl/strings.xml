@@ -4481,7 +4481,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="app_behavior_about_setting">Ustawienia</string>
     <string name="app_behavior_dashboard_desc">Aktywność w ciągu ostatnich %d godz.</string>
     <string name="app_behavior_dashboard_total_usage_title">Wyświetl wszystkie wyniki</string>
-    <string name="app_behavior_dashboard_usage">Zachowania aplikacji</string>
+    <string name="app_behavior_dashboard_usage">Wykorzystywanie uprawnień</string>
     <string name="app_behavior_dashboard_usage_list_title">Wyświetl wg uprawnienia</string>
     <string name="app_behavior_desc_allowed">Zezwolono</string>
     <string name="app_behavior_desc_allowed_on_background">Zezwolono w tle</string>
@@ -4655,4 +4655,13 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="shut_down_password_content">Jeśli zgubisz urządzenie, potwierdzenie wyłączenia ochroni je przed wyłączeniem przez jakąkolwiek inną osobę.</string>
     <string name="verify_shut_down_password_content">Wymagaj potwierdzenia blokadą ekranu chęci wyłączenia urządzenia, gdy ekran jest zablokowany</string>
     <string name="verify_shut_down_password_title">Potwierdzenie wyłączenia</string>
+    <string name="app_behavior_desc_allowed_at">Zezwolono o %s</string>
+    <string name="app_behavior_desc_allowed_on_background_at">Zezwolono w tle o %s</string>
+    <string name="app_behavior_desc_denied_at">Odmówiono o %s</string>
+    <string name="app_behavior_desc_denied_on_background_at">Odmówiono w tle o %s</string>
+    <string name="first_aid_exception_sub_title">Te elementy będą ignorowane w trakcie skanowania</string>
+    <string name="gtb_brightness_dialog_right_btn">Tak</string>
+    <string name="gtb_brightness_dialog_sub_message">*Możesz włączać i wyłączać tę funkcję w Ustawieniach.</string>
+    <string name="gtb_setting_item_title_brightness">Automatycznie obniżaj jasność ekranu</string>
+    <string name="pc_hidemode_normal_title">Zbalansowane</string>
 </resources>
