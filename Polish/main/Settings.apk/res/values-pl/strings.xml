@@ -8860,4 +8860,7 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="gxzw_anim_unlock_effect">Animacja odcisku palca %s</string>
   <string name="magic_list_empty_text">Brak aplikacji kompatybilnych z tą funkcją</string>
   <string name="reset_network_title_noSim">Zresetuj Wi-Fi i Bluetooth</string>
+  <string name="voip_assistant_settings_off">Wył.</string>
+  <string name="voip_assistant_settings_on">Wł.</string>
+  <string name="voip_assistant_settings_summary">Rejestruj połączenia VoIP i używaj optymalizacji spektrogramu</string>
 </resources>
