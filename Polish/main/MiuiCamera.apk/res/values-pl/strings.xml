@@ -1926,4 +1926,8 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem i 
   <string name="time_freeze_action_start_tip">Dotknij przycisku, aby zamrozić tło</string>
   <string name="time_freeze_adjust_button_title">Dostosuj</string>
   <string name="time_freeze_clipbox_tint">Zamroź</string>
+  <string name="invisible_mode_dialog_cancel">Anuluj</string>
+  <string name="invisible_mode_dialog_summary">"Nie można użyć teraz aparatu. Wyłącz tryb Incognito w Ustawieniach, aby móc korzystać z aparatu. Turn off Incognito mode in the Settings to be able to use camera."</string>
+  <string name="invisible_mode_dialog_title">"Jesteś incognito"</string>
+  <string name="invisible_mode_dialog_to_close">Ustawienia</string>
 </resources>
