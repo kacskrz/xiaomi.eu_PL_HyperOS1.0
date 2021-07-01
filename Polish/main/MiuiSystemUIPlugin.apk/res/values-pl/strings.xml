@@ -303,4 +303,7 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="hearing_assist_transmission_tips_continue">Włącz</string>
     <string name="hearing_assist_transmission_tips_summary">"Monitor douszny przekazuje strumień z mikrofonu telefonu do podłączonych słuchawek Bluetooth. Włączyć tę funkcję?"</string>
     <string name="hearing_assist_transmission_tips_title">Monitor douszny</string>
+    <string name="app_name">Wtyczka Interfejsu</string>
+    <string name="miui_toast_zen_dnd_to_off_T">Powiadomienia nie będą już wyciszone</string>
+    <string name="miui_toast_zen_to_dnd_T">Powiadomienia będą wyciszone</string>
 </resources>
