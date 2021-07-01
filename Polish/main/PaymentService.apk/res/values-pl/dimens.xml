@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="mibi_prepaid_cardtype_carrier_title_margin_right">3.0dip</dimen>
-    <dimen name="mibi_prepaid_cardtype_carrier_title_margin_top">2.0dip</dimen>
-    <dimen name="mibi_text_size_carrier_grid_title">10.0sp</dimen>
-</resources>

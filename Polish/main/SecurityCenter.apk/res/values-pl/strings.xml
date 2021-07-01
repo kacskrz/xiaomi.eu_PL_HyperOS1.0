@@ -3979,7 +3979,7 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
   <string name="image_protect_ensure_del_pic">Usuń</string>
   <string name="image_protect_exit_and_del">Usuń</string>
   <string name="image_protect_intercept_can_recover_tips">Ta akcja została zablokowana. Możesz usunąć bądź przywrócić te zdjęcia.</string>
-  <string name="image_protect_intercept_tips">Dotknij, aby zarządzać zachowaniami aplikacji</string>
+  <string name="image_protect_intercept_tips">Dotknij, aby potwierdzić tę akcję</string>
   <string name="image_protect_no_data">Brak elementów</string>
   <string name="image_protect_recover_del_pic">Przywróć</string>
   <string name="image_protect_recover_success">Pomyślnie przywrócono</string>
@@ -3990,7 +3990,7 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
   <string name="permission_instruction_sociality">Jeśli zezwolisz aplikacjom na dostęp do plików w ich własnych katalogach, MIUI pozwoli Ci także zadecydować o tym, czy chcesz, aby uzyskiwały one także dostęp do elementów wygenerowanych w aplikacjach mediów społecznościowych, w celu ochrony Twojej prywatności. Ponieważ aplikacje z API 29 i wyżej Androida już wspierają partycje w pamięci, ten przełącznik nie będzie dla nich dostępny.</string>
   <string name="permission_instruction_storage">Jeśli zezwolisz aplikacjom na dostęp do plików w ich własnych katalogach, MIUI pozwoli Ci także zadecydować o tym, czy chcesz, aby uzyskiwały one także dostęp do elementów w Galerii i plików wygenerowanych w aplikacjach mediów społecznościowych, w celu ochrony Twojej prywatności. Ponieważ aplikacje z API 29 i wyżej Androida już wspierają partycje w pamięci, ten przełącznik nie będzie dla nich dostępny.</string>
   <string name="pp_app_behavior_record_detail">Rejestruj wszystkie zachowania aplikacji</string>
-  <string name="pp_app_del_img_intercept_detail">Otrzymuj powiadomienia w momencie, gdy aplikacje usuwają elementy z Galerii bez Twojego pozwolenia</string>
+  <string name="pp_app_del_img_intercept_detail">Otrzymuj powiadomienia w momencie, gdy aplikacje usuwają elementy z Galerii</string>
   <string name="pp_app_gets_dangerous_permission_reminder">Otrzymuj powiadomienia, gdy aplikacje używają uprawnień wysokiego ryzyka</string>
   <string name="pp_app_gets_dangerous_permission_reminder_detail">Otrzymuj powiadomienia za każdym razem, gdy aplikacja używa uprawnienia wysokiego ryzyka i sprawdź dostępne opcje</string>
   <string name="pp_app_lock_introduction">Dodatkowa blokada ekranu</string>
