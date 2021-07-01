@@ -36,7 +36,6 @@
   <string name="download_queued">W kolejce</string>
   <string name="download_remaining">Pozostały czas pobierania: %s</string>
   <string name="download_running">W trakcie</string>
-  <string name="download_running_percent">W trakcie, %d%%</string>
   <string name="download_unknown_title">Brak nazwy</string>
   <string name="enter_garbage_clean">Zwolnij miejsce w pamięci urządzenia</string>
   <string name="insufficient_space">"Brak miejsca"</string>
