@@ -1758,7 +1758,7 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="fiveg_sa_switch_title_slot1">SIM %d - tryb SA</string>
   <string name="smart_dual_sim_prompt_ok">Ustawienia</string>
   <string name="smart_dual_sim_prompt_title">Ostrzeżenie dot. użycia danych (SIM %s)</string>
-  <string name="mobile_intelligent_connection_title">Inteligentne łączenie z danymi mobilnymi</string>
+  <string name="mobile_intelligent_connection_title">Optymalizacja sieci komórkowej</string>
   <string name="traffic_mode_summary">Nadaj priorytet łączenia się za pomocą danych mobilnych obecnie używanym aplikacjom. Aplikacje w tle mogą nie być w stanie połączyć się z siecią.</string>
   <string name="traffic_mode_switch_title">Tryb ekstremalny</string>
   <string name="fiveg_network_mode_default">Automatycznie</string>
@@ -1912,4 +1912,8 @@ Skontaktuj się z operatorem"</string>
   <string name="simmelock_name">Blokada SIM ME</string>
   <string name="strPasswordLengthIncorrect">Od 4 do 16 cyfr!</string>
   <string name="unlock_chances_left">Pozostałe próby:</string>
+  <string name="mobile_geo_location_config_summary">Oznacz lokalizacje, gdzie występują problemy z sygnałem sieci, aby poprawić jakość połączeń</string>
+  <string name="mobile_network_dual_card_optimizationmobile_title">Dual SIM i sieci mobilne</string>
+  <string name="mobile_special_network_optimization_config_summary">Popraw jakość połączeń, automatycznie adaptując się do różnych warunków i scenariuszy</string>
+  <string name="mobile_special_network_optimization_config_title">Adaptacja do różnych warunków</string>
 </resources>

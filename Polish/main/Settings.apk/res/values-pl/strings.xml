@@ -8863,4 +8863,12 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="voip_assistant_settings_off">Wył.</string>
   <string name="voip_assistant_settings_on">Wł.</string>
   <string name="voip_assistant_settings_summary">Rejestruj połączenia VoIP i używaj optymalizacji spektrogramu</string>
+  <string name="enable_local_backup">Włącz</string>
+  <string name="enable_local_backup_cancel">Anuluj</string>
+  <string name="enable_local_backup_message">Włącz tę funkcję, aby móc zapisywać kopie zapasowe na tym urządzeniu i kopiować je na komputer bądź nośnik USB. Włączyć tę funkcję?</string>
+  <string name="enable_local_backup_ok">OK</string>
+  <string name="enable_local_backup_title">Lokalne kopie zapasowe</string>
+  <string name="local_backup_usestatus_title">Lokalne kopie zapasowe wył.</string>
+  <string name="login_account_summary_temp">Zarządzaj kontami, usługami Chmury itp.</string>
+  <string name="micloud_service_summary_temp">Synchronizuj zdjęcia, filmy, kontakty i inne rzeczy</string>
 </resources>

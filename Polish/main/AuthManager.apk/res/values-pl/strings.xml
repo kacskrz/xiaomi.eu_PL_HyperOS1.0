@@ -447,4 +447,8 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="cetus_invisible_mode_notice_camera">"Jesteś incognito. Nie można użyć aparatu."</string>
   <string name="cetus_invisible_mode_notice_location">"Jesteś incognito. Nie można uzyskać lokalizacji."</string>
   <string name="cetus_invisible_mode_notice_tip">Dotknij, aby wyłączyć tryb Incognito w Ustawieniach</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner">Dostęp do numeru telefonu w celu zalogowania się</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Uzyskanie numeru telefonu od operatora w celu logowania się</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Jeśli nie można było zalogować się jednym dotknięciem, wróć do strony logowania i spróbuj ponownie."</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Message">Ta aplikacja chce uzyskać Twój numer telefonu od operatora w celu zalogowania się. Zezwolić jej na to?</string>
 </resources>

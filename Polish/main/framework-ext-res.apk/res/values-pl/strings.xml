@@ -350,4 +350,10 @@
   <string name="small_freeform_exit_tip">Zamknij pływające okno</string>
   <string name="small_freeform_memory_toast_app_type">"Nie można otworzyć okna. Aplikacja wymaga zbyt dużo pamięci, aby móc działać."</string>
   <string name="small_freeform_memory_toast_game_type">"Nie można otworzyć okna. Gra wymaga zbyt dużo pamięci, aby móc działać."</string>
+  <string name="keyboard_identity_reject_confirm">OK</string>
+  <string name="keyboard_identity_reject_message">"Wygląda na to, że Twoja klawiatura nie jest kompatybilna z tym urządzeniem. your keyboard isn't compatible with this device."</string>
+  <string name="keyboard_identity_transfer_error_message">"Nie udało się podłączyć klawiatury. Spróbuj ponownie."</string>
+  <string name="keyboard_upgrade_failed">"Nie udało się zaktualizować klawiatury"</string>
+  <string name="keyboard_upgrade_start">Aktualizowanie klawiatury…</string>
+  <string name="keyboard_upgrade_success">Pomyślnie zaktualizowano klawiaturę</string>
 </resources>

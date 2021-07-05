@@ -2784,16 +2784,23 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Wybierz opcję &lt;font color=#e6e6e6>[Wipe]&lt;/font>, a następnie przesuń suwak znajdujący się na dole ekranu. Po wykonaniu tej operacji naciśnij przycisk &lt;font color=#e6e6e6>[Reboot System]&lt;/font>.</Data></string>
     <string name="pad_zen_mode_warnings_all_time_content">Powiadomienia będą wyciszone</string>
     <string name="pad_zen_mode_warnings_keyguard_content">Gdy urządzenie jest zablokowane, powiadomienia będą wyciszone</string>
-    <string name="device_locked_without_biometric">Nie można dokonać weryfikacji biometrycznej, ponieważ korzystasz z blokady ekranu aplikacji firmy trzeciej</string>
-    <string name="device_locked_without_biometric_face">Nie można dokonać weryfikacji biometrycznej, ponieważ korzystasz z blokady ekranu aplikacji firmy trzeciej</string>
-    <string name="device_locked_without_biometric_finger">Nie można dokonać weryfikacji biometrycznej, ponieważ korzystasz z blokady ekranu aplikacji firmy trzeciej</string>
-    <string name="fingerprint_again_identified_msg_password">Odblokuj urządzenie odciskiem palca bądź hasłem</string>
-    <string name="fingerprint_again_identified_msg_pattern">Odblokuj urządzenie odciskiem palca bądź wzorem</string>
-    <string name="fingerprint_again_identified_msg_pin">Odblokuj urządzenie odciskiem palca bądź kodem3 PIN</string>
-    <string name="fingerprint_not_identified_msg_password">Nie udało się zweryfikować odcisku palca określoną ilość razy. Spróbuj ponownie później lub wprowadź hasło, aby odblokować</string>
-    <string name="fingerprint_not_identified_msg_pattern">Nie udało się zweryfikować odcisku palca określoną ilość razy. Spróbuj ponownie później lub wprowadź wzór, aby odblokować</string>
-    <string name="fingerprint_not_identified_msg_pin">Nie udało się zweryfikować odcisku palca określoną ilość razy. Spróbuj ponownie później lub wprowadź PIN, aby odblokować</string>
+    <string name="device_locked_without_biometric">Nie można odblokować tego urządzenia odciskami palców bądź twarzą, ponieważ korzystasz z blokady ekranu aplikacji firmy trzeciej</string>
+    <string name="device_locked_without_biometric_face">Nie można odblokować tego urządzenia twarzą, ponieważ korzystasz z blokady ekranu aplikacji firmy trzeciej</string>
+    <string name="device_locked_without_biometric_finger">Nie można odblokować tego urządzenia odciskami palców, ponieważ korzystasz z blokady ekranu aplikacji firmy trzeciej</string>
+    <string name="fingerprint_again_identified_msg_password">"Odcisk palca jest aktywny.
+  Użyj go do odblokowania urządzenia lub wprowadź hasło."</string>
+    <string name="fingerprint_again_identified_msg_pattern">"Odcisk palca jest aktywny.
+  Użyj go do odblokowania urządzenia lub narysuj wzór."</string>
+    <string name="fingerprint_again_identified_msg_pin">"Odcisk palca jest aktywny.
+  Użyj go do odblokowania urządzenia lub wprowadź swój PIN."</string>
+    <string name="fingerprint_not_identified_msg_password">"Zbyt wiele nieudanych prób.
+  Wprowadź hasło, aby odblokować urządzenie."</string>
+    <string name="fingerprint_not_identified_msg_pattern">"Zbyt wiele nieudanych prób.
+  Narysuj wzór, aby odblokować urządzenie."</string>
+    <string name="fingerprint_not_identified_msg_pin">"Zbyt wiele nieudanych prób.
+  Wprowadź kod PIN, aby odblokować urządzenie."</string>
     <string name="fs_gesture_final_see_more">Zobacz więcej demonstracji w Ustawieniach > Pulpit > Nawigacja systemowa</string>
     <string name="input_pattern_after_boot_msg">Narysuj wzór, aby odblokować urządzenie</string>
     <string name="input_pin_after_boot_msg">Wprowadź kod PIN, aby odblokować urządzenie</string>
+    <string name="keyguard_invalid_sim_puk_hint">Kod PUK musi zawierać %1$d cyfr.</string>
 </resources>

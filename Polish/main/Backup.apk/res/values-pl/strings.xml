@@ -795,4 +795,10 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="not_enough_storage_tips">Za mało miejsca. Zwolnij je i spróbuj ponownie.</string>
   <string name="apps_item_desc">Aplikacja</string>
   <string name="new_pc_restore_content1_pad">%d. Podłącz urządzenie do komputera za pomocą kabla USB.</string>
+  <string name="disable_local_backup">Wyłącz lokalne kopie zapasowe</string>
+  <string name="disable_local_backup_and_restore">Wyłącz lokalne kopie zapasowe</string>
+  <string name="disable_local_backup_tips">"Po wyłączeniu tej funkcji wszystkie lokalne kopie zapasowe zostaną usunięte. Ponadto wyczyszczone zostaną ustawienia kopii zapasowej, a także nie będzie wykonywana automatyczna kopia zapasowa elementów. Wciąż będzie można normalnie używać urządzenia. Wyłączyć tę funkcję?"</string>
+  <string name="enable_local_backup">Włącz lokalne kopie zapasowe</string>
+  <string name="enable_local_backup_and_restore">Włącz lokalne kopie zapasowe</string>
+  <string name="enable_local_backup_tips">Włącz tę funkcję, aby móc zapisywać kopie zapasowe na tym urządzeniu i kopiować je na komputer bądź nośnik USB. Włączyć tę funkcję?</string>
 </resources>

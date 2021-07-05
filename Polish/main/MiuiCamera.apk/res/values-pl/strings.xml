@@ -1839,7 +1839,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="remote_online_exit_connecting">Rozłączyć się i wyjść z Nagrywania dwoma telefonami?</string>
   <string name="remote_online_guide">Włącz Nagrywanie dwoma telefonami na innym urządzeniu za pomocą przełącznika w Centrum funkcji.</string>
   <string name="remote_online_interrupted">Rozłączono. Połącz się ponownie, aby kontynuować.</string>
-  <string name="remote_online_introduction_i">"Nagrywanie dwoma telefonami pozwala na łączenie strumieni z dwóch różnych urządzeń w jedno nagranie wideo. Będzie można na tym urządzeniu zobaczyć podgląd obydwu strumieni oraz finalnego efektu. Dźwięk będzie nagrywany wyłącznie przez to urządzenie."</string>
+  <string name="remote_online_introduction_i">"Nagrywanie dwoma telefonami pozwala na łączenie strumieni z dwóch różnych urządzeń będących blisko siebie w jedno nagranie wideo. Będzie można na tym urządzeniu zobaczyć podgląd obydwu strumieni oraz finalnego efektu. Dźwięk będzie nagrywany wyłącznie przez to urządzenie."</string>
   <string name="remote_online_introduction_ii">Aby funkcja działała, inne urządzenie Mi lub Redmi musi wspierać funkcję Nagrywanie dwoma telefonami. Może ona zostać włączona za pomocą przełącznika w Centrum funkcji.</string>
   <string name="remote_online_searching">Wyszukiwanie urządzeń…</string>
   <string name="remote_online_service_name">Nagrywanie dwoma telefonami</string>
@@ -1918,7 +1918,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="scan_install_prompt_loading">Instalacja Skanera…</string>
   <string name="scan_install_prompt_message">Zainstaluj Skaner i spróbuj ponownie.</string>
   <string name="dual_video_user_guide_main_content_new">"Filmy w tym trybie są nagrywane za pomocą kilku obiektywów jednocześnie.
-Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem i stworzenie filmu z wielu aparatów po wybraniu opcji \"Razem\"."</string>
+Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w pobliżu i stworzenie filmu z wielu aparatów po wybraniu opcji \"Razem\"."</string>
   <string name="dual_video_user_guide_merge_content_new">Nagrania mogą być przechowywane połączone w ramach podzielonego widoku lub filmu typu \"obraz w obrazie\".</string>
   <string name="dual_video_user_guide_standalone_content_new">Filmy mogą być także oddzielone od siebie i zapisane jako dwa oddzielne pliki.</string>
   <string name="dolly_zoom_capture_tip6">Umieść obiekt w środku ramki</string>
