@@ -698,4 +698,9 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="data_empty_folder">Brak innych folderów</string>
   <string name="handwrite_description">Notatka odręczna</string>
   <string name="menu_add_handwrite_description">Dodaj notatkę odręczną</string>
+  <string name="hybrid_provider">Dostarczane przez %1$s</string>
+  <string name="no_network">"Nie można połączyć się z siecią"</string>
+  <string name="web_sso_login_fail">Musisz zalogować się ponownie</string>
+  <string name="web_sso_login_message">Logowanie…</string>
+  <string name="webview_reload">Spróbuj ponownie</string>
 </resources>

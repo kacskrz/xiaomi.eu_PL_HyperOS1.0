@@ -3498,7 +3498,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="privacy_search_key_5">Uprawnienia specjalne</string>
   <string name="privacy_search_key_6">Powiadomienia o uprawnieniach</string>
   <string name="privacy_search_key_7">Informacje o lokalizacji</string>
-  <string name="privacy_search_key_8">Maska prywatności</string>
+  <string name="privacy_search_key_8">Ochrona przed śledzeniem</string>
   <string name="privacy_search_key_9">Wirtualny identyfikator</string>
   <string name="privacy_show_password">Pokaż hasła</string>
   <string name="privacy_show_password_summary">Hasła powinny być widoczne przez krótki czas</string>
@@ -4664,4 +4664,22 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gtb_brightness_dialog_sub_message">*Możesz włączać i wyłączać tę funkcję w Ustawieniach.</string>
     <string name="gtb_setting_item_title_brightness">Automatycznie obniżaj jasność ekranu</string>
     <string name="pc_hidemode_normal_title">Zbalansowane</string>
+    <string name="applock_numeric_pwd_type_line">Łącznie cyfr w haśle: %1$d. Wprowadzono: %2$d.</string>
+    <string name="pc_performance_mode_dialog_summary2">Powinna się poprawić wydajność urządzenia. Spowoduje to jednak zwiększenie zużycia baterii i może doprowadzić do przegrzewania się urządzenia. Włączyć mimo to?</string>
+    <string name="pc_performance_mode_noti_summary">Tryb wydajności może zwiększyć zużycie baterii i prowadzić do problemów z przegrzewaniem się</string>
+    <string name="pc_performance_mode_noti_title">Poprawiona wydajność urządzenia</string>
+    <string name="pp_anti_track_summary">"Nie zezwalaj na śledzenie Twojej aktywności"</string>
+    <string name="pp_antitrack_detail">Aplikacje mogą śledzić Twoje działania poprzez osobiste identyfikatory, informacje o lokalizacji i inne typy informacji udostępnianych im. Śledzenie aktywności w różnych aplikacjach i na stronach internetowych pozwala im na personalizowanie reklam i rekomendowanie treści odpowiednich dla Ciebie.</string>
+    <string name="pp_block_mac">Ogranicz dostęp do adresu MAC</string>
+    <string name="pp_block_mac_summary">Domyślnie dostęp do adresu MAC jest ograniczony dla wszystkich aplikacji.</string>
+    <string name="pp_identifier_protection">Chroń osobiste identyfikatory</string>
+    <string name="pp_manage_track">Monitoruj śledzenie</string>
+    <string name="pp_manage_track_summary">Wykrywaj i wyłączaj różne typy narzędzi śledzących wbudowanych w aplikacje. Mogą one dzielić Twoje osobiste identyfikatory poprzez dostęp i zapis elementów w pamięci wewnętrznej lub korzystanie ze współdzielonych narzędzi SDK w celu śledzenia Twojej aktywności.</string>
+    <string name="pp_operator_get_number">Wymagaj zgody na dostęp do numeru telefonu</string>
+    <string name="pp_operator_get_number_summary">Aplikacje będą pytać o pozwolenie, gdy będą one chciały uzyskać dostęp do Twojego numeru telefonu w celu zalogowania się.</string>
+    <string name="pp_privacy_lab_operator_get_number">Wymagaj zgody na dostęp do numeru telefonu</string>
+    <string name="pp_privacy_lab_operator_get_number_summary">Wymagaj pytania o pozwolenie przez aplikacje, gdy będą one chciały uzyskać dostęp do Twojego numeru telefonu w celu zalogowania się</string>
+    <string name="pp_privacy_lab_operator_introduction">Uwaga</string>
+    <string name="pp_privacy_lab_operator_introduction_summary">"Aplikacje mogą przechowywać Twój numer telefonu, jeśli został on uzyskany wcześniej. Zmiana tego uprawnienia nie usunie numerów uzyskanych wcześniej."</string>
+    <string name="pp_virtual_identity_summary">Zamiast Twojego realnego identyfikatora MIUI może dostarczać aplikacjom wirtualne ID (OAID). Chroni to Twoją prywatność i pozwala kontrolować to, jak aplikacje śledzą Twoje zachowania.</string>
 </resources>

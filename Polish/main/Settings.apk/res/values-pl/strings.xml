@@ -2824,7 +2824,7 @@ Kopia zapasowa nie wlicza się do limitu miejsca na Dysku Google. Nie zostanie t
   <string name="gadget_toggle_bluetooth">Aktualizowanie ustawień Bluetooth</string>
   <string name="gadget_toggle_wifi">Aktualizowanie ustawień Wi-Fi</string>
   <string name="gadget_wifi">Wi‑Fi</string>
-  <string name="gallery_privacy_password_role_instruction">Prywatne zdjęcia będą tutaj zapisywane.</string>
+  <string name="gallery_privacy_password_role_instruction">Aby zobaczyć ukryte elementy, przeciągnij w dół w karcie \"Albumy\".</string>
   <string name="gallery_summary">Ustawienia Galerii (bez zdjęć)</string>
   <string name="game_booster">Gra;Gry;Turbo;Granie;Tryb grania</string>
   <string name="game_booster_title">Tryb gry</string> 
