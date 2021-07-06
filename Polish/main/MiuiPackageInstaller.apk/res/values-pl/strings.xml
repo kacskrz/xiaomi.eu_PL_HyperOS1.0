@@ -557,10 +557,8 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="miui_failed_solution_retry_later">Odczekaj minutę lub dwie i spróbuj ponownie</string>
     <string name="miui_failed_solution_to_market">Zainstaluj tę aplikację z innego źródła</string>
     <string name="safe_version_install">Bezpieczna wersja</string>
-    <string name="unknown_apps_dlg_text">Ze względów bezpieczeństwa Twój telefon blokuje instalację aplikacji z nieznanych źródeł.</string>
     <string name="unknown_source_allow">Zezwól</string>
     <string name="unknown_source_forbidden">Zabroń</string>
-    <string name="untrusted_external_source_warning">"Ze względów bezpieczeństwa Twój telefon nie może instalować nieznanych aplikacji z tego źródła."</string>
     <string name="verify_account_title">Zweryfikuj swoją tożsamość</string>
     <string name="virus_install_authorize_dialog_msg">Ta aplikacja stanowi zagrożenie dla bezpieczeństwa urządzenia. Zweryfikuj swoją tożsamość, aby ją zainstalować.</string>
     <string name="virus_install_authorize_dialog_negative">Zweryfikuj</string>
