@@ -193,4 +193,8 @@
         <item quantity="one">%d dzień roboczy</item>
         <item quantity="few">%d dni robocze</item>
     </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s.</item>
+        <item quantity="one">%1$s.</item>
+    </plurals>
 </resources>
