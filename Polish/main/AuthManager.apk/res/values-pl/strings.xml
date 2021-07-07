@@ -451,4 +451,5 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Uzyskanie numeru telefonu od operatora w celu logowania się</string>
   <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Jeśli nie można było zalogować się jednym dotknięciem, wróć do strony logowania i spróbuj ponownie."</string>
   <string name="HIPS_Perm_operator_get_phonenumbner_Message">Ta aplikacja chce uzyskać Twój numer telefonu od operatora w celu zalogowania się. Zezwolić jej na to?</string>
+  <string name="pp_privacy_lab_operator_introduction">Uwaga</string>
 </resources>

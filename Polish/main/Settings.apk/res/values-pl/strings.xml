@@ -8871,4 +8871,18 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="local_backup_usestatus_title">Lokalne kopie zapasowe wył.</string>
   <string name="login_account_summary_temp">Zarządzaj kontami, usługami Chmury itp.</string>
   <string name="micloud_service_summary_temp">Synchronizuj zdjęcia, filmy, kontakty i inne rzeczy</string>
+  <string name="nfc_dnd_mode_summary">Odpowiadaj tagom NFC limitowaną ilością tagów NDEF</string>
+  <string name="nfc_dnd_mode_title">Tryb Nie przeszkadzać dla NFC</string>
+  <string name="sos_privacy_policy">Polityka prywatności</string>
+  <string name="stylus_ota_check_update">Sprawdź dostępność aktualizacji</string>
+  <string name="stylus_ota_current_firmware_version">Wersja oprogramowania</string>
+  <string name="stylus_ota_downloading_firmware">Pobieranie oprogramowania</string>
+  <string name="stylus_ota_firmware_update">Zaktualizuj oprogramowanie</string>
+  <string name="stylus_ota_hardware_version">Wersja sprzętu</string>
+  <string name="stylus_ota_latest">Aktualna</string>
+  <string name="stylus_ota_model">Model</string>
+  <string name="stylus_ota_new_version">Aktualizacja</string>
+  <string name="stylus_ota_serial_number">Numer seryjny</string>
+  <string name="stylus_ota_update">Aktualizuj</string>
+  <string name="stylus_ota_updating">Aktualizowanie</string>
 </resources>
