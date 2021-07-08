@@ -1929,7 +1929,7 @@ Ustawienie dotyczy wszystkich użytkowników tego urządzenia."</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Usunąć wszystkie odciski palców?</string>
   <string name="delete_rule">Usuń reguły</string>
   <string name="delete_saved_network">Usuń zapisane sieci</string>
-  <string name="delete_sound_effect">Dźwięk \"Usunięcia\"</string>
+  <string name="delete_sound_effect">Odtwarzaj dźwięk przy usuwaniu elementów</string>
   <string name="deleted_apps">Usunięte aplikacje</string>
   <string name="deletion_helper_automatic_title">Automatycznie</string>
   <string name="deletion_helper_manual_title">Ręcznie</string>
@@ -2919,7 +2919,7 @@ Kopia zapasowa nie wlicza się do limitu miejsca na Dysku Google. Nie zostanie t
   <string name="hardware_info">Model i sprzęt</string>
   <string name="hardware_revision">Wersja sprzętu</string>
   <string name="hardware_version">Wersja sprzętu</string>
-  <string name="has_screenshot_sound">Wykonanie zrzutu ekranu</string>
+  <string name="has_screenshot_sound">Odtwarzaj dźwięk przy wykonywaniu zrzutu ekranu</string>
   <string name="hdcp_checking_dialog_title">Ustaw sprawdzanie HDCP</string>
   <string name="hdcp_checking_title">Sprawdzanie HDCP</string>
   <string name="hdmi_3d_display_enable_summary">Włącz wsparcie gier 3D</string>
@@ -6046,7 +6046,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="sound_category_sound_title">Ogólne</string>
   <string name="sound_category_system_title">Dźwięki systemowe</string>
   <string name="sound_dashboard_summary">Głośność, wibracja, tryb Nie przeszkadzać</string>
-  <string name="sound_effects_enable_title">Przy dotknięciu</string>
+  <string name="sound_effects_enable_title">Odtwarzaj dźwięk przy dotknięciu</string>
   <string name="sound_settings">Dźwięk i wibracje</string>
   <string name="sound_settings_example_summary">Głośność dzwonka to 80%</string>
   <string name="sound_settings_summary">Głośność dzwonka to %1$s</string>
@@ -8421,7 +8421,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="sound_settings_tab_haptic">Dotyk</string>
   <string name="sound_settings_tab_sound">Dźwięk</string>
   <string name="special_preview">Demonstracje</string>
-  <string name="switch_bootup_sound">Dźwięk uruchamiania</string>
+  <string name="switch_bootup_sound"> Odtwarzaj dźwięk przy uruchamianiu urządzenia</string>
   <string name="system_touch">Reakcja haptyczna</string>
   <string name="button_height_text">Generyczny przycisk potwierdzenia (np. \"OK\", \"Gotowe\")</string>
   <string name="button_normal_text">Normalny przycisk</string>
@@ -8790,7 +8790,7 @@ Funkcja działa tylko, gdy jako sposób nawigacji po systemie ustawiono gesty."<
 Wysłane dane będą zawierać ogólne informacje o urządzeniu i korzystaniu z niego (np. poziom naładowania baterii, aktywność systemu i aplikacji, błędy). Dane zostaną wykorzystane do poprawiania urządzeń bazujących na nakładce MIUI.
 Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania informacji niezbędnych do działania podstawowych usług."</string>
   <string name="screen_timeout_subtitle">Wyświetlanie statycznych elementów przez dłuższy czas może spowodować, że kolory będą nierówne</string>
-  <string name="switch_power_sound">Dźwięk ładowania</string>
+  <string name="switch_power_sound">Odtwarzaj dźwięk po podłączeniu ładowarki</string>
   <string name="time_floating_window">Pływający zegar</string>
   <string name="time_floating_window_summary">Wyświetlaj zegar w pływającym oknie nad innymi aplikacjami</string>
   <string name="oaid_apps_summary">Zezwól bądź ogranicz dostęp do identyfikatora dla poszczególnych aplikacji</string>
@@ -8885,4 +8885,7 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="stylus_ota_serial_number">Numer seryjny</string>
   <string name="stylus_ota_update">Aktualizuj</string>
   <string name="stylus_ota_updating">Aktualizowanie</string>
+  <string name="app_uninstall_sounds_enable_title">Odtwarzaj dźwięk przy odinstalowywaniu aplikacji</string>
+  <string name="lock_sound_effect_enable_title">Odtwarzaj dźwięk przy blokowaniu ekranu</string>
+  <string name="unlock_sound_effect_enable_title">Odtwarzaj dźwięk przy odblokowaniu ekranu</string>
 </resources>

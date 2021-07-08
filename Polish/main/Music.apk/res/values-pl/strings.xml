@@ -1363,4 +1363,5 @@ Jeśli nie zgadzasz się na korzystanie ze wspomnianych usług, niektóre funkcj
   <string name="hint_search_songs_playlists_artists">Wyszukaj utwory, playlisty i artystów</string>
   <string name="loading_text">Chwileczkę…</string>
   <string name="title_recently_played">Ostatnio odtwarzane</string>
+  <string name="privacy_request_subtitle_offline">Witaj w Mi Muzyce! Aplikacja zawiera odtwarzacz lokalnych plików audio.</string>
 </resources>
