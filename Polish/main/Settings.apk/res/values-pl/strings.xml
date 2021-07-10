@@ -8227,7 +8227,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="dialog_wifi_context">Aby skonfigurować swoje urządzenie, musisz połączyć się z Internetem. Dopóki nie połączysz się z siecią Wi-Fi, do tego celu mogą zostać wykorzystane dane mobilne. Może to spowodować naliczenie opłat przez operatora. Użyć danych mobilnych mimo to?</string>
   <string name="dialog_wifi_title">Korzystanie z danych mobilnych</string>
   <string name="font_size_kddi">Średni</string>
-  <string name="control_center_style">Styl Centrum kontroli</string>
+  <string name="control_center_style">Styl Centrum funkcji</string>
   <string name="control_center_style_summary">"Zdecyduj, jak telefon ma wyświetlać przełączniki i powiadomienia"</string>
   <string name="display_animate_category">Animowane efekty</string>
   <string name="display_animate_content">Zredukuj ilość animowanych efektów wyświetlanych w momencie odblokowania urządzenia</string>
