@@ -1301,4 +1301,7 @@ Sprawdź kartę SIM."</string>
     <string name="wednesday">Środa</string>
     <string name="wednesday_short">Śr</string>
     <string name="wednesday_shortest">Śr</string>
+    <string name="tab_finance">Finanse</string>
+    <string name="tab_message">Wiadomości</string>
+    <string name="tab_promotions">Promocje</string>
 </resources>
