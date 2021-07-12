@@ -4682,4 +4682,10 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="pp_privacy_lab_operator_introduction">Uwaga</string>
     <string name="pp_privacy_lab_operator_introduction_summary">"Aplikacje mogą przechowywać Twój numer telefonu, jeśli został on uzyskany wcześniej. Zmiana tego uprawnienia nie usunie numerów uzyskanych wcześniej."</string>
     <string name="pp_virtual_identity_summary">Zamiast Twojego realnego identyfikatora MIUI może dostarczać aplikacjom wirtualne ID (OAID). Chroni to Twoją prywatność i pozwala kontrolować to, jak aplikacje śledzą Twoje zachowania.</string>
+    <string name="untrust_app_perm_install_list">Zezwól na dostęp do listy aplikacji zainstalowanych na urządzeniu</string>
+    <string name="untrust_app_perm_network">Zezwól na łączenie się z siecią</string>
+    <string name="untrust_app_perm_notification">Zezwól na wyświetlanie powiadomień</string>
+    <string name="untrust_app_perm_oaid">Zezwól na dostęp do wirtualnego ID</string>
+    <string name="untrust_app_perm_title">Aplikacja z nieznanego źródła</string>
+    <string name="untrust_app_perm_warn">Ta aplikacja pochodzi z nieznanego źródła i może stanowić zagrożenie dla bezpieczeństwa urządzenia. Może ona wykorzystywać wymienione poniżej uprawnienia w celu naruszania Twojej prywatności. Przyznawaj je rozważnie.</string>
 </resources>

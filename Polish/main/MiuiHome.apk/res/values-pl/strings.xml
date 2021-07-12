@@ -696,4 +696,5 @@
   <string name="provision_skip_underline">Pomiń</string>
   <string name="recents_clear_all_tasks">Wyczyść wszystko</string>
   <string name="recents_smallwindow_drag_text">Przeciągnij tutaj, aby przypiąć</string>
+  <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Zobacz więcej demonstracji w Ustawieniach &gt; Pulpit &gt; Nawigacja systemowa</string>
 </resources>
