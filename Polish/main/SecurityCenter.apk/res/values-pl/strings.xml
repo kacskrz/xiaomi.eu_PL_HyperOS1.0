@@ -4568,7 +4568,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="pc_hidemode_normal">Zbalansowane</string>
     <string name="pc_hidemode_performance">Wydajność</string>
     <string name="pc_hidemode_performance_title">Tryb wydajności</string>
-    <string name="pc_hidemode_power_save">Energia</string>
+    <string name="pc_hidemode_power_save">Bateria</string>
     <string name="pc_performance_mode_dialog_summary">W Trybie wydajności Twoje urządzenie będzie mogło działać przez %s. Zwiększa on jednak zużycie energii i może powodować przegrzewanie się urządzenia.</string>
     <string name="pc_performance_mode_dialog_title">Tryb wydajności</string>
     <string name="app_predict_dialog_button">Dodaj na pulpit</string>
