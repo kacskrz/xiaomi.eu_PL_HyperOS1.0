@@ -8888,4 +8888,15 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="app_uninstall_sounds_enable_title">Odtwarzaj dźwięk przy odinstalowywaniu aplikacji</string>
   <string name="lock_sound_effect_enable_title">Odtwarzaj dźwięk przy blokowaniu ekranu</string>
   <string name="unlock_sound_effect_enable_title">Odtwarzaj dźwięk przy odblokowaniu ekranu</string>
+  <string name="shoulder_key_game_light_settings">Podświetlaj w trybie Game Turbo</string>
+  <string name="shoulder_key_settings">Przyciski bumperów</string>
+  <string name="shoulder_key_settings_title">Podświetlenie bumperów</string>
+  <string name="shoulder_key_sound_settings">Efekt dźwiękowy bumpera</string>
+  <string name="shoulder_key_sound_switch_title">Efekt dźwiękowy bumpera</string>
+  <string name="shoulder_key_sound_text_bullet">Ładowanie broni</string>
+  <string name="shoulder_key_sound_text_current">Przyszłość</string>
+  <string name="shoulder_key_sound_text_sword">Miecz świetlny</string>
+  <string name="shoulder_key_sound_text_wind">Silnik rajdowy</string>
+  <string name="shoulder_key_switch_status_close">Wył.</string>
+  <string name="shoulder_key_switch_status_open">Wł.</string>
 </resources>

@@ -703,4 +703,5 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="web_sso_login_fail">Musisz zalogować się ponownie</string>
   <string name="web_sso_login_message">Logowanie…</string>
   <string name="webview_reload">Spróbuj ponownie</string>
+  <string name="splash_note">Rysik</string>
 </resources>

@@ -29,4 +29,10 @@
     <string name="freeform_slide_to_small_freeform_summary">Przytrzymaj pasek akcji i przeciągnij go do rogu ekranu</string>
     <string name="fullscreen_slide_to_small_freeform">Minimalizuj aplikację</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Przeciągnij od dolnej krawędzi do prawego górnego rogu ekranu</string>
+    <string name="copy">Kopiuj</string>
+    <string name="expand_button_title">Zaawansowane</string>
+    <string name="not_set">Nie ustawiono</string>
+    <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
+    <string name="v7_preference_off">WYŁ.</string>
+    <string name="v7_preference_on">WŁ.</string>
 </resources>

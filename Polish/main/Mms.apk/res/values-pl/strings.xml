@@ -1304,4 +1304,19 @@ Sprawdź kartę SIM."</string>
     <string name="tab_finance">Finanse</string>
     <string name="tab_message">Wiadomości</string>
     <string name="tab_promotions">Promocje</string>
+    <string name="aim_show_card">Pokaż kartę</string>
+    <string name="aim_show_original">Pokaż wiadomość</string>
+    <string name="cancel">Anuluj</string>
+    <string name="go_close">Ustawienia</string>
+    <string name="invisible_mode_on">"Jesteś incognito"</string>
+    <string name="leave_mms_tips_context_app">Czy chcesz wyjść z aplikacji SMS i otworzyć aplikację?</string>
+    <string name="leave_mms_tips_context_app_name">Czy chcesz wyjść z aplikacji SMS i otworzyć aplikację \"%s\"?</string>
+    <string name="leave_mms_tips_context_browser">Czy chcesz wyjść z aplikacji SMS i otworzyć przeglądarkę?</string>
+    <string name="leave_mms_tips_context_email">Czy chcesz wyjść z aplikacji SMS i otworzyć klienta poczty e-mail?</string>
+    <string name="leave_mms_tips_context_map">Czy chcesz wyjść z aplikacji SMS i otworzyć mapę?</string>
+    <string name="pref_summary_switch_aim_card">Wyświetlaj wiadomości zawierające filmy, zdjęcia i formatowanie jako karty</string>
+    <string name="pref_title_switch_aim_card">Konwertuj wiadomości na karty</string>
+    <string name="unable_connect_camera">"Jesteś incognito. Nie można korzystać teraz z aparatu."</string>
+    <string name="unable_get_location">"Jesteś incognito. Nie można korzystać teraz z lokalizacji."</string>
+    <string name="unable_use_microphone">"Jeteś incognito. Nie można używać teraz mikrofonu."</string>
 </resources>
