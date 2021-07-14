@@ -1916,4 +1916,6 @@ Skontaktuj się z operatorem"</string>
   <string name="mobile_network_dual_card_optimizationmobile_title">Dual SIM i sieci mobilne</string>
   <string name="mobile_special_network_optimization_config_summary">Popraw jakość połączeń, automatycznie adaptując się do różnych warunków i scenariuszy</string>
   <string name="mobile_special_network_optimization_config_title">Adaptacja do różnych warunków</string>
+  <string name="relay_call_answered_by_other_devices">Ten telefon został odebrany na innym urządzeniu.</string>
+  <string name="relay_call_released_due_to_connect_lost">Utracono połączenie. Kontynuuj rozmowę na rozłączonym urządzeniu.</string>
 </resources>

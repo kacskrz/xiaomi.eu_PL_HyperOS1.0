@@ -395,4 +395,7 @@
     <string name="wednesday_short">Śr</string>
     <string name="wednesday_shortest">Śr</string>
     <string name="yesterday">Wczoraj</string>
+    <string name="relay_cal_from_device_name">Z %1$s</string>
+    <string name="relay_call">Handoff</string>
+    <string name="relay_call_device_name">Połączone urządzenie (%1$s)</string>
 </resources>

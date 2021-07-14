@@ -8851,12 +8851,12 @@ Skopiuj wykonaną kopię z urządzenia USB do katalogu MIUI-backup-AllBackup i w
 
 Chmura Xiaomi
 Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
-  <string name="color_game_led_color_title">Kolor diody</string>
+  <string name="color_game_led_color_title">Kolor</string>
   <string name="color_game_led_dialog_freq">sek.</string>
   <string name="color_game_led_feature_off">Wył.</string>
   <string name="color_game_led_feature_on">Wł.</string>
   <string name="color_game_led_freq">%s sek.</string>
-  <string name="color_game_led_freq_title">Częstotliwość zmiany</string>
+  <string name="color_game_led_freq_title">Częstotliwość</string>
   <string name="gxzw_anim_unlock_effect">Animacja odcisku palca %s</string>
   <string name="magic_list_empty_text">Brak aplikacji kompatybilnych z tą funkcją</string>
   <string name="reset_network_title_noSim">Zresetuj Wi-Fi i Bluetooth</string>
@@ -8888,15 +8888,16 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="app_uninstall_sounds_enable_title">Odtwarzaj dźwięk przy odinstalowywaniu aplikacji</string>
   <string name="lock_sound_effect_enable_title">Odtwarzaj dźwięk przy blokowaniu ekranu</string>
   <string name="unlock_sound_effect_enable_title">Odtwarzaj dźwięk przy odblokowaniu ekranu</string>
-  <string name="shoulder_key_game_light_settings">Podświetlaj w trybie Game Turbo</string>
-  <string name="shoulder_key_settings">Przyciski bumperów</string>
-  <string name="shoulder_key_settings_title">Animacje podczas grania</string>
-  <string name="shoulder_key_sound_settings">Efekt dźwiękowy bumpera</string>
-  <string name="shoulder_key_sound_switch_title">Efekt dźwiękowy bumpera</string>
-  <string name="shoulder_key_sound_text_bullet">Ładowanie broni</string>
+  <string name="shoulder_key_game_light_settings">Animacje</string>
+  <string name="shoulder_key_settings">Bumpery</string>
+  <string name="shoulder_key_settings_title">Bumpery</string>
+  <string name="shoulder_key_sound_settings">Efekty dźwiękowe</string>
+  <string name="shoulder_key_sound_switch_title">Efekty dźwiękowe</string>
+  <string name="shoulder_key_sound_text_bullet">Nabój</string>
   <string name="shoulder_key_sound_text_current">Przyszłość</string>
-  <string name="shoulder_key_sound_text_sword">Miecz świetlny</string>
-  <string name="shoulder_key_sound_text_wind">Silnik rajdowy</string>
+  <string name="shoulder_key_sound_text_sword">Miecz</string>
+  <string name="shoulder_key_sound_text_wind">Silnik</string>
   <string name="shoulder_key_switch_status_close">Wył.</string>
   <string name="shoulder_key_switch_status_open">Wł.</string>
+  <string name="color_game_led_freq_entries">Co %d sek.</string>
 </resources>
