@@ -4688,4 +4688,5 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="untrust_app_perm_oaid">Zezwól na dostęp do wirtualnego ID</string>
     <string name="untrust_app_perm_title">Aplikacja z nieznanego źródła</string>
     <string name="untrust_app_perm_warn">Ta aplikacja pochodzi z nieznanego źródła i może stanowić zagrożenie dla bezpieczeństwa urządzenia. Może ona wykorzystywać wymienione poniżej uprawnienia w celu naruszania Twojej prywatności. Przyznawaj je rozważnie.</string>
+    <string name="power_wireless_ubable_update_toast">"Nie można aktualizować oprogramowania w trakcie ładowania bezprzewodowego"</string>
 </resources>

@@ -717,4 +717,8 @@ Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się z administrat
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">Co %d sek.</item>
+        <item quantity="one">Co %d sek.</item>
+    </plurals>
 </resources>
