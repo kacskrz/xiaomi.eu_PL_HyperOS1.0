@@ -1867,7 +1867,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="dual_video_user_guide_remote_content">"Połącz strumienie z dwóch różnych urządzeń w jedno wideo. Możesz podglądać obydwa strumienie i finalny efekt na tym urządzeniu. Dźwięk będzie nagrywany wyłącznie tym urządzeniem."</string>
   <string name="dual_video_user_guide_remote_p">Telefon %d</string>
   <string name="pref_video_ai_audio_single">Dźwięk przedni</string>
-  <string name="prek_b_j_o">Odtwórz efekt dźwięku przestrzennego</string>
+  <string name="prek_b_j_o">Włącz, aby odtworzyć efekt dźwięku przestrzennego. Dla lepszego efektu obróć urządzenie poziomo bądź podłącz słuchawki.</string>
   <string name="prek_b_j_p">Zmniejsz wpływ wiatru na nagrywany dźwięk</string>
   <string name="prep_video_ai_audio_new_desc_tip">Dźwięki wyostrzonego obiektu są wzmocnione</string>
   <string name="prep_video_ai_audio_single_desc_tip">Dźwięki spoza ekranu są filtrowane</string>
