@@ -697,4 +697,8 @@
   <string name="recents_clear_all_tasks">Wyczyść wszystko</string>
   <string name="recents_smallwindow_drag_text">Przeciągnij tutaj, aby przypiąć</string>
   <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Zobacz więcej demonstracji w Ustawieniach &gt; Pulpit &gt; Nawigacja systemowa</string>
+  <string name="navigation_guide_finish_text">Rozumiem</string>
+  <string name="navigation_guide_prohibit_gesture_hint">"Nie można używać gestów w trakcie oglądania demonstracji"</string>
+  <string name="swipe_the_desktop_to_the_left">Przesuń w lewo na pulpicie</string>
+  <string name="swipe_the_desktop_to_the_right">Przesuń w prawo na pulpicie</string>
 </resources>

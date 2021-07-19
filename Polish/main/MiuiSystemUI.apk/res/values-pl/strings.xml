@@ -2803,4 +2803,6 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="input_pattern_after_boot_msg">Narysuj wzór, aby odblokować urządzenie</string>
     <string name="input_pin_after_boot_msg">Wprowadź kod PIN, aby odblokować urządzenie</string>
     <string name="keyguard_invalid_sim_puk_hint">Kod PUK musi zawierać %1$d cyfr.</string>
+    <string name="fiveg_sa_switch_summary">Włącz tryb SA sieci 5G na drugiej karcie SIM. Tylko w celach testowych</string>
+    <string name="fiveg_sa_vice_switch_title">Tryb SA na drugiej karcie SIM</string>
 </resources>
