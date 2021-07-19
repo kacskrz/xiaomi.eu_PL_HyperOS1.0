@@ -704,4 +704,9 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="web_sso_login_message">Logowanie…</string>
   <string name="webview_reload">Spróbuj ponownie</string>
   <string name="splash_note">Rysik</string>
+  <string name="note_not_text_stub">Brak tekstu</string>
+  <string name="toast_notes_hidden_pad">Ta notatka jest teraz ukryta. Przesuń boczny panel w dół, aby zobaczyć ukryte notatki.</string>
+  <string name="widget_create_select_size">Wybierz rozmiar</string>
+  <string name="widget_empty_content">Dotknij, aby wybrać notatkę</string>
+  <string name="widget_note_list_page_title">Wybierz notatkę</string>
 </resources>

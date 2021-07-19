@@ -26,7 +26,7 @@
   <string name="camera_introduction">Możesz użyć Aparatu do wykonywania zdjęć oraz nagrywania filmów.</string>
   <string name="carrier_introduction">"W celu dostarczania Ci lepiej dopasowanych usług, Twoje urządzenie może czasami wysyłać informacje o wersji systemu, a także dane pozwalające na jego identyfikację (włącznie z IMEI/IMSI/MSISDN/adresem MAC, MEID/ICCID), a także informacje o lokalizacji (włączając dane stacji bazowej) do operatora poprzez Wi-Fi, dane mobilne bądź darmowy SMS. Operator używa tych danych tylko w celu ich analizy oraz poprawy jakości usług."</string>
   <string name="clock_introduction">Możesz użyć tej aplikacji do sprawdzania czasu, a także używania minutnika, zegarów czasowych, stopera, ustawiania alarmów itd.</string>
-  <string name="close_location_service_setting">Możesz wyłączyć dostęp do lokalizacji w Ustawieniach > Dodatkowe ustawienia > Prywatność lub ograniczyć uprawnienia w Panelu sterowania.</string>
+  <string name="close_location_service_setting">Możesz wyłączyć dostęp do lokalizacji w Ustawieniach > Ochrona prywatności > Ochrona lub ograniczyć uprawnienia w Panelu sterowania.</string>
   <string name="cm_terms_content">"Wybrany operator komórkowy może zbierać dane statystyczne na temat tego urządzenia i jego wykorzystania. Dane te mogą być przesyłane przez Wi-Fi i dane komórkowe do serwerów w sieci. Informacje te nie będą służyć do indentyfikacji danych osobistych ani nie będą przekazywane podmiotom trzecim."</string>
   <string name="cm_terms_title">Informacje o operatorze</string>
   <string name="compass_introduction">Możesz użyć tej aplikacji do nawigacji, a także wyświetlania położenia, ciśnienia atmosferycznego oraz wysokości.</string>
