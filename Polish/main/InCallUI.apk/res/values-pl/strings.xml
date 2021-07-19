@@ -33,7 +33,7 @@
   <string name="callFailed_unobtainable_number">Nieprawidłowy numer</string>
   <string name="callFailed_userBusy">Zajęty</string>
   <string name="callUnanswered_forwarded">Przekazywanie rozmów</string>
-  <string name="call_button_conference_manager_text">Konferencja</string>
+  <string name="call_button_conference_manager_text">Zarządzaj</string>
   <string name="call_button_dialer_text">Klawiatura</string>
   <string name="call_button_mute_text">Wycisz</string>
   <string name="call_button_tools_text">Narzędzia</string>
@@ -65,7 +65,7 @@
   <string name="card_title_answering">Odbieranie</string>
   <string name="card_title_answering_time_out">"Nie można odebrać. Spróbuj ponownie."</string>
   <string name="card_title_call_ended">"Zakończone "</string>
-  <string name="card_title_conf_call">Konferencyjne</string>
+  <string name="card_title_conf_call">Konferencja</string>
   <string name="card_title_dialing">Wybieranie</string>
   <string name="card_title_hanging_up">"Trwa rozłączanie "</string>
   <string name="card_title_hanging_up_fail">"Nie można zakończyć połączenia. Spróbuj ponownie."</string>
