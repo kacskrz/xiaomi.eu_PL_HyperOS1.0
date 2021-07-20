@@ -65,7 +65,7 @@
   <string name="card_title_answering">Odbieranie</string>
   <string name="card_title_answering_time_out">"Nie można odebrać. Spróbuj ponownie."</string>
   <string name="card_title_call_ended">"Zakończone "</string>
-  <string name="card_title_conf_call">Konferencja</string>
+  <string name="card_title_conf_call">Telekonferencja</string>
   <string name="card_title_dialing">Wybieranie</string>
   <string name="card_title_hanging_up">"Trwa rozłączanie "</string>
   <string name="card_title_hanging_up_fail">"Nie można zakończyć połączenia. Spróbuj ponownie."</string>
@@ -178,7 +178,7 @@
   <string name="list_language_title">Język</string>
   <string name="livetalk_left_minute">%s min left</string>
   <string name="livetalk_provider_info">Provided by %s</string>
-  <string name="manageConferenceLabel">Zarządzaj połączeniem konferencyjnym</string>
+  <string name="manageConferenceLabel">Zarządzaj telekonferencją</string>
   <string name="manager_conference_done">Gotowe</string>
   <string name="modify_call_failure_str">"Modify Call request failed
   "</string>
