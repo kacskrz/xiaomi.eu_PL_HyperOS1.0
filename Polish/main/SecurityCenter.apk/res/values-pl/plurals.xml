@@ -1111,4 +1111,18 @@ Zrób sobie przerwę!"</item>
         <item quantity="other">Automatycznie obniż jasność ekranu w celu oszczędzania baterii po %d minutach nieaktywności</item>
         <item quantity="one">Automatycznie obniż jasność ekranu w celu oszczędzania baterii po %d minucie nieaktywności</item>
     </plurals>
+    <plurals name="sim_lock_puk_dialog_message">
+        <item quantity="other">Pozostała Ci jeszcze tylko %d próba zweryfikowania kodu PUK. Jeśli osiągniesz limit wprowadzania niepoprawnych kodów, karta SIM zostanie anulowana. Kontynuować mimo to?</item>
+        <item quantity="one">Pozostała Ci jeszcze tylko %d próba zweryfikowania kodu PUK. Jeśli osiągniesz limit wprowadzania niepoprawnych kodów, karta SIM zostanie anulowana. Kontynuować mimo to?</item>
+    </plurals>
+    <plurals name="simlock_set_pin_error">
+        <item quantity="other">Niepoprawny kod PIN. Pozostało %d prób.</item>
+        <item quantity="few">Niepoprawny kod PIN. Pozostały %d próby.</item>
+        <item quantity="one">Niepoprawny kod PIN. Pozostała %d próba.</item>
+    </plurals>
+    <plurals name="simlock_set_puk_error">
+        <item quantity="other">Wprowadź kod PUK. Pozostało %d prób.</item>
+        <item quantity="few">Wprowadź kod PUK. Pozostały %d próby.</item>
+        <item quantity="one">Wprowadź kod PUK. Pozostała %d próba.</item>
+    </plurals>
 </resources>
