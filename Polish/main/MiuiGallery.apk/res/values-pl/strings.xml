@@ -1237,7 +1237,7 @@
   <string name="play_video_desc">Odtwórz wideo</string>
   <string name="preparing_data">Chwileczkę…</string>
   <string name="print_log">Wygeneruj log</string>
-  <string name="privacy_permission_request_message"><Data>Galeria potrzebuje dostępu do %3$s. Pozyskane informacje będą używane w zgodzie z &lt;a href=\"%1$s\">\"Warunkami użytkowania\"&lt;/a> oraz &lt;a href=\"%2$s\">\"Polityką prywatności\"&lt;/a> Xiaomi. Zgadzasz się?</Data></string>
+  <string name="privacy_permission_request_message">Galeria potrzebuje dostępu do %3$s. Pozyskane informacje będą używane w zgodzie z %1$s oraz %2$s. Zgadzasz się?</string>
   <string name="privacy_permission_request_negative">Ogranicz</string>
   <string name="privacy_permission_request_positive">Zgoda</string>
   <string name="privacy_permission_request_title">Wymagane uprawnienia</string>
