@@ -1237,7 +1237,7 @@
   <string name="play_video_desc">Odtwórz wideo</string>
   <string name="preparing_data">Chwileczkę…</string>
   <string name="print_log">Wygeneruj log</string>
-  <string name="privacy_permission_request_message">Galeria potrzebuje dostępu do %3$s. Pozyskane informacje będą używane w zgodzie z %1$s oraz %2$s. Zgadzasz się?</string>
+  <string name="privacy_permission_request_message"><Data>Galeria potrzebuje dostępu do %3$s. Pozyskane informacje będą używane zgodnie z &lt;a href=\"%1$s\">\"Warunkami użytkowania\"&lt;/a> oraz &lt;a href=\"%2$s\">\"Polityką prywatności\"&lt;/a> Xiaomi. Zgadzasz się?</Data></string>
   <string name="privacy_permission_request_negative">Ogranicz</string>
   <string name="privacy_permission_request_positive">Zgoda</string>
   <string name="privacy_permission_request_title">Wymagane uprawnienia</string>
@@ -2865,9 +2865,34 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="vlog_talkback_text_vlog">Radosny dzień</string>
     <string name="vlog_talkback_view_pause">Pauza</string>
     <string name="vlog_talkback_view_play">Odtwórz</string>
-    <string name="widget_custom_store_detail_desc">"Wybierz obrazy, które chcesz widzieć"</string>
+    <string name="widget_custom_store_detail_desc">Dodaj widżet i dotknij go, aby wybrać zdjęcia</string>
     <string name="widget_editor_confirm">Gotowe</string>
     <string name="widget_editor_reselect">Wybierz ponownie</string>
     <string name="widget_editor_title">Edytuj</string>
-    <string name="widget_recommend_store_detail_desc">Ostatnie zdjęcia i momenty z przeszłości</string>
+    <string name="widget_recommend_store_detail_desc">Ostatnie zdjęcia i radosne momenty</string>
+    <string name="album_screenshot_and_screen_recorder_name">Zrzuty i nagrania ekranu</string>
+    <string name="assistant_page_community">Społeczność</string>
+    <string name="exif_title_smart_fusion">Ulepszenie zdjęć:</string>
+    <string name="slim_action">Optymalizuj</string>
+    <string name="slim_action_auto_backup">Włącz</string>
+    <string name="slim_action_auto_backup_disable_description">Przechowuj zdjęcia i filmy w oryginalnej rozdzielczości w chmurze i pozostaw mniejsze kopie w wysokiej jakości na tym urządzeniu.</string>
+    <string name="slim_action_auto_backup_enable_description">Wysyłanie elementów do Chmury…</string>
+    <string name="slim_action_auto_backup_sub_tip">Zwolnij miejsce</string>
+    <string name="slim_action_auto_backup_tip">Włącz synchronizację z Chmurą</string>
+    <string name="slim_complete_count">"Zoptymalizowano %1$s oraz %2$s. "</string>
+    <string name="slim_complete_download_tip">Zamiast oryginalnych plików będą pobierane wysokiej jakości kopie.</string>
+    <string name="slim_dialog_empty_message">"Nie znaleziono elementów do optymalizacji."</string>
+    <string name="slim_dialog_empty_positive">Rozumiem</string>
+    <string name="slim_dialog_empty_title">Uwaga</string>
+    <string name="slim_dialog_message" formatted="false">"Po %d dniach od utworzenia elementów zastąp oryginalne zdjęcia i filmy wysokiej jakości kopiami. Oryginalne pliki będą przechowywane w Chmurze. Dzięki temu będzie można zwolnić ok. %s pamięci urządzenia."</string>
+    <string name="slim_dialog_positive">Optymalizuj</string>
+    <string name="slim_dialog_title">Optymalizuj pamięć</string>
+    <string name="slim_preference_scanning">Analizowanie zdjęć i filmów…</string>
+    <string name="slim_preference_summery">Przechowuj zdjęcia i filmy w oryginalnej rozdzielczości w chmurze i pozostaw mniejsze kopie w wysokiej jakości na tym urządzeniu. Mniejsze kopie zastąpią oryginalne pliki po %d dniach od ich utworzenia.</string>
+    <string name="slim_preference_title">Optymalizuj pamięć</string>
+    <string name="slim_stop_v2">Zatrzymaj</string>
+    <string name="slim_success_tip">Zwolniono %s pamięci</string>
+    <string name="widget_editor_load_fail">"Nie udało się załadować zdjęć"</string>
+    <string name="widget_talkback_custom">Galeria. Wybrane zdjęcia.</string>
+    <string name="widget_talkback_recommend">Galeria. Wspomnienia.</string>
 </resources>
