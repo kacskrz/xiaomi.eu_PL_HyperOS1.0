@@ -730,4 +730,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="operator_telecom_agreement">Usługi weryfikacji dostarczane przez konto eSurfing</string>
   <string name="operator_unicom_agreement">Usługi weryfikacji dostarczane przez China Unicom</string>
   <string name="skip_query_account">Pomiń</string>
+  <string name="passport_error_user_agreement_error">Najpierw wyraź zgodę na Warunki użytkowania</string>
 </resources>
