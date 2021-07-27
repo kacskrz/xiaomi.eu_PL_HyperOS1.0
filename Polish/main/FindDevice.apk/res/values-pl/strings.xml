@@ -109,6 +109,8 @@ Przejdź na stronę i.mi.com/ss i złóż prośbę o odblokowanie urządzenia."<
   <string name="find_device_notice_sms_alert_with_common_charge_hint">"Aby zaktualizować status karty SIM i upewnić się, że wszystkie usługi działają normalnie, po przełączeniu kart SIM zostanie wysłany jeden &lt;font color=#0097FF>&lt;b>płatny SMS&lt;/b>&lt;/font>. Operator pobierze od Ciebie opłatę za tego SMS-a według Twojej taryfy."</string>
   <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Aby zaktualizować status karty SIM i upewnić się, że wszystkie usługi działają normalnie, po przełączeniu kart SIM zostanie wysłany jeden &lt;font color=#0097FF>&lt;b>płatny, krajowy SMS&lt;/b>&lt;/font>. Operator pobierze od Ciebie opłatę za tego SMS-a według Twojej taryfy."</string>
   <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Aby zaktualizować status karty SIM i upewnić się, że wszystkie usługi działają normalnie, po przełączeniu kart SIM zostanie wysłany jeden &lt;font color=#0097FF>&lt;b>płatny, zagraniczny SMS&lt;/b>&lt;/font>. Operator pobierze od Ciebie opłatę za tego SMS-a według Twojej taryfy."</string>
-  <string name="find_device_capture_notification_content">Inne autoryzowane urządzenie wykonuje zdalnie zdjęcie w ramach funkcji Znajdź urządzenie na stronie i.mi.com.</string>
-  <string name="find_device_capture_notification_title">Funkcja Znajdź urządzenie wykonuje zdjęcie zdalnie…</string>
+  <string name="find_device_capture_notification_content">Twoje konto wysłało żądanie wykonania zdalnego zdjęcia z tego telefonu</string>
+  <string name="find_device_capture_notification_title">Funkcja Znajdź urządzenie wykona zdjęcie</string>
+  <string name="find_device_capture_done_notification_content">Wyświetl zdjęcie na i.mi.com</string>
+  <string name="find_device_capture_done_notification_title">Funkcja Znajdź urządzenie wykonała zdjęcie</string>
 </resources>

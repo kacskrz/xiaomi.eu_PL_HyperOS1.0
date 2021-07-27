@@ -8907,4 +8907,6 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="stylus_ota_timeout_failed">Przekroczono czas sesji</string>
   <string name="stylus_ota_update_failed">"Nie udało się zaktualizować oprogramowania"</string>
   <string name="pad_flash_drive_backup_enable">Użyj dysku USB, aby skopiować lub przywrócić elementy</string>
+  <string name="disable_quick_start">Wyłącz szybki start</string>
+  <string name="enable_quick_start">Włącz szybki start</string>
 </resources>
