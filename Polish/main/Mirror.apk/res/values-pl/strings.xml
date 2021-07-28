@@ -43,8 +43,8 @@
     <string name="downloading">Pobieranie…</string>
     <string name="early_morning">Poranek</string>
     <string name="enable_wifi_alert_cancel">Anuluj</string>
-    <string name="enable_wifi_alert_message">MIUI+ Beta wymaga włączenia Wi-Fi, aby móc połączyć się z komputerem. Włączyć teraz?</string>
-    <string name="enable_wifi_alert_message_china">MIUI+ Beta wymaga włączenia Wi-Fi, aby móc połączyć się z komputerem. Włączyć teraz?</string>
+    <string name="enable_wifi_alert_message">MIUI+ wymaga włączenia Wi-Fi, aby móc połączyć się z komputerem. Włączyć teraz?</string>
+    <string name="enable_wifi_alert_message_china">MIUI+ wymaga włączenia Wi-Fi, aby móc połączyć się z komputerem. Włączyć teraz?</string>
     <string name="enable_wifi_alert_ok">Włącz</string>
     <string name="enable_wifi_alert_title">Włącz Wi-Fi</string>
     <string name="enable_wifi_alert_title_china">Włącz Wi-Fi</string>
@@ -259,7 +259,21 @@
     <string name="settings_trusted_delete_dialog_title">Zaprzestać automatycznego łączenia?</string>
     <string name="settings_trusted_device_group">Urządzenia łączące się automatycznie</string>
     <string name="settings_trusted_device_none">Brak urządzeń</string>
-    <string name="settings_trusted_tips">Łącz się z wybranymi urządzeniami w pobliżu automatycznie, gdy włączone są Bluetooth i Wi-Fi</string>
+    <string name="settings_trusted_tips">Automatycznie łącz się z wybranymi urządzeniami w pobliżu, gdy włączone są Bluetooth i Wi-Fi</string>
     <string name="worker_authorization_trusted">Zawsze się łącz</string>
     <string name="worker_authorization_trusted_only_once">Połącz się raz</string>
+    <string name="clipboard_tip">Skopiowane z %1$s</string>
+    <string name="fullscreen_sink_activity_label">Mój telefon</string>
+    <string name="settings_connect_pc_group">Pracuj za pomocą komputera</string>
+    <string name="settings_feature_intro">O tej funkcji</string>
+    <string name="settings_how_use">Korzystanie z MIUI+</string>
+    <string name="settings_pc_history_title">Historia połączeń</string>
+    <string name="settings_pc_trusted_title">Połącz automatycznie</string>
+    <string name="settings_pc_use_tile">O tej funkcji</string>
+    <string name="settings_scanner_summary">Połącz się z MIUI+ za pomocą kodu QR</string>
+    <string name="settings_trusted_tips_china">Automatycznie łącz się z wybranymi urządzeniami w pobliżu, gdy włączone są Bluetooth i Wi-Fi</string>
+    <string name="softap_notification_action">Połącz</string>
+    <string name="softap_notification_message">Brak dostępnych sieci Wi-Fi. Połączyć się z tym hotspotem?</string>
+    <string name="softap_notification_message_china">Brak dostępnych sieci Wi-Fi. Połączyć się z tym hotspotem?</string>
+    <string name="softap_notification_title">"Połączenie z hotspotem %1$s"</string>
 </resources>
