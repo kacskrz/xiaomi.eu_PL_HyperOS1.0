@@ -1248,4 +1248,10 @@
     <string name="app_first_loading_txt">Ładowanie...</string>
     <string name="app_pa_setting_global_display_backdrop_blur_option">Zamaż tła kart</string>
     <string name="app_pa_setting_global_display_backdrop_blur_summary">Zastosuj rozmycie Gaussa do teł kart Asystenta. Funkcja może spowolnić odpowiedź na przeciągnięcie.</string>
+    <string name="app_olympic_card_service_des">Ranking aktualizowany na bieżąco</string>
+    <string name="app_olympic_card_service_title">Olimpiada</string>
+    <string name="app_olympic_card_title">Olimpiada</string>
+    <string name="app_olympic_card_title_info">Dane są dostarczane przez firmę trzecią, mogą być opóźnione</string>
+    <string name="app_olympic_gold_medal_country_region">Kraj</string>
+    <string name="app_olympic_gold_medal_total">Razem</string>
 </resources>

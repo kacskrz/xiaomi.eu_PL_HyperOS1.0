@@ -567,4 +567,5 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="wifi_low_version_prompt">Wi-Fi musi być włączone ręcznie</string>
   <string name="picture">Galeria</string>
   <string name="document_rename_error">Nie udało się zmienić nazwy</string>
+  <string name="privacy_policy">Polityka prywatności</string>
 </resources>
