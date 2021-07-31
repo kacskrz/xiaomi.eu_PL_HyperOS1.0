@@ -4142,7 +4142,7 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="power_center_battery_level">Stan naładowania: %s</string>
     <string name="power_center_battery_level_general">Normalne</string>
     <string name="power_center_battery_software">System %s</string>
-    <string name="power_center_battery_status">Zużycie baterii</string>
+    <string name="power_center_battery_status">Kondycja baterii</string>
     <string name="power_center_battery_temperature">Temperatura</string>
     <string name="power_center_battery_used_time">Na baterii</string>
     <string name="power_center_batteryrank_all">Pełne zużycie baterii</string>
