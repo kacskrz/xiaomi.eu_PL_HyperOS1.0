@@ -564,4 +564,32 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="virus_install_authorize_dialog_negative">Zweryfikuj</string>
     <string name="virus_install_authorize_dialog_title">Wymagana weryfikacja tożsamości</string>
     <string name="warning_msg_virus_name">Ta aplikacja zawiera wirusy: %1$s</string>
+    <string name="about_safe_mode">Dowiedz się więcej o Trybie bezpiecznym</string>
+    <string name="about_safe_mode_2">"Ta aplikacja nie przeszła testów bezpieczeństwa Xiaomi. &lt;font color=#0bae73>&lt;a href=miui_packageinstaller://com.miui.packageinstaller/safe_mode?safe_mode_type=package_install text-decoration=none>Dowiedz się więcej o Trybie bezpiecznym&lt;/a>.&lt;/font>"</string>
+    <string name="close_safe_mode">Wyłącz</string>
+    <string name="continuous_protection">Chroń urządzenie przed podejrzanymi aplikacjami</string>
+    <string name="continuous_protection_des">Tryb bezpieczny wł.</string>
+    <string name="open_now">Włącz</string>
+    <string name="safe_des_once">Gdy włączony jest Tryb bezpieczny, będzie można zainstalować tylko aplikacje, które przeszły testy bezpieczeństwa Xiaomi.</string>
+    <string name="safe_des_two">Aplikacje z nieznanych źródeł mogą stanowić potencjalne zagrożenie dla Twojego bezpieczeństwa.</string>
+    <string name="safe_install_mode_suggestion_msg">Zainstaluj bezpieczną wersję tej aplikacji z innego źródła.</string>
+    <string name="safe_install_mode_suggestion_title">Sugestia:</string>
+    <string name="safe_mode">Tryb bezpieczny</string>
+    <string name="safe_mode_already_authorize">Zezwolono</string>
+    <string name="safe_mode_authorize_name">Ostatnio zainstalowano: %1$s</string>
+    <string name="safe_mode_authorize_once_install">Zezwól raz</string>
+    <string name="safe_mode_authorize_once_install_sucess">Zezwolono na instalację aplikacji %1$s. Znajdź pobrany plik APK i kontynuuj operację.</string>
+    <string name="safe_mode_close_tip">Wyłączanie Trybu bezpiecznego</string>
+    <string name="safe_mode_close_tip_des">"Po wyłączeniu Trybu bezpiecznego nie dowiesz się, czy aplikacje, które instalujesz, przeszły testy bezpieczeństwa Xiaomi. Wyłączyć tę funkcję mimo to?"</string>
+    <string name="safe_mode_is_open">Wł.</string>
+    <string name="safe_mode_none_networkd_msg">Połącz się z siecią, aby sprawdzić, czy ta aplikacja przeszła testy bezpieczeństwa Xiaomi.</string>
+    <string name="safe_mode_none_networkd_title">Połącz się z siecią</string>
+    <string name="safe_mode_server_error_msg">"Nie udało się sprawdzić, czy ta aplikacja przeszła już testy bezpieczeństwa Xiaomi. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
+    <string name="safe_mode_server_error_title">Coś poszło nie tak</string>
+    <string name="safe_mode_title_text">Tryb bezpieczny</string>
+    <string name="safe_title_once">Zabezpiecz urządzenie</string>
+    <string name="safe_title_two">Neutralizuj ryzyka</string>
+    <string name="sure_close">Wyłącz</string>
+    <string name="virus_safe_install_mode_security_tips">" Jeśli nadal chcesz zainstalować tę aplikację, możesz zezwolić na to w Ustawieniach > Specjalne funkcje > Tryb bezpieczny."</string>
+    <string name="virus_scanning_please_wait">Sprawdzanie…</string>
 </resources>

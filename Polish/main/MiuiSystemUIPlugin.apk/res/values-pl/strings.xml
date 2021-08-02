@@ -306,4 +306,7 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="app_name">Wtyczka Interfejsu</string>
     <string name="miui_toast_zen_dnd_to_off_T">Powiadomienia nie będą już wyciszone</string>
     <string name="miui_toast_zen_to_dnd_T">Powiadomienia będą wyciszone</string>
+    <string name="accessibility_description_hours">Godziny</string>
+    <string name="accessibility_description_minutes">Minuty</string>
+    <string name="accessibility_description_seconds">Sekundy</string>
 </resources>

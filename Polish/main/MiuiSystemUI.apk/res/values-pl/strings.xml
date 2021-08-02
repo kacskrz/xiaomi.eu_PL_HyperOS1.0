@@ -2805,4 +2805,5 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="keyguard_invalid_sim_puk_hint">Kod PUK musi zawierać %1$d cyfr.</string>
     <string name="fiveg_sa_switch_summary">Włącz tryb SA sieci 5G na drugiej karcie SIM. Tylko w celach testowych</string>
     <string name="fiveg_sa_vice_switch_title">Tryb SA na drugiej karcie SIM</string>
+    <string name="keyguard_charging_double_fast_and_level_tip">Zwiększenie prędkości ładowania %s</string>
 </resources>

@@ -8909,4 +8909,12 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="pad_flash_drive_backup_enable">Użyj dysku USB, aby skopiować lub przywrócić elementy</string>
   <string name="disable_quick_start">Wyłącz szybki start</string>
   <string name="enable_quick_start">Włącz szybki start</string>
+  <string name="headset_head_tracking_desc">Dostosuj dźwięk przestrzenny do ruchów głowy</string>
+  <string name="headset_head_tracking_title">Śledź ruch głowy</string>
+  <string name="stylus_ota_check_failed_battery">"Nie udało się sprawdzić. Poziom baterii Twojego rysika jest niski."</string>
+  <string name="stylus_ota_check_failed_info">"Nie udało się sprawdzić wersji oprogramowania. Włóż rysik ponownie."</string>
+  <string name="surround_sound_all_desc">Zwiększ głębię reprodukcji dźwięku dla słuchawek i głośników</string>
+  <string name="surround_sound_only_headset_desc">Zwiększ głębię reprodukcji dźwięku dla słuchawek</string>
+  <string name="surround_sound_only_speaker_desc">Zwiększ głębię reprodukcji dźwięku dla głośników</string>
+  <string name="surround_sound_title">Dźwięk przestrzenny</string>
 </resources>

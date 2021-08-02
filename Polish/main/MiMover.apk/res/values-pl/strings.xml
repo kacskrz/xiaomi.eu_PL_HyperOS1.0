@@ -701,4 +701,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="title_open_wlan">Włącz Wi-Fi</string>
     <string name="title_request_alert_window_perm">Zezwól na pływające okna</string>
     <string name="host_new_device_hint">To urządzenie</string>
+    <string name="dialog_airplane_mode_button">Ustawienia</string>
+    <string name="dialog_airplane_mode_content">"Przenoszenie danych nie działa, gdy włączony jest tryb samolotowy. Wyłącz go najpierw w Ustawieniach."</string>
+    <string name="dialog_airplane_mode_title">Wyłącz tryb samolotowy</string>
 </resources>

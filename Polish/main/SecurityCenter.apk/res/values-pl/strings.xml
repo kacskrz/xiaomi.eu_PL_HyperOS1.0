@@ -4793,4 +4793,13 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="virus_info_title">Opis</string>
     <string name="virus_news_title">Powiązane informacje</string>
     <string name="virus_type_title">Typ</string>
+    <string name="wireless_charging_connected_message">"Nie można użyć bezprzewodowego ładowania zwrotnego, gdy Twoje urządzenie ładuje się bezprzewodowo."</string>
+    <string name="wireless_charging_fg_control_cancel">Anuluj</string>
+    <string name="wireless_charging_fg_control_messgae">"Bezprzewodowe ładowanie zwrotne zostało wyłączone, ponieważ pozostało mniej niż %s baterii. Możesz dostosować ustawienia tak, aby pozwolić na dłuższe działanie tej funkcji."</string>
+    <string name="wireless_charging_fg_control_ok">Dostosuj</string>
+    <string name="wireless_charging_low_battery_level_message">"Nie można użyć bezprzewodowego ładowania zwrotnego, gdy pozostało mniej niż %s baterii."</string>
+    <string name="wireless_charging_ok">OK</string>
+    <string name="wireless_charging_saver_cancel">Nie</string>
+    <string name="wireless_charging_saver_message">Włączone jest Oszczędzanie baterii. Czy chcesz, aby bezprzewodowe ładowanie zwrotne było dalej dostępne?</string>
+    <string name="wireless_charging_saver_ok">Tak</string>
 </resources>
