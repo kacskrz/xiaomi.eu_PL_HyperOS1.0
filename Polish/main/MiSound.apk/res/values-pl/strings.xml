@@ -310,4 +310,7 @@
   <string name="mtrl_picker_toggle_to_year_selection">Kliknij, by wybrać rok</string>
   <string name="password_toggle_content_description">Pokaż hasło</string>
   <!-- end standard android strings -->
+  <string name="effect_3dsurround">Dźwięk przestrzenny</string>
+  <string name="effect_3dsurround_summary">Zwiększ głębię reprodukcji dźwięku dla słuchawek i głośników</string>
+  <string name="effect_3dsurround_summary_headphone">Zwiększ głębię reprodukcji dźwięku dla słuchawek</string>
 </resources>
