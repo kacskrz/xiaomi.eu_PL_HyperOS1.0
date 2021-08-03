@@ -6327,6 +6327,39 @@ Ta operacja wymaże istniejące pliki w pamięci: ^2. Aby zapobiec ich utracie, 
   <string name="storage_wizard_init_internal_summary">Do zapisywania dowolnych danych (w tym aplikacji i zdjęć) tylko na tym urządzeniu. Wymaga sformatowania, które uniemożliwi korzystanie z tego nośnika na innych urządzeniach.</string>
   <string name="storage_wizard_init_internal_title">Użyj jako pamięci wewnętrznej</string>
   <string name="storage_wizard_init_title">Skonfiguruj: ^1</string>
+  <string name="storage_wizard_init_v2_external_action">Pamięć przenośna</string>
+  <string name="storage_wizard_init_v2_external_summary">Do przenoszenia plików i multimediów między urządzeniami</string>
+  <string name="storage_wizard_init_v2_external_title">Użyj jako pamięci przenośnej</string>
+  <string name="storage_wizard_init_v2_internal_action">Pamięć telefonu</string>
+  <string name="storage_wizard_init_v2_internal_summary">Tylko na aplikacje, pliki i multimedia na tym telefonie</string>
+  <string name="storage_wizard_init_v2_internal_title">Użyj, by powiększyć pamięć telefonu</string>
+  <string name="storage_wizard_init_v2_later">Skonfiguruj później</string>
+  <string name="storage_wizard_init_v2_or">lub</string>
+  <string name="storage_wizard_init_v2_title">Jak będziesz używać nośnika ^1?</string>
+  <string name="storage_wizard_migrate_progress_v2_title">Przenoszę dane…</string>
+  <string name="storage_wizard_migrate_v2_body">"Możesz przenieść pliki, multimedia i niektóre aplikacje na ten nośnik ^1. 
+
+Ta czynność potrwa około ^3 i zwolni do ^2 pamięci telefonu."</string>
+  <string name="storage_wizard_migrate_v2_checklist">Podczas przenoszenia:</string>
+  <string name="storage_wizard_migrate_v2_checklist_apps">Niektóre aplikacje nie będą działać</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">Telefon musi być podłączony do ładowarki</string>
+  <string name="storage_wizard_migrate_v2_checklist_media">Nie wyjmuj nośnika ^1</string>
+  <string name="storage_wizard_migrate_v2_later">Przenieś dane później</string>
+  <string name="storage_wizard_migrate_v2_now">Przenieś dane</string>
+  <string name="storage_wizard_migrate_v2_title">Przenieść dane na: ^1?</string>
+  <string name="storage_wizard_ready_v2_external_body">Możesz przenieść dane na nośnik ^1</string>
+  <string name="storage_wizard_ready_v2_internal_body">Aby przenieść dane na nośnik ^1, wybierz <b>Ustawienia > Pamięć</b></string>
+  <string name="storage_wizard_ready_v2_internal_moved_body">"Dane zostały przeniesione na nośnik ^1. 
+
+Aby zarządzać nośnikiem ^2, wybierz "<b>Ustawienia > Pamięć</b>.</string>
+  <string name="storage_wizard_slow_v2_body">"Nadal możesz używać tego nośnika ^1, ale może on działać powoli. 
+
+Aplikacje zapisane na tym nośniku ^2 mogą nie działać prawidłowo, a przenoszenie danych może trwać długo. 
+
+Spróbuj użyć szybszego nośnika ^3 lub użyć tego nośnika ^4 jako pamięci przenośnej."</string>
+  <string name="storage_wizard_slow_v2_continue">Dalej</string>
+  <string name="storage_wizard_slow_v2_start_over">Jeszcze raz</string>
+  <string name="storage_wizard_slow_v2_title">Wolny nośnik ^1</string>
   <string name="storage_wizard_migrate_body">"Możesz przenieść zdjęcia, pliki i niektóre aplikacje na nowy nośnik ^1. 
 Ta czynność potrwa około ^2 i zwolni ^3 pamięci wewnętrznej. Podczas tego procesu niektóre aplikacje nie będą działać."</string>
   <string name="storage_wizard_migrate_confirm_body">Czas przeniesienia: około ^1. Zwolnione miejsce: ^2. Lokalizacja: ^3.&lt;/b&gt;</string>
