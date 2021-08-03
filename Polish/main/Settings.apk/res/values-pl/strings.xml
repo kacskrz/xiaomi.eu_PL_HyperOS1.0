@@ -8902,7 +8902,7 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="color_game_led_freq_entries">Co %d sek.</string>
   <string name="fiveg_sa_switch_summary">Włącz tryb SA sieci 5G na drugiej karcie SIM. Tylko w celach testowych</string>
   <string name="fiveg_sa_vice_switch_title">Tryb SA na drugiej karcie SIM</string>
-  <string name="stylus_ota_demands">Urządzenie powinno być połączone z rysikiem poprzez Bluetooth. Oba urządzenia powinny być naładowane w co najmniej %1$s w trakcie aktualizacji.</string>
+  <string name="stylus_ota_demands">Bluetooth musi być włączone w trakcie aktualizacji. Upewnij się, że poziom baterii nie jest niższy niż %1$s.</string>
   <string name="stylus_ota_download_failed">"Nie udało się pobrać oprogramowania"</string>
   <string name="stylus_ota_timeout_failed">Przekroczono czas sesji</string>
   <string name="stylus_ota_update_failed">"Nie udało się zaktualizować oprogramowania"</string>
@@ -8917,4 +8917,9 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="surround_sound_only_headset_desc">Zwiększ głębię reprodukcji dźwięku dla słuchawek</string>
   <string name="surround_sound_only_speaker_desc">Zwiększ głębię reprodukcji dźwięku dla głośników</string>
   <string name="surround_sound_title">Dźwięk przestrzenny</string>
+  <string name="stylus_ota_completed">Pomyślnie zaktualizowano</string>
+  <string name="stylus_ota_completed_tip">Pomyślnie zaktualizowano oprogramowanie. Włóż rysik, aby go sparować.</string>
+  <string name="stylus_ota_firmware_info">Oprogramowanie</string>
+  <string name="stylus_ota_hava_new_version">"Nowa wersja: "</string>
+  <string name="stylus_ota_net_error">"Nie udało się sprawdzić dostępności aktualizacji. Połącz się z siecią i spróbuj ponownie."</string>
 </resources>
