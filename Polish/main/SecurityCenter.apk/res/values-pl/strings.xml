@@ -4802,4 +4802,19 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="wireless_charging_saver_cancel">Nie</string>
     <string name="wireless_charging_saver_message">Włączone jest Oszczędzanie baterii. Czy chcesz, aby bezprzewodowe ładowanie zwrotne było dalej dostępne?</string>
     <string name="wireless_charging_saver_ok">Tak</string>
+    <string name="app_predict_classification_search_empty">"Nie znaleziono rezultatów"</string>
+    <string name="app_predict_go_shop_search_app">Wyszukaj w sklepie</string>
+    <string name="app_predict_privacy_btn_exit_text">Wyjdź</string>
+    <string name="app_predict_privacy_btn_sure_text">Zgadzam się</string>
+    <string name="app_predict_privacy_content">Ta usługa używa algorytmów działających w ramach mechanizmów ochrony prywatności Xiaomi i uczących się Twoich nawyków dot. korzystania z aplikacji zainstalowanych na tym urządzeniu. Pozwala to na otrzymywanie przez Ciebie sugestii aplikacji, których w danej chwili prawdopodobnie najbardziej potrzebujesz.</string>
+    <string name="app_predict_privacy_privacy_policy_text">Polityki prywatności</string>
+    <string name="app_predict_privacy_title">Sugestie aplikacji</string>
+    <string name="app_predict_privacy_user_agreement_privacy_policy_text">Zanim kontynuujesz, przeczytaj i zaakceptuj warunki %1$s oraz %2$s.</string>
+    <string name="app_predict_privacy_user_agreement_text">Umowy użytkownika</string>
+    <string name="app_predict_search_btn_cancel_text">Anuluj</string>
+    <string name="app_predict_search_empty">"Nie znaleziono aplikacji"</string>
+    <string name="app_predict_search_local_app">Na tym urządzeniu</string>
+    <string name="app_predict_widget_experience_now">Wypróbuj</string>
+    <string name="app_predict_widget_summary">Szybko uruchamiaj aplikacje, których możesz teraz potrzebować</string>
+    <string name="app_predict_widget_title">Sugestie aplikacji</string>
 </resources>
