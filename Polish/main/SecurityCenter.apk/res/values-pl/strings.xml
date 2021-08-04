@@ -2480,7 +2480,7 @@ W trakcie kalibracji, MIUI wyśle wiadomość tekstową do Twojego operatora, ab
   <string name="reject_all">Zablokuj wszystkie</string>
   <string name="reject_countdown">Odmów (%d)</string>
   <string name="reject_usb_install">Odrzucono instalacje przez USB</string>
-  <string name="release_meminfo">Zwolnij do %d MB</string>
+  <string name="release_meminfo">Zwolniono %d MB</string>
   <string name="release_memory">Wyczyść pamięć podręczną</string>
   <string name="renew_ip">Ponów</string>
   <string name="renew_now">Odnów</string>
