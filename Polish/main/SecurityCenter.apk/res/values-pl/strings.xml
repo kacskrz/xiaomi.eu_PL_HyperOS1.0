@@ -4817,4 +4817,32 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="app_predict_widget_experience_now">Wypróbuj</string>
     <string name="app_predict_widget_summary">Szybko uruchamiaj aplikacje, których możesz teraz potrzebować</string>
     <string name="app_predict_widget_title">Sugestie aplikacji</string>
+    <string name="gamebox_brightness">Jasność</string>
+    <string name="gamebox_mem_clean">Zw. pamięć</string>
+    <string name="gamebox_screenrecord">Nagraj</string>
+    <string name="gamebox_screenshot">Zrzut</string>
+    <string name="gb_performance_balance">Balans</string>
+    <string name="gb_performance_high">Wydajność</string>
+    <string name="gb_performance_mode">Tryb gry</string>
+    <string name="gb_performance_tips">"Tryb wydajności polepsza działanie telefonu,
+ale zwiększy zużycie energii i może spowodować jego przegrzanie"</string>
+    <string name="gb_turbo_collimator_subtitle">Ułatw sobie celowanie</string>
+    <string name="gb_turbo_macro_subtitle">Automatyzuj działania</string>
+    <string name="gb_turbo_new_flag">NOWE</string>
+    <string name="gb_turbo_shoulder_subtitle">Kontrola bumperami</string>
+    <string name="gb_turbo_time_subtitle">Dowiedz się, ile grasz</string>
+    <string name="gb_turbo_voice_subtitle">Zmień swój głos</string>
+    <string name="gb_turbo_wonder_subtitle">Zapis najlepszych chwil przez SI</string>
+    <string name="gb_voice_change_audition_tip">Test</string>
+    <string name="gb_voice_changer_user_vip_expired">Wygasło</string>
+    <string name="gb_voice_changer_user_vip_remain_time">Data ważności: %s</string>
+    <string name="gtb_guide_finish">Pomiń</string>
+    <string name="gtb_guide_gtb_button_done">Gotowe</string>
+    <string name="gtb_guide_gtb_community_desc">Dziel się wrażeniami</string>
+    <string name="gtb_guide_gtb_community_title">Społeczność</string>
+    <string name="gtb_guide_gtb_func_desc">Narzędzia, dzięki którym gra jest przyjemniejsza</string>
+    <string name="gtb_guide_gtb_func_title">Przybornik</string>
+    <string name="gtb_guide_gtb_line_new">Oto nowy tryb Game Turbo</string>
+    <string name="gtb_guide_small_window_app_desc">Włącz dowolną aplikację jednym dotknięciem</string>
+    <string name="gtb_guide_small_window_app_title">Pływające okna</string>
 </resources>
