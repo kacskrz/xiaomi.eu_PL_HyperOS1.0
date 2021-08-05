@@ -568,4 +568,5 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="picture">Galeria</string>
   <string name="document_rename_error">Nie udało się zmienić nazwy</string>
   <string name="privacy_policy">Polityka prywatności</string>
+  <string name="hint_no_permissions_text">Brak uprawnień. Wejdź do Ustawień > Aplikacje > Uprawnienia i nadaj aplikacji Skaner uprawnienia do pamięci, aparatu i ID telefonu.</string>
 </resources>
