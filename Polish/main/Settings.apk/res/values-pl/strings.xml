@@ -8955,4 +8955,5 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="stylus_ota_firmware_info">Oprogramowanie</string>
   <string name="stylus_ota_hava_new_version">"Nowa wersja: "</string>
   <string name="stylus_ota_net_error">"Nie udało się sprawdzić dostępności aktualizacji. Połącz się z siecią i spróbuj ponownie."</string>
+  <string name="sunlight_mode_summary_new">Dostosuj jasność do mocnego światła z zewnątrz, aby zapobiec przyciemnianiu się ekranu. Na górze ekranu pojawi się mała ikona słońca, gdy światło z zewnątrz jest silne.</string>
 </resources>
