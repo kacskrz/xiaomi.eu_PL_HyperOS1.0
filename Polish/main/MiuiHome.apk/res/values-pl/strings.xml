@@ -546,7 +546,7 @@
   <string name="widget_gadget_player">Muzyka</string>
   <string name="widget_global_search">Szukaj</string>
   <string name="widget_quick_function">Skróty i przełączniki</string>
-  <string name="widgets_preview_title">Dodaj widżet</string>
+  <string name="widgets_preview_title">Dodaj widżety</string>
   <string name="copy">Kopiuj</string>
   <string name="expand_button_title">Zaawansowane</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
@@ -701,4 +701,8 @@
   <string name="navigation_guide_prohibit_gesture_hint">"Nie można używać gestów w trakcie oglądania demonstracji"</string>
   <string name="swipe_the_desktop_to_the_left">Przesuń w lewo na pulpicie</string>
   <string name="swipe_the_desktop_to_the_right">Przesuń w prawo na pulpicie</string>
+  <string name="navigation_set_miui_home_as_default_dialog_cancel">Anuluj</string>
+  <string name="navigation_set_miui_home_as_default_dialog_message">"Nie można korzystać z gestów na innych launcherach niż systemowy. Czy chcesz przełączyć się na systemowy launcher i włączyć gesty?"</string>
+  <string name="navigation_set_miui_home_as_default_dialog_ok">OK</string>
+  <string name="navigation_set_miui_home_as_default_dialog_title">Uwaga</string>
 </resources>

@@ -1131,4 +1131,13 @@ Zrób sobie przerwę!"</item>
         <item quantity="one">Usunąć %d aplikację?</item>
         <item quantity="few">Usunąć %d aplikacje?</item>
     </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d aplikacji, w tym %1$s</item>
+        <item quantity="few">%2$d aplikacje, w tym %1$s</item>
+        <item quantity="one">%2$d aplikacja (%1$s)</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d razy</item>
+        <item quantity="one">%d raz</item>
+    </plurals>
 </resources>

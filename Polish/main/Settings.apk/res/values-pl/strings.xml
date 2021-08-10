@@ -8956,4 +8956,10 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="stylus_ota_hava_new_version">"Nowa wersja: "</string>
   <string name="stylus_ota_net_error">"Nie udało się sprawdzić dostępności aktualizacji. Połącz się z siecią i spróbuj ponownie."</string>
   <string name="sunlight_mode_summary_new">Dostosuj jasność do mocnego światła z zewnątrz, aby zapobiec przyciemnianiu się ekranu. Na górze ekranu pojawi się mała ikona słońca, gdy światło z zewnątrz jest silne.</string>
+  <string name="enable_local_backup_message_intledition">Włącz tę funkcję, aby móc zapisywać kopie zapasowe na tym urządzeniu i kopiować je na komputer. Włączyć ją?</string>
+  <string name="settings_charging_at_fast_speed">Szybkie ładowanie</string>
+  <string name="settings_charging_at_normal_speed">Ładowanie</string>
+  <string name="settings_charging_at_top_speed">Ładowanie z najwyższą prędkością</string>
+  <string name="settings_charging_fully_charged">Naładowane</string>
+  <string name="settings_charging_not_charging">Nie ładuje</string>
 </resources>

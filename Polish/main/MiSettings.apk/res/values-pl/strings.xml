@@ -864,4 +864,9 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="steady_on_screen_notification_title_pad">Odłóż urządzenie i zrób przerwę</string>
     <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"Tryb skupienia umożliwia wyłącznie korzystanie z Aparatu i wykonywanie połączeń alarmowych. Nie będziesz w stanie wyłączyć tego trybu w trakcie jego trwania."</string>
     <string name="usage_state_focus_mode_warning_message_sim_pad">"Tryb skupienia umożliwia wyłącznie korzystanie z Aparatu i wykonywanie połączeń alarmowych. Nie będziesz w stanie wyłączyć tego trybu w trakcie jego trwania."</string>
+    <string name="desktop_widget_authorization">Dotknij, aby nadać uprawnienia w celu wyświetlenia statystyk</string>
+    <string name="desktop_widget_not_support">"Statystyki Czasu przed ekranem
+nie są tworzone w Drugiej przestrzeni"</string>
+    <string name="desktop_widget_screen_use_time">Czas przed ekranem</string>
+    <string name="usage_app_desktop_widget_limit">Pozostało %s</string>
 </resources>
