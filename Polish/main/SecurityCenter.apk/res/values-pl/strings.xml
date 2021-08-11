@@ -4865,4 +4865,24 @@ drenuje baterię i może być przyczyną przegrzewania"</string>
     <string name="pc_fast_charge_switch_title">Zwiększ prędkość ładowania</string>
     <string name="pc_fast_charge_switch_toast_message">Zmiany zostaną zastosowane przy następnym ładowaniu</string>
     <string name="pc_fast_charge_title">Zwiększ prędkość ładowania</string>
+    <string name="applock_add_account_title_part">Dodaj swoje konto Xiaomi, aby móc zresetować hasło</string>
+    <string name="applock_fingerprint_detect">Użyj odcisku palca</string>
+    <string name="applock_fingerprint_unlock">Użyj odcisku palca</string>
+    <string name="applock_gulide_third_part">Konto zostanie usunięte, gdy się z niego wylogujesz</string>
+    <string name="applock_mixtype_hidepwd_icon">Ukryj</string>
+    <string name="applock_mixtype_showpwd_icon">Pokaż</string>
+    <string name="applock_not_add_account_normal">"Nie dodawaj konta"</string>
+    <string name="blacklist_prefix_add_hint_only_sms">Blokuj wiadomości od numerów z określonymi prefiksami</string>
+    <string name="exit_dialog_homepage_optimise_message_pad">"Wynik wydajności Twojego urządzenia jest niższy niż %d punktów. Zoptymalizować je teraz?"</string>
+    <string name="exit_dialog_release_storage_message_new">Zajęte jest więcej niż %s pamięci urządzenia. Zwolnij je, odinstalowując dawno nieużywane aplikacje.</string>
+    <string name="lockscreen_access_pattern_area">Obszar wzoru</string>
+    <string name="memory_clean_no_need_clean_pad" formatted="false">"Zwolniono %s.
+Twoje urządzenie jest teraz o %s szybsze."</string>
+    <string name="pp_read_phone_info_summary">Dostęp do informacji o karcie SIM</string>
+    <string name="pp_sms_and_contacts">Kontakty i wiadomości</string>
+    <string name="st_summary_blacklist_numbers_international_only_sms">Blokuj wiadomości od określonych numerów i prefiksów</string>
+    <string name="st_summary_blacklist_numbers_only_sms">Blokuj wiadomości od określonych numerów, prefiksów i regionów</string>
+    <string name="st_summary_whitelist_numbers_international_only_sms">Zezwalaj na wiadomości od określonych numerów i prefiksów</string>
+    <string name="st_summary_whitelist_numbers_only_sms">Zezwalaj na wiadomości od określonych numerów, prefiksów i regionów</string>
+    <string name="whitelist_prefix_add_hint_only_sms">Zezwalaj na wiadomości od określonych numerów</string>
 </resources>

@@ -1106,4 +1106,23 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="web_sso_login_fail">Musisz zalogować się ponownie</string>
   <string name="web_sso_login_message">Logowanie…</string>
   <string name="webview_reload">Spróbuj ponownie</string>
+  <string name="micloud_manual_local_storage_low_summary_pad">Zwolnij miejsce i spróbuj ponownie.</string>
+  <string name="micloud_manual_local_storage_low_title_pad">"Nie można zsynchronizować - mało miejsca w pamięci"</string>
+  <string name="micloud_request_permission_content_pad">Aby móc zsynchronizować wydarzenia z kalendarza, kontakty, wiadomości, zdjęcia, filmy i inne elementy, Chmura Xiaomi wymaga uprawnień dostępu do kalendarza, kontaktów, kont, stanu karty SIM, wiadomości, zdjęć i filmów.</string>
+  <string name="micloud_request_permission_content_pad_without_contact_but_sim">Aby móc zsynchronizować wydarzenia z kalendarza, wiadomości, zdjęcia, filmy i inne elementy, Chmura Xiaomi wymaga uprawnień dostępu do kalendarza, kont, stanu karty SIM, wiadomości, zdjęć i filmów.</string>
+  <string name="micloud_request_permission_content_pad_without_sim_but_contact">Aby móc zsynchronizować wydarzenia z kalendarza, kontakty, zdjęcia, filmy i inne elementy, Chmura Xiaomi wymaga uprawnień dostępu do kalendarza, contacts, kont, zdjęć i filmów.</string>
+  <string name="micloud_request_permission_content_pad_without_sim_or_contact">Aby móc zsynchronizować wydarzenia z kalendarza, zdjęcia, filmy i inne elementy, Chmura Xiaomi wymaga uprawnień dostępu do kalendarza, kont, zdjęć i filmów.</string>
+  <string name="micloud_sync_alert_dialog_message_pad">Synchronizuj zdjęcia, notatki i wiele więcej na wszystkich swoich urządzeniach</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync_pad">Wydarzenia z kalendarza i notatki są synchronizowane automatycznie. Aby zsynchronizować więcej elementow, przejdź do ustawień Chmury Xiaomi.</string>
+  <string name="micloud_wipe_data_confirm_title_pad">Niektóre elementy z aplikacji wymienionych poniżej są zsynchronizowane z Chmurą Xiaomi. Możesz usunąć je z tego urządzenia i pozostawić w Chmurze.</string>
+  <string name="micloud_wipe_data_remove_pad">Usuń</string>
+  <string name="micloud_wipe_data_retain_pad">Zachowaj</string>
+  <string name="privacy_dialog_sync_all_purpose_pad">Witaj w Chmurze Xiaomi! Możesz jej użyć do synchronizacji swoich wiadomości, kontaktów, notatek, ustawień Przeglądarki, zdjęć i filmów, nagrań, wydarzeń z kalendarza i elementów z Listy blokowanych na wszystkich swoich urządzeniach.</string>
+  <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Witaj w Chmurze Xiaomi! Możesz jej użyć do synchronizacji swoich wiadomości, notatek, ustawień Przeglądarki, zdjęć i filmów, nagrań, wydarzeń z kalendarza i elementów z Listy blokowanych na wszystkich swoich urządzeniach.</string>
+  <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Witaj w Chmurze Xiaomi! Możesz jej użyć do synchronizacji swoich kontaktów, notatek, ustawień Przeglądarki, zdjęć i filmów, nagrań, wydarzeń z kalendarza i elementów z Listy blokowanych na wszystkich swoich urządzeniach.</string>
+  <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">Witaj w Chmurze Xiaomi! Możesz jej użyć do synchronizacji swoich notatek, ustawień Przeglądarki, zdjęć i filmów, nagrań, wydarzeń z kalendarza i elementów z Listy blokowanych na wszystkich swoich urządzeniach.</string>
+  <string name="sync_dspt_entrance_provision_confirm_content_pad">Możesz użyć Chmury Xiaomi, aby skopiować swoje zdjęcia, wiadomości, notatki i inne elementy. Jest ona darmowa i gotowa do użycia od zaraz.</string>
+  <string name="system_cta_retry_get_permission_btn_pad">Start</string>
+  <string name="system_cta_retry_get_permission_msg_pad">Wymagane uprawnienia</string>
+  <string name="warning_bar_title_cloud_space_full_pad">"Brak miejsca w Chmurze. Nie można zsynchronizować elementów."</string>
 </resources>

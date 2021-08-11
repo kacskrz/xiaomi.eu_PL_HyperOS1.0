@@ -98,7 +98,7 @@
         <item>Błąd wewnętrzny</item>
     </string-array>
     <string-array name="sign_in_dialog_item">
-        <item>Logowanie za pomocą protokołu OAuth Outlooka (IMAP)</item>
+        <item>Outlook dla biznesu (bez kalendarza)</item>
         <item>IMAP (bez kalendarza)</item>
         <item>Exchange (z kalendarzem)</item>
     </string-array>

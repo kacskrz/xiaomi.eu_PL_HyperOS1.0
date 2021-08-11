@@ -2895,4 +2895,6 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="widget_editor_load_fail">"Nie udało się załadować zdjęć"</string>
     <string name="widget_talkback_custom">Galeria. Wybrane zdjęcia.</string>
     <string name="widget_talkback_recommend">Galeria. Wspomnienia.</string>
+    <string name="device_list_all">Wszystkie urządzenia</string>
+    <string name="device_list_more">Więcej</string>
 </resources>

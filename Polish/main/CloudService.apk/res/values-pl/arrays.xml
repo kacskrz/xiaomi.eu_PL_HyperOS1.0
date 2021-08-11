@@ -175,4 +175,27 @@
         <item>Włącz synchronizację</item>
         <item>Notatki;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Synchronizuj swoje zdjęcia, notatki, nagrania i więcej</item>
+        <item>"Zablokuj urządzenie w razie jego utraty"</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Synchronizuj dane aplikacji</item>
+        <item>Znajdź urządzenie</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Usunięte elementy w Chmurze Xiaomi</item>
+        <item>Przywróć zdjęcia, notatki i inne elementy</item>
+        <item>Kosz;Usunięte elementy;Przywróć;Usługi Chmury;Chmura;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>Synchronizacja Panelu sterowania</item>
+        <item>Włącz synchronizację</item>
+        <item>Panel sterowania;Chmura;Chmura Xiaomi;Synchronizuj;Usługi Chmury</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Chmura Xiaomi. Wszystkie usługi w jednym miejscu.</item>
+        <item>Dostęp do zdjęć, notatek i urządzeń z każdego miejsca</item>
+        <item>Brak miejsca;Członkostwo;Przestrzeń;Miejsce w Chmurze;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi;Kosz;Usunięte elementy;Panel sterowania</item>
+    </string-array>
 </resources>

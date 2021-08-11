@@ -8963,4 +8963,54 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="settings_charging_fully_charged">Naładowane</string>
   <string name="settings_charging_not_charging">Nie ładuje</string>
   <string name="wifi_connected_low_quality">Niska jakość</string>
+  <string name="accessibility_menu_description_pad">"Menu ułatwień dostępu dostarcza wygodne skróty umożliwiające Ci kontrolę swojego urządzenia.
+ 
+Włącz tę funkcję i dotknij przycisku Ułatwień dostępu na dole ekranu, aby otworzyć menu."</string>
+  <string name="accessibility_menu_summary_pad">Kontroluj urządzenie wygodnymi skrótami</string>
+  <string name="auto_clean_description_pad">"O tej funkcji
+- Jeśli uznasz, że Twój głośnik jest blokowany przez pył, uruchom tę funkcję raz albo dwa razy.
+- Jeśli głośnik jest blokowany bardziej, uruchom tę funkcję od %1$d do %2$d razy, potrząsając jednoczesnie urządzeniem z głośnikiem skierowanym ku dołowi."</string>
+  <string name="clear_data_alert_info_pad">Wszystkie kopie zapasowe przechowywane na tym urządzeniu zostaną permanentnie usunięte. Zanim przejdziesz dalej, skopiuj najważniejsze rzeczy na swój komputer lub do Chmury Xiaomi.</string>
+  <string name="eye_gaze_summary">"Urządzenie nie zablokuje się, gdy wykryje, że patrzysz na ekran"</string>
+  <string name="eye_gaze_title">Wykryj spojrzenie</string>
+  <string name="feedback_settings_new">Opinie</string>
+  <string name="global_stylus_summary">"Konwertuj odręczne notatki na tekst wszędzie tam, gdzie jest to wspierane"</string>
+  <string name="global_stylus_title">Pisanie odręczne</string>
+  <string name="key_handwriting_input_summary">Edytuj tekst za pomocą rysika. Akcje, które możesz wykonywać, to usuwanie, wybieranie, wklejanie i rozpoczynanie nowego akapitu.</string>
+  <string name="key_handwriting_input_title">Pisanie odręczne</string>
+  <string name="keyboard_back_light">Podświetlenie klawiatury</string>
+  <string name="model_number_pad">Urządzenie</string>
+  <string name="natural_scroll">Naturalne przewijanie</string>
+  <string name="privacy_lab_settings">Laboratorium Ochrony prywatności</string>
+  <string name="reset_confirm_directory_pad">"Uwaga: Przed przywracaniem elementów sprawdź, czy na urządzeniu istnieje folder \"MIUI-Backup-AllBackup\". Jeśli nie, to go utwórz."</string>
+  <string name="search_personalize_title">Tapeta i personalizacja;Tapeta;Czcionki;Dzwonki;Ikony</string>
+  <string name="settings_keyboard_title">Klawiatura</string>
+  <string name="settings_keyboard_warning">"Nie podłączono klawiatury"</string>
+  <string name="stylus_btn_continue">Dalej</string>
+  <string name="stylus_btn_learn">Tutorial</string>
+  <string name="stylus_btn_quick_write">Pisanie</string>
+  <string name="stylus_btn_screen_shot">Zrzut ekranu</string>
+  <string name="stylus_btn_skip">Pomiń</string>
+  <string name="stylus_connect">Dotknij, aby połączyć</string>
+  <string name="stylus_function_and_action">Funkcje</string>
+  <string name="stylus_keyboard_settings_title">Rysik i klawiatura</string>
+  <string name="stylus_language_summary">Rozpoznawaj cyfry i odręczny tekst w języku angielskim i innym wybranym przez Ciebie</string>
+  <string name="stylus_language_title">Język</string>
+  <string name="stylus_not_connect_message">"Nie wykryto rysika"</string>
+  <string name="stylus_primary_key">Pierwszy przycisk</string>
+  <string name="stylus_quick_write">Napisz</string>
+  <string name="stylus_quick_write_summary">Przytrzymaj przycisk pisania, aby pisać bądź rysować.</string>
+  <string name="stylus_schematic_diagram">Demonstracja</string>
+  <string name="stylus_screen_shot">Wykonaj zrzut ekranu</string>
+  <string name="stylus_screen_shot_summary">Przytrzymaj przycisk zrzutu ekranu, aby wykonać i edytować zrzut ekranu.</string>
+  <string name="stylus_settings_title">Rysik</string>
+  <string name="stylus_shortcut_actions_summary">Przytrzymaj pierwszy przycisk, aby pisać. Przytrzymaj drugi przycisk, aby wykonać zrzut ekranu.</string>
+  <string name="stylus_shortcut_actions_title">Szybkie akcje</string>
+  <string name="stylus_shortcut_notes">Naciśnij pierwszy przycisk i dotknij ekranu, aby zacząć pisać</string>
+  <string name="stylus_shortcut_screenshot">Naciśnij drugi przycisk i dotknij ekranu, aby wykonać zrzut ekranu</string>
+  <string name="stylus_shortcut_title_note">Pisanie</string>
+  <string name="stylus_shortcut_title_screenshot">Zrzut ekranu</string>
+  <string name="stylus_success">Gotowe</string>
+  <string name="stylus_vice_key">Drugi przycisk</string>
+  <string name="stylus_welcome">Zobacz Xiaomi Smart Pen</string>
 </resources>

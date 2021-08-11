@@ -2807,4 +2807,15 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="fiveg_sa_vice_switch_title">Tryb SA na drugiej karcie SIM</string>
     <string name="keyguard_charging_double_fast_and_level_tip">Zwiększenie prędkości ładowania %s</string>
     <string name="wifi_connected_low_quality">Niska jakość</string>
+    <string name="miui_keyboard_shortcut_group_center_control">Centrum funkcji</string>
+    <string name="miui_keyboard_shortcut_group_lockscreen">Ekran blokady</string>
+    <string name="miui_keyboard_shortcut_group_notification">Panel powiadomień</string>
+    <string name="miui_keyboard_shortcut_group_system_dock">Pokaż dock z aplikacjami</string>
+    <string name="miui_keyboard_shortcut_group_system_home">Przejdź do pulpitu</string>
+    <string name="miui_keyboard_shortcut_group_system_recent">Otwórz menu ostatnio otwartych aplikacji</string>
+    <string name="miui_keyboard_shortcut_group_system_region_screenshot">Częściowy zrzut ekranu</string>
+    <string name="miui_keyboard_shortcut_group_system_screenshot">Zrzut ekranu</string>
+    <string name="miui_keyboard_shortcut_group_system_search">Szukaj</string>
+    <string name="miui_keyboard_shortcut_group_system_toggle_recent_app_left">Przełącz do aplikacji po lewej</string>
+    <string name="miui_keyboard_shortcut_group_system_toggle_recent_app_right">Przełącz do aplikacji po prawej</string>
 </resources>

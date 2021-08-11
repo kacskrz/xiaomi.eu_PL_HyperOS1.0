@@ -704,4 +704,11 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="dialog_airplane_mode_button">Ustawienia</string>
     <string name="dialog_airplane_mode_content">"Przenoszenie danych nie działa, gdy włączony jest tryb samolotowy. Wyłącz go najpierw w Ustawieniach."</string>
     <string name="dialog_airplane_mode_title">Wyłącz tryb samolotowy</string>
+    <string name="cancel_tranfer">Anuluj</string>
+    <string name="manual_connection_hint">Dotknij opcję \"Połącz się ręcznie\" na starym urządzeniu.</string>
+    <string name="receiver">Otrzymaj</string>
+    <string name="sender">Wysyłaj</string>
+    <string name="trans_show_qr_code_label_for_pad">Otwórz Przenoszenie danych na starym urządzeniu</string>
+    <string name="trans_sync_transfer_data_list_hint">Chwileczkę…</string>
+    <string name="trans_sync_transfer_data_list_summary_for_pad">Wybierz elementy na starym urządzeniu i dotknij opcji \"Wyślij\".</string>
 </resources>
