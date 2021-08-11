@@ -4852,4 +4852,17 @@ drenuje baterię i może być przyczyną przegrzewania"</string>
     <string name="behavior_widget_read_write_external_storage">Dostęp do plików</string>
     <string name="gtb_guide_gtb_game_effected">Zastosowano</string>
     <string name="gtb_guide_gtb_game_new">Nowe</string>
+    <string name="pc_fast_charge_notifi_action_text_off">Zatrzymaj</string>
+    <string name="pc_fast_charge_notifi_action_text_on">Zwiększ</string>
+    <string name="pc_fast_charge_notifi_power_threshold_title">Ustaw poziom baterii dla przypomnień</string>
+    <string name="pc_fast_charge_notifi_summary">Ładowanie do %s razy szybciej niż zwykle…</string>
+    <string name="pc_fast_charge_notifi_summary_on">Ta funkcja może zwiększyć temperaturę urządzenia</string>
+    <string name="pc_fast_charge_notifi_switch_summary">Powiadamiaj o zwiększeniu prędkości ładowania, gdy podłączona jest dołączona ładowarka o mocy %dW, a poziom baterii znajduje się poniżej ustawionego poziomu</string>
+    <string name="pc_fast_charge_notifi_switch_title">Informuj o przyspieszonym ładowaniu</string>
+    <string name="pc_fast_charge_notifi_title">Ładowanie %dW</string>
+    <string name="pc_fast_charge_notifi_title_on">Zatrzymaj przyspieszenie ładowania</string>
+    <string name="pc_fast_charge_switch_summary">"Włącz tę funkcję, aby przyspieszyć proces ładowania. MIUI będzie traktować prędkość ładowania priorytetowo, jednocześnie zapewniając bezpieczeństwo urządzenia. Im mniejszy jest poziom baterii, tym szybciej się ona naładuje. Ta funkcja może zwiększyć temperaturę urządzenia."</string>
+    <string name="pc_fast_charge_switch_title">Zwiększ prędkość ładowania</string>
+    <string name="pc_fast_charge_switch_toast_message">Zmiany zostaną zastosowane przy następnym ładowaniu</string>
+    <string name="pc_fast_charge_title">Zwiększ prędkość ładowania</string>
 </resources>

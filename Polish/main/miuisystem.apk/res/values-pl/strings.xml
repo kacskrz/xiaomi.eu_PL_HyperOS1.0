@@ -263,4 +263,9 @@ dd.MM"</string>
   <string name="stoneskimming_preview">Światła schodów</string>
   <string name="arcticanimals_preview">Arktyka</string>
   <string name="wallpaper_group_pc_mode_title">Tapety trybu PC</string>
+  <string name="wallpaper_group_concerto_title">Koncert</string>
+  <string name="wallpaper_group_molten_glass_title">Stopione szkło</string>
+  <string name="wallpaper_group_moon_title">Księżyc</string>
+  <string name="wallpaper_group_vibrancy_subtitle">Piękno nauki</string>
+  <string name="wallpaper_group_vibrancy_title">Żywiołowość</string>
 </resources>

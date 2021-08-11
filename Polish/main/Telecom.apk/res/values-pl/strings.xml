@@ -470,4 +470,17 @@ Magazyn danych logowania może nie zostać włączony"</string>
   <string name="wednesday_shortest">Śr</string>
   <string name="message_no_voice_capability">"Nie można wykonywać połączeń na tym urządzeniu"</string>
   <string name="notification_channel_missed_call_DND">Godziny ciszy</string>
+  <string name="wifi_connected_low_quality">Niska jakość</string>
+  <string name="bluetooth_bc_profile_summary_connected">Połączono z serwerem BA</string>
+  <string name="bluetooth_bc_profile_summary_use_for">Użyj do BA</string>
+  <string name="bluetooth_profile_bc">Profil BC</string>
+  <string name="bluetooth_profile_broadcast">Broadcast</string>
+  <string name="bluetooth_profile_vcp">Kontrola głośności</string>
+  <string name="bluetooth_talkback_group">Grupuj urządzenia</string>
+  <string name="power_charging_limited">%1$s - Optymalizacja dla zdrowia baterii</string>
+  <string name="radio_info_dcnr_restricted">Ograniczone DCNR:</string>
+  <string name="radio_info_endc_available">Dostępne EN-DC:</string>
+  <string name="radio_info_nr_available">Dostępne NR:</string>
+  <string name="radio_info_nr_frequency">Częstotliwość NR:</string>
+  <string name="radio_info_nr_state">Stan NR:</string>
 </resources>

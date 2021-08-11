@@ -108,4 +108,5 @@
   <string name="work_profile_setup_later_message">Profil do pracy możesz skonfigurować później w aplikacji do zarządzania urządzeniami używanej przez organizację.</string>
   <string name="work_profile_setup_later_title">Zatrzymać konfigurowanie profilu?</string>
   <string name="work_profile_setup_stop">ZATRZYMAJ</string>
+  <string name="car_ui_scrolling_limited_message">Przewijanie ograniczone w trakcie jazdy</string>
 </resources>

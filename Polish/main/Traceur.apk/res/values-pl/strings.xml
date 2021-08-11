@@ -27,4 +27,17 @@
     <string name="system_trace_sensitive_data">Pliki śledzenia systemu mogą zawierać poufne dane dotyczące systemu i aplikacji (np. o użyciu aplikacji). Śledzenie systemu i aplikacji udostępniaj tylko zaufanym osobom.</string>
     <string name="share">Udostępnij</string>
     <string name="dont_show_again">Nie pokazuj ponownie</string>
+    <string name="wifi_connected_low_quality">Niska jakość</string>
+    <string name="bluetooth_bc_profile_summary_connected">Połączono z serwerem BA</string>
+    <string name="bluetooth_bc_profile_summary_use_for">Użyj do BA</string>
+    <string name="bluetooth_profile_bc">Profil BC</string>
+    <string name="bluetooth_profile_broadcast">Broadcast</string>
+    <string name="bluetooth_profile_vcp">Kontrola głośności</string>
+    <string name="bluetooth_talkback_group">Grupuj urządzenia</string>
+    <string name="power_charging_limited">%1$s - Optymalizacja dla zdrowia baterii</string>
+    <string name="radio_info_dcnr_restricted">Ograniczone DCNR:</string>
+    <string name="radio_info_endc_available">Dostępne EN-DC:</string>
+    <string name="radio_info_nr_available">Dostępne NR:</string>
+    <string name="radio_info_nr_frequency">Częstotliwość NR:</string>
+    <string name="radio_info_nr_state">Stan NR:</string>
 </resources>
