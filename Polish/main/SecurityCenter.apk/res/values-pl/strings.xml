@@ -4869,12 +4869,9 @@ drenuje baterię i może być przyczyną przegrzewania"</string>
     <string name="applock_fingerprint_detect">Użyj odcisku palca</string>
     <string name="applock_fingerprint_unlock">Użyj odcisku palca</string>
     <string name="applock_gulide_third_part">Konto zostanie usunięte, gdy się z niego wylogujesz</string>
-    <string name="applock_mixtype_hidepwd_icon">Ukryj</string>
-    <string name="applock_mixtype_showpwd_icon">Pokaż</string>
     <string name="applock_not_add_account_normal">"Nie dodawaj konta"</string>
     <string name="blacklist_prefix_add_hint_only_sms">Blokuj wiadomości od numerów z określonymi prefiksami</string>
     <string name="exit_dialog_homepage_optimise_message_pad">"Wynik wydajności Twojego urządzenia jest niższy niż %d punktów. Zoptymalizować je teraz?"</string>
-    <string name="exit_dialog_release_storage_message_new">Zajęte jest więcej niż %s pamięci urządzenia. Zwolnij je, odinstalowując dawno nieużywane aplikacje.</string>
     <string name="lockscreen_access_pattern_area">Obszar wzoru</string>
     <string name="memory_clean_no_need_clean_pad" formatted="false">"Zwolniono %s.
 Twoje urządzenie jest teraz o %s szybsze."</string>

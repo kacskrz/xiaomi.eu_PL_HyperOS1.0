@@ -717,7 +717,6 @@
   <string name="navigation_guide_dock_title_pad">Pokaż dock z aplikacjami</string>
   <string name="navigation_guide_dock_title_spec_pad">Pokaż dock z aplikacjami w aplikacji</string>
   <string name="navigation_guide_dock_title_spec_with_quotation_pad">Pokaż dock z aplikacjami w aplikacji</string>
-  <string name="navigation_guide_finish_text">OK</string>
   <string name="navigation_guide_home_summary_spec_pad">Przesuń w górę od dolnej krawędzi ekranu</string>
   <string name="navigation_guide_home_title_spec_with_quotation_pad">Przejście do pulpitu</string>
   <string name="navigation_guide_next_spec_pad">Dalej</string>
