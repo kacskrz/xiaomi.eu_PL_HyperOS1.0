@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_info_label">Informacje o tablecie</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">Wkrótce tablet może się wyłączyć</string>
+    <string name="power_remaining_duration_shutdown_imminent">Tablet może się wkrótce wyłączyć (%1$s)</string>
+    <string name="puk_unlocked">Karta SIM została odblokowana. Odblokowywanie tabletu...</string>
+</resources>

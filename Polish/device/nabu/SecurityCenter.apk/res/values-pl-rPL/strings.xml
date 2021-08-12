@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_desc_standby">Użycie baterii przy nieaktywnym tablecie</string>
+    <string name="low_temperature_warning_message">"Wygląda na to, że jest zbyt zimno. Twój tablet może wyłączyć się szybciej, niż przewidujesz. Zapisz wszystkie ważne zmiany."</string>
+    <string name="power_idle">Tablet w gotowości</string>
+</resources>

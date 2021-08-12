@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="global_action_lock_message">Odblokuj tablet, aby wyświetlić więcej opcji</string>
+    <string name="keyguard_missing_sim_message">Brak karty SIM w tablecie.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile">Po raz %1$d próbowałeś nieprawidłowo odblokować tablet. Po kolejnych %2$d nieudanych próbach profil do pracy zostanie usunięty, co spowoduje skasowanie wszystkich danych tego profilu.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user">Po raz %1$d próbowałeś nieprawidłowo odblokować tablet. Po kolejnych %2$d nieudanych próbach użytkownik zostanie usunięty, co spowoduje skasowanie wszystkich danych użytkownika.</string>
+    <string name="kg_failed_attempts_almost_at_login">"Po raz %1$d nieprawidłowo narysowałeś wzór odblokowania. Po kolejnych %2$d nieudanych próbach konieczne będzie odblokowanie tabletu przy użyciu konta e-mail.
+
+ Spróbuj ponownie za %3$d s."</string>
+    <string name="kg_failed_attempts_almost_at_wipe">Po raz %1$d próbowałeś nieprawidłowo odblokować tablet. Po kolejnych %2$d nieudanych próbach tablet zostanie zresetowany, co spowoduje skasowanie wszystkich jego danych.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">Po raz %d próbowałeś nieprawidłowo odblokować tablet. Profil do pracy zostanie usunięty, co spowoduje skasowanie wszystkich danych tego profilu.</string>
+    <string name="kg_failed_attempts_now_erasing_user">Po raz %d próbowałeś nieprawidłowo odblokować tablet. Użytkownik zostanie usunięty, co spowoduje skasowanie wszystkich danych użytkownika.</string>
+    <string name="kg_failed_attempts_now_wiping">Po raz %d próbowałeś nieprawidłowo odblokować tablet. Tablet zostanie zresetowany, co spowoduje skasowanie wszystkich jego danych.</string>
+</resources>

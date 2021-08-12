@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_start_title">Tablet się uruchamia…</string>
+    <string name="android_upgrading_title">Tablet jest uaktualniany…</string>
+    <string name="battery_saver_charged_notification_summary">Tablet jest wystarczająco naładowany. Funkcje nie są już ograniczone.</string>
+    <string name="default_audio_route_name">Tablet</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s chce włączyć Czytanie dotykiem. Gdy ta funkcja jest włączona, słyszysz i widzisz opisy elementów, które są pod Twoim palcem, oraz możesz obsługiwać tablet gestami.</string>
+    <string name="global_actions">Opcje tabletu</string>
+    <string name="kg_failed_attempts_almost_at_login">"Po raz %1$d nieprawidłowo narysowałeś wzór odblokowania. Po kolejnych %2$d nieudanych próbach konieczne będzie odblokowanie tabletu przy użyciu danych logowania na konto Google.
+
+ Spróbuj ponownie za %3$d s."</string>
+    <string name="kg_failed_attempts_almost_at_wipe">Po raz %1$d próbowałeś nieprawidłowo odblokować tablet. Po kolejnych %2$d nieudanych próbach tablet zostanie zresetowany do ustawień fabrycznych, a wszystkie dane użytkownika zostaną utracone.</string>
+    <string name="kg_failed_attempts_now_wiping">Po raz %d próbowałeś nieprawidłowo odblokować tablet. Tablet zostanie teraz zresetowany do ustawień fabrycznych.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe">Próbowano %1$d razy nieprawidłowo odblokować tablet. Po kolejnych %2$d nieudanych próbach tablet zostanie zresetowany do ustawień fabrycznych, a wszystkie dane użytkownika zostaną utracone.</string>
+    <string name="lockscreen_failed_attempts_almost_glogin">"Wzór odblokowania został %1$d razy narysowany nieprawidłowo. Po %2$d kolejnych próbach zakończonych niepowodzeniem konieczne będzie odblokowanie tabletu przy użyciu danych logowania na konto Google.
+
+ Spróbuj ponownie za %3$d s."</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Próbowano %d razy nieprawidłowo odblokować tablet. Tablet zostanie teraz zresetowany do ustawień fabrycznych.</string>
+    <string name="lockscreen_missing_sim_message">Brak karty SIM w tablecie.</string>
+    <string name="low_memory">Pamięć tabletu jest pełna. Usuń niektóre pliki, aby zwolnić miejsce.</string>
+    <string name="permdesc_bluetooth">Pozwala aplikacji na dostęp do konfiguracji Bluetooth na tablecie oraz na nawiązywanie i akceptowanie połączeń ze sparowanych urządzeń.</string>
+    <string name="permdesc_bluetoothAdmin">Pozwala aplikacji na konfigurowanie lokalnego tabletu z funkcją Bluetooth oraz na wykrywanie urządzeń zdalnych i parowanie z nimi.</string>
+    <string name="permdesc_broadcastSticky">Pozwala aplikacji na wysyłanie transmisji trwałych, które pozostają aktywne po zakończeniu połączenia. Nadmierne używanie może spowolnić lub zdestabilizować tablet przez wymuszenie zbyt dużego użycia pamięci.</string>
+    <string name="permdesc_changeWifiMulticastState">Pozwala aplikacji na odbieranie pakietów wysyłanych przez sieć Wi-Fi do wszystkich urządzeń, a nie tylko do Twojego tabletu, przy użyciu adresów połączeń grupowych. Powoduje większe zapotrzebowanie na energię niż w trybie innym niż grupowy.</string>
+    <string name="permdesc_changeWimaxState">Pozwala aplikacji na nawiązywanie i kończenie połączeń z sieciami WiMAX w tablecie.</string>
+    <string name="permdesc_getAccounts">Pozwala aplikacji na uzyskanie listy kont zapisanych w tablecie. Może ona obejmować wszystkie konta utworzone przez zainstalowane aplikacje.</string>
+    <string name="permdesc_persistentActivity">Pozwala aplikacji na trwałe zapisywanie swoich fragmentów w pamięci. Może to zmniejszyć ilość pamięci dostępnej dla innych aplikacji i spowolnić działanie tabletu.</string>
+    <string name="permdesc_readCalendar">"Pozwala aplikacji na odczytywanie wszystkich wydarzeń w kalendarzu zapisanych na tablecie, w tym pochodzących od znajomych i współpracowników. Aplikacja z takim uprawnieniem może udostępniać i zapisywać dane kalendarza niezależnie od ich poufności."</string>
+    <string name="permdesc_readContacts">Pozwala aplikacji na odczyt danych o kontaktach zapisanych na tablecie, w tym informacji o częstotliwości rozmawiania, przesyłania e-maili i komunikowania się w inny sposób z poszczególnymi osobami. Aplikacje z tym uprawnieniem mogą zapisywać dane kontaktów, a złośliwe aplikacje mogą je udostępniać bez Twojej wiedzy.</string>
+    <string name="permdesc_readSms">Pozwala aplikacji na odczyt SMS-ów zapisanych na tablecie lub na karcie SIM. Aplikacja z tym uprawnieniem może czytać wszystkie SMS-y niezależnie od ich treści lub poufności.</string>
+    <string name="permdesc_receiveBootCompleted">Pozwala aplikacji na uruchamianie się natychmiast po zakończeniu rozruchu systemu. Może to spowodować wydłużenie czasu uruchamiania tabletu oraz spowolnienie jego pracy przez zawsze działającą aplikację.</string>
+    <string name="permdesc_setTimeZone">Pozwala aplikacji na zmianę ustawienia strefy czasowej w tablecie.</string>
+    <string name="permdesc_transmitIr">Zezwala aplikacji na używanie nadajnika podczerwieni w tablecie.</string>
+    <string name="permdesc_wakeLock">Pozwala aplikacji na zapobieganie przechodzeniu tabletu w tryb uśpienia.</string>
+    <string name="permdesc_writeCalendar">Pozwala aplikacji na dodawanie, usuwanie i zmienianie zdarzeń, które możesz modyfikować na swoim tablecie, w tym pochodzących od znajomych i współpracowników. Aplikacja z tym uprawnieniem może wysyłać wiadomości, które wyglądają jak pochodzące od właścicieli kalendarza, a także modyfikować zdarzenia bez wiedzy właścicieli.</string>
+    <string name="permdesc_writeCallLog">Zezwala aplikacji na modyfikowanie rejestru połączeń tabletu, w tym danych o połączeniach przychodzących i wychodzących. Złośliwe aplikacje mogą wykorzystać tę możliwość, by wyczyścić lub zmodyfikować rejestr połączeń.</string>
+    <string name="permdesc_writeContacts">Pozwala aplikacji na modyfikowanie danych o kontaktach zapisanych na tablecie, w tym informacji o częstotliwości rozmawiania, przesyłania e-maili i komunikowania się w inny sposób z poszczególnymi kontaktami. Aplikacje z tym uprawnieniem mogą usuwać dane kontaktów.</string>
+    <string name="permdesc_writeHistoryBookmarks">Pozwala aplikacji na modyfikowanie historii i zakładek przeglądarki zapisanych na tablecie. Aplikacja będzie mogła usunąć lub zmodyfikować dane przeglądarki. Uwaga: to uprawnienie może nie być egzekwowane przez przeglądarki innych firm oraz inne aplikacje z możliwością przeglądania internetu.</string>
+    <string name="permlab_wakeLock">zapobieganie przejściu tabletu w stan uśpienia</string>
+    <string name="policydesc_watchLogin">Przy odblokowywaniu ekranu monitoruje, ile razy wpisano nieprawidłowe hasło, i blokuje tablet lub usuwa z niego wszystkie dane, jeśli nieprawidłowe hasło podano zbyt wiele razy</string>
+    <string name="policydesc_watchLogin_secondaryUser">Monitorowanie, ile razy wpisano błędne hasło podczas odblokowywania ekranu, oraz blokowanie tabletu albo kasowanie wszystkich danych tego użytkownika, gdy zbyt wiele razy wpisano błędne hasło.</string>
+    <string name="power_dialog">Opcje tabletu</string>
+    <string name="shutdown_confirm">Tablet zostanie wyłączony</string>
+</resources>

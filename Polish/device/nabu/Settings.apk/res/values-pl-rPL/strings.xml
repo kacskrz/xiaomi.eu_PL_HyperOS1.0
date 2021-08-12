@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_settings">Informacje o tablecie</string>
+    <string name="accelerometer_summary_off">Automatycznie przełącz orientację przy obracaniu tabletu</string>
+    <string name="accelerometer_summary_on">Automatycznie przełącz orientację przy obracaniu tabletu</string>
+    <string name="ambient_display_pickup_summary">Aby sprawdzić godzinę, ikony powiadomień i inne informacje, podnieś tablet.</string>
+    <string name="ambient_display_pickup_title">Podnieś, by sprawdzić tablet</string>
+    <string name="ambient_display_tap_screen_title">Dotknij, by sprawdzić tablet</string>
+    <string name="ambient_display_title">Dotknij dwukrotnie, aby sprawdzić tablet</string>
+    <string name="battery_desc_standby">Użycie baterii przy nieaktywnym tablecie</string>
+    <string name="battery_saver_sticky_description_new">Oszczędzanie baterii wyłączy się, gdy poziom naładowania tabletu wyniesie %1$s</string>
+    <string name="battery_tip_dialog_message">"Tablet był wykorzystywany intensywniej niż zwykle. Bateria może rozładować się szybciej.
+
+Aplikacje najbardziej wyczerpujące baterię:"</string>
+    <string name="battery_tip_dialog_summary_message">"Twoje aplikacje używają normalnej ilości baterii. Jeśli aplikacje zużywają zbyt dużo energii, tablet zasugeruje działania, które możesz podjąć.
+
+Zawsze możesz włączyć Oszczędzanie baterii, jeśli masz mało baterii."</string>
+    <string name="battery_tip_high_usage_title">Tablet używany częściej niż zwykle</string>
+    <string name="battery_tip_summary_summary">Tablet ma typowe użycie baterii w tle</string>
+    <string name="bluetooth_ask_discovery">%1$s chce ustawić tablet jako widoczny dla innych urządzeń Bluetooth przez %2$d s.</string>
+    <string name="bluetooth_ask_discovery_no_name">Aplikacja chce ustawić tablet jako widoczny dla innych urządzeń Bluetooth przez %1$d s.</string>
+    <string name="bluetooth_ask_enablement_and_discovery">Aplikacja %1$s chce włączyć Bluetooth i ustawić tablet jako wykrywalny dla innych urządzeń przez %2$d s.</string>
+    <string name="bluetooth_ask_enablement_and_discovery_no_name">Aplikacja chce włączyć Bluetooth i ustawić tablet jako widoczny dla innych urządzeń przez %1$d s.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">Aplikacja %1$s chce włączyć Bluetooth i ustawić Twój tablet jako wykrywalny dla innych urządzeń. Później możesz to zmienić w ustawieniach Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Aplikacja chce włączyć Bluetooth i ustawić Twój tablet jako widoczny dla innych urządzeń. Później możesz to zmienić w ustawieniach Bluetooth.</string>
+    <string name="bluetooth_ask_lasting_discovery">Aplikacja %1$s chce ustawić Twój tablet jako wykrywalny dla innych urządzeń Bluetooth. Później możesz to zmienić w ustawieniach Bluetooth.</string>
+    <string name="bluetooth_ask_lasting_discovery_no_name">Aplikacja chce ustawić Twój tablet jako wykrywalny dla innych urządzeń Bluetooth. Później możesz to zmienić w ustawieniach Bluetooth.</string>
+    <string name="bluetooth_disconnect_pan_nap_profile">Urządzenie %1$s nie będzie korzystać z połączenia internetowego tego tabletu.</string>
+    <string name="bluetooth_footer_mac_message">"Adres Bluetooth tabletu: %1$s"</string>
+    <string name="bluetooth_pref_summary">Zezwól tabletowi na łączenie się z urządzeniami Bluetooth w pobliżu</string>
+    <string name="bluetooth_tethering_available_subtext">Udostępnianie połączenia internetowego w tablecie</string>
+    <string name="bluetooth_tethering_subtext">Udostępniaj połączenie internetowe przez Bluetooth</string>
+    <string name="crypt_keeper_button_text">Zaszyfruj tablet</string>
+    <string name="crypt_keeper_data_corrupt_summary">"Wpisane hasło jest prawidłowe, ale Twoje dane są uszkodzone. 
+
+Aby móc korzystać z tabletu, musisz zresetować go do ustawień fabrycznych. Następnie podczas konfigurowania urządzenia możesz przywrócić wszystkie dane, których kopię zapasową masz na koncie Google."</string>
+    <string name="crypt_keeper_desc">"Możesz zaszyfrować swoje konta, ustawienia, pobrane aplikacje wraz z danymi oraz pliki multimedialne i inne. Jeśli korzystasz z szyfrowania tabletu i masz na nim ustawione blokowanie ekranu (wykorzystujesz do tego wzór, kod PIN lub hasło), po każdym uruchomieniu urządzenia konieczne będzie odblokowanie ekranu, by odszyfrować dane. Jedynym innym sposobem odszyfrowania tabletu jest przywrócenie danych fabrycznych, co powoduje wymazanie wszystkich danych.
+
+Szyfrowanie może potrwać godzinę lub dłużej. Rozpocznij, gdy bateria jest w pełni naładowana i nie odłączaj urządzenia od zasilania do chwili ukończenia szyfrowania. Jeśli proces zostanie przerwany, utracisz część lub nawet wszystkie swoje dane."</string>
+    <string name="crypt_keeper_final_desc">Operacja szyfrowania jest nieodwracalna, a jej przerwanie grozi utratą danych. Szyfrowanie trwa co najmniej godzinę, a tablet zostanie w tym czasie kilkakrotnie uruchomiony ponownie.</string>
+    <string name="crypt_keeper_force_power_cycle">Aby odblokować tablet, wyłącz go i włącz ponownie.</string>
+    <string name="crypt_keeper_setup_time_remaining">Poczekaj, aż tablet zostanie zaszyfrowany. Pozostały czas: ^1</string>
+    <string name="data_usage_limit_dialog_mobile">"Tablet wyłączy mobilną transmisję danych po osiągnięciu ustawionego limitu.
+
+Tablet może obliczać ilość przesłanych danych inaczej niż operator sieci komórkowej, więc najlepiej ustaw zaniżony limit."</string>
+    <string name="data_usage_total_during_range_mobile">%2$s: wykorzystane %1$s wg licznika w tablecie. Rozliczenie operatora może się różnić.</string>
+    <string name="device_status_summary">Stan baterii, sieci itd.</string>
+    <string name="dock_audio_summary_none">Tablet niezadokowany</string>
+    <string name="dock_not_found_text">Przed skonfigurowaniem dźwięku stacji dokującej musisz zadokować tablet.</string>
+    <string name="dock_sounds_enable_summary_off">Nie odtwarzaj dźwięku podczas umieszczania tabletu w podstawce i wyjmowania go</string>
+    <string name="dock_sounds_enable_summary_on">Odtwarzaj dźwięk podczas umieszczania tabletu w podstawce i wyjmowania go</string>
+    <string name="encryption_and_credential_settings_summary">Tablet zaszyfrowany</string>
+    <string name="face_lock_screen_setup_skip_dialog_text">Jeśli zabezpieczysz tablet blokadą ekranu i go zgubisz lub utracisz, nikt nie będzie mógł go użyć. Blokada ekranu jest również konieczna, by skonfigurować rozpoznawanie twarzy. Aby wrócić, kliknij Anuluj.</string>
+    <string name="fingerprint_lock_screen_setup_skip_dialog_text">Zabezpiecz tablet blokadą ekranu, aby nikt nie mógł go używać, gdy zostanie zgubiony lub skradziony. Musisz również ustawić blokadę ekranu, by skonfigurować odcisk palca. Kliknij Anuluj, a następnie ustaw kod PIN, wzór lub hasło.</string>
+    <string name="fingerprint_swipe_for_notifications_summary">Aby sprawdzić powiadomienia, przesuń palcem w dół na czytniku linii papilarnych z tyłu tabletu.</string>
+    <string name="gesture_preference_summary">Sterowanie tabletem za pomocą krótkich gestów</string>
+    <string name="gxzw_add_fingerprint_title">Dotknij przycisku Zasilania, aby dodać odcisk palca</string>
+    <string name="install_all_warning">Twój tablet i Twoje dane są bardziej narażone na ataki aplikacji z nieznanych źródeł. Akceptujesz fakt, że ponosisz wyłączną odpowiedzialność za wszelkie możliwe szkody w tablecie i utratę danych w wyniku korzystania z tych aplikacji.</string>
+    <string name="location_street_level">Zezwalaj aplikacjom na określanie mojej lokalizacji przez GPS tabletu</string>
+    <string name="lock_screen_intro_skip_dialog_text">Funkcje ochrony urządzenia nie zostaną włączone. Nie będzie można zablokować innym osobom możliwości używania tego tabletu w przypadku jego zgubienia lub kradzieży.</string>
+    <string name="lock_screen_intro_skip_dialog_text_frp">Funkcje ochrony urządzenia nie zostaną włączone. Nie będzie można zablokować innym osobom możliwości używania tego tabletu w przypadku jego zgubienia, kradzieży lub zresetowania.</string>
+    <string name="master_clear_desc">"Powrót do ustawień fabrycznych spowoduje wymazanie wszystkich danych z pamięci wewnętrznej tabletu, w tym:
+
+- Dane konta Google
+- Dane i ustawienia systemu oraz aplikacji
+- Pobrane aplikacje"</string>
+    <string name="media_output_summary">Tablet</string>
+    <string name="move_app_to_internal">Przenieś na tablet</string>
+    <string name="no_5g_in_dsds_text">Gdy używasz 2 kart SIM, tablet jest ograniczony do transmisji 4G. <annotation id="url">Więcej informacji</annotation>.</string>
+    <string name="power_idle">Tablet nieaktywny</string>
+    <string name="really_remove_account_message">Usunięcie tego konta spowoduje usunięcie z tabletu wszystkich powiązanych z nim wiadomości, kontaktów i innych danych.</string>
+    <string name="restriction_nfc_enable_summary">Zezwalaj na wymianę danych, gdy tablet dotyka innego urządzenia</string>
+    <string name="ring_volume_option_title">Powiadomienia</string>
+    <string name="ringer_mode_setting_summary">Wycisz powiadomienia</string>
+    <string name="runningservicedetails_stop_dlg_text">Jeśli zatrzymasz tę usługę, niektóre funkcje tabletu mogą przestać poprawnie działać do chwili jego wyłączenia i ponownego włączenia.</string>
+    <string name="screen_on_proximity_sensor_summary">Blokuj ekran, gdy urządzenie jest w torbie</string>
+    <string name="setup_lock_settings_picker_message">Włącz funkcje ochrony urządzenia, by zablokować innym możliwość używania tego tabletu bez Twojej zgody. Wybierz rodzaj blokady ekranu.</string>
+    <string name="setup_lock_settings_picker_title">Zabezpiecz tablet</string>
+    <string name="sim_lock_off">Aby korzystać z tabletu, trzeba wpisać PIN</string>
+    <string name="sim_lock_on">Aby korzystać z tabletu, trzeba wpisać PIN</string>
+    <string name="smartcover_sensitive_summary">Odblokuj lub blokuj tablet z aktywnym pokrowcem</string>
+    <string name="sound_mode">Tryb cichy i Godziny ciszy</string>
+    <string name="sound_vibrate_settings">Dźwięk</string>
+    <string name="storage_wizard_init_v2_internal_action">Pamięć tabletu</string>
+    <string name="storage_wizard_init_v2_internal_summary">Tylko na aplikacje, pliki i multimedia na tym tablecie</string>
+    <string name="storage_wizard_init_v2_internal_title">Użyj, by powiększyć pamięć tabletu</string>
+    <string name="storage_wizard_migrate_v2_checklist_battery">Tablet musi być podłączony do ładowarki</string>
+    <string name="unsupported_setting_summary">Ustawienie nie jest wspierane na tym tablecie</string>
+    <string name="usage_type_phone">Tablet</string>
+    <string name="usb_tethering_subtext">Udostępniaj połączenie internetowe przez USB</string>
+    <string name="user_cannot_manage_message">Użytkownikami może zarządzać tylko właściciel tabletu.</string>
+    <string name="user_confirm_remove_self_message">Utracisz swój obszar i dane na tym tablecie. Tej czynności nie można cofnąć.</string>
+    <string name="user_settings_footer_text">Udostępnij swój tablet, dodając nowych użytkowników. Każdy użytkownik ma na tablecie własny obszar, gdzie zapisywane są m.in. niestandardowe ekrany główne, konta, aplikacje i ustawienia.</string>
+    <string name="wifi_add_app_networks_summary">%1$s chce zapisać te sieci na twoim tablecie</string>
+    <string name="wifi_add_app_single_network_summary">%1$s chce zapisać sieć na twoim tablecie</string>
+    <string name="wifi_auto_connect_summary">Pozwól tabletowi automatycznie łączyć się w pobliżu tej sieci</string>
+    <string name="wifi_hotspot_tethering_on_subtext">Udostępnianie połączenia internetowego poprzez hotspot</string>
+    <string name="zen_mode_summary2">"Urządzenie nie będzie informować o powiadomieniach"</string>
+</resources>
