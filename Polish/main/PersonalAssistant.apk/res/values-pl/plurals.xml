@@ -174,4 +174,9 @@
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="pa_edit_text_min_length">
+        <item quantity="other">Co najmniej %1$d znaków</item>
+        <item quantity="one">Co najmniej %1$d znak</item>
+        <item quantity="few">Co najmniej %1$d znaki</item>
+    </plurals>
 </resources>
