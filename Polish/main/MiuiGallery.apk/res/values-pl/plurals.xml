@@ -661,4 +661,20 @@
         <item quantity="few">%1$s, %2$s elementy</item>
         <item quantity="one">%1$s, %2$s element</item>
     </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">"Nie udało się zsynchronizować %d elementów ze względu na brak miejsca w Chmurze"</item>
+        <item quantity="one">"Nie udało się zsynchronizować %d elementu ze względu na brak miejsca w Chmurze"</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Pobieranie elementów z Chmury (%2$d/%1$d)</item>
+        <item quantity="one">Pobieranie elementów z Chmury (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">Synchronizacja %d elementów (dane mobilne)</item>
+        <item quantity="one">Synchronizacja %d elementu (dane mobilne)</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">Synchronizacja %d elementów</item>
+        <item quantity="one">Synchronizacja %d elementu</item>
+    </plurals>
 </resources>
