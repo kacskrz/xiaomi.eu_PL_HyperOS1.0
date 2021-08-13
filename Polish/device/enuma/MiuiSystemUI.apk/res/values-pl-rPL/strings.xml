@@ -11,4 +11,11 @@
     <string name="kg_failed_attempts_now_erasing_profile">Po raz %d próbowałeś nieprawidłowo odblokować tablet. Profil do pracy zostanie usunięty, co spowoduje skasowanie wszystkich danych tego profilu.</string>
     <string name="kg_failed_attempts_now_erasing_user">Po raz %d próbowałeś nieprawidłowo odblokować tablet. Użytkownik zostanie usunięty, co spowoduje skasowanie wszystkich danych użytkownika.</string>
     <string name="kg_failed_attempts_now_wiping">Po raz %d próbowałeś nieprawidłowo odblokować tablet. Tablet zostanie zresetowany, co spowoduje skasowanie wszystkich jego danych.</string>
+    <string name="bluetooth_connected_no_headset">Połączono (bez tabletu) %1$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Połączono (bez tabletu), bateria %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Połączono (bez multimediów/tabletu) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Połączono (bez multimediów/tabletu), bateria %1$s %2$s</string>
+    <string name="bluetooth_headset_profile_summary_connected">Połączono z funkcją audio tabletu</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Użyj dla funkcji audio tabletu</string>
+    <string name="bluetooth_select_a2dp_codec_type_help_info">Elementy wyszarzone nie są obsługiwane przez tablet lub zestaw słuchawkowy</string>
 </resources>

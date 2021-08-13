@@ -462,7 +462,7 @@ dla:
 %s
 "</string>
   <string name="exception_updated">Szczegóły tego zdarzenia zostały zmodyfikowane przez: %s</string>
-  <string name="exchange_name">Firma</string>
+  <string name="exchange_name">Firma (Exchange)</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Rozwiń szczegóły odbiorcy</string>
   <string name="expand_slide">Pokaż boczne menu</string>
@@ -1573,4 +1573,5 @@ Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojeg
   <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">"Nie udało się zsynchronizować kontaktów i wydarzeń. Aby rozwiązać ten problem, zmień powiązane uprawnienia na \"Zawsze zezwalaj\"."</string>
   <string name="toastbar_calendar_permission_switch_allow_only_using">"Nie udało się zsynchronizować wydarzeń. Aby rozwiązać ten problem, zmień uprawnienia dostępu do kalendarza na \"Zawsze zezwalaj\"."</string>
   <string name="toastbar_contacts_permission_switch_allow_only_using">"Nie udało się zsynchronizować kontaktów. Aby rozwiązać ten problem, zmień uprawnienia dostępu do kontaktów na \"Zawsze zezwalaj\"."</string>
+  <string name="graph_name">Firma (Graph)</string>
 </resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bluetooth_connected_no_headset">Połączono (bez tabletu) %1$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Połączono (bez tabletu), bateria %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Połączono (bez multimediów/tabletu) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Połączono (bez multimediów/tabletu), bateria %1$s %2$s</string>
+    <string name="bluetooth_headset_profile_summary_connected">Połączono z funkcją audio tabletu</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Użyj dla funkcji audio tabletu</string>
+    <string name="bluetooth_select_a2dp_codec_type_help_info">Elementy wyszarzone nie są obsługiwane przez tablet lub zestaw słuchawkowy</string>
+</resources>

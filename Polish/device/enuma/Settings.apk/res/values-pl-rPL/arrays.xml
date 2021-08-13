@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Aktywne"</item>
+        <item>" | Aktywne (media)"</item>
+        <item>" | Aktywne (tablet)"</item>
+	</string-array>
+</resources>
