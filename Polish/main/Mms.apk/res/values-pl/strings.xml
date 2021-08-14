@@ -1320,7 +1320,6 @@ Sprawdź kartę SIM."</string>
     <string name="unable_get_location">"Jesteś incognito. Nie można korzystać teraz z lokalizacji."</string>
     <string name="unable_use_microphone">"Jeteś incognito. Nie można używać teraz mikrofonu."</string>
     <string name="dialog_sim_locked_message_translation_for_pad">"Twoja karta SIM nie działa w pełni z tym urządzeniem, ponieważ nie jest zgodna z warunkami subskrypcji. Jeśli masz jakiekolwiek pytania lub potrzebujesz więcej informacji na ten temat, skontaktuj się z centrum serwisowym Xiaomi lub sklepem, który sprzedał Ci produkty."</string>
-    <string name="error_invalid_phone">Nieprawidłowy numer telefonu</string>
     <string name="mx_activate_status_desc_query_activte_info_translation_for_pad">Sprawdzanie SIM…</string>
     <string name="mx_activate_status_desc_wait_for_sms_fail_translation_for_pad">"Nie można aktywować Wiadomości w Chmurze"</string>
     <string name="mx_dspt_listview_translation_for_pad">"Wysyłaj za darmo wiadomości przez Internet do innych urządzeń MIUI"</string>
