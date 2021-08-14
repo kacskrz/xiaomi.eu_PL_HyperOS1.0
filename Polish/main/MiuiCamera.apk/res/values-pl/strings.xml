@@ -1930,4 +1930,5 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="invisible_mode_dialog_summary">"Nie można użyć teraz aparatu. Wyłącz tryb Incognito w Ustawieniach, aby móc korzystać z aparatu."</string>
   <string name="invisible_mode_dialog_title">"Jesteś incognito"</string>
   <string name="invisible_mode_dialog_to_close">Ustawienia</string>
+  <string name="video_overheat_tip_content">Wygląda na to, że Twoje urządzenie jest zbyt gorące. Spróbuj nagrać film w niższej rozdzielczości.</string>
 </resources>

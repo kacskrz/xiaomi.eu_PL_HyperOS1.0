@@ -4476,7 +4476,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="power_center_super_wireless_charge_noti_summary">Dotknij, aby otworzyć ustawienia</string>
     <string name="power_center_super_wireless_charge_noti_switch">Powiadomienie o szybkim ładowaniu bezprzewodowym</string>
     <string name="power_center_super_wireless_charge_noti_title">Szybkie ładowanie bezprzewodowe wł.</string>
-    <string name="power_center_super_wireless_charge_summary">"Zwiększ prędkość wentylatora ładowarki bezprzewodowej"</string>
+    <string name="power_center_super_wireless_charge_summary">"Zwiększ prędkość wentylatora, aby przyspieszyć ładowanie"</string>
     <string name="power_center_super_wireless_charge_toast_close">Szybkie ładowanie bezprzewodowe wył.</string>
     <string name="app_behavior_about_setting">Ustawienia</string>
     <string name="app_behavior_dashboard_desc">Aktywność w ciągu ostatnich %d godz.</string>
@@ -4882,4 +4882,6 @@ Twoje urządzenie jest teraz o %s szybsze."</string>
     <string name="st_summary_whitelist_numbers_international_only_sms">Zezwalaj na wiadomości od określonych numerów i prefiksów</string>
     <string name="st_summary_whitelist_numbers_only_sms">Zezwalaj na wiadomości od określonych numerów, prefiksów i regionów</string>
     <string name="whitelist_prefix_add_hint_only_sms">Zezwalaj na wiadomości od określonych numerów</string>
+    <string name="power_center_super_wireless_charge_enter_noti_summary">"Zwiększ prędkość wentylatora, aby przyspieszyć ładowanie"</string>
+    <string name="power_center_super_wireless_charge_enter_noti_title">Wypróbuj szybkie ładowanie bezprzewodowe</string>
 </resources>
