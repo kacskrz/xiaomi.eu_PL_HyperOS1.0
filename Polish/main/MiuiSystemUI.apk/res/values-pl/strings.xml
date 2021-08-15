@@ -499,7 +499,7 @@ współczynnik próbkowania"</string>
   <string name="clock_seconds_desc">Pokaż sekundy na zegarku na pasku stanu. Może mieć wpływ na czas pracy baterii.</string>
   <string name="compat_mode_off">Rozciągnij, aby wypełnić ekran</string>
   <string name="compat_mode_on">Powiększ, aby wypełnić ekran</string>
-  <string name="confirm">Rozumiem</string>
+  <string name="confirm">OK</string>
   <string name="confirm_enable_oem_unlock_text">UWAGA: gdy to ustawienie jest włączone, na urządzeniu nie będą działać funkcje ochrony.</string>
   <string name="confirm_enable_oem_unlock_title">Zezwolić na zdjęcie blokady OEM?</string>
   <string name="confirm_pin_msg">Ponownie wpisz PIN</string>
