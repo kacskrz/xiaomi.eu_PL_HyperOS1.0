@@ -42,11 +42,8 @@ Czy chcesz włączyć NFC?"</string>
   <string name="prompt_connect_to_network">Połączyć z siecią %1$s?</string>
   <string name="status_unable_to_connect">Nie można połączyć się z siecią</string>
   <string name="status_wifi_connected">Połączony</string>
-  <string name="tap_again_to_complete">Dotknij ponownie, by wykonać w %1$s</string>
   <string name="tap_again_to_pay">Dotknij ponownie, by zapłacić z %1$s</string>
   <string name="tap_to_beam">Dotknij, by przesłać</string>
-  <string name="title_connect_to_network">Connect to network</string>
-  <string name="transaction_failure">Tej transakcji nie można wykonać w %1$s.</string>
   <string name="wifi_connect">Połącz</string>
   <string name="nfc_blocking_alert_message">Dotknij, aby dowiedzieć się, jak to naprawić.</string>
   <string name="nfc_blocking_alert_title">Wygląda na to, że NFC jest blokowane</string>
