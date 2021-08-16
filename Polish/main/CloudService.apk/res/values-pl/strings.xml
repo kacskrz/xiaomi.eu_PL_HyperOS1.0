@@ -4,7 +4,7 @@
   <string name="account">Konto</string>
   <string name="account_related">To urządzenie jest już powiązane z istniejącym kontem Xiaomi (%s). Połącz z siecią, aby zweryfikować urządzenie.</string>
   <string name="activate">Aktywuj</string>
-  <string name="activate_find_device_success">Lokalizacja urządzenia została aktywowana.</string>
+  <string name="activate_find_device_success">Pomyślnie aktywowano Lokalizację urządzenia</string>
   <string name="activate_finddevice">"Połącz z siecią
 w celu aktywacji urządzenia"</string>
   <string name="activate_number_change_dialog_message">Wybierz numer, który będzie widoczny dla innych urządzeń w przypadku połączenia VoIP.</string>
@@ -327,7 +327,7 @@ Zaloguj się ponownie na konto Xiaomi, aby aktywować usługi w chmurze"</string
   <string name="micloud_find_device_sms_alert">Do aktywacji tej usługi zostanie wysłany SMS. Obowiązuje standardowa opłata operatora. Gdy zmienisz kartę SIM, wiadomość może być wysłana ponownie w celu reaktywacji usługi.</string>
   <string name="micloud_find_device_verify_button">Reaktywuj ponownie Lokalizację urządzenia</string>
   <string name="micloud_find_device_verify_close">Wyłącz lokalizację urządzenia</string>
-  <string name="micloud_find_device_verify_fail">"Nie można włączyć ponownie"</string>
+  <string name="micloud_find_device_verify_fail">Nie udało się aktywować Lokalizacji urządzenia</string>
   <string name="micloud_find_device_verify_progress">Aktywacja lokalizacji urządzenia…</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>

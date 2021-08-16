@@ -247,8 +247,8 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
   <string name="retry">Ponów</string>
   <string name="search_menu_title">Szukaj</string>
   <string name="selected">Wybrano</string>
-  <string name="self_device_main_space">Główny profil tego telefonu</string>
-  <string name="self_device_second_space">Druga przestrzeń tego telefonu</string>
+  <string name="self_device_main_space">Główny profil</string>
+  <string name="self_device_second_space">Druga przestrzeń</string>
   <string name="self_phone">Ten telefon</string>
   <string name="self_phone_home">Ten telefon: %s</string>
   <string name="settings_backup">Ustawienia systemowe</string>
@@ -296,8 +296,8 @@ Info: dane zainstalowanych aplikacji nie będą zachowane w Chmurze."</string>
   <string name="backup_remind_clean_disk_space">Zwolnij miejsce w pamięci</string>
   <string name="backup_remind_cloud_space_cost">Rozmiar kopii zapasowej: %s</string>
   <string name="backup_warning_reason_cloud_space_not_enough">"Nie można skopiować"</string>
-  <string name="backup_warning_reason_disk_space_not_enough">"Brak miejsca
-Nie można skopiować"</string>
+  <string name="backup_warning_reason_disk_space_not_enough">"Nie można skopiować.
+Brak miejsca."</string>
   <string name="backup_warning_reason_network_error">"Błąd sieci
 Nie można skopiować"</string>
   <string name="backup_warning_reason_no_server_response">"Połączenie przerwane
@@ -311,7 +311,7 @@ Spróbuj ponownie"</string>
   <string name="cloud_backup_detail_app_data">Skopiuj dane WeChata</string>
   <string name="cloud_backup_detail_app_data_summary">Wykonaj kopię zapasową historii czatu, plików i innych elementów</string>
   <string name="confirm_restore_app_data">Nadpisywanie danych aplikacji</string>
-  <string name="confirm_restore_app_data_summary">Przywrócenie danych WeChata nadpisze obecne dane aplikacji znajdujące się na urządzeniu. Przywrócić mimo to?</string>
+  <string name="confirm_restore_app_data_summary">Wygląda na to, że aplikacja WeChat wygenerowała już dane na tym urządzeniu. Nadpisać je danymi z kopii?</string>
   <string name="dialog_backup_failed">"Nie udało się wykonać kopii"</string>
   <string name="dialog_buy_cloud_space">Ulepsz</string>
   <string name="dialog_cloud_space_not_enough">Ta kopia zapasowa wymaga %1$s miejsca w Chmurze. Ulepsz swój plan, aby móc ją wykonać.</string>
@@ -346,4 +346,6 @@ Wymagane są uprawnienia."</string>
   <string name="dialog_btn_confirm2">Rozumiem</string>
   <string name="dialog_btn_enter">Ustawienia</string>
   <string name="dialog_need_permission">Wymagane uprawnienia</string>
+  <string name="restore_prepare_item_type_enable">Dostępne kopie zapasowe</string>
+  <string name="restore_prepare_item_type_other">Inne kopie zapasowe</string>
 </resources>

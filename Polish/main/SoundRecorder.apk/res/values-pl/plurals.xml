@@ -87,4 +87,9 @@
         <item quantity="few">%d nagrania</item>
         <item quantity="one">%d nagranie</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowych powiadomień</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+    </plurals>
 </resources>
