@@ -726,4 +726,15 @@
   <string name="navigation_guide_recent_summary_pad">Przesuń w górę od dołu ekranu i wstrzymaj</string>
   <string name="navigation_guide_recent_summary_spec_pad">Przesuń palcem w górę od dolnej krawędzi ekranu, wstrzymaj i podnieś palec</string>
   <string name="navigation_guide_recent_title_spec_with_quotation_pad">Otwórz menu ostatnio otwartych aplikacji</string>
+  <string name="maml_download_dialog_cancel_text">Czekaj na Wi-Fi</string>
+  <string name="maml_download_dialog_cancel_text_china">Czekaj na Wi-Fi</string>
+  <string name="maml_download_dialog_checkbox_text">"Nie pokazuj ponownie"</string>
+  <string name="maml_download_dialog_confirm_text">Pobierz</string>
+  <string name="maml_download_dialog_message">Do pobrania tego elementu zostanie wykorzystane %s MB danych mobilnych. Pobrać?</string>
+  <string name="maml_download_dialog_title">Ostrzeżenie dot. zużycia danych</string>
+  <string name="maml_download_tip_wait_wifi">Ten element zostanie pobrany po połączeniu się z siecią Wi-Fi</string>
+  <string name="maml_download_tip_wait_wifi_china">Ten element zostanie pobrany po połączeniu się z siecią Wi-Fi</string>
+  <string name="open_personal_assistant_settings">Ustawienia Asystenta MIUI</string>
+  <string name="system_shortcuts_edit">Edytuj</string>
+  <string name="toast_drag_to_assistant_reject">Inicjalizacja Asystenta MIUI…</string>
 </resources>
