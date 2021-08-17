@@ -8387,7 +8387,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="fold_rule_default">Zalecane</string>
   <string name="fold_rule_important">Istotne</string>
   <string name="fold_rule_unimportant">Nieistotne</string>
-  <string name="magic_window_name">Optymalizacja aplikacji w widoku poziomym</string>
+  <string name="magic_window_name">Równoległe okna</string>
   <string name="truetone_summary">Dostosuj kolory do otoczenia</string>
   <string name="truetone_title">Adaptacyjne kolory</string>
   <string name="dpp_before_share_summary">Udostępnić sieć Wi-Fi \"%1$s\" innej osobie?</string>
@@ -9013,4 +9013,6 @@ Włącz tę funkcję i dotknij przycisku Ułatwień dostępu na dole ekranu, aby
   <string name="stylus_success">Gotowe</string>
   <string name="stylus_vice_key">Drugi przycisk</string>
   <string name="stylus_welcome">Zobacz Xiaomi Smart Pen</string>
+  <string name="magic_list_empty_text_pad">Brak aplikacji kompatybilnych z tą funkcją</string>
+  <string name="magic_window_name_pad">Optymalizacja aplikacji pod widok poziomy</string>
 </resources>

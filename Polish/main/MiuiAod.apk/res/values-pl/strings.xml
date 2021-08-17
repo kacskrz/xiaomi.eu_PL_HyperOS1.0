@@ -268,4 +268,5 @@ dd.MM"</string>
     <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
     <string name="miuix_appcompat_select_item">Wybierz elementy</string>
     <string name="send">Wyślij</string>
+    <string name="notification_channel_alerts">Alerty</string>
 </resources>

@@ -1265,4 +1265,8 @@ dd.M."</string>
   <string name="system_cta_retry_get_permission_btn_pad">Start</string>
   <string name="system_cta_retry_get_permission_msg_pad">Wymagane uprawnienia</string>
   <string name="system_cta_runtime_perm_desc_storage_pad">W celu zapisywania pobranych elementów na urządzeniu</string>
+  <string name="apply_warning_tip_get_device_status">Najpierw zezwól tej aplikacji na dostęp do Twojego ID urządzenia w menu Moje konto > Ustawienia.</string>
+  <string name="dialog_content_get_device_status">Aby móc autoryzować elementy zakupione na innych urządzeniach, aplikacja wymaga dostępu do Twojego ID urządzenia. Po wyłączeniu tej funkcji możesz nie być w stanie używać niektórych zakupionych elementów. Wyłączyć mimo to?</string>
+  <string name="preference_subtitle_get_device_status">Aby móc pobrać elementy zakupione na innych urządzeniach, zezwól aplikacji na dostęp do Twojego ID urządzenia</string>
+  <string name="preference_title_get_device_status">Dostęp do ID urządzenia</string>
 </resources>
