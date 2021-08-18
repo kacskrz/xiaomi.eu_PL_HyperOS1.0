@@ -224,7 +224,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="find_device_close">Wył.</string>
   <string name="find_device_display_id">Numer odblokowania: %s</string>
   <string name="find_device_error_password_not_confirmed">Nie można wyłączyć usługi. Wpisz ponownie hasło konta Xiaomi.</string>
-  <string name="find_device_error_password_recently_changed">Zmieniłeś swoje hasło w ciągu ostatnich 3 dni. Nie można teraz wyłączyć funkcji Znajdź urządzenie ze względów bezpieczeństwa.</string>
+  <string name="find_device_error_password_recently_changed">Zmieniłeś swoje hasło w ciągu ostatnich %d dni. Nie można teraz wyłączyć funkcji Znajdź urządzenie ze względów bezpieczeństwa.</string>
   <string name="find_device_interrupted">Akcja została przerwana, spróbuj ponownie później</string>
   <string name="find_device_io_error">Nie można połączyć się z siecią</string>
   <string name="find_device_location">Zlokalizuj</string>

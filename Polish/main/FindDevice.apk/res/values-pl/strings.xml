@@ -31,7 +31,7 @@
   <string name="find_device_notice_sms_alert">W przypadku zmiany kart SIM zostanie wysłany SMS w celu reaktywacji usługi.</string>
   <string name="find_device_stop_noise">Naciśnij OK, aby wyciszyć</string>
   <string name="find_device_storage_corrupted">Magazyn danych funkcji Znajdź urządzenie jest uszkodzony. Urządzenie może nie być bezpieczne.</string>
-  <string name="find_device_success_title">Zlokalizuj urządzenie</string>
+  <string name="find_device_success_title">Lokalizacja urządzenia wł.</string>
   <string name="find_device_telephony_fault">Lokalizacja urządzenia: błąd połączenia (%s).</string>
   <string name="i_know">OK</string>
   <string name="lock_msg_phone">Dane do kontaktu: %s</string>
@@ -86,7 +86,7 @@ Przejdź na stronę i.mi.com/ss i złóż prośbę o odblokowanie urządzenia."<
   <string name="unlocking">Aktywacja...</string>
   <string name="verifing_account">Weryfikacja hasła…</string>
   <string name="verify_password_failed">Nie udało się zweryfikować ID konta Xiaomi (%s)</string>
-  <string name="find_device_notice">Przejdź na i.mi.com, aby zlokalizować, zablokować lub przywrócić urządzenie bądź wykonywać zdalnie zdjęcia.</string>
+  <string name="find_device_notice">Przejdź na i.mi.com, aby zlokalizować, zablokować lub przywrócić urządzenie.</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Odznacz wszystko</string>
   <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
   <string name="miuix_appcompat_action_mode_title_empty">Zaznacz elementy</string>

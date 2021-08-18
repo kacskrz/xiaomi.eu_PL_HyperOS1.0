@@ -348,4 +348,13 @@ Wymagane są uprawnienia."</string>
   <string name="dialog_need_permission">Wymagane uprawnienia</string>
   <string name="restore_prepare_item_type_enable">Dostępne kopie zapasowe</string>
   <string name="restore_prepare_item_type_other">Inne kopie zapasowe</string>
+  <string name="dialog_app_usage_consent_message">Ta funkcja musi uzyskać dostęp do danych dot. użytkowania aplikacji, aby móc określić rozmiar kopii zapasowych WeChata.</string>
+  <string name="dialog_app_usage_consent_title">Zezwól na dostęp do danych dot. użytkowania aplikacji</string>
+  <string name="dialog_button_agree">Zezwól</string>
+  <string name="dialog_button_disagree">"Nie zezwalaj"</string>
+  <string name="dump_app_data_record_complete_msg">Lokalizacja plików: %s</string>
+  <string name="dump_app_data_record_complete_title">Pomyślnie skopiowano dane WeChata</string>
+  <string name="dump_app_data_record_not_found_msg">"Wygląda na to, że nie kopiowano wcześniej danych WeChata"</string>
+  <string name="dump_app_data_record_not_found_title">"Nie znaleziono kopii zapasowych WeChata"</string>
+  <string name="dump_app_data_record_running_title">Kopiowanie danych WeChata…</string>
 </resources>
