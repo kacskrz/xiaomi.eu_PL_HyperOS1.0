@@ -790,8 +790,8 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="miui_penengine_ppw_shortcut_long_click">Dotknij i przytrzymaj</string>
   <string name="miui_penengine_ppw_shortcut_pk_long_click_tip">Przełącz na gumkę. Przytrzymaj, aby usunąć.</string>
   <string name="miui_penengine_ppw_shortcut_pk_single_click_tip">Zmień narzędzia</string>
-  <string name="miui_penengine_ppw_shortcut_primary_key">Pierwszy przycisk</string>
-  <string name="miui_penengine_ppw_shortcut_secondary_key">Drugi przycisk</string>
+  <string name="miui_penengine_ppw_shortcut_primary_key">Przycisk pisania</string>
+  <string name="miui_penengine_ppw_shortcut_secondary_key">Przycisk zrzutu ekranu</string>
   <string name="miui_penengine_ppw_shortcut_single_click">Naciśnij</string>
   <string name="miui_penengine_ppw_shortcut_sk_single_click_tip">Przełączaj się między ostatnimi kolorami</string>
   <string name="miui_penengine_setting_select_background">Tło</string>

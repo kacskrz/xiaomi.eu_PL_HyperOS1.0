@@ -453,4 +453,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="xiaomi_weather_description_content_remove">"Pogoda to aplikacja systemowa. Po jej odinstalowaniu nie będzie można wyświetlać informacji o pogodzie, a także korzystać z powiązanych z aplikacją widżetów."</string>
   <string name="xiaomi_weather_description_title_remove">Usunąć Pogodę z pulpitu?</string>
   <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+  <string name="pad_keyboard_add_city">Dodaj miejsce</string>
+  <string name="pad_keyboard_left_switch">Poprzednia lokalizacja</string>
+  <string name="pad_keyboard_right_switch">Następna lokalizacja</string>
 </resources>
