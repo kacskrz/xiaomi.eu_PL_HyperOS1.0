@@ -2818,4 +2818,5 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="miui_keyboard_shortcut_group_system_search">Szukaj</string>
     <string name="miui_keyboard_shortcut_group_system_toggle_recent_app_left">Przełącz do aplikacji po lewej</string>
     <string name="miui_keyboard_shortcut_group_system_toggle_recent_app_right">Przełącz do aplikacji po prawej</string>
+    <string name="open_xmyzl_hint_text">Przesuń w prawo, aby otworzyć Xiaomi Magic Control</string>
 </resources>

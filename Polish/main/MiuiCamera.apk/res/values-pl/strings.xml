@@ -1931,4 +1931,15 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="invisible_mode_dialog_title">"Jesteś incognito"</string>
   <string name="invisible_mode_dialog_to_close">Ustawienia</string>
   <string name="video_overheat_tip_content">Wygląda na to, że Twoje urządzenie jest zbyt gorące. Spróbuj nagrać film w niższej rozdzielczości.</string>
+  <string name="download_alert">"Nie można edytować w trakcie pobierania"</string>
+  <string name="download_waiting">Oczekiwanie…</string>
+  <string name="accessibility_focus_face_pos_bottom">Zlokalizowano w pobliżu dolnej krawędzi</string>
+  <string name="accessibility_focus_face_pos_left">Zlokalizowano w pobliżu lewej krawędzi</string>
+  <string name="accessibility_focus_face_pos_left_bottom">Zlokalizowano w pobliżu lewego dolnego rogu</string>
+  <string name="accessibility_focus_face_pos_left_top">Zlokalizowano w pobliżu lewego górnego rogu</string>
+  <string name="accessibility_focus_face_pos_mid">Zlokalizowano w pobliżu środka</string>
+  <string name="accessibility_focus_face_pos_right">Zlokalizowano w pobliżu prawej krawędzi</string>
+  <string name="accessibility_focus_face_pos_right_bottom">Zlokalizowano w pobliżu prawego dolnego rogu</string>
+  <string name="accessibility_focus_face_pos_right_top">Zlokalizowano w pobliżu prawego górnego rogu</string>
+  <string name="accessibility_focus_face_pos_top">Zlokalizowano w pobliżu górnej krawędzi</string>
 </resources>

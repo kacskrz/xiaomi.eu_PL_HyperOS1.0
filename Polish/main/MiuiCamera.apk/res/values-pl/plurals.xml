@@ -155,4 +155,14 @@
         <item quantity="few">%d minuty temu</item>
         <item quantity="many">%d minut temu</item>
     </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data>"Nie można połączyć się z aparatem.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sekund&lt;/b>&lt;/font>. Po jej zamknięciu odczekaj minutę lub dwie i spróbuj ponownie."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Nie można połączyć się z aparatem.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sekundę&lt;/b>&lt;/font>. Po jej zamknięciu odczekaj minutę lub dwie i spróbuj ponownie."&lt;/Data></item>
+        <item quantity="few">&lt;Data>"Nie można połączyć się z aparatem.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sekundy&lt;/b>&lt;/font>. Po jej zamknięciu odczekaj minutę lub dwie i spróbuj ponownie."&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Urządzenie jest teraz zbyt gorące.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sekund&lt;/b>&lt;/font>. Obecny stan został automatycznie zapisany.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Urządzenie jest teraz zbyt gorące.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sekundę&lt;/b>&lt;/font>. Obecny stan został automatycznie zapisany.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Urządzenie jest teraz zbyt gorące.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sekundy&lt;/b>&lt;/font>. Obecny stan został automatycznie zapisany.&lt;/Data></item>
+    </plurals>
 </resources>

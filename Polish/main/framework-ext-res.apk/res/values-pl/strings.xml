@@ -356,4 +356,5 @@
   <string name="keyboard_upgrade_failed">"Nie udało się zaktualizować klawiatury"</string>
   <string name="keyboard_upgrade_start">Aktualizowanie klawiatury…</string>
   <string name="keyboard_upgrade_success">Pomyślnie zaktualizowano klawiaturę</string>
+  <string name="keyboard_connect_failed">"Nie udało się połączyć z klawiaturą. Podepnij ją ponownie."</string>
 </resources>

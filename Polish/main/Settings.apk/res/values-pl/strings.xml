@@ -9015,4 +9015,5 @@ Włącz tę funkcję i dotknij przycisku Ułatwień dostępu na dole ekranu, aby
   <string name="stylus_welcome">Zobacz Xiaomi Smart Pen</string>
   <string name="magic_list_empty_text_pad">Brak aplikacji kompatybilnych z tą funkcją</string>
   <string name="magic_window_name_pad">Optymalizacja aplikacji pod widok poziomy</string>
+  <string name="headset_toast_tip_disconnect_others">Zestaw nie jest poprawnie skonfigurowany - może być on połączony z innym urządzeniem</string>
 </resources>
