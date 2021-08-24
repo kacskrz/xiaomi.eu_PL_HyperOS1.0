@@ -73,7 +73,7 @@ Czy chcesz włączyć NFC?"</string>
   <string name="title_discover_tag">Wykryto tag NFC</string>
   <string name="title_sms">Wysyłaj SMS-y</string>
   <string name="title_weblink">Otwórz link</string>
-  <string name="toast_bluetooth_enable_fail">Bluetooth nie jest włączone. Parowanie się nie powiodło.</string>
+  <string name="toast_bluetooth_enable_fail">Nie udało się sparować. Najpierw włącz Bluetooth.</string>
   <string name="summary_confirm_url_open">"Twoje urządzenie otrzymało link przez NFC: "</string>
   <string name="tag_dispatch_failed">"Nie znaleziono aplikacji wspierającej tag NFC"</string>
   <string name="tag_read_error">"Nie udało się odczytać informacji przez NFC. Spróbuj ponownie."</string>

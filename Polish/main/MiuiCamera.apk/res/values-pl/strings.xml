@@ -1942,4 +1942,7 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="accessibility_focus_face_pos_right_bottom">Zlokalizowano w pobliżu prawego dolnego rogu</string>
   <string name="accessibility_focus_face_pos_right_top">Zlokalizowano w pobliżu prawego górnego rogu</string>
   <string name="accessibility_focus_face_pos_top">Zlokalizowano w pobliżu górnej krawędzi</string>
+  <string name="pref_video_ai_audio_effect_comparation_3d_i">Dźwięk 3D</string>
+  <string name="pref_video_ai_audio_effect_comparation_3d_ii">Demo</string>
+  <string name="pref_video_ai_audio_effect_comparation_3d_original">Oryginalne</string>
 </resources>
