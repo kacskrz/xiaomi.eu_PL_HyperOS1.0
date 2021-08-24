@@ -1021,8 +1021,8 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="loading_enable_keybag">Włączanie Menedżera haseł…</string>
   <string name="loading_server_key_info">Ładowanie elementów…</string>
   <string name="notification_reinstall_key_text">Zweryfikuj tożsamość i spróbuj ponownie</string>
-  <string name="notification_sync_fail_title">"Nie udało się zsynchronizować"</string>
-  <string name="notification_update_key_text">Twój kod dostępu został zresetowany</string>
+  <string name="notification_sync_fail_title">"Nie udało się zsynchronizować haseł"</string>
+  <string name="notification_update_key_text">Kod dostępu do Menedżera haseł został zmieniony. Zweryfikuj nowy kod.</string>
   <string name="sync_item_autofill_summary">Automatycznie szyfruj hasła i synchronizuj je z chmurą</string>
   <string name="sync_item_autofill_title">Automatyczna synchronizacja</string>
   <string name="sync_off_confirm_content">"Nie będzie można synchronizować nowych haseł po wyłączeniu Menedżera haseł."</string>

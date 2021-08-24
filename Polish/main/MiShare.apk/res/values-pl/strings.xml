@@ -209,4 +209,18 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="error_remote_ap_working">Poproś drugą osobę o wyłączenie funkcji hotspotu</string>
   <string name="common_google_play_services_unknown_issue">%1$s ma problemy z usługami Google Play. Spróbuj ponownie.</string>
   <string name="samsung_phone">Telefon Samsung</string>
+  <string name="device_list_all">Wszystkie urządzenia</string>
+  <string name="device_list_more">Więcej</string>
+  <string name="transfer_to_pc_summary_new"><Data>"Najnowsza wersja aplikacji MIUI+ zainstalowana na Mi Notebookach jest kompatybilna z funkcją Mi Share. Możesz sprawdzić listę wspieranych modeli laptopów na stronie MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Jeśli Twój laptop znajduje się na niej, lecz aplikacja MIUI+ nie jest na nim zainstalowana, zaktualizuj BIOS oraz sterownik karty sieciowej Twojego laptopa i pobierz aplikację MIUI+."</Data></string>
+  <string name="transfer_to_summary">"Włącz funkcję Mi Share, korzystając z przełącznika znajdującego się w Centrum funkcji bądź Panelu powiadomień. Po wykonaniu tej operacji będzie można zobaczyć urządzenia w pobliżu, gdy zaczniesz udostępnianie zdjęcia bądź pliku. Dotknij odpowiednie urządzenie, aby wysłać udostępniany element."</string>
+  <string name="transfer_to_title">Wysyłaj pliki na urządzenia mobilne</string>
+  <string name="uwb_guide_summary_1">"Jeśli nie możesz znaleźć urządzenia docelowego, poproś właściciela tego urządzenia o włączenie funkcji Mi Share za pomocą przełącznika w Centrum funkcji bądź Panelu powiadomień."</string>
+  <string name="uwb_guide_title_1">Poproś drugą osobę o włączenie Mi Share</string>
+  <string name="uwb_guide_title_2">Znajdź urządzenie docelowe szybciej za pomocą funkcji Beam</string>
+  <string name="uwb_setting_guide">Dowiedz się więcej</string>
+  <string name="uwb_setting_guide_summary">Beam wykorzystuje technologię UWB do bezprzewodowego rozpoznawania urządzeń docelowych. Po rozpoznaniu urządzenia docelowego jego ikona pojawi się na pierwszym planie.</string>
+  <string name="uwb_setting_guide_title">Trzymaj to urządzenie bezpośrednio naprzeciwko zgodnego urządzenia docelowego</string>
+  <string name="uwb_summary">Beam wykorzystuje technologię UWB do bezprzewodowego rozpoznawania urządzeń docelowych. Przenoszenie przedmiotów między urządzeniami wykorzystującymi technologię UWB jest szybsze i wygodniejsze.</string>
+  <string name="uwb_support_device">"Kompatybilne urządzenia: "</string>
+  <string name="uwb_title">Beam</string>
 </resources>

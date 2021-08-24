@@ -86,7 +86,7 @@ Przejdź na stronę i.mi.com/ss i złóż prośbę o odblokowanie urządzenia."<
   <string name="unlocking">Aktywacja...</string>
   <string name="verifing_account">Weryfikacja hasła…</string>
   <string name="verify_password_failed">Nie udało się zweryfikować ID konta Xiaomi (%s)</string>
-  <string name="find_device_notice">Przejdź na i.mi.com, aby zlokalizować, zablokować lub przywrócić urządzenie.</string>
+  <string name="find_device_notice">Jeśli zgubisz swoje urządzenie, wejdź na stronę i.mi.com, aby je zlokalizować, zablokować lub wymazać z niego dane.</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Odznacz wszystko</string>
   <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
   <string name="miuix_appcompat_action_mode_title_empty">Zaznacz elementy</string>
