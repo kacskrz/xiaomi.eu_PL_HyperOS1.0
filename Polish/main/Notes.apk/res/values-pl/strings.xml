@@ -818,4 +818,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="pad_todo_create_hint">Dodaj zadanie</string>
   <string name="permission_storage_desc_pad_v12">Aby dodawać obrazy do notatek i zapisywać notatki jako obrazy</string>
   <string name="rich_text_left_description">Wyrównaj do lewej</string>
+  <string name="app_widget_name_new">Notatki</string>
+  <string name="hand_write_only_support_tablet_editing">Notatki odręczne mogą być edytowane tylko na tabletach</string>
+  <string name="widget_take_notes_title">Notatki</string>
 </resources>

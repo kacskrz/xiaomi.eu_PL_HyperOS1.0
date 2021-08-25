@@ -357,4 +357,7 @@ Wymagane są uprawnienia."</string>
   <string name="dump_app_data_record_not_found_msg">"Wygląda na to, że nie kopiowano wcześniej danych WeChata"</string>
   <string name="dump_app_data_record_not_found_title">"Nie znaleziono kopii zapasowych WeChata"</string>
   <string name="dump_app_data_record_running_title">Kopiowanie danych WeChata…</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

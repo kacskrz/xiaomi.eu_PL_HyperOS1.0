@@ -442,11 +442,11 @@
   <string name="recommend_app">Sugestie aplikacji</string>
   <string name="recommend_apps_default_title">Pusto</string>
   <string name="recommend_apps_no_data">Brak danych</string>
-  <string name="recommend_apps_no_data_toast">Na razie to wszystko.</string>
-  <string name="recommend_apps_notice">Polecane aplikacje</string>
-  <string name="recommend_apps_notice_nodata">Polecane aplikacje (brak danych)</string>
+  <string name="recommend_apps_no_data_toast">Brak elementów w Dzisiejszych rekomendacjach</string>
+  <string name="recommend_apps_notice">Dzisiejsze rekomendacje</string>
+  <string name="recommend_apps_notice_nodata">Dzisiejsze rekomendacje (brak elementów)</string>
+  <string name="recommend_apps_switch_title">Dzisiejsze rekomendacje</string>
   <string name="recommend_apps_switch_summary">Pokaż polecane aplikacje na dole ekranu</string>
-  <string name="recommend_apps_switch_title">Polecane aplikacja</string>
   <string name="recommend_apps_tips">Ta funkcja wymaga dostępu do sieci. Aby wyłączyć funkcję dotknij nazwy katalogu.</string>
   <string name="recommend_loading">Wczytywanie</string>
   <string name="recommend_refresh">Odśwież</string>

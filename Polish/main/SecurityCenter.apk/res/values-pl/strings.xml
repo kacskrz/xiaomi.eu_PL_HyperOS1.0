@@ -3658,8 +3658,8 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="om_shortcut_dialog_title">RAM Jet</string>
   <string name="security_bottom_guide_to_pm_text">Puść, aby otworzyć narzędzia</string>
   <string name="security_guide_bubble_text">Otwórz</string>
-  <string name="security_guide_summary">Wszystkie narzędzia i usługi w jednym miejscu</string>
-  <string name="security_guide_title">Przybornik MIUI</string>
+  <string name="security_guide_summary">Wszystkie narzędzia w jednym miejscu</string>
+  <string name="security_guide_title">Przybornik</string>
   <string name="antivirus_privacy_dialog_summary_new"><Data>Funkcja używa definicji wirusów dostarczanych przez firmy Avast, AVL oraz Tencent. Przeczytaj odpowiednie &lt;a href=\"%1$s\">zgody dot. licencji&lt;/a>, aby dowiedzieć się więcej.</Data></string>
   <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Funkcja używa definicji wirusów dostarczanych przez firmy AVL oraz Tencent. Przeczytaj odpowiednie &lt;a href=\"%1$s\">zgody dot. licencji&lt;/a>, aby dowiedzieć się więcej.</Data></string>
   <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Funkcja używa definicji wirusów dostarczanych przez firmy Avast oraz AVL. Przeczytaj odpowiednie &lt;a href=\"%1$s\">zgody dot. licencji&lt;/a>, aby dowiedzieć się więcej.</Data></string>
@@ -4884,4 +4884,21 @@ Twoje urządzenie jest teraz o %s szybsze."</string>
     <string name="whitelist_prefix_add_hint_only_sms">Zezwalaj na wiadomości od określonych numerów</string>
     <string name="power_center_super_wireless_charge_enter_noti_summary">"Zwiększ prędkość wentylatora, aby przyspieszyć ładowanie"</string>
     <string name="power_center_super_wireless_charge_enter_noti_title">Wypróbuj szybkie ładowanie bezprzewodowe</string>
+    <string name="bottom_notice_title">Przesuń w górę, aby otworzyć przybornik</string>
+    <string name="commonly_used_func_card_title">Częste funkcje</string>
+    <string name="commonly_used_func_edit_too_many_func">"Nie można dodać więcej elementów"</string>
+    <string name="phone_manager_edit_commonly_used_func_title">Edytuj częste funkcje</string>
+    <string name="phone_manager_title">Przybornik</string>
+    <string name="sim_car_absent__tip">Potwierdź blokadę ekranu, aby wyłączyć Tryb zagubienia</string>
+    <string name="sim_car_absent_intercept_action">Potwierdź blokadę ekranu (%d)</string>
+    <string name="sim_car_absent_intercept_action_last">Potwierdź blokadę ekranu</string>
+    <string name="sim_car_absent_intercept_item_summary">Włączona jest funkcja Znajdź urządzenie. Aby wyłączyć urządzenie bądź usunąć kartę SIM, trzeba potwierdzić blokadę ekranu.</string>
+    <string name="sim_car_absent_intercept_item_summary_last">Włączona jest funkcja Znajdź urządzenie. Aby wyłączyć urządzenie bądź usunąć kartę SIM, trzeba potwierdzić blokadę ekranu. Aktywowano Tryb zagubienia.</string>
+    <string name="sim_car_absent_intercept_item_title">Uruchomiono mechanizmy ochrony</string>
+    <string name="sim_car_absent_intercept_summary">Karta SIM została usunięta. Potwierdź blokadę ekranu, aby móc używać tego urządzenia.</string>
+    <string name="sim_car_absent_intercept_title">Potwierdź blokadę ekranu</string>
+    <string name="sim_car_absent_summary">Potwierdź blokadę ekranu, aby móc używać tego urządzenia.</string>
+    <string name="sim_car_absent_title">Urządzenie zostało zgubione</string>
+    <string name="sim_card_absent_intercept_tip">"Jeśli nie potwierdzisz blokady ekranu, zostanie aktywowany Tryb zagubienia."</string>
+    <string name="sim_card_absent_warning_voice">Karta SIM została usunięta. Potwierdź blokadę ekranu.</string>
 </resources>
