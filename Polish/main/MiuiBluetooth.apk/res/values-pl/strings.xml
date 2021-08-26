@@ -284,4 +284,7 @@ Szyszy protokół transmisji."</string>
     <string name="fiveg_sa_switch_summary">Włącz tryb SA sieci 5G na drugiej karcie SIM. Tylko w celach testowych</string>
     <string name="fiveg_sa_vice_switch_title">Tryb SA na drugiej karcie SIM</string>
     <string name="wifi_connected_low_quality">Niska jakość</string>
+    <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>
