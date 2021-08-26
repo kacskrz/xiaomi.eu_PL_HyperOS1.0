@@ -2922,4 +2922,6 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="screen_talkback_shape">Kształt</string>
     <string name="screen_talkback_small">Bardzo mały</string>
     <string name="screen_talkback_text">Tekst</string>
+    <string name="install_media_editor_message">Aby móc edytować elementy, pobierz najpierw wtyczkę. Pobrać ją teraz?</string>
+    <string name="install_media_editor_title">Pobierz wtyczkę</string>
 </resources>
