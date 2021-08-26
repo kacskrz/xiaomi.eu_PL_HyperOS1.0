@@ -625,4 +625,5 @@
   <string name="tap_to_update_system_app">Dotknij, aby zaktualizować aplikacje systemu</string>
   <string name="wait_for_wlan_china">Czekaj na Wi-Fi</string>
   <string name="com_android_soundrecorder">Dyktafon</string>
+  <string name="com_mi_globalbrowser">Przeglądarka</string>
 </resources>
