@@ -1477,4 +1477,5 @@
     <string name="pa_widget_need_download_dialog_message_install">Aby móc używać widżetów, najpierw zainstaluj aplikację \"%s\".</string>
     <string name="pa_widget_need_download_dialog_message_load">Aby móc używać widżetów, najpierw załaduj \"%s\".</string>
     <string name="pa_widget_need_download_dialog_message_upgrade">Aby móc używać widżetów, najpierw zaktualizuj aplikację \"%s\".</string>
+    <string name="calc_convert">Konwertuj</string>
 </resources>
