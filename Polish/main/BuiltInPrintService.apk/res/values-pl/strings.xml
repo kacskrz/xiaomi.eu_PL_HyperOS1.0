@@ -57,4 +57,8 @@
   <string name="recommendation_manage">Zarządzaj usługami</string>
   <string name="recommendation_summary">Domyślna usługa drukowania dostarcza podstawowe opcje. Inne opcje dla tej drukarki mogą być dostępne za pośrednictwem innej usługi drukowania.</string>
   <string name="recommendations_heading">Rekomendowane usługi</string>
+  <string name="disable_wifi_direct">Wyłącz Wi-Fi Direct</string>
+  <string name="enable_location">Włącz lokalizację</string>
+  <string name="wifi_direct_location_rationale">Domyślna usługa drukowania wymaga włączenia usług lokalizacyjnych, by znaleźć urządzenia w pobliżu.</string>
+  <string name="wifi_direct_problem">Domyślna usługa drukowania nie może znaleźć drukarek Wi-Fi Direct.</string>
 </resources>

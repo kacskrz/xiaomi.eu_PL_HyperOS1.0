@@ -339,4 +339,12 @@ Możesz usunąć ten plik."</item>
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="every_x_day">
+        <item quantity="other">Co %d dni</item>
+        <item quantity="one">Codziennie</item>
+    </plurals>
+    <plurals name="last_x_day">
+        <item quantity="other">Ostatnie %d dni</item>
+        <item quantity="one">Ostatni dzień</item>
+    </plurals>
 </resources>

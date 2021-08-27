@@ -35,10 +35,8 @@
     <string name="search_menu_title">Szukaj</string>
     <string name="dialog_content_message2_auto_update">Automatycznie aktualizuj aplikacje, aby zapobiec takim problemom w przyszłości.</string>
     <string name="dialog_content_message_auto_update_path">Możesz włączyć automatyczne aktualizacje w ustawieniach sklepu z aplikacjami.</string>
-    <string name="dialog_content_message_oom_update_low_bit">"Aktualizuj aplikacje, gdy pojawi się ich nowa wersja.
-"</string>
-    <string name="dialog_content_message_update_low_bit">"Aplikacja %s wymusiła zamknięcie. Spróbuj ją zaktualizować, aby rozwiązać problem.
-"</string>
+    <string name="dialog_content_message_oom_update_low_bit">"Aktualizuj aplikacje, gdy pojawi się ich nowa wersja."</string>
+    <string name="dialog_content_message_update_low_bit">"Aplikacja %s wymusiła zamknięcie. Spróbuj ją zaktualizować, aby rozwiązać problem."</string>
     <string name="dialog_title_message_auto_update">Automatycznie aktualizuj aplikacje</string>
     <string name="go_open">Włącz</string>
     <string name="open_success">Pomyślnie włączono</string>
@@ -61,7 +59,18 @@
     <string name="er_exception_shell">Błędy terminala</string>
     <string name="er_exception_type_title">Wszystkie problemy</string>
     <string name="er_no_data">"Nie znaleziono rezultatów"</string>
-    <string name="er_notification_switch_content">Otrzymuj powiadomienia o błędach w aplikacjach firm trzecich about errors in third party apps</string>
+    <string name="er_notification_switch_content">Otrzymuj powiadomienia o błędach w aplikacjach firm trzecich</string>
     <string name="er_notification_switch_title">Informuj o błędach</string>
     <string name="er_wechat_update_64bit">Zaktualizuj aplikację WeChat do wersji 64-bitowej, aby zwiększyć stabilność</string>
+    <string name="close">Zamknij</string>
+    <string name="dialog_content_message_exception_result_guide">Wyświetl historię</string>
+    <string name="dialog_content_message_native_oom">"Aplikacja %s nie mogła prawidłowo używać pamięci ze względu na wewnętrzny błąd. "</string>
+    <string name="notification_content_message_emergency">%s, zobacz szczegóły</string>
+    <string name="notification_content_message_update">Spróbuj zaktualizować aplikację</string>
+    <string name="notification_content_message_update_auto">Spróbuj włączyć automatyczne aktualizacje</string>
+    <string name="notification_content_message_update_low_bit">Spróbuj zaktualizować aplikację</string>
+    <string name="notification_title_message_emergency_anr">"Aplikacja %s nie odpowiada"</string>
+    <string name="notification_title_message_emergency_crash">Wymuszono zamknięcie aplikacji %s</string>
+    <string name="notification_title_message_native_oom">"Aplikacja %s nie mogła prawidłowo używać pamięci"</string>
+    <string name="send">Wyślij</string>
 </resources>

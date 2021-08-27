@@ -1933,4 +1933,20 @@ Skontaktuj się z operatorem"</string>
   <string name="radio_info_nr_available">Dostępne NR:</string>
   <string name="radio_info_nr_frequency">Częstotliwość NR:</string>
   <string name="radio_info_nr_state">Stan NR:</string>
+  <string name="call_quality_notification_bluetooth_details">Twój sygnał Bluetooth jest słaby. Spróbuj przełączyć na głośnik.</string>
+  <string name="call_quality_notification_name">Powiadomienie o jakości połączenia</string>
+  <string name="cdma_call_waiting">Włączyć połączenie oczekujące?</string>
+  <string name="cdma_call_waiting_in_ims_off">Połączenie oczekujące CDMA, gdy usługa IMS jest wyłączona</string>
+  <string name="cdma_call_waiting_in_ims_on">Połączenie oczekujące CDMA, gdy usługa IMS jest włączona</string>
+  <string name="disable_cdma_cw">Anuluj</string>
+  <string name="enable_cdma_call_waiting_setting">Podczas rozmowy otrzymasz powiadomienie o połączeniach przychodzących</string>
+  <string name="enable_cdma_cw">Włącz</string>
+  <string name="notification_channel_sip_account">Wycofane konta SIP</string>
+  <string name="puk2_locked">Kod PUK2 zablokowany. Aby odblokować, skontaktuj się z dostawcą usług.</string>
+  <string name="registration_cf_forbidden">Twój operator nie obsługuje przekierowania połączeń.</string>
+  <string name="sip_accounts_removed_notification_action">Otwórz ustawienia</string>
+  <string name="sip_accounts_removed_notification_message">"Połączenia SIP nie są już obsługiwane na platformie Android.
+Twoje konta SIP (%s) zostały usunięte.
+Potwierdź ustawienie domyślnego konta do połączeń."</string>
+  <string name="sip_accounts_removed_notification_title">Wycofane konta SIP zostały znalezione i usunięte</string>
 </resources>

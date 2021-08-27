@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Dostosuj sposób wyświetlania kolorów na ekranie urządzenia. Może to być pomocne, gdy chcesz:&lt;br/>&lt;br/> &lt;ol> &lt;li>&amp;nbsp;dokładniej widzieć kolory;&lt;/li> &lt;li>&amp;nbsp;usunąć wybrane kolory, aby móc skuteczniej się skupić.&lt;/li> &lt;/ol></string>
+</resources>

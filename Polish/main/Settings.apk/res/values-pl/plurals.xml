@@ -721,4 +721,46 @@ Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się z administrat
         <item quantity="other">Co %d sek.</item>
         <item quantity="one">Co %d sek.</item>
     </plurals>
+    <plurals name="app_launch_supported_links_title">
+        <item quantity="other">%d obsługiwanego linku</item>
+        <item quantity="one">%d obsługiwany link</item>
+        <item quantity="few">%d obsługiwane linki</item>
+        <item quantity="many">%d obsługiwanych linków</item>
+    </plurals>
+    <plurals name="app_launch_verified_links_message">
+        <item quantity="other">Te linki są zweryfikowane i otwierają się automatycznie w tej aplikacji.</item>
+        <item quantity="one">Ten link jest zweryfikowany i otwiera się automatycznie w tej aplikacji.</item>
+        <item quantity="few">Te linki są zweryfikowane i otwierają się automatycznie w tej aplikacji.</item>
+        <item quantity="many">Te linki są zweryfikowane i otwierają się automatycznie w tej aplikacji.</item>
+    </plurals>
+    <plurals name="app_launch_verified_links_title">
+        <item quantity="other">%d zweryfikowanego linku</item>
+        <item quantity="one">%d zweryfikowany link</item>
+        <item quantity="few">%d zweryfikowane linki</item>
+        <item quantity="many">%d zweryfikowanych linków</item>
+    </plurals>
+    <plurals name="autofill_passwords_count">
+        <item quantity="other">%1$d hasła</item>
+        <item quantity="one">%1$d hasło</item>
+        <item quantity="few">%1$d hasła</item>
+        <item quantity="many">%1$d haseł</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowego powiadomienia</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+    </plurals>
+    <plurals name="number_of_urls">
+        <item quantity="other">%d adresu URL</item>
+        <item quantity="one">%d adres URL</item>
+        <item quantity="few">%d adresy URL</item>
+        <item quantity="many">%d adresów URL</item>
+    </plurals>
+    <plurals name="unused_apps_summary">
+        <item quantity="other">%d nieużywanej aplikacji</item>
+        <item quantity="one">%d nieużywana aplikacja</item>
+        <item quantity="few">%d nieużywane aplikacje</item>
+        <item quantity="many">%d nieużywanych aplikacji</item>
+    </plurals>
 </resources>

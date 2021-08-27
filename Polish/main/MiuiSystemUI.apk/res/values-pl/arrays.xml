@@ -70,4 +70,18 @@
         <item>Mżawka</item>
         <item></item>
     </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Skanuję…</item>
+        <item>Łączę…</item>
+        <item>Uwierzytelniam…</item>
+        <item>Uzyskuję adres IP…</item>
+        <item>Połączono</item>
+        <item>Zawieszono</item>
+        <item>Rozłączam…</item>
+        <item>Odłączono</item>
+        <item>Niepowodzenie</item>
+        <item>Zablokowano</item>
+        <item>Tymczasowe unikanie połączenia o niskiej jakości</item>
+    </string-array>
 </resources>

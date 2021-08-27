@@ -971,4 +971,10 @@
   <string name="wednesday">Środa</string>
   <string name="wednesday_short">Śr</string>
   <string name="wednesday_shortest">Śr</string>
+  <string name="guide_dc_dialog_message_new">"Pozostało mniej niż %d GB miejsca. Może to spowolnić pracę urządzenia. Wykonaj głębokie czyszczenie, aby zwolnić miejsce."</string>
+  <string name="guide_secure_dialog_message_new">Wynik optymalizacji urządzenia wynosi mniej niż %d punktów. Zoptymalizować je?</string>
+  <string name="low_memory_clean_dialog_msg_new">Najpierw wyczyść co najmniej %d MB plików</string>
+  <string name="tips_low_storage_dialog_msg_qq_new">Rozmiar pamięci podręcznej QQ osiągnął %d GB. Może to spowolnić pracę urządzenia. Wyczyścić pamięć podręczną QQ?</string>
+  <string name="tips_low_storage_dialog_msg_storage_new">"Zajęte jest %s miejsca w pamięci. Odinstaluj aplikacje, których nie używasz."</string>
+  <string name="tips_low_storage_dialog_msg_wechat_new">Rozmiar pamięci podręcznej WeChata osiągnął %d GB. Może to spowolnić pracę urządzenia. Wyczyścić pamięć podręczną WeChata?</string>
 </resources>

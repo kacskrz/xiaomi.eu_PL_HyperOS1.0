@@ -40,4 +40,13 @@
     <string name="radio_info_nr_available">Dostępne NR:</string>
     <string name="radio_info_nr_frequency">Częstotliwość NR:</string>
     <string name="radio_info_nr_state">Stan NR:</string>
+    <string name="attach_to_bug_report">Dołącz logi do raportów o błędach</string>
+    <string name="attach_to_bug_report_summary">Automatycznie przesyłaj logi działania do BetterBug podczas tworzenia raportu o błędzie</string>
+    <string name="attached_to_report">Dołączono log do raportu o błędzie</string>
+    <string name="attached_to_report_summary">Kliknij, by otworzyć BetterBug</string>
+    <string name="attaching_to_report">Dołączam log do raportu o błędzie</string>
+    <string name="link_to_traces">Wyświetl pliki śledzenia</string>
+    <string name="stop_on_bugreport">Zatrzymaj dołączanie logów do raportów o błędach</string>
+    <string name="stop_on_bugreport_summary">Kończy aktywną sesję rejestrowania logów po rozpoczęciu tworzenia raportu o błędzie</string>
+    <string name="window_blurs">Zezwól na rozmycie na poziomie okna</string>
 </resources>

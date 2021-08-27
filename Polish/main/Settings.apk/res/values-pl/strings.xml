@@ -9023,4 +9023,889 @@ Włącz tę funkcję i dotknij przycisku Ułatwień dostępu na dole ekranu, aby
   <string name="miuix_access_state_desc">Wybrano</string>
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
+    <string name="accessibility_audio_adjustment_title">Dostosowywanie dźwięku</string>
+    <string name="accessibility_banner_message_dismiss">Zamknij</string>
+    <string name="accessibility_button_description">"Szybko uruchamiaj ułatwienia dostępu na dowolnym ekranie. 
+
+Aby rozpocząć, otwórz ustawienia ułatwień dostępu i wybierz funkcję. Kliknij skrót i wybierz przycisk ułatwień dostępu."</string>
+    <string name="accessibility_button_fade_summary">Zanika po kilku sekundach, aby nie utrudniać oglądania ekranu</string>
+    <string name="accessibility_button_fade_title">Zanikanie, gdy nie w użyciu</string>
+    <string name="accessibility_button_high_label">Nieprzezroczyste</string>
+    <string name="accessibility_button_intro">Używam przycisku ułatwień dostępu. Ten gest nie jest dostępny w przypadku nawigacji przy użyciu 3 przycisków.</string>
+    <string name="accessibility_button_location_title">Lokalizacja</string>
+    <string name="accessibility_button_low_label">Przezroczyste</string>
+    <string name="accessibility_button_opacity_title">Przezroczystość, gdy nie w użyciu</string>
+    <string name="accessibility_button_or_gesture_title">Użyj przycisku lub gestu</string>
+    <string name="accessibility_button_size_title">Rozmiar</string>
+    <string name="accessibility_button_summary">Szybki dostęp do ułatwień dostępu</string>
+    <string name="accessibility_button_title">Przycisk ułatwień dostępu</string>
+    <string name="accessibility_caption_preference_summary">Nie wszystkie aplikacje obsługują te ustawienia napisów</string>
+    <string name="accessibility_caption_primary_switch_summary">Tylko w obsługiwanych aplikacjach</string>
+    <string name="accessibility_caption_primary_switch_title">Pokazuj napisy</string>
+    <string name="accessibility_daltonizer_primary_switch_title">Używaj korekcji kolorów</string>
+    <string name="accessibility_data_one_bar">Dane: jeden pasek.</string>
+    <string name="accessibility_data_signal_full">Dane: pełna moc sygnału.</string>
+    <string name="accessibility_data_three_bars">Dane: trzy paski.</string>
+    <string name="accessibility_data_two_bars">Dane: dwa paski.</string>
+    <string name="accessibility_ethernet_disconnected">Rozłączono z siecią Ethernet.</string>
+    <string name="accessibility_magnification_area_settings_mode_switch_summary">Klikaj przełącznik, aby przechodzić między opcjami</string>
+    <string name="accessibility_magnification_mode_dialog_option_full_screen">Powiększanie pełnego ekranu</string>
+    <string name="accessibility_magnification_mode_dialog_option_switch">Przełączanie pełnego i częściowego ekranu</string>
+    <string name="accessibility_magnification_mode_dialog_option_window">Powiększanie części ekranu</string>
+    <string name="accessibility_magnification_mode_dialog_title">Wybierz sposób powiększania</string>
+    <string name="accessibility_magnification_switch_shortcut_message">"Powiększanie ekranu trzykrotnym kliknięciem opóźnia pisanie i inne działania.
+
+Przycisk ułatwień dostępu pływa na ekranie przed innymi aplikacjami. Kliknij go, aby powiększyć."</string>
+    <string name="accessibility_magnification_switch_shortcut_negative_button">Używaj trzykrotnego kliknięcia</string>
+    <string name="accessibility_magnification_switch_shortcut_positive_button">Zmień na przycisk ułatwień dostępu</string>
+    <string name="accessibility_magnification_switch_shortcut_title">Zmienić na przycisk ułatwień dostępu?</string>
+    <string name="accessibility_no_calling">Brak połączenia.</string>
+    <string name="accessibility_no_data">Brak danych.</string>
+    <string name="accessibility_no_phone">Brak sygnału telefonu.</string>
+    <string name="accessibility_phone_one_bar">Telefon: jeden pasek.</string>
+    <string name="accessibility_phone_signal_full">Telefon: pełna moc sygnału.</string>
+    <string name="accessibility_phone_three_bars">Telefon: trzy paski.</string>
+    <string name="accessibility_phone_two_bars">Telefon: dwa paski.</string>
+    <string name="accessibility_service_primary_open_title">Otwórz %1$s</string>
+    <string name="accessibility_service_primary_switch_title">Użyj usługi %1$s</string>
+    <string name="accessibility_shortcut_edit_dialog_customize_software_gesture"><annotation id="link">Dostosuj gest ułatwień dostępu</annotation></string>
+    <string name="accessibility_shortcut_edit_dialog_summary_software_floating"><annotation id="link">Więcej opcji</annotation></string>
+    <string name="accessibility_shortcut_edit_dialog_title_software_by_gesture">Użyj gestu ułatwień dostępu</string>
+    <string name="accessibility_shortcut_edit_summary_software_gesture">Gest ułatwień dostępu</string>
+    <string name="accessibility_shortcuts_settings_title">Skróty ułatwień dostępu</string>
+    <string name="accessibility_system_controls_title">Systemowe elementy sterujące</string>
+    <string name="accessibility_tap_assistance_title">Elementy sterujące kodem czasowym</string>
+    <string name="accessibility_text_and_display_title">Tekst i wyświetlanie</string>
+    <string name="accessibility_toggle_primary_balance_left_label">Lewy</string>
+    <string name="accessibility_toggle_primary_balance_right_label">Prawy</string>
+    <string name="accessibility_toggle_primary_balance_title">Balans dźwięku</string>
+    <string name="accessibility_toggle_primary_mono_summary">Połącz kanały podczas odtwarzania dźwięku</string>
+    <string name="accessibility_toggle_primary_mono_title">Dźwięk mono</string>
+    <string name="accessibility_turn_screen_darker_title">Przyciemnij ekran</string>
+    <string name="accessibility_tutorial_dialog_message_floating_button">Aby użyć tej funkcji, kliknij przycisk ułatwień dostępu na ekranie.</string>
+    <string name="adaptive_battery_main_switch_title">Używaj Baterii adaptacyjnej</string>
+    <string name="adaptive_brightness_main_switch_title">Używaj automatycznej jasności</string>
+    <string name="adaptive_connectivity_summary">Wydłuża czas pracy na baterii i poprawia wydajność urządzenia dzięki automatycznemu zarządzaniu połączeniami sieciowymi</string>
+    <string name="adaptive_connectivity_title">Łączność adaptacyjna</string>
+    <string name="adaptive_sleep_camera_lock_summary">Aktywność ekranu wymaga odblokowania aparatu</string>
+    <string name="adaptive_sleep_manage_permission_button">Zarządzaj uprawnieniami</string>
+    <string name="add_user_failed">Nie udało się utworzyć nowego użytkownika</string>
+    <string name="admin_financed_message">Administrator urządzenia może uzyskiwać dostęp do danych powiązanych z tym urządzeniem, zarządzać aplikacjami i zmieniać ustawienia urządzenia.</string>
+    <string name="advanced_battery_preference_summary">Zobacz zużycie od ostatniego pełnego naładowania</string>
+    <string name="advanced_battery_preference_summary_with_hours">Wyświetl użycie z 24 godzin</string>
+    <string name="advanced_battery_preference_title">Wykorzystanie baterii</string>
+    <string name="alarms_and_reminders_footer_title">"Zezwól na ustawianie alarmów i planowanie innych działań, w przypadku których czas jest istotny. Dzięki temu aplikacja będzie mogła działać w tle, co może zwiększyć wykorzystanie baterii.
+
+Jeśli nie włączysz tych uprawnień, istniejące alarmy i zaplanowane wydarzenia z tej aplikacji nie będą działać."</string>
+    <string name="alarms_and_reminders_label">Alarmy i przypomnienia</string>
+    <string name="alarms_and_reminders_switch_title">Zezwalaj na ustawianie alarmów i przypomnień</string>
+    <string name="alarms_and_reminders_title">Alarmy i przypomnienia</string>
+    <string name="all_apps">Wszystkie aplikacje</string>
+    <string name="all_network_unavailable">Brak dostępnych sieci</string>
+    <string name="ambient_camera_battery_saver_off">Wyłącz oszczędzanie baterii</string>
+    <string name="ambient_camera_summary_battery_saver_on">Ustawienie wyłączone czasowo z powodu oszczędzania baterii</string>
+    <string name="apn_not_set_for_mvno">Nie ustawiono</string>
+    <string name="app_launch_add_link">Dodaj link</string>
+    <string name="app_launch_checking_links_title">Sprawdzam, czy są inne obsługiwane linki…</string>
+    <string name="app_launch_dialog_cancel">Anuluj</string>
+    <string name="app_launch_footer">Aplikacja może weryfikować linki, aby otwierać je automatycznie.</string>
+    <string name="app_launch_links_category">Linki otwierane w tej aplikacji</string>
+    <string name="app_launch_supported_links_add">Dodaj</string>
+    <string name="app_launch_supported_links_subtext">Otwiera się w aplikacji %s</string>
+    <string name="app_launch_top_intro_message">Zezwalaj na otwieranie linków internetowych w tej aplikacji</string>
+    <string name="app_launch_verified_links_info_description">Pokaż listę linków weryfikacyjnych</string>    
+    <string name="app_notification_field">Ustawienia aplikacji</string>
+    <string name="app_pinning_intro">Przypinanie aplikacji pozwala wyświetlać bieżącą aplikację nad innymi, by była widoczna, dopóki jej nie odepniesz. Możesz użyć tej funkcji, np. by pozwolić zaufanemu znajomemu zagrać w wybraną grę.</string>
+    <string name="app_pinning_main_switch_title">Używaj przypinania aplikacji</string>
+    <string name="apps_dashboard_title">Aplikacje</string>
+    <string name="assistant_corner_gesture_summary">Przesuń palcem z dolnego rogu ekranu w górę, aby wywołać aplikację cyfrowego asystenta.</string>
+    <string name="assistant_corner_gesture_title">Przesuń palcem, aby wywołać asystenta</string>
+    <string name="assistant_gesture_category_title">Asystent cyfrowy</string>
+    <string name="asst_feedback_indicator_summary">Pokaż zmiany w ustawieniach powiadomień oraz wyświetl opcję przesyłania opinii do systemu</string>
+    <string name="asst_feedback_indicator_title">Opinia na temat powiadomień adaptacyjnych</string>
+    <string name="asst_importance_reset_summary">Zresetuj zmienione przez użytkownika ustawienia ważności i zezwól na ustalenie priorytetów przez asystenta powiadomień</string>
+    <string name="asst_importance_reset_title">Resetuj ważność powiadomień</string>
+    <string name="audio_category_title">Dźwięk</string>
+    <string name="auto_rotate_camera_lock_summary">Wykrywanie twarzy wymaga odblokowania aparatu</string>
+    <string name="auto_rotate_camera_lock_title">Aparat jest zablokowany</string>
+    <string name="auto_rotate_manage_permission_button">Zarządzaj uprawnieniami</string>
+    <string name="auto_rotate_option_face_based">Włączono – na podstawie twarzy</string>
+    <string name="auto_rotate_option_off">Wyłączono</string>
+    <string name="auto_rotate_option_on">Włączono</string>
+    <string name="auto_rotate_settings_primary_switch_title">Używaj autoobracania</string>
+    <string name="auto_rotate_summary_no_permission">Wykrywanie twarzy wymaga dostępu do aparatu. Kliknij, aby zarządzać uprawnieniami usług personalizacji urządzenia.</string>
+    <string name="auto_rotate_switch_face_based">Włącz wykrywanie twarzy</string>
+    <string name="autofill_passwords">Hasła</string>
+    <string name="automatic_storage_manager_primary_switch_title">Użyj Inteligentnej pamięci</string>
+    <string name="aware_summary_when_bedtime_on">Niedostępne, ponieważ włączony jest tryb snu</string>
+    <string name="background_activity_summary_allowlisted">Nie można ograniczyć działania w tle</string>
+    <string name="backup_calling_setting_summary">Jeśli usługa %1$s jest niedostępna, użyj karty SIM z mobilną transmisją danych do połączeń w sieci %1$s.</string>
+    <string name="backup_calling_settings_title">Zapasowa metoda wykonywania połączeń</string>
+    <string name="battery_app_usage_for">Wykorzystanie przez aplikacje w ciągu %s</string>
+    <string name="battery_app_usage_for_past_24">Wykorzystanie przez aplikacje w ciągu ostatnich 24 godzin</string>
+    <string name="battery_bg_usage">^1 w tle od ostatniego pełnego naładowania</string>
+    <string name="battery_bg_usage_24hr">^1 w tle w ciągu ostatnich 24 godzin</string>
+    <string name="battery_bg_usage_less_minute">W tle mniej niż minutę od ostatniego pełnego naładowania</string>
+    <string name="battery_bg_usage_less_minute_24hr">W tle mniej niż minutę w ciągu ostatnich 24 godzin</string>
+    <string name="battery_bg_usage_less_minute_with_period">W tle mniej niż minutę w okresie ^1</string>
+    <string name="battery_bg_usage_with_period">^1 w tle przez ^2</string>
+    <string name="battery_manager_summary">Wydłuż czas pracy na baterii i zoptymalizuj ładowanie</string>
+    <string name="battery_missing_link_a11y_message">Kliknij, by dowiedzieć się więcej o tym błędzie</string>
+    <string name="battery_missing_message">Problem z odczytaniem pomiaru wykorzystania baterii</string>
+    <string name="battery_not_usage">Brak użycia od ostatniego pełnego naładowania</string>
+    <string name="battery_not_usage_24hr">Brak wykorzystania w ciągu ostatnich 24 godzin</string>
+    <string name="battery_saver_link_a11y">Więcej informacji o Oszczędzaniu baterii</string>
+    <string name="battery_saver_main_switch_title">Używaj oszczędzania baterii</string>
+    <string name="battery_saver_pref_auto_routine_summary">Włącza się na podstawie rutyny</string>
+    <string name="battery_summary_24hr">Wykorzystano %1$s w ciągu ostatnich 24 godzin</string>
+    <string name="battery_system_usage_for">Wykorzystanie przez system w ciągu %s</string>
+    <string name="battery_system_usage_for_past_24">Wykorzystanie przez system w ciągu ostatnich 24 godzin</string>
+    <string name="battery_tip_limited_temporarily_summary">Aby zmniejszyć zużycie baterii. Więcej informacji.</string>
+    <string name="battery_tip_limited_temporarily_title">Ładowanie tymczasowo ograniczone</string>
+    <string name="battery_total_and_bg_usage">"Łącznie ^1 • ^2 w tle
+od ostatniego pełnego naładowania"</string>
+    <string name="battery_total_and_bg_usage_24hr">"Łącznie ^1 • ^2 w tle w ciągu
+ostatnich 24 godzin"</string>
+    <string name="battery_total_and_bg_usage_with_period">"Łącznie ^1 • ^2 w tle
+w okresie ^3"</string>
+    <string name="battery_total_usage">Łącznie ^1 od ostatniego pełnego naładowania</string>
+    <string name="battery_total_usage_24hr">Łącznie ^1 w ciągu ostatnich 24 godzin</string>
+    <string name="battery_total_usage_and_bg_less_minute_usage">"Łącznie ^1 • 
+ w tle od ostatniego pełnego naładowania"</string>
+    <string name="battery_total_usage_and_bg_less_minute_usage_24hr">"Łącznie ^1 • w tle mniej niż minutę
+w ciągu ostatnich 24 godz."</string>
+    <string name="battery_total_usage_and_bg_less_minute_usage_with_period">"Łącznie ^1 • w tle mniej niż minutę
+w okresie ^2"</string>
+    <string name="battery_total_usage_less_minute">Łącznie mniej niż minutę od ostatniego pełnego naładowania</string>
+    <string name="battery_total_usage_less_minute_24hr">Łącznie mniej niż minutę w ciągu ostatnich 24 godzin</string>
+    <string name="battery_total_usage_less_minute_with_period">Łącznie mniej niż minutę w okresie ^1</string>
+    <string name="battery_total_usage_with_period">Łącznie ^1 w okresie ^2</string>
+    <string name="battery_usage_background_less_than_one_minute">W tle: niecała minuta</string>
+    <string name="battery_usage_chart">Wykres zużycia baterii</string>
+    <string name="battery_usage_chart_graph_hint">Poziom naładowania baterii w ciągu ostatnich 24 godzin</string>
+    <string name="battery_usage_for_background_time">W tle: %s</string>
+    <string name="battery_usage_for_total_time">Łącznie: %s</string>
+    <string name="battery_usage_screen_footer">Dane o wykorzystaniu baterii są przybliżone i nie są mierzone podczas ładowania telefonu</string>
+    <string name="battery_usage_screen_footer_empty">Dane o wykorzystaniu baterii będą dostępne po kilku godzinach używania telefonu</string>
+    <string name="battery_usage_total_less_than_one_minute">Łącznie: niecała minuta</string>
+    <string name="biometric_settings_category_ways_to_unlock">Sposoby odblokowywania</string>
+    <string name="biometric_settings_category_ways_to_use">Używaj rozpoznawania twarzy i odcisku palca</string>
+    <string name="biometric_settings_intro">Jeśli ustawisz rozpoznawanie twarzy i odblokowywanie odciskiem palca, w ciemnym otoczeniu oraz w sytuacji, gdy będziesz mieć maskę, pojawi się prośba o użycie odcisku palca</string>
+    <string name="biometric_settings_use_biometric_for_apps">uwierzytelniania w aplikacjach</string>
+    <string name="biometric_settings_use_biometric_unlock_phone">odblokowywania telefonu</string>
+    <string name="biometrics_unlock_set_unlock_password">Hasło • Twarz • Odcisk palca</string>
+    <string name="biometrics_unlock_set_unlock_pattern">Wzór • Twarz • Odcisk palca</string>
+    <string name="biometrics_unlock_set_unlock_pin">Kod PIN • Twarz • Odcisk palca</string>
+    <string name="biometrics_unlock_skip_biometrics">Kontynuuj bez rozpoznawania twarzy lub odcisku palca</string>
+    <string name="biometrics_unlock_title">Możesz odblokowywać telefon, korzystając z rozpoznawania twarzy lub odcisku palca. Ze względów bezpieczeństwa ta opcja wymaga dodatkowej blokady ekranu.</string>
+    <string name="bluetooth_companion_app_body">Aplikacja %1$s nie będzie już łączyć się z urządzeniem %2$s</string>
+    <string name="bluetooth_companion_app_remove_association_confirm_button">Odłącz aplikację</string>
+    <string name="bluetooth_companion_app_remove_association_dialog_title">Odłączyć aplikację?</string>
+    <string name="bluetooth_connect_access_dialog_content">"%1$s chce połączyć się z tym telefonem.
+
+Twój telefon nigdy wcześniej nie był połączony z urządzeniem %2$s."</string>
+    <string name="bluetooth_connect_access_dialog_negative">Nie łącz</string>
+    <string name="bluetooth_connect_access_dialog_positive">Połącz</string>
+    <string name="bluetooth_connect_access_dialog_title">Połączyć z urządzeniem Bluetooth?</string>
+    <string name="bluetooth_connect_access_notification_content">Urządzenie chce się połączyć. Kliknij, by wyświetlić szczegóły.</string>
+    <string name="bluetooth_connect_access_notification_title">Dostępne jest urządzenie Bluetooth</string>
+    <string name="bluetooth_main_switch_title">Używaj Bluetootha</string>
+    <string name="bluetooth_setting_off">Wyłączony</string>
+    <string name="bluetooth_setting_on">Włączony</string>
+    <string name="bluetooth_sim_card_access_dialog_content">"Urządzenie Bluetooth (%1$s) chce uzyskać dostęp do danych na Twojej karcie SIM. Te dane obejmują również Twoje kontakty.
+
+Gdy urządzenia będą połączone, %2$s będzie otrzymywać wszystkie rozmowy przychodzące na numer %3$s."</string>
+    <string name="bluetooth_sim_card_access_dialog_title">Zezwolić na dostęp do karty SIM?</string>
+    <string name="bluetooth_sim_card_access_notification_content">Urządzenie chce uzyskać dostęp do Twojej karty SIM. Kliknij, by wyświetlić szczegóły.</string>
+    <string name="bluetooth_sim_card_access_notification_title">Prośba o dostęp do karty SIM</string>
+    <string name="bottomsheet_action_expand_halfway">Rozwiń do połowy</string>
+    <string name="calls_and_sms">Połączenia i SMS-y</string>
+    <string name="calls_preference_title">Połączenia</string>
+    <string name="calls_sms_calls_preferred">preferowana do połączeń</string>
+    <string name="calls_sms_footnote">Połączenia przez Wi-Fi umożliwiają nawiązywanie i odbieranie połączeń w sieciach Wi-Fi nienależących do operatorów. <annotation id="url">Więcej informacji</annotation></string>
+    <string name="calls_sms_no_sim">Brak karty SIM</string>
+    <string name="calls_sms_preferred">preferowane</string>
+    <string name="calls_sms_sms_preferred">preferowana do SMS-ów</string>
+    <string name="calls_sms_temp_unavailable">Chwilowo niedostępna</string>
+    <string name="calls_sms_unavailable">niedostępne</string>
+    <string name="calls_sms_wfc_summary">Nawiązuj i odbieraj połączenia w sieciach Wi‑Fi</string>
+    <string name="camera_toggle_title">Dostęp do aparatu</string>
+    <string name="captions_category_title">Napisy</string>
+    <string name="carrier_network_change_mode">Zmiana sieci operatora</string>
+    <string name="carrier_wifi_network_title">Sieć W+</string>
+    <string name="carrier_wifi_offload_summary">Zezwalaj na korzystanie przez Google Fi z sieci W+, aby zwiększyć szybkość i zasięg</string>
+    <string name="carrier_wifi_offload_title">Połączenia W+</string>
+    <string name="category_name_appearance">Wygląd</string>
+    <string name="category_name_brightness">Jasność</string>
+    <string name="category_name_color">Kolor</string>
+    <string name="category_name_display_controls">Inne ustawienia wyświetlacza</string>
+    <string name="category_name_general">Ogólne</string>
+    <string name="category_name_lock_display">Blokowanie wyświetlacza</string>
+    <string name="category_name_others">Inne</string>
+    <string name="cell_data_off_content_description">Wyłączona</string>
+    <string name="certificate_management_app">Aplikacja do zarządzania certyfikatami</string>
+    <string name="certificate_management_app_description">Certyfikaty sprawdzą Twoją tożsamość podczas korzystania z aplikacji i adresów URL podanych niżej</string>
+    <string name="choose_sim_activating">Aktywuję…</string>
+    <string name="choose_sim_could_not_activate">Nie udało się aktywować</string>
+    <string name="choose_sim_item_summary_unknown">Nieznany numer</string>
+    <string name="choose_sim_text">Na tym urządzeniu dostępne jest %1$d numerów, ale nie można używać wielu numerów jednocześnie</string>
+    <string name="choose_sim_title">Wybierz numer, który ma być używany</string>
+    <string name="clear">Wyczyść</string>
+    <string name="connected_device_see_all_summary">Zostanie włączony Bluetooth</string>
+    <string name="connected_devices_dashboard_default_summary">Bluetooth, parowanie</string>
+    <string name="connected_to_metered_access_point">Połączono z siecią z pomiarem użycia danych</string>
+    <string name="conversation_notifs_category">Rozmowa</string>
+    <string name="conversation_settings_clear_recents">Wyczyść ostatnie wątki</string>
+    <string name="creating_new_user_dialog_message">Tworzę nowego użytkownika…</string>
+    <string name="daltonizer_mode_grayscale_title">Tryb szarości</string>
+    <string name="dark_theme_main_switch_title">Używaj ciemnego motywu</string>
+    <string name="default_active_sim_calls">połączenia</string>
+    <string name="default_active_sim_mobile_data">mobilna transmisja danych</string>
+    <string name="default_print_service_main_switch_title">Użyj usługi drukowania</string>
+    <string name="default_see_all_apps_title">Wyświetl wszystkie aplikacje</string>
+    <string name="developer_options_main_switch_title">Używaj opcji programisty</string>
+    <string name="disabled_by_policy_content_biometric_parental_consent">Przekaż telefon rodzicowi, by rozpoczął konfigurację</string>
+    <string name="disabled_by_policy_title_biometric_parental_consent">Potrzebny jest rodzic</string>
+    <string name="disabled_by_policy_title_financed_device">Funkcja zablokowana przez operatora kredytu</string>
+    <string name="do_not_disturb_main_switch_title_off">Włącz teraz</string>
+    <string name="do_not_disturb_main_switch_title_on">Wyłącz teraz</string>
+    <string name="downloaded_sim_category_title">POBRANA KARTA SIM</string>
+    <string name="dsds_activation_failure_body_msg1">Wyjmij kartę SIM i włóż ją ponownie. Jeśli problem nie ustąpi, uruchom urządzenie ponownie.</string>
+    <string name="dsds_activation_failure_body_msg2">Spróbuj ponownie włączyć kartę SIM. Jeśli problem nie ustąpi, uruchom urządzenie ponownie.</string>
+    <string name="dsds_activation_failure_title">Nie można aktywować karty SIM</string>
+    <string name="dsds_notification_after_suw_text">Wybierz aktywną kartę SIM lub używaj 2 kart jednocześnie</string>
+    <string name="dsds_notification_after_suw_title">Skonfiguruj drugą kartę SIM</string>
+    <string name="emergency_dashboard_summary">Połączenie alarmowe, informacje medyczne, alerty</string>
+    <string name="emergency_gesture_call_for_help_dialog_title">Numer, pod którym można uzyskać pomoc</string>
+    <string name="emergency_gesture_call_for_help_summary">%1$s. Kliknij, by zmienić.</string>
+    <string name="emergency_gesture_call_for_help_title">Wezwij pomoc</string>
+    <string name="emergency_gesture_category_call_for_help_title">Wezwanie pomocy</string>
+    <string name="emergency_gesture_entrypoint_summary">Zarządzane przez: %1$s</string>
+    <string name="emergency_gesture_number_override_notes">"Jeśli wpiszesz numer inny niż alarmowy:
+ • aby można było wykonać połączenie alarmowe, urządzenie musi być odblokowane;
+ • połączenie może nie zostać odebrane."</string>
+    <string name="emergency_gesture_screen_summary">Naciśnij szybko przycisk zasilania co najmniej 5 razy, aby uruchomić działania wymienione niżej</string>
+    <string name="emergency_gesture_sound_setting_summary">Odtwarzaj głośny dźwięk przy nawiązywaniu połączenia alarmowego</string>
+    <string name="emergency_gesture_sound_setting_title">Odtwórz alarm z odliczaniem</string>
+    <string name="emergency_gesture_switchbar_title">Włącz połączenie alarmowe</string>
+    <string name="emergency_settings_preference_title">Bezpieczeństwo i tryb alarmowy</string>
+    <string name="enable_2g_summary">Używaj połączeń komórkowych 2G. W przypadku połączeń alarmowych sieć 2G jest zawsze włączona.</string>
+    <string name="enable_2g_title">Zezwól na 2G</string>
+    <string name="enable_non_resizable_multi_window">Włącz brak możliwości zmiany rozmiaru w trybie wielu okien</string>
+    <string name="enable_non_resizable_multi_window_summary">Zezwala na wyświetlanie aplikacji bez możliwości zmiany rozmiaru w trybie wielu okien</string>
+    <string name="encryption_interstitial_message_password_for_biometrics">"Jeśli korzystasz z funkcji odblokowywania biometrycznego, dla większego bezpieczeństwa możesz wymagać podania hasła przed uruchomieniem urządzenia. Dopóki urządzenie nie zostanie uruchomione, nie może odbierać połączeń, wiadomości ani powiadomień (w tym alarmów).
+
+Pomaga to chronić dane na zgubionych i skradzionych urządzeniach. Wymagać hasła do uruchomienia urządzenia?"</string>
+    <string name="encryption_interstitial_message_pattern_for_biometrics">"Jeśli korzystasz z funkcji odblokowywania biometrycznego, dla większego bezpieczeństwa możesz wymagać narysowania wzoru przed uruchomieniem urządzenia. Dopóki urządzenie nie zostanie uruchomione, nie może odbierać połączeń, wiadomości ani powiadomień (w tym alarmów).
+
+Pomaga to chronić dane na zgubionych i skradzionych urządzeniach. Wymagać wzoru do uruchomienia urządzenia?"</string>
+    <string name="encryption_interstitial_message_pin_for_biometrics">"Jeśli korzystasz z funkcji odblokowywania biometrycznego, dla większego bezpieczeństwa możesz wymagać podania kodu PIN przed uruchomieniem urządzenia. Dopóki urządzenie nie zostanie uruchomione, nie może odbierać połączeń, wiadomości ani powiadomień (w tym alarmów).
+
+Pomaga to chronić dane na zgubionych i skradzionych urządzeniach. Wymagać kodu PIN do uruchomienia urządzenia?"</string>
+    <string name="erase_euicc_data_button">Usuń</string>
+    <string name="erase_sim_confirm_button">Skasuj</string>
+    <string name="erase_sim_dialog_text">"Wykasowanie danych z tej karty SIM spowoduje usunięcie sieci %1$s z tego urządzenia.
+
+Nie oznacza to jednak rezygnacji z usługi %1$s."</string>
+    <string name="erase_sim_dialog_title">Skasować dane z tej pobranej karty SIM?</string>
+    <string name="erase_sim_fail_text">"Nie można wykasować danych z tej karty SIM z powodu błędu.
+
+Uruchom urządzenie ponownie i spróbuj jeszcze raz."</string>
+    <string name="erase_sim_fail_title">Nie można wykasować danych z karty SIM</string>
+    <string name="erasing_sim">Kasuję dane z karty SIM…</string>
+    <string name="error_icon_content_description">Błąd</string>
+    <string name="exposed_dropdown_menu_content_description">Pokaż menu</string>
+    <string name="financed_privacy_data">Dane powiązane z kontem, np. e-maile i informacje z kalendarza</string>
+    <string name="financed_privacy_exposure_category">Rodzaje informacji widoczne dla administratora Twojego urządzenia</string>
+    <string name="financed_privacy_exposure_changes_category">Zmiany wprowadzone przez administratora Twojego urządzenia</string>
+    <string name="financed_privacy_failed_password_wipe_device">Nieudane próby podania hasła przed usunięciem danych z urządzenia</string>
+    <string name="financed_privacy_header">"Operator udzielający kredytu może zmieniać ustawienia i instalować oprogramowanie na tym urządzeniu.
+
+Aby dowiedzieć się więcej, skontaktuj się z operatorem udzielającym kredytu."</string>
+    <string name="financed_privacy_lock_device">Administrator urządzenia może zablokować to urządzenie i zresetować hasło</string>
+    <string name="financed_privacy_settings">Informacje o urządzeniu finansowanym</string>
+    <string name="financed_privacy_wipe_device">Administrator urządzenia może usunąć wszystkie dane z urządzenia</string>
+    <string name="fingerprint_v2_delete_message">Ta czynność usuwa zapisane na urządzeniu obrazy i modele odcisku palca powiązane z: „%1$s”</string>
+    <string name="fix_connectivity">Rozwiąż problemy z połączeniami</string>
+    <string name="footer_learn_more_content_description">Więcej informacji: %1$s</string>
+    <string name="force_bold_text">Włącz pogrubienie tekstu</string>
+    <string name="force_high_refresh_rate_desc">Najszybsza częstotliwość odświeżania zapewnia szybszą reakcję na dotyk i wyższą jakość animacji. Zwiększa zużycie baterii.</string>
+    <string name="force_high_refresh_rate_toggle">Wymuś częstotliwość odświeżania na najwyższym poziomie</string>
+    <string name="game_settings_summary">Włączanie skrótu do panelu gier i inne ustawienia</string>
+    <string name="game_settings_title">Ustawienia gier</string>
+    <string name="general_category_title">Ogólne</string>
+    <string name="general_notification_header">Zarządzaj</string>
+    <string name="graphics_driver_app_preference_production_driver">Sterownik gry</string>
+    <string name="graphics_driver_main_switch_title">Używaj ustawień sterownika grafiki</string>
+    <string name="item_view_role_description">Karta</string>
+    <string name="keywords_accessibility">łatwa obsługa, łatwy dostęp, pomoc, wsparcie</string>
+    <string name="keywords_accessibility_menu">ruchowy, menu szybkiego dostępu, menu wspomagające, klikanie, sprawność</string>
+    <string name="keywords_airplane_safe_networks">samolot, bezpieczny w trybie samolotowym</string>
+    <string name="keywords_alarms_and_reminders">harmonogram, alarm, przypomnienie, zegar</string>
+    <string name="keywords_auto_click">ruchowy, mysz</string>
+    <string name="keywords_backup_calling">zapasowa metoda wykonywania połączeń</string>
+    <string name="keywords_battery_adaptive_preferences">ustawienia funkcji adaptacyjnych, bateria adaptacyjna</string>
+    <string name="keywords_battery_saver">oszczędzanie baterii, oszczędzanie energii, oszczędzanie</string>
+    <string name="keywords_battery_usage">wyświetlanie wykorzystania baterii, wykorzystanie baterii, zużycie energii</string>
+    <string name="keywords_biometric_settings">twarz, odcisk palca, dodaj odcisk palca</string>
+    <string name="keywords_biometric_unlock">twarz, odblokowywanie, Uwierzytelnianie, logowanie, odcisk palca, biometryczny</string>
+    <string name="keywords_bold_text">duży kontrast, niedowidzący, pogrubiona czcionka, pogrubiona twarz</string>
+    <string name="keywords_color_correction">dostosowywanie kolorów</string>
+    <string name="keywords_color_inversion">przyciemnienie ekranu, rozjaśnienie ekranu</string>
+    <string name="keywords_display_size">rozmiar ekranu, duży ekran</string>
+    <string name="keywords_font_size">rozmiar tekstu, duży druk, duża czcionka, duży tekst, niedowidzenie, powiększenie tekstu, powiększenie czcionki</string>
+    <string name="keywords_hearing_aids">niedosłuch, utrata słuchu</string>
+    <string name="keywords_internet">połączenie sieciowe, internet, bezprzewodowy, dane, Wi-Fi, wi-fi, wi fi, komórka, telefon, operator komórkowy, 4g, 3g, 2g, lte</string>
+    <string name="keywords_live_caption">napisy, Transkrypcja na żywo, niedosłuch, utrata słuchu, CART, zamiana mowy na tekst</string>
+    <string name="keywords_live_transcribe">napisy, Napisy na żywo, niedosłuch, utrata słuchu, CART, zamiana mowy na tekst</string>
+    <string name="keywords_magnification">powiększenie okna, zoom, powiększenie, niedowidzenie, powiększanie, powiększyć</string>
+    <string name="keywords_media_controls">multimedia</string>
+    <string name="keywords_media_management_apps">multimedia, plik, zarządzanie, menedżer, zarządzać, edytowanie, edytor, aplikacja, program</string>
+    <string name="keywords_one_handed">osiągalność</string>
+    <string name="keywords_reduce_bright_colors">światłowstręt, fotofobia, ciemny motyw, migrena, ból głowy, tryb czytania, tryb nocny, zmniejszona jasność, punkt bieli</string>
+    <string name="keywords_rtt">niedosłuch, utrata słuchu, napisy, dalekopis, TTY</string>
+    <string name="keywords_select_to_speak">słyszenie tekstu, czytanie na głos, czytanie ekranu, czytnik ekranu</string>
+    <string name="keywords_sound_amplifier">CPR, wzmocnienie, wzmocnienie dźwięku, niedosłuch, utrata słuchu, wzmocnić</string>
+    <string name="keywords_sound_notifications">powiadomienia, niedosłuch, utrata słuchu, powiadomić</string>
+    <string name="keywords_switch_access">ruchowy, przełącznik, dłoń, AT, technologia wspomagająca osoby z niepełnosprawnością, paraliż, ALS, skanowanie, skanowanie krokowe</string>
+    <string name="keywords_talkback">czytnik ekranu, lektor, Asystent głosowy, utrata wzroku, niedowidzenie, TTS, zamiana tekstu na mowę, komunikaty głosowe</string>
+    <string name="keywords_voice_access">głos, sterowanie głosem, ruchowy, dłoń, mikrofon, dyktowanie, rozmowa, zarządzanie</string>
+    <string name="keywords_wallet">portfel</string>
+    <string name="location_category">Lokalizacja</string>
+    <string name="location_indicator_settings_description">Pokazuj w przypadku wszystkich lokalizacji, w tym określonych na podstawie sieci i połączeń</string>
+    <string name="location_indicator_settings_title">Wskaźnik lokalizacji na pasku stanu</string>
+    <string name="location_recent_location_access_see_all">Pokaż wszystko</string>
+    <string name="location_services_preference_title">Usługi lokalizacyjne</string>
+    <string name="location_services_screen_title">Usługi lokalizacyjne</string>
+    <string name="location_settings_footer_general">Aplikacje z uprawnieniami dostępu do urządzeń w pobliżu mogą określać położenie połączonych urządzeń względem siebie.</string>
+    <string name="location_settings_footer_learn_more_content_description">Dowiedz się więcej o ustawieniach lokalizacji.</string>
+    <string name="location_settings_footer_location_off">Dostęp aplikacji i usług do lokalizacji jest wyłączony. Informacje o lokalizacji urządzenia mogą jednak zostać przesłane do ratowników, gdy zadzwonisz lub wyślesz SMS-a na numer alarmowy.</string>
+    <string name="location_settings_primary_switch_title">Włącz lokalizację</string>
+    <string name="location_time_zone_detection_auto_is_off">Automatyczna strefa czasowa jest wyłączona</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_cancel_button">Anuluj</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_message">Aby ustawić strefę czasową na podstawie lokalizacji, włącz lokalizację, a potem zaktualizuj ustawienia strefy czasowej</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_ok_button">Ustawienia lokalizacji</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_title">Wymagany dostęp do lokalizacji urządzenia</string>
+    <string name="location_time_zone_detection_not_allowed">Wprowadzanie zmian dotyczących wykrywania strefy czasowej lokalizacji nie jest dozwolone</string>
+    <string name="location_time_zone_detection_not_applicable">Wykrywanie strefy czasowej lokalizacji jest wyłączone</string>
+    <string name="location_time_zone_detection_not_supported">Wykrywanie strefy czasowej lokalizacji nie jest obsługiwane</string>
+    <string name="location_time_zone_detection_toggle_title">Używaj lokalizacji, aby ustawić strefę czasową</string>
+    <string name="lock_screen_password_skip_biometrics_message">"Do skonfigurowania rozpoznawania twarzy i odblokowywania odciskiem palca wymagane jest hasło.
+
+Hasło ochroni telefon, jeśli zostanie zgubiony lub skradziony."</string>
+    <string name="lock_screen_password_skip_biometrics_title">Pominąć konfigurowanie hasła, rozpoznawania twarzy i odcisku palca?</string>
+    <string name="lock_screen_password_skip_face_message">"Do skonfigurowania rozpoznawania twarzy wymagane jest hasło.
+
+Hasło ochroni telefon, jeśli zostanie zgubiony lub skradziony."</string>
+    <string name="lock_screen_password_skip_face_title">Pominąć konfigurowanie hasła i rozpoznawania twarzy?</string>
+    <string name="lock_screen_password_skip_fingerprint_message">"Aby skonfigurować odblokowywanie odciskiem palca, musisz mieć ustawione hasło.
+
+Hasło ochroni telefon, jeśli zostanie zgubiony lub skradziony."</string>
+    <string name="lock_screen_password_skip_fingerprint_title">Pominąć konfigurowanie hasła i odcisku palca?</string>
+    <string name="lock_screen_password_skip_message">Hasło ochroni telefon, jeśli zostanie zgubiony lub skradziony</string>
+    <string name="lock_screen_pattern_skip_biometrics_message">"Do skonfigurowania rozpoznawania twarzy i odblokowywania odciskiem palca wymagany jest wzór.
+
+Wzór ochroni telefon, jeśli zostanie zgubiony lub skradziony."</string>
+    <string name="lock_screen_pattern_skip_biometrics_title">Pominąć konfigurowanie wzoru, rozpoznawania twarzy i odcisku palca?</string>
+    <string name="lock_screen_pattern_skip_face_message">"Do skonfigurowania rozpoznawania twarzy wymagany jest wzór.
+
+Wzór ochroni telefon, jeśli zostanie zgubiony lub skradziony."</string>
+    <string name="lock_screen_pattern_skip_face_title">Pominąć konfigurowanie wzoru i rozpoznawania twarzy?</string>
+    <string name="lock_screen_pattern_skip_fingerprint_message">"Aby skonfigurować odblokowywanie odciskiem palca, musisz mieć ustawiony wzór.
+
+Wzór ochroni telefon, jeśli zostanie zgubiony lub skradziony."</string>
+    <string name="lock_screen_pattern_skip_fingerprint_title">Pominąć konfigurowanie wzoru i odcisku palca?</string>
+    <string name="lock_screen_pattern_skip_message">Wzór ochroni telefon, jeśli zostanie zgubiony lub skradziony</string>
+    <string name="lock_screen_pin_skip_biometrics_message">"Do skonfigurowania rozpoznawania twarzy i odblokowywania odciskiem palca wymagany jest kod PIN.
+
+Kod PIN ochroni telefon, jeśli zostanie zgubiony lub skradziony."</string>
+    <string name="lock_screen_pin_skip_biometrics_title">Pominąć konfigurowanie kodu PIN, rozpoznawania twarzy i odcisku palca?</string>
+    <string name="lock_screen_pin_skip_face_message">"Do skonfigurowania rozpoznawania twarzy wymagany jest kod PIN.
+
+Kod PIN ochroni telefon, jeśli zostanie zgubiony lub skradziony."</string>
+    <string name="lock_screen_pin_skip_face_title">Pominąć konfigurowanie kodu PIN i rozpoznawania twarzy?</string>
+    <string name="lock_screen_pin_skip_fingerprint_message">"Aby skonfigurować odblokowywanie odciskiem palca, musisz mieć ustawiony kod PIN.
+
+Kod PIN ochroni telefon, jeśli zostanie zgubiony lub skradziony."</string>
+    <string name="lock_screen_pin_skip_fingerprint_title">Pominąć konfigurowanie kodu PIN i odcisku palca?</string>
+    <string name="lock_screen_pin_skip_message">Kod PIN ochroni telefon, jeśli zostanie zgubiony lub skradziony</string>
+    <string name="lock_settings_picker_admin_restricted_personal_message">Tej blokady nie może zresetować Twój administrator IT. LINK_BEGINUstaw osobną blokadę służbowąLINK_END</string>
+    <string name="lock_settings_picker_biometric_message">Wybierz dodatkową metodę blokowania ekranu</string>
+    <string name="lock_settings_picker_new_lock_title">Wybierz blokadę ekranu</string>
+    <string name="lock_settings_picker_new_profile_lock_title">Wybierz blokadę dla aplikacji służbowych</string>
+    <string name="lock_settings_picker_profile_message">Jeśli zapomnisz tej blokady, poproś administratora IT o jej zresetowanie</string>
+    <string name="lock_settings_picker_update_lock_title">Wybierz nową blokadę ekranu</string>
+    <string name="lock_settings_picker_update_profile_lock_title">Wybierz nową blokadę służbową</string>
+    <string name="lockpassword_choose_your_password_header_for_biometrics">Ustaw hasło, aby używać rozpoznawania twarzy lub odcisku palca</string>
+    <string name="lockpassword_choose_your_pattern_header_for_biometrics">Ustaw wzór, aby używać rozpoznawania twarzy lub odcisku palca</string>
+    <string name="lockpassword_choose_your_pin_header_for_biometrics">Ustaw kod PIN, aby używać rozpoznawania twarzy lub odcisku palca</string>
+    <string name="lockpassword_choose_your_profile_password_header">Ustaw hasło służbowe</string>
+    <string name="lockpassword_choose_your_profile_pattern_header">Ustaw wzór służbowy</string>
+    <string name="lockpassword_choose_your_profile_pin_header">Ustaw służbowy kod PIN</string>
+    <string name="lockpassword_reenter_your_profile_password_header">Ponownie wpisz hasło służbowe</string>
+    <string name="lockpassword_reenter_your_profile_pin_header">Ponownie wpisz służbowy kod PIN</string>
+    <string name="lockscreen_privacy_controls_setting_toggle">Pokazuj sterowanie urządzeniami</string>
+    <string name="lockscreen_privacy_controls_summary">Kontrola dostępu po zablokowaniu</string>
+    <string name="lockscreen_privacy_not_secure">Najpierw ustaw blokadę ekranu</string>
+    <string name="lockscreen_privacy_wallet_setting_toggle">Pokazuj portfel</string>
+    <string name="lockscreen_privacy_wallet_summary">Zezwalaj na dostęp do portfela na ekranie blokady i w szybkich ustawieniach</string>
+    <string name="low_battery_summary">Słaba bateria</string>
+    <string name="main_clear_accounts">"
+
+W tej chwili używasz kont:
+"</string>
+    <string name="main_clear_button_text">Usuń wszystkie dane</string>
+    <string name="main_clear_confirm_title">Usunąć wszystkie dane?</string>
+    <string name="main_clear_desc">Zostaną usunięte wszystkie dane z <b>pamięci wewnętrznej</b>" telefonu, w tym:
+
+"<li>dane konta Google</li>"
+"<li>dane i ustawienia systemu oraz aplikacji</li>"
+"<li>pobrane aplikacje</li></string>
+    <string name="main_clear_desc_also_erases_esim"><li>karty eSIM</li></string>
+    <string name="main_clear_desc_also_erases_external"><li>muzyka</li>"
+"<li>zdjęcia</li>"
+"<li>inne dane użytkownika</li></string>
+    <string name="main_clear_desc_erase_external_storage">"
+
+Aby usunąć muzykę, zdjęcia i inne dane użytkownika, należy wymazać "<b>nośnik USB</b>.</string>
+    <string name="main_clear_desc_no_cancel_mobile_plan">"
+
+Nie spowoduje to anulowania Twojego abonamentu w sieci komórkowej."</string>
+    <string name="main_clear_final_desc">Wszystkie Twoje dane osobowe oraz pobrane aplikacje zostaną usunięte. Nie można cofnąć tej czynności.</string>
+    <string name="main_clear_final_desc_esim">Wszystkie Twoje dane osobowe, w tym pobrane aplikacje i karty SIM, zostaną usunięte. Nie można cofnąć tej czynności.</string>
+    <string name="main_clear_not_available">Przywracanie ustawień fabrycznych nie jest dostępne dla tego użytkownika</string>
+    <string name="main_clear_other_users_present">"
+
+Z tego urządzenia korzystają inni użytkownicy.
+"</string>
+    <string name="main_clear_progress_text">Zaczekaj…</string>
+    <string name="main_clear_progress_title">Kasuję</string>
+    <string name="main_clear_short_title">Wykasuj wszystkie dane (przywróć dane fabryczne)</string>
+    <string name="main_clear_title">Wykasuj wszystkie dane (przywróć dane fabryczne)</string>
+    <string name="manage_notification_access_summary">Zarządzaj uprawnieniami aplikacji do czytania powiadomień</string>
+    <string name="manager_battery_usage_footer">Zmiana sposobu wykorzystania baterii przez aplikację może obniżyć wydajność.</string>
+    <string name="manager_battery_usage_footer_limited">Ta aplikacja wymaga wykorzystania baterii w trybie: %1$s.</string>
+    <string name="manager_battery_usage_link_a11y">Dowiedz się więcej o opcjach dotyczących wykorzystania baterii</string>
+    <string name="manager_battery_usage_optimized_only">z optymalizacją</string>
+    <string name="manager_battery_usage_optimized_summary">Optymalizuj na podstawie wykorzystania. Zalecane w przypadku większości aplikacji.</string>
+    <string name="manager_battery_usage_optimized_title">Z optymalizacją</string>
+    <string name="manager_battery_usage_restricted_summary">Ograniczaj wykorzystanie baterii podczas działania w tle. Aplikacja może nie działać zgodnie z oczekiwaniami. Powiadomienia mogą być opóźnione.</string>
+    <string name="manager_battery_usage_restricted_title">Z ograniczeniami</string>
+    <string name="manager_battery_usage_unrestricted_only">bez ograniczeń</string>
+    <string name="manager_battery_usage_unrestricted_summary">Zezwalaj na wykorzystanie baterii w tle bez ograniczeń. Może to powodować większe wykorzystanie baterii.</string>
+    <string name="manager_battery_usage_unrestricted_title">Bez ograniczeń</string>
+    <string name="material_clock_toggle_content_description">Wybierz: przed południem czy po południu</string>
+    <string name="material_hour_selection">Wybierz godzinę</string>
+    <string name="material_minute_selection">Wybierz minuty</string>
+    <string name="material_minute_suffix">%1$s minut</string>
+    <string name="material_timepicker_clock_mode_description">Aby wprowadzić czas, włącz tryb zegara.</string>
+    <string name="material_timepicker_hour">Godzina</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_select_time">Określ czas</string>
+    <string name="material_timepicker_text_input_mode_description">Aby wprowadzić czas, włącz tryb wprowadzania tekstu.</string>
+    <string name="media_controls_apps_title">Zezwolone aplikacje</string>
+    <string name="media_controls_hide_player">Ukryj odtwarzacz</string>
+    <string name="media_controls_recommendations_description">Na podstawie Twojej aktywności</string>
+    <string name="media_controls_recommendations_title">Pokazuj rekomendacje multimediów</string>
+    <string name="media_controls_resume_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostaje otwarty w Szybkich ustawieniach</string>
+    <string name="media_controls_resume_title">Przypnij odtwarzacz</string>
+    <string name="media_controls_show_player">Pokaż odtwarzacz</string>
+    <string name="media_controls_title">Multimedia</string>
+    <string name="media_management_apps_description">Ta aplikacja może bez pytania modyfikować lub usuwać pliki multimedialne utworzone w innych aplikacjach, jeśli ma takie uprawnienia. Aplikacja wymaga dostępu do plików i multimediów.</string>
+    <string name="media_management_apps_title">Aplikacje do zarządzania multimediami</string>
+    <string name="media_management_apps_toggle_label">Zezwól na zarządzanie multimediami przez aplikację</string>
+    <string name="media_transfer_this_phone">Ten telefon</string>
+    <string name="mic_toggle_title">Dostęp do mikrofonu</string>
+    <string name="mobile_data_connection_active">Połączono</string>
+    <string name="mobile_data_no_connection">Brak połączenia</string>
+    <string name="mobile_data_off_summary">Mobilna transmisja danych nie połączy się automatycznie</string>
+    <string name="mobile_data_settings_summary_unavailable">Brak dostępnej karty SIM</string>
+    <string name="more_settings_button">Więcej ustawień</string>
+    <string name="mr_dialog_default_group_name">Grupa</string>
+    <string name="mtrl_badge_numberless_content_description">Nowe powiadomienie</string>
+    <string name="mtrl_chip_close_icon_content_description">Usuń: (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Liczba nowych powiadomień przekracza %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Zmień na następny miesiąc</string>
+    <string name="mtrl_picker_a11y_prev_month">Zmień na poprzedni miesiąc</string>
+    <string name="mtrl_picker_announce_current_selection">Bieżący wybór: %1$s</string>
+    <string name="mtrl_picker_date_header_title">Wybierz datę</string>
+    <string name="mtrl_picker_date_header_unselected">Wybrana data</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolumna z dniami: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Nieprawidłowy format.</string>
+    <string name="mtrl_picker_invalid_format_example">Przykład: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Użyj formatu: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Nieprawidłowy zakres.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Przejdź do roku %1$s</string>
+    <string name="mtrl_picker_out_of_range">Poza zakresem: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data rozpoczęcia – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – data zakończenia</string>
+    <string name="mtrl_picker_range_header_title">Wybierz zakres</string>
+    <string name="mtrl_picker_range_header_unselected">Data rozpoczęcia – data zakończenia</string>
+    <string name="mtrl_picker_save">Zapisz</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data zakończenia</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data rozpoczęcia</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">r</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Włącz kalendarzowy tryb wprowadzania</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Kliknij, by wybrać dzień</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Włącz tekstowy tryb wprowadzania</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Kliknij, by wybrać rok</string>
+    <string name="multiple_users_main_switch_title">Używaj trybu wielu użytkowników</string>
+    <string name="network_5G_recommended">5G (zalecana)</string>
+    <string name="network_and_internet_preferences_summary">Łącz się z sieciami publicznymi</string>
+    <string name="network_and_internet_preferences_title">Ustawienia sieci</string>
+    <string name="network_changed_notification_text">Zmieniła się sieć komórkowa</string>
+    <string name="network_connection_connect_failure">Nie udało się połączyć</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi, hotspot</string>
+    <string name="networks_available">Dostępne sieci</string>
+    <string name="nfc_main_switch_title">Używaj NFC</string>
+    <string name="night_light_main_switch_title">Używaj Podświetlenia nocnego</string>
+    <string name="no_battery_summary_24hr">Brak wykorzystania baterii w ciągu ostatnich 24 godzin</string>
+    <string name="no_certificate_management_app">Brak</string>
+    <string name="non_carrier_data_usage">Użycie danych poza siecią operatora</string>
+    <string name="non_carrier_data_usage_warning">Użycie danych w sieciach operatorów nie jest uwzględniane</string>
+    <string name="non_carrier_network_unavailable">Brak innych dostępnych sieci</string>
+    <string name="not_default_data_content_description">Nie skonfigurowano do transmisji danych</string>
+    <string name="notif_listener_excluded_app_screen_title">Aplikacje pokazywane na urządzeniu</string>
+    <string name="notif_listener_excluded_app_summary">Zmień ustawienia poszczególnych aplikacji, które wysyłają powiadomienia</string>
+    <string name="notif_listener_excluded_app_title">Zobacz wszystkie aplikacje</string>
+    <string name="notif_listener_not_migrated">Ta aplikacja nie obsługuje ustawień zaawansowanych</string>
+    <string name="notif_type_alerting">Powiadomienia</string>
+    <string name="notif_type_alerting_summary">Może włączyć dzwonek lub wibracje w zależności od ustawień</string>
+    <string name="notif_type_conversation">Rozmowy</string>
+    <string name="notif_type_conversation_summary">SMS, wiadomości tekstowe i inna komunikacja</string>
+    <string name="notif_type_ongoing">Czas rzeczywisty</string>
+    <string name="notif_type_ongoing_summary">Bieżące komunikaty używanych aplikacji, nawigacja, rozmowy telefoniczne i inne ustawienia</string>
+    <string name="notif_type_silent">Ciche</string>
+    <string name="notif_type_silent_summary">Powiadomienia, które nigdy nie włączają dźwięku ani wibracji</string>
+    <string name="notification_assistant_summary">Otrzymuj sugestie działań oraz odpowiedzi i inne podpowiedzi</string>
+    <string name="notification_dashboard_summary">Historia powiadomień, rozmowy</string>
+    <string name="notification_listener_allowed">Mają dostęp</string>
+    <string name="notification_listener_not_allowed">Nie mają dostępu</string>
+    <string name="notification_listener_type_title">Dozwolone typy powiadomień</string>
+    <string name="notification_screen_summary">Historia powiadomień, dymki, ostatnio wysłane</string>
+    <string name="one_handed_action_pull_down_screen_summary">Górna część ekranu przemieści się w zasięg Twojego kciuka.</string>
+    <string name="one_handed_action_pull_down_screen_title">Przeciągnięcie ekranu w zasięg</string>
+    <string name="one_handed_action_show_notification_summary">Pojawią się powiadomienia i ustawienia.</string>
+    <string name="one_handed_action_show_notification_title">Wyświetlenie powiadomienia</string>
+    <string name="one_handed_mode_enabled">Korzystaj z trybu jednej ręki</string>
+    <string name="one_handed_mode_intro_text">Aby korzystać z trybu jednej ręki, przesuń palcem w dół od dolnej krawędzi ekranu. Jeśli chcesz używać tej funkcji, włącz nawigację przy użyciu gestów w ustawieniach nawigacji w systemie.</string>
+    <string name="one_handed_mode_swipe_down_category">Przesuń w dół, aby uzyskać</string>
+    <string name="one_handed_timeout_long">12 sekund</string>
+    <string name="one_handed_timeout_medium">8 sekund</string>
+    <string name="one_handed_timeout_short">4 sekundy</string>
+    <string name="one_handed_timeout_title">Czas trwania</string>
+    <string name="one_handed_title">Tryb Jedna Dłoń</string>
+    <string name="open_app_button">Otwórz aplikację %1$s</string>
+    <string name="permissions_usage_summary">Pokaż aplikacje, które ostatnio używały uprawnień</string>
+    <string name="permissions_usage_title">Panel ustawień prywatności</string>
+    <string name="platform_compat_dialog_text_no_apps">Kompatybilność aplikacji można zmieniać tylko w aplikacjach z możliwością debugowania. Zainstaluj aplikację z możliwością debugowania i spróbuj ponownie.</string>
+    <string name="platform_compat_dialog_title_no_apps">Brak aplikacji</string>
+    <string name="post_dsds_reboot_notification_text">Kliknij, by zaktualizować ustawienia karty SIM</string>
+    <string name="post_dsds_reboot_notification_title_with_carrier">Sieć %1$s jest aktywna</string>
+    <string name="power_charging_limited">%1$s - Ładowanie tymczasowo ograniczone</string>
+    <string name="power_menu_long_press_for_assist">Przytrzymaj, aby włączyć Asystenta</string>
+    <string name="power_menu_long_press_for_assist_summary">Przytrzymaj przycisk zasilania, aby uaktywnić Asystenta</string>
+    <string name="prevent_ringing_main_switch_title">Używaj wyłączania dzwonka</string>
+    <string name="privileged_action_disable_fail_text">Coś poszło nie tak i nie udało się wyłączyć operatora.</string>
+    <string name="privileged_action_disable_fail_title">Nie można wyłączyć operatora</string>
+    <string name="privileged_action_disable_sub_dialog_progress">Wyłączam kartę SIM…</string>
+    <string name="privileged_action_disable_sub_dialog_title">Wyłączyć usługę %1$s?</string>
+    <string name="privileged_action_disable_sub_dialog_title_without_carrier">Wyłączyć kartę SIM?</string>
+    <string name="provider_network_settings_title">Karty SIM</string>
+    <string name="recent_conversations">Ostatnie rozmowy</string>
+    <string name="recent_convo_removed">Rozmowa została usunięta</string>
+    <string name="recent_convos_removed">Usunięto ostatnie wątki</string>
+    <string name="reduce_bright_colors_intensity_end_label">Jaśniej</string>
+    <string name="reduce_bright_colors_intensity_preference_title">Intensywność</string>
+    <string name="reduce_bright_colors_intensity_start_label">Ciemniej</string>
+    <string name="reduce_bright_colors_persist_preference_title">Utrzymuj po ponownym uruchomieniu urządzenia</string>
+    <string name="reduce_bright_colors_preference_subtitle">Przyciemnij ekran, aby czytać wygodniej.&lt;br/>&lt;br/> Może to być pomocne, gdy: &lt;ol> &lt;li> minimalna jasność telefonu jest zbyt wysoka;&lt;/li> &lt;li> używasz telefonu w ciemności, np. w nocy lub w ciemnym pokoju przed zaśnięciem.&lt;/li> &lt;/ol></string>
+    <string name="reduce_bright_colors_preference_summary">Przyciemnij ekran bardziej niż przy minimalnej jasności telefonu</string>
+    <string name="reduce_bright_colors_preference_title">Dodatkowe przyciemnienie</string>
+    <string name="reduce_bright_colors_switch_title">Dodatkowo przyciemniaj ekran</string>
+    <string name="remove_association_button">Usuń powiązanie</string>
+    <string name="remove_credential_management_app">Usuń aplikację</string>
+    <string name="request_manage_bluetooth_permission_dont_allow">Nie zezwalaj</string>
+    <string name="request_manage_credentials_allow">Zezwól</string>
+    <string name="request_manage_credentials_description">Te certyfikaty sprawdzą Twoją tożsamość poprzez udostępnienie unikalnego identyfikatora Twojego urządzenia podczas korzystania z aplikacji i adresów URL podanych niżej</string>
+    <string name="request_manage_credentials_dont_allow">Nie zezwalaj</string>
+    <string name="request_manage_credentials_more">Pokaż więcej</string>
+    <string name="request_manage_credentials_title">Zezwolić aplikacji <b>^1</b> na instalowanie certyfikatów na tym urządzeniu?</string>
+    <string name="reset_importance_completed">Ukończono resetowanie ważności powiadomień.</string>
+    <string name="reset_internet_text">Połączenie telefoniczne zostanie zakończone</string>
+    <string name="reset_your_internet_title">Zresetować połączenie z internetem?</string>
+    <string name="resetting_internet_text">Resetuję połączenie z internetem…</string>
+    <string name="restrict_background_blocklisted">Dane w tle są wyłączone</string>
+    <string name="scanning_status_text_off">Wyłączono</string>
+    <string name="scanning_status_text_on">Włączono</string>
+    <string name="screen_pinning_switch_off_text">Wyłączono</string>
+    <string name="screen_pinning_switch_on_text">Włączono</string>
+    <string name="screen_saver_main_switch_title">Używaj wygaszacza ekranu</string>
+    <string name="security_settings_biometric_preference_summary_both_fp_multiple">Dodano skany twarzy i odciski palca</string>
+    <string name="security_settings_biometric_preference_summary_both_fp_single">Dodano skan twarzy i odcisk palca</string>
+    <string name="security_settings_biometric_preference_summary_none_enrolled">Kliknij, aby skonfigurować</string>
+    <string name="security_settings_biometric_preference_title">Rozpoznawanie twarzy i odblokowywanie odciskiem palca</string>
+    <string name="security_settings_biometrics_description">Jeśli ustawisz rozpoznawanie twarzy i odblokowywanie odciskiem palca, w ciemnym otoczeniu oraz jeśli będziesz mieć na twarzy maskę, pojawi się prośba o użycie odcisku palca</string>
+    <string name="security_settings_biometrics_preference_use_with_apps">Uwierzytelnianie w aplikacjach</string>
+    <string name="security_settings_biometrics_preferences_category">Używaj rozpoznawania twarzy lub odcisku palca</string>
+    <string name="security_settings_biometrics_summary_both">Rozpoznawanie twarzy lub odcisk palca</string>
+    <string name="security_settings_biometrics_summary_face">Tylko rozpoznawanie twarzy</string>
+    <string name="security_settings_biometrics_summary_fingerprint">Tylko odcisk palca</string>
+    <string name="security_settings_biometrics_summary_none">Kliknij, aby skonfigurować</string>
+    <string name="security_settings_biometrics_title">Rozpoznawanie twarzy i odcisk palca</string>
+    <string name="security_settings_biometrics_types_category">Sposoby odblokowywania</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_message">Jeśli rozpoznawanie twarzy w ułatwieniach dostępu jest wyłączone, niektóre kroki konfiguracji mogą nie działać prawidłowo w przypadku TalkBack.</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Wstecz</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_positive">Kontynuuj</string>
+    <string name="security_settings_face_settings_preferences_category">W przypadku rozpoznawania twarzy</string>
+    <string name="security_settings_face_settings_remove_model_dialog_details">"Model twarzy zostanie trwale i w bezpieczny sposób usunięty.
+
+Po usunięciu tych danych do odblokowywania telefonu i uwierzytelniania się w aplikacjach trzeba będzie używać odcisku palca, kodu PIN, wzoru lub hasła."</string>
+    <string name="security_settings_face_settings_remove_model_dialog_title">Usunąć model twarzy?</string>
+    <string name="security_settings_fingerprint_enroll_introduction_agree">Zgadzam się</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_message_1">Dane zarejestrowane przez Nexus Imprint są przechowywane w bezpieczny sposób i dostępne tylko na Twoim telefonie. W dowolnym momencie możesz je usunąć w Ustawieniach.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_message_2">Odcisk palca może być mniej bezpieczny niż skomplikowany wzór lub złożony kod PIN.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_message_3">Telefon będzie co jakiś czas używał ostatnich obrazów Twoich odcisków palców do poprawiania ich modeli.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_1">Masz wszystko pod kontrolą</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_2">Pamiętaj</string>
+    <string name="security_settings_fingerprint_enroll_introduction_no_thanks">Nie, dziękuję</string>
+    <string name="security_settings_fingerprint_enroll_introduction_skip">Nie, dziękuję</string>
+    <string name="security_settings_fingerprint_enroll_udfps_title">Połóż palec na czytniku linii papilarnych i przytrzymaj</string>
+    <string name="security_settings_fingerprint_v2_enroll_acquire_already_enrolled">Odcisk tego palca został już dodany</string>
+    <string name="security_settings_fingerprint_v2_enroll_acquire_clean_sensor">Wyczyść ekran w okolicy czytnika i spróbuj ponownie</string>
+    <string name="security_settings_fingerprint_v2_enroll_acquire_partially_detected">Umieść środek palca na ikonie</string>
+    <string name="security_settings_fingerprint_v2_enroll_acquire_too_bright">Spróbuj ponownie w słabiej oświetlonym miejscu</string>
+    <string name="security_settings_fingerprint_v2_enroll_acquire_too_fast">Gdy poczujesz wibracje, podnieś palec</string>
+    <string name="security_settings_fingerprint_v2_enroll_acquire_try_adjusting">Za każdym razem lekko zmieniaj ułożenie palca</string>
+    <string name="security_settings_fingerprint_v2_enroll_error_max_attempts">Osiągnięto maksymalną liczbę prób</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_1">Odblokowywanie telefonu przy użyciu odcisku palca może być mniej bezpieczne niż trudny wzór czy kod PIN</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">Funkcja tworzy unikalny model odcisku palca, który pozwala zweryfikować Twoją tożsamość. Aby taki model mógł powstać, musisz odcisnąć palec kilka razy pod różnymi kątami.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_3">Obrazy tworzone, gdy korzystasz z funkcji odblokowania odciskiem palca, służą do aktualizowania modelu odcisku palca. Obrazy użyte do utworzenia modelu odcisku palca nie są zapisywane, a sam model jest bezpiecznie przechowywany na telefonie i nigdy go nie opuszcza. Przetwarzanie danych odbywa się w całości na telefonie w bezpieczny sposób.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_4">W dowolnej chwili możesz usunąć model odcisku palca lub wyłączyć funkcję odblokowania odciskiem palca w Ustawieniach. Modele odcisków palców są zapisane na telefonie, dopóki ich nie usuniesz.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_5">Możesz mimowolnie odblokować telefon, jeżeli inna osoba przyłoży do niego Twój palec.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_1">Pamiętaj</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_2">Jak to działa</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_setup">Gdy zobaczysz tę ikonę, możesz użyć odcisku palca do uwierzytelnienia (np. podczas logowania się w aplikacji lub potwierdzania zakupu)</string>
+    <string name="security_settings_fingerprint_v2_home_screen">"Używaj odcisku palca do odblokowywania telefonu i potwierdzania tożsamości, na przykład podczas logowania się w aplikacjach
+
+"<annotation id="url">Więcej informacji</annotation></string>
+    <string name="security_settings_udfps_enroll_a11y">Przesuwaj palcem po ekranie, by znaleźć czytnik. Połóż palec na czytniku linii papilarnych i przytrzymaj.</string>
+    <string name="security_settings_udfps_enroll_find_sensor_message">Czytnik linii papilarnych znajduje się na ekranie. Na następnym ekranie zarejestrujesz odcisk palca.</string>
+    <string name="security_settings_udfps_enroll_find_sensor_start_button">Rozpocznij</string>
+    <string name="security_settings_udfps_enroll_find_sensor_title">Jak skonfigurować odcisk palca</string>
+    <string name="security_settings_udfps_enroll_progress_a11y_message">Rejestruję odcisk palca – %d procent</string>
+    <string name="security_settings_udfps_enroll_repeat_a11y_message">Pomoże to zarejestrować dokładny odcisk palca</string>
+    <string name="security_settings_udfps_enroll_repeat_message">Kliknij i przytrzymaj za każdym razem, kiedy ikona się porusza. Pomoże to zarejestrować dokładny odcisk palca.</string>
+    <string name="security_settings_udfps_enroll_repeat_title_touch_icon">Dotknij ikony odcisku cyfrowego</string>
+    <string name="security_settings_udfps_enroll_start_message">Trzymaj palec na czytniku linii papilarnych do chwili, aż poczujesz wibracje</string>
+    <string name="security_settings_udfps_enroll_title_one_more_time">Jeszcze raz</string>
+    <string name="sensor_toggle_description">Dla wszystkich aplikacji i usług</string>
+    <string name="settingslib_learn_more_text">Więcej informacji</string>
+    <string name="show_clip_access_notification">Pokazuj dostęp do schowka</string>
+    <string name="show_clip_access_notification_summary">Pokazuj komunikat, gdy aplikacja uzyskuje dostęp do skopiowanego tekstu, obrazów lub innych treści</string>
+    <string name="sim_action_continue">Dalej</string>
+    <string name="sim_action_enable_dsds_text">Na tym urządzeniu mogą być jednocześnie aktywne 2 karty SIM. Aby nadal używać jednej karty SIM, kliknij „Nie”.</string>
+    <string name="sim_action_enable_dsds_title">Używać 2 kart SIM?</string>
+    <string name="sim_action_enable_sim_fail_text">Nie można przełączyć operatora z powodu błędu.</string>
+    <string name="sim_action_enable_sim_fail_title">Nie można przełączyć operatora</string>
+    <string name="sim_action_enable_sub_dialog_title">Włączyć usługę %1$s?</string>
+    <string name="sim_action_enable_sub_dialog_title_without_carrier_name">Włączyć kartę SIM?</string>
+    <string name="sim_action_enabling_sim_without_carrier_name">Łączę się z siecią…</string>
+    <string name="sim_action_no_thanks">Nie</string>
+    <string name="sim_action_reboot">Uruchom ponownie</string>
+    <string name="sim_action_restart_text">Aby rozpocząć, uruchom ponownie urządzenie. Potem możesz dodać kolejną kartę SIM.</string>
+    <string name="sim_action_restart_title">Uruchomić urządzenie ponownie?</string>
+    <string name="sim_action_switch_psim_dialog_title">Przełączyć na korzystanie z karty SIM?</string>
+    <string name="sim_action_switch_sub_dialog_confirm">Przełącz na sieć %1$s</string>
+    <string name="sim_action_switch_sub_dialog_progress">Przełączam na sieć %1$s</string>
+    <string name="sim_action_switch_sub_dialog_text">"W danym momencie aktywna może być tylko 1 karta SIM.
+
+Przełączenie na sieć %1$s nie spowoduje rezygnacji z usługi %2$s."</string>
+    <string name="sim_action_switch_sub_dialog_text_downloaded">"W danym momencie aktywna może być tylko 1 pobrana karta SIM.
+
+Przełączenie na sieć %1$s nie spowoduje rezygnacji z usługi %2$s."</string>
+    <string name="sim_action_switch_sub_dialog_text_single_sim">"W danym momencie aktywna może być tylko 1 karta SIM.
+
+Przełączenie sieci nie spowoduje rezygnacji z usługi %1$s."</string>
+    <string name="sim_action_switch_sub_dialog_title">Przełączyć na sieć %1$s?</string>
+    <string name="sim_action_yes">Tak</string>
+    <string name="sim_card_label">Karta SIM</string>
+    <string name="sim_category_active_sim">Aktywna</string>
+    <string name="sim_category_default_active_sim">" / Domyślna dla: %1$s"</string>
+    <string name="sim_category_inactive_sim">Nieaktywna</string>
+    <string name="sim_setup_channel_id">Aktywacja sieci</string>
+    <string name="sim_switch_button">Przełącz</string>
+    <string name="sim_switch_channel_id">Przełączanie operatora</string>
+    <string name="smart_forwarding_failed_not_activated_text">Karta SIM nie została uaktywniona.</string>
+    <string name="smart_forwarding_failed_text">Błąd sieci lub karty SIM.</string>
+    <string name="smart_forwarding_failed_title">Błąd w ustawieniach połączenia</string>
+    <string name="smart_forwarding_input_mdn_dialog_title">Wpisz numer telefonu</string>
+    <string name="smart_forwarding_input_mdn_title">Wpisz numery telefonów</string>
+    <string name="smart_forwarding_missing_alert_dialog_text">OK</string>
+    <string name="smart_forwarding_missing_mdn_text">Brak numeru telefonu.</string>
+    <string name="smart_forwarding_ongoing_text">Aktualizuję ustawienia…</string>
+    <string name="smart_forwarding_ongoing_title">Ustawienia połączeń</string>
+    <string name="smart_forwarding_summary_disabled">Wyłączono inteligentne przekierowywanie</string>
+    <string name="smart_forwarding_summary_enabled">Włączono inteligentne przekierowywanie</string>
+    <string name="smart_forwarding_title">Inteligentne przekierowywanie</string>
+    <string name="smart_rotate_text_headline">Wykrywanie twarzy używa przedniego aparatu, aby zapewnić większą dokładność autoobracania. Obrazy nigdy nie są zapisywane ani wysyłane do Google.&lt;br>&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Dowiedz się więcej o Autoobracaniu ekranu&lt;/a></string>
+    <string name="spell_checker_primary_switch_title">Sprawdzaj pisownię</string>
+    <string name="storage_apps">Aplikacje</string>
+    <string name="storage_audio">Dźwięk</string>
+    <string name="storage_default_internal_storage">To urządzenie</string>
+    <string name="storage_documents_and_other">Dokumenty i inne dane</string>
+    <string name="storage_free_up_space_summary">Otwórz aplikację Files, aby zarządzać pamięcią i zwolnić miejsce</string>
+    <string name="storage_free_up_space_title">Zwolnij miejsce</string>
+    <string name="storage_images">Obrazy</string>
+    <string name="storage_system">System</string>
+    <string name="storage_total_summary">Łącznie %1$s %2$s</string>
+    <string name="storage_trash">Kosz</string>
+    <string name="storage_trash_dialog_ask_message">Liczba plików w koszu to %1$s. Wszystkie elementy zostaną usunięte na zawsze i nie będzie można ich przywrócić.</string>
+    <string name="storage_trash_dialog_confirm">Opróżnij kosz</string>
+    <string name="storage_trash_dialog_empty_message">Kosz jest pusty</string>
+    <string name="storage_trash_dialog_title">Opróżnić kosz?</string>
+    <string name="storage_usage_summary">Wykorzystano %1$s %2$s</string>
+    <string name="storage_videos">Filmy</string>
+    <string name="swipe_bottom_to_notifications_summary">"Przesuń palcem ku dolnej krawędzi ekranu, aby wywołać panel powiadomień.
+Gdy ta funkcja jest włączona, nie możesz korzystać z trybu Jedna Dłoń."</string>
+    <string name="swipe_bottom_to_notifications_title">Przesuń, aby wywołać powiadomienia</string>
+    <string name="switch_sim_dialog_no_switch_text">Aby później korzystać z mobilnej transmisji danych, połączeń i SMS-ów, przejdź do ustawień sieci</string>
+    <string name="switch_sim_dialog_no_switch_title">Brak dostępnych aktywnych kart SIM</string>
+    <string name="switch_sim_dialog_text">Transmisja danych, połączenia i SMS-y będą obsługiwane przez operatora %1$s</string>
+    <string name="switch_sim_dialog_title">Użyć sieci %1$s?</string>
+    <string name="switch_to_removable_notification">Przełączono na sieć %1$s</string>
+    <string name="switch_to_removable_notification_no_carrier_name">Przełączono na sieć innego operatora</string>
+    <string name="tap_a_network_to_connect">Kliknij sieć, aby połączyć</string>
+    <string name="to_switch_networks_disconnect_ethernet">Aby przełączać sieci, odłącz Ethernet</string>
+    <string name="transcode_default">Zakładaj, że aplikacje obsługują nowoczesne formaty</string>
+    <string name="transcode_disable_cache">Wyłącz pamięć podręczną transkodowania</string>
+    <string name="transcode_enable_all">Włącz transkodowanie</string>
+    <string name="transcode_notification">Pokaż powiadomienia transkodowania</string>
+    <string name="transcode_settings_title">Ustawienia transkodowania multimediów</string>
+    <string name="transcode_user_control">Zastąp ustawienia domyślne transkodowania</string>
+    <string name="turn_off_wifi">Wyłącz Wi‑Fi</string>
+    <string name="turn_on_wifi">Włącz Wi‑Fi</string>
+    <string name="uninstall_certs_credential_management_app">Odinstaluj certyfikaty</string>
+    <string name="unlock_disable_frp_warning_content_password_face">"Hasło ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
+
+Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy nie będzie możliwe."</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Hasło ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
+
+Model odcisku palca zapisany na telefonie zostanie usunięty. Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy i odciskiem palca nie będzie możliwe."</string>
+    <string name="unlock_disable_frp_warning_content_pattern">Wzór ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face">"Wzór ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
+
+Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy nie będzie możliwe."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Wzór ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
+
+Model odcisku palca zapisany na telefonie zostanie usunięty. Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy i odciskiem palca nie będzie możliwe."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Wzór ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
+
+Model odcisku palca zapisany na telefonie również zostanie usunięty. Uwierzytelnianie się w aplikacjach odciskiem palca nie będzie możliwe."</string>
+   <string name="unlock_disable_frp_warning_content_pin">Kod PIN ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony</string>
+    <string name="unlock_disable_frp_warning_content_pin_face">"Kod PIN ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
+
+Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy nie będzie możliwe."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">"Kod PIN ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
+
+Model odcisku palca zapisany na telefonie zostanie usunięty. Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy i odciskiem palca nie będzie możliwe."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face">"Bez blokady ekranu nie będą działać funkcje ochrony urządzenia.
+
+Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy nie będzie możliwe."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">"Bez blokady ekranu nie będą działać funkcje ochrony urządzenia.
+
+Model odcisku palca zapisany na telefonie zostanie usunięty. Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy i odciskiem palca nie będzie możliwe."</string>
+    <string name="unused_apps">Nieużywane aplikacje</string>
+    <string name="unused_apps_switch">Usuń uprawnienia i zwolnij miejsce</string>
+    <string name="usb_file_transfer_title">Opcje przesyłania plików</string>
+    <string name="usb_power_title">Opcje zasilania</string>
+    <string name="usb_transcode_files">Konwertuj filmy na format AVC</string>
+    <string name="use_wifi_hotsopt_main_switch_title">Używaj hotspota Wi‑Fi</string>
+    <string name="user_dict_settings_summary">Dodaj słowa, które będą używane w aplikacjach takich jak Sprawdzanie pisowni</string>
+    <string name="uwb_settings_summary">Pomagają określić względne położenie urządzeń w pobliżu obsługujących UWB</string>
+    <string name="uwb_settings_summary_airplane_mode">Aby użyć UWB, wyłącz tryb samolotowy</string>
+    <string name="uwb_settings_title">Łącze ultraszerokopasmowe (UWB)</string>
+    <string name="vpn_insecure_dialog_subtitle">Niezabezpieczona. Zaktualizuj do VPN IKEv2</string>
+    <string name="vpn_insecure_summary">Niezabezpieczona</string>
+    <string name="vpn_settings_insecure_single">Niezabezpieczona</string>
+    <string name="vpn_settings_multiple_insecure_multiple_total">Niezabezpieczone: %d</string>
+    <string name="vpn_settings_single_insecure_multiple_total">Niezabezpieczone: %d</string>
+    <string name="wallpaper_dashboard_summary">Pulpit, ekran blokady</string>
+    <string name="warning_button_text">Ostrzeżenie</string>
+    <string name="wifi_advanced_randomized_mac_address_disconnected_title">Randomizowany adres MAC (ostatni używany)</string>
+    <string name="wifi_calling_main_switch_title">Używaj Połączeń przez Wi-Fi</string>
+    <string name="wifi_connected_low_quality">Niska jakość</string>
+    <string name="wifi_connecting_to_message">Łączę z: %1$s</string>
+    <string name="wifi_hotspot_maximize_compatibility">Zwiększ zgodność</string>
+    <string name="wifi_hotspot_maximize_compatibility_dual_ap_summary">Ułatwia znajdowanie tego hotspota przez inne urządzenia. Zwiększa zużycie baterii.</string>
+    <string name="wifi_hotspot_maximize_compatibility_single_ap_summary">Ułatwia znajdowanie tego hotspota przez inne urządzenia. Zmniejsza szybkość połączenia hotspota.</string>
+    <string name="wifi_hotspot_switch_off_text">Wyłączono</string>
+    <string name="wifi_hotspot_switch_on_text">Włączono</string>
+    <string name="wifi_is_off">Wi-Fi jest wyłączone</string>
+    <string name="wifi_no_related_sim_card">Brak</string>
+    <string name="wifi_no_sim_card">Brak karty SIM</string>
+    <string name="wifi_require_sim_card_to_connect">Połączenie wymaga karty SIM</string>
+    <string name="wifi_require_specific_sim_card_to_connect">Połączenie wymaga karty SIM operatora %s</string>
+    <string name="wifi_saved_other_networks_tab">Inne sieci</string>
+    <string name="wifi_settings_primary_switch_title">Użyj Wi-Fi</string>
+    <string name="wifi_switch_summary">Znajduj sieci Wi‑Fi i łącz się z nimi</string>
+    <string name="wifi_type_title">Typ</string>
+    <string name="wifitrackerlib_auto_connect_disable">Łączenie automatyczne wyłączone</string>
+    <string name="wifitrackerlib_available_via_app">Dostęp przez aplikację %1$s</string>
+    <string name="wifitrackerlib_connected_via_app">Połączenie przez aplikację %1$s</string>
+    <string name="wifitrackerlib_connected_via_network_scorer">Automatyczne połączenie przez aplikację %1$s</string>
+    <string name="wifitrackerlib_connected_via_network_scorer_default">Automatyczne połączenie przez aplikację dostawcy ocen jakości sieci</string>
+    <string name="wifitrackerlib_imsi_protection_warning">Ta sieć otrzymuje identyfikator SIM, który można wykorzystać do śledzenia lokalizacji urządzenia. <annotation id="url">Więcej informacji</annotation></string>
+    <string name="wifitrackerlib_osu_completing_sign_up">Kończę rejestrować…</string>
+    <string name="wifitrackerlib_osu_connect_failed">Nie udało się połączyć</string>
+    <string name="wifitrackerlib_osu_opening_provider">Otwieram: %1$s</string>
+    <string name="wifitrackerlib_osu_sign_up_complete">Rejestracja zakończona. Łączę…</string>
+    <string name="wifitrackerlib_osu_sign_up_failed">Nie udało się dokończyć rejestracji. Kliknij, by spróbować ponownie.</string>
+    <string name="wifitrackerlib_private_dns_broken">Brak dostępu do prywatnego serwera DNS</string>
+    <string name="wifitrackerlib_saved_network">Zapisane przez aplikację %1$s</string>
+    <string name="wifitrackerlib_speed_label_fast">Szybka</string>
+    <string name="wifitrackerlib_speed_label_medium">Średnia</string>
+    <string name="wifitrackerlib_speed_label_okay">OK</string>
+    <string name="wifitrackerlib_speed_label_slow">Wolna</string>
+    <string name="wifitrackerlib_speed_label_very_fast">Bardzo szybka</string>
+    <string name="wifitrackerlib_speed_label_very_slow">Bardzo wolna</string>
+    <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Kliknij, by odnowić subskrypcję i nawiązać połączenie</string>
+    <string name="wifitrackerlib_tap_to_sign_up">Kliknij, by się zarejestrować</string>
+    <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Punkt dostępu jest tymczasowo zajęty</string>
+    <string name="wifitrackerlib_wifi_check_password_try_again">Sprawdź hasło i spróbuj ponownie</string>
+    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Podłączono do urządzenia. Nie można zapewnić dostępu do internetu.</string>
+    <string name="wifitrackerlib_wifi_disabled_generic">Wyłączono</string>
+    <string name="wifitrackerlib_wifi_disabled_network_failure">Błąd konfiguracji IP</string>
+    <string name="wifitrackerlib_wifi_disabled_password_failure">Problem z uwierzytelnianiem</string>
+    <string name="wifitrackerlib_wifi_disconnected">Odłączono</string>
+    <string name="wifitrackerlib_wifi_limited_connection">Ograniczone połączenie</string>
+    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">Nie udało się połączyć. Spróbuj ponownie później.</string>
+    <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">Sieć jest przeciążona. Spróbuj ponownie później.</string>
+    <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Słaby sygnał. Przysuń się do routera.</string>
+    <string name="wifitrackerlib_wifi_metered_label">Użycie danych jest mierzone</string>
+    <string name="wifitrackerlib_wifi_network_not_found">Nie udało się połączyć. Spróbuj ponownie później.</string>
+    <string name="wifitrackerlib_wifi_no_internet">Brak dostępu do internetu</string>
+    <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Nie można połączyć automatycznie</string>
+    <string name="wifitrackerlib_wifi_passpoint_expired">Ważność wygasła</string>
+    <string name="wifitrackerlib_wifi_poor_channel_conditions">Tymczasowo niska jakość połączenia sieciowego</string>
+    <string name="wifitrackerlib_wifi_remembered">Zapisano</string>
+    <string name="wifitrackerlib_wifi_security_none">Brak</string>
+    <string name="wifitrackerlib_wifi_unmetered_label">Bez pomiaru</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi nie będzie na razie włączać się automatycznie</string>
+    <string name="window_blurs">Zezwól na rozmycie na poziomie okna</string>
+    <string name="wireless_debugging_main_switch_title">Używaj debugowania bezprzewodowego</string>
+    <!-- Don’t translate one, other etc. !!!! ONLY { } things !!! -->
+    <string name="zen_mode_bypassing_apps_subtext">{count,plural,offset:2 =0{Żadna aplikacja nie może ignorować trybu Nie przeszkadzać}=1{Aplikacja {app_1} może ignorować tryb Nie przeszkadzać}=2{Aplikacje {app_1} i {app_2} mogą ignorować tryb Nie przeszkadzać}=3{{app_1}, {app_2} i {app_3} mogą ignorować tryb Nie przeszkadzać}few{Aplikacje {app_1}, {app_2} i jeszcze # mogą ignorować tryb Nie przeszkadzać}many{Aplikacje {app_1}, {app_2} i jeszcze # mogą ignorować tryb Nie przeszkadzać}other{Aplikacje {app_1}, {app_2} i jeszcze # mogą ignorować tryb Nie przeszkadzać}}</string>
+    <string name="zen_mode_contacts_count">{count,plural, =0{Brak}=1{1 kontakt}few{# kontakty}many{# kontaktów}other{# kontaktu}}</string>
+    <string name="zen_mode_conversations_count">{count,plural, =0{Brak}=1{1 rozmowa}few{# rozmowy}many{# rozmów}other{# rozmowy}}</string>
+    <string name="zen_mode_duration_summary_time_hours">{count,plural, =1{1 godzina}few{# godziny}many{# godzin}other{# godziny}}</string>
+    <string name="zen_mode_other_sounds_summary">{count,plural,offset:2 =0{Nic nie może ignorować trybu Nie przeszkadzać}=1{Dźwięki z kategorii {sound_category_1} mogą ignorować tryb Nie przeszkadzać}=2{Dźwięki z kategorii {sound_category_1} i {sound_category_2} mogą ignorować tryb Nie przeszkadzać}=3{Dźwięki z kategorii {sound_category_1}, {sound_category_2} i {sound_category_3} mogą ignorować tryb Nie przeszkadzać}few{Dźwięki z kategorii {sound_category_1}, {sound_category_2} i jeszcze # mogą ignorować tryb Nie przeszkadzać}many{Dźwięki z kategorii {sound_category_1}, {sound_category_2} i jeszcze # mogą ignorować tryb Nie przeszkadzać}other{Dźwięki z kategorii {sound_category_1}, {sound_category_2} i jeszcze # mogą ignorować tryb Nie przeszkadzać}}</string>
+    <string name="zen_mode_settings_schedules_summary">{count,plural, =0{Brak}=1{Ustawiono 1 harmonogram}few{Ustawiono # harmonogramy}many{Ustawiono # harmonogramów}other{Ustawiono # harmonogramu}}</string>
+    <string name="zen_mode_sounds_none">Nic nie może ignorować trybu Nie przeszkadzać</string>
+    <string name="zen_mode_starred_contacts_empty_name">(Bez nazwy)</string>
+    <string name="zen_mode_starred_contacts_summary_contacts">{count,plural,offset:2 =0{Brak}=1{{contact_1}}=2{{contact_1} i {contact_2}}=3{{contact_1}, {contact_2} i {contact_3}}few{{contact_1}, {contact_2}i jeszcze # inne}many{{contact_1}, {contact_2}i jeszcze # innych}other{{contact_1}, {contact_2}i jeszcze # innego}}</string>
+    <string name="zen_settings_general">Ogólne</string>
 </resources>

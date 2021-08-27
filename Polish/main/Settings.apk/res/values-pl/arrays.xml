@@ -1873,4 +1873,35 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Co 3 sekundy</item>
         <item>Co 5 sekund</item>
     </string-array>
+    <string-array name="accessibility_button_gesture_selector_titles">
+        <item>Przycisk</item>
+        <item>Gest</item>
+    </string-array>
+    <string-array name="accessibility_button_location_selector_titles">
+        <item>Pływający nad innymi aplikacjami</item>
+        <item>Pasek nawigacyjny</item>
+    </string-array>
+    <string-array name="accessibility_button_size_selector_titles">
+        <item>Mały</item>
+        <item>Duży</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_list_titles">
+        <item>Krótko</item>
+        <item>Średnio</item>
+        <item>Długo</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Skanuję…</item>
+        <item>Łączę…</item>
+        <item>Uwierzytelniam…</item>
+        <item>Uzyskuję adres IP…</item>
+        <item>Połączono</item>
+        <item>Zawieszono</item>
+        <item>Rozłączam…</item>
+        <item>Odłączono</item>
+        <item>Niepowodzenie</item>
+        <item>Zablokowano</item>
+        <item>Tymczasowe unikanie połączenia o niskiej jakości</item>
+    </string-array>
 </resources>
