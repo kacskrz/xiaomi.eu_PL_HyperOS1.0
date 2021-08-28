@@ -9797,9 +9797,6 @@ Model odcisku palca zapisany na telefonie zostanie usunięty. Twój model twarzy
     <string name="unlock_disable_frp_warning_content_pattern_face">"Wzór ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
 
 Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy nie będzie możliwe."</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Wzór ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
-
-Model odcisku palca zapisany na telefonie również zostanie usunięty. Uwierzytelnianie się w aplikacjach odciskiem palca nie będzie możliwe."</string>
     <string name="unlock_disable_frp_warning_content_pin_face">"Kod PIN ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
 
 Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy nie będzie możliwe."</string>
