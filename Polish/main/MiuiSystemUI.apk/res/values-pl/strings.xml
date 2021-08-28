@@ -2214,7 +2214,6 @@ Wygląda na to, że magazyn danych logowania nie jest włączony."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
-    <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
     <string name="mtrl_picker_cancel">Anuluj</string>
     <string name="mtrl_picker_confirm">Zapisz</string>
     <string name="mtrl_picker_date_format">dd MMM yyyy</string>
@@ -2806,7 +2805,6 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="fiveg_sa_switch_summary">Włącz tryb SA sieci 5G na drugiej karcie SIM. Tylko w celach testowych</string>
     <string name="fiveg_sa_vice_switch_title">Tryb SA na drugiej karcie SIM</string>
     <string name="keyguard_charging_double_fast_and_level_tip">Zwiększenie prędkości ładowania %s</string>
-    <string name="wifi_connected_low_quality">Niska jakość</string>
     <string name="miui_keyboard_shortcut_group_center_control">Centrum funkcji</string>
     <string name="miui_keyboard_shortcut_group_lockscreen">Ekran blokady</string>
     <string name="miui_keyboard_shortcut_group_notification">Panel powiadomień</string>

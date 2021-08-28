@@ -8962,7 +8962,6 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="settings_charging_at_top_speed">Ładowanie z najwyższą prędkością</string>
   <string name="settings_charging_fully_charged">Naładowane</string>
   <string name="settings_charging_not_charging">Nie ładuje</string>
-  <string name="wifi_connected_low_quality">Niska jakość</string>
   <string name="accessibility_menu_description_pad">"Menu ułatwień dostępu dostarcza wygodne skróty umożliwiające Ci kontrolę swojego urządzenia.
  
 Włącz tę funkcję i dotknij przycisku Ułatwień dostępu na dole ekranu, aby otworzyć menu."</string>
@@ -9795,17 +9794,12 @@ Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytel
     <string name="unlock_disable_frp_warning_content_password_face_fingerprint">"Hasło ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
 
 Model odcisku palca zapisany na telefonie zostanie usunięty. Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy i odciskiem palca nie będzie możliwe."</string>
-    <string name="unlock_disable_frp_warning_content_pattern">Wzór ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony</string>
     <string name="unlock_disable_frp_warning_content_pattern_face">"Wzór ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
 
 Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy nie będzie możliwe."</string>
-    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">"Wzór ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
-
-Model odcisku palca zapisany na telefonie zostanie usunięty. Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy i odciskiem palca nie będzie możliwe."</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Wzór ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
 
 Model odcisku palca zapisany na telefonie również zostanie usunięty. Uwierzytelnianie się w aplikacjach odciskiem palca nie będzie możliwe."</string>
-   <string name="unlock_disable_frp_warning_content_pin">Kod PIN ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony</string>
     <string name="unlock_disable_frp_warning_content_pin_face">"Kod PIN ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
 
 Twój model twarzy również zostanie trwale i bezpiecznie usunięty. Uwierzytelnianie się w aplikacjach skanem twarzy nie będzie możliwe."</string>
