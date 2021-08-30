@@ -7131,7 +7131,6 @@ Każdy użytkownik może aktualizować aplikacje wszystkich innych użytkownikó
   <string name="user_dict_settings_edit_dialog_title">Edytuj słowo</string>
   <string name="user_dict_settings_empty_text">Nie masz żadnych słów w słowniku użytkownika. Aby dodać słowo, wybierz Dodaj (+).</string>
   <string name="user_dict_settings_more_languages">Więcej języków...</string>
-  <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Słownik osobisty</string>
   <string name="user_enable_calling">Zezwalaj na połączenia telefoniczne</string>
   <string name="user_enable_calling_and_sms_confirm_message">Historia połączeń i SMS-ów będzie dostępna dla tego użytkownika.</string>
