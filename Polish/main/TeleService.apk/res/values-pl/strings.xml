@@ -1949,4 +1949,13 @@ Skontaktuj się z operatorem"</string>
 Twoje konta SIP (%s) zostały usunięte.
 Potwierdź ustawienie domyślnego konta do połączeń."</string>
   <string name="sip_accounts_removed_notification_title">Wycofane konta SIP zostały znalezione i usunięte</string>
+  <string name="activity_title_fakecell">Ochrona przed fałszywymi stacjami bazowymi</string>
+  <string name="detect_fakecell">Rozpoznawaj SMS-y przychodzące ze fałszywych stacji bazowych </string>
+  <string name="forbidden_fakecell">"Nie łącz się z fałszywymi stacjami bazowymi"</string>
+  <string name="forbidden_fakecell_summary">Zapobiegaj łączeniu się urządzenia z fałszywymi stacjami bazowymi</string>
+  <string name="not_support_forbidden_fakecell">"Twoje urządzenie nie wspiera ochrony przed fałszywymi stacjami bazowymi na poziomie sprzętowym."</string>
+  <string name="restart_details">Włączenie bądź wyłączenie tej funkcji wymaga ponownego uruchomienia urządzenia. Zrobić to teraz?</string>
+  <string name="restart_later">Później</string>
+  <string name="restart_now">Teraz</string>
+  <string name="support_forbidden_fakecell">Uwaga: Zapobieganie łączeniu się z fałszywymi stacjami bazowymi może zmniejszyć sygnał w obszarach ze słabym zasięgiem sieci komórkowej.</string>
 </resources>
