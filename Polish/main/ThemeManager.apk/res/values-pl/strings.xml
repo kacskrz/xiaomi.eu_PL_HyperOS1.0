@@ -1269,4 +1269,6 @@ dd.M."</string>
   <string name="dialog_content_get_device_status">Aby móc autoryzować elementy zakupione na innych urządzeniach, aplikacja wymaga dostępu do Twojego ID urządzenia. Po wyłączeniu tej funkcji możesz nie być w stanie używać niektórych zakupionych elementów. Wyłączyć mimo to?</string>
   <string name="preference_subtitle_get_device_status">Aby móc pobrać elementy zakupione na innych urządzeniach, zezwól aplikacji na dostęp do Twojego ID urządzenia</string>
   <string name="preference_title_get_device_status">Dostęp do ID urządzenia</string>
+  <string name="dialog_apply_lock_screen_wallpaper_content">Obecny motyw może nie wspierać zmiany tapety Ekranu blokady.</string>
+  <string name="dialog_apply_lock_screen_wallpaper_warning">Tapeta Ekranu blokady</string>
 </resources>

@@ -278,7 +278,7 @@ Wyślij ten kod do administratora."</string>
   <string name="file_size_is_zero">Rozmiar pliku musi być większy niż 0</string>
   <string name="file_size_lager_than_4g">"Rozmiar pliku nie może przekroczyć 4 GB"</string>
   <string name="file_upload_dialog_cancel">Anuluj</string>
-  <string name="file_upload_dialog_title">Wybierz kategorię</string>
+  <string name="file_upload_dialog_title">Dodaj</string>
   <string name="find_psw">Nie pamiętam hasła</string>
   <string name="for_diagnosis_usage_only">Logi są używane tylko do celów diagnostycznych.</string>
   <string name="get_back_pwd">Resetowanie hasła</string>

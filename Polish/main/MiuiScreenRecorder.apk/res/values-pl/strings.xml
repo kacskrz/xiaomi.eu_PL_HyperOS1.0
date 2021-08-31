@@ -154,4 +154,6 @@ Dotknij, aby je zobaczyć."</string>
   <string name="low_battery_for_pad">Naładuj urządzenie przed rozpoczęciem nagrywania</string>
   <string name="low_memory_for_pad">W pamięci dostępne jest mniej niż %1$d GB miejsca. Możesz wykonać nagranie trwające maks. %2$d min.</string>
   <string name="view_recorded_videos">Zobacz nagrania</string>
+  <string name="show_hard_key_new">Pokaż dotknięcia przycisków</string>
+  <string name="show_hard_key_summary_new">Wizualizuj dotknięcia przycisków nawigacji</string>
 </resources>

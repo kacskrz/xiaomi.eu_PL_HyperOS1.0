@@ -25,7 +25,7 @@ Jeśli masz problemy z połączeniem, sprawdź zakładkę Pomoc."</string>
     <string name="dialog_retry">Spróbuj ponownie</string>
     <string name="dialog_scanning_device">Wyszukiwanie urządzeń w pobliżu…</string>
     <string name="dialog_scanning_precondition">Włącz Wi-Fi i Bluetooth na swoim telefonie, aby użyć Ekranu bezprzewodowego.</string>
-    <string name="dialog_select_tv">Wybierz urządzenie (%d)</string>
+    <string name="dialog_select_tv">Wybierz urządzenie (%1$d)</string>
     <string name="dialog_show_help">Pomoc</string>
     <string name="disconnect">Zatrzymaj przesyłanie</string>
     <string name="hang_up">Wyświetlaj na wyłączonym ekranie</string>
@@ -37,31 +37,34 @@ Jeśli masz problemy z połączeniem, sprawdź zakładkę Pomoc."</string>
     <string name="help_page_text_02">Co to jest casting?</string>
     <string name="help_page_text_03">"Casting to wyświetlanie elementów z ekranu Twojego telefonu na większym, zewnętrznym monitorze. Pozwala to na przykład na pokazywanie zdjęć, wyświetlanie filmów bez korzystania z danych mobilnych."</string>
     <string name="help_page_text_04">Jak mogę wyświetlać elementy na większym ekranie?</string>
-    <string name="help_page_text_05">Krok 1: Sprawdź urządzenia i sieć</string>
-    <string name="help_page_text_06">"1. Nie musisz łączyć się z Internetem, aby połączyć telefon Xiaomi z telewizorem Mi TV.
-2. Jeśli nie możesz nawiązać połączenia pomiędzy urządzeniami, spróbuj podłączyć je do tej samej sieci Wi-Fi."</string>
-    <string name="help_page_text_06_global">"1. Telewizory Mi TV, Mi Boxy i Projektory Mi:
+    <string name="help_page_text_05">Krok %1$d: Sprawdź urządzenia i sieć</string>
+    <string name="help_page_text_06">"%1$d. Telewizory Mi TV, dekodery i projektory Mi:
 Aby osiągnąć najlepsze rezultaty, połącz telefon i zewnętrzny monitor z tą samą siecią Wi-Fi. Jeśli urządzenia są połączone z różnymi sieciami, do odnalezienia i połączenia się z zewnętrznym monitorem może być potrzebne więcej czasu.
-Uwaga: Starsze telewizory Mi TV mogą nie wspierać przesyłania ekranu pomiędzy różnymi sieciami.
-2. Jeśli używasz telewizorów, przystawek lub projektorów innych marek, połącz telefon i zewnętrzny monitor z tą samą siecią Wi-Fi.
+Uwaga: Starsze telewizory mogą nie wspierać przesyłania ekranu pomiędzy różnymi sieciami.
+%2$d. Jeśli używasz telewizorów, przystawek lub projektorów innych marek, połącz telefon i zewnętrzny monitor z tą samą siecią Wi-Fi.
+Jeśli urządzenia nie mogą być połączone z tą samą siecią Wi-Fi, włącz funkcję Miracast na zewnętrznym monitorze (nazwa funkcji może się różnić w zależności od modelu)."</string>
+    <string name="help_page_text_06_global">"%1$d. Telewizory Mi TV, dekodery i projektory Mi:
+Aby osiągnąć najlepsze rezultaty, połącz telefon i zewnętrzny monitor z tą samą siecią Wi-Fi. Jeśli urządzenia są połączone z różnymi sieciami, do odnalezienia i połączenia się z zewnętrznym monitorem może być potrzebne więcej czasu.
+Uwaga: Starsze telewizory mogą nie wspierać przesyłania ekranu pomiędzy różnymi sieciami.
+%2$d. Jeśli używasz telewizorów, przystawek lub projektorów innych marek, połącz telefon i zewnętrzny monitor z tą samą siecią Wi-Fi.
 Jeśli urządzenia nie mogą być połączone z tą samą siecią Wi-Fi, włącz funkcję Miracast na zewnętrznym monitorze (nazwa funkcji może się różnić w zależności od modelu)."</string>
     <string name="help_page_text_07">3. Jeśli koło Ciebie nie ma żadnej sieci Wi-Fi bądź telewizor lub telefon nie mogą się połączyć z tą samą siecią, musisz włączyć w telewizorze funkcję [Miracast]. Może ona się różnie nazywać w zależności od marki - możesz przejść na dół tej strony, aby dowiedzieć się więcej.</string>
-    <string name="help_page_text_08">Krok 2: Włącz przesyłanie ekranu</string>
+    <string name="help_page_text_08">Krok %1$d: Włącz przesyłanie ekranu</string>
     <string name="help_page_text_09">"Dotknij przełącznika \"Wyświetl bezprzewodowo\" w Panelu powiadomień. Włącz Wi-Fi i Bluetooth, aby zapewnić stabilniejsze połączenie."</string>
-    <string name="help_page_text_10">Jeśli chcesz wyświetlać elementy z Galerii bądź Mi Wideo, możesz użyć wbudowanych funkcji przesyłania z tych aplikacji.</string>
-    <string name="help_page_text_11">Krok 3: Wybierz urządzenie</string>
+    <string name="help_page_text_10">Jeśli chcesz wyświetlać bezprzewodowo zdjęcia, filmy, rozgrywkę z gier bądź prezentację, możesz użyć wbudowanych funkcji przesyłania z odpowiednich aplikacji.</string>
+    <string name="help_page_text_11">Krok %1$d: Wybierz urządzenie</string>
     <string name="help_page_text_12">Wybierz urządzenie z listy dostępnych urządzeń, aby zacząć przesyłanie obrazu.</string>
     <string name="help_page_text_13">"Nie możesz się połączyć?"</string>
-    <string name="help_page_text_14">"1. Jeśli chcesz użyć urządzenia Xiaomi, ale nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
-Połącz swój smartfon i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego telefonu. Jeśli nie ma dostępnych żadnych sieci Wi-Fi w pobliżu bądź nie możesz połączyć obydwu urządzeń z tą samą siecią, sprawdź, czy funkcje wyświetlania bezprzewodowego na zewnętrznym monitorze są aktualne, włącz Bluetooth na obydwóch urządzeniach i włącz funkcję Miracast na swoim telewizorze.
-2. Jeśli przesyłasz ekran z urządzenia Xiaomi pierwszy raz, musisz przejść weryfikację.
-3. Jeśli używasz innego urządzenia niż Xiaomi i nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
-Połącz swój smartfon i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego telefonu. Jeśli to nie pomoże, zainstaluj aplikację przesyłania ekranu od LeEco na swoim telewizorze i postępuj zgodnie z instrukcjami."</string>
-    <string name="help_page_text_14_global">"1. Jeśli chcesz użyć urządzenia Xiaomi, ale nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
-Połącz swój smartfon i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego telefonu. Jeśli nie ma dostępnych żadnych sieci Wi-Fi w pobliżu bądź nie możesz połączyć obydwu urządzeń z tą samą siecią, sprawdź, czy funkcje wyświetlania bezprzewodowego na zewnętrznym monitorze są aktualne, włącz Bluetooth na obydwóch urządzeniach i włącz funkcję Miracast na swoim telewizorze.
-2. Jeśli przesyłasz ekran z urządzenia Xiaomi pierwszy raz, musisz przejść weryfikację.
-3. Jeśli używasz innego urządzenia niż Xiaomi i nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
-Połącz swój smartfon i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego telefonu."</string>
+    <string name="help_page_text_14">"%1$d. Jeśli chcesz użyć urządzenia Xiaomi, ale nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
+Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego urządzenia. Jeśli nie ma dostępnych żadnych sieci Wi-Fi w pobliżu bądź nie możesz połączyć obydwu urządzeń z tą samą siecią, sprawdź, czy funkcje wyświetlania bezprzewodowego na zewnętrznym monitorze są aktualne, włącz Bluetooth na obydwóch urządzeniach i włącz funkcję Miracast na swoim telewizorze.
+%2$d. Jeśli przesyłasz ekran z urządzenia Xiaomi pierwszy raz, musisz przejść weryfikację.
+%3$d. Jeśli używasz innego urządzenia niż Xiaomi i nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
+Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego urządzenia. Jeśli to nie pomoże, zainstaluj aplikację HappyCast na swoim telewizorze i postępuj zgodnie z instrukcjami."</string>
+    <string name="help_page_text_14_global">"%1$d. Jeśli chcesz użyć urządzenia Xiaomi, ale nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
+Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego urządzenia. Jeśli nie ma dostępnych żadnych sieci Wi-Fi w pobliżu bądź nie możesz połączyć obydwu urządzeń z tą samą siecią, sprawdź, czy funkcje wyświetlania bezprzewodowego na zewnętrznym monitorze są aktualne, włącz Bluetooth na obydwóch urządzeniach i włącz funkcję Miracast na swoim telewizorze.
+%2$d. Jeśli przesyłasz ekran z urządzenia Xiaomi pierwszy raz, musisz przejść weryfikację.
+%3$d. Jeśli używasz innego urządzenia niż Xiaomi i nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
+Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego urządzenia."</string>
     <string name="help_page_text_15">Funkcja Miracast na różnych urządzeniach</string>
     <string name="help_page_text_16">Mi TV/Projektor Xiaomi</string>
     <string name="help_page_text_17">"Możesz wyświetlać elementy z telefonu Xiaomi na większości telewizorów Xiaomi poprzez Bluetooth bez włączania ręcznie funkcji Miracast.
@@ -104,9 +107,9 @@ Jeśli musisz włączyć Miracast ręcznie, wciśnij przycisk [MENU] na pilocie 
     <string name="help_page_text_52">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. Na niektórych urządzeniach wejdź w Settings > Network > Multiple screens > Wireless Display.</string>
     <string name="help_page_text_53">Wsparcie techniczne LeEco (tylko Chiny): 10109000</string>
     <string name="help_page_text_55">"Jeśli w pobliżu nie ma dostępnych żadnych sieci Wi-Fi, upewnij się, że urządzenie docelowe wspiera funkcję Miracast. Nazwy tej funkcji zależą od marki urządzenia. Przejdź poniżej, aby dowiedzieć się więcej o funkcji Miracast na różnych urządzeniach.
-4. W razie jakichkolwiek problemów możesz zgłosić nam swoje spostrzeżenia i propozycje poprzez aplikację \"Usługi i opinie\"."</string>
+%1$d. W razie jakichkolwiek problemów możesz zgłosić nam swoje spostrzeżenia i propozycje poprzez aplikację \"Usługi i opinie\"."</string>
     <string name="help_page_text_55_global">"Jeśli nie możesz połączyć się z siecią, upewnij się, że urządzenie docelowe wspiera funkcję Miracast. Nazwy tej funkcji zależą od marki urządzenia.
-4. W razie jakichkolwiek problemów możesz zgłosić nam swoje spostrzeżenia i propozycje poprzez aplikację \"Usługi i opinie\"."</string>
+%1$d. W razie jakichkolwiek problemów możesz zgłosić nam swoje spostrzeżenia i propozycje poprzez aplikację \"Usługi i opinie\"."</string>
     <string name="help_page_text_end">"Jeśli Twoja marka nie jest tu wymieniona, skontaktuj się z producentem, aby dowiedzieć się więcej."</string>
     <string name="nfc_connect_failed_toast">"Nie udało się przesłać ekranu. Spróbuj ponownie."</string>
     <string name="notification_rc_desc">Najlepszy asystent do wyświetlania zdjęć, filmów i aplikacji na Mi Boxie (lub TV) - spróbuj teraz!</string>
@@ -138,14 +141,14 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="toast_msg_for_multi_window">Ta funkcja jest niedostępna w trybie Podzielonego ekranu</string>
     <string name="toast_msg_for_small_window">Możesz zminimalizować wyświetlane na zewnętrznym monitorze okienko, aby móc używać innych funkcji telefonu bez przerywania przesyłania tego elementu.</string>
     <string name="toast_title_for_small_window">Wybierz \"Zminimalizuj okno\" w aplikacji</string>
-    <string name="dialog_no_device_message"><Data>1. Połącz telefon i telewizor z tą samą siecią Wi-Fi.&lt;br>&lt;br>2. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę &lt;a href=milink://com.milink.service/specification>\"Pomoc\"&lt;/a>, aby dowiedzieć się więcej.</Data></string>
-    <string name="dialog_no_device_message_china"><Data>1. Połącz telefon i telewizor z tą samą siecią Wi-Fi.&lt;br>&lt;br>2. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę &lt;a href=milink://com.milink.service/specification>\"Pomoc\"&lt;/a>, aby dowiedzieć się więcej.</Data></string>
-    <string name="dialog_scan_message">"1. Połącz telefon i telewizor z tą samą siecią Wi-Fi.
+    <string name="dialog_no_device_message"><Data>%1$d. Połącz telefon i telewizor z tą samą siecią Wi-Fi.&lt;br>&lt;br>%2$d. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę &lt;a href=milink://com.milink.service/specification>\"Pomoc\"&lt;/a>, aby dowiedzieć się więcej.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>%1$d. Połącz telefon i telewizor z tą samą siecią Wi-Fi.&lt;br>&lt;br>%2$d. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę &lt;a href=milink://com.milink.service/specification>\"Pomoc\"&lt;/a>, aby dowiedzieć się więcej.</Data></string>
+    <string name="dialog_scan_message">"%1$d. Połącz telefon i telewizor z tą samą siecią Wi-Fi.
 
-2. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę \"Pomoc\", aby dowiedzieć się więcej."</string>
-    <string name="dialog_scan_message_china">"1. Połącz telefon i telewizor z tą samą siecią Wi-Fi.
+%2$d. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę \"Pomoc\", aby dowiedzieć się więcej."</string>
+    <string name="dialog_scan_message_china">"%1$d. Połącz telefon i telewizor z tą samą siecią Wi-Fi.
 
-2. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę \"Pomoc\", aby dowiedzieć się więcej."</string>
+%2$d. W niektórych telewizorach ta funkcja dostępna jest tylko wtedy, gdy włączone jest przesyłanie ekranu. Wyświetl zakładkę \"Pomoc\", aby dowiedzieć się więcej."</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja z chmurą wył.</string>
     <string name="miuix_appcompat_cloud_state_finished">Zsynchronizowano z chmurą</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchronizowanie z chmurą</string>
@@ -257,4 +260,5 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="file_read_des">W celu wyświetlania zdjęć i innych plików na zewnętrznych monitorach</string>
     <string name="notify">Przesyłanie ekranu działa w tle</string>
     <string name="p2p_location_des">W celu połączenia Twojego urządzenia z zewnętrznymi monitorami</string>
+    <string name="help_page_text_09_global">"Dotknij przełącznika \"Wyświetl bezprzewodowo\" w Panelu powiadomień bądź Centrum funkcji. Aby zapewnić bardziej stabilną łączność, włącz zarówno Wi-Fi, jak i Bluetooth."</string>
 </resources>
