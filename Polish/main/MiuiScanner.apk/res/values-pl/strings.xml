@@ -616,4 +616,6 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="picture_stop_audio">Stop</string>
   <string name="picture_video_error">Film jest uszkodzony</string>
   <string name="picture_warning">Brak plików!</string>
+  <string name="error_not_found_activity">Nie znaleziono aplikacji obsługującej pliki PDF</string>
+  <string name="personalassistant_not_install">"Ta funkcja nie jest jeszcze wspierana!"</string>
 </resources>
