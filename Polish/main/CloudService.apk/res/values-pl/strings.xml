@@ -353,7 +353,7 @@ Usuń wtedy starsze pliki lub kup dodatkową przestrzeń na dysku."</string>
   <string name="micloud_main_error_activated_fail">Zarejestruj kartę SIM.</string>
   <string name="micloud_main_error_network_disallowed">Upewnij się czy udzielony jest dostęp do sieci.</string>
   <string name="micloud_main_error_permission_limit">Zezwól Usłudze Chmury na dostęp do pamięci</string>
-  <string name="micloud_main_head_menu_cloud_backup">Kopia</string>
+  <string name="micloud_main_head_menu_cloud_backup">Kopie zapasowe</string>
   <string name="micloud_main_head_menu_cloud_backup_summary">Ustawienia systemu i układ pulpitu</string>
   <string name="micloud_main_head_menu_finddevice_summary">"Zlokalizuj i zablokuj urządzenie"</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Lokalizacja urządzenia jest niedostępna na drugim profilu</string>
@@ -1128,4 +1128,15 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="miuix_access_state_desc">Wybrano</string>
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="dialog_add_shortcut_content">Dodaj skrót do Chmury Xiaomi na pulpicie, aby móc zarządzać jej przestrzenią bardziej efektywnie.</string>
+  <string name="dialog_add_shortcut_title">Dodaj skrót</string>
+  <string name="dialog_storage_full_title">Brak miejsca w Chmurze</string>
+  <string name="dialog_storage_low_content">Aby normalnie synchronizować elementy, ulepsz swój plan Chmury.</string>
+  <string name="dialog_storage_low_title">Mało miejsca w Chmurze</string>
+  <string name="micloud_storage_detail">Szczegóły</string>
+  <string name="micloud_storage_family_quota">Udostępnianie rodzinne</string>
+  <string name="micloud_storage_full_tip">Brak miejsca</string>
+  <string name="micloud_storage_normal_tip">Pozostało %s</string>
+  <string name="micloud_storage_share_family">Udostępniane rodzinne</string>
+  <string name="micloud_upgrade_storage">Ulepsz plan Chmury</string>
 </resources>

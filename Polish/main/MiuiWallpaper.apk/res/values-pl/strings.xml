@@ -118,4 +118,5 @@ dd.M"</string>
     <string name="weather_super_wallpaper_label">Pogoda</string>
     <string name="weather_title">Pogoda</string>
     <string name="download_button">Pobierz</string>
+    <string name="miui_clock_city_name_second">Drugi zegar</string>
 </resources>
