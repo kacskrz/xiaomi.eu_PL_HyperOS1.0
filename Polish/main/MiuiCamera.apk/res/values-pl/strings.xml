@@ -1945,4 +1945,8 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="pref_video_ai_audio_effect_comparation_3d_i">Dźwięk 3D</string>
   <string name="pref_video_ai_audio_effect_comparation_3d_ii">Demo</string>
   <string name="pref_video_ai_audio_effect_comparation_3d_original">Oryginalne</string>
+  <string name="pref_camera_tap_shoot_summary">Dotknij ekranu podglądu, aby wykonać zdjęcie</string>
+  <string name="pref_camera_tap_shoot_title">Dotknij, aby wykonać zdjęcie</string>
+  <string name="pref_cup_camera_position_summary">"Pokaż pozycję przedniego aparatu, gdy jest on używany"</string>
+  <string name="pref_cup_camera_position_title">Pokaż przedni aparat</string>
 </resources>
