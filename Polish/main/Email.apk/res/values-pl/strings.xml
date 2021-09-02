@@ -1575,4 +1575,7 @@ Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojeg
   <string name="toastbar_contacts_permission_switch_allow_only_using">"Nie udało się zsynchronizować kontaktów. Aby rozwiązać ten problem, zmień uprawnienia dostępu do kontaktów na \"Zawsze zezwalaj\"."</string>
   <string name="graph_name">Firma (Graph)</string>
   <string name="new_mail_notification_str">Pokazuj powiadomienia</string>
+  <string name="hide_attachment">Ukryj załącznik</string>
+  <string name="show_attachment">Pokaż załącznik</string>
+  <string name="folder_list_current_account">Obecne konto</string>
 </resources>
