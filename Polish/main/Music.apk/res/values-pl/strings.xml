@@ -1364,4 +1364,9 @@ Jeśli nie zgadzasz się na korzystanie ze wspomnianych usług, niektóre funkcj
   <string name="loading_text">Chwileczkę…</string>
   <string name="title_recently_played">Ostatnio odtwarzane</string>
   <string name="privacy_request_subtitle_offline">Witaj w Mi Muzyce! Aplikacja zawiera odtwarzacz lokalnych plików audio.</string>
+  <string name="add">Dodaj</string>
+  <string name="dialog_stop_audio_in">Licznik odtwarzania</string>
+  <string name="music_quality">Jakość dźwięku</string>
+  <string name="no_lyrics">Brak tekstu</string>
+  <string name="toast_hungama_vip_song">Ten utwór jest dostępny tylko dla użytkowników ze członkostwem PRO. Uzyskaj subskrypcję, aby móc go pobrać.</string>
 </resources>

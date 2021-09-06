@@ -3135,4 +3135,6 @@ Jeśli masz pytania, skontaktuj się z organizacją %2$s."</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Bez pomiaru</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi nie będzie na razie włączać się automatycznie</string>
     <string name="window_blurs">Zezwól na rozmycie na poziomie okna</string>
+    <string name="phone_locked_string_owner_user">Dokonano zbyt wielu nieudanych prób wprowadzenia hasła do Głównej przestrzeni. Urządzenie zostało zablokowane.</string>
+    <string name="phone_locked_string_second_user">Dokonano zbyt wielu nieudanych prób wprowadzenia hasła do Drugiej przestrzeni. Urządzenie zostało zablokowane.</string>
 </resources>

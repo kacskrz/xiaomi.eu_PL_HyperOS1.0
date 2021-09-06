@@ -592,4 +592,5 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="sure_close">Wyłącz</string>
     <string name="virus_safe_install_mode_security_tips">" Jeśli nadal chcesz zainstalować tę aplikację, możesz zezwolić na to w Ustawieniach > Specjalne funkcje > Tryb bezpieczny."</string>
     <string name="virus_scanning_please_wait">Sprawdzanie…</string>
+    <string name="uri_no_permission">Nie można odnaleźć pliku ze względu na brak uprawnień</string>
 </resources>

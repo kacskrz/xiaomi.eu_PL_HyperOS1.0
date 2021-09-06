@@ -106,7 +106,7 @@ Później będziesz mógł zainstalować inne klawiatury z Google Play."</string
   <string name="other_settings_enhanced_lockscreen_summary">Codziennie na ekranie blokady będą się pojawiać nowe tapety online</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Zgoda użytkownika końcowego</string>
   <string name="other_settings_location">Lokalizacja</string>
-  <string name="other_settings_location_summary">Zezwól na dostęp aplikacji do lokalizacji</string>
+  <string name="other_settings_location_summary">Zezwól na dostęp aplikacji oraz stron internetowych do lokalizacji w celu dostarczania usług opierających się na niej</string>
   <string name="other_settings_mifg_online_content">Dzienne tapety blokady</string>
   <string name="other_settings_mifg_online_content_summary">Połącz z siecią, aby pobierać regularnie nowe tapety ekranu blokady</string>
   <string name="other_settings_upload_debug_log_summary">Dane z diagnostyki systemu mogą zawierać informacje o problemach ze sprzętem, systemem lub aplikacjami. Dane te będą wykorzystywane tylko w celu zdiagnozowania problemów z urządzeniem.</string>
