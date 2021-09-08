@@ -1958,4 +1958,9 @@ Potwierdź ustawienie domyślnego konta do połączeń."</string>
   <string name="restart_later">Później</string>
   <string name="restart_now">Teraz</string>
   <string name="support_forbidden_fakecell">Uwaga: Zapobieganie łączeniu się z fałszywymi stacjami bazowymi może zmniejszyć sygnał w obszarach ze słabym zasięgiem sieci komórkowej.</string>
+  <string name="enter_esim_manager">Zarządzaj usługą eSIM</string>
+  <string name="esim_goto_active">Aktywuj</string>
+  <string name="esim_inactive_message">Nieaktywne eSIM</string>
+  <string name="esim_inactive_notification_message">Nie wykryto karty SIM. Dotknij, aby aktywować usługę eSIM.</string>
+  <string name="esim_inactive_settings_title">Karty SIM i sieci mobilne</string>
 </resources>
