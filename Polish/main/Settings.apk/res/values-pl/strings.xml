@@ -9899,4 +9899,5 @@ Model odcisku palca zapisany na telefonie zostanie usunięty. Twój model twarzy
     <string name="zen_mode_starred_contacts_summary_contacts">{count,plural,offset:2 =0{Brak}=1{{contact_1}}=2{{contact_1} i {contact_2}}=3{{contact_1}, {contact_2} i {contact_3}}few{{contact_1}, {contact_2}i jeszcze # inne}many{{contact_1}, {contact_2}i jeszcze # innych}other{{contact_1}, {contact_2}i jeszcze # innego}}</string>
     <string name="zen_settings_general">Ogólne</string>
     <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Zezwól na dostęp do kontaktów</string>
+    <string name="keyboard_funtion_key">Klawisz funkcyjny</string>
 </resources>

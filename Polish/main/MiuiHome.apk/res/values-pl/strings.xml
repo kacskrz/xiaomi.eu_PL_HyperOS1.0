@@ -737,4 +737,7 @@
   <string name="open_personal_assistant_settings">Ustawienia Asystenta MIUI</string>
   <string name="system_shortcuts_edit">Edytuj</string>
   <string name="toast_drag_to_assistant_reject">Inicjalizacja Asystenta MIUI…</string>
+  <string name="ota_layout_adjustment_button_text">OK</string>
+  <string name="ota_layout_adjustment_content">W nowej wersji nakładki układy pulpitów głównego i zewnętrznego ekranu zostały zsynchronizowane.</string>
+  <string name="ota_layout_adjustment_title">Układy pulpitów</string>
 </resources>
