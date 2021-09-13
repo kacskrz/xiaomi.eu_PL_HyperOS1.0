@@ -869,4 +869,6 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
 nie są tworzone w Drugiej przestrzeni"</string>
     <string name="desktop_widget_screen_use_time">Czas przed ekranem</string>
     <string name="usage_app_desktop_widget_limit">Pozostało %s</string>
+    <string name="split_page_authorization">Witaj w Czasie przed ekranem! Możesz tu ustawić limity dot. korzystania z ekranu i wyświetlać statystyki. Aby włączyć tę funkcję, dotknij opcji \"Start\".</string>
+    <string name="split_page_start">Start</string>
 </resources>

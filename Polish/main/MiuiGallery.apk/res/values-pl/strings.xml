@@ -2941,4 +2941,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="permission_contacts_desc_2">W celu powiązania osób na zdjęciach z konkretnymi kontaktami</string>
     <string name="permission_contacts_name_2">Dostęp do kontaktów</string>
     <string name="permission_storage_name_2">Dostęp i zapis zdjęć i filmów na urządzeniu</string>
+    <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

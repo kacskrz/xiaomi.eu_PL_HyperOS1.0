@@ -9900,4 +9900,6 @@ Model odcisku palca zapisany na telefonie zostanie usunięty. Twój model twarzy
     <string name="zen_settings_general">Ogólne</string>
     <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Zezwól na dostęp do kontaktów</string>
     <string name="keyboard_funtion_key">Klawisz funkcyjny</string>
+    <string name="forbidden_set_unlock_password_msg">Nie można obecnie ustawić bądź zmienić hasła, ponieważ włączono Tryb naprawy.</string>
+    <string name="miheadset_windnoise">Wiatr</string>
 </resources>
