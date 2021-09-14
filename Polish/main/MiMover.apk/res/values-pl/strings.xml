@@ -711,4 +711,20 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="trans_show_qr_code_label_for_pad">Otwórz Przenoszenie danych na starym urządzeniu</string>
     <string name="trans_sync_transfer_data_list_hint">Chwileczkę…</string>
     <string name="trans_sync_transfer_data_list_summary_for_pad">Wybierz elementy na starym urządzeniu i dotknij opcji \"Wyślij\".</string>
+    <string name="calendar_permission_desc">W celu przeniesienia wydarzeń na inne urządzenie</string>
+    <string name="contact_records_permission_desc">W celu przeniesienia historii połączeń na inne urządzenie</string>
+    <string name="contacts_permission_desc">W celu przeniesienia kontaktów na inne urządzenie</string>
+    <string name="data_read_white_permission_desc">W celu przeniesienia elementów na inne urządzenie</string>
+    <string name="location_permission_desc">W celu odnalezienia urządzeń w pobliżu</string>
+    <string name="msg_permission_desc">W celu przeniesienia wiadomości na inne urządzenie</string>
+    <string name="permission_grant_request">Aby móc przenieść ten element, aplikacja Przenoszenie danych wymaga uprawnienia \"%1$s\".</string>
+    <string name="permission_request_title">\"%1$s\" permission required</string>
+    <string name="permission_setting_button">Ustawienia</string>
+    <string name="request_all_permission_content">"Aby móc przenieść elementy na nowe urządzenie, Przenoszenie danych wymaga dostępu do następujących elementów:
+- Lokalizacja
+- Kontakty
+- Historia połączeń
+- SMS-y
+- Pamięć"</string>
+    <string name="request_all_permission_title">Wymagane uprawnienia</string>
 </resources>

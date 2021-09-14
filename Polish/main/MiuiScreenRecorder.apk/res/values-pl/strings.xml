@@ -156,4 +156,7 @@ Dotknij, aby je zobaczyć."</string>
   <string name="view_recorded_videos">Zobacz nagrania</string>
   <string name="show_hard_key_new">Pokaż dotknięcia przycisków</string>
   <string name="show_hard_key_summary_new">Wizualizuj dotknięcia przycisków nawigacji</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

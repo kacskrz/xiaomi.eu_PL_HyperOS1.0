@@ -6,8 +6,8 @@
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Nie można odblokować %s."</string>
   <string name="default_debt_msg_words">"To urządzenie jest zablokowane ponieważ ma długi w Chinach. Skontaktuj się z agentem, aby odpracować ten dług."</string>
-  <string name="default_lock_msg_words">Wpisz hasło konta Xiaomi aby odblokować</string>
-  <string name="default_lock_msg_words_with_phone">Urządzenie jest powiązane z kontem Xiaomi. Wpisz hasło aby odblokować telefon.</string>
+  <string name="default_lock_msg_words">Wpisz hasło konta Xiaomi, aby odblokować</string>
+  <string name="default_lock_msg_words_with_phone">Urządzenie jest powiązane z kontem Xiaomi. Wpisz hasło, aby je odblokować.</string>
   <string name="device_locked">Urządzenie jest zablokowane</string>
   <string name="device_lost">Urządzenie zablokowane</string>
   <string name="disable_find_device_error">"Nie można wyłączyć Lokalizacji urządzenia. %1$s"</string>
