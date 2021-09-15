@@ -9902,4 +9902,5 @@ Model odcisku palca zapisany na telefonie zostanie usunięty. Twój model twarzy
     <string name="keyboard_funtion_key">Klawisz funkcyjny</string>
     <string name="forbidden_set_unlock_password_msg">Nie można obecnie ustawić bądź zmienić hasła, ponieważ włączono Tryb naprawy.</string>
     <string name="miheadset_windnoise">Wiatr</string>
+    <string name="low_dc_light_title">Ograniczenie migotania w słabym świetle</string>
 </resources>

@@ -871,4 +871,22 @@ nie są tworzone w Drugiej przestrzeni"</string>
     <string name="usage_app_desktop_widget_limit">Pozostało %s</string>
     <string name="split_page_authorization">Witaj w Czasie przed ekranem! Możesz tu ustawić limity dot. korzystania z ekranu i wyświetlać statystyki. Aby włączyć tę funkcję, dotknij opcji \"Start\".</string>
     <string name="split_page_start">Start</string>
+    <string name="customize_radio_btn_summary">Preferuj wybraną częstotliwość odświeżania</string>
+    <string name="customize_radio_btn_title">Własna</string>
+    <string name="dc_light_hint_normal_anit">Tryb Ograniczenie migotania może wpłynąć na to, jak wyświetlane są niektóre treści.</string>
+    <string name="dc_light_hint_normal_other">Tryb Ograniczenie migotania może wpłynąć na częstotliwość odświeżania i sposób wyświetlania niektórych treści.</string>
+    <string name="dc_light_hint_unnormal_low">Tryb Ograniczenie migotania w słabym świetle może wpłynąć na to, jak wyświetlane są niektóre treści.</string>
+    <string name="dc_light_hint_unnormal_other">Tryb Ograniczenie migotania w słabym świetle może wpłynąć na częstotliwość odświeżania i sposób wyświetlania niektórych treści.</string>
+    <string name="fps_high">Wysoka</string>
+    <string name="fps_normal">Standardowa</string>
+    <string name="fps_radio_btn_title">Częstotliwość odświeżania</string>
+    <string name="fps_save_battery_tips">Włączono Oszczędzanie baterii. Częstotliwość odświeżania wynosi obecnie %d Hz.</string>
+    <string name="fps_user_tip_footer">"%1$d. Aby móc zobaczyć różnicę pomiędzy poszczególnymi częstotliwościami odświeżania, demonstracje są odtwarzane wolniej. Podczas normalnego użytkowania dostrzeżenie różnic może być trudniejsze.
+%2$d. W pewnych przypadkach częstotliwość odświeżania może być dostosowana dynamicznie w zależności od wyświetlanych elementów."</string>
+    <string name="high_fps_tip_footer">Używanie wyższych częstotliwości odświeżania sprawia, że wyświetlane treści są płynniejsze, lecz zużywa także więcej energii.</string>
+    <string name="intelligent_radio_btn_summary">Dynamicznie dostosuj częstotliwość odświeżania w oparciu o różne scenariusze, aby zachować balans pomiędzy wydajnością a zużyciem energii</string>
+    <string name="intelligent_radio_btn_title">Automatyczna (zalecane)</string>
+    <string name="low_flicker_mode">Gdy światła jest mniej</string>
+    <string name="low_flicker_mode_summary">Zapobiegaj migotaniu w słabych warunkach oświetleniowych, aby zmniejszyć zmęczenie oczu</string>
+    <string name="normal_mode_summary_new">Zezwalaj na migotanie w słabych warunkach oświetleniowych</string>
 </resources>
