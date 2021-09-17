@@ -288,4 +288,24 @@ Szyszy protokół transmisji."</string>
     <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
     <string name="headset_loss_notify_summary1">"Wygląda na to, że słuchawki nie znajdują się w zestawie ładującym. Włóż je tam z powrotem, aby je naładować."</string>
+    <string name="plugin_alert_cancel">Później</string>
+    <string name="plugin_alert_kill">Zatrzymaj</string>
+    <string name="plugin_alert_text">Aby zastosować zmiany, zatrzymaj Ustawienia i zrestartuj usługę Bluetooth.</string>
+    <string name="plugin_alert_title">Aktualizacja wtyczki</string>
+    <string name="plugin_download_create_client_failed">Nie udało się utworzyć klienta.</string>
+    <string name="plugin_download_get_object_failed">Nie udało się uzyskać informacji z serwera.</string>
+    <string name="plugin_download_network_timeout">Przekroczono czas żądania.</string>
+    <string name="plugin_download_no_storage">Brak miejsca.</string>
+    <string name="plugin_download_rejected">Przekroczono limit danych.</string>
+    <string name="plugin_download_unexpected_files">Pobieranie niespodziewanych plików.</string>
+    <string name="plugin_download_unknown_error">Nieznany błąd.</string>
+    <string name="plugin_install_failed">Nie udało się zaktualizować części wtyczek.</string>
+    <string name="plugin_install_timeout">Przekroczono czas oczekiwania na instalację.</string>
+    <string name="plugin_last_update_going">Trwa ostatnia aktualizacja.</string>
+    <string name="plugin_no_update">"Wersja jest aktualna."</string>
+    <string name="plugin_start_update">Rozpoczęto aktualizację wtyczek...</string>
+    <string name="plugin_update_failed">Aktualizacja nieudana:</string>
+    <string name="plugin_update_notification_summary">Pomyślnie zaktualizowano wtyczkę Bluetooth. Aby zastosować ustawienia, zatrzymaj Ustawienia i zrestartuj usługę Bluetooth.</string>
+    <string name="plugin_update_notification_title">Aktualizacja wtyczki Bluetooth</string>
+    <string name="plugin_update_success">Pomyślnie zaktualizowano wtyczkę Bluetooth.</string>
 </resources>

@@ -9903,4 +9903,61 @@ Model odcisku palca zapisany na telefonie zostanie usunięty. Twój model twarzy
     <string name="forbidden_set_unlock_password_msg">Nie można obecnie ustawić bądź zmienić hasła, ponieważ włączono Tryb naprawy.</string>
     <string name="miheadset_windnoise">Wiatr</string>
     <string name="low_dc_light_title">Ograniczenie migotania w słabym świetle</string>
+    <string name="accessibility_button_gesture_description">"Szybko uzyskaj dostęp do funkcji ułatwień dostępu z dowolnego ekranu.
+
+Aby zacząć, przejdź do ustawień Ułatwień dostępu i wybierz funkcję. Dotknij skrótu i wybierz przycisk Ułatwień dostępu.
+
+Aby użyć zamiast tego przycisku Ułatwień dostępu w pasku nawigacji, przełącz się na nawigację dwoma bądź trzema przyciskami."</string>
+    <string name="adaptive_connectivity_switch_off">Wył.</string>
+    <string name="adaptive_connectivity_switch_on">Wł.</string>
+    <string name="app_notification_field_summary">Kontroluj powiadomienia z poszczególnych aplikacji</string>
+    <string name="biometric_settings_hand_back_to_guardian">Oddaj telefon z powrotem rodzicowi</string>
+    <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Zezwól na dostęp do kontaktów</string>
+    <string name="bluetooth_plugins_check_summary">Sprawdź aktualizacje wtyczek Bluetooth</string>
+    <string name="bluetooth_plugins_check_title">Sprawdź aktualizacje wtyczek Bluetooth</string>
+    <string name="guest_reset_guest">Resetuj sesję gościa</string>
+    <string name="guest_reset_guest_confirm_button">Resetuj</string>
+    <string name="guest_reset_guest_dialog_title">Zresetować sesję gościa?</string>
+    <string name="guest_resetting">Resetuję sesję gościa…</string>
+    <string name="lockpassword_choose_password_description">Dla większego bezpieczeństwa ustaw hasło do odblokowywania urządzenia</string>
+    <string name="lockpassword_choose_pin_description">Dla większego bezpieczeństwa ustaw kod PIN do odblokowywania urządzenia</string>
+    <string name="lockpattern_choose_pattern_description">Dla większego bezpieczeństwa ustaw wzór do odblokowywania urządzenia</string>
+    <string name="mobile_data_disable_message">Nie będziesz mieć dostępu do transmisji danych ani internetu w sieci, którą obsługuje %s. Internet będzie dostępny tylko przez Wi‑Fi.</string>
+    <string name="mobile_data_disable_message_default_carrier">Twój operator</string>
+    <string name="mobile_data_disable_title">Wyłączyć mobilną transmisję danych?</string>
+    <string name="my_device_info_basic_info_category_title">Podstawowe informacje</string>
+    <string name="my_device_info_device_details_category_title">Szczegóły urządzenia</string>
+    <string name="my_device_info_device_identifiers_category_title">Identyfikatory urządzeń</string>
+    <string name="my_device_info_legal_category_title">Informacje prawne</string>
+    <string name="nfc_setting_off">Wył.</string>
+    <string name="nfc_setting_on">Wł.</string>
+    <string name="one_handed_mode_use_shortcut_category">Użyj skrótu, aby</string>
+    <string name="power_menu_power_prevent_ringing_hint">"Zapobiegaj włączeniu się dzwonka:
+Skrót dostępny w menu głośności."</string>
+    <string name="power_menu_power_volume_up_hint">"Menu zasilania i alarmowe:
+Naciśnij jednocześnie przyciski zasilania i zwiększania głośności."</string>
+    <string name="power_menu_summary_long_press_for_assist_disabled_no_action">Opcja Naciśnij i przytrzymaj jest wyłączona</string>
+    <string name="power_menu_summary_long_press_for_assist_disabled_with_power_menu">Naciśnij i przytrzymaj, aby wyświetlić menu zasilania</string>
+    <string name="power_menu_summary_long_press_for_assist_enabled">Naciśnij i przytrzymaj, aby uruchomić Asystenta</string>
+    <string name="prevent_ringing_option_unavailable_lpp_summary">Aby włączyć, najpierw zmień „Naciśnij i przytrzymaj przycisk zasilania” na menu zasilania.</string>
+    <string name="remove_credential_management_app_dialog_message">Ta aplikacja nie będzie zarządzać certyfikatami, ale pozostanie na urządzeniu. Wszystkie certyfikaty zainstalowane przez tę aplikację zostaną odinstalowane.</string>
+    <string name="remove_credential_management_app_dialog_title">Usunąć tę aplikację?</string>
+    <string name="security_settings_face_enroll_consent_introduction_title">Zezwól na rozpoznawanie twarzy</string>
+    <string name="security_settings_face_enroll_introduction_consent_message">Zezwól na korzystanie przez dziecko z rozpoznawania twarzy przy odblokowywaniu telefonu i weryfikacji tożsamości (np. podczas logowania się w aplikacjach, zatwierdzania zakupów i w innych przypadkach).</string>
+    <string name="security_settings_fingerprint_bad_calibration">Nie można użyć czytnika linii papilarnych. Odwiedź serwis.</string>
+    <string name="security_settings_fingerprint_enroll_consent_introduction_title">Zezwól na odblokowywanie odciskiem palca</string>
+    <string name="security_settings_fingerprint_enroll_introduction_consent_message">Zezwól na korzystanie przez dziecko z odcisku palca przy odblokowywaniu telefonu i weryfikacji tożsamości (np. podczas logowania się w aplikacjach, zatwierdzania zakupów i w innych przypadkach).</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_consent_1">To Ty i Twoje dziecko macie nad wszystkim kontrolę</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_2">Odblokowanie odciskiem palca tworzy unikalny model odcisku palca Twojego dziecka, który pozwala zweryfikować jego tożsamość. Aby utworzyć taki model odcisku palca podczas konfiguracji, trzeba odcisnąć palec kilka razy pod różnymi kątami.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">Obrazy tworzone, gdy dziecko korzysta z funkcji Pixel Imprint, służą do aktualizowania modelu odcisku jego palca. Obrazy użyte do utworzenia modelu odcisku palca nigdy nie są zapisywane, a sam model jest bezpiecznie przechowywany na telefonie i nigdy go nie opuszcza. Przetwarzanie danych odbywa się w całości na telefonie w bezpieczny sposób.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">Ty i Twoje dziecko w dowolnej chwili możecie usunąć model odcisku palca i wyłączyć Odblokowanie odciskiem palca w Ustawieniach. Modele odcisku palca są przechowywane na telefonie, dopóki nie zostaną usunięte.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_5">Telefon dziecka może zostać odblokowany, jeżeli inna osoba go do palca dziecka.</string>
+    <string name="usb_transcode_files_summary">Filmy będzie można odtwarzać na większej liczbie odtwarzaczy, ale ich jakość może się pogorszyć</string>
+    <string name="wifi_auto_sel_wapi_cert">Wybierz automatycznie</string>
+    <string name="wifi_hand_sel_wapi_cert">Certyfikat WAPI</string>
+    <string name="wifi_wapi_as_certificate">Certyfikat AS</string>
+    <string name="wifi_wapi_psk_type">Typ hasła</string>
+    <string name="wifi_wapi_user_certificate">Certyfikat użytkownika</string>
+    <string name="power_menu_setting_name">Przytrzymaj przycisk zasilania</string>
+    <string name="bluetooth_plugins_check_summary_new">Znaleziono nową wersję wtyczki Bluetooth</string>
 </resources>

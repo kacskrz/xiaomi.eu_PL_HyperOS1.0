@@ -1764,7 +1764,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="pref_e_p_s_n">Nagrywaj dźwięk przez zewnętrzny mikrofon, gdy podłączone są słuchawki Bluetooth z mikrofonem</string>
   <string name="pref_i_n_r_b">Inteligentna redukcja szumów</string>
   <string name="pref_k_h">Monitory douszne</string>
-  <string name="pref_k_s_i">Monitoruj nagrany dźwięk za pomocą słuchawek, gdy są podłączone</string>
+  <string name="pref_k_s_i">Monitoruj nagrany dźwięk za pomocą słuchawek przewodowych, gdy są podłączone</string>
   <string name="pref_n_s_a">Ustawienia dźwięku</string>
   <string name="pref_n_s_o_l">Wł.</string>
   <string name="pref_n_s_o_m">Wył.</string>
@@ -1949,4 +1949,24 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="pref_camera_tap_shoot_title">Dotknij, aby wykonać zdjęcie</string>
   <string name="pref_cup_camera_position_summary">"Pokaż pozycję przedniego aparatu, gdy jest on używany"</string>
   <string name="pref_cup_camera_position_title">Pokaż przedni aparat</string>
+  <string name="download_automatic_message_cn">Czy chcesz automatycznie pobrać wtyczki funkcji aparatu, gdy urządzenie jest połączone z siecią Wi-Fi?</string>
+  <string name="download_automatic_summary_cn">Automatycznie pobieraj wtyczki funkcji aparatu przez Wi-Fi</string>
+  <string name="mode_edit_hold_on">Przenoszenie elementu</string>
+  <string name="mode_edit_moved">Umieść w rzędzie %1$d, na pozycji %2$d</string>
+  <string name="mode_edit_moving">Przeniesiono do rzędu %1$d, na pozycję %2$d</string>
+  <string name="mode_edit_photo_disable">Zatrzymano robienie zdjęć</string>
+  <string name="mode_edit_video_disable">Zatrzymano nagrywanie filmów</string>
+  <string name="portait_effect_entry_holiday">Wakacje</string>
+  <string name="portait_effect_entry_original">Oryginalne</string>
+  <string name="portait_effect_entry_oxygen">Tlen</string>
+  <string name="portait_effect_entry_pink_orange">Cytrus</string>
+  <string name="prep_video_ai_audio_new_mutex_tip">"Nie można obecnie używać zbliżenia audio"</string>
+  <string name="prep_video_ai_audio_single_mutex_tip">"Nie można obecnie rejestrować dźwięku przedniego"</string>
+  <string name="accessibility_flash_screen_halo">Światło pierścieniowe wł.</string>
+  <string name="download_automatic_cancel">Anuluj</string>
+  <string name="download_automatic_confirm">Pobierz</string>
+  <string name="download_automatic_message">Czy chcesz automatycznie pobrać wtyczki funkcji aparatu, gdy urządzenie jest połączone z siecią Wi-Fi?</string>
+  <string name="download_automatic_summary">Automatycznie pobieraj wtyczki funkcji aparatu przez Wi-Fi</string>
+  <string name="download_automatic_title">Pobierz automatycznie</string>
+  <string name="pref_camera_flashmode_entry_screen_halo">Światło pierścieniowe</string>
 </resources>

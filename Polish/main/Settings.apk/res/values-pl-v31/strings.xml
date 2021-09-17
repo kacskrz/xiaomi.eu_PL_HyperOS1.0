@@ -84,7 +84,7 @@ Inna osoba może odblokować Twój telefon, zbliżając go do Twojej twarzy (naw
 
 Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo), odblokuje Twój telefon."</string>
     <string name="security_settings_fingerprint_enroll_finish_message">Możesz teraz używać odcisku palca do odblokowywania telefonu oraz weryfikacji tożsamości, na przykład podczas logowania się w aplikacjach</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message">Funkcja pozwala wybudzać i odblokowywać telefon, autoryzować zakupy oraz logować się w aplikacjach za pomocą odcisku palca. Z rozwagą dodawaj odciski palców innych osób, bo każda z nich będzie mogła wykonywać wszystkie te czynności.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">Funkcja pozwala wybudzać i odblokowywać telefon, autoryzować zakupy oraz logować się w aplikacjach za pomocą odcisku palca.</string>
     <string name="security_settings_fingerprint_enroll_introduction_title">Skonfiguruj odcisk palca</string>
     <string name="tts_engine_security_warning">Ten mechanizm syntezy mowy może gromadzić cały odczytywany tekst, w tym dane osobiste w postaci haseł i numerów kart kredytowych. Nazwa mechanizmu to %s. Włączyć ten mechanizm syntezy mowy?</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint">"Hasło ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony.
@@ -108,4 +108,10 @@ Model odcisku palca zapisany na telefonie zostanie usunięty. Twój model twarzy
 
 Model odcisku palca zapisany na telefonie również zostanie usunięty. Uwierzytelnianie się w aplikacjach odciskiem palca nie będzie możliwe."</string>
     <string name="unlock_disable_frp_warning_content_pin">Kod PIN ochroni Twój telefon, jeśli zostanie zgubiony lub skradziony</string>
+    <string name="battery_tip_dialog_message">"Używasz telefonu intensywniej niż zwykle, więc bateria może rozładować się szybciej.
+
+Aplikacje, które najbardziej zużywają baterię:"</string>
+    <string name="managed_profile_contact_search_summary">Twoje wyszukiwania i połączenia przychodzące mogą być widoczne dla administratora IT</string>
+    <string name="managed_profile_contact_search_title">Wyszukuj kontakty z katalogu służbowego w aplikacjach osobistych</string>
+    <string name="choose_sim_text">{count,plural, =1{Na tym urządzeniu dostępny jest 1 numer, ale nie można używać wielu numerów jednocześnie}=2{Na tym urządzeniu dostępne są 2 numery, ale nie można używać wielu numerów jednocześnie}few{Na tym urządzeniu dostępne są # numery, ale nie można używać wielu numerów jednocześnie}many{Na tym urządzeniu dostępnych jest # numerów, ale nie można używać wielu numerów jednocześnie}other{Na tym urządzeniu dostępne jest # numeru, ale nie można używać wielu numerów jednocześnie}}</string>
 </resources>

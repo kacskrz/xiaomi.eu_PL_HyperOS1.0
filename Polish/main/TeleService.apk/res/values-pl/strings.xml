@@ -1963,4 +1963,10 @@ Potwierdź ustawienie domyślnego konta do połączeń."</string>
   <string name="esim_inactive_message">Nieaktywne eSIM</string>
   <string name="esim_inactive_notification_message">Nie wykryto karty SIM. Dotknij, aby aktywować usługę eSIM.</string>
   <string name="esim_inactive_settings_title">Karty SIM i sieci mobilne</string>
+  <string name="incall_error_power_off_thermal"><b>Telefon jest zbyt gorący</b>"
+
+Nie można nawiązać tego połączenia. Spróbuj ponownie, gdy telefon się ochłodzi.
+
+Nadal możesz wykonywać połączenia alarmowe."</string>
+  <string name="callFailed_concurrent_calls_not_possible">Zakończono połączenie, ponieważ nie jest możliwe prowadzenie równoległych połączeń.</string>
 </resources>

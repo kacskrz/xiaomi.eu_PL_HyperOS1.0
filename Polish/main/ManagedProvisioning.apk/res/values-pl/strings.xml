@@ -168,4 +168,5 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Włącz tekstowy tryb wprowadzania</string>
     <string name="mtrl_picker_toggle_to_year_selection">Kliknij, by wybrać rok</string>
     <string name="password_toggle_content_description">Pokaż hasło</string>
+    <string name="navigation_button_description">Przejdź wyżej</string>
 </resources>

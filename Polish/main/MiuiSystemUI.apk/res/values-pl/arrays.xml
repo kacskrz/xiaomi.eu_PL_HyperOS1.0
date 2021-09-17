@@ -84,4 +84,129 @@
         <item>Zablokowano</item>
         <item>Tymczasowe unikanie połączenia o niskiej jakości</item>
     </string-array>
+    <string-array name="tile_states_airplane">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_internet">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Niedostępne</item>
+        <item>Wył.</item>
+        <item>Wł.</item>
+    </string-array>
 </resources>

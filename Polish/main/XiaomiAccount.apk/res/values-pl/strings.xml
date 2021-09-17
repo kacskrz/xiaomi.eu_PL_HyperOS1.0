@@ -751,4 +751,20 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="third_party_login">Konta firm trzecich</string>
   <string name="passport_area_code_others">Użyj innego prefiksu</string>
   <string name="passport_tz_invalid">Znaleziono zagrożenia dot. bezpieczeństwa urządzenia. Mogło ono zostać zrootowane bądź wgrano na nim inne oprogramowanie. Spróbuj się zalogować za pomocą innych metod.</string>
+  <string name="accept">Zezwól</string>
+  <string name="cancel">Anuluj</string>
+  <string name="deny">Odrzuć</string>
+  <string name="enable">Ustawienia</string>
+  <string name="permission_desc_read_sms">W celu autouzupełniania kodów weryfikacyjnych</string>
+  <string name="permission_desc_write_external_storage">W celu wysyłania logów z menu Opinie</string>
+  <string name="permission_read_sms">Dostęp do SMS-ów</string>
+  <string name="permission_write_external_storage">Dostęp i zapis elementów w pamięci</string>
+  <string name="request_open_permission">Wymagane uprawnienia</string>
+  <string name="request_use_camera_message">"Zezwolić Kontu Xiaomi na dostęp do aparatu?"</string>
+  <string name="request_use_camera_title">Dostęp do aparatu</string>
+  <string name="request_use_gallery_message">Zezwolić Kontu Xiaomi na dostęp do Galerii?</string>
+  <string name="request_use_gallery_title">Dostęp do Galerii</string>
+  <string name="request_use_writing_clipboard_message">Aby skopiować ID Twojego konta Xiaomi, zezwól Kontu Xiaomi na zapis elementów w schowku.</string>
+  <string name="user_instruction_all_purpose">Witaj w Koncie Xiaomi! Możesz utworzyć konto, zalogować się na nie i uzyskać dostęp do usług dostarczanych przez Xiaomi i powiązane firmy, takie jak strona mi.com czy Chmura Xiaomi. Możesz uzyskać punkty Mi Coins, kupować wirtualne dobra i cieszyć się usługami takimi jak gry, motywy czy e-booki.</string>
+  <string name="user_instruction_tip">Aby móc się zalogować, przeczytaj i zaakceptuj Warunki użytkowania.</string>
 </resources>

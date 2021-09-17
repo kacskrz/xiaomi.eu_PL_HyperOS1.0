@@ -3137,4 +3137,21 @@ Jeśli masz pytania, skontaktuj się z organizacją %2$s."</string>
     <string name="window_blurs">Zezwól na rozmycie na poziomie okna</string>
     <string name="phone_locked_string_owner_user">Dokonano zbyt wielu nieudanych prób wprowadzenia hasła do Głównej przestrzeni. Urządzenie zostało zablokowane.</string>
     <string name="phone_locked_string_second_user">Dokonano zbyt wielu nieudanych prób wprowadzenia hasła do Drugiej przestrzeni. Urządzenie zostało zablokowane.</string>
+    <string name="camera_recording_announcement">Aparat rejestruje</string>
+    <string name="camera_stopped_recording_announcement">Aparat przestał rejestrować</string>
+    <string name="guest_reset_guest">Resetuj sesję gościa</string>
+    <string name="guest_reset_guest_confirm_button">Resetuj</string>
+    <string name="guest_reset_guest_dialog_title">Zresetować sesję gościa?</string>
+    <string name="guest_resetting">Resetuję sesję gościa…</string>
+    <string name="keyguard_unlock_press">Naciśnij, by otworzyć</string>
+    <string name="mic_and_camera_recording_announcement">Aparat i mikrofon rejestrują</string>
+    <string name="mic_camera_stopped_recording_announcement">Aparat i mikrofon przestały rejestrować</string>
+    <string name="mic_recording_announcement">Mikrofon rejestruje</string>
+    <string name="mic_stopped_recording_announcement">Mikrofon przestał rejestrować</string>
+    <string name="new_status_content_description">%1$s ma nowy stan: %2$s</string>
+    <string name="paused_by_dnd">Wstrzymane przez tryb Nie przeszkadzać</string>
+    <string name="person_available">Użytkownik dostępny</string>
+    <string name="reboot_info_auto_boot_global">Następny alarm: %s</string>
+    <string name="reboot_info_shutdown_alarm_global">Alarm po wyłączeniu: %s</string>
+    <string name="wallet_secondary_label_updating">Aktualizuję</string>
 </resources>
