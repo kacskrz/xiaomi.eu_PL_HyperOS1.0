@@ -677,4 +677,14 @@
         <item quantity="other">Synchronizacja %d elementów</item>
         <item quantity="one">Synchronizacja %d elementu</item>
     </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d wybranych elementów zostaną permanentnie usunięte z Chmury i wszystkich zsynchronizowanych urządzeń. Usunąć mimo to?</item>
+        <item quantity="few">%d wybrane elementy zostaną permanentnie usunięte z Chmury i wszystkich zsynchronizowanych urządzeń. Usunąć mimo to?</item>
+        <item quantity="one">Wybrany element zostanie permanentnie usunięty z Chmury i wszystkich zsynchronizowanych urządzeń. Usunąć mimo to?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d wybranych elementów zostaną permanentnie usunięte. Usunąć mimo to?</item>
+        <item quantity="few">%d wybrane elementy zostaną permanentnie usunięte. Usunąć mimo to?</item>
+        <item quantity="one">Wybrany element zostanie permanentnie usunięty. Usunąć mimo to?</item>
+    </plurals>
 </resources>

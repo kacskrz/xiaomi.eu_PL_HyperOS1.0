@@ -2944,4 +2944,36 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="miuix_access_state_desc">Wybrano</string>
     <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
+    <string name="filter_popular_agave">Agawa</string>
+    <string name="filter_popular_navy">Flota</string>
+    <string name="filter_popular_pearl">Perła</string>
+    <string name="filter_popular_retro_powder">Proszek</string>
+    <string name="filter_portrait_holiday">Wakacje</string>
+    <string name="filter_portrait_light_oxygen">Tlen</string>
+    <string name="filter_portrait_mint">Mięta</string>
+    <string name="filter_portrait_pink_orange">Cytrus</string>
+    <string name="filter_portrait_protist">Oryginalne</string>
+    <string name="group_header_title_immutable_album">Organizuj zdjęcia</string>
+    <string name="group_header_title_third_album">Więcej albumów</string>
+    <string name="group_header_title_user_create_album">Moje albumy</string>
+    <string name="home_menu_all_photos">Pokaż wszystkie elementy</string>
+    <string name="home_menu_camera">Pokaż tylko elementy z Aparatu</string>
+    <string name="map_album">Mapa</string>
+    <string name="map_album_detail_page_title">Lokalizacja</string>
+    <string name="map_enable_position_service_message">Aby wyświetlać zdjęcia i filmy na mapie, włącz najpierw usługi lokalizacji.</string>
+    <string name="map_enable_position_service_title">Włacz usługi lokalizacji</string>
+    <string name="map_grant_position_permission_after_declined_twice_message">Aby wyświetlać zdjęcia i filmy na mapie, najpierw zezwól Galerii na dostęp do Twojej lokalizacji.</string>
+    <string name="map_grant_position_permission_subtitle">W celu wyświetlania zdjęć i filmów w pobliżu na mapie</string>
+    <string name="map_guide_message">Wyświetl swoje zdjęcia i filmy na mapie</string>
+    <string name="map_positioning_failed_tip">"Nie można uzyskać lokalizacji ze względu na słaby zasięg"</string>
+    <string name="map_privacy_dialog_message"><Data>Ta usługa pozwala na wyświetlanie zdjęć i filmów z informacjami o lokalizacji na mapie. Aplikacja używa Baidu Map Open SDK w celu dostarczania tej usługi. Aby dowiedzieć się więcej, przeczytaj &lt;a href=\"%1$s\">Politykę prywatności Baidu Map dla otwartoplatformowych produktów i usług&lt;/a> to learn more.</Data></string>
+    <string name="map_privacy_dialog_title">Mapa Galerii</string>
+    <string name="map_privacy_policy">Polityka prywatności Mapy Galerii</string>
+    <string name="map_privacy_policy_1">Polityka prywatności</string>
+    <string name="photo_purge_dialog_message_cloud">Wybrane elementy zostaną permanentnie usunięte z Chmury i wszystkich zsynchronizowanych urządzeń. Usunąć mimo to?</string>
+    <string name="photo_purge_dialog_message_local">Wybrane elementy zostaną permanentnie usunięte. Usunąć mimo to?</string>
+    <string name="photo_purge_dialog_title">Usuń wybrane elementy</string>
+    <string name="trash_purge_all_cloud">Wszystkie elementy w koszu zostaną permanentnie usunięte z Chmury i wszystkich zsynchronizowanych urządzeń. Usunąć mimo to?</string>
+    <string name="trash_purge_all_local">Wszystkie elementy w koszu zostaną permanentnie usunięte. Usunąć mimo to?</string>
+    <string name="trash_purge_dialog_title">Wyczyść kosz</string>
 </resources>
