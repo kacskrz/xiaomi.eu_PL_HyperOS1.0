@@ -1325,7 +1325,7 @@
     <string name="pa_net_unavailable">"Nie udało połączyć się z siecią"</string>
     <string name="pa_notification_chanel_name_widget_offline">Powiadomienia Chmury</string>
     <string name="pa_notification_chanel_name_widget_offline_des">Powiadomienia o akcjach związanych z chmurą</string>
-    <string name="pa_picker_classic_widget">Klasyczne widżety</string>
+    <string name="pa_picker_classic_widget">Widżety Androida</string>
     <string name="pa_picker_detail_add_maml_net_unavailable">"Nie udało połączyć się z siecią. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
     <string name="pa_picker_detail_add_to_home">Dodaj na pulpit</string>
     <string name="pa_picker_detail_add_to_minus">Dodaj do Asystenta MIUI</string>
@@ -1514,4 +1514,10 @@
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="pa_download">Pobierz</string>
+    <string name="pa_sports_download_douyu_tip">Zainstaluj aplikację Douyu, aby wyświetlić informacje o wydarzeniach sportowych.</string>
+    <string name="pa_sports_download_hupu_tip">Zainstaluj aplikację Hupu, aby wyświetlić informacje o wydarzeniach sportowych.</string>
+    <string name="pa_edit_apply">Zastosuj</string>
+    <string name="pa_picker_detail_bottom_bt_text_to_home">Dodaj na pulpit</string>
+    <string name="pa_picker_detail_bottom_bt_text_to_minus">Dodaj do Asystenta</string>
 </resources>
