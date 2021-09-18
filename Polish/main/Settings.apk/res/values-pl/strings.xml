@@ -9912,7 +9912,6 @@ Aby użyć zamiast tego przycisku Ułatwień dostępu w pasku nawigacji, przeł�
     <string name="adaptive_connectivity_switch_on">Wł.</string>
     <string name="app_notification_field_summary">Kontroluj powiadomienia z poszczególnych aplikacji</string>
     <string name="biometric_settings_hand_back_to_guardian">Oddaj telefon z powrotem rodzicowi</string>
-    <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Zezwól na dostęp do kontaktów</string>
     <string name="bluetooth_plugins_check_summary">Sprawdź aktualizacje wtyczek Bluetooth</string>
     <string name="bluetooth_plugins_check_title">Sprawdź aktualizacje wtyczek Bluetooth</string>
     <string name="guest_reset_guest">Resetuj sesję gościa</string>
