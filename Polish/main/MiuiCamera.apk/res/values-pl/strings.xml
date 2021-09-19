@@ -1318,6 +1318,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="ambilight_intro_crowd_moving_part2">Możesz także wykonywać zdjęcia korków lub tłumów. Dzięki długiej ekspozycji budynki będą ostre, zaś wszystkie poruszające się obiekty - zamazane.</string>
   <string name="ambilight_intro_light_track">Użyj źródła światła do \"malowania\" go w ciemnej scenerii, aby połączyć wszystkie oświetlone elementy w jeden obraz.</string>
   <string name="ambilight_intro_magic_star">Użyj tego trybu w miejscach, gdzie zanieczyszczenie sztucznym światłem jest małe. Czas trwania ekspozycji wyniesie %d sekund - dobrym pomysłem jest użycie statywu.</string>
+  <string name="ambilight_intro_magic_star_ae">Użyj tego trybu w miejscach, gdzie zanieczyszczenie sztucznym światłem jest małe. Czas trwania ekspozycji wyniesie %d sekund - dobrym pomysłem jest użycie statywu.</string>
   <string name="ambilight_intro_silky_water_part1">Warto wykorzystać ten tryb wtedy, gdy fotografujesz poruszające się chmury. Nada on niebu efekt \"farby olejnej\".</string>
   <string name="ambilight_intro_silky_water_part2">Ten tryb sprawia, że poruszająca się woda (np. w rzekach, wodospadach i jeziorach) wygląda jak satyna.</string>
   <string name="ambilight_intro_star_track">"Wykonywanie zdjęcia gwieżdzistego nieba przez długi czas pozwoli na uchwycenie trajektorii gwiazd. Koniecznie użyj statywu i wykonuj zdjęcie nieprzerwanie przez %d minut."</string>
