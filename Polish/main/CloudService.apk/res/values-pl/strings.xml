@@ -952,7 +952,7 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="micloud_manual_request_permission_content_on_provision">Nadaj najpierw wymagane uprawnienia w Panelu sterowania</string>
   <string name="micloud_manual_request_permission_title">Wymagane uprawnienia</string>
   <string name="privacy_doc_cloudservice_global">Chmura Xiaomi do poprawnego działania wymaga połączenia z Internetem. Synchronizowanie danych może wymagać korzystania z danych mobilnych bądź włączenia sieci Wi-Fi. Przeczytaj i zaakceptuj warunki &lt;a href=%1$s>&lt;u>Umowy użytkownika&lt;/u>&lt;/a> oraz &lt;a href=%2$s>&lt;u>Polityki prywatności&lt;/u>&lt;/a> przed skorzystaniem z usług Chmury Xiaomi.</string>
-  <string name="share_location_app_name">Znajdź</string>
+  <string name="share_location_app_name">Znajdź urządzenie</string>
   <string name="share_location_dialog_confirm">Rozumiem</string>
   <string name="share_location_dialog_content">Teraz możesz utworzyć skrót na pulpicie, aby szybciej odnajdywać ustawienia.</string>
   <string name="share_location_dialog_title">Uwaga</string>
@@ -1139,4 +1139,13 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="micloud_storage_normal_tip">Pozostało %s</string>
   <string name="micloud_storage_share_family">Udostępniane rodzinne</string>
   <string name="micloud_upgrade_storage">Ulepsz plan Chmury</string>
+  <string name="noti_quota_button_text">Ulepsz</string>
+  <string name="noti_quota_full_sum">Ulepsz swój plan Chmury, aby kontynuować synchronizację.</string>
+  <string name="noti_quota_full_sum_without_button">Uzyskaj więcej przestrzeni, aby kontynuować synchronizację.</string>
+  <string name="noti_quota_full_title">Brak miejsca w Chmurze</string>
+  <string name="noti_quota_full_title_without_button">Brak miejsca w Chmurze</string>
+  <string name="noti_quota_low_sum">Ulepsz swój plan Chmury, aby kontynuować synchronizację.</string>
+  <string name="noti_quota_low_sum_without_button">Uzyskaj więcej przestrzeni, aby kontynuować synchronizację.</string>
+  <string name="noti_quota_low_title">Mało miejsca w Chmurze</string>
+  <string name="noti_quota_low_title_without_button">Mało miejsca w Chmurze</string>
 </resources>
