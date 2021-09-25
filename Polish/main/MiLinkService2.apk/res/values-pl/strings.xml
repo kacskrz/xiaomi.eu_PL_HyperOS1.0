@@ -261,4 +261,5 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="notify">Przesyłanie ekranu działa w tle</string>
     <string name="p2p_location_des">W celu połączenia Twojego urządzenia z zewnętrznymi monitorami</string>
     <string name="help_page_text_09_global">"Dotknij przełącznika \"Wyświetl bezprzewodowo\" w Panelu powiadomień bądź Centrum funkcji. Aby zapewnić bardziej stabilną łączność, włącz zarówno Wi-Fi, jak i Bluetooth."</string>
+    <string name="toast_invisible_mode">"Jesteś incognito. Nie można teraz korzystać z przesyłania ekranu."</string>
 </resources>

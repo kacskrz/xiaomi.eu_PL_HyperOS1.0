@@ -289,7 +289,7 @@ Szyszy protokół transmisji."</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
     <string name="headset_loss_notify_summary1">"Wygląda na to, że słuchawki nie znajdują się w zestawie ładującym. Włóż je tam z powrotem, aby je naładować."</string>
     <string name="plugin_alert_cancel">Później</string>
-    <string name="plugin_alert_kill">Zatrzymaj</string>
+    <string name="plugin_alert_kill">Zrestartuj</string>
     <string name="plugin_alert_text">Aby zastosować zmiany, zatrzymaj Ustawienia i zrestartuj usługę Bluetooth.</string>
     <string name="plugin_alert_title">Aktualizacja wtyczki</string>
     <string name="plugin_download_create_client_failed">Nie udało się utworzyć klienta.</string>

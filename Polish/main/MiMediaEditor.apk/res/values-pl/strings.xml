@@ -1502,4 +1502,13 @@
      <string name="yuzhitiaojie">Skala dostosowania grubości</string>
      <string name="zi_ding_yi_wenben">Własny rozmiar</string>
      <string name="zman_title">Bezpieczne udostępnianie</string>
+     <string name="filter_popular_agave">Agawa</string>
+     <string name="filter_popular_navy">Flota</string>
+     <string name="filter_popular_pearl">Perła</string>
+     <string name="filter_popular_retro_powder">Proszek</string>
+     <string name="filter_portrait_holiday">Wakacje</string>
+     <string name="filter_portrait_light_oxygen">Tlen</string>
+     <string name="filter_portrait_mint">Mięta</string>
+     <string name="filter_portrait_pink_orange">Cytrus</string>
+     <string name="filter_portrait_protist">Oryginalne</string>
 </resources>

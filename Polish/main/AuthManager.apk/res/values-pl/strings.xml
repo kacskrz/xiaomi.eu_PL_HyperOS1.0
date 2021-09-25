@@ -452,4 +452,13 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Jeśli nie można było zalogować się jednym dotknięciem, wróć do strony logowania i spróbuj ponownie."</string>
   <string name="HIPS_Perm_operator_get_phonenumbner_Message">Ta aplikacja chce uzyskać Twój numer telefonu od operatora w celu zalogowania się. Zezwolić jej na to?</string>
   <string name="pp_privacy_lab_operator_introduction">Uwaga</string>
+  <string name="copy">Kopiuj</string>
+  <string name="expand_button_title">Zaawansowane</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="not_set">Nie ustawiono</string>
+  <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
+  <string name="v7_preference_off">WYŁ.</string>
+  <string name="v7_preference_on">WŁ.</string>
 </resources>

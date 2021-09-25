@@ -9912,8 +9912,8 @@ Aby użyć zamiast tego przycisku Ułatwień dostępu w pasku nawigacji, przeł�
     <string name="adaptive_connectivity_switch_on">Wł.</string>
     <string name="app_notification_field_summary">Kontroluj powiadomienia z poszczególnych aplikacji</string>
     <string name="biometric_settings_hand_back_to_guardian">Oddaj telefon z powrotem rodzicowi</string>
-    <string name="bluetooth_plugins_check_summary">Sprawdź aktualizacje wtyczek Bluetooth</string>
-    <string name="bluetooth_plugins_check_title">Sprawdź aktualizacje wtyczek Bluetooth</string>
+    <string name="bluetooth_plugins_check_summary">Aby sprawdzić aktualizacje, połącz się z siecią</string>
+    <string name="bluetooth_plugins_check_title">Zaktualizuj wtyczkę Bluetooth</string>
     <string name="guest_reset_guest">Resetuj sesję gościa</string>
     <string name="guest_reset_guest_confirm_button">Resetuj</string>
     <string name="guest_reset_guest_dialog_title">Zresetować sesję gościa?</string>
@@ -9958,5 +9958,10 @@ Naciśnij jednocześnie przyciski zasilania i zwiększania głośności."</strin
     <string name="wifi_wapi_psk_type">Typ hasła</string>
     <string name="wifi_wapi_user_certificate">Certyfikat użytkownika</string>
     <string name="power_menu_setting_name">Przytrzymaj przycisk zasilania</string>
-    <string name="bluetooth_plugins_check_summary_new">Znaleziono nową wersję wtyczki Bluetooth</string>
+    <string name="bluetooth_plugins_check_summary_new">Dostępna aktualizacja</string>
+    <string name="stylus_connect_fail">"Nie udało się połączyć. Podłącz ponownie."</string>
+    <string name="stylus_connect_fail_no_battery">Naładuj teraz swój rysik</string>
+    <string name="stylus_connect_fail_no_reason">"Nie udało się połączyć"</string>
+    <string name="stylus_connect_fail_not_open_gps">"Nie udało się połączyć. Włącz usługi lokalizacji i spróbuj ponownie."</string>
+    <string name="stylus_connecting">Łączenie…</string>
 </resources>
