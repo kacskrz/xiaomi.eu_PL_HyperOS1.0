@@ -240,4 +240,7 @@
     <string name="public_please_authorize">Wymagane uprawnienia</string>
     <string name="miui_feedback_main_item_catch_full_log">Logi</string>
     <string name="miui_feedback_main_item_feedback_list">Moje raporty</string>
+    <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

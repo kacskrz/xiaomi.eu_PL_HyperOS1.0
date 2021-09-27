@@ -9964,4 +9964,5 @@ Naciśnij jednocześnie przyciski zasilania i zwiększania głośności."</strin
     <string name="stylus_connect_fail_no_reason">"Nie udało się połączyć"</string>
     <string name="stylus_connect_fail_not_open_gps">"Nie udało się połączyć. Włącz usługi lokalizacji i spróbuj ponownie."</string>
     <string name="stylus_connecting">Łączenie…</string>
+    <string name="headset_spatial_audio">Dźwięk przestrzenny</string>
 </resources>

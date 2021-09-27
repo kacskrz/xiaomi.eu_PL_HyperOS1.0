@@ -977,4 +977,7 @@
   <string name="tips_low_storage_dialog_msg_qq_new">Rozmiar pamięci podręcznej QQ osiągnął %d GB. Może to spowolnić pracę urządzenia. Wyczyścić pamięć podręczną QQ?</string>
   <string name="tips_low_storage_dialog_msg_storage_new">"Zajęte jest %s miejsca w pamięci. Odinstaluj aplikacje, których nie używasz."</string>
   <string name="tips_low_storage_dialog_msg_wechat_new">Rozmiar pamięci podręcznej WeChata osiągnął %d GB. Może to spowolnić pracę urządzenia. Wyczyścić pamięć podręczną WeChata?</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>
