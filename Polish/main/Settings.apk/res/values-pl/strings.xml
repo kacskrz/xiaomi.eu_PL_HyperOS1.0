@@ -9965,4 +9965,7 @@ Naciśnij jednocześnie przyciski zasilania i zwiększania głośności."</strin
     <string name="stylus_connect_fail_not_open_gps">"Nie udało się połączyć. Włącz usługi lokalizacji i spróbuj ponownie."</string>
     <string name="stylus_connecting">Łączenie…</string>
     <string name="headset_spatial_audio">Dźwięk przestrzenny</string>
+    <string name="handy_mode_no_touch_assistant">"Tryb Jedna dłoń będzie działać tylko, gdy używasz przycisków do nawigacji po systemie. Możesz przełączać się pomiędzy gestami a przyciskami w sekcji \"Nawigacja systemowa\" Ustawień."</string>
+    <string name="insert_sim_card_and_try_again">Włóż swoją kartę SIM i spróbuj ponownie.</string>
+    <string name="unsupported_usim_card">Niewspierana karta SIM.</string>
 </resources>

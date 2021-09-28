@@ -456,4 +456,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="pad_keyboard_add_city">Dodaj miejsce</string>
   <string name="pad_keyboard_left_switch">Poprzednia lokalizacja</string>
   <string name="pad_keyboard_right_switch">Następna lokalizacja</string>
+  <string name="close">Zamknij</string>
+  <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
+  <string name="send">Wyślij</string>
 </resources>

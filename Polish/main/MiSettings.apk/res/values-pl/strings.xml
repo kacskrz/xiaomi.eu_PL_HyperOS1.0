@@ -501,7 +501,7 @@ Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następ
     <string name="focus_mode_custom_time">Własny licznik</string>
     <string name="high_fps_description">Wysoka częstotliwość odświeżania. Większe zużycie energii.</string>
     <string name="low_fps_description">Niska częstotliwość odświeżania. Mniejsze zużycie energii.</string>
-    <string name="silent_ringtone_hint">Dźwięk jest teraz wyciszony. Zwiększ głośność i spróbuj ponownie.</string>
+    <string name="silent_ringtone_hint">Najpierw wyłącz Tryb cichy</string>
     <string name="usage_new_home_app_limit_summary">Ustaw dzienny limit czasu na ekranie dla tej aplikacji</string>
     <string name="usage_new_home_app_limit_title">Limit czasu na ekranie</string>
     <string name="usage_new_home_avg_usage_day">Śr. %s dziennie</string>
@@ -889,4 +889,7 @@ nie są tworzone w Drugiej przestrzeni"</string>
     <string name="low_flicker_mode">Gdy światła jest mniej</string>
     <string name="low_flicker_mode_summary">Zapobiegaj migotaniu w słabych warunkach oświetleniowych, aby zmniejszyć zmęczenie oczu</string>
     <string name="normal_mode_summary_new">Zezwalaj na migotanie w słabych warunkach oświetleniowych</string>
+    <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

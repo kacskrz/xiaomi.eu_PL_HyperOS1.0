@@ -527,9 +527,7 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="wechat_and_qq_app_send_fail">"Nie udało się wysłać WeChat oraz QQ"</string>
     <string name="wechat_app_receive_fail">"Nie udało się otrzymać aplikacji WeChat"</string>
     <string name="wechat_app_send_fail">"Nie udało się wysłać aplikacji WeChat"</string>
-    <string name="dialog_request_permission_message">"Witaj w Przenoszeniu danych! Możesz użyć tej aplikacji do przenoszenia danych ze swojego starego urządzenia bądź chmury iCloud na nowe urządzenie.
-Xiaomi będzie chronić Twoje osobiste dane w zgodzie z odpowiednimi przepisami i politykami prywatności.
-Pamiętaj, że do poprawnego działania ta aplikacja wymaga łączenia się z Internetem, możliwości włączania i wyłączania sieci Wi-Fi oraz Bluetooth oraz następujących uprawnień:"</string>
+    <string name="dialog_request_permission_message">"Witaj w Przenoszeniu danych! Możesz użyć tej aplikacji do przenoszenia danych ze swojego starego urządzenia na nowe. Dane będą przenoszone wyłącznie pomiędzy tymi urządzeniami i nie będą wysyłane na serwery Xiaomi. Aplikacja wymaga połączenia z Internetem i następujących uprawnień do poprawnego działania:"</string>
     <string name="dialog_request_permission_message_extra">"Jeśli nie zgodzisz się na nadanie tychże uprawnień, nie będziesz mógł korzystać z tej aplikacji. Możesz odinstalować aplikację bądź się z niej wylogować w każdym momencie."</string>
     <string name="dialog_request_permission_message_link" formatted="false"><Data>"Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności&lt;/a> Xiaomi."</Data></string>
     <string name="perm_write_settings">Zmiana ustawień systemu</string>

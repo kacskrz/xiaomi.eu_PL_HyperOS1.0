@@ -1688,4 +1688,40 @@ Będzie można dzięki nim śledzić ćwiczenia i aktywność."</string>
   <string name="complete_progress">Postęp</string>
   <string name="tb_step_widget" formatted="false">Dziś. %1$s. Postęp: %2$d%</string>
   <string name="view_step_and_progress">Zobacz obecną ilość kroków</string>
+  <string name="avg_earphone_listening_duration">Słuchawki</string>
+  <string name="avg_treble_duration">Głośne dźwięki</string>
+  <string name="click_to_solve">Pomoc</string>
+  <string name="earphone_listening_duration">Słuchawki</string>
+  <string name="emergency_lock_show_subtitle">Znajdź swoją kartę medyczną, gdy ekran jest zablokowany, wybierając opcję \"Alarmowy\", a następnie \"Karta medyczna\".</string>
+  <string name="emergency_lock_show_title">Pokaż, gdy zablokowany</string>
+  <string name="evaluation_origin_health">Sugestie dostarczane są przez aplikację Zdrowie.</string>
+  <string name="first_aid_card">Karta medyczna</string>
+  <string name="hearing">Słuch</string>
+  <string name="listening_duration">Słuchawki</string>
+  <string name="lock_not_support_description">Aby Twoja karta medyczna była dostępna z poziomu ekranu blokady, dotknij opcji Więcej > Edytuj i włącz opcję Pokaż, gdy zablokowany.</string>
+  <string name="lock_show_dialog_content">"Można uzyskać dostęp do Twojej karty medycznej bez konieczności odblokowania telefonu.
+Jeśli nie chcesz udostępniać tych informacji, możesz wyłączyć tę funkcję."</string>
+  <string name="lock_show_dialog_title">Uwaga</string>
+  <string name="lock_show_solve_description">Aby wyświetlać kartę medyczną na Ekranie blokady, zezwól aplikacji Zdrowie na pokazywanie powiadomień na Ekranie blokady.</string>
+  <string name="lock_show_solve_go">Ustawienia</string>
+  <string name="lock_show_solve_path">Dotknij poniżej opcji \"Ustawienia\", a następnie wybierz opcję \"Pokaż na Ekranie blokady\" i \"Zawsze zezwalaj\".</string>
+  <string name="lock_show_solve_title">Dodaj informacje na Ekranie blokady</string>
+  <string name="lock_support_description">Twoja karta medyczna może być wyświetlana, gdy ekran jest zablokowany, poprzez wybranie opcji \"Alarmowy\", a następnie \"Karta medyczna\".</string>
+  <string name="lock_support_description2">"Nie możesz odnaleźć karty medycznej na Ekranie blokady?"</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="tb_hearing_card">Słuch | Ekspozycja słuchawek: %1$s | Zarejestrowano: %2$s.</string>
+  <string name="tb_hearing_column">%1$s | Ekspozycja słuchawek: %2$s | Głośne dźwięki: %3$s.</string>
+  <string name="tb_hearing_daily_card">%1$s | Ekspozycja słuchawek: %2$s | Głośne dźwięki: %3$s.</string>
+  <string name="tb_hearing_wm_card">%1$s | Śr. ekspozycja słuchawek: %2$s | Śr. ekspozycja na głośne dźwięki: %3$s.</string>
+  <string name="tb_volume_list_item">%1$s | Dźwięki otoczenia: %3$s (%2$d dB).</string>
+  <string name="treble_duration">Głośne dźwięki</string>
+  <string name="treble_sum_duration">Głośne dźwięki</string>
+  <string name="volume_high">Głośne</string>
+  <string name="volume_high_description">"Aby uniknąć uszkodzenia Twojego słuchu, używaj słuchawek z redukcją szumów. Nie zwiększaj głośności, aby zagłuszyć otaczający Cię szum."</string>
+  <string name="volume_level">Dźwięki otoczenia</string>
+  <string name="volume_normal_description">Ekspozycja na normalne dźwięki nie powinna spowodować uszkodzenia słuchu. Mogą one pomóc się skoncentrować.</string>
+  <string name="volume_too_high">Bardzo głośne</string>
+  <string name="volume_too_high_description">Wielokrotne, długotrwałe narażenie na bardzo głośne dźwięki może spowodować uszkodzenie słuchu. Aby chronić swój słuch, trzymaj się z dala od głośnych dźwięków, rozważ noszenie zatyczek do uszu lub słuchawek z redukcją szumów.</string>
 </resources>
