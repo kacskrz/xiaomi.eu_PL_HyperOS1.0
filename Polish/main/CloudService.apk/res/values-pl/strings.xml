@@ -999,15 +999,15 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="keybag_password_check_screen_lock">Wprowadź blokadę ekranu</string>
   <string name="keybag_password_checking_screen_lock">Weryfikowanie blokady ekranu…</string>
   <string name="keybag_password_confirm_prompt">Potwierdź kod dostępu</string>
-  <string name="keybag_password_create_prompt">Ustaw kod dostępu</string>
+  <string name="keybag_password_create_prompt">Ustaw kod dostępu dla Menedżera haseł</string>
   <string name="keybag_password_error_inconsistent">"Kody dostępu nie pasują do siebie"</string>
   <string name="keybag_password_forget"><u>Zapomniałeś kodu?</u></string>
   <string name="keybag_password_input_cancel">Anuluj</string>
   <string name="keybag_password_input_hint">Wprowadź kod dostępu</string>
   <string name="keybag_password_input_next">Dalej</string>
   <string name="keybag_password_input_prompt">Wprowadź kod dostępu</string>
-  <string name="keybag_password_length_prompt">Kombinacja %d cyfr i liter</string>
-  <string name="keybag_password_reset_tip">Po zresetowaniu kodu dostępu zaszyfrowane elementy zgromadzone w chmurze zostaną automatycznie wyczyszczone. Zresetować kod mimo to?</string>
+  <string name="keybag_password_length_prompt">Wprowadź co najmniej %d cyfr i liter</string>
+  <string name="keybag_password_reset_tip">Wszystkie dane Menedżera haseł zgromadzone w Chmurze zostaną wyczyszczone po zresetowaniu kodu dostępu. Zresetować mimo to?</string>
   <string name="keybag_password_screen_lock_unknown">"Nie można teraz zweryfikować blokady ekranu. Zamiast tego ustaw kod dostępu."</string>
   <string name="keybag_password_screen_lock_wrong">Wprowadzone hasło blokady jest niepoprawne</string>
   <string name="keybag_password_too_short">Kod jest za krótki</string>
@@ -1148,4 +1148,9 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="noti_quota_low_sum_without_button">Uzyskaj więcej przestrzeni, aby kontynuować synchronizację.</string>
   <string name="noti_quota_low_title">Mało miejsca w Chmurze</string>
   <string name="noti_quota_low_title_without_button">Mało miejsca w Chmurze</string>
+  <string name="error_reset_retry_exceed_limit_with_retry">Zbyt wiele nieudanych prób. Spróbuj ponownie za %s.</string>
+  <string name="error_retry_exceed_limit_with_retry">Zbyt wiele nieudanych prób. Spróbuj ponownie za %s.</string>
+  <string name="keybag_create_by_new_passcode_prompt">"Ten kod dostępu chroni hasła przechowywane w Chmurze. Jeśli go zapomnisz, nie będzie można uzyskać do nich dostępu."</string>
+  <string name="keybag_create_by_screen_password_prompt">Ten kod dostępu chroni hasła przechowywane w Chmurze. Wprowadź swoje hasło ekranu blokady, aby ustawić je jako kod dostępu dla Menedżera haseł.</string>
+  <string name="keybag_install_by_passcode_prompt">"Ten kod dostępu chroni hasła przechowywane w Chmurze. Ustawiono go, gdy włączono synchronizację Menedżera haseł z Chmurą."</string>
 </resources>

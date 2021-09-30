@@ -767,4 +767,8 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="request_use_writing_clipboard_message">Aby skopiować ID Twojego konta Xiaomi, zezwól Kontu Xiaomi na zapis elementów w schowku.</string>
   <string name="user_instruction_all_purpose">Witaj w Koncie Xiaomi! Możesz utworzyć konto, zalogować się na nie i uzyskać dostęp do usług dostarczanych przez Xiaomi i powiązane firmy, takie jak strona mi.com czy Chmura Xiaomi. Możesz uzyskać punkty Mi Coins, kupować wirtualne dobra i cieszyć się usługami takimi jak gry, motywy czy e-booki.</string>
   <string name="user_instruction_tip">Aby móc się zalogować, przeczytaj i zaakceptuj Warunki użytkowania.</string>
+  <string name="login_3rd_app_with_system_account">Zaloguj się na %s</string>
+  <string name="login_with_other">Więcej opcji</string>
+  <string name="user_license_with_3rd_app"><Data>"Logując się za pomocą mojego konta Xiaomi potwierdzam, że zapoznano się i zaakceptowano warunki &lt;a href=%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%2$s>Polityki prywatności&lt;/a> Xiaomi, a także warunki &lt;a href=%3$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%4$s>Polityki prywatności&lt;/a> konta Xiaomi."</Data></string>
+  <string name="user_license_without_3rd_app"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;a href=%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%2$s>Polityki prywatności&lt;/a> konta Xiaomi."</Data></string>
 </resources>

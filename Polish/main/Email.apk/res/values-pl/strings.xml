@@ -1578,4 +1578,15 @@ Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojeg
   <string name="hide_attachment">Ukryj załącznik</string>
   <string name="show_attachment">Pokaż załącznik</string>
   <string name="folder_list_current_account">Obecne konto</string>
+  <string name="copy_toast_msg">Skopiowano link do schowka</string>
+  <string name="fallback_menu_item_copy_link">Skopiuj link</string>
+  <string name="fallback_menu_item_open_in_browser">Otwórz w przeglądarce</string>
+  <string name="fallback_menu_item_share_link">Udostępnij link</string>
+  <string name="sign_in_dialog_outlook_enterprise">Outlook dla biznesu (bez kalendarza)</string>
+  <string name="sign_in_dialog_outlook_exchange">Exchange (z kalendarzem)</string>
+  <string name="sign_in_dialog_outlook_imap">IMAP (bez kalendarza)</string>
+  <string name="gmail_invalid_tip_cancel">Anuluj</string>
+  <string name="gmail_invalid_tip_confirm">OK</string>
+  <string name="gmail_invalid_tip_message">Ze względu na zmiany dot. autoryzacji konta Gmail należy dokonać ponownej autoryzacji konta.</string>
+  <string name="gmail_invalid_tip_title">Zmiany w Gmailu</string>
 </resources>
