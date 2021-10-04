@@ -189,7 +189,7 @@
   <string name="not_set">Nieustawione</string>
   <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
   <string name="search_menu_title">Szukaj</string>
-  <string name="sound_assist_key_summary">Dostosuj dźwięk dla poszczególnych aplikacji podczas odtwarzania dzwięku przez wiele aplikacji</string>
+  <string name="sound_assist_key_summary">Dostosuj dźwięk dla poszczególnych aplikacji podczas odtwarzania dźwięku przez wiele aplikacji</string>
   <string name="sound_assist_key_title">Dostosuj dźwięk multimediów w wielu aplikacjach</string>
   <string name="sound_assist_title">Asystent dźwięku</string>
   <string name="switch_audio_device_bt">Bluetooth</string>
