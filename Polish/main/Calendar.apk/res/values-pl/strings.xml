@@ -790,7 +790,6 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię nic ważnego."</stri
     <string name="time_picker_dialog_title">Ustaw czas</string>
     <string name="time_picker_label_hour">G</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="tomorrow">Jutro</string>
     <string name="tuesday">Wtorek</string>
     <string name="tuesday_short">Wt</string>
     <string name="tuesday_shortest">Wt</string>
@@ -816,14 +815,9 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię nic ważnego."</stri
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
-    <string name="more">Więcej</string>
-    <string name="morning">Poranek</string>
-    <string name="night">Wieczór</string>
-    <string name="noon">Południe</string>
     <string name="not_set">Nie ustawiono</string>
     <string name="pack_up">Schowaj</string>
     <string name="preference_copied">Skopiowano „%1$s” do schowka.</string>
-    <string name="search_menu_title">Szukaj</string>
     <string name="send">Wyślij</string>
     <string name="show_menstruation_info">Pokaż informacje o menstruacji</string>
     <string name="v7_preference_off">WYŁ.</string>
