@@ -793,4 +793,10 @@ dd.M"</string>
   <string name="actionbar_button_up_description">Wstecz</string>
   <string name="clearable_edittext_clear_description">Wyczyść</string>
   <string name="close">Zamknij</string>
+  <string name="goto_confirm">Ustawienia</string>
+  <string name="require_permission">Wymagane uprawnienia</string>
+  <string name="require_permission_text">Aby móc zapisywać i wyświetlać elementy, zezwól Tapetom Blokady na dostęp do pamięci.</string>
+  <string name="summary3">"Witaj w Tapetach Blokady! Dzięki tej aplikacji możesz subskrybować swoje ulubione kategorie tapet i regularnie otrzymywać nowe tapety na swoim Ekranie blokady. Aplikacja wymaga połączenia z Internetem i gromadzenia niezbędnych danych osobowych w celu poprawnego działania.&lt;br>Aby dostarczać dodatkowe usługi, aplikacja może poprosić o dostęp i zapis elementów do pamięci tego urządzenia.&lt;br>Aby w pełnie zrozumieć swoje prawa, a także metody, w ramach których Xiaomi przetwarza Twoje dane, przeczytaj i zaakceptuj warunki &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Umowy użytkownika&lt;/font>&lt;/a> oraz &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Polityki prywatności&lt;/font>&lt;/a> przed skorzystaniem z aplikacji."</string>
+  <string name="summary4">"Witaj w Tapetach Blokady! Dzięki tej aplikacji możesz subskrybować swoje ulubione kategorie tapet i regularnie otrzymywać nowe tapety na swoim Ekranie blokady. "</string>
+  <string name="summary5">"Aby dostarczać dodatkowe usługi, aplikacja może poprosić o dostęp i zapis elementów do pamięci tego urządzenia. "</string>
 </resources>

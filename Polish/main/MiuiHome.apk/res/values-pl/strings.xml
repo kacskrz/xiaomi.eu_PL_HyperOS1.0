@@ -807,4 +807,5 @@
   <string name="wednesday">Środa</string>
   <string name="wednesday_short">Śr</string>
   <string name="wednesday_shortest">Ś</string>
+  <string name="small_window">Pływające okno</string>
 </resources>

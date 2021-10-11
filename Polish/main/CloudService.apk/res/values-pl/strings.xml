@@ -1153,4 +1153,5 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="keybag_create_by_new_passcode_prompt">"Ten kod dostępu chroni hasła przechowywane w Chmurze. Jeśli go zapomnisz, nie będzie można uzyskać do nich dostępu."</string>
   <string name="keybag_create_by_screen_password_prompt">Ten kod dostępu chroni hasła przechowywane w Chmurze. Wprowadź swoje hasło ekranu blokady, aby ustawić je jako kod dostępu dla Menedżera haseł.</string>
   <string name="keybag_install_by_passcode_prompt">"Ten kod dostępu chroni hasła przechowywane w Chmurze. Ustawiono go, gdy włączono synchronizację Menedżera haseł z Chmurą."</string>
+  <string name="share_location_guide_action_btn_loading_text">Chwileczkę…</string>
 </resources>

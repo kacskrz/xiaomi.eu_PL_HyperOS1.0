@@ -276,4 +276,13 @@
     <string name="softap_notification_message">Brak dostępnych sieci Wi-Fi. Połączyć się z tym hotspotem?</string>
     <string name="softap_notification_message_china">Brak dostępnych sieci Wi-Fi. Połączyć się z tym hotspotem?</string>
     <string name="softap_notification_title">"Połączenie z hotspotem %1$s"</string>
+    <string name="guide_window_btn_know">OK</string>
+    <string name="guide_window_operation">Przesuń z boku na środek ekranu</string>
+    <string name="guide_window_title">Wstecz</string>
+    <string name="low_version_dialog_message">Zaktualizuj MIUI+ na swoim komputerze lub pobierz najnowszą wersję ze strony plus.miui.com.</string>
+    <string name="low_version_dialog_title">Zaktualizuj MIUI+</string>
+    <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
+    <string name="pcmode_not_support_multi_window">"Tryb PC nie wspiera wyświetlania wielu okien."</string>
 </resources>

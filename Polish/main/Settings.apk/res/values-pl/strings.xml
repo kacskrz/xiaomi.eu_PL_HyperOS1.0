@@ -944,7 +944,7 @@ Aplikacje:
   <string name="bluetooth_connection_dialog_text">Czy chcesz nawiązać połączenie z urządzeniem „%1$s”?</string>
   <string name="bluetooth_connection_notif_message">Dotknij, by połączyć z: %1$s</string>
   <string name="bluetooth_connection_permission_request">Żądanie nawiązania połączenia Bluetooth</string>
-  <string name="bluetooth_connect_settings">Ustawienia połączenia Bluetooth</string>
+  <string name="bluetooth_connect_settings">Łączność</string>
   <string name="bluetooth_device">Urządzenie Bluetooth bez nazwy</string>
   <string name="bluetooth_device_address">Adres:</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Zezwalaj na odbieranie plików</string>
@@ -986,7 +986,7 @@ Aplikacje:
   <string name="bluetooth_disconnecting">Rozłączanie...</string>
   <string name="bluetooth_display_passkey_pin_msg">Aby sparować z urządzeniem  %1$s, wpisz na nim klucz  %2$s, a
     następnie naciśnij klawisz zatwierdzania.</string>
-  <string name="bluetooth_display_settings">Ustawienia wyświetlania Bluetooth</string>
+  <string name="bluetooth_display_settings">Wyświetlane elementy</string>
   <string name="bluetooth_dock_settings">Ustawienia podstawki</string>
   <string name="bluetooth_dock_settings_a2dp">Dla muzyki i multimediów</string>
   <string name="bluetooth_dock_settings_headset">Jako telefon w trybie głośnika</string>
@@ -1031,7 +1031,7 @@ Oto, co mogło pójść nie tak:
   <string name="bluetooth_max_connected_audio_devices_string">Maksymalna liczba podłączonych urządzeń audio Bluetooth</string>
   <string name="bluetooth_menu_advanced">Zaawansowane</string>
   <string name="bluetooth_mi_fast_connect">Paruj kompatybilne urządzenia</string>
-  <string name="bluetooth_mi_fast_connect_summary">Łącz się z urządzeniami w pobliżu dzięki uproszczonemu procesowi parowania</string>
+  <string name="bluetooth_mi_fast_connect_summary">Szybko łącz się ze słuchawkami, głośnikami i innymi kompatybilnymi urządzeniami</string>
   <string name="bluetooth_name_not_set">Nie ustawiono nazwy, wykorzystywana jest nazwa konta</string>
   <string name="bluetooth_no_devices_found">Brak urządzeń Bluetooth w pobliżu</string>
   <string name="bluetooth_not_visible_to_other_devices">Niewidoczne dla innych urządzeń Bluetooth</string>
@@ -9968,4 +9968,11 @@ Naciśnij jednocześnie przyciski zasilania i zwiększania głośności."</strin
     <string name="handy_mode_no_touch_assistant">"Tryb Jedna dłoń będzie działać tylko, gdy używasz przycisków do nawigacji po systemie. Możesz przełączać się pomiędzy gestami a przyciskami w sekcji \"Nawigacja systemowa\" Ustawień."</string>
     <string name="insert_sim_card_and_try_again">Włóż swoją kartę SIM i spróbuj ponownie.</string>
     <string name="unsupported_usim_card">Niewspierana karta SIM.</string>
+    <string name="blank_screen_no_device">Brak urządzeń</string>
+    <string name="bluetooth_other_settings">Dodatkowe ustawienia</string>
+    <string name="current_use_default_wallet">Wybrano automatycznie</string>
+    <string name="dclight_unavailable_prompt">Tryb Ograniczenie migotania jest wspierany tylko przez zewnętrzny ekran</string>
+    <string name="display_prompt_confirm">OK</string>
+    <string name="screen_refresh_unavailable_prompt">Zmiana częstotliwości odświeżania jest wspierana tylko przez zewnętrzny ekran</string>
+    <string name="se_route_default">Wybierz automatycznie</string>
 </resources>
