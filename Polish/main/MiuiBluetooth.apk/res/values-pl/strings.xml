@@ -308,4 +308,11 @@ Szyszy protokół transmisji."</string>
     <string name="plugin_update_notification_summary">Pomyślnie zaktualizowano wtyczkę Bluetooth. Aby zastosować ustawienia, zatrzymaj Ustawienia i zrestartuj usługę Bluetooth.</string>
     <string name="plugin_update_notification_title">Aktualizacja wtyczki Bluetooth</string>
     <string name="plugin_update_success">Pomyślnie zaktualizowano wtyczkę Bluetooth.</string>
+    <string name="device_update_plugin">Sprawdź aktualizacje</string>
+    <string name="plugin_ota_finish">Pomyślnie zaktualizowano</string>
+    <string name="plugin_ota_indicate">Zrestartuj Bluetooth i podłącz swoje słuchawki.</string>
+    <string name="plugin_ota_messages1">Dodano wsparcie dla większej gamy modeli słuchawek.</string>
+    <string name="plugin_ota_messages2">Zaktualizowano framework usługi Bluetooth.</string>
+    <string name="plugin_ota_progress">Aktualizowanie…</string>
+    <string name="stylus_ota_check_update">Aktualizuj</string>
 </resources>

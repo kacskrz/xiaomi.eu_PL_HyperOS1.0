@@ -216,4 +216,5 @@
     <string name="wednesday">Środa</string>
     <string name="wednesday_short">Śr</string>
     <string name="wednesday_shortest">Śr</string>
+    <string name="doc_photo_adjust_section_talkback">Przytnij i edytuj</string>
 </resources>

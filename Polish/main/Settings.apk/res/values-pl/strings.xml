@@ -9975,4 +9975,17 @@ Naciśnij jednocześnie przyciski zasilania i zwiększania głośności."</strin
     <string name="display_prompt_confirm">OK</string>
     <string name="screen_refresh_unavailable_prompt">Zmiana częstotliwości odświeżania jest wspierana tylko przez zewnętrzny ekran</string>
     <string name="se_route_default">Wybierz automatycznie</string>
+    <string name="blank_screen_no_record">Nie ma jeszcze rekordów</string>
+    <string name="bluetooth_version">Wersja Bluetooth</string>
+    <string name="bluetooth_version_message">Aktualiuj</string>
+    <string name="face_data_suggesstion_first_cn">"Aby móc używać Odblokowania twarzą, Xiaomi musi gromadzić dane twarzy na urządzeniu. Nie będą one nigdzie wysyłane. Aby je usunąć, wyszukaj \"Odblokowanie twarzą\" w Ustawieniach, a następnie wybierz opcję Odblokowanie twarzą > Dane twarzy.
+Odblokowanie twarzą jest mniej bezpieczne niż kod PIN, hasło bądź wzór. Urządzenie może być odblokowane za pomocą zdjęcia Twojej twarzy, a także przez osoby lub obiekty o podobnym wyglądzie."</string>
+    <string name="finger_add_user_info_dialog_cancel">Anuluj</string>
+    <string name="finger_add_user_info_dialog_message">"Aby móc używać odblokowania odciskiem palca i dokonywać nim płatności, Xiaomi musi gromadzić odcisk palca na urządzeniu. Nie będzie on nigdzie wysyłany. Aby go usunąć, wyszukaj \"Odblokowanie odciskiem palca\" w Ustawieniach, a następnie wybierz opcję Odblokowanie odciskiem palca > Odcisk palca. Jeśli nie zgodzisz się na gromadzenie odcisku palca na urządzeniu, nie będzie można korzystać z tej funkcji."</string>
+    <string name="finger_add_user_info_dialog_next">Zgadzam się</string>
+    <string name="finger_add_user_info_dialog_title">Uwaga</string>
+    <string name="lockscreen_access_pattern_cleared">Wyczyszczono wzór</string>
+    <string name="lockscreen_access_pattern_detected">Ukończono wzór</string>
+    <string name="lockscreen_access_pattern_start">Rozpoczęto wzór</string>
+    <string name="miui_face_enroll_risk_warning_title_text_cn">Stanowisko dot. bezpieczeństwa</string>
 </resources>
