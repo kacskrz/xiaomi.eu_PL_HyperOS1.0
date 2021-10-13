@@ -221,10 +221,9 @@ Musisz się zgodzić na nasze Warunki użytkowania i Politykę prywatności, nim
   <string name="terms_of_use_label_gms">"Twoja prywatność jest dla nas bardzo ważna. Zapoznaj się z naszymi Warunkami użytkowania i Polityką prywatności, aby dowiedzieć się, jakie informacje przechowujemy, jak je wykorzystujemy i jakie masz możliwości.
 
 Musisz się zgodzić na nasze Warunki użytkowania i Politykę prywatności, nim będziesz mógł skorzystać z MIUI. Podczas aktywacji usługi Xiaomi, funkcja Lokalizacja urządzenia, usługi rejestracji karty SIM, Chmury Xiaomi, komponenty systemu MSA/MAB podłączą się do internetu i uzyskają dostęp do lokalizacji."</string>
-  <string name="terms_of_use_label_package">, Instalator paczek</string>
-  <string name="terms_of_use_label_phrase">, Częste zwroty</string>
-  <string name="terms_of_use_label_systemhelper">, Self-registered service</string>
-  <string name="terms_of_use_label_updater">, Aktualizacje</string>
+  <string name="terms_of_use_label_package">Instalator paczek</string>
+  <string name="terms_of_use_label_phrase">Częste zwroty</string>
+  <string name="terms_of_use_label_updater">Aktualizacje</string>
   <string name="terms_of_use_lable_apps">usługi Xiaomi, funkcja Lokalizacja urządzenia, usługi rejestracji karty SIM, Chmury Xiaomi, komponenty systemu MSA/MAB</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
@@ -235,8 +234,8 @@ Musisz zgodzić się z Polityką prywatności Kika przed użyciem tej funkcji."<
   <string name="terms_of_use_lable_default_input_method_mint">"
 
 Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mint Keyboard."</string>
-  <string name="terms_of_use_lable_gms">, Usługi Google Play</string>
-  <string name="terms_of_use_lable_smart_cards">, Karty asystenta</string>
+  <string name="terms_of_use_lable_gms">Usługi Google Play</string>
+  <string name="terms_of_use_lable_smart_cards">Karty asystenta</string>
   <string name="terms_privacy_policy_input_method_facemoji">Polityka prywatności Facemoji</string>
   <string name="terms_privacy_policy_input_method_kika">Polityka prywatności Kika</string>
   <string name="title_fingerprint">Ustaw blokadę</string>
@@ -323,4 +322,37 @@ Możesz kontrolować tę funkcję z poziomu Ustawień > Hasła i bezpieczeństwo
   <string name="carrier_introduction_china">"W celu dostarczania Ci lepszych usług procesy uruchomione na tym urządzeniu (takie jak SystemHelper, RegService i Usługi operatora) mogą okresowo przesyłać informacje związane z Twoim urządzeniem i kartą SIM (takie jak nr IMEI, IMSI, MSISDN, MEID, ICCID, adres MAC, wersja MIUI, wersja Androida, model urządzenia i podstawowa specyfikacja sprzętu), a także informacje o przybliżonej lokalizacji (włącznie z regionem, koordynatami, identyfikatorem obszaru oraz stacji bazowej) do operatora poprzez sieć Wi-Fi, dane mobilne bądź darmowe SMS-y. Operator będzie analizować te informacje tylko w celu poprawy jakości usług lub dostarczania dostosowanych usług lub technologii i nie będzie przekazywać tych danych firmom trzecim w jakiejkolwiek formie pozwalającej na zidentyfikowanie Cię. Szczegóły znajdziesz w oświadczeniu swojego operatora. Skontaktuj się z operatorem, aby dowiedzieć się więcej dot. kosztów używania tej usługi."</string>
   <string name="user_agreement_declare_gmscore">Zanim skorzystasz z MIUI, przeczytaj i zaakceptuj warunki Umowy użytkownika i Polityki prywatności Xiaomi. W trakcie aktywacji urządzenia usługa aktywacji karty SIM, Chmura Xiaomi, Usługa kopii zapasowej, funkcja Znajdź urządzenie, Pulpit, Częste zwroty, MIUI Daemon, Przeglądarka HTML, MIUI SDK, aplikacja Secure Element, Bateria i wydajność, Detektor zasilania oraz aplikacja Aktualizacje będą łączyć się z siecią. Menedżer uprawnień oraz inteligentne usługi połączą się z siecią i uzyskają dostęp do Twojej lokalizacji.</string>
   <string name="user_agreement_declare_wifi_device_gmscore">Zanim skorzystasz z MIUI, przeczytaj i zaakceptuj warunki Umowy użytkownika i Polityki prywatności Xiaomi. W trakcie aktywacji urządzenia Chmura Xiaomi, Usługa kopii zapasowej, funkcja Znajdź urządzenie, Pulpit, Częste zwroty, MIUI Daemon, Przeglądarka HTML, MIUI SDK, aplikacja Secure Element, Bateria i wydajność, Detektor zasilania oraz aplikacja Aktualizacje będą łączyć się z siecią. Menedżer uprawnień oraz inteligentne usługi połączą się z siecią i uzyskają dostęp do Twojej lokalizacji.</string>
+  <string name="access_non_personal_data">Jeśli wycofasz zgodę na dostęp i używanie nieosobistych danych na tym urządzeniu, usługi Tapet Blokady zostaną zdezaktywowane, a wszystkie zgromadzone dane zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami.</string>
+  <string name="agree_cookie">Akceptuj pliki cookie</string>
+  <string name="agreement_declare_use_network_and_location_china">"Dodatkowo następujące usługi połączą się z siecią i uzyskają Twoją lokalizację: "</string>
+  <string name="agreement_declare_use_network_china">połączą się z siecią.</string>
+  <string name="cookies_content_one">"Kiedy dotkniesz obrazków i wspomnień zgromadzonych w Tapetach Blokady, ich pełne wersje zostaną otwarte w Twojej przeglądarce. Firma trzecia, która dostarcza treści, czyli Taboola, może wtedy polecać dodatkowe treści i reklamy dopasowane do Twoich zainteresowań. Jeśli wyrazisz zgodę na aktywację tej funkcji, Taboola umieści pliki cookie na Twoim urządzeniu za pośrednictwem przeglądarki zgodnie z &lt;a href =%1$s>Polityką plików cookie&lt;/a>. Jeśli jednak tej zgody nie udzielisz, Tapety Blokady nadal będą pojawiać się na Twoim Ekranie blokady, zaś pełne wspomnienia wciąż będą otwierane w Twojej przeglądarce, lecz dodatkowe rekomendacje nie będą już dopasowane w oparciu o Twoje zainteresowania. Możesz zmienić te preferencje w Ustawieniach w dowolnym momencie."</string>
+  <string name="cookies_content_two">"Zdecyduj, czy chcesz, aby firma trzecia dostarczająca treści mogła używać plików cookies w celu personalizacji rekomendowanych treści i reklam w oparciu o Twoje zainteresowania."</string>
+  <string name="cookies_title">Spersonalizowana treść i pliki cookie</string>
+  <string name="privacy_content_one">"Rekomendacje Tapet Blokady dostarcza firma trzecia, Taboola. Aby to robić, musi ona uzyskać dostęp i przechowywać nieosobiste dane, włącznie z językiem systemu i typem przeglądarki. Możesz dowiedzieć się, jak korzysta ona ze zgromadzonych danych, z odpowiednich dokumentów: &lt;a href =%1$s>Polityki prywatności&lt;/a> oraz &lt;a href =%2$s>Umowy użytkownika&lt;/a>. Zapoznaj się z tymi dokumentami, zanim kontynuujesz. Jeśli nie wyrażasz zgody na te warunki, usługi Tapet Blokady zostaną zdezaktywowane."</string>
+  <string name="privacy_refuse">"Nie zgadzam się"</string>
+  <string name="privacy_title">Warunki użytkowania i Polityka prywatności</string>
+  <string name="refuse_cookie">Odrzuć pliki cookie</string>
+  <string name="term_condition_detail">"Codziennie otrzymuj fascynujące obrazy i historie na swoim Ekranie blokady. Ta funkcja nie będzie używać Twoich danych bez Twojej zgody. Przeczytaj i zaakceptuj warunki &lt;a href =%1$s>Polityki prywatności&lt;/a> oraz &lt;a href =%2$s>Umowy użytkownika&lt;/a> firmy trzeciej, zanim zaczniesz korzystać z tej funkcji."</string>
+  <string name="terms_of_use_label_RMS">Menedżer uprawnień</string>
+  <string name="terms_of_use_label_app_vault">Asystent MIUI</string>
+  <string name="terms_of_use_label_back">Usługa Kopii zapasowej</string>
+  <string name="terms_of_use_label_cloud">Chmura Xiaomi</string>
+  <string name="terms_of_use_label_finddevice">Funkcja Znajdź urządzenie</string>
+  <string name="terms_of_use_label_home">Pulpit</string>
+  <string name="terms_of_use_label_htmlviewer">Przeglądarka HTML</string>
+  <string name="terms_of_use_label_landscape">funkcja optymalizacji widoku poziomego</string>
+  <string name="terms_of_use_label_mi_account">komponenty konta Xiaomi</string>
+  <string name="terms_of_use_label_parallel_windows">Podzielone okna</string>
+  <string name="terms_of_use_label_power_detection">Detektor baterii</string>
+  <string name="terms_of_use_label_power_performance">Bateria i wydajność</string>
+  <string name="terms_of_use_label_secure">Secure Element</string>
+  <string name="terms_of_use_label_simcard">usługi aktywacji karty SIM Xiaomi</string>
+  <string name="terms_of_use_label_statistics">Statystyki</string>
+  <string name="terms_of_use_label_translation">Usługa tłumaczenia</string>
+  <string name="terms_of_use_label_use_location_and_network_global">"Przed skorzystaniem z MIUI przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią i uzyskają informacje dot. Twojej lokalizacji: "</string>
+  <string name="terms_of_use_label_use_network_china">"Przed skorzystaniem z MIUI przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią: "</string>
+  <string name="terms_of_use_label_wallpaper">Tapety</string>
+  <string name="terms_of_use_lable_xmsf">framework usługi Xiaomi</string>
+  <string name="withdraw_consent">Jeśli wycofasz zgodę, usługi Tapet Blokady zostaną zdezaktywowane.</string>
 </resources>

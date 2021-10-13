@@ -198,4 +198,12 @@
         <item>Dostęp do zdjęć, notatek i urządzeń z każdego miejsca</item>
         <item>Brak miejsca;Członkostwo;Przestrzeń;Miejsce w Chmurze;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi;Kosz;Usunięte elementy;Panel sterowania</item>
     </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>Dostęp do kalendarza</item>
+        <item>Wysyłanie SMS-ów</item>
+        <item>Odczyt MMS-ów</item>
+        <item>Dostęp do kontaktów</item>
+        <item>Edycja i usuwanie kontaktów</item>
+        <item>Dostęp do zdjęć i plików na urządzeniu</item>
+    </string-array>
 </resources>

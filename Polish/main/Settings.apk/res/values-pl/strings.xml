@@ -9988,4 +9988,21 @@ Odblokowanie twarzą jest mniej bezpieczne niż kod PIN, hasło bądź wzór. Ur
     <string name="lockscreen_access_pattern_detected">Ukończono wzór</string>
     <string name="lockscreen_access_pattern_start">Rozpoczęto wzór</string>
     <string name="miui_face_enroll_risk_warning_title_text_cn">Stanowisko dot. bezpieczeństwa</string>
+    <string name="sos_privacy_policy_change_endtitle">Zanim kontynuujesz, przeczytaj i zaakceptuj warunki nowej wersji %s.</string>
+    <string name="sos_privacy_policy_change_message_reject">"Nie będzie można używać Alarmowego sygnału SOS, dopóki nie wyrazisz zgody na warunki nowej wersji Polityki prywatności tej usługi. Czy chcesz wyrazić zgodę na warunki %s?"</string>
+    <string name="sos_privacy_policy_change_subtitle">Polityka prywatności usługi Alarmowy sygnał SOS została zaktualizowana:</string>
+    <string name="sos_privacy_policy_change_title">Zaktualizowano Politykę prywatności</string>
+    <string name="sos_privacy_policy_change_title_reject">"Nie można korzystać z aplikacji"</string>
+    <string name="sos_privacy_policy_no_net_button">OK</string>
+    <string name="sos_privacy_policy_no_net_message">Aby móc wycofać zgodę, urządzenie musi być połączone z Internetem. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+    <string name="sos_privacy_policy_no_net_title">"Nie udało się połączyć z siecią"</string>
+    <string name="sos_privacy_policy_revoke">Wycofanie zgody na warunki umów</string>
+    <string name="sos_privacy_policy_revoke_message_reject">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności usługi Alarmowy sygnał SOS. Informacje o Tobie, które zostały już zebrane i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej.
+
+Ponieważ usługa Alarmowy sygnał SOS dostarcza swoje usługi w oparciu o niezbędne dane dot. Ciebie, wycofanie zgody zostanie potraktowane jako odmowa korzystania z usług Panelu sterowania.
+
+Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
+    <string name="sos_privacy_policy_revoke_title_reject">Uwaga</string>
+    <string name="sos_privacy_revoke_failed_dialog_content">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="sos_privacy_revoke_failed_dialog_title">"Nie udało się wycofać zgody"</string>
 </resources>

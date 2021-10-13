@@ -315,4 +315,11 @@ Szyszy protokół transmisji."</string>
     <string name="plugin_ota_messages2">Zaktualizowano framework usługi Bluetooth.</string>
     <string name="plugin_ota_progress">Aktualizowanie…</string>
     <string name="stylus_ota_check_update">Aktualizuj</string>
+    <string name="stylus_firmware_failed_summary">Podepnij ponownie rysik, zrestartuj Bluetooth i spróbuj ponownie.</string>
+    <string name="stylus_firmware_failed_title">"Nie udało się zaktualizować oprogramowania"</string>
+    <string name="stylus_firmware_success_summary">Podłącz rysik, aby sparować.</string>
+    <string name="stylus_firmware_success_title">Pomyślnie zaktualizowano oprogramowanie</string>
+    <string name="stylus_firmware_timeout_summary">Przekroczono czas trwania połączenia. Spróbuj ponownie.</string>
+    <string name="stylus_firmware_update_summary">Aktualizowanie oprogramowania rysika…</string>
+    <string name="stylus_firmware_update_title">Oprogramowanie rysika</string>
 </resources>

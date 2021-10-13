@@ -471,4 +471,5 @@
   <string name="waterdrop_preview">Krople wody</string>
   <string name="windchime">Wietrzne dzwonki</string>
   <string name="lockscreen_carrier_customized">Usługa ograniczona</string>
+  <string name="shortcut_no_support_on_pc_mode">"Ten gest nie jest wspierany w trybie PC"</string>
 </resources>
