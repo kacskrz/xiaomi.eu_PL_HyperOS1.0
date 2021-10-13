@@ -9971,9 +9971,6 @@ Naciśnij jednocześnie przyciski zasilania i zwiększania głośności."</strin
     <string name="blank_screen_no_device">Brak urządzeń</string>
     <string name="bluetooth_other_settings">Dodatkowe ustawienia</string>
     <string name="current_use_default_wallet">Wybrano automatycznie</string>
-    <string name="dclight_unavailable_prompt">Tryb Ograniczenie migotania jest wspierany tylko przez zewnętrzny ekran</string>
-    <string name="display_prompt_confirm">OK</string>
-    <string name="screen_refresh_unavailable_prompt">Zmiana częstotliwości odświeżania jest wspierana tylko przez zewnętrzny ekran</string>
     <string name="se_route_default">Wybierz automatycznie</string>
     <string name="blank_screen_no_record">Nie ma jeszcze rekordów</string>
     <string name="bluetooth_version">Wersja Bluetooth</string>
