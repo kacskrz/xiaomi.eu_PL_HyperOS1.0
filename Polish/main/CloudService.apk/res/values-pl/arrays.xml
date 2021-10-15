@@ -206,4 +206,9 @@
         <item>Edycja i usuwanie kontaktów</item>
         <item>Dostęp do zdjęć i plików na urządzeniu</item>
     </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>W celu zlokalizowania tego urządzenia i przełączenia go w tryb zgubienia</item>
+        <item>"W celu zlokalizowania tego urządzenia, gdy nie jest ono połączone z Internetem"</item>
+        <item>"W celu uzyskania numeru telefonu, aby zlokalizować urządzenie, gdy nie jest ono połączone z Internetem"</item>
+    </string-array>
 </resources>

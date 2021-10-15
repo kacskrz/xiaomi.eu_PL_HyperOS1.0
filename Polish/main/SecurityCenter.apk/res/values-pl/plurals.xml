@@ -1140,4 +1140,20 @@ Zrób sobie przerwę!"</item>
         <item quantity="other">%d razy</item>
         <item quantity="one">%d raz</item>
     </plurals>
+    <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Włącz Tryb skupienia na %d min</item>
+        <item quantity="one">Włącz Tryb skupienia na %d min</item>
+    </plurals>
+    <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">Gdy ekran jest zablokowany przez %d min</item>
+        <item quantity="one">Gdy ekran jest zablokowany przez %d min</item>
+    </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">Zablokuj ekran po %d mins</item>
+        <item quantity="one">Zablokuj ekran po %d min</item>
+    </plurals>
 </resources>

@@ -1511,4 +1511,23 @@
      <string name="filter_portrait_mint">Mięta</string>
      <string name="filter_portrait_pink_orange">Cytrus</string>
      <string name="filter_portrait_protist">Oryginalne</string>
+     <string name="app_summary_2">Przechowywanie, zarządzanie i edycja zdjęć i filmów z tego urządzenia</string>
+     <string name="cta_agreement_declare"><Data>Aby w pełni zrozumieć Twoje prawa jako użytkownika, a także metody, w ramach których Xiaomi używa Twoich danych, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> przed skorzystaniem z tej aplikacji.</Data></string>
+     <string name="cta_network_declare">Aby synchronizować zdjęcia i filmy z Chmurą Xiaomi, aplikacja wymaga połączenia z Internetem.</string>
+     <string name="grant_permission_go_and_set_2">Ustawienia</string>
+     <string name="grant_permission_go_and_set_3">Ustawienia</string>
+     <string name="grant_permission_shortcut">Najpierw zezwól tej aplikacji na tworzenie skrótów na pulpicie.</string>
+     <string name="grant_permission_storage">Najpierw zezwól tej aplikacji na dostęp do pamięci.</string>
+     <string name="grant_permission_storage_unlock">Najpierw odblokuj swoje urządzenie i zezwól tej aplikacji na dostęp do pamięci.</string>
+     <string name="grant_permission_unlock_and_set_2">Odblokuj</string>
+     <string name="grant_permission_write_clipboard">Aby móc skopiować elementy, zezwól tej aplikacji na dostęp do schowka.</string>
+     <string name="open_storage_permission_message">Aby móc edytować elementy, najpierw zezwól tej aplikacji na dostęp do pamięci.</string>
+     <string name="open_string">Zezwól</string>
+     <string name="permission_account_desc">W celu logowania się i zarządzania kontami systemowymi</string>
+     <string name="permission_account_name">Dostęp do kont</string>
+     <string name="permission_clipboard_desc">W celu uzyskania dostępu i zapisywania elementów do schowka</string>
+     <string name="permission_clipboard_name">Dostęp lub zapis elementów do schowka</string>
+     <string name="permission_contacts_desc_2">W celu powiązania osób na zdjęciach z konkretnymi kontaktami</string>
+     <string name="permission_contacts_name_2">Dostęp do kontaktów</string>
+     <string name="permission_storage_name_2">Dostęp i zapis zdjęć i filmów na urządzeniu</string>
 </resources>
