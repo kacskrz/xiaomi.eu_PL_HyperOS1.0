@@ -5170,4 +5170,10 @@ Wycofać zgodę?"</string>
     <string name="type_face_condition_summary">Dostosuj rozmiar tekstu i grubość czcionki</string>
     <string name="weight_heavy">Gruba</string>
     <string name="weight_light">Cienka</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">W celu dodawania elementów do Listy blokowanych</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">W celu uzyskania dostępu do historii połączeń po to, aby wyświetlić blokowane elementy</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">W celu dostarczania funkcjonalności Listy blokowanych i dzwonienia do kontaktów alarmowych</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">W celu wysyłania wiadomości do zablokowanych kontaktów</string>
+    <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">W celu dodawania elementów do historii połączeń i usuwania zablokowanych połączeń</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">W celu wykonywania skanowania antywirusowego i optymalizowania urządzenia</string>
 </resources>

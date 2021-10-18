@@ -10,4 +10,14 @@
         <item quantity="one">Aby zapobiec wymuszonym zamknięciom, zaktualizuj %d aplikację</item>
         <item quantity="few">Aby zapobiec wymuszonym zamknięciom, zaktualizuj %d aplikacje</item>
     </plurals>
+    <plurals name="hints_apps_count">
+        <item quantity="other">%d aplikacji</item>
+        <item quantity="few">%d aplikacje</item>
+        <item quantity="one">%d aplikacja</item>
+    </plurals>
+    <plurals name="lowbit_app_update">
+        <item quantity="other">%d aplikacji ma swoje 64-bitowe wersje</item>
+        <item quantity="few">%d aplikacje mają swoje 64-bitowe wersje</item>
+        <item quantity="one">%d aplikacja ma swoją 64-bitową wersję</item>
+    </plurals>
 </resources>

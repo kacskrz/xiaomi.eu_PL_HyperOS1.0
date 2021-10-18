@@ -516,4 +516,12 @@
   <string name="slider_text_new">Przesuń w górę, aby zatrzymać</string>
   <string name="timer_got_it_new">Wycisz</string>
   <string name="week_ringtone_recommend_desc">Alarm naturalny odtwarza różne dźwięki w zależności od dnia. Ustawić go jako domyślny alarm?</string>
+  <string name="permission_desc">Szczegóły dot. uprawnień</string>
+  <string name="permission_granted">Przyznano</string>
+  <string name="permission_rejected">Nie przyznano</string>
+  <string name="permission_related">Uprawnienia</string>
+  <string name="privacy_settings_title">Prywatność</string>
+  <string name="query_privacy_policy">Wyświetl Politykę prywatności</string>
+  <string name="read_external_storage_permission_desc">W celu ustawiania własnych dzwonków</string>
+  <string name="read_internal_storage">Dostęp do pamięci</string>
 </resources>

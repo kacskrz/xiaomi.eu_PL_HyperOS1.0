@@ -108,4 +108,14 @@
   <string name="remove_icon_description_title">Usunąć \"Kompas\" z pulpitu?</string>
   <string name="first_using_dialog_message_no_camera">Kompas wymaga dostępu do Internetu i informacji o lokalizacji, aby móc działać poprawnie. Zezwolić na te uprawnienia?</string>
   <string name="open_perm_msg_no_camera">Kompas wymaga dostępu do informacji o lokalizacji, aby móc określić położenie. Zezwolić na te uprawnienie?</string>
+  <string name="allowed">Przyznano</string>
+  <string name="get_location">Dostęp do lokalizacji</string>
+  <string name="new_cta_v2_app_purpose">Pokazywanie kierunków, koordynatów, ciśnienia atmosferycznego i obecnej wysokości</string>
+  <string name="new_permission_camera_desc">W celu kalibracji</string>
+  <string name="new_permission_location_desc">W celu wyświetlania koordynatów</string>
+  <string name="not_allowed">Nie przyznano</string>
+  <string name="open_camera">Dostęp do aparatu</string>
+  <string name="permission_description">Szczegóły dot. uprawnień</string>
+  <string name="preference_privacy_policy">Wyświetl Politykę prywatności</string>
+  <string name="preference_privacy_setting">Prywatność</string>
 </resources>

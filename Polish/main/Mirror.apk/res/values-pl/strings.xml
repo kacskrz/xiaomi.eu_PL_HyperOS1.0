@@ -285,4 +285,7 @@
     <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
     <string name="pcmode_not_support_multi_window">"Tryb PC nie wspiera wyświetlania wielu okien."</string>
+    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">W celu przesyłania dźwięku w trakcie przesyłania ekranu</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">W celu przenoszenia plików między urządzeniami</string>
+    <string name="settings_permission_description">Szczegóły dot. uprawnień</string>
 </resources>

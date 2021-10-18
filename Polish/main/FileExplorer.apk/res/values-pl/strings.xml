@@ -869,4 +869,17 @@ and never miss the cool new ones!"</string>
     <string name="start_all">Zobacz wszystko</string>
     <string name="clean_hint_pad">Wyczyść śmieci, aby zwolnić miejsce</string>
     <string name="app_name_recorder">Dyktafon</string>
+    <string name="agree">Zgadzam się</string>
+    <string name="exit">Wyjdź</string>
+    <string name="open_or_close_wlan">Wyłączanie i włączanie Wi-Fi</string>
+    <string name="permission_description">Szczegóły dot. uprawnień</string>
+    <string name="pref_permission_allowed">Przyznano</string>
+    <string name="pref_permission_manage_key_storage">Dostęp do zdjęć i plików na urządzeniu</string>
+    <string name="pref_permission_not_allowed">Nie przyznano</string>
+    <string name="privacy_policy_renew">Zaktualizowano Politykę prywatności</string>
+    <string name="privacy_policy_renew_content"><Data>"&lt;a href=\"%1$s\">Polityka prywatności&lt;/a> aplikacji Pliki została zaktualizowana. Zanim kontynuujesz, przeczytaj ją, aby zrozumieć swoje prawa jako użytkownika, a także metody, w ramach których Xiaomi wykorzystuje Twoje dane, a następnie wyraź zgodę na jej warunki."</Data></string>
+    <string name="withdraw">Wycofaj</string>
+    <string name="withdraw_consent">Wycofanie zgody</string>
+    <string name="withdraw_consent_content">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności aplikacji Pliki. Informacje o Tobie, które zostały już zgromadzone i przetworzone przez Xiaomi, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ aplikacja Pliki dostarcza swoje usługi w oparciu o niezbędne dane osobowe, wycofanie Twojej zgody zostanie potraktowane jako odmowa akceptacji usług tejże aplikacji."</string>
+    <string name="withdraw_consent_summary">Wycofanie zgody na warunki Polityki prywatności aplikacji Pliki</string>
 </resources>

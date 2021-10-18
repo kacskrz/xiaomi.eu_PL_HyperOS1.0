@@ -226,4 +226,7 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="miuix_access_state_desc">Wybrano</string>
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">W celu transferu elementów za pomocą Bluetooth i Wi-Fi</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">W celu wysyłania i otrzymywania plików</string>
+  <string name="menu_item_permission_title">Szczegóły dot. uprawnień</string>
 </resources>

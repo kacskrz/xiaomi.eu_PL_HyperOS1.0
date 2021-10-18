@@ -847,4 +847,14 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="miui_penengine_tool_undo">Cofnij</string>
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="note_item_default_title">Pusta notatka</string>
+  <string name="pref_permission_allowed">Przyznano</string>
+  <string name="pref_permission_manage">Szczegóły dot. uprawnień</string>
+  <string name="pref_permission_manage_key_contact">Dostęp do kontaktów</string>
+  <string name="pref_permission_manage_key_recording">Nagrywanie dźwięku</string>
+  <string name="pref_permission_manage_key_storage">Dostęp do pamięci</string>
+  <string name="pref_permission_not_allowed">Nie przyznano</string>
+  <string name="widget_size_item_big">Duży</string>
+  <string name="widget_size_item_medium">Średni</string>
+  <string name="widget_size_item_small">Mały</string>
 </resources>

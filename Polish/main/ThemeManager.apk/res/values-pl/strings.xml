@@ -1271,4 +1271,12 @@ dd.M."</string>
   <string name="preference_title_get_device_status">Dostęp do ID urządzenia</string>
   <string name="dialog_apply_lock_screen_wallpaper_content">Obecny motyw może nie wspierać zmiany tapety Ekranu blokady.</string>
   <string name="dialog_apply_lock_screen_wallpaper_warning">Tapeta Ekranu blokady</string>
+  <string name="application_list_permission_desc">W celu pokazywania aplikacji komatybilnych z przezroczystymi tapetami</string>
+  <string name="head_portraits">Zdjęcie profilowe</string>
+  <string name="need_to_open_application_permission_desc">Aby móc dowiedzieć się, jakie aplikacje są kompatybilne z przezroczystymi tapetami, najpierw zezwól aplikacji Motywy na dostęp do listy zainstalowanych aplikacji.</string>
+  <string name="need_to_open_permission">Wymagane uprawnienia</string>
+  <string name="need_to_open_storage_permission_desc">Aby móc używać i pobierać elementy w aplikacji Motywy, najpierw zezwól jej na dostęp do pamięci.</string>
+  <string name="privacy_settings">Prywatność</string>
+  <string name="storage_migration_exit_msg">Aby aplikacja Motywy była kompatybilna z nowymi wersjami Androida, pobrane przez Ciebie elementy zostały przeniesione do nowej lokalizacji. Zrestartuj aplikację, aby zastosować zmiany i wyświetlić pobrane przez Ciebie treści.</string>
+  <string name="storage_permission_denied_desc">Aby móc wyświetlać elementy, zezwól aplikacji Motywy na dostęp do pamięci</string>
 </resources>

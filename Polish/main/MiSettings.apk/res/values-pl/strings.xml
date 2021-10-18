@@ -892,4 +892,7 @@ nie są tworzone w Drugiej przestrzeni"</string>
     <string name="miuix_access_state_desc">Wybrano</string>
     <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
+    <string name="usage_app_stop_desc">Po wyłączeniu tej funkcji wszystkie dane i uprawnienia funkcji Czas przed ekranem, włącznie z indywidualnymi ustawieniami, a także przechowywanymi na tym urządzeniu powiązanymi elementami zostaną usunięte.</string>
+    <string name="usage_cta_desc">"Witaj w Ustawieniach! Aby dostarczać statystyki funkcji Czas przed ekranem oraz Trybu skupienia, aplikacja musi groadzić następujące dane: ilość odblokowań urządzenia, listę aplikacji wraz z czasem ich użytkowania, ilość włączeń ekranu oraz ustawienia Trybu skupienia. Zgromadzone dane będą przechowywane wyłącznie na tym urządzeniu.
+"</string>
 </resources>

@@ -73,4 +73,11 @@
     <string name="notification_title_message_emergency_crash">Wymuszono zamknięcie aplikacji %s</string>
     <string name="notification_title_message_native_oom">"Aplikacja %s nie mogła prawidłowo używać pamięci"</string>
     <string name="send">Wyślij</string>
+    <string name="incompatible_page_summary">"Te aplikacje nie są kompatybilne z najnowszą wersją Androida. Problemy z kompatybilnością mogą zostać rozwiązane w nadchodzących aktualizacjach tych aplikacji."</string>
+    <string name="incompatible_summary">Aplikacje niekompatybilne z najnowszym Androidem</string>
+    <string name="incompatible_title">Niekompatybilne aplikacje</string>
+    <string name="list_title">Aplikacje</string>
+    <string name="lowbit_version_page_summary">32-bitowe aplikacje są mniej wydajne i zużywają więcej energii. Mogą też się samoczynnie zamykać ze względu na brak pamięci wirtualnej. Google nie będzie już wspierać 32-bitowych aplikacji w nowych wersjach Androida.</string>
+    <string name="lowbit_version_summary">32-bitowe aplikacje mogą się zamykać i drenować baterię</string>
+    <string name="lowbit_version_title">32-bitowe aplikacje</string>
 </resources>

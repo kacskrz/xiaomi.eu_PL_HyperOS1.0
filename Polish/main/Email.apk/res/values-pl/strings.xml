@@ -1586,7 +1586,14 @@ Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojeg
   <string name="sign_in_dialog_outlook_exchange">Exchange (z kalendarzem)</string>
   <string name="sign_in_dialog_outlook_imap">IMAP (bez kalendarza)</string>
   <string name="gmail_invalid_tip_cancel">Anuluj</string>
-  <string name="gmail_invalid_tip_confirm">OK</string>
-  <string name="gmail_invalid_tip_message">Ze względu na zmiany dot. autoryzacji konta Gmail należy dokonać ponownej autoryzacji konta.</string>
-  <string name="gmail_invalid_tip_title">Zmiany w Gmailu</string>
+  <string name="gmail_invalid_tip_confirm">Zaloguj się</string>
+  <string name="gmail_invalid_tip_message">Warunki użytkowania konta Google zmieniły się. Należy ponownie zalogować się do Gmaila.</string>
+  <string name="gmail_invalid_tip_title">Zaloguj się do Gmaila</string>
+  <string name="permission_calendar_subtitle">W celu synchronizacji wydarzeń ze skrzynki e-mail z Kalendarzem</string>
+  <string name="permission_calendar_title">Dostęp do kalendarza i dodawanie wydarzeń</string>
+  <string name="permission_get_accounts_subtitle">W celu logowania się i zarządzania kontami systemowymi</string>
+  <string name="permission_phone_status_subtitle">W celu rozpoznawania różnych urządzeń</string>
+  <string name="permission_phone_status_title">Dostęp do kont na urządzeniu</string>
+  <string name="permission_write_contacts_subtitle">"W celu wyświetlania i zmieniania adresów e-mail kontaktów"</string>
+  <string name="permission_write_external_storage_title">Dostęp do zdjęć i plików na urządzeniu i zapis elementów</string>
 </resources>

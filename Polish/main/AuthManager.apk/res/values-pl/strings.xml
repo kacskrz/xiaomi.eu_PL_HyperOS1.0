@@ -169,7 +169,7 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="HIPS_Perm_Read_MMS">Czytanie wiadomości MMS</string>
   <string name="HIPS_Perm_Read_MMS_Desc">czytanie wiadomości MMS</string>
   <string name="HIPS_Perm_Read_MMS_Hint">%1$s aplikacji może czytać wiadomości MMS</string>
-  <string name="HIPS_Perm_Read_SMS">Czytanie wiadomości SMS</string>
+  <string name="HIPS_Perm_Read_SMS">Czytanie wiadomości SMS i MMS</string>
   <string name="HIPS_Perm_Read_SMS_Desc">czytanie wiadomości SMS</string>
   <string name="HIPS_Perm_Read_SMS_Hint">%1$s aplikacji może czytać wiadomości SMS</string>
   <string name="HIPS_Perm_Recorder_Audio">Nagrywanie dźwięku</string>
