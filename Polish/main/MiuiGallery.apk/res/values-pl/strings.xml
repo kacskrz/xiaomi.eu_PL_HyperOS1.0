@@ -2966,7 +2966,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="map_grant_position_permission_subtitle">W celu wyświetlania zdjęć i filmów w pobliżu na mapie</string>
     <string name="map_guide_message">Wyświetl swoje zdjęcia i filmy na mapie</string>
     <string name="map_positioning_failed_tip">"Nie można uzyskać lokalizacji ze względu na słaby zasięg"</string>
-    <string name="map_privacy_dialog_message"><Data>Ta usługa pozwala na wyświetlanie zdjęć i filmów z informacjami o lokalizacji na mapie. Aplikacja używa Baidu Map Open SDK w celu dostarczania tej usługi. Aby dowiedzieć się więcej, przeczytaj &lt;a href=\"%1$s\">Politykę prywatności Baidu Map dla otwartoplatformowych produktów i usług&lt;/a> to learn more.</Data></string>
+    <string name="map_privacy_dialog_message"><Data>Ta usługa pozwala na wyświetlanie zdjęć i filmów z informacjami o lokalizacji na mapie. Aplikacja używa Baidu Map Open SDK w celu dostarczania tej usługi. Aby dowiedzieć się więcej, przeczytaj &lt;a href=\"%1$s\">Politykę prywatności Baidu Map dla otwartoplatformowych produktów i usług&lt;/a>.</Data></string>
     <string name="map_privacy_dialog_title">Mapa Galerii</string>
     <string name="map_privacy_policy">Polityka prywatności Mapy Galerii</string>
     <string name="map_privacy_policy_1">Polityka prywatności</string>
@@ -2976,4 +2976,39 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="trash_purge_all_cloud">Wszystkie elementy w koszu zostaną permanentnie usunięte z Chmury i wszystkich zsynchronizowanych urządzeń. Usunąć mimo to?</string>
     <string name="trash_purge_all_local">Wszystkie elementy w koszu zostaną permanentnie usunięte. Usunąć mimo to?</string>
     <string name="trash_purge_dialog_title">Wyczyść kosz</string>
+  <string name="privacy">Polityka prywatności</string>
+  <string name="privacy_cloud_confirm">Włącz synchronizację</string>
+  <string name="privacy_cloud_confirm_content1">Polityka prywatności Chmury Xiaomi</string>
+  <string name="privacy_cloud_confirm_content2">Umowa użytkownika</string>
+  <string name="privacy_cloud_confirm_detail"><Data>"Po włączeniu synchronizacji zdjęcia i filmy znajdujące się na tym urządzeniu zostaną przesłane do Chmury Xiaomi i połączone z poprzednio zsynchronizowanymi elementami (jeśli jakieś się tam znajdują). Zanim kontynuujesz, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Chmury Xiaomi."</Data></string>
+  <string name="privacy_cloud_confirm_detail_negative">Wyjdź</string>
+  <string name="privacy_cloud_confirm_detail_positive">Zgadzam się</string>
+  <string name="privacy_cloud_confirm_rejected">Zgoda na warunki Polityki prywatności Chmury Xiaomi dla tego konta została wycofana. Spróbuj użyć innego konta.</string>
+  <string name="privacy_detail">Wyświetl Politykę prywatności</string>
+  <string name="privacy_detail_map">Wyświetl Politykę prywatności Mapy Galerii</string>
+  <string name="privacy_entrance">Prywatność</string>
+  <string name="privacy_map">Mapa Galerii</string>
+  <string name="privacy_map_detail"><Data>Ta usługa umożliwia wyświetlanie zdjęć i filmów zawierających informacje o lokalizacji na mapie. Aby dostarczać tę usługę, aplikacja korzysta z narzędzi Open SDK Baidu Map. Zanim kontynuujesz, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności Baidu Map dla otwartoplatformowych produktów i usług&lt;/a>.</Data></string>
+  <string name="privacy_map_detail_content">Polityka prywatności Baidu Map dla otwartoplatformowych produktów i usług</string>
+  <string name="privacy_permission">Uprawnienia</string>
+  <string name="privacy_permission_account">Konta</string>
+  <string name="privacy_permission_account_detail">W celu logowania się i synchronizacji elementów z Chmurą</string>
+  <string name="privacy_permission_agree">Przyznano</string>
+  <string name="privacy_permission_clip">Dostęp do schowka</string>
+  <string name="privacy_permission_clip_detail">W celu dostępu do skopiowanych elementów</string>
+  <string name="privacy_permission_clip_write">Zapisywanie elementów do schowka</string>
+  <string name="privacy_permission_clip_write_detail">W celu kopiowania elementów</string>
+  <string name="privacy_permission_contact">Kontakty</string>
+  <string name="privacy_permission_contact_detail">W celu nazwania osób na zdjęciach i filmach</string>
+  <string name="privacy_permission_detail">Szczegóły dot. uprawnień</string>
+  <string name="privacy_permission_disagree">Nie przyznano</string>
+  <string name="privacy_permission_location">Lokalizacja</string>
+  <string name="privacy_permission_location_detail">W celu wyświetlania zdjęć i filmów na mapie</string>
+  <string name="privacy_permission_shotcut">Skrót na pulpicie</string>
+  <string name="privacy_permission_shotcut_detail">W celu tworzenia skrótów na pulpicie</string>
+  <string name="privacy_permission_storage">Pamięć</string>
+  <string name="privacy_permission_storage_detail">W celu przechowywania zdjęć i filmów</string>
+  <string name="privacy_rejected">Wycofanie zgody na warunki umów</string>
+  <string name="privacy_rejected_map">Wycofaj zgodę na warunki Polityki prywatności Mapy Galerii</string>
+  <string name="privacy_rejected_map_detail">Wycofanie przez Ciebie zgody na warunki Polityki prywatności Mapy Galerii zostanie potraktowane jako odmowa akceptacji jej usług. Inne funkcje i usługi Galerii nadal będą funkcjonować normalnie. Wycofać zgodę?</string>
 </resources>

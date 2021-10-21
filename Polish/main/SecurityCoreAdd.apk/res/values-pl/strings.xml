@@ -167,8 +167,7 @@ Upewnij się, że nazwa Twojej firmy jest prawidłowa. Przed aktywacją przeczyt
   <string name="gpg_title">Sklonowana aplikacja dla Gier Google Play</string>
   <string name="greenguard_child_des">Zarządzaj urządzeniami swoich przyjaciół i rodziny</string>
   <string name="greenguard_child_des_title">Zeskanuj kod QR, aby dodać urządzenie</string>
-  <string name="greenguard_functional_description">"Zarządzaj zdalnie urządzeniami, wyświetlaj informacje o lokalizacji,
-kontroluj zainstalowane aplikacje i ogranicz użytkowanie"</string>
+  <string name="greenguard_functional_description">"Zarządzaj zdalnie urządzeniami, wyświetlaj ich lokalizację i kontroluj zainstalowane aplikacje"</string>
   <string name="greenguard_install_cancle">Nie, dzięki</string>
   <string name="greenguard_install_confirm">Zainstaluj</string>
   <string name="greenguard_install_message">"Kontrola rodzicielska jest aplikacją systemową. Do jej instalacji nie potrzebujesz połączenia z Internetem."</string>

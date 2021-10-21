@@ -461,4 +461,6 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
+  <string name="HIPS_Perm_NEARBY_DEVICES">Łączenie z urządzeniami w pobliżu</string>
+  <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Odkrywaj i łącz się z urządzeniami w pobliżu</string>
 </resources>

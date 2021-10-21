@@ -595,7 +595,7 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="picture_jurisdiction">Brak uprawnień dostępu do pamięci</string>
   <string name="picture_message_max_num">Można wybrać maks. %1$s obrazów</string>
   <string name="picture_min_img_num">Nie można wybrać mniej niż %1$s zdjęcia</string>
-  <string name="picture_original_image">Oryginał</string>
+  <string name="picture_original_image">Oryginał (%1$s)</string>
   <string name="picture_pause_audio">Pauza</string>
   <string name="picture_photo_pictures">Zrób zdjęcie</string>
   <string name="picture_play_audio">Odtwórz</string>
@@ -624,4 +624,18 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="miuix_access_state_desc">Wybrano</string>
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="call_phone_permissions_text">Aby móc używać tej funkcji, zezwól aplikacji Skaner na wykonywanie połączeń.</string>
+  <string name="logout_service">Wycofaj zgodę</string>
+  <string name="permission_management">Uprawnienia</string>
+  <string name="picture_default_original_image">Oryginał</string>
+  <string name="picture_editor">Edytuj</string>
+  <string name="privacy_policy_update">Zaktualizowano Politykę prywatności</string>
+  <string name="privacy_policy_update_message"><Data>"Nie będzie można używać Skanera, dopóki nie wyrazisz zgody na warunki nowej wersji &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>. Czy chcesz to zrobić?"</Data></string>
+  <string name="privacy_policy_update_welcome">Zaktualizowano Politykę prywatności Skanera:</string>
+  <string name="privacy_policy_withdrawal_error">Nie udało się wycofać zgody. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="privacy_policy_withdrawal_message"><Data>"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności Skanera, co zostanie również potraktowane jako odmowa akceptacji usług tej aplikacji. Jeśli zdecydujesz się na ponowne użycie tej aplikacji, będzie konieczna ponowna akceptacja warunków &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>. Czy chcesz wycofać zgodę?"</Data></string>
+  <string name="read_contacts_permissions_text">Aby móc używać tej funkcji, zezwól aplikacji Skaner na dostęp do kontaktów.</string>
+  <string name="user_agreement">Umowa użytkownika</string>
+  <string name="user_notification">Wycofanie zgody na warunki umów</string>
+  <string name="version_code">"Wersja: "</string>
 </resources>

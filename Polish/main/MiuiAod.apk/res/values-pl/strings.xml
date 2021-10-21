@@ -269,4 +269,5 @@ dd.MM"</string>
     <string name="miuix_appcompat_select_item">Wybierz elementy</string>
     <string name="send">Wyślij</string>
     <string name="notification_channel_alerts">Alerty</string>
+    <string name="temporary_style_5">Przez 5 sekund po dotknięciu</string>
 </resources>

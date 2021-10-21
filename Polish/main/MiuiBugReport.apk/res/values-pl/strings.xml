@@ -863,4 +863,15 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="catch_full_log_dialog_title">Generowanie logów…</string>
   <string name="catch_full_log_category">Typy logów</string>
   <string name="catch_full_log_item_content_catching">Generowanie logów…</string>
+  <string name="catch_full_log_item_title_camera">Aparat</string>
+  <string name="catch_full_log_item_title_charge">Ładowanie</string>
+  <string name="catch_full_log_privacy_content_camera">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Logi mogą zawierać informacje dot. korzystania z aparatu (włącznie z częstotliwością taktowania procesora, zużyciem pamięci, wywołaniami systemowymi itd.). Nie udostępniaj tych logów innym osobom. Dotykając opcji \"Zgadzam się\" wyrażasz zgodę na to, że Xiaomi będzie gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na swoje serwery w celu zlokalizowania i naprawienia zgłoszonych problemów."</string>
+  <string name="catch_full_log_privacy_content_charge">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Logi mogą zawierać informacje dot. ładowania. Nie udostępniaj tych logów innym osobom. Dotykając opcji \"Zgadzam się\" wyrażasz zgodę na to, że Xiaomi będzie gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na swoje serwery w celu zlokalizowania i naprawienia zgłoszonych problemów."</string>
+  <string name="catch_full_log_privacy_content_trace">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Logi mogą zawierać informacje dot. uruchomionych programów (włącznie z częstotliwością taktowania procesora, zużyciem pamięci, wywołaniami systemowymi itd.). Nie udostępniaj tych logów innym osobom. Dotykając opcji \"Zgadzam się\" wyrażasz zgodę na to, że Xiaomi będzie gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na swoje serwery w celu zlokalizowania i naprawienia zgłoszonych problemów."</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="withdraw">Wycofaj</string>
+  <string name="withdraw_consent">Wycofanie zgody na warunki umów</string>
+  <string name="withdraw_consent_hint">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności %1$s. Informacje o Tobie, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ aplikacja %2$s dostarcza swoje usługi w oparciu o niezbędne dane dot. Ciebie, wycofanie przez Ciebie zgody zostanie potraktowane jako odmowa akceptacji usług %3$s. Wycofać zgodę?"</string>
 </resources>

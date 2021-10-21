@@ -367,4 +367,9 @@
   <string name="web_sso_login_fail">Musisz zalogować się ponownie</string>
   <string name="web_sso_login_message">Logowanie…</string>
   <string name="webview_reload">Spróbuj ponownie</string>
+  <string name="auto_task_now_city">Obecna lokalizacja</string>
+  <string name="auto_task_search_address_point">Wyszukaj lokalizację</string>
+  <string name="auto_task_select_city">Wybierz miasto</string>
+  <string name="gtb_dialog_privacy_speed_message">"Za chwilę zaczniesz korzystać z usługi Xunyou Game Booster. Będzie ona gromadzić ID Twojego konta Xiaomi, aby rejestrować czas trwania Twojego członkostwa."</string>
+  <string name="gtb_dialog_privacy_speed_tips"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xunyou Game Booster."</Data></string>
 </resources>

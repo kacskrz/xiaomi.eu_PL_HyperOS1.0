@@ -10003,4 +10003,6 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="sos_privacy_revoke_failed_dialog_content">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="sos_privacy_revoke_failed_dialog_title">"Nie udało się wycofać zgody"</string>
     <string name="external_ram_remind_toast">Zaczyna brakować miejsca w pamięci. Rozszerzenie pamięci zostało wyłączone.</string>
+    <string name="miheadset_hd_audio_title">Dźwięk HD</string>
+    <string name="gd_setting_title">Prosty przybornik</string>
 </resources>

@@ -725,4 +725,34 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
 - SMS-y
 - Pamięć"</string>
     <string name="request_all_permission_title">Wymagane uprawnienia</string>
+  <string name="cancel_tranfer">Anuluj</string>
+  <string name="guest_wainting_title">Kontynuuj na nowym urządzeniu</string>
+  <string name="host_verify_lock_hint">Wprowadź blokadę ekranu</string>
+  <string name="host_verify_lock_retry">Potwierdź blokadę ekranu</string>
+  <string name="host_verify_lock_summary">Będzie to blokada ekranu nowego urządzenia</string>
+  <string name="host_verify_lock_title">Wprowadź blokadę ekranu starego urządzenia</string>
+  <string name="idm_discovery_positive_text">Przenieś</string>
+  <string name="idm_discovery_summary">Wygląda na to, że trwa aktywacja Twojego nowego urządzenia. Przenieść elementy z tego urządzenia na nie?</string>
+  <string name="idm_discovery_title">Przenieś elementy na nowe urządzenie</string>
+  <string name="lockscreen_access_pattern_cell_added">Komórka dodana</string>
+  <string name="lockscreen_access_pattern_cleared">Wzór wyczyszczony</string>
+  <string name="lockscreen_access_pattern_start">Wzór rozpoczęty</string>
+  <string name="manual_connection_hint">Dotknij opcji \"Połącz ręcznie\" na starym urządzeniu.</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="provision_cta_title">Przenieś ze starego urządzenia</string>
+  <string name="provision_select_data_null">Wybierz elementy do przeniesienia</string>
+  <string name="receiver">Otrzymaj</string>
+  <string name="receiver_video_summary">Odblokuj stare urządzenie, dotknij opcji \"Wyślij\" i zeskanuj ten obrazek</string>
+  <string name="receiver_video_title">Przenieś ze starego urządzenia</string>
+  <string name="revoke">Wycofaj zgodę na warunki umów</string>
+  <string name="revoke_agree">Wycofanie zgody</string>
+  <string name="revoke_confirm_dialog_statement">Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności Przeniesienia danych. Informacje o Tobie, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ Przenoszenie danych dostarcza swoje usługi w oparciu o niezbędne dane dot. Ciebie, wycofanie przez Ciebie zgody zostanie potraktowane jako odmowa akceptacji usług tej aplikacji.</string>
+  <string name="sender_scanning_code">Umieść obrazek w ramce</string>
+  <string name="sender_scanning_connecting">Łączenie z nowym urządzeniem…</string>
+  <string name="skip_transfer">Pomiń</string>
+  <string name="trans_show_qr_code_label_for_pad">Otwórz Przenoszenie danych na starym urządzeniu</string>
+  <string name="trans_sync_transfer_data_list_hint">Chwileczkę…</string>
+  <string name="trans_sync_transfer_data_list_summary_for_pad">Wybierz elementy na starym urządzeniu i dotknij opcji \"Wyślij\".</string>
 </resources>

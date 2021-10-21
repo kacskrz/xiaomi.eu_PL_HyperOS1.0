@@ -468,4 +468,15 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="password_toggle_content_description">Wyświetlaj hasło</string>
   <string name="send_diagnosis_log">Wyślij log diagnostyczny</string>
   <string name="sending">Wysyłanie…</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">W celu pobierania elementów, a także wyświetlania i zarządzania pobraniami</string>
+  <string name="dialog_privacy_update_button1">Anuluj</string>
+  <string name="dialog_privacy_update_button2">Zgadzam się</string>
+  <string name="dialog_privacy_update_title">Zaktualizowano Politykę prywatności</string>
+  <string name="dialog_user_know_button1">Wyjdź</string>
+  <string name="dialog_user_know_button2">Zgadzam się</string>
+  <string name="dialog_user_know_content"><Data>"Nie będzie można używać tej funkcji, dopóki nie wyrazisz zgody na warunki nowej wersji &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>. Czy chcesz to zrobić?"</Data></string>
+  <string name="dialog_user_know_title">Uwaga</string>
+  <string name="permission">Uprawnienia</string>
+  <string name="pref_permission_description">Szczegóły dot. uprawnień</string>
+  <string name="privacy">Prywatność</string>
 </resources>

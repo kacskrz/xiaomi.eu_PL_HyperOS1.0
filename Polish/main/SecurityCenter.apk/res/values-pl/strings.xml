@@ -5055,7 +5055,7 @@ Wycofać zgodę?"</string>
     <string name="share_uid_app">Aplikacje z dzielonymi uprawnieniami</string>
     <string name="share_uid_instruction">Ta aplikacja musi dzielić uprawnienia z tymi aplikacjami, aby dostarczać powiązane usługi systemowe. Gdy zmienisz stan uprawnień dla tej aplikacji, zostanie on zmieniony także dla tych aplikacji.</string>
     <string name="summary_condition_charge_to_target">Gdy bateria jest naładowana na określonym poziomie</string>
-    <string name="summary_condition_charge_to_target_percent">Gdy bateria jest naładowana w %s</string>
+    <string name="summary_condition_charge_to_target_percent">Gdy bateria jest naładowana w %d%%</string>
     <string name="summary_condition_close_absorbed_mode">Po wyłączeniu Trybu skupienia</string>
     <string name="summary_condition_in_charge">W trakcie ładowania</string>
     <string name="summary_condition_insert_headset">Po podłączeniu słuchawek przewodowych</string>
@@ -5063,7 +5063,7 @@ Wycofać zgodę?"</string>
     <string name="summary_condition_no_in_charge">Gdy urządzenie nie jest ładowane</string>
     <string name="summary_condition_open_absorbed_mode">Po włączeniu Trybu skupienia</string>
     <string name="summary_condition_reduce_to_target">Gdy poziom baterii znajduje się na określonym poziomie</string>
-    <string name="summary_condition_reduce_to_target_percent">Gdy poziom baterii wynosi %s</string>
+    <string name="summary_condition_reduce_to_target_percent">Gdy poziom baterii wynosi %d%%</string>
     <string name="summary_condition_scan_rubbish">Czyszczenie</string>
     <string name="summary_condition_scan_virus">Skanowanie antywirusowe</string>
     <string name="summary_condition_unplug_headset">Po odłączeniu słuchawek przewodowych</string>
@@ -5078,7 +5078,7 @@ Wycofać zgodę?"</string>
     <string name="summary_open_phone_check">Uruchom skanowanie bezpieczeństwa</string>
     <string name="summary_result_screen_brightness_format">Ustaw jasność ekranu na %s</string>
     <string name="system_app_permission_instruction">Ta aplikacja wymaga tych uprawnień, aby dostarczać podstawowe usługi systemu. Zarządzanie jej uprawnieniami jest ograniczone, ponieważ zmiana ich statusu może doprowadzić do problemów z poprawnym funkcjonowaniem systemu.</string>
-    <string name="system_permission_declare_optional">"Aby dostarczać Ci dodatkowe usługi w trakcie korzystania z aplikacji, mogą być potrzebne następujące uprawnienia: %s."</string>
+    <string name="system_permission_declare_optional">"Aby dostarczać Ci dodatkowe usługi w trakcie korzystania z aplikacji, mogą być potrzebne następujące uprawnienia: %s. Zawsze możesz dostosować dostęp do nich w Ustawieniach."</string>
     <string name="task_summary_close_airplane">Wyłącz Tryb samolotowy</string>
     <string name="task_summary_close_auto_brightness">Wyłącz autom. jasność</string>
     <string name="task_summary_close_bluetooth">Wyłącz Bluetooth</string>
@@ -5170,10 +5170,16 @@ Wycofać zgodę?"</string>
     <string name="type_face_condition_summary">Dostosuj rozmiar tekstu i grubość czcionki</string>
     <string name="weight_heavy">Gruba</string>
     <string name="weight_light">Cienka</string>
-    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">W celu dodawania elementów do Listy blokowanych</string>
-    <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">W celu uzyskania dostępu do historii połączeń po to, aby wyświetlić blokowane elementy</string>
-    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">W celu dostarczania funkcjonalności Listy blokowanych i dzwonienia do kontaktów alarmowych</string>
-    <string name="custom_define_permission_desc_android.permission.SEND_SMS">W celu wysyłania wiadomości do zablokowanych kontaktów</string>
-    <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">W celu dodawania elementów do historii połączeń i usuwania zablokowanych połączeń</string>
-    <string name="custom_define_permission_desc_android.permission_group.STORAGE">W celu wykonywania skanowania antywirusowego i optymalizowania urządzenia</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">W celu używania Listy blokowanych</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">W celu wyświetlania zablokowanych połączeń w Twojej historii</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">W celu używania Listy blokowanych</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">W celu używania Listy blokowanych i wysyłania wiadomości kalibracyjnych do Twojego operatora</string>
+    <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">W celu usuwania wiadomości z Twojej Listy blokowanych</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">W celu czyszczenia śmieci i wykonywania skanowania antywirusowego</string>
+    <string name="custom_define_permission_desc_android.permission.READ_SMS">W celu używania Listy blokowanych i rozpoznawania wiadomości od Twojego operatora</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">W celu dostarczania informacji o Twojej lokalizacji dla funkcji Alarmowy sygnał SOS</string>
+    <string name="gtb_dialog_privacy_speed_message">"Niedługo skorzystasz z funkcji Xunyou Game Booster. Usługa będzie gromadzić ID Twojego konta Xiaomi, aby rejestrować czas trwania Twojego członkostwa."</string>
+    <string name="gtb_dialog_privacy_speed_tips">"Potwierdzam, że zapoznano się i zaakceptowano warunki Polityki prywatności Xunyou Game Booster."</string>
+    <string name="gtb_dialog_privacy_voice_message">"Niedługo skorzystasz z funkcji Xunyou Game Voice Changer. Usługa będzie gromadzić ID Twojego konta Xiaomi, aby rejestrować czas trwania Twojego członkostwa."</string>
+    <string name="gtb_dialog_privacy_voice_tips">"Potwierdzam, że zapoznano się i zaakceptowano warunki Polityki prywatności Xunyou Game Voice Changer."</string>
 </resources>
