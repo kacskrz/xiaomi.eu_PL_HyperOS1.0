@@ -118,4 +118,7 @@
   <string name="permission_description">Szczegóły dot. uprawnień</string>
   <string name="preference_privacy_policy">Wyświetl Politykę prywatności</string>
   <string name="preference_privacy_setting">Prywatność</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

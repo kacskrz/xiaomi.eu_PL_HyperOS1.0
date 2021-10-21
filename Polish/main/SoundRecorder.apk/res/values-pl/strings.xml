@@ -420,4 +420,15 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="mtrl_picker_toggle_to_year_selection">Kliknij, by wybrać rok</string>
   <string name="password_toggle_content_description">Pokaż hasło</string>
   <!-- end standard android strings -->
+  <string name="add_remark_hint">Wpisz tutaj swój komentarz</string>
+  <string name="add_remark_tip">Dotknij, aby dodać komentarz</string>
+  <string name="empty_tips">Dotknij przycisk, aby rozpocząć nagrywanie</string>
+  <string name="error_remark_too_long">Twój komentarz jest za długi</string>
+  <string name="no_records">Brak nagrań</string>
+  <string name="record_item_title_multi_choice">Wybierz</string>
+  <string name="record_item_title_remark">Dodaj komentarz</string>
+  <string name="record_item_title_send">Udostępnij</string>
+  <string name="tab_all">Wszystkie</string>
+  <string name="tab_apps">Aplikacje</string>
+  <string name="tab_call">Połączenia</string>
 </resources>
