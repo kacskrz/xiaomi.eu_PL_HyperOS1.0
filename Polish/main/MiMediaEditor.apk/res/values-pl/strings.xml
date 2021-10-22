@@ -1530,4 +1530,8 @@
      <string name="permission_contacts_desc_2">W celu powiązania osób na zdjęciach z konkretnymi kontaktami</string>
      <string name="permission_contacts_name_2">Dostęp do kontaktów</string>
      <string name="permission_storage_name_2">Dostęp i zapis zdjęć i filmów na urządzeniu</string>
+     <string name="filter_popular_blues">Blues</string>
+     <string name="filter_popular_sunset_gold">Blask</string>
+     <string name="onekey_beautify_tag_done">Zastosowano efekty</string>
+     <string name="sticker_tab_talkback_halloween">Halloween</string>
 </resources>

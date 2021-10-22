@@ -725,7 +725,6 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
 - SMS-y
 - Pamięć"</string>
     <string name="request_all_permission_title">Wymagane uprawnienia</string>
-  <string name="cancel_tranfer">Anuluj</string>
   <string name="guest_wainting_title">Kontynuuj na nowym urządzeniu</string>
   <string name="host_verify_lock_hint">Wprowadź blokadę ekranu</string>
   <string name="host_verify_lock_retry">Potwierdź blokadę ekranu</string>
@@ -737,13 +736,11 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
   <string name="lockscreen_access_pattern_cell_added">Komórka dodana</string>
   <string name="lockscreen_access_pattern_cleared">Wzór wyczyszczony</string>
   <string name="lockscreen_access_pattern_start">Wzór rozpoczęty</string>
-  <string name="manual_connection_hint">Dotknij opcji \"Połącz ręcznie\" na starym urządzeniu.</string>
   <string name="miuix_access_state_desc">Wybrano</string>
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
   <string name="provision_cta_title">Przenieś ze starego urządzenia</string>
   <string name="provision_select_data_null">Wybierz elementy do przeniesienia</string>
-  <string name="receiver">Otrzymaj</string>
   <string name="receiver_video_summary">Odblokuj stare urządzenie, dotknij opcji \"Wyślij\" i zeskanuj ten obrazek</string>
   <string name="receiver_video_title">Przenieś ze starego urządzenia</string>
   <string name="revoke">Wycofaj zgodę na warunki umów</string>
@@ -752,7 +749,4 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
   <string name="sender_scanning_code">Umieść obrazek w ramce</string>
   <string name="sender_scanning_connecting">Łączenie z nowym urządzeniem…</string>
   <string name="skip_transfer">Pomiń</string>
-  <string name="trans_show_qr_code_label_for_pad">Otwórz Przenoszenie danych na starym urządzeniu</string>
-  <string name="trans_sync_transfer_data_list_hint">Chwileczkę…</string>
-  <string name="trans_sync_transfer_data_list_summary_for_pad">Wybierz elementy na starym urządzeniu i dotknij opcji \"Wyślij\".</string>
 </resources>
