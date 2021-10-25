@@ -942,4 +942,5 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="permission_write_contacts">Edycja kontaktów</string>
   <string name="privacy_settings">Prywatność</string>
   <string name="privacy_settings_title">Polityka prywatności</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>

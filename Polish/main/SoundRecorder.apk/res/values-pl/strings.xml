@@ -431,4 +431,19 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="tab_all">Wszystkie</string>
   <string name="tab_apps">Aplikacje</string>
   <string name="tab_call">Połączenia</string>
+  <string name="allowed">Przyznano</string>
+  <string name="not_allowed">Nie przyznano</string>
+  <string name="permission_desc">Szczegóły dot. uprawnień</string>
+  <string name="permission_dialog_cancel">Anuluj</string>
+  <string name="permission_dialog_ok">Ustawienia</string>
+  <string name="permission_record">Nagrywanie dźwięku</string>
+  <string name="permission_record_description">W celu świadczenia usług nagrywania dźwięku</string>
+  <string name="permission_storage">Dostęp do pamięci</string>
+  <string name="permission_storage_description">W celu zarządzania nagraniami i pobierania ich z Chmury</string>
+  <string name="permission_storage_description_for_download">W celu pobierania nagrań z Chmury</string>
+  <string name="permission_storage_description_for_manage_files">W celu zarządzania nagraniami</string>
+  <string name="privacy_settings">Prywatność</string>
+  <string name="record_permission_dialog_title">Wymagane uprawnienia dostępu do mikrofonu</string>
+  <string name="storage_permission_dialog_title">Wymagane uprawnienia dostępu do pamięci</string>
+  <string name="view_privacy">Wyświetl Politykę prywatności</string>
 </resources>

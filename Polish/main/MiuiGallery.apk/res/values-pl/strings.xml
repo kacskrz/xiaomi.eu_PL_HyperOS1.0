@@ -3011,4 +3011,5 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
   <string name="privacy_rejected">Wycofanie zgody na warunki umów</string>
   <string name="privacy_rejected_map">Wycofaj zgodę na warunki Polityki prywatności Mapy Galerii</string>
   <string name="privacy_rejected_map_detail">Wycofanie przez Ciebie zgody na warunki Polityki prywatności Mapy Galerii zostanie potraktowane jako odmowa akceptacji jej usług. Inne funkcje i usługi Galerii nadal będą funkcjonować normalnie. Wycofać zgodę?</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>

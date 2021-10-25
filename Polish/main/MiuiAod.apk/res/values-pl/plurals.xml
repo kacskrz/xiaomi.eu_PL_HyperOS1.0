@@ -75,4 +75,14 @@
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"Czas odtwarzania animacji nie może przekroczyć %d sekund.
+Dłuższe animacje zostaną w tym momencie zatrzymane."</item>
+        <item quantity="one">"Czas odtwarzania animacji nie może przekroczyć %d sekundy.
+Dłuższe animacje zostaną w tym momencie zatrzymane."</item>
+        <item quantity="few">"Czas odtwarzania animacji nie może przekroczyć %d sekund.
+Dłuższe animacje zostaną w tym momencie zatrzymane."</item>
+        <item quantity="many">"Czas odtwarzania animacji nie może przekroczyć %d sekund.
+Dłuższe animacje zostaną w tym momencie zatrzymane."</item>
+    </plurals>
 </resources>
