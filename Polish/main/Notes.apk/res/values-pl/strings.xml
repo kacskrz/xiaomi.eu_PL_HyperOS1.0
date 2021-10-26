@@ -857,4 +857,8 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="widget_size_item_big">Duży</string>
   <string name="widget_size_item_medium">Średni</string>
   <string name="widget_size_item_small">Mały</string>
+  <string name="action_collapse">Ukryj</string>
+  <string name="action_expand">Pokaż więcej</string>
+  <string name="canvas_is_too_large_to_share_phone">Ten element jest zbyt duży, aby go udostępnić</string>
+  <string name="hand_write_syncing_phone">Synchronizacja…</string>
 </resources>

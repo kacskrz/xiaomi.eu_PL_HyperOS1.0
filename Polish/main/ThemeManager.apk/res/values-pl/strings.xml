@@ -1279,4 +1279,186 @@ dd.M."</string>
   <string name="privacy_settings">Prywatność</string>
   <string name="storage_migration_exit_msg">Aby aplikacja Motywy była kompatybilna z nowymi wersjami Androida, pobrane przez Ciebie elementy zostały przeniesione do nowej lokalizacji. Zrestartuj aplikację, aby zastosować zmiany i wyświetlić pobrane przez Ciebie treści.</string>
   <string name="storage_permission_denied_desc">Aby móc wyświetlać elementy, zezwól aplikacji Motywy na dostęp do pamięci</string>
+    <string name="friday">Piątek</string>
+    <string name="friday_short">Pt</string>
+    <string name="friday_shortest">Pt</string>
+    <string name="monday">Poniedziałek</string>
+    <string name="monday_short">Pon</string>
+    <string name="monday_shortest">Pon</string>
+    <string name="month_april">kwietnia</string>
+    <string name="month_april_short">kwi</string>
+    <string name="month_april_shortest">Kw</string>
+    <string name="month_august">sierpnia</string>
+    <string name="month_august_short">sie</string>
+    <string name="month_august_shortest">Si</string>
+    <string name="month_december">grudnia</string>
+    <string name="month_december_short">gru</string>
+    <string name="month_december_shortest">Gr</string>
+    <string name="month_february">lutego</string>
+    <string name="month_february_short">lut</string>
+    <string name="month_february_shortest">Lut</string>
+    <string name="month_january">stycznia</string>
+    <string name="month_january_short">Sty</string>
+    <string name="month_january_shortest">St</string>
+    <string name="month_july">lipca</string>
+    <string name="month_july_short">lip</string>
+    <string name="month_july_shortest">Lip</string>
+    <string name="month_june">czerwca</string>
+    <string name="month_june_short">cze</string>
+    <string name="month_june_shortest">Cz</string>
+    <string name="month_march">marca</string>
+    <string name="month_march_short">mar</string>
+    <string name="month_march_shortest">Mar</string>
+    <string name="month_may">maja</string>
+    <string name="month_may_short">maj</string>
+    <string name="month_may_shortest">Maj</string>
+    <string name="month_november">listopada</string>
+    <string name="month_november_short">lis</string>
+    <string name="month_november_shortest">Li</string>
+    <string name="month_october">października</string>
+    <string name="month_october_short">paź</string>
+    <string name="month_october_shortest">Paź</string>
+    <string name="month_september">września</string>
+    <string name="month_september_short">wrz</string>
+    <string name="month_september_shortest">Wrz</string>
+    <string name="saturday">Sobota</string>
+    <string name="saturday_short">Sob</string>
+    <string name="saturday_shortest">Sob</string>
+    <string name="sunday">Niedziela</string>
+    <string name="sunday_short">Ndz</string>
+    <string name="sunday_shortest">Nd</string>
+    <string name="thursday">Czwartek</string>
+    <string name="thursday_short">Czw</string>
+    <string name="thursday_shortest">Cz</string>
+    <string name="tuesday">Wtorek</string>
+    <string name="tuesday_short">Wt</string>
+    <string name="tuesday_shortest">W</string>
+    <string name="wednesday">Środa</string>
+    <string name="wednesday_short">Śr</string>
+    <string name="wednesday_shortest">Śr</string>
+    <string name="allow">Przyznano</string>
+    <string name="do_not_allow">Ograniczono</string>
+    <string name="not_allow">Nie przyznano</string>
+    <string name="pad_fold_exit_wallpaper_warning_content">"Po wylogowaniu nie będzie można wykonać następujących czynności:
+Wyświetlanie i korzystanie z zakupionych bądź dodanych do ulubionych elementów."</string>
+    <string name="pad_fold_exit_wallpaper_warning_title">Wylogować się z Tapet i personalizacji?</string>
+    <string name="pad_fold_log_in_theme_detail"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Polityki prywatności&lt;/a>&lt;/font> Tapet i personalizacji, a także warunkami &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Umowy użytkownika&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> oraz &lt;a href=\"%4$s\">Polityki prywatności&lt;/a>&lt;/font> Konta Xiaomi (w celu logowania się przy użyciu systemowego konta)."</Data></string>
+    <string name="pad_fold_log_in_wallpaper">Zaloguj się do Tapet i personalizacji</string>
+    <string name="pad_fold_no_permission">Wymagane uprawnienia do pamięci</string>
+    <string name="pad_fold_no_permission_detail">Aby móc zmieniać preferencje dot. personalizacji i zapisywać pobrane elementy, najpierw udziel tej funkcji dostępu do pamięci.</string>
+    <string name="personalize">Personalizacja</string>
+    <string name="phone_exit_theme_warning_content">"Po wylogowaniu nie będzie można wykonać następujących czynności:
+1. Wyświetlanie i korzystanie z zakupionych bądź dodanych do ulubionych elementów.
+2. Dodawanie komentarzy i polubień, obserwowanie innych osób i interakcja z nimi."</string>
+    <string name="phone_exit_theme_warning_title">Wylogować się z Motywów?</string>
+    <string name="phone_log_in_theme">Zaloguj się do Motywów</string>
+    <string name="phone_log_in_theme_detail"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Polityki prywatności&lt;/a>&lt;/font> Motywów, a także warunkami &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Umowy użytkownika&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> oraz &lt;a href=\"%4$s\">Polityki prywatności&lt;/a>&lt;/font> Konta Xiaomi (w celu logowania się przy użyciu systemowego konta)."</Data></string>
+    <string name="pref_read_write_function_detail">W celu zmieniania preferencji dot. personalizacji i zapisywania pobranych elementów</string>
+    <string name="pref_reading_the_application_list_detail">W celu korzystania z przezroczystych tapet</string>
+    <string name="privacy_action_failed_net_content">Wystąpił błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="privacy_action_failed_server_content">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="privacy_action_failed_title">Błąd</string>
+    <string name="privacy_confirm_logoff_and_exit">Rezygnuj z usług</string>
+    <string name="privacy_confirm_revoke_and_exit_btn">Wycofaj zgodę</string>
+    <string name="privacy_exit_btn">Wyjdź</string>
+    <string name="privacy_give_up_logoff">Wstecz</string>
+    <string name="privacy_give_up_revoke_btn">Wstecz</string>
+    <string name="privacy_i_know_btn">Kontynuuj</string>
+    <string name="privacy_important_prompt_title">Uwaga</string>
+    <string name="privacy_log_off_succeed">Pomyślnie zrezygnowano z usług</string>
+    <string name="privacy_loging_off_warning">Rezygnacja z usług…</string>
+    <string name="privacy_logoff_services_title">Rezygnacja z usług</string>
+    <string name="privacy_logoff_theme_content_1">1. Wszystkie zamówienia (włącznie z płatnymi) utworzone z urządzeń Xiaomi. Nie będzie można już używać zakupionych elementów.</string>
+    <string name="privacy_logoff_theme_content_2">2. Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi.</string>
+    <string name="privacy_logoff_theme_content_5">5. Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywrócone zostaną domyślne preferencje dot. personalizacji.</string>
+    <string name="privacy_logoff_theme_service_warning">Po anulowaniu usług permanentnie usunięte zostaną następujące elementy:</string>
+    <string name="privacy_network_exception">Wystąpił błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="privacy_pad_fold_Read_write_storage">Dostęp do pamięci</string>
+    <string name="privacy_pad_fold_entry">Prywatność</string>
+    <string name="privacy_pad_fold_logoff_service_content">Rezygnuj z usług Tapet i personalizacji</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Wszystkie tapety, czcionki i dzwonki pobrane na to urządzenie.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Wszystkie preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Zanim kontynuujesz, upewnij się, że masz prawo do rezygnacji z usług.
+2. Rezygnacja z usług Tapet i personalizacji nie wpłynie na korzystanie z innych produktów Xiaomi.
+3. Rezygnacja z usług jest nieodwracalna. Zanim kontynuujesz, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po rezygnacji z usług nie będzie można cofnąć tej decyzji. Po rezygnacji z usług następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"Wszystkie zamówienia (włącznie z płatnymi) utworzone z urządzeń Xiaomi. Nie będzie można już używać zakupionych elementów.
+Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi.
+Wszystkie tapety, czcionki i dzwonki pobrane na to urządzenie.
+Wszystkie preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.
+Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywrócone zostaną domyślne preferencje dot. personalizacji."</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Rezygnacja z usług nie oznacza zwolnienia lub złagodzenia odpowiedzialności wynikającej z czynności dokonanych przed rezygnacją z usług.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Stanowisko dot. rezygnacji z usług Tapet i personalizacji</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Przed zrezygnowaniem z usług przeczytaj i zaakceptuj warunki \"Stanowiska dot. rezygnacji z usług Tapet i personalizacji\".</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"Zamierzasz zrezygnować z usług Tapet i personalizacji."</string>
+    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Stanowiska dot. rezygnacji z usług Tapet i personalizacji&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Stanowiska dot. wycofania zgody na warunki Polityki prywatności Tapet i personalizacji&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_pad_fold_revoke_agree_content_3">3. Wszystkie tapety, czcionki i dzwonki pobrane na to urządzenie.</string>
+    <string name="privacy_pad_fold_revoke_agree_content_4">4. Wszystkie preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_prompt">Stanowisko dot. wycofania zgody na warunki Polityki prywatności Tapet i personalizacji</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_title">Zanim wycofasz swoją zgodę, przeczytaj i zaakceptuj warunki \"Stanowiska dot. wycofania zgody na warunki Polityki prywatności Tapet i personalizacji\".</string>
+    <string name="privacy_pad_fold_revoke_agree_introduce">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności Tapet i personalizacji. Informacje o Tobie, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ Tapety i personalizacja dostarczają swoje usługi w oparciu o niezbędne dane dot. Ciebie, wycofanie przez Ciebie zgody na ich warunki zostanie potraktowane jako odmowa akceptacji tychże usług."</string>
+    <string name="privacy_pad_fold_update_content">Zaktualizowano Politykę prywatności Tapet i personalizacji:</string>
+    <string name="privacy_pad_important_prompt_content">"Wygląda na to, że nie zaakceptowano jeszcze warunków Umowy użytkownika oraz Polityki prywatności. Mimo to podstawowe funkcje i usługi Tapet i personalizacji są nadal dostępne.
+Za każdym razem, gdy będziesz używać elementów przechowywanych na tym urządzeniu w celu personalizacji (np. ustawiania ich jako tapety bądź dzwonki), zostaniesz zapytany o udzielenie dostępu tej aplikacji do pamięci urządzenia."</string>
+    <string name="privacy_permission_management_description">Szczegóły dot. uprawnień</string>
+    <string name="privacy_permission_related_content">Uprawnienia</string>
+    <string name="privacy_permit_privacy_policy_content">"Nie będzie można używać tych usług, dopóki nie wyrazisz zgody na warunki nowej wersji &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Polityki prywatności&lt;/font>&lt;/a>. Czy chcesz to zrobić teraz?"</string>
+    <string name="privacy_phone_important_prompt_content">"Wygląda na to, że nie zaakceptowano jeszcze warunków Umowy użytkownika oraz Polityki prywatności. Mimo to podstawowe funkcje i usługi Motywów są nadal dostępne.
+Za każdym razem, gdy będziesz używać elementów przechowywanych na tym urządzeniu w celu personalizacji (np. ustawiania ich jako tapety bądź dzwonki), zostaniesz zapytany o udzielenie dostępu tej aplikacji do pamięci urządzenia."</string>
+    <string name="privacy_phone_logoff_service_content">Rezygnacja z usług Motywów</string>
+    <string name="privacy_phone_logoff_theme_content_3">3. Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.</string>
+    <string name="privacy_phone_logoff_theme_content_4">4. Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Zanim kontynuujesz, upewnij się, że masz prawo do rezygnacji z usług.
+2. Zrezygnowanie z usług Motywów nie wpłynie na korzystanie z innych produktów Xiaomi.
+3. Rezygnacja z usług jest nieodwracalna. Zanim kontynuujesz, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po rezygnacji z usług nie będzie można cofnąć tej decyzji. Po rezygnacji z usług następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_2">"Wszystkie zamówienia (włącznie z płatnymi) utworzone z urządzeń Xiaomi. Nie będzie można już używać zakupionych elementów.
+Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi.
+Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.
+Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.
+Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywrócone zostaną domyślne preferencje dot. personalizacji."</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Rezygnacja z usług nie oznacza zwolnienia lub złagodzenia odpowiedzialności wynikającej z czynności dokonanych przed rezygnacją z usług.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_prompt">Stanowisko dot. rezygnacji z usług Motywów</string>
+    <string name="privacy_phone_logoff_theme_service_detail_title">Przed rezygnacją z usług przeczytaj i zaakceptuj warunki \"Stanowiska dot. rezygnacji z usług Motywów\".</string>
+    <string name="privacy_phone_logoff_theme_service_introduce">"Zamierzasz zrezygnować z usług Motywów."</string>
+    <string name="privacy_phone_read_and_write_storage">Dostęp do pamięci</string>
+    <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"Potwierdzam, że przeczytano i zaakceptowano warunki \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Stanowiska dot. rezygnacji z usług Motywów&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy"><Data>"Potwierdzam, że przeczytano i zaakceptowano warunki \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Stanowiska dot. wycofania zgody na warunki Polityki prywatności Motywów&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_phone_revoke_agree_content_3">3. Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.</string>
+    <string name="privacy_phone_revoke_agree_content_4">4. Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.</string>
+    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Zanim kontynuujesz, upewnij się, że masz prawo do wycofania zgody.
+2. Wycofanie przez Ciebie zgody na warunki Polityki prywatności Motywów nie wpłynie na korzystanie z innych usług Xiaomi.
+3. Wycofanie zgody jest nieodwracalne. Zanim kontynuujesz, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po wycofaniu zgody nie będzie można cofnąć tej decyzji. Po wycofaniu zgody następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Wszystkie zamówienia (włącznie z płatnymi) utworzone na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi. Nie będzie można już używać zakupionych przez Ciebie elementów.
+Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi.
+Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.
+Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.
+Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywrócone zostaną domyślne preferencje dot. personalizacji."</string>
+    <string name="privacy_phone_revoke_agree_detail_content_3">"4. Po wycofaniu zgody na warunki Polityki prywatności Motywów Xiaomi zaprzestanie gromadzenia informacji o Tobie. Dane, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej.
+5. Wycofanie zgody nie oznacza zwolnienia lub złagodzenia odpowiedzialności wynikającej z czynności dokonanych przed wycofaniem tejże zgody."</string>
+    <string name="privacy_phone_revoke_agree_detail_prompt">Stanowisko dot. wycofania zgody na warunki Polityki prywatności Motywów</string>
+    <string name="privacy_phone_revoke_agree_detail_title">Przed wycofaniem swojej zgody przeczytaj i zaakceptuj warunki \"Stanowiska dot. wycofania zgody na warunki Polityki prywatności Motywów\".</string>
+    <string name="privacy_phone_revoke_agree_introduce">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności Motywów. Informacje o Tobie, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ Motywy dostarczają swoje usługi w oparciu o niezbędne dane dot. Ciebie, wycofanie przez Ciebie zgody na ich warunki zostanie potraktowane jako odmowa akceptacji tychże usług."</string>
+    <string name="privacy_phone_update_content">Zaktualizowano Politykę prywatności Motywów:</string>
+    <string name="privacy_read_statement">Najpierw zaakceptuj warunki korzystania z usług</string>
+    <string name="privacy_read_the_updated_privacy_policy_content">"Zanim kontynuujesz, przeczytaj i zaakceptuj warunki nowej wersji &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Polityki prywatności&lt;/font>&lt;/a>."</string>
+    <string name="privacy_reading_the_application_list">Dostęp do listy aplikacji zainstalowanych na urządzeniu</string>
+    <string name="privacy_revoke_agree_content">Wycofanie zgody na warunki umów</string>
+    <string name="privacy_revoke_agree_content_1">1. Wszystkie zamówienia (włącznie z płatnymi) utworzone na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi. Nie będzie można już używać zakupionych przez Ciebie elementów.</string>
+    <string name="privacy_revoke_agree_content_2">2. Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi.</string>
+    <string name="privacy_revoke_agree_content_5">5. Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywrócone zostaną domyślne preferencje dot. personalizacji.</string>
+    <string name="privacy_revoke_agree_data_warning">Po wycofaniu zgody na warunki umów następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):</string>
+    <string name="privacy_revoke_succeed">Pomyślnie wycofano zgodę</string>
+    <string name="privacy_revoking_warning">Wycofywanie zgody…</string>
+    <string name="privacy_update_prompt_title">Zaktualizowano Politykę prywatności</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Zanim kontynuujesz, upewnij się, że masz prawo do wycofania zgody.
+2. Wycofanie przez Ciebie zgody na warunki Polityki prywatności Tapet i personalizacji nie wpłynie na korzystanie z innych usług Xiaomi.
+3. Wycofanie zgody jest nieodwracalne. Zanim kontynuujesz, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po wycofaniu zgody nie będzie można cofnąć tej decyzji. Po wycofaniu zgody następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Wszystkie zamówienia (włącznie z płatnymi) utworzone na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi. Nie będzie można już używać zakupionych przez Ciebie elementów.
+Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi.
+Wszystkie tapety, czcionki i dzwonki pobrane na to urządzenie.
+Wszystkie preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.
+Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywrócone zostaną domyślne preferencje dot. personalizacji."</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Po wycofaniu zgody na warunki Polityki prywatności Tapet i personalizacji Xiaomi zaprzestanie gromadzenia informacji o Tobie. Dane, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej.
+5. Wycofanie zgody nie oznacza zwolnienia lub złagodzenia odpowiedzialności wynikającej z czynności dokonanych przed wycofaniem tejże zgody."</string>
+    <string name="theme_log_out">Wyloguj</string>
 </resources>

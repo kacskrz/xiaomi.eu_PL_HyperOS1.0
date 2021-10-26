@@ -1181,4 +1181,6 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="revoke_privacy_failed">"Nie udało się wycofać zgody"</string>
   <string name="revoke_privacy_title">Wycofanie zgody na warunki umów</string>
   <string name="gallery_auto_sync_fail_noti_content">Brak miejsca w Chmurze. Ulepsz swój plan Chmury, aby dokończyć synchronizację.</string>
+  <string name="talkback_hide_passcode">Ukryj kod dostępu</string>
+  <string name="talkback_show_passcode">Pokaż kod dostępu</string>
 </resources>

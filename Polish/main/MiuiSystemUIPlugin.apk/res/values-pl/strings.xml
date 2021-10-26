@@ -333,4 +333,10 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
     <string name="quick_settings_pcmode_error">Nie znaleziono aplikacji. Zainstaluj ją i spróbuj ponownie.</string>
+    <string name="close">Zamknij</string>
+    <string name="date_time_picker_dialog_title">Uataw datę i czas</string>
+    <string name="miuix_appcompat_deselect_all">Odznacz</string>
+    <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
+    <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+    <string name="send">Wyślij</string>
 </resources>

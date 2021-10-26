@@ -116,4 +116,7 @@ Przejdź na stronę i.mi.com/ss i złóż prośbę o odblokowanie urządzenia."<
   <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"W celu uzyskania numeru telefonu, aby zlokalizować urządzenie, gdy nie jest ono połączone z Internetem"</string>
   <string name="custom_define_permission_desc_android.permission.SEND_SMS">"W celu zlokalizowania tego urządzenia, gdy nie jest ono połączone z Internetem"</string>
   <string name="custom_define_permission_desc_android.permission_group.LOCATION">W celu zlokalizowania tego urządzenia i przełączenia go w tryb zgubienia</string>
+  <string name="talkback_back">Wstecz</string>
+  <string name="talkback_hide_pwd">Ukryj hasło</string>
+  <string name="talkback_show_pwd">Pokaż hasło</string>
 </resources>

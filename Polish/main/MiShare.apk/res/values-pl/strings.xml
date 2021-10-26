@@ -229,4 +229,7 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="custom_define_permission_desc_android.permission_group.LOCATION">W celu transferu elementów za pomocą Bluetooth i Wi-Fi</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">W celu wysyłania i otrzymywania plików</string>
   <string name="menu_item_permission_title">Szczegóły dot. uprawnień</string>
+  <string name="global_pad">Mój tablet</string>
+  <string name="global_pc">Mój laptop</string>
+  <string name="global_phone">Mój telefon</string>
 </resources>
