@@ -749,4 +749,5 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
   <string name="sender_scanning_code">Umieść obrazek w ramce</string>
   <string name="sender_scanning_connecting">Łączenie z nowym urządzeniem…</string>
   <string name="skip_transfer">Pomiń</string>
+  <string name="app_update_title">Zaktualizuj wszystkie aplikacje</string>
 </resources>

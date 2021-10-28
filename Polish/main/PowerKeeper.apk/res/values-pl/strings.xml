@@ -254,4 +254,6 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="high_temp_benchmark_state_message">"Wygląda na to, że Twoje urządzenie jest obecnie zbyt gorące. Uruchom tę aplikację, gdy się ono ochłodzi: "</string>
   <string name="title_history">Historia</string>
   <string name="title_home">Główny</string>
+  <string name="kill_pkg_toast_message">"Nie można używać aplikacji ze względu na przegrzewanie się urządzenia"</string>
+  <string name="stricter_high_temp_state_message">"Wygląda na to, że urządzenie jest przegrzane. Obecnie będzie można korzystać tylko z aplikacji Telefon i Kontakty."</string>
 </resources>

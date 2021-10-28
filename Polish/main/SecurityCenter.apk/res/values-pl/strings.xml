@@ -5179,7 +5179,19 @@ Wycofać zgodę?"</string>
     <string name="custom_define_permission_desc_android.permission.READ_SMS">W celu używania Listy blokowanych i rozpoznawania wiadomości od Twojego operatora</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">W celu dostarczania informacji o Twojej lokalizacji dla funkcji Alarmowy sygnał SOS</string>
     <string name="gtb_dialog_privacy_speed_message">"Niedługo skorzystasz z funkcji Xunyou Game Booster. Usługa będzie gromadzić ID Twojego konta Xiaomi, aby rejestrować czas trwania Twojego członkostwa."</string>
-    <string name="gtb_dialog_privacy_speed_tips">"Potwierdzam, że zapoznano się i zaakceptowano warunki Polityki prywatności Xunyou Game Booster."</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xunyou Game Booster."</Data></string>
     <string name="gtb_dialog_privacy_voice_message">"Niedługo skorzystasz z funkcji Xunyou Game Voice Changer. Usługa będzie gromadzić ID Twojego konta Xiaomi, aby rejestrować czas trwania Twojego członkostwa."</string>
-    <string name="gtb_dialog_privacy_voice_tips">"Potwierdzam, że zapoznano się i zaakceptowano warunki Polityki prywatności Xunyou Game Voice Changer."</string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xunyou Game Voice Changer."</Data></string>
+    <string name="adv_permission_text">Uprawnienia</string>
+    <string name="adv_privacy_text">Prywatność</string>
+    <string name="adv_version_text">Wersja: %s</string>
+    <string name="vb_video_effects_3d">Dźwięk przestrzenny</string>
+    <string name="vb_video_effects_3d_summary">Zwiększ głębię reprodukcji dźwięku dla słuchawek i głośników</string>
+    <string name="vb_video_effects_3d_surround">Dźwięk przestrzenny</string>
+    <string name="vb_video_effects_liquid_summary">Zwiększ klarowność dialogów w filmach</string>
+    <string name="vb_video_effects_only_headphone">Tylko ze słuchawkami</string>
+    <string name="vb_video_effects_some_headphone">Wspierane przez wybrane słuchawki</string>
+    <string name="vb_video_effects_spatial">Śledzenie ruchu głowy</string>
+    <string name="vb_video_effects_spatial_summary">"Dostosuj dźwięk przestrzenny w oparciu o ruchy głowy
+*Wspierane tylko przez wybrane gamingowe słuchawki"</string>
 </resources>

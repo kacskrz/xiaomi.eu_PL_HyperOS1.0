@@ -1596,4 +1596,17 @@ Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojeg
   <string name="permission_phone_status_title">Dostęp do kont na urządzeniu</string>
   <string name="permission_write_contacts_subtitle">"W celu wyświetlania i zmieniania adresów e-mail kontaktów"</string>
   <string name="permission_write_external_storage_title">Dostęp do zdjęć i plików na urządzeniu i zapis elementów</string>
+  <string name="account_child_dialog_neg_text">Wyjdź</string>
+  <string name="account_child_dialog_pos_text">Mam zgodę rodzica</string>
+  <string name="account_child_dialog_text">"Jeśli masz mniej niż 14 lat, poinformuj swoich rodziców, że muszą oni przeczytać i zaakceptować  \"Stanowisko Kingsoft dot. ochrony danych osobowych nieletnich\". Musisz także uzyskać ich zgodę na korzystanie z usług tej aplikacji i przekazywanie jej deweloperowi niezbędnych danych.
+Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach których Kingsoft przetwarza Twoje dane, przeczytaj \"Stanowisko Kingsoft dot. ochrony danych osobowych nieletnich\"."</string>
+  <string name="account_child_dialog_title">Stanowisko dot. ochrony danych osobowych nieletnich</string>
+  <string name="account_child_save_statement">Stanowisko Kingsoft dot. ochrony danych osobowych nieletnich</string>
+  <string name="account_permission_child_statement">Stanowisko dot. ochrony danych osobowych nieletnich</string>
+  <string name="account_permission_dialog_cancel_text">Wycofaj</string>
+  <string name="account_permission_dialog_text">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Umowy licencyjnej użytkownika końcowego, Polityki prywatności oraz Stanowiska dot. ochrony danych osobowych nieletnich. Nie będzie można wtedy korzystać z tej aplikacji, zaś wszystkie jej dane wygenerowane na tym urządzeniu zostaną usunięte."</string>
+  <string name="account_permission_dialog_title">Wycofanie zgody na warunki umów</string>
+  <string name="account_permission_private_policy">Polityka prywatności</string>
+  <string name="account_permission_user_privacy">Umowa licencyjna użytkownika końcowego</string>
+  <string name="privacy_and_private_permission">Zgoda na warunki Umowy użytkownika i Polityki prywatności</string>
 </resources>

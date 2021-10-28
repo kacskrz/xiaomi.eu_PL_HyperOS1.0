@@ -1674,7 +1674,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="accessibility_preview_shrink">Oddal</string>
   <string name="accessibility_preview_zoom_tip">Podgląd przybliżenia %1$.1fX</string>
   <string name="download_in_progress">Pobieranie…</string>
-  <string name="pref_hdr10_hdr10plus_video_mode_description">Optymalizuj kolory dla filmów w rozdzielczości 4K (HDR10+) oraz 8K (HDR10). Funkcja działa wyłącznie na urządzeniach kompatybilnych z technologią HDR10+/HDR10.</string>
+  <string name="pref_hdr10_hdr10plus_video_mode_description">Rejestruj filmy w wysokiej jakości w technologii HDR10+/HDR10, aby zoptymalizować kolory i dynamikę. Nagrane w ten sposób filmy mogą być odtwarzane wyłącznie na urządzeniach kompatybilnych z HDR10+ bądź HDR10.</string>
   <string name="professional_shortcut_long">Pro</string>
   <string name="professional_shortcut_short">Pro</string>
   <string name="doc_shortcut_long">Dokument</string>

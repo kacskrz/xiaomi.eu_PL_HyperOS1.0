@@ -1358,7 +1358,7 @@
     <string name="pa_picker_detail_net_error">Błąd sieci. Dotknij, aby spróbować ponownie.</string>
     <string name="pa_picker_detail_small_widget">Widżety</string>
     <string name="pa_picker_detail_theme_app_cta">Ustawienia</string>
-    <string name="pa_picker_detail_theme_app_cta_pre">"Aby móc używać tego widżetu, nadaj uprawnienia aplikacji Motywy. "</string>
+    <string name="pa_picker_detail_theme_app_cta_pre">"Aby móc używać tego widżetu, najpierw zezwól aplikacji Motywy na łączenie się z Internetem. "</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Ten element zostanie pobrany przez sieć Wi-Fi</string>
     <string name="pa_picker_home_app_group_title">Aplikacje z widżetami</string>
     <string name="pa_picker_home_group_more">Wszystko</string>
@@ -1366,7 +1366,7 @@
     <string name="pa_picker_home_search_hint">Szukaj</string>
     <string name="pa_picker_home_title">Dodaj widżety</string>
     <string name="pa_picker_item_retry">"Nie udało się załadować elementów. Spróbuj ponownie."</string>
-    <string name="pa_picker_list_app_footer_classic_widget">Klasyczne widżety</string>
+    <string name="pa_picker_list_app_footer_classic_widget">Widżety Androida</string>
     <string name="pa_picker_list_app_title">Aplikacje z widżetami</string>
     <string name="pa_picker_loading">Chwileczkę…</string>
     <string name="pa_picker_retry">Spróbuj ponownie</string>
@@ -1520,4 +1520,16 @@
     <string name="pa_edit_apply">Zastosuj</string>
     <string name="pa_picker_detail_bottom_bt_text_to_home">Dodaj na pulpit</string>
     <string name="pa_picker_detail_bottom_bt_text_to_minus">Dodaj do Asystenta</string>
+    <string name="pa_sports_add_followed">Dodaj obserwowane</string>
+    <string name="pa_sports_add_shown">Dodaj wyświetlane</string>
+    <string name="pa_sports_cancel_followed">Anuluj obserwowane</string>
+    <string name="pa_sports_cancel_shown">Anuluj wyświetlane</string>
+    <string name="pa_sports_followed">Obserwowane</string>
+    <string name="pa_sports_not_followed">Nieobserwowane</string>
+    <string name="pa_sports_not_shown">Niewyświetlane</string>
+    <string name="pa_sports_shown">Wyświetlane</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop" formatted="false">Lista aplikacji w sklepie z widżetami. %s element na liście aplikacji. Wybrano %s, numer %s na liście. Element zawiera %s widżetów, dotknij dwa razy, aby otworzyć opis widżetu.</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop" formatted="false">Lista aplikacji w sklepie z widżetami. %s element na liście aplikacji. Wybrano %s, numer %s na liście. Element zawiera %s widżetów, dotknij dwa razy, aby otworzyć opis widżetu.</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_third" formatted="false">Lista aplikacji w sklepie z widżetami. %s element na liście aplikacji. Wybrano %s, numer %s na liście. Element zawiera %s widżetów, dotknij dwa razy, aby otworzyć opis widżetu.</string>
+    <string name="pa_accessibility_picker_widget_group_item" formatted="false">Sklep z widżetami. Wybrano %s. Dotknij dwa razy, aby otworzyć opis widżetu. Element zawiera %s widżetów.</string>
 </resources>

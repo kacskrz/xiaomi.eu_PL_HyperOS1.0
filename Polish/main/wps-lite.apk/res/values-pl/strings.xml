@@ -281,7 +281,7 @@
     <string name="projection_fail">"Nie udało się przesłać ekranu. Sprawdź zewnętrzny ekran i spróbuj ponownie."</string>
     <string name="public_mi_agree_desc">Zezwól tej aplikacji na łączenie się z Internetem i przyznaj jej obowiązkowe uprawnienia wymienione powyżej.</string>
     <string name="public_mi_privacy_desc">W celu wyświetlania i zarządzania dokumentami na urządzeniu</string>
-    <string name="public_mi_privacy_purpose">Witaj w Przeglądarce dokumentów Mi. Dzięki niej możesz wyświetlać dokumenty w różnych formatach.</string>
+    <string name="public_mi_privacy_purpose">Witaj w Przeglądarce dokumentów Mi (dostarczanej przez WPS). Dzięki niej możesz wyświetlać dokumenty w różnych formatach.</string>
     <string name="public_pdf_converter_item_name">PDF</string>
     <string name="public_pdf_converter_normal">Normalny</string>
     <string name="public_pdf_converter_open_tip">Otworzyć ten dokument?</string>
