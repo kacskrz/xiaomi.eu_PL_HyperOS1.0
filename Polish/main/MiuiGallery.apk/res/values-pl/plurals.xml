@@ -687,4 +687,9 @@
         <item quantity="few">%d wybrane elementy zostaną permanentnie usunięte. Usunąć mimo to?</item>
         <item quantity="one">Wybrany element zostanie permanentnie usunięty. Usunąć mimo to?</item>
     </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d albumów, włącznie z %1$s</item>
+        <item quantity="few">%2$d albumy, włącznie z %1$s</item>
+        <item quantity="one">%2$d album (%1$s)</item>
+    </plurals>
 </resources>
