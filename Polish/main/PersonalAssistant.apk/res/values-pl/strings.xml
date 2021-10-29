@@ -1263,7 +1263,6 @@
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Wybrano widżet %s. Przeciągnij, aby dodać ten element na pulpit.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Wybrano widżet %s. Przeciągnij, aby dodać ten element do Asystenta MIUI.</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Sklep z widżetami. Wybierz, aby wyświetlić wszystkie widżety dla %s. Dotknij dwa razy, aby wyświetlić wszystkie widżety dla %s.</string>
-    <string name="pa_accessibility_picker_widget_group_item" formatted="false">Sklep z widżetami. Wybrano %s. Dotknij dwa razy, aby otworzyć %s.</string>
     <string name="pa_accessibility_picker_widget_item_add_to_desktop">Sklep z widżetami. Wybrano %s. Przeciągnij, aby dodać ten element na pulpit. Dotknij dwa razy, aby wyświetlić szczegóły widżetu.</string>
     <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">Sklep z widżetami. Wybrano %s. Przeciągnij, aby dodać ten element do Asystenta MIUI. Dotknij dwa razy, aby wyświetlić szczegóły widżetu.</string>
     <string name="pa_accessibility_picker_widget_item_add_to_third">Sklep z widżetami. Wybrano %s. Przeciągnij, aby go teraz użyć. Dotknij dwa razy, aby wyświetlić szczegóły widżetu.</string>
