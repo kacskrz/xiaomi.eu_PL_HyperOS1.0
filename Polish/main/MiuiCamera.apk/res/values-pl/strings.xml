@@ -1997,4 +1997,14 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="manually_raw_tip">"Nie można używać przybliżenia w formacie RAW"</string>
   <string name="pref_auto_boot">Autostart</string>
   <string name="pref_auto_boot_summary">Zezwól aplikacji Aparat na autostart, aby była ona bardziej responsywna. Możesz zarządzać dostępem do autostartu w szczegółach dot. tej aplikacji w Ustawieniach.</string>
+  <string name="pref_retain_ai_scene">Aparat SI</string>
+  <string name="pref_retain_ai_scene_description">Zachowaj stan aparatu SI z poprzedniej sesji</string>
+  <string name="pref_retain_beauty">Upiększanie</string>
+  <string name="pref_retain_beauty_description">Zachowaj preferencje Upiększania ustawione w trakcie poprzedniej sesji</string>
+  <string name="pref_retain_camera_mode">Tryb Aparatu</string>
+  <string name="pref_retain_camera_mode_description">Zachowaj poprzednio używany tryb wraz z wyborem przedniego bądź tylnego aparatu</string>
+  <string name="pref_retain_camera_status_description">Zachowaj poprzednio używany tryb zamiast przełączania się na \"Zdjęcia\"</string>
+  <string name="pref_retain_camera_status_title">Zachowywanie stanu Aparatu</string>
+  <string name="pref_retain_live_shot">Dynamiczne ujęcia</string>
+  <string name="pref_retain_live_shot_description">Zachowaj stan Dynamicznych ujęć ustawiony w trakcie poprzedniej sesji</string>
 </resources>
