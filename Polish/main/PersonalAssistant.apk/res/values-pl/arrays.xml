@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="agenda_weeks_of_year">
-        <item>1-szy tydzień</item>
-        <item>2-gi tydzień</item>
-        <item>3-ci tydzień</item>
-        <item>%1$d-ty tydzień</item>
+        <item>1. tydzień</item>
+        <item>2. tydzień</item>
+        <item>3. tydzień</item>
+        <item>%1$d. tydzień</item>
     </string-array>
     <string-array name="base_day_time_space">
         <item>Noc</item>
