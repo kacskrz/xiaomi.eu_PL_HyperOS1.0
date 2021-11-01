@@ -160,7 +160,7 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
-    <string name="privacy_detail"><Data>Aby móc działać poprawnie, aplikacja wymaga połączenia z Internetem oraz możliwości gromadzenia wymaganych danych osobowych Aby w pełni zrozumieć swoje prawa jako użytkownika, a także poznać metody, za pomocą których Xiaomi używa Twoich danych, przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%2$s>Polityki prywatności&lt;/a>.</Data></string>
+    <string name="privacy_detail">Zezwól tej aplikacji na łączenie się z internetem i przyznaj wymagane uprawnienia, zanim przejdziesz dalej.</string>
     <string name="privacy_detail_extra"><Data>Niektóre funkcje są dostarczane przez zewnętrznego dostawcę - HappyCast. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności HappyCast&lt;/a> oraz &lt;a href=%2$s>Oświadczenia prawnego HappyCast&lt;/a>.</Data></string>
     <string name="privacy_explain">"Witaj w Przesyłaniu ekranu! Ta funkcja pozwala Ci na projekcję elementów z ekranu Twojego telefonu na większym, zewnętrznym monitorze. Aby móc działać poprawnie, aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</string>
     <string name="privacy_negative">Wyjdź</string>
@@ -262,4 +262,28 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="p2p_location_des">W celu połączenia Twojego urządzenia z zewnętrznymi monitorami</string>
     <string name="help_page_text_09_global">"Dotknij przełącznika \"Wyświetl bezprzewodowo\" w Panelu powiadomień bądź Centrum funkcji. Aby zapewnić bardziej stabilną łączność, włącz zarówno Wi-Fi, jak i Bluetooth."</string>
     <string name="toast_invisible_mode">"Jesteś incognito. Nie można teraz korzystać z przesyłania ekranu."</string>
+    <string name="permission_allowed">Przyznano</string>
+    <string name="permission_uballowed">Nie przyznano</string>
+    <string name="pre_privacy_setting_title">Prywatność</string>
+    <string name="privacy_revoke_confirm_cancel">Anuluj</string>
+    <string name="privacy_revoke_confirm_message">Nie będzie można korzystać z funkcji przesyłania, dopóki nie zezwolisz na świadczenie usług w oparciu o gromadzenie niezbędnych danych osobowych. Wycofać zgodę na Politykę prywatności HappyCast?</string>
+    <string name="privacy_revoke_confirm_sure">OK</string>
+    <string name="privacy_revoke_confirm_title">Nie można używać usług</string>
+    <string name="privacy_revoke_dialog_agree">Zgadzam się</string>
+    <string name="privacy_revoke_dialog_message">Kontynuacja oznacza cofnięcie zgody na warunki Polityki prywatności HappyCast. Zebrane i przechowywane już dane osobowe zostaną usunięte w określonym czasie, zgodnie z obowiązującymi przepisami. Jako iż usługi HappyCast są świadczone na podstawie zbierania niezbędnych danych osobowych, cofnięcie zgody będzie równoznaczne z odmową akceptacji usług HappyCast. Wycofać zgodę?</string>
+    <string name="privacy_revoke_dialog_revoke">Wycofaj</string>
+    <string name="privacy_revoke_dialog_title">Cofnięcie zgody</string>
+    <string name="privacy_setting_category_1">Polityka prywatności</string>
+    <string name="privacy_setting_category_2">Polityka prywatności HappyCast</string>
+    <string name="privacy_setting_category_3">Uprawnienia</string>
+    <string name="privacy_setting_permission_manager">Zarządzaj uprawnieniami</string>
+    <string name="privacy_setting_revoke_lelink_policy">Cofnięcie zgody na Politykę prywatności HappyCast</string>
+    <string name="privacy_setting_show_authority">Szczegóły uprawnień</string>
+    <string name="privacy_setting_show_lelink_law">Zobacz oświadczenie prawne HappyCast</string>
+    <string name="privacy_setting_show_lelink_policy">Wyświetl Politykę prywatności HappyCast</string>
+    <string name="privacy_setting_show_policy">Wyświetl Politykę prywatności</string>
+    <string name="privacy_setting_show_user_agreement">Wyświetl Umowę użytkownika</string>
+    <string name="privacy_update_dialog_negative_btn">Anuluj</string>
+    <string name="privacy_update_dialog_positive_btn">Zgadzam się</string>
+    <string name="privacy_update_dialog_quit">Wyjdź</string>
 </resources>

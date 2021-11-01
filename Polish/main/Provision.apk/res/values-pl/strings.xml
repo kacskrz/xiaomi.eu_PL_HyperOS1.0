@@ -114,18 +114,18 @@ Później będziesz mógł zainstalować inne klawiatury z Google Play."</string
   <string name="other_settings_user_experience">Opinie użytkowników</string>
   <string name="other_settings_user_experience_summary">"Pomóż nam w ulepszaniu produktów przez przesyłanie anonimowych danych."</string>
   <string name="other_settings_user_experience_summary_index">Szczegóły</string>
-  <string name="permission_account">Dostęp do kont na urządzeniu:</string>
+  <string name="permission_account">Dostęp do kont na urządzeniu</string>
   <string name="permission_account_introduction">W celu logowania się za pomocą konta Xiaomi</string>
   <string name="permission_application_package_introduction">Dostęp do pamięci urządzenia w celu parsowania i skanowania paczek instalacyjnych</string>
   <string name="permission_call_records">Dostęp do historii połączeń:</string>
   <string name="permission_call_records_introduction">Dostęp do historii połączeń w celu wyświetlania zablokowanych elementów</string>
   <string name="permission_call_state_introduction">W celu dostępu do stanu telefonu, nagrywania połączeń oraz przerywania nagrań, gdy nadejdzie połączenie</string>
   <string name="permission_clock_info_introduction">Zapisywanie danych alarmów</string>
-  <string name="permission_contact">Dostęp do kontaktów:</string>
+  <string name="permission_contact">Dostęp do kontaktów:/string>
   <string name="permission_contact_introduction">W celu dostarczania funkcjonalności Listy blokowanych oraz kontaktów alarmowych</string>
   <string name="permission_different_device_introduction">W celu identyfikacji usług pomiędzy różnymi urządzeniami</string>
   <string name="permission_different_info_introduction">W celu identyfikacji innych urządzeń</string>
-  <string name="permission_direct_call">Wykonywanie połączeń:</string>
+  <string name="permission_direct_call">Wykonywanie połączeń</string>
   <string name="permission_direct_call_introduction">W celu dodawania elementów do Listy blokowanych</string>
   <string name="permission_download_introduction">W celu zapisywania pobieranych plików w pamięci podręcznej, a następnie na urządzeniu</string>
   <string name="permission_imei_service">Dostęp do IMEI w celu dostarczania usług powiązanych z Twoim urządzeniem</string>
@@ -137,15 +137,15 @@ Później będziesz mógł zainstalować inne klawiatury z Google Play."</string
   <string name="permission_message_introduction">W celu wysyłania wiadomości do zablokowanych kontaktów</string>
   <string name="permission_phone_imei_device">Dostęp do IMEI w celu rozpoznawania urządzeń</string>
   <string name="permission_phone_network">Dostęp do typu sieci w celu optymalizacji i poprawiania pobieranych elementów</string>
-  <string name="permission_phone_service">Dostęp do numeru telefonu, IMEI oraz IMSI:</string>
+  <string name="permission_phone_service">Dostęp do numeru telefonu, IMEI oraz IMSI</string>
   <string name="permission_photo_introduction">W celu zapisywania zdjęć w galerii i publikowania statusów</string>
   <string name="permission_photo_video">Wykonywanie zdjęć i nagrywanie filmów:</string>
   <string name="permission_photo_video_introduction">W celu wykonywania zdjęć, nagrywania filmów i używania lampy błyskowej</string>
   <string name="permission_picture_introduction">W celu zapisywania, edycji i synchronizacji zdjęć i filmów</string>
-  <string name="permission_read_call_records">Edytowanie historii połączeń:</string>
+  <string name="permission_read_call_records">Edytowanie historii połączeń</string>
   <string name="permission_read_call_records_introduction">W celu dodawania elementów do historii połączeń i usuwania zablokowanych połączeń</string>
   <string name="permission_read_note_introduction">W celu dostępu do notatek oraz załączników</string>
-  <string name="permission_read_write_file">Odczyt i zapis zdjęć i plików na urządzeniu:</string>
+  <string name="permission_read_write_file">Odczyt i zapis zdjęć i plików na urządzeniu</string>
   <string name="permission_read_write_file_introduction">W celu dostępu do zdjęć i plików na urządzeniu oraz ich zapisywania</string>
   <string name="permission_recorder_file_introduction">W celu dostępu do nagrań audio oraz ich zapisu</string>
   <string name="permission_recording">Nagrywanie połączeń i dźwięku:</string>
@@ -250,7 +250,7 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="voice_assist_title">Wybudź głosem</string>
   <string name="welcome">Witamy</string>
   <string name="zone_picker_title">Strefa czasowa</string>
-  <string name="service_policy_download"><Data>Zanim kontynuujesz, przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności Xunlei&lt;/a > oraz &lt;a href=%1$s>Umowy użytkownika Xunlei Network Services&lt;/a >.</Data></string>
+  <string name="service_policy_download"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności Xunlei&lt;/a > oraz &lt;a href=%1$s>Umowy użytkownika Xunlei Network Services&lt;/a >.</Data></string>
   <string name="service_name_fast_pairing">Mi Link</string>
   <string name="fast_pairing_introduction">Funkcja Mi Link pozwala na połączenie z urządzeniami Bluetooth znajdującymi się w pobliżu za pomocą usługi MIUI Bluetooth.</string>
   <string name="disagreement_abnormal_running_fast_pairing">"Jeśli nie zgodzisz się na nadanie tych uprawnień, nie będzie można korzystać z tej aplikacji. W każdym momencie możesz ograniczyć jej uprawnienia bądź wyłączyć tą funkcję w Ustawieniach."</string>
@@ -329,7 +329,7 @@ Możesz kontrolować tę funkcję z poziomu Ustawień > Hasła i bezpieczeństwo
   <string name="cookies_content_one">"Kiedy dotkniesz obrazków i wspomnień zgromadzonych w Tapetach Blokady, ich pełne wersje zostaną otwarte w Twojej przeglądarce. Firma trzecia, która dostarcza treści, czyli Taboola, może wtedy polecać dodatkowe treści i reklamy dopasowane do Twoich zainteresowań. Jeśli wyrazisz zgodę na aktywację tej funkcji, Taboola umieści pliki cookie na Twoim urządzeniu za pośrednictwem przeglądarki zgodnie z &lt;a href =%1$s>Polityką plików cookie&lt;/a>. Jeśli jednak tej zgody nie udzielisz, Tapety Blokady nadal będą pojawiać się na Twoim Ekranie blokady, zaś pełne wspomnienia wciąż będą otwierane w Twojej przeglądarce, lecz dodatkowe rekomendacje nie będą już dopasowane w oparciu o Twoje zainteresowania. Możesz zmienić te preferencje w Ustawieniach w dowolnym momencie."</string>
   <string name="cookies_content_two">"Zdecyduj, czy chcesz, aby firma trzecia dostarczająca treści mogła używać plików cookies w celu personalizacji rekomendowanych treści i reklam w oparciu o Twoje zainteresowania."</string>
   <string name="cookies_title">Spersonalizowana treść i pliki cookie</string>
-  <string name="privacy_content_one">"Rekomendacje Tapet Blokady dostarcza firma trzecia, Taboola. Aby to robić, musi ona uzyskać dostęp i przechowywać nieosobiste dane, włącznie z językiem systemu i typem przeglądarki. Możesz dowiedzieć się, jak korzysta ona ze zgromadzonych danych, z odpowiednich dokumentów: &lt;a href =%1$s>Polityki prywatności&lt;/a> oraz &lt;a href =%2$s>Umowy użytkownika&lt;/a>. Zapoznaj się z tymi dokumentami, zanim kontynuujesz. Jeśli nie wyrażasz zgody na te warunki, usługi Tapet Blokady zostaną zdezaktywowane."</string>
+  <string name="privacy_content_one">"Rekomendacje Tapet Blokady dostarcza firma trzecia, Taboola. Aby to robić, musi ona uzyskać dostęp i przechowywać nieosobiste dane, włącznie z językiem systemu i typem przeglądarki. Możesz dowiedzieć się, jak korzysta ona ze zgromadzonych danych, z odpowiednich dokumentów: &lt;a href =%1$s>Polityki prywatności&lt;/a> oraz &lt;a href =%2$s>Umowy użytkownika&lt;/a>. Zapoznaj się z tymi dokumentami, zanim przejdziesz dalej. Jeśli nie wyrażasz zgody na te warunki, usługi Tapet Blokady zostaną zdezaktywowane."</string>
   <string name="privacy_refuse">"Nie zgadzam się"</string>
   <string name="privacy_title">Warunki użytkowania i Polityka prywatności</string>
   <string name="refuse_cookie">Odrzuć pliki cookie</string>
@@ -385,7 +385,7 @@ Możesz kontrolować tę funkcję z poziomu Ustawień > Hasła i bezpieczeństwo
     <string name="permission_make_a_call">Wykonywanie połączeń</string>
     <string name="permission_make_a_call_fast_application_summary">W celu zezwolenia aplikacjom błyskawicznym na wykonywanie połączeń;</string>
     <string name="permission_read_app_list">Dostęp do listy zainstalowanych aplikacji</string>
-    <string name="permission_read_application_list_summary">W celu aktualizowania pobranych aplikacji i potwierdzania informacji dot. aplikacji używanych przez instalator pakietów.</string>
+    <string name="permission_read_application_list_summary">W celu zarządzania zainstalowanymi aplikacjami i plikami APK</string>
     <string name="permission_read_device_store">Dostęp do pamięci urządzenia</string>
     <string name="permission_read_device_store_summary">W celu uzyskiwania dostępu do pobranych plików źródłowych oraz plików konfiguracji;</string>
     <string name="permission_read_send_message">Wysyłanie i odbieranie SMS-ów</string>
@@ -399,7 +399,7 @@ Możesz kontrolować tę funkcję z poziomu Ustawień > Hasła i bezpieczeństwo
     <string name="permission_read_write_contacts">Dostęp do kontaktów i ich edycja</string>
     <string name="permission_read_write_contacts_fast_application_summary">W celu zezwolenia aplikacjom błyskawicznym na dostęp do kontaktów i ich edycję;</string>
     <string name="permission_read_write_contacts_summary">W celu wyświetlania i zarządzania kontaktami;</string>
-    <string name="permission_read_write_device_store">W celu uzyskiwania dostępu i zapisywania elementów w pamięci urządzenia;</string>
+    <string name="permission_read_write_device_store">Dostęp i zapis elementów na urządzeniu</string>
     <string name="permission_read_write_device_store_album_summary">W celu przechowywania, wyświetlania, edycji, synchronizacji i pobierania Twoich zdjęć i filmów.</string>
     <string name="permission_read_write_device_store_application_package_summary">W celu parsowania i skanowania plików APK.</string>
     <string name="permission_read_write_device_store_camera_summary">W celu zapisywania plików na urządzeniu po wykonaniu zdjęć lub filmów.</string>
@@ -422,8 +422,8 @@ Możesz kontrolować tę funkcję z poziomu Ustawień > Hasła i bezpieczeństwo
     <string name="require_network_and_authority_statement">Aby móc działać normalnie, usługa wymaga połączenia z Internetem oraz następujących uprawnień:</string>
     <string name="require_network_authority_statement_dual">Aby móc działać normalnie, usługa wymaga połączenia z Internetem oraz następujących uprawnień:</string>
     <string name="service_company_adjust_content">Umowa użytkownika Xunlei Network Services</string>
-    <string name="service_fast_pairing_policy"><Data>Zanim kontynuujesz, przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności Mi Link&lt;/a >.</Data></string>
-    <string name="service_location_share_policy"><Data>Zanim kontynuujesz, przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Stanowiska dot. prywatności Usług lokalizacji&lt;/a >.</Data></string>
+    <string name="service_fast_pairing_policy"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności Mi Link&lt;/a >.</Data></string>
+    <string name="service_location_share_policy"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Stanowiska dot. prywatności Usług lokalizacji&lt;/a >.</Data></string>
     <string name="service_mi_account">Konto Xiaomi</string>
     <string name="service_name_address_dialing">Kontakty i Telefon</string>
     <string name="service_name_ims">Usługa IMS</string>

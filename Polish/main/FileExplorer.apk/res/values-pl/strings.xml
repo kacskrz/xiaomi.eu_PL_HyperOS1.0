@@ -877,7 +877,7 @@ and never miss the cool new ones!"</string>
     <string name="pref_permission_manage_key_storage">Dostęp do zdjęć i plików na urządzeniu</string>
     <string name="pref_permission_not_allowed">Nie przyznano</string>
     <string name="privacy_policy_renew">Zaktualizowano Politykę prywatności</string>
-    <string name="privacy_policy_renew_content"><Data>"&lt;a href=\"%1$s\">Polityka prywatności&lt;/a> aplikacji Pliki została zaktualizowana. Zanim kontynuujesz, przeczytaj ją, aby zrozumieć swoje prawa jako użytkownika, a także metody, w ramach których Xiaomi wykorzystuje Twoje dane, a następnie wyraź zgodę na jej warunki."</Data></string>
+    <string name="privacy_policy_renew_content"><Data>"&lt;a href=\"%1$s\">Polityka prywatności&lt;/a> aplikacji Pliki została zaktualizowana. Zanim przejdziesz dalej, przeczytaj ją, aby zrozumieć swoje prawa jako użytkownika, a także metody, w ramach których Xiaomi wykorzystuje Twoje dane, a następnie wyraź zgodę na jej warunki."</Data></string>
     <string name="withdraw">Wycofaj</string>
     <string name="withdraw_consent">Wycofanie zgody</string>
     <string name="withdraw_consent_content">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności aplikacji Pliki. Informacje o Tobie, które zostały już zgromadzone i przetworzone przez Xiaomi, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ aplikacja Pliki dostarcza swoje usługi w oparciu o niezbędne dane osobowe, wycofanie Twojej zgody zostanie potraktowane jako odmowa akceptacji usług tejże aplikacji."</string>

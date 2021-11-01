@@ -2939,20 +2939,20 @@ Jeśli nie modyfikowałeś MIUI w żaden sposób, upewnij się, że wiesz skąd 
   <string name="system_permission_declare_analytics_declare">"Dziękujemy za dołączenie do Programu zadowolenia użytkownika Xiaomi. Ta aplikacja musi łączyć się z Internetem i używać następujących uprawnień lub funkcji do zbierania statystyk w celu poprawy świadczonych przez nas usług. Gromadzimy tutaj dane wyłącznie w celach statystycznych i nie możemy zidentyfikować Cię na podstawie danych, które zbieramy."</string>
   <string name="system_permission_declare_agree">Zgoda</string>
   <string name="system_permission_declare_disagree">Nie zgadzam się</string>
-  <string name="system_permission_declare_double_link"><Data>Zanim kontynuujesz, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
+  <string name="system_permission_declare_double_link"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Witaj w aplikacji %1s! Pozwala ci ona na używanie następujących funkcji: %2s.</string>
   <string name="system_permission_declare_no_say_no">"Jeśli nie nadasz wymaganych uprawnień lub nie pozwolisz nam na gromadzenie i używanie Twoich danych, ta aplikacja nie będzie mogła działać normalnie."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Jeśli nie chcesz nadać uprawnień, możesz cofnąć dołączenie do programu w Ustawieniach > Hasła i bezpieczeństwo > Prywatność > Program zadowolenia użytkownika."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Jeśli nie nadasz wymaganych uprawnień lub nie pozwolisz nam na gromadzenie i używanie Twoich danych, ta aplikacja będzie mogła działać tylko częściowo."</string>
   <string name="system_permission_declare_privacy_declare">Ta aplikacja musi połączyć się z Internetem i wymaga następujących uprawnień, aby normalnie działać:</string>
   <string name="system_permission_declare_privacy_no_permission">Ta aplikacja musi połączyć się z Internetem i zebrać wymagane dane osobowe, aby móc normalnie pracować.</string>
-  <string name="system_permission_declare_privacy_policy"><Data>Zanim kontynuujesz, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
+  <string name="system_permission_declare_privacy_policy"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
   <string name="system_permission_declare_revoke_path">Możesz odinstalować tą aplikację, wylogować się z swojego konta lub zarządzać swoimi uprawnieniami i autoryzacją w Panelu sterowania > Zarządzaj aplikacjami > Uprawnienia > Inne uprawnienia.</string>
   <string name="system_permission_declare_revoke_system">Możesz wyjść z tej aplikacji.</string>
   <string name="system_permission_declare_revoke_uninstallable">Możesz odinstalować tą aplikację lub zarządzać swoimi uprawnieniami i autoryzacją w Panelu sterowania > Zarządzaj aplikacjami > Uprawnienia > Inne uprawnienia.</string>
   <string name="system_permission_declare_use_network">Łączenie się z siecią</string>
   <string name="system_permission_declare_use_network_no_permission">Połącz się z siecią</string>
-  <string name="system_permission_declare_user_agreement"><Data>Zanim kontynuujesz, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> Xiaomi.</Data></string>
+  <string name="system_permission_declare_user_agreement"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> Xiaomi.</Data></string>
   <string name="system_permission_perm_answer_call">Wykonywanie połączeń</string>
   <string name="system_permission_perm_optional">" (opcjonalne)"</string>
   <string name="system_permission_perm_read_mms">Odczyt MMS-ów</string>
@@ -3594,9 +3594,9 @@ Aby używać ^1 wraz z tym urządzeniem, musisz go najpierw skonfigurować."</st
 Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć utraty danych, wykonaj kopię zapasową na innym ^3 lub urządzeniu."</string>
   <string name="storage_wizard_format_confirm_v2_title">Sformatować ^1?</string>
   <string name="superpower_savemode_description_title">Ultraoszczędzanie baterii aktywuje następujące ograniczenia:</string>
-  <string name="system_permission_declare_meanwhile_double_link"><Data>Zanim kontynuujesz, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
-  <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Zanim kontynuujesz, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
-  <string name="system_permission_declare_meanwhile_user_agreement"><Data>Zanim kontynuujesz, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> Xiaomi.</Data></string>
+  <string name="system_permission_declare_meanwhile_double_link"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
+  <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
+  <string name="system_permission_declare_meanwhile_user_agreement"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> Xiaomi.</Data></string>
   <string name="system_permission_declare_privacy_no_network">Ta aplikacja wymaga następujących uprawnień, aby móc normalnie działać:</string>
   <string name="system_permission_declare_title">Uwaga</string>
   <string name="tab_sort_all">Wszystko</string>
@@ -4809,7 +4809,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="app_predict_privacy_content">Ta usługa używa algorytmów działających w ramach mechanizmów ochrony prywatności Xiaomi i uczących się Twoich nawyków dot. korzystania z aplikacji zainstalowanych na tym urządzeniu. Pozwala to na otrzymywanie przez Ciebie sugestii aplikacji, których w danej chwili prawdopodobnie najbardziej potrzebujesz.</string>
     <string name="app_predict_privacy_privacy_policy_text">Polityki prywatności</string>
     <string name="app_predict_privacy_title">Sugestie aplikacji</string>
-    <string name="app_predict_privacy_user_agreement_privacy_policy_text">Zanim kontynuujesz, przeczytaj i zaakceptuj warunki %1$s oraz %2$s.</string>
+    <string name="app_predict_privacy_user_agreement_privacy_policy_text">Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki %1$s oraz %2$s.</string>
     <string name="app_predict_privacy_user_agreement_text">Umowy użytkownika</string>
     <string name="app_predict_search_btn_cancel_text">Anuluj</string>
     <string name="app_predict_search_empty">"Nie znaleziono aplikacji"</string>
@@ -4908,7 +4908,7 @@ Twoje urządzenie jest teraz o %s szybsze."</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
     <string name="HIPS_Perm_GetInstall_Desc">Uzyskaj listę aplikacji zainstalowanych na urządzeniu</string>
     <string name="charge_high_temp_warning_dialog_ok">OK</string>
-    <string name="charge_high_temp_warning_dialog_text">Wygląda na to, że port ładowania jest przegrzany. Odłącz ładowarkę i poczekaj, aż bateria się ochłodzi, zanim kontynuujesz ładowanie.</string>
+    <string name="charge_high_temp_warning_dialog_text">Wygląda na to, że port ładowania jest przegrzany. Odłącz ładowarkę i poczekaj, aż bateria się ochłodzi, zanim wznowisz ładowanie.</string>
     <string name="charge_high_temp_warning_text">Odłącz ładowarkę i poczekaj, aż bateria się ochłodzi</string>
     <string name="charge_high_temp_warning_title">Port ładowania jest za gorący</string>
     <string name="privacy_apps_add">Dodaj</string>
@@ -5046,7 +5046,7 @@ Wycofać zgodę?"</string>
     <string name="privacy_revoke_tip_dialog_title">"Nie można używać aplikacji"</string>
     <string name="privacy_revoke_title">Wycofanie zgody na warunku usług</string>
     <string name="privacy_update_dialog_content_1">Zaktualizowano Politykę prywatności %s:</string>
-    <string name="privacy_update_dialog_content_2"><Data>Zanim kontynuujesz, przeczytaj i zaakceptuj warunki nowej wersji &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>.</Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>.</Data></string>
     <string name="privacy_update_dialog_title">Zaktualizowano Politykę prywatności</string>
     <string name="security_center_auto_task">Centrum zadań</string>
     <string name="select_app_title_default">Otwórz aplikację</string>

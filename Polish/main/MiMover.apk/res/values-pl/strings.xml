@@ -750,4 +750,9 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
   <string name="sender_scanning_connecting">Łączenie z nowym urządzeniem…</string>
   <string name="skip_transfer">Pomiń</string>
   <string name="app_update_title">Zaktualizuj wszystkie aplikacje</string>
+  <string name="high_temp_summary">Twoje urządzenie może się przegrzewać w trakcie przesyłania dużej ilości danych. To normalne. Urządzenie schłodzi się, gdy transfer się zakończy.</string>
+  <string name="message_request_manage_external_storage_perm">Przenoszenie danych wymaga dostępu do wszystkich plików na urządzeniu, aby móc przenieść je ze starego urządzenia na nowe.</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="perm_manage_external_storage">Dostęp do wszystkich plików</string>
+  <string name="title_request_manage_external_storage_perm">Wymagane uprawnienia</string>
 </resources>

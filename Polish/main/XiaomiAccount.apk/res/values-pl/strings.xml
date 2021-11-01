@@ -778,7 +778,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="permission_withdraw">Wycofaj</string>
   <string name="privacy_policy_reject_confirm_msg">"Nie będzie można używać konta Xiaomi, dopóki nie wyrazisz zgody na nowe warunki Polityki prywatności. Czy chcesz wyrazić zgodę na te &lt;a href=%1$s>warunki&lt;/a> teraz?"</string>
   <string name="privacy_policy_reject_confirm_title">"Nie można używać konta Xiaomi"</string>
-  <string name="privacy_policy_update_msg">Zaktualizowano Politykę prywatności Konta Xiaomi:&lt;br/>%1$s&lt;br/>Przeczytaj i zaakceptuj nową wersję &lt;a href=%2$s>&lt;u>tych warunków&lt;/u>&lt;/a>, zanim kontynuujesz.</string>
+  <string name="privacy_policy_update_msg">Zaktualizowano Politykę prywatności Konta Xiaomi:&lt;br/>%1$s&lt;br/>Przeczytaj i zaakceptuj nową wersję &lt;a href=%2$s>&lt;u>tych warunków&lt;/u>&lt;/a>, zanim przejdziesz dalej.</string>
   <string name="privacy_policy_update_title">Zaktualizowano Politykę prywatności</string>
   <string name="revoke_privacy_policy">Wycofanie zgody na warunki umów</string>
   <string name="revoke_privacy_policy_instructions">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności Konta Xiaomi. Xiaomi zaprzestanie gromadzenia Twoich danych, zaś dane już zgromadzone i przetworzone zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, o ile nie jest to określone inaczej. Ponieważ Konto Xiaomi dostarcza usługi w oparciu o niezbędne dane osobowe, wycofanie zgody zostanie potraktowane jako odmowa akceptacji warunków usług Konta Xiaomi. Czy chcesz wycofać zgodę?"</string>

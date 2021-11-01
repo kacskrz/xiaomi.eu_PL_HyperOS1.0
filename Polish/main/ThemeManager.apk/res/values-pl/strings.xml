@@ -1378,9 +1378,9 @@ Wyświetlanie i korzystanie z zakupionych bądź dodanych do ulubionych element�
     <string name="privacy_pad_fold_logoff_service_content">Rezygnuj z usług Tapet i personalizacji</string>
     <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Wszystkie tapety, czcionki i dzwonki pobrane na to urządzenie.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Wszystkie preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Zanim kontynuujesz, upewnij się, że masz prawo do rezygnacji z usług.
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Zanim przejdziesz dalej, upewnij się, że masz prawo do rezygnacji z usług.
 2. Rezygnacja z usług Tapet i personalizacji nie wpłynie na korzystanie z innych produktów Xiaomi.
-3. Rezygnacja z usług jest nieodwracalna. Zanim kontynuujesz, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po rezygnacji z usług nie będzie można cofnąć tej decyzji. Po rezygnacji z usług następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
+3. Rezygnacja z usług jest nieodwracalna. Zanim przejdziesz dalej, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po rezygnacji z usług nie będzie można cofnąć tej decyzji. Po rezygnacji z usług następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"Wszystkie zamówienia (włącznie z płatnymi) utworzone z urządzeń Xiaomi. Nie będzie można już używać zakupionych elementów.
 Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi.
 Wszystkie tapety, czcionki i dzwonki pobrane na to urządzenie.
@@ -1408,9 +1408,9 @@ Za każdym razem, gdy będziesz używać elementów przechowywanych na tym urzą
     <string name="privacy_phone_logoff_service_content">Rezygnacja z usług Motywów</string>
     <string name="privacy_phone_logoff_theme_content_3">3. Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.</string>
     <string name="privacy_phone_logoff_theme_content_4">4. Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Zanim kontynuujesz, upewnij się, że masz prawo do rezygnacji z usług.
+    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Zanim przejdziesz dalej, upewnij się, że masz prawo do rezygnacji z usług.
 2. Zrezygnowanie z usług Motywów nie wpłynie na korzystanie z innych produktów Xiaomi.
-3. Rezygnacja z usług jest nieodwracalna. Zanim kontynuujesz, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po rezygnacji z usług nie będzie można cofnąć tej decyzji. Po rezygnacji z usług następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
+3. Rezygnacja z usług jest nieodwracalna. Zanim przejdziesz dalej, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po rezygnacji z usług nie będzie można cofnąć tej decyzji. Po rezygnacji z usług następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_2">"Wszystkie zamówienia (włącznie z płatnymi) utworzone z urządzeń Xiaomi. Nie będzie można już używać zakupionych elementów.
 Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi.
 Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.
@@ -1425,9 +1425,9 @@ Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywróc
     <string name="privacy_phone_read_theme_privacy_policy"><Data>"Potwierdzam, że przeczytano i zaakceptowano warunki \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Stanowiska dot. wycofania zgody na warunki Polityki prywatności Motywów&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">3. Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.</string>
     <string name="privacy_phone_revoke_agree_content_4">4. Wszystkie rekordy historii wyszukiwania, preferencje dot. uprawnień, ustawienia i elementy z pamięci podręcznej wygenerowane na tym urządzeniu.</string>
-    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Zanim kontynuujesz, upewnij się, że masz prawo do wycofania zgody.
+    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Zanim przejdziesz dalej, upewnij się, że masz prawo do wycofania zgody.
 2. Wycofanie przez Ciebie zgody na warunki Polityki prywatności Motywów nie wpłynie na korzystanie z innych usług Xiaomi.
-3. Wycofanie zgody jest nieodwracalne. Zanim kontynuujesz, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po wycofaniu zgody nie będzie można cofnąć tej decyzji. Po wycofaniu zgody następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
+3. Wycofanie zgody jest nieodwracalne. Zanim przejdziesz dalej, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po wycofaniu zgody nie będzie można cofnąć tej decyzji. Po wycofaniu zgody następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
     <string name="privacy_phone_revoke_agree_detail_content_2">"Wszystkie zamówienia (włącznie z płatnymi) utworzone na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi. Nie będzie można już używać zakupionych przez Ciebie elementów.
 Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi.
 Wszystkie motywy, tapety, dynamiczne tapety, czcionki, ikony i dzwonki pobrane na to urządzenie.
@@ -1440,7 +1440,7 @@ Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywróc
     <string name="privacy_phone_revoke_agree_introduce">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności Motywów. Informacje o Tobie, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ Motywy dostarczają swoje usługi w oparciu o niezbędne dane dot. Ciebie, wycofanie przez Ciebie zgody na ich warunki zostanie potraktowane jako odmowa akceptacji tychże usług."</string>
     <string name="privacy_phone_update_content">Zaktualizowano Politykę prywatności Motywów:</string>
     <string name="privacy_read_statement">Najpierw zaakceptuj warunki korzystania z usług</string>
-    <string name="privacy_read_the_updated_privacy_policy_content">"Zanim kontynuujesz, przeczytaj i zaakceptuj warunki nowej wersji &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Polityki prywatności&lt;/font>&lt;/a>."</string>
+    <string name="privacy_read_the_updated_privacy_policy_content">"Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Polityki prywatności&lt;/font>&lt;/a>."</string>
     <string name="privacy_reading_the_application_list">Dostęp do listy aplikacji zainstalowanych na urządzeniu</string>
     <string name="privacy_revoke_agree_content">Wycofanie zgody na warunki umów</string>
     <string name="privacy_revoke_agree_content_1">1. Wszystkie zamówienia (włącznie z płatnymi) utworzone na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi. Nie będzie można już używać zakupionych przez Ciebie elementów.</string>
@@ -1450,9 +1450,9 @@ Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywróc
     <string name="privacy_revoke_succeed">Pomyślnie wycofano zgodę</string>
     <string name="privacy_revoking_warning">Wycofywanie zgody…</string>
     <string name="privacy_update_prompt_title">Zaktualizowano Politykę prywatności</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Zanim kontynuujesz, upewnij się, że masz prawo do wycofania zgody.
+    <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Zanim przejdziesz dalej, upewnij się, że masz prawo do wycofania zgody.
 2. Wycofanie przez Ciebie zgody na warunki Polityki prywatności Tapet i personalizacji nie wpłynie na korzystanie z innych usług Xiaomi.
-3. Wycofanie zgody jest nieodwracalne. Zanim kontynuujesz, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po wycofaniu zgody nie będzie można cofnąć tej decyzji. Po wycofaniu zgody następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
+3. Wycofanie zgody jest nieodwracalne. Zanim przejdziesz dalej, wykonaj kopię ważnych danych, ponieważ mogą one zostać permanentnie usunięte. Pamiętaj, że po wycofaniu zgody nie będzie można cofnąć tej decyzji. Po wycofaniu zgody następujące dane zostaną permanentnie usunięte bądź zanonimizowane (z wyjątkiem sytuacji, w których przepisy ustawowe i wykonawcze lub organy regulacyjne wymagają inaczej):"</string>
     <string name="private_pad_fold_revoke_agree_detail_content_2">"Wszystkie zamówienia (włącznie z płatnymi) utworzone na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi. Nie będzie można już używać zakupionych przez Ciebie elementów.
 Wszystkie informacje dot. Twoich polubień, komentarzy, ocen i obserwujących wygenerowane na urządzeniach Xiaomi w trakcie korzystania ze swojego konta Xiaomi.
 Wszystkie tapety, czcionki i dzwonki pobrane na to urządzenie.

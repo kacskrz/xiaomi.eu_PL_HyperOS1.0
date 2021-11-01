@@ -2980,7 +2980,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
   <string name="privacy_cloud_confirm">Włącz synchronizację</string>
   <string name="privacy_cloud_confirm_content1">Polityka prywatności Chmury Xiaomi</string>
   <string name="privacy_cloud_confirm_content2">Umowa użytkownika</string>
-  <string name="privacy_cloud_confirm_detail"><Data>"Po włączeniu synchronizacji zdjęcia i filmy znajdujące się na tym urządzeniu zostaną przesłane do Chmury Xiaomi i połączone z poprzednio zsynchronizowanymi elementami (jeśli jakieś się tam znajdują). Zanim kontynuujesz, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Chmury Xiaomi."</Data></string>
+  <string name="privacy_cloud_confirm_detail"><Data>"Po włączeniu synchronizacji zdjęcia i filmy znajdujące się na tym urządzeniu zostaną przesłane do Chmury Xiaomi i połączone z poprzednio zsynchronizowanymi elementami (jeśli jakieś się tam znajdują). Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Chmury Xiaomi."</Data></string>
   <string name="privacy_cloud_confirm_detail_negative">Wyjdź</string>
   <string name="privacy_cloud_confirm_detail_positive">Zgadzam się</string>
   <string name="privacy_cloud_confirm_rejected">Zgoda na warunki Polityki prywatności Chmury Xiaomi dla tego konta została wycofana. Spróbuj użyć innego konta.</string>
@@ -2988,7 +2988,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
   <string name="privacy_detail_map">Wyświetl Politykę prywatności Mapy Galerii</string>
   <string name="privacy_entrance">Prywatność</string>
   <string name="privacy_map">Mapa Galerii</string>
-  <string name="privacy_map_detail"><Data>Ta usługa umożliwia wyświetlanie zdjęć i filmów zawierających informacje o lokalizacji na mapie. Aby dostarczać tę usługę, aplikacja korzysta z narzędzi Open SDK Baidu Map. Zanim kontynuujesz, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności Baidu Map dla otwartoplatformowych produktów i usług&lt;/a>.</Data></string>
+  <string name="privacy_map_detail"><Data>Ta usługa umożliwia wyświetlanie zdjęć i filmów zawierających informacje o lokalizacji na mapie. Aby dostarczać tę usługę, aplikacja korzysta z narzędzi Open SDK Baidu Map. Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności Baidu Map dla otwartoplatformowych produktów i usług&lt;/a>.</Data></string>
   <string name="privacy_map_detail_content">Polityka prywatności Baidu Map dla otwartoplatformowych produktów i usług</string>
   <string name="privacy_permission">Uprawnienia</string>
   <string name="privacy_permission_account">Konta</string>
