@@ -121,7 +121,7 @@ Później będziesz mógł zainstalować inne klawiatury z Google Play."</string
   <string name="permission_call_records_introduction">Dostęp do historii połączeń w celu wyświetlania zablokowanych elementów</string>
   <string name="permission_call_state_introduction">W celu dostępu do stanu telefonu, nagrywania połączeń oraz przerywania nagrań, gdy nadejdzie połączenie</string>
   <string name="permission_clock_info_introduction">Zapisywanie danych alarmów</string>
-  <string name="permission_contact">Dostęp do kontaktów:/string>
+  <string name="permission_contact">Dostęp do kontaktów</string>
   <string name="permission_contact_introduction">W celu dostarczania funkcjonalności Listy blokowanych oraz kontaktów alarmowych</string>
   <string name="permission_different_device_introduction">W celu identyfikacji usług pomiędzy różnymi urządzeniami</string>
   <string name="permission_different_info_introduction">W celu identyfikacji innych urządzeń</string>
