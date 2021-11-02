@@ -165,4 +165,8 @@
         <item quantity="one">&lt;Data>Urządzenie jest teraz zbyt gorące.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sekundę&lt;/b>&lt;/font>. Obecny stan został automatycznie zapisany.&lt;/Data></item>
         <item quantity="few">&lt;Data>Urządzenie jest teraz zbyt gorące.&lt;br>Aplikacja zostanie zamknięta za &lt;font color=#FFCE16>&lt;b>%1$d sekundy&lt;/b>&lt;/font>. Obecny stan został automatycznie zapisany.&lt;/Data></item>
     </plurals>
+    <plurals name="pad_ccc_temperature_warning_msg">
+        <item quantity="other">Urządzenie jest przegrzane. Aparat zostanie zamknięty za %d sek. Twoje zdjęcia lub filmy zostaną zapisane automatycznie.</item>
+        <item quantity="one">Urządzenie jest przegrzane. Aparat zostanie zamknięty za %d sek. Twoje zdjęcia lub filmy zostaną zapisane automatycznie.</item>
+    </plurals>
 </resources>

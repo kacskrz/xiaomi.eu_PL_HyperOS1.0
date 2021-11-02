@@ -2007,4 +2007,9 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="pref_retain_camera_status_title">Zachowywanie stanu Aparatu</string>
   <string name="pref_retain_live_shot">Dynamiczne ujęcia</string>
   <string name="pref_retain_live_shot_description">Zachowaj stan Dynamicznych ujęć ustawiony w trakcie poprzedniej sesji</string>
+  <string name="pad_cannot_connect_camera_twice">"Wciąż nie można połączyć się z aparatem. Spróbuj zrestartować urządzenie."</string>
+  <string name="pad_close_back_flash_toast">"Urządzenie jest przegrzane. Nie można użyć teraz flesza."</string>
+  <string name="pad_close_night_algo_toast_thermal">Schłódź urządzenie, aby móc ustawić ekspozycję</string>
+  <string name="pad_pref_camera_lying_summary">Informuj o obecnej orientacji, gdy urządzenie jest ustawione równolegle do ziemi</string>
+  <string name="pad_super_night_toast">Nie ruszaj się w trakcie robienia zdjęcia</string>
 </resources>

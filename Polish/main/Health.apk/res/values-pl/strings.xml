@@ -1724,4 +1724,20 @@ Jeśli nie chcesz udostępniać tych informacji, możesz wyłączyć tę funkcj�
   <string name="volume_normal_description">Ekspozycja na normalne dźwięki nie powinna spowodować uszkodzenia słuchu. Mogą one pomóc się skoncentrować.</string>
   <string name="volume_too_high">Bardzo głośne</string>
   <string name="volume_too_high_description">Wielokrotne, długotrwałe narażenie na bardzo głośne dźwięki może spowodować uszkodzenie słuchu. Aby chronić swój słuch, trzymaj się z dala od głośnych dźwięków, rozważ noszenie zatyczek do uszu lub słuchawek z redukcją szumów.</string>
+  <string name="audio_permission_subtitle">W celu wykrywania chrapania i mówienia</string>
+  <string name="audio_permission_title">Nagrywanie dźwięku</string>
+  <string name="body_sport_permission_subtitle">W celu śledzenia kroków</string>
+  <string name="body_sport_permission_title">Dostęp do informacji o zdrowiu i aktywności</string>
+  <string name="camera_permission_subtitle">W celu określania zmian w przepływie krwi dla funkcji wykrywania tętna oraz ustawiania zdjęć profilowych</string>
+  <string name="camera_permission_title">Korzystanie z Aparatu</string>
+  <string name="contact_permission_subtitle">W celu ustawiania kontaktów alarmowych</string>
+  <string name="contact_permission_title">Dostęp do kontaktów</string>
+  <string name="external_storage_permission_subtitle">W celu ustawiania zdjęć profilowych</string>
+  <string name="external_storage_permission_title">Dostęp i zapis elementów w pamięci</string>
+  <string name="location_permission_subtitle">W celu śledzenia treningów i rejestrowania tras</string>
+  <string name="location_permission_title">Dostęp do lokalizacji</string>
+  <string name="sport_data_use_subtitle">Aby móc śledzić postępy Twoich treningów i ćwiczeń, aplikacja gromadzi i przetwarza informacje dot. tras Twoich ćwiczeń, snu, tętna i wagi.</string>
+  <string name="sport_data_use_tip">"Przeczytaj i zaakceptuj warunki &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Polityki korzystania z danych dot. zdrowia i aktywności&lt;/a>&lt;/font>, aby lepiej zrozumieć, w jaki sposób Xiaomi gromadzi i przetwarza Twoje dane. Jeśli nie wyrazisz zgody na powyższe warunki, nie będzie można korzystać z tej usługi."</string>
+  <string name="sport_data_use_title">Uprawnienia dot. danych</string>
+  <string name="system_permission">Szczegóły dot. uprawnień</string>
 </resources>

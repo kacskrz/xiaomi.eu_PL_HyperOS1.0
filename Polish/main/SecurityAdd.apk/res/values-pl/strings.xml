@@ -52,7 +52,7 @@
   <string name="game_booster_intro">Zwiększenie wydajności podczas gier</string>
   <string name="game_more_improve">Blokuj aktywności w tle, aby oszczędzić baterię i zwiększyć przepustowość sieci podczas gry</string>
   <string name="game_setting">Ustawienia gier</string>
-  <string name="gamebooster_network_dialog_message">Czy chcesz zezwolić Panelowi sterowania na połączenie się z siecią, aby móc skorzystać ze wszystkich funkcji Przyspieszenia prędkości gier?</string>
+  <string name="gamebooster_network_dialog_message">Czy chcesz zezwolić Panelowi sterowania na połączenie się z siecią, aby móc skorzystać ze wszystkich funkcji trybu Game Turbo?</string>
   <string name="gamebooster_network_dialog_title">Część funkcji jest niedostępna</string>
   <string name="gamebox_no_network_btn">Załaduj ponownie</string>
   <string name="gb_alipays_can_not_complete">"Nie można ukończyć płatności. Zainstaluj, aby kontynuować."</string>
@@ -372,4 +372,8 @@
   <string name="auto_task_select_city">Wybierz miasto</string>
   <string name="gtb_dialog_privacy_speed_message">"Za chwilę zaczniesz korzystać z usługi Xunyou Game Booster. Będzie ona gromadzić ID Twojego konta Xiaomi, aby rejestrować czas trwania Twojego członkostwa."</string>
   <string name="gtb_dialog_privacy_speed_tips"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xunyou Game Booster."</Data></string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

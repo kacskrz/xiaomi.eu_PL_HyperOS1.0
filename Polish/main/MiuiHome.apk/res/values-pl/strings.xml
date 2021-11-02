@@ -808,4 +808,11 @@
   <string name="wednesday_short">Śr</string>
   <string name="wednesday_shortest">Ś</string>
   <string name="small_window">Pływające okno</string>
+  <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Do wykonywania połączeń do kontaktów alarmowych w Trybie Lite</string>
+  <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Do wyświetlania kontaktów alarmowych w Trybie Lite</string>
+  <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Do wyświetlania statusu urządzenia</string>
+  <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Do wyświetlania widżetów Kalendarza</string>
+  <string name="custom_define_permission_desc_android.permission_group.CAMERA">Do wyświetlania widżetów Galerii</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Do uzyskiwania nazw widżetów Wi-Fi w Androidzie 10</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Do uzyskiwania dostępu i zapisywania danych pulpitu</string>
 </resources>

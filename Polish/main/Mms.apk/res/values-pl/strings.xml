@@ -1409,4 +1409,5 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj jej warunki."</string>
     <string name="toast_not_show_location_perm_req">Aby użyć tej funkcji, zezwól aplikacji SMS na dostęp do lokalizacji</string>
     <string name="toast_not_show_send_sms_perm_req">Aby móc używać tej funkcji, najpierw zezwól tej aplikacji na wysyłanie wiadomości.</string>
     <string name="toast_not_show_write_contacts_perm_req">Aby użyć tej funkcji, zezwól aplikacji SMS na edycję kontaktów</string>
+    <string name="attachment_panel_show_part">Strona %1$d</string>
 </resources>

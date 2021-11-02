@@ -1531,4 +1531,5 @@
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop" formatted="false">Lista aplikacji w sklepie z widżetami. %s element na liście aplikacji. Wybrano %s, numer %s na liście. Element zawiera %s widżetów, dotknij dwa razy, aby otworzyć opis widżetu.</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_third" formatted="false">Lista aplikacji w sklepie z widżetami. %s element na liście aplikacji. Wybrano %s, numer %s na liście. Element zawiera %s widżetów, dotknij dwa razy, aby otworzyć opis widżetu.</string>
     <string name="pa_accessibility_picker_widget_group_item" formatted="false">Sklep z widżetami. Wybrano %s. Dotknij dwa razy, aby otworzyć opis widżetu. Element zawiera %s widżetów.</string>
+    <string name="pa_shortcut_desc_add_button_install">Aby móc skorzystać z \"%2$s\", najpierw zainstaluj aplikację %1$s.</string>
 </resources>

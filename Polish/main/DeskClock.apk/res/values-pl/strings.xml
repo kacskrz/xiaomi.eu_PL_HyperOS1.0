@@ -524,4 +524,10 @@
   <string name="query_privacy_policy">Wyświetl Politykę prywatności</string>
   <string name="read_external_storage_permission_desc">W celu ustawiania własnych dzwonków</string>
   <string name="read_internal_storage">Dostęp do pamięci</string>
+  <string name="tv_blank_list_other_text">Nic tu jeszcze nie ma</string>
+  <string name="tv_blank_list_show_text">Nic tu jeszcze nie ma. Wyszukaj lokalizację, aby dodać ją do swojego zegara światowego.</string>
+  <string name="tv_world_clock_edit_title1">Lokalizacja wyświetlana na Pulpicie</string>
+  <string name="tv_world_clock_edit_title2">Inne zapisane lokalizacje</string>
+  <string name="white_noise">Hałas otoczenia</string>
+  <string name="worldclock_edit_label">Zegar światowy</string>
 </resources>
