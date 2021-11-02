@@ -10007,4 +10007,5 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="gd_setting_title">Prosty przybornik</string>
     <string name="safe_install_mode_settings">Tryb bezpieczny</string>
     <string name="miheadset_hd_audio_summary">Odtwarzaj dźwięk w wysokiej jakości (%1$d-bit/%2$d kHz)</string>
+    <string name="dns_select_dialog_title">Wybierz tryb prywatnego DNS</string>
 </resources>
