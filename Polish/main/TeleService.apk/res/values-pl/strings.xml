@@ -1970,4 +1970,6 @@ Nie można nawiązać tego połączenia. Spróbuj ponownie, gdy telefon się och
 Nadal możesz wykonywać połączenia alarmowe."</string>
   <string name="callFailed_concurrent_calls_not_possible">Zakończono połączenie, ponieważ nie jest możliwe prowadzenie równoległych połączeń.</string>
   <string name="emergency_medical_records">Połączenie alarmowe</string>
+  <string name="arrears_sim_summary">Doładuj konto, aby móc się dalej łączyć.</string>
+  <string name="arrears_sim_title">Brak środków na koncie</string>
 </resources>

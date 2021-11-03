@@ -1153,7 +1153,17 @@ Zrób sobie przerwę!"</item>
         <item quantity="one">%d min</item>
     </plurals>
     <plurals name="summary_result_lock_screen_format">
-        <item quantity="other">Zablokuj ekran po %d mins</item>
+        <item quantity="other">Zablokuj ekran po %d min</item>
         <item quantity="one">Zablokuj ekran po %d min</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc">
+        <item quantity="other">Dodaj maks. %d aplikacji. Przeciągnij dodane elementy, aby zmienić ich kolejność.</item>
+        <item quantity="few">Dodaj maks. %d aplikacje. Przeciągnij dodane elementy, aby zmienić ich kolejność.</item>
+        <item quantity="one">Dodaj maks. %d aplikację. Przeciągnij dodane elementy, aby zmienić ich kolejność.</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Dodaj maks. %d aplikacji. Przeciągnij dodane elementy, aby zmienić ich kolejność.</item>
+        <item quantity="few">Dodaj maks. %d aplikacje. Przeciągnij dodane elementy, aby zmienić ich kolejność.</item>
+        <item quantity="one">Dodaj maks. %d aplikację. Przeciągnij dodane elementy, aby zmienić ich kolejność.</item>
     </plurals>
 </resources>

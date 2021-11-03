@@ -5194,4 +5194,28 @@ Wycofać zgodę?"</string>
     <string name="vb_video_effects_spatial">Śledzenie ruchu głowy</string>
     <string name="vb_video_effects_spatial_summary">"Dostosuj dźwięk przestrzenny w oparciu o ruchy głowy
 *Wspierane tylko przez wybrane gamingowe słuchawki"</string>
+    <string name="gd_app_edit_done">Gotowe</string>
+    <string name="gd_app_edit_title">Dodaj aplikacje</string>
+    <string name="gd_app_edit_title_new">Dodaj aplikacje</string>
+    <string name="gd_setting_desc_action1">Otwórz pływające okno</string>
+    <string name="gd_setting_desc_action2">Użyj skrótu</string>
+    <string name="gd_setting_group_custom_gtb_apps">Gry</string>
+    <string name="gd_setting_group_custom_line_location">Położenie przybornika</string>
+    <string name="gd_setting_group_custom_settings">Personalizacja</string>
+    <string name="gd_setting_group_custom_vtb_apps">Aplikacje do obsługi wideo</string>
+    <string name="gd_setting_group_smart_tool_box">Prosty przybornik</string>
+    <string name="gd_setting_group_title_switch">Sytuacje</string>
+    <string name="gd_setting_gtb">Pokazuj w trakcie grania</string>
+    <string name="gd_setting_gtb_desc">Specjalne funkcje dla graczy</string>
+    <string name="gd_setting_guide_one">Dotknij ikony, aby otworzyć okienko</string>
+    <string name="gd_setting_guide_three">Przesuń w bok, aby wysunąć przybornik w grach</string>
+    <string name="gd_setting_guide_two">Przesuń w bok, aby wysunąć przybornik wideo</string>
+    <string name="gd_setting_miui_dock">Zawsze wyświetlaj</string>
+    <string name="gd_setting_shorthand">Szybkie notatki</string>
+    <string name="gd_setting_title">Prosty przybornik</string>
+    <string name="gd_setting_vtb">Pokazuj w trakcie oglądania filmów</string>
+    <string name="gd_setting_vtb_desc">Specjalne funkcje dla filmów</string>
+    <string name="no_privacy_permission">Nie wymaga zgody na warunki Polityki prywatności</string>
+    <string name="summary_safe_mode">Neutralizuj ryzyko w trakcie instalacji</string>
+    <string name="title_safe_mode">Włącz Tryb bezpieczny</string>
 </resources>

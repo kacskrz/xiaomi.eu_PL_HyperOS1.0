@@ -472,4 +472,7 @@
   <string name="windchime">Wietrzne dzwonki</string>
   <string name="lockscreen_carrier_customized">Usługa ograniczona</string>
   <string name="shortcut_no_support_on_pc_mode">"Ten gest nie jest wspierany w trybie PC"</string>
+  <string name="global_pad">Mój tablet</string>
+  <string name="global_pc">Mój laptop</string>
+  <string name="global_phone">Mój telefon</string>
 </resources>
