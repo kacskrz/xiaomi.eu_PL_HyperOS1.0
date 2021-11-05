@@ -5207,9 +5207,9 @@ Wycofać zgodę?"</string>
     <string name="gd_setting_group_title_switch">Sytuacje</string>
     <string name="gd_setting_gtb">Pokazuj w trakcie grania</string>
     <string name="gd_setting_gtb_desc">Specjalne funkcje dla graczy</string>
-    <string name="gd_setting_guide_one">Dotknij ikony, aby otworzyć okienko</string>
-    <string name="gd_setting_guide_three">Przesuń w bok, aby wysunąć przybornik w grach</string>
-    <string name="gd_setting_guide_two">Przesuń w bok, aby wysunąć przybornik wideo</string>
+    <string name="gd_setting_guide_one">Dotknij, aby otworzyć pływające okno</string>
+    <string name="gd_setting_guide_three">Przesuń od krawędzi, aby otworzyć skróty w grach</string>
+    <string name="gd_setting_guide_two">Przesuń od krawędzi, aby wysunąć przybornik wideo</string>
     <string name="gd_setting_miui_dock">Zawsze wyświetlaj</string>
     <string name="gd_setting_shorthand">Szybkie notatki</string>
     <string name="gd_setting_title">Prosty przybornik</string>

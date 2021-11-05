@@ -799,4 +799,46 @@ dd.M"</string>
   <string name="summary3">"Witaj w Tapetach Blokady! Dzięki tej aplikacji możesz subskrybować swoje ulubione kategorie tapet i regularnie otrzymywać nowe tapety na swoim Ekranie blokady. Aplikacja wymaga połączenia z Internetem i gromadzenia niezbędnych danych osobowych w celu poprawnego działania.&lt;br>Aby dostarczać dodatkowe usługi, aplikacja może poprosić o dostęp i zapis elementów do pamięci tego urządzenia.&lt;br>Aby w pełnie zrozumieć swoje prawa, a także metody, w ramach których Xiaomi przetwarza Twoje dane, przeczytaj i zaakceptuj warunki &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Umowy użytkownika&lt;/font>&lt;/a> oraz &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Polityki prywatności&lt;/font>&lt;/a> przed skorzystaniem z aplikacji."</string>
   <string name="summary4">"Witaj w Tapetach Blokady! Dzięki tej aplikacji możesz subskrybować swoje ulubione kategorie tapet i regularnie otrzymywać nowe tapety na swoim Ekranie blokady. "</string>
   <string name="summary5">"Aby dostarczać dodatkowe usługi, aplikacja może poprosić o dostęp i zapis elementów do pamięci tego urządzenia. "</string>
+  <string name="about_permission">Uprawnienia</string>
+  <string name="allowed">Przyznano</string>
+  <string name="cancel_button">Tak</string>
+  <string name="cancel_mfashiongallery_service">Anuluj usługi Tapet Blokady</string>
+  <string name="cancel_service">Anuluj usługi</string>
+  <string name="cancel_service_running">Anulowanie usług…</string>
+  <string name="cancel_service_summary">"Jeśli przejdziesz dalej, anulujesz usługi Tapet Blokady. Informacje już zgromadzone i przechowywane zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Anulować usługi?"</string>
+  <string name="copy">Kopiuj</string>
+  <string name="expand_button_title">Zaawansowane</string>
+  <string name="external_storage_permission">Dostęp do pamięci</string>
+  <string name="external_storage_permission_summary">W celu wybierania własnych tapet i zapisywania pobranych elementów</string>
+  <string name="logout">Wyloguj</string>
+  <string name="logout_cancel">Anuluj</string>
+  <string name="logout_confirm">OK</string>
+  <string name="logout_summary">"Po wylogowaniu się nie będzie można synchronizować subskrypcji oraz ustawień między urządzeniami. Wylogować się?"</string>
+  <string name="logout_title">Wylogować się?</string>
+  <string name="not_allowed">Nie przyznano</string>
+  <string name="not_cancel_button">Nie</string>
+  <string name="not_revoke_button">Anuluj</string>
+  <string name="not_set">Nie ustawiono</string>
+  <string name="permission_manager">Szczegóły dot. uprawnień</string>
+  <string name="personalized">Personalizacja</string>
+  <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
+  <string name="privacy_policy">Polityka prywatności</string>
+  <string name="privacy_update_cancel">Anuluj</string>
+  <string name="privacy_update_confirm">Zgadzam się</string>
+  <string name="privacy_update_quit">Wyjdź</string>
+  <string name="privacy_update_summary1">Zaktualizowano Politykę prywatności Tapet Blokady:</string>
+  <string name="privacy_update_summary2">"Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Polityki prywatności&lt;/font>&lt;/a>."</string>
+  <string name="privacy_update_summary3">"Nie będzie można używać usług Tapet Blokady, dopóki nie wyrazisz zgody na warunki nowej wersji &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Polityki prywatności&lt;/font>&lt;/a>. Czy chcesz to zrobić?"</string>
+  <string name="revoke_button">Wycofaj</string>
+  <string name="revoke_failed1">Błąd</string>
+  <string name="revoke_failed2">Błąd</string>
+  <string name="revoke_failed_internet">Wystąpił błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="revoke_failed_internet_confirm">OK</string>
+  <string name="revoke_failed_service">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="revoke_failed_service_confirm">OK</string>
+  <string name="revoke_privacy">Wycofanie zgody na warunki usług</string>
+  <string name="revoke_privacy_running">Wycofywanie zgody…</string>
+  <string name="revoke_privacy_summary">"Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Tapet Blokady. Informacje już zgromadzone i przechowywane zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyha że ustalono inaczej. Ponieważ usługi Tapet Blokady są dostarczane w oparciu o niezbędne dane osobowe, wycofanie przez Ciebie zgody na warunki umów zostanie potraktowane jako odmowa akceptacji tychże usług. Wycofać zgodę?"</string>
+  <string name="v7_preference_off">WYŁ.</string>
+  <string name="v7_preference_on">WŁ.</string>
 </resources>

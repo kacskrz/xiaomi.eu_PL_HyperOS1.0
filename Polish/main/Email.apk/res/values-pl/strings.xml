@@ -1609,4 +1609,6 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
   <string name="account_permission_private_policy">Polityka prywatności</string>
   <string name="account_permission_user_privacy">Umowa licencyjna użytkownika końcowego</string>
   <string name="privacy_and_private_permission">Zgoda na warunki Umowy użytkownika i Polityki prywatności</string>
+  <string name="disallow_qq_auth_how_get_auth_code">Jak mogę uzyskać kod autoryzacyjny?</string>
+  <string name="oauth_find_browser_error_description">Zainstaluj przeglądarkę, aby móc się zalogować</string>
 </resources>
