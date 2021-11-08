@@ -10028,4 +10028,5 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="shoulder_key_shortcut_single_click">Wciśnięcie</string>
     <string name="shoulder_key_shortcut_turn_on_torch">Latarka</string>
     <string name="shoulder_key_shortcut_vibrate">Wibracja</string>
+    <string name="memorycard_calculating">Obliczanie</string>
 </resources>
