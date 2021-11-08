@@ -313,4 +313,7 @@
   <string name="effect_3dsurround">Dźwięk przestrzenny</string>
   <string name="effect_3dsurround_summary">Zwiększ głębię reprodukcji dźwięku dla słuchawek i głośników</string>
   <string name="effect_3dsurround_summary_headphone">Zwiększ głębię reprodukcji dźwięku dla słuchawek</string>
+  <string name="speaker_scenario_selection">Efekty dźwiękowe głośnika</string>
+  <string name="speaker_scenario_selection_another">Oryginalne</string>
+  <string name="speaker_scenario_selection_default">DXO</string>
 </resources>

@@ -10008,4 +10008,24 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="safe_install_mode_settings">Tryb bezpieczny</string>
     <string name="miheadset_hd_audio_summary">Odtwarzaj dźwięk w wysokiej jakości (%1$d-bit/%2$d kHz)</string>
     <string name="dns_select_dialog_title">Wybierz tryb prywatnego DNS</string>
+    <string name="left_shoulder_key">Lewy</string>
+    <string name="right_shoulder_key">Prawy</string>
+    <string name="set_shoulder_key_shortcut_checkbox_message">"Nie pokazuj ponownie"</string>
+    <string name="set_shoulder_key_shortcut_message">"Nie przypisano jeszcze żadnych akcji do bumperów. Skonfigurować je?"</string>
+    <string name="set_shoulder_key_shortcut_negative_button">Nie</string>
+    <string name="set_shoulder_key_shortcut_positive_button">Tak</string>
+    <string name="set_shoulder_key_shortcut_title">Skonfiguruj bumpery</string>
+    <string name="shoulder_key_diagram">Demo</string>
+    <string name="shoulder_key_shortcut_double_click">Dwukrotne wciśnięcie</string>
+    <string name="shoulder_key_shortcut_launch_camera">Aparat</string>
+    <string name="shoulder_key_shortcut_launch_screen_recorder">Nagraj ekran</string>
+    <string name="shoulder_key_shortcut_launch_sound_recorder">Dyktafon</string>
+    <string name="shoulder_key_shortcut_launch_video">Nagraj film</string>
+    <string name="shoulder_key_shortcut_long_press">Przytrzymanie</string>
+    <string name="shoulder_key_shortcut_mute">Tryb cichy</string>
+    <string name="shoulder_key_shortcut_none">Brak</string>
+    <string name="shoulder_key_shortcut_settings">Bumpery</string>
+    <string name="shoulder_key_shortcut_single_click">Wciśnięcie</string>
+    <string name="shoulder_key_shortcut_turn_on_torch">Latarka</string>
+    <string name="shoulder_key_shortcut_vibrate">Wibracja</string>
 </resources>

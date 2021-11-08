@@ -755,4 +755,5 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="perm_manage_external_storage">Dostęp do wszystkich plików</string>
   <string name="title_request_manage_external_storage_perm">Wymagane uprawnienia</string>
+  <string name="err_install_incompatible">Problem z kompatybilnością</string>
 </resources>

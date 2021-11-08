@@ -943,4 +943,5 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="privacy_settings">Prywatność</string>
   <string name="privacy_settings_title">Polityka prywatności</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="enable_local_backup_tips_global">Włącz tę funkcję, aby móc kopiować i przywracać dane z urządzenia bądź komputera. Włączyć?</string>
 </resources>

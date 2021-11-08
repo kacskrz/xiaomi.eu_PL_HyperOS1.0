@@ -3038,4 +3038,6 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
   <string name="saf_secret_album">Prywatny album</string>
   <string name="saf_secret_album_guide">Aby wyświetlać elementy z prywatnego albumu, aplikacja wymaga uprawnień.</string>
   <string name="sticker_tab_talkback_halloween">Halloween</string>
+  <string name="creativity_summary">Wyświetlaj dodatkowe funkcje związane z edycją elementów oraz kreatywnością</string>
+  <string name="creativity_title">Album Zalecane</string>
 </resources>

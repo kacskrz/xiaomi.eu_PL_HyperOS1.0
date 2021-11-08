@@ -288,4 +288,5 @@
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">W celu przesyłania dźwięku w trakcie przesyłania ekranu</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">W celu przenoszenia plików między urządzeniami</string>
     <string name="settings_permission_description">Szczegóły dot. uprawnień</string>
+    <string name="device_max_screen_count_toast">Urządzenie wspiera jednoczesne otwieranie tylko dwóch okien</string>
 </resources>
