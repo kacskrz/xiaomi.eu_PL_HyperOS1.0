@@ -867,7 +867,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="catch_full_log_item_title_charge">Ładowanie</string>
   <string name="catch_full_log_privacy_content_camera">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Logi mogą zawierać informacje dot. korzystania z aparatu (włącznie z częstotliwością taktowania procesora, zużyciem pamięci, wywołaniami systemowymi itd.). Nie udostępniaj tych logów innym osobom. Dotykając opcji \"Zgadzam się\" wyrażasz zgodę na to, że Xiaomi będzie gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na swoje serwery w celu zlokalizowania i naprawienia zgłoszonych problemów."</string>
   <string name="catch_full_log_privacy_content_charge">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Logi mogą zawierać informacje dot. ładowania. Nie udostępniaj tych logów innym osobom. Dotykając opcji \"Zgadzam się\" wyrażasz zgodę na to, że Xiaomi będzie gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na swoje serwery w celu zlokalizowania i naprawienia zgłoszonych problemów."</string>
-  <string name="catch_full_log_privacy_content_trace">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Logi mogą zawierać informacje dot. uruchomionych programów (włącznie z częstotliwością taktowania procesora, zużyciem pamięci, wywołaniami systemowymi itd.). Nie udostępniaj tych logów innym osobom. Dotykając opcji \"Zgadzam się\" wyrażasz zgodę na to, że Xiaomi będzie gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na swoje serwery w celu zlokalizowania i naprawienia zgłoszonych problemów."</string>
+  <string name="catch_full_log_privacy_content_trace">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Logi mogą zawierać statystyki użytkowania aplikacji (włącznie z częstotliwością taktowania procesora, zużyciem pamięci, wywołaniami systemowymi itd.). Nie udostępniaj tych logów innym osobom. Dotykając opcji \"Zgadzam się\" wyrażasz zgodę na to, że Xiaomi będzie gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na swoje serwery w celu zlokalizowania i naprawienia zgłoszonych problemów."</string>
   <string name="miuix_access_state_desc">Wybrano</string>
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
@@ -885,4 +885,5 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
   <string name="withdraw_consent_failed_hint">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="withdraw_consent_failed_hint_connect_net">Aby móc wycofać zgodę, Twoje urządzenie musi połączyć się z Internetem. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
   <string name="withdrawing">Wycofywanie zgody…</string>
+  <string name="catch_full_log_item_title_trace">Lagowanie</string>
 </resources>

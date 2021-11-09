@@ -35,4 +35,6 @@
     <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
     <string name="v7_preference_off">WYŁ.</string>
     <string name="v7_preference_on">WŁ.</string>
+    <string name="freeform_demo_next_tutorial">Dalej</string>
+    <string name="freeform_demo_previous_tutorial">Wstecz</string>
 </resources>

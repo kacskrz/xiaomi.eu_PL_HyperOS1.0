@@ -314,7 +314,7 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="other_settings_upload_debug_log_detail">"Pomóż poprawić wrażenia z korzystania z MIUI poprzez automatyczne wysyłanie do Xiaomi informacji diagnostycznych oraz danych dot. urządzenia i korzystania z aplikacji. Pomoże to poprawić żywotność baterii, stabilność MIUI i aplikacji itp.
 Wysłane dane będą zawierać ogólne informacje o urządzeniu i korzystaniu z niego (np. poziom naładowania baterii, aktywność systemu i aplikacji, błędy). Dane zostaną wykorzystane do poprawiania urządzeń bazujących na nakładce MIUI.
 Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania informacji niezbędnych do działania podstawowych usług.
-Możesz kontrolować tę funkcję z poziomu Ustawień > Hasła i bezpieczeństwo > Prywatność > Użytkowanie i diagnostyka."</string>
+Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawieniach."</string>
   <string name="disagreement_terminate_miuidaemon">"Xiaomi będzie używać uprawnień wyłącznie wtedy, gdy rozpoczniesz przesyłanie danych z urządzenia w momencie, gdy jego ekran jest uszkodzony. Jeśli nie wyrazisz zgody na przyznanie tych uprawnień, nie będzie można używać tej aplikacji."</string>
   <string name="require_miuidaemon_authority_statement">Aby pozwolić Xiaomi na dostarczanie tej usługi i gromadzenie Twoich danych, musisz nadać jej następujące uprawnienia:</string>
   <string name="terms_of_use_lable_apps_wifi_device">Usługi Xiaomi, Chmura Xiaomi, funkcja Znajdź urządzenie, Systemowy launcher, MIUI Daemon, MIUI SDK, Asystent MIUI, statystyki, Mi Link</string>
@@ -433,4 +433,8 @@ Możesz kontrolować tę funkcję z poziomu Ustawień > Hasła i bezpieczeństwo
     <string name="service_sim_activation">Aktywacja karty SIM</string>
     <string name="sim_activation_introduction">Usługa aktywacji kart SIM weryfikuje informacje o włożonej karcie SIM, aby upewnić się, że usługi MIUI mogą działać normalnie. Zaliczane są do nich m.in. usługa Znajdź urządzenie, Wiadomości Mi, tworzenie kont Xiaomi za pomocą numerów telefonów, a także synchronizacja wiadomości i historii połączeń.</string>
     <string name="systemdesktop_introduction">Wtyczka usługi pulpitu dostarcza podstawowe funkcje, takie jak pulpit, interfejs systemu czy zrzuty ekranu.</string>
+    <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

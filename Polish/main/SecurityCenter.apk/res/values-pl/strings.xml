@@ -5218,4 +5218,5 @@ Wycofać zgodę?"</string>
     <string name="no_privacy_permission">Nie wymaga zgody na warunki Polityki prywatności</string>
     <string name="summary_safe_mode">Neutralizuj ryzyko w trakcie instalacji</string>
     <string name="title_safe_mode">Włącz Tryb bezpieczny</string>
+    <string name="dev_sign_notification_content">"Używasz teraz systemu Android 12 Beta. Informacje zwrotne dostarczane przez Ciebie pomogą Xiaomi zidentyfikować i naprawić problemy. Dziękujemy za wzięcie udziału w tym programie!"</string>
 </resources>

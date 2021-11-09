@@ -2012,4 +2012,21 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="pad_close_night_algo_toast_thermal">Schłódź urządzenie, aby móc ustawić ekspozycję</string>
   <string name="pad_pref_camera_lying_summary">Informuj o obecnej orientacji, gdy urządzenie jest ustawione równolegle do ziemi</string>
   <string name="pad_super_night_toast">Nie ruszaj się w trakcie robienia zdjęcia</string>
+  <string name="beauty_lens">Duża przysłona</string>
+  <string name="beauty_lens_1">Ludzie</string>
+  <string name="beauty_lens_1_description">Twórz profesjonalnej jakości efekt bokeh i przekształć swoje zdjęcia w niezwykłe portrety.</string>
+  <string name="beauty_lens_2">Zwierzęta</string>
+  <string name="beauty_lens_2_description">Rozmyj tło, zachowując wszystkie szczegóły futra i wąsów!</string>
+  <string name="beauty_lens_3">Jedzenie</string>
+  <string name="beauty_lens_3_description">Przenieś pyszne rzeczy na pierwszy plan i spraw, by wyglądały bardziej żywo.</string>
+  <string name="beauty_lens_4">Obiekty</string>
+  <string name="beauty_lens_4_description">Popraw tekstury i twórz fotosy na poziomie plakatu.</string>
+  <string name="beauty_lens_description_title">Duża przysłona</string>
+  <string name="beauty_lens_none">Rozmycie</string>
+  <string name="beauty_lens_use_hint">Użyj dużej przysłony, aby rozmyć tło i wyróżnić elementy na pierwszym planie.</string>
+  <string name="beauty_mo_fe">Naturalny</string>
+  <string name="beauty_mo_ma">Klasyczny</string>
+  <string name="beauty_mo_or">Oryginalny</string>
+  <string name="beauty_s_cl">Skóra</string>
+  <string name="beauty_sm_or">Skóra</string>
 </resources>
