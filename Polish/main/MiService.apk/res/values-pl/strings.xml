@@ -248,4 +248,15 @@
     <string name="miui_feedback_main_withdraw_consent_hint">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności %1$s. Informacje o Tobie, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ aplikacja %2$s dostarcza swoje usługi w oparciu o niezbędne dane dot. Ciebie, wycofanie przez Ciebie zgody zostanie potraktowane jako odmowa akceptacji usług %3$s. Wycofać zgodę?"</string>
     <string name="public_open_feedback_service">Start</string>
     <string name="public_welcome_use_feedback_service">Witaj w Usługach i opinii! Możesz używać tej aplikacji do zgłaszania opinii, wyświetlania często zadawanych pytań itd.</string>
+    <string name="i_get_it">OK</string>
+    <string name="privacy_policy_update_hint">"Zaktualizowano Politykę prywatności %1$s:
+%2$s
+Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji %3$s."</string>
+    <string name="privacy_policy_update_title">Zaktualizowano Politykę prywatności</string>
+    <string name="user_must_known">Uwaga</string>
+    <string name="user_must_known_content">"Nie będzie można korzystać z tych usług, dopóki nie wyrazisz zgody na warunki nowej wersji %s. Czy chcesz to zrobić teraz?"</string>
+    <string name="withdraw_consent_failed">"Nie udało się wycofać zgody"</string>
+    <string name="withdraw_consent_failed_hint">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Aby móc wycofać Twoją zgodę, urządzenie musi się połączyć z Internetem. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+    <string name="withdrawing">Wycofywanie zgody…</string>
 </resources>
