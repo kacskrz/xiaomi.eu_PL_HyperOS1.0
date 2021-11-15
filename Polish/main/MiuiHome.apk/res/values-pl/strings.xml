@@ -815,4 +815,7 @@
   <string name="custom_define_permission_desc_android.permission_group.CAMERA">Do wyświetlania widżetów Galerii</string>
   <string name="custom_define_permission_desc_android.permission_group.LOCATION">Do uzyskiwania nazw widżetów Wi-Fi w Androidzie 10</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Do uzyskiwania dostępu i zapisywania danych pulpitu</string>
+  <string name="accessibility_recent_task_show_menu">Więcej opcji</string>
+  <string name="accessibility_recents_item_dismissed">Wyczyszczono %1$s</string>
+  <string name="drag_icon_to_homescreen_guide">Przytrzymaj ikonę aplikacji, a następnie ją przeciągnij, aby utworzyć skrót na Pulpicie</string>
 </resources>

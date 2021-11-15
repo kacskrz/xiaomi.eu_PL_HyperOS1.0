@@ -882,4 +882,9 @@ and never miss the cool new ones!"</string>
     <string name="withdraw_consent">Wycofanie zgody</string>
     <string name="withdraw_consent_content">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności aplikacji Pliki. Informacje o Tobie, które zostały już zgromadzone i przetworzone przez Xiaomi, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ aplikacja Pliki dostarcza swoje usługi w oparciu o niezbędne dane osobowe, wycofanie Twojej zgody zostanie potraktowane jako odmowa akceptacji usług tejże aplikacji."</string>
     <string name="withdraw_consent_summary">Wycofanie zgody na warunki Polityki prywatności aplikacji Pliki</string>
+    <string name="need_open_content">Aby użyć tej funkcji, zezwól aplikacji Pliki na dostęp do swoich zdjęć i plików.</string>
+    <string name="need_open_permission">Wymagane uprawnienia</string>
+    <string name="no_permission">Aby mieć dostęp do tej funkcji, nadaj wymagane uprawnienia</string>
+    <string name="to_open">Ustawienia</string>
+    <string name="to_setting">Ustawienia</string>
 </resources>

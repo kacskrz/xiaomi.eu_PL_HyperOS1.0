@@ -322,4 +322,5 @@ Szyszy protokół transmisji."</string>
     <string name="stylus_firmware_timeout_summary">Przekroczono czas trwania połączenia. Spróbuj ponownie.</string>
     <string name="stylus_firmware_update_summary">Aktualizowanie oprogramowania rysika…</string>
     <string name="stylus_firmware_update_title">Oprogramowanie rysika</string>
+    <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>

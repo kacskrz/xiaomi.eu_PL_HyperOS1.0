@@ -943,5 +943,9 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="privacy_settings">Prywatność</string>
   <string name="privacy_settings_title">Polityka prywatności</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
-  <string name="enable_local_backup_tips_global">Włącz tę funkcję, aby móc kopiować i przywracać dane z urządzenia bądź komputera. Włączyć?</string>
+  <string name="enable_local_backup_tips_global">Włącz tę funkcję, aby móc zapisywać tworzone kopie zapasowe na tym urządzeniu i kopiować je na swój komputer. Włączyć?</string>
+  <string name="new_local_detail_description_global">"Uwagi:
+%1$d. Skopiuj wykonane kopie zapasowe na swój komputer, aby uniknąć utraty danych. %2$s.
+%3$d. Kopie zapasowe są zapisywane w katalogu MIUI-Backup-AllBackup.
+%4$d. Niektóre aplikacje mogą nie wspierać tworzenia ich kopii zapasowych."</string>
 </resources>

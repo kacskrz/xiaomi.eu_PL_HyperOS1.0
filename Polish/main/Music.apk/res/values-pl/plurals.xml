@@ -162,4 +162,8 @@ Czy chcesz ją odnowić?"</item>
         <item quantity="few">Obserwuje %d osoby</item>
         <item quantity="other">Obserwuje %d osób</item>
     </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">Część wybranych utworów (%d) jest przechowywana w zewnętrznym katalogu. Nadaj wymagane uprawnienia, aby je usunąć.</item>
+        <item quantity="one">Jeden z wybranych utwórów jest przechowywany w zewnętrznym katalogu. Nadaj wymagane uprawnienia, aby go usunąć.</item>
+    </plurals>
 </resources>

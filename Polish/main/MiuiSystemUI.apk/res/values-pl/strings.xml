@@ -3154,4 +3154,5 @@ Jeśli masz pytania, skontaktuj się z organizacją %2$s."</string>
     <string name="reboot_info_auto_boot_global">Następny alarm: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Alarm po wyłączeniu: %s</string>
     <string name="wallet_secondary_label_updating">Aktualizuję</string>
+    <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>
