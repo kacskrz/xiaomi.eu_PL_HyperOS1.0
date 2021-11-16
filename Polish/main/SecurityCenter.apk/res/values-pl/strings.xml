@@ -5219,4 +5219,10 @@ Wycofać zgodę?"</string>
     <string name="summary_safe_mode">Neutralizuj ryzyko w trakcie instalacji</string>
     <string name="title_safe_mode">Włącz Tryb bezpieczny</string>
     <string name="dev_sign_notification_content">"Używasz teraz systemu Android 12 Beta. Informacje zwrotne dostarczane przez Ciebie pomogą Xiaomi zidentyfikować i naprawić problemy. Dziękujemy za wzięcie udziału w tym programie!"</string>
+    <string name="gamebox_ai_subtitle">Napisy SI</string>
+    <string name="power_center_surface_temp_high">Gorąca</string>
+    <string name="power_center_surface_temp_higher">Ciepła</string>
+    <string name="power_center_surface_temp_low">Zimna</string>
+    <string name="power_center_surface_temp_lower">Chłodna</string>
+    <string name="power_center_surface_temp_normal">Normalna</string>
 </resources>

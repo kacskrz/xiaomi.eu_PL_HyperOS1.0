@@ -1166,4 +1166,8 @@ Zrób sobie przerwę!"</item>
         <item quantity="few">Dodaj maks. %d aplikacje. Przeciągnij dodane elementy, aby zmienić ich kolejność.</item>
         <item quantity="one">Dodaj maks. %d aplikację. Przeciągnij dodane elementy, aby zmienić ich kolejność.</item>
     </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Zezwolono dla %s aplikacji</item>
+        <item quantity="one">Zezwolono dla %s aplikacji</item>
+    </plurals>
 </resources>

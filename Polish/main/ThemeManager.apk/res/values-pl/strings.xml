@@ -1461,4 +1461,29 @@ Wszystkie elementy personalizacji używane obecnie na tym urządzeniu. Przywróc
     <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Po wycofaniu zgody na warunki Polityki prywatności Tapet i personalizacji Xiaomi zaprzestanie gromadzenia informacji o Tobie. Dane, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej.
 5. Wycofanie zgody nie oznacza zwolnienia lub złagodzenia odpowiedzialności wynikającej z czynności dokonanych przed wycofaniem tejże zgody."</string>
     <string name="theme_log_out">Wyloguj</string>
+    <string name="apply_warning_get_device_dialog_message">Aby móc używać pobranych treści, zezwól tej funkcji na dostęp do Twojego ID urządzenia. Możesz nadać to uprawnienie w Ustawieniach > Prywatność.</string>
+    <string name="basic_mode">Tryb offline</string>
+    <string name="basic_mode_desc">"Motywy nie będą się łączyć z Internetem i będą korzystać tylko z treści przechowywanych lokalnie. Nie będą gromadzone żadne informacje o Tobie."</string>
+    <string name="browse_mode">Tryb online</string>
+    <string name="browse_mode_desc">"Motywy będą się łączyć z Internetem i korzystać z treści przechowywanych online oraz lokalnie. Nie będą gromadzone żadne informacje o Tobie."</string>
+    <string name="close_custom_permission_warning_text">"Bez uprawnień do pamięci aplikacja nie będzie mogła pobierać elementów i personalizować Twojego urządzenia. Wyłączyć mimo to?"</string>
+    <string name="custom_storage_permission_desc">Aby móc zmieniać ustawienia dot. personalizacji i zapisywać pobrane elementy, zezwól tej funkcji na dostęp do pamięci. Możesz nadać to uprawnienie w Ustawieniach > Prywatność.</string>
+    <string name="dialog_negative_button_text">Nie teraz</string>
+    <string name="dialog_positive_button_text">Zezwól</string>
+    <string name="dialog_trans_wallpaper_offline_detail">"Przezroczyste tapety nie są już dostępne, ponieważ nie są one wspierane przez Androida 12."</string>
+    <string name="dialog_trans_wallpaper_offline_inform_detail">Przezroczyste tapety nie są już dostępne ze względu na ograniczenia Androida 12 oraz problemy z kompatybilnością.</string>
+    <string name="dialog_trans_wallpaper_offline_inform_title">Przezroczyste tapety</string>
+    <string name="dialog_trans_wallpaper_offline_title">"Przezroczyste tapety nie są dostępne"</string>
+    <string name="login_theme">Zaloguj się do Motywów</string>
+    <string name="personalize_recommend_switch_desc">Otrzymuj spersonalizowane rekomendacje w oparciu o ID urządzenia</string>
+    <string name="privacy_remind_user_mode_agree">Zgadzam się</string>
+    <string name="privacy_remind_user_mode_content"><Data>Aby używać tej funkcji, wyraź zgodę na warunki Polityki prywatności. Przeczytaj &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">te warunki&lt;/a>&lt;/font>, aby dowiedzieć się, jak Xiaomi gromadzi, używa, przekazuje, przetwarza i przechowuje dane, które dostarczasz w trakcie używania aplikacji Motywy.</Data></string>
+    <string name="privacy_remind_user_mode_title">Uwaga</string>
+    <string name="privacy_select_mode">Wybierz tryb</string>
+    <string name="privacy_select_mode_desc">"Ponieważ nie wyrażono zgody na warunki Polityki prywatności, wybierz jeden z poniższych trybów:"</string>
+    <string name="prvicay_permission_not_allow_desc">"Aplikacja wymaga dostępu do pamięci, aby usunąć wszystkie dane wygenerowane na tym urządzeniu. Jeśli nie przyznasz tego uprawnienia, niektóre dane mogą nie zostać usunięte. Zrezygnować z usług mimo to?
+Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
+    <string name="read_and_agree_account_privacy"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Polityki prywatności&lt;/a>&lt;/font> Konta Xiaomi."</Data></string>
+    <string name="trans_wallpaper_offline_notice">"Przezroczyste tapety nie są dostępne"</string>
+    <string name="voice_input">Wprowadzanie głosowe</string>
 </resources>

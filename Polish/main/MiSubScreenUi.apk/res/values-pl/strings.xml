@@ -328,4 +328,5 @@ dd.MM."</string>
     <string name="wilderness_dialing">Łączenie</string>
     <string name="wilderness_is_starting">Włączanie Superoszczędzania baterii…</string>
     <string name="app_name">Tylny wyświetlacz</string>
+    <string name="music_null">Nie odtwarzasz muzyki</string>
 </resources>

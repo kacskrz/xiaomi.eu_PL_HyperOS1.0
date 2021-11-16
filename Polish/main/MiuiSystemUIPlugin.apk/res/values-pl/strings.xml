@@ -339,4 +339,5 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
     <string name="miuix_appcompat_select_item">Wybierz elementy</string>
     <string name="send">Wyślij</string>
+    <string name="quick_settings_aitranslate_label">Tłumaczenie SI Mi</string>
 </resources>

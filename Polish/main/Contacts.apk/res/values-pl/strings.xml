@@ -1632,4 +1632,8 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="privacy_settings_call_phone_for_pad">Wykonywanie połączeń</string>
   <string name="privacy_settings_contacts_for_pad">Prywatność</string>
   <string name="toast_not_show_storage_perm_req_for_pad">Aby móc dodawać zdjęcia profilowe i importować wizytówki vCard, najpierw zezwól tej aplikacji na dostęp do pamięci.</string>
+  <string name="saf_permission_dialog_content">"Domyślnie Android nie zezwala aplikacji Kontakty i Telefon na dostęp do nagrań połączeń. Zezwól tym aplikacjom na dostęp do tych nagrań, aby móc wyświetlić ich listę."</string>
+  <string name="saf_permission_dialog_grant_permission_immediately">Zezwól</string>
+  <string name="saf_permission_dialog_later">Później</string>
+  <string name="saf_permission_dialog_title">Zezwól aplikacji Kontakty i Telefon na dostęp do nagrań połączeń</string>
 </resources>

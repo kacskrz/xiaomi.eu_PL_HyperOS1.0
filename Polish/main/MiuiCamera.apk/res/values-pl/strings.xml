@@ -2029,4 +2029,17 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="beauty_mo_or">Oryginalny</string>
   <string name="beauty_s_cl">Skóra</string>
   <string name="beauty_sm_or">Skóra</string>
+  <string name="accessibility_privacy_watermark">Ochrona dokumentów znakiem wodnym</string>
+  <string name="dialog_privacy_watermark_button_cancel">Anuluj</string>
+  <string name="dialog_privacy_watermark_button_input">Wprowadź</string>
+  <string name="dialog_privacy_watermark_msg">Wprowadź tekst</string>
+  <string name="dialog_privacy_watermark_title">Ochrona dokumentów znakiem wodnym</string>
+  <string name="newbie_privacy_watermark_msg">Użyj znaków wodnych, aby chronić swoje dokumenty przed nieautoryzowanym kopiowaniem</string>
+  <string name="newbie_privacy_watermark_title">Chroń swoje dokumenty</string>
+  <string name="popup_tips_privacy_watermark_edit">Edytuj znak wodny</string>
+  <string name="pref_privacy_watermark_edit">Własny tekst</string>
+  <string name="pref_privacy_watermark_edit_clear_history">Wyczyść historię</string>
+  <string name="pref_privacy_watermark_edit_history">Historia</string>
+  <string name="pref_privacy_watermark_entry">Ochrona dokumentów znakiem wodnym</string>
+  <string name="pref_privacy_watermark_switch">Włącz ochronę</string>
 </resources>

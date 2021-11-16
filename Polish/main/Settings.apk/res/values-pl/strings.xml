@@ -6466,7 +6466,7 @@ Wydajność może poprawić inny nośnik ^1."</string>
   <string name="summary_font_size_v2">Dostosuj rozmiar tekstu, obrazów i ikon</string>
   <string name="summary_range_verbal_combination">Od: %1$s do: %2$s</string>
   <string name="sunlight_mode">Tryb \"Światło słoneczne\"</string>
-  <string name="sunlight_mode_summary">Dostosuj jasność do mocnego światła z zewnątrz, gdy automatyczna jasność jest wyłączona</string>
+  <string name="sunlight_mode_summary">Dostosuj jasność do mocnego światła z zewnątrz, aby polepszyć widoczność treści na ekranie</string>
   <string name="super_resolution_access_title">Kompatybilne aplikacje</string>
   <string name="super_resolution_desc">Używana jest sztuczna inteligencja (SI) do wyostrzania zdjęć</string>
   <string name="super_resolution_maintain">"Super resolution isn't available yet."</string>
@@ -10028,7 +10028,12 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="shoulder_key_shortcut_single_click">Wciśnięcie</string>
     <string name="shoulder_key_shortcut_turn_on_torch">Latarka</string>
     <string name="shoulder_key_shortcut_vibrate">Wibracja</string>
-    <string name="memorycard_calculating">Obliczanie</string>
+    <string name="memorycard_calculating">Obliczanie…</string>
     <string name="closed_beta">Stabilna (wewnętrzna)</string>
     <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="brightness_auto_summary">Dostosuj jasność do światła otoczenia, aby oszczędzać baterię</string>
+    <string name="high_brightness_hint_summary">Gdy światło otoczenia jest mocne, na górze ekranu pojawi się mała ikona słońca</string>
+    <string name="screen_brightness">Jasność ekranu</string>
+    <string name="smart_dual_sim_title">Inteligentny tryb dual SIM</string>
+    <string name="wifi_multi_network_acceleration_title">Przyspieszenie sieci</string>
 </resources>

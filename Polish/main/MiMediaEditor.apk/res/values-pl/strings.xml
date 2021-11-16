@@ -1534,4 +1534,19 @@
      <string name="filter_popular_sunset_gold">Blask</string>
      <string name="onekey_beautify_tag_done">Zastosowano efekty</string>
      <string name="sticker_tab_talkback_halloween">Halloween</string>
+     <string name="photo_editor_crop_size_landscape_fullscreen">Pełny ekran ↔</string>
+     <string name="photo_editor_crop_size_portrait_fullscreen">Pełny ekran ↕</string>
+     <string name="photo_editor_navigator_tab_title_ai">SI</string>
+     <string name="photo_editor_navigator_tab_title_basic">Podstawowe</string>
+     <string name="photo_editor_navigator_tab_title_beauty">Upiększanie</string>
+     <string name="photo_editor_talkback_crop_landscape_screen">Proporcje pełnoekranowe. Orientacja pozioma.</string>
+     <string name="photo_editor_talkback_crop_portrait_screen">Proporcje pełnoekranowe. Orientacja pionowa.</string>
+     <string name="saf_operation_guide_1">"Aby móc chronić i zarządzać Twoimi danymi, Edytor Galerii potrzebuje Twojego pozwolenia. "</string>
+     <string name="saf_operation_guide_2">Aby przyznać uprawnienie, dotknij opcji \"%1$s\", a następnie wybierz opcję \"%2$s\".</string>
+     <string name="saf_operation_guide_param1">Dalej</string>
+     <string name="saf_operation_guide_param2">Dostęp do tego folderu</string>
+     <string name="saf_requester_cancel">Anuluj</string>
+     <string name="saf_requester_title">Zezwól Edytorowi Galerii na dostęp do katalogu \"%s\"</string>
+     <string name="saf_secret_album">Prywatny album</string>
+     <string name="saf_secret_album_guide">Aplikacja wymaga uprawnień do wyświetlania elementów z prywatnego albumu.</string>
 </resources>
