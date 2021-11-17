@@ -10043,4 +10043,6 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="zone_menu_by_region">Wybierz według regionu</string>
     <string name="zone_time_type_dst">Zmiana czasu na letni</string>
     <string name="zone_time_type_standard">Czas standardowy</string>
+    <string name="speed_mode">Tryb prędkości</string>
+    <string name="speed_mode_summary">W celu debugowania aplikacji</string>
 </resources>

@@ -785,4 +785,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="revoke_privacy_policy_title">Wycofanie zgody na warunki umów</string>
   <string name="user_license_with_3rd_app_no_operator"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;a href=%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%2$s>Polityki prywatności&lt;/a> Xiaomi, a także warunki &lt;a href=%3$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%4$s>Polityki prywatności&lt;/a> Konta Xiaomi."</Data></string>
   <string name="user_license_with_out_3rd_app_no_operator"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;a href=%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%2$s>Polityki prywatności&lt;/a> Konta Xiaomi."</Data></string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>
