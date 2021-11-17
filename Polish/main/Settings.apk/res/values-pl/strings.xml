@@ -10036,4 +10036,11 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="screen_brightness">Jasność ekranu</string>
     <string name="smart_dual_sim_title">Inteligentny tryb dual SIM</string>
     <string name="wifi_multi_network_acceleration_title">Przyspieszenie sieci</string>
+    <string name="zone_change_to_from_dst">%1$s zaczyna się: %2$s.</string>
+    <string name="zone_info_footer">Używa czasu: %1$s; %2$s zaczyna się %3$s r.</string>
+    <string name="zone_info_footer_no_dst">Używa czasu %1$s. Nie ma czasu letniego.</string>
+    <string name="zone_menu_by_offset">Wybierz wg przesunięcia UTC</string>
+    <string name="zone_menu_by_region">Wybierz według regionu</string>
+    <string name="zone_time_type_dst">Zmiana czasu na letni</string>
+    <string name="zone_time_type_standard">Czas standardowy</string>
 </resources>
