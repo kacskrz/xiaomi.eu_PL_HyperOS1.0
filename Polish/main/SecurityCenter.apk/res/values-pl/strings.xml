@@ -4946,7 +4946,7 @@ Twoje urządzenie jest teraz o %s szybsze."</string>
     <string name="auto_task_default_task_summary_listen_music">Odtwórz muzykę i wybierz typ słuchawek</string>
     <string name="auto_task_default_task_summary_meet">Zaplanuj spotkanie i włącz tryb Godziny ciszy</string>
     <string name="auto_task_default_task_summary_noon_break">Zaplanuj drzemkę i włącz tryb Godziny ciszy</string>
-    <string name="auto_task_default_task_summary_save_power">Włącz Oszczędzanie baterii, gdy jej poziom wynosi mniej niż %s</string>
+    <string name="auto_task_default_task_summary_save_power">Włącz Oszczędzanie baterii, gdy jej poziom wynosi mniej niż 30%</string>
     <string name="auto_task_default_task_summary_sleep">Zaplanuj czas na sen i dostosuj zachowanie urządzenia</string>
     <string name="auto_task_default_task_summary_watch_video">Otwórz aplikację, włącz Wi-Fi, dostosuj głośność</string>
     <string name="auto_task_default_task_title_driver_car">Jazda</string>
