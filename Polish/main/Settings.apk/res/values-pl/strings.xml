@@ -10045,4 +10045,7 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="zone_time_type_standard">Czas standardowy</string>
     <string name="speed_mode">Tryb prędkości</string>
     <string name="speed_mode_summary">W celu debugowania aplikacji</string>
+    <string name="freeform_guide_multi_window">Wielozadaniowość</string>
+    <string name="freeform_vedio_description_pad">Przeciągaj elementy poza dok, aby otwierać pływające okna</string>
+    <string name="security_check_progress_dialog_message">Sprawdzanie bezpieczeństwa…</string>
 </resources>

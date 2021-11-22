@@ -1186,4 +1186,5 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="cloud_service_open_authorization">"Witaj w usługach Chmury Xiaomi! Możesz jej używać do synchronizacji swoich notatek, zdjęć i filmów, nagrań i innych elementów aplikacji systemowych, w tym układu pulpitu, pomiędzy swoimi urządzeniami. Podgląd wszystkich zsynchronizowanych elementów jest możliwy poprzez wejście na stronę i.mi.com."</string>
   <string name="cloud_service_title">Chmura Xiaomi</string>
   <string name="open_service_title">Włącz</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>

@@ -364,4 +364,5 @@ Wymagane są uprawnienia."</string>
   <string name="backup_action_no_space_with_wechat_off_title">"Nieudana kopia elementów"</string>
   <string name="backup_action_no_space_with_wechat_on_content">Brakuje miejsca w Chmurze, aby wykonać kopię danych WeChat. Ulepsz swój plan chmury, aby móc wykonać kopię.</string>
   <string name="backup_action_no_space_with_wechat_on_title">"Nieudana kopia WeChat"</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>
