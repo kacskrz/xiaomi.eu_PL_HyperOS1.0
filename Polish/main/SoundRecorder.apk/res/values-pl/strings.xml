@@ -446,4 +446,16 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="record_permission_dialog_title">Wymagane uprawnienia dostępu do mikrofonu</string>
   <string name="storage_permission_dialog_title">Wymagane uprawnienia dostępu do pamięci</string>
   <string name="view_privacy">Wyświetl Politykę prywatności</string>
+  <string name="invisible_mode_error_tip">Wyłącz Tryb incognito w Ustawieniach, aby móc używać mikrofonu.</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="progress">Pasek postępu odtwarzania</string>
+  <string name="saf_permission_dialog_content">Ze względu na ograniczenia Androida Dyktafon wymaga uprawnień, aby uzyskać dostęp do nagrań utworzonych przez inne aplikacje. Zezwól tej aplikacji na dostęp do tych nagrań, aby móc je zobaczyć.</string>
+  <string name="saf_permission_dialog_grant_permission_immediately">Ustawienia</string>
+  <string name="saf_permission_dialog_later">Nie, dziękuję</string>
+  <string name="saf_permission_dialog_no_more_tip">"Nie pokazuj ponownie"</string>
+  <string name="saf_permission_dialog_title">Wymagane uprawnienia</string>
+  <string name="settings_saf_permission">Uprawnienia dot. zarządzania plikami</string>
 </resources>

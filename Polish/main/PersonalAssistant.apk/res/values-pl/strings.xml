@@ -1532,4 +1532,55 @@
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_third" formatted="false">Lista aplikacji w sklepie z widżetami. %s element na liście aplikacji. Wybrano %s, numer %s na liście. Element zawiera %s widżetów, dotknij dwa razy, aby otworzyć opis widżetu.</string>
     <string name="pa_accessibility_picker_widget_group_item" formatted="false">Sklep z widżetami. Wybrano %s. Dotknij dwa razy, aby otworzyć opis widżetu. Element zawiera %s widżetów.</string>
     <string name="pa_shortcut_desc_add_button_install">Aby móc skorzystać z \"%2$s\", najpierw zainstaluj aplikację %1$s.</string>
+    <string name="pa_picker_permission_denied">"Asystent MIUI musi mieć dostęp do stanu instalacji,
+aby wyświetlać widżety."</string>
+    <string name="pa_picker_request">Ustawienia</string>
+    <string name="pa_setting_privacy_category_perm">Uprawnienia</string>
+    <string name="pa_setting_privacy_category_priv">Polityka prywatności</string>
+    <string name="pa_setting_privacy_category_revoke">Wycofanie zgody i rezygnacja z usług</string>
+    <string name="pa_setting_privacy_logout">Rezygnacja z usług</string>
+    <string name="pa_setting_privacy_logout_dialog_message">"Jeśli przejdziesz dalej, zrezygnujesz z usług Asystenta MIUI. Nie będzie można zobaczyć ani korzystać z jego widżetów. Dane osobowe, które zostały już zgromadzone i przechowywane, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami. Zrezygnować z usług?"</string>
+    <string name="pa_setting_privacy_logout_dialog_title">Rezygnacja z usług Asystenta MIUI</string>
+    <string name="pa_setting_privacy_logout_summary">Rezygnacja z usług Asystenta MIUI</string>
+    <string name="pa_setting_privacy_perm_desc">Szczegóły dot. uprawnień</string>
+    <string name="pa_setting_privacy_perm_granted">Przyznano</string>
+    <string name="pa_setting_privacy_perm_install_app">Dostęp do listy zainstalowanych aplikacji</string>
+    <string name="pa_setting_privacy_perm_install_app_desc">W celu dostarczania sugestii aplikacji</string>
+    <string name="pa_setting_privacy_perm_not_granted">Nie przyznano</string>
+    <string name="pa_setting_privacy_perm_storage">Dostęp do pamięci</string>
+    <string name="pa_setting_privacy_policy_update_again_message">"Nie będzie można korzystać z tych usług, dopóki nie wyrazisz zgody na warunki nowej wersji %s. Czy chcesz to teraz zrobić?"</string>
+    <string name="pa_setting_privacy_policy_update_again_title">Uwaga</string>
+    <string name="pa_setting_privacy_policy_update_agree">Zgadzam się</string>
+    <string name="pa_setting_privacy_policy_update_exit">Wyjdź</string>
+    <string name="pa_setting_privacy_policy_update_link">Polityka prywatności</string>
+    <string name="pa_setting_privacy_policy_update_message" formatted="false">"Zaktualizowano Politykę prywatności Asystenta MIUI:
+%sPrzeczytaj i zaakceptuj warunki nowej wersji %s, zanim przejdziesz dalej."</string>
+    <string name="pa_setting_privacy_policy_update_title">Zaktualizowano Politykę prywatności</string>
+    <string name="pa_setting_privacy_revoke_cta">Wycofanie zgody</string>
+    <string name="pa_setting_privacy_revoke_cta_message">"Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Asystenta MIUI.  you'll withdraw your consent to the Privacy Policy of App vault. Dane osobowe, które zostały już zgromadzone i przechowywane, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ Asystent MIUI dostarcza swoje usługi w oparciu o niezbędne dane osobowe, wycofanie zgody na warunki jego Polityki prywatności zostanie potraktowane jako brak akceptacji jego usług. Wycofać zgodę?"</string>
+    <string name="pa_setting_privacy_revoke_cta_positive">Wycofaj</string>
+    <string name="pa_setting_privacy_revoke_cta_progress">Wycofaj (%ds)</string>
+    <string name="pa_setting_privacy_revoke_cta_summary">Wycofaj zgodę na warunki Polityki prywatności Asystenta MIUI</string>
+    <string name="pa_setting_privacy_revoke_error_message">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="pa_setting_privacy_revoke_error_title">"Nie udało się wycofać zgody"</string>
+    <string name="pa_setting_privacy_revoke_no_net_message">Aby móc wycofać zgodę, Twoje urządzenie musi się połączyć z Internetem. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+    <string name="pa_setting_privacy_revoke_no_net_title">"Nie udało się połączyć z siecią"</string>
+    <string name="pa_setting_privacy_revoke_positive">Rozumiem</string>
+    <string name="pa_setting_privacy_third_parties">Stanowisko dot. udostępniania danych firmom trzecim</string>
+    <string name="pa_setting_privacy_view_priv">Wyświetl Politykę prywatności</string>
+    <string name="pa_accessibility_home_search">Wyszukiwanie, dotknij dwa razy, aby rozpocząć</string>
+    <string name="pa_accessibility_home_widget_drag">Przeciąganie elementu</string>
+    <string name="pa_accessibility_home_widget_drag_move">Przenieś do rzędu %1$d, na pozycję %2$d</string>
+    <string name="pa_accessibility_home_widget_drop_workspace">Przeniesiono do rzędu %1$d, na pozycję %2$d</string>
+    <string name="pa_shortcut_desc_add_button">Dodaj %1$s do strony startowej</string>
+    <string name="pa_shortcut_desc_delete_button">Usuń %1$s ze strony startowej</string>
+    <string name="pa_shortcut_desc_more_button">Wyświetl wszystkie skróty</string>
+    <string name="pa_stock_desc_add_stock">Dodaj %1$s</string>
+    <string name="pa_stock_desc_add_success">Pomyślnie dodano</string>
+    <string name="pa_stock_desc_cancel_pin">Odepnij</string>
+    <string name="pa_stock_desc_delete_stock">Usuń %1$s</string>
+    <string name="pa_stock_desc_move_stock">Prztrzymaj, aby przenieść spółkę</string>
+    <string name="pa_stock_desc_pin_stock">Przypnij do strony startowej</string>
+    <string name="pa_stock_init_toast">Inicjalizacja widżetów…</string>
+    <string name="pa_stock_search_input_hint">Wprowadź nazwę spółki lub jej symbol giełdowy</string>
 </resources>

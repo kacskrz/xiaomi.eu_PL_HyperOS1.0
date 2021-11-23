@@ -92,4 +92,9 @@
         <item quantity="one">%d nowe powiadomienie</item>
         <item quantity="few">%d nowe powiadomienia</item>
     </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">%d nowych nagrań</item>
+        <item quantity="one">%d nowe nagranie</item>
+        <item quantity="few">%d nowe nagrania</item>
+    </plurals>
 </resources>

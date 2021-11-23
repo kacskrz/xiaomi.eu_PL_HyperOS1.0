@@ -162,4 +162,5 @@ Dotknij, aby je zobaczyć."</string>
   <string name="permission_desc">Szczegóły dot. uprawnień</string>
   <string name="privacy_settings">Prywatność</string>
   <string name="view_privacy">Wyświetl Politykę prywatności</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>

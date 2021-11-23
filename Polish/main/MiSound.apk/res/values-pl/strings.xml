@@ -372,4 +372,5 @@
   <string name="sound_id_test_pre_question">Wstecz</string>
   <string name="sound_id_test_select_note">Odtwórz oba nagrania i wybierz te, które lubisz bardziej</string>
   <string name="sound_id_wired_analog_headset">Słuchawki przewodowe</string>
+  <string name="speaker_scenario_resume">Przywróć oryginalne efekty</string>
 </resources>
