@@ -1486,4 +1486,5 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="read_and_agree_account_privacy"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Polityki prywatności&lt;/a>&lt;/font> Konta Xiaomi."</Data></string>
     <string name="trans_wallpaper_offline_notice">"Przezroczyste tapety nie są dostępne"</string>
     <string name="voice_input">Wprowadzanie głosowe</string>
+    <string name="personalized_cta_content_text">Witaj w Motywach! Możesz używać tej aplikacji do zarządzania swoimi tapetami, dzwonkami, czcionkami itd.</string>
 </resources>

@@ -347,4 +347,8 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="global_remove_app_description_content">"Radio FM to aplikacja systemowa. Po usunięciu jej skrótu z pulpitu słuchanie radia może być utrudnione."</string>
   <string name="global_remove_app_description_title">Usunąć skrót do Radia FM z pulpitu?</string>
   <string name="talkback_speed">Prędkość</string>
+  <string name="input_length_exceeds_limit">Wprowadzony tekst jest za długi</string>
+  <string name="request_agree">Zezwól</string>
+  <string name="request_cancel">Anuluj</string>
+  <string name="request_gallery_permission_message">Zezwól na dostęp do Galerii:&lt;br />Aby móc ustawiać zdjęcia profilowe</string>
 </resources>

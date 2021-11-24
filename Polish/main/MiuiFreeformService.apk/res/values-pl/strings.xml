@@ -37,4 +37,7 @@
     <string name="v7_preference_on">WŁ.</string>
     <string name="freeform_demo_next_tutorial">Dalej</string>
     <string name="freeform_demo_previous_tutorial">Wstecz</string>
+    <string name="freeform_slide_to_small_freeform_summary_pad">Przeciągnij róg, aby zminializować aplikację</string>
+    <string name="multi_window_cvw">Pływające okno</string>
+    <string name="multi_window_cvw_summary">Przeciągnij róg, aby włączyć pływające okno i dostosować jego kształt</string>
 </resources>

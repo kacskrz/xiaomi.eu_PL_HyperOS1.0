@@ -10048,4 +10048,7 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="freeform_guide_multi_window">Wielozadaniowość</string>
     <string name="freeform_vedio_description_pad">Przeciągaj elementy poza dok, aby otwierać pływające okna</string>
     <string name="security_check_progress_dialog_message">Sprawdzanie bezpieczeństwa…</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Przeciągnij róg, aby zminializować aplikację</string>
+    <string name="multi_window_cvw_summary">Przeciągnij róg, aby włączyć pływające okno i dostosować jego kształt</string>
+    <string name="multi_window_cvw_title">Pływające okno</string>
 </resources>

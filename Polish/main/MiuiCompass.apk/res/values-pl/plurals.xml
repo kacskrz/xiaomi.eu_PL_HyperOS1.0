@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="current_page_number">
+        <item quantity="other">Obecna strona %d</item>
+        <item quantity="one">Obecna strona %d</item>
+    </plurals>
+    <plurals name="total_pages">
+        <item quantity="other">Łącznie %d stron</item>
+        <item quantity="few">Łącznie %d strony</item>
+        <item quantity="one">Łącznie %d strona</item>
+    </plurals>
+</resources>
