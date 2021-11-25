@@ -243,7 +243,7 @@
   <string name="bank_card_detail">Dane karty kredytowej</string>
   <string name="battery_saver">Oszczędzanie baterii</string>
   <string name="battery_saver_keywords">oszczędzanie baterii; akumulator poczty</string>
-  <string name="bcc">"UDW: "</string>
+  <string name="bcc">UDW</string>
   <string name="bill_center_setting">Ustawienia rozliczeniowe</string>
   <string name="bill_center_setting_head">Importuj informacje z tych kont</string>
   <string name="bill_cycle_text">Cykl rozliczeniowy</string>
@@ -263,8 +263,8 @@
   <string name="cancel_action">Anuluj</string>
   <string name="cancel_pop3_attchemt_downloading">Nie można anulować bieżącego pobrania załączników dla kont POP3</string>
   <string name="cant_move_or_change_labels">Nie można przenosić elementów między kontami.</string>
-  <string name="cc">"DW: "</string>
-  <string name="cc_bcc">"DW/UDW: "</string>
+  <string name="cc">DW</string>
+  <string name="cc_bcc">DW/UDW</string>
   <string name="cc_heading">"DW: "</string>
   <string name="certificate_add_failed">Nie udało się dodać certyfikatu \"%s\".</string>
   <string name="certificate_added">Dodano certyfikat \"%s\".</string>
@@ -1029,7 +1029,7 @@ Brak połączenia z siecią."</string>
   <string name="str_select_all">Wszystko</string>
   <string name="str_select_none">Odznacz wsz.</string>
   <string name="subject_and_snippet" formatted="false">%s – %s</string>
-  <string name="subject_hint">"Temat: "</string>
+  <string name="subject_hint">Temat</string>
   <string name="sync_calendra_fail_per_content">Dotknij, aby zezwolić</string>
   <string name="sync_calendra_fail_per_title">"Nie udało się zsynchronizować wydarzeń z kalendarza"</string>
   <string name="sync_calendra_fail_permission">"Nie udało się zsynchronizować wydarzeń z kalendarza. Zezwól Poczcie na dostęp do kalendarza."</string>
