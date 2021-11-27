@@ -1417,4 +1417,13 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj jej warunki."</string>
     <string name="conv_item_official">Oficjalne</string>
     <string name="conv_item_risk_tip">Ryzyko</string>
     <string name="menu_report">Opinia</string>
+    <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
+    <string name="service_abandon_alert">Uwaga</string>
+    <string name="service_abandon_retry_deny">Wstecz</string>
+    <string name="service_abandon_retry_setting">Ustawienia</string>
+    <string name="sim_activation_service_retry_main_purpose">Aby Wiadomości w Chmurze mogły działać normalnie, musi być włączona usługa aktywacji karty SIM. Możesz to zrobić w Ustawieniach > Aplikacje.</string>
+    <string name="xiaomi_account_service_retry_main_purpose">Aby ta funkcja mogła działać normalnie, muszą być włączone usługi Konta Xiaomi. Możesz to zrobić w Ustawieniach > Aplikacje.</string>
 </resources>

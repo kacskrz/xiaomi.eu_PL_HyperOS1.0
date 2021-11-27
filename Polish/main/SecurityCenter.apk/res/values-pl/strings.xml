@@ -3849,7 +3849,7 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="permission_instruction_read_contacts">Te uprawnienie zezwala aplikacjom na dostęp do informacji o kontaktach znajdujących się na urządzeniu. Mogą one zawierać częstotliwość Twoich kontaktów z konkretną osobą poprzez połączenia, e-maile i inne kanały komunikacji. Ponadto aplikacje z tym uprawnieniem mogą zapisywać kontakty. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu udostępnienia kontaktów bez Twojej zgody.</string>
   <string name="permission_instruction_read_notify_sms">Te uprawnienie zezwala aplikacjom na odczyt powiadomienia o SMS-ie znajdującego się na urządzeniu bądź karcie SIM.</string>
   <string name="permission_instruction_read_phone_state">"Te uprawnienie zezwala aplikacjom na dostęp do Twojego numeru telefonu, numerów IMEI oraz IMSI, a także innych danych identyfikujących urządzenie. Aplikacje korzystają z tego uprawnienia w celu określenia, czy Twoje połączenia mają być przekierowane. Jeśli korzystasz z wirtualnego ID urządzenia, nie będą one mogły uzyskać dostępu do Twoich aktualnych identyfikatorów urządzenia."</string>
-  <string name="permission_instruction_read_sms">Te uprawnienie zezwala aplikacjom na odczyt wszystkich SMS-ów znajdujących się na urządzeniu bądź karcie SIM. Mogą one zawierać m.in. hasła, kody jednorazowe, dane dot. konta w banku czy inne osobiste dane.</string>
+  <string name="permission_instruction_read_sms">Te uprawnienie zezwala aplikacjom na odczyt wszystkich SMS-ów i MMS-ów znajdujących się na urządzeniu bądź karcie SIM. Mogą one zawierać m.in. hasła, kody jednorazowe, dane dot. konta w banku czy inne osobiste dane.</string>
   <string name="permission_instruction_read_write_calendar">Te uprawnienie zezwala aplikacjom na dostęp do Twojego kalendarza. Mogą one również odczytywać, dodawać, usuwać, edytować, udostępniać i zapisywać wydarzenia w kalendarzu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu wysłania wiadomości pochodzących rzekomo od Ciebie lub edytowania wydarzeń z kalendarza bez Twojej zgody.</string>
   <string name="permission_instruction_receive_mms">>Te uprawnienie zezwala aplikacjom na odczyt wszystkich MMS-ów znajdujących się na urządzeniu bądź karcie SIM. Mogą one zawierać m.in. hasła, kody jednorazowe, dane dot. konta w banku czy inne osobiste dane.</string>
   <string name="permission_instruction_record_audio">"Te uprawnienie zezwala aplikacjom na korzystanie z mikrofonu w celu nagrania dźwięku. Pamiętaj jednak, że te uprawnienie zezwala aplikacjom na nagranie wszystkiego, co dzieje się w Twoim otoczeniu, włącznie z Twoimi rozmowami z innymi osobami. Najlepszą opcją jest zezwolenie aplikacjom na korzystanie z tego uprawnienia wyłącznie wtedy, gdy ich rzeczywiście używasz."</string>
@@ -5203,7 +5203,7 @@ Wycofać zgodę?"</string>
     <string name="gd_setting_group_custom_line_location">Położenie przybornika</string>
     <string name="gd_setting_group_custom_settings">Personalizacja</string>
     <string name="gd_setting_group_custom_vtb_apps">Aplikacje do obsługi wideo</string>
-    <string name="gd_setting_group_smart_tool_box">Prosty przybornik</string>
+    <string name="gd_setting_group_smart_tool_box">Pasek boczny</string>
     <string name="gd_setting_group_title_switch">Sytuacje</string>
     <string name="gd_setting_gtb">Pokazuj w trakcie grania</string>
     <string name="gd_setting_gtb_desc">Specjalne funkcje dla graczy</string>
@@ -5212,7 +5212,7 @@ Wycofać zgodę?"</string>
     <string name="gd_setting_guide_two">Przesuń od krawędzi, aby wysunąć przybornik wideo</string>
     <string name="gd_setting_miui_dock">Zawsze wyświetlaj</string>
     <string name="gd_setting_shorthand">Szybkie notatki</string>
-    <string name="gd_setting_title">Prosty przybornik</string>
+    <string name="gd_setting_title">Pasek boczny</string>
     <string name="gd_setting_vtb">Pokazuj w trakcie oglądania filmów</string>
     <string name="gd_setting_vtb_desc">Specjalne funkcje dla filmów</string>
     <string name="no_privacy_permission">Nie wymaga zgody na warunki Polityki prywatności</string>
@@ -5225,4 +5225,6 @@ Wycofać zgodę?"</string>
     <string name="power_center_surface_temp_low">Zimna</string>
     <string name="power_center_surface_temp_lower">Chłodna</string>
     <string name="power_center_surface_temp_normal">Normalna</string>
+    <string name="power_rank_surface_flinger">Renderowanie</string>
+    <string name="power_rank_system">System Android</string>
 </resources>

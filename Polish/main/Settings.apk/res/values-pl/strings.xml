@@ -10004,7 +10004,7 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="sos_privacy_revoke_failed_dialog_title">"Nie udało się wycofać zgody"</string>
     <string name="external_ram_remind_toast">Zaczyna brakować miejsca w pamięci. Rozszerzenie pamięci zostało wyłączone.</string>
     <string name="miheadset_hd_audio_title">Dźwięk HD</string>
-    <string name="gd_setting_title">Prosty przybornik</string>
+    <string name="gd_setting_title">Pasek boczny</string>
     <string name="safe_install_mode_settings">Tryb bezpieczny</string>
     <string name="miheadset_hd_audio_summary">Odtwarzaj dźwięk w wysokiej jakości (%1$d-bit/%2$d kHz)</string>
     <string name="dns_select_dialog_title">Wybierz tryb prywatnego DNS</string>
