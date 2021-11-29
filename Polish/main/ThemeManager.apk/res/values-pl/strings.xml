@@ -1487,4 +1487,22 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="trans_wallpaper_offline_notice">"Przezroczyste tapety nie są dostępne"</string>
     <string name="voice_input">Wprowadzanie głosowe</string>
     <string name="personalized_cta_content_text">Witaj w Motywach! Możesz używać tej aplikacji do zarządzania swoimi tapetami, dzwonkami, czcionkami itd.</string>
+    <string name="fold_close_failed">"Nie udało się wyłączyć"</string>
+    <string name="fold_close_incall_dialog_content">"Wideo profilowe nie są już wspierane. Po przejściu dalej nie będzie można już włączyć tej funkcji. Wyłączyć mimo to?"</string>
+    <string name="fold_close_incall_dialog_title">Wyłącz wideo profilowe</string>
+    <string name="fold_close_success">Pomyślnie wyłączono</string>
+    <string name="fold_preference_btn_close">Wyłącz</string>
+    <string name="fold_preference_btn_restore">Przywróć</string>
+    <string name="fold_preference_close_incall">Wyłącz wideo profilowe</string>
+    <string name="fold_preference_restore_default_icon">Przywróć domyślne ikony</string>
+    <string name="fold_preference_restore_default_theme">Przywróć domyślny motyw</string>
+    <string name="fold_restore_default_failed">"Nie udało się przywrócić"</string>
+    <string name="fold_restore_default_icon_dialog_content">"Nie można zmieniać teraz ikon na tym urządzeniu. Jeśli zmieniano je wcześniej, możliwe jest teraz przywrócenie ich oryginalnych form. Po przejściu dalej nie będzie można już zmieniać ikon."</string>
+    <string name="fold_restore_default_icon_dialog_title">Przywróć domyślne ikony</string>
+    <string name="fold_restore_default_success">Pomyślnie przywrócono</string>
+    <string name="fold_restore_default_theme_dialog_agree">Przywróć</string>
+    <string name="fold_restore_default_theme_dialog_content">"Nie można używać teraz Motywów na tym urządzeniu. Jeśli zmieniano motyw wcześniej, możliwe jest teraz przywrócenie oryginalnego motywu. Po przejściu dalej nie będzie można już zmieniać motywu."</string>
+    <string name="fold_restore_default_theme_dialog_disagree">Nie, dziękuję</string>
+    <string name="fold_restore_default_theme_dialog_title">Przywróć domyślny motyw</string>
+    <string name="purchased">Zamówienia</string>
 </resources>

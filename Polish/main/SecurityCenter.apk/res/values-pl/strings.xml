@@ -5227,4 +5227,9 @@ Wycofać zgodę?"</string>
     <string name="power_center_surface_temp_normal">Normalna</string>
     <string name="power_rank_surface_flinger">Renderowanie</string>
     <string name="power_rank_system">System Android</string>
+    <string name="system_anti_fraud_dialog_confirm_btn_txt">Rozumiem</string>
+    <string name="system_anti_fraud_dialog_content">"Wygląda na to, że otrzymano fałszywe połączenie bądź wiadomość. Dokonanie tej płatności może spowodować straty finansowe."</string>
+    <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Jeśli pracownicy obsługi technicznej, urzędy bądź ludzie, których znasz, żądają od Ciebie dokonania tej płatności, &lt;/font>&lt;font = color=#F22424>zweryfikuj ich tożsamość, zanim przejdziesz dalej.&lt;/font></string>
+    <string name="system_anti_fraud_dialog_image_txt">Ochrona przed oszustwami</string>
+    <string name="system_anti_fraud_dialog_title">Ostrzeżenie przed próbą oszustwa</string>
 </resources>

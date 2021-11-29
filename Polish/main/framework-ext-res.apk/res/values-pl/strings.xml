@@ -477,4 +477,5 @@
   <string name="global_phone">Mój telefon</string>
   <string name="pc_redmi_device_model_name">Laptop Redmi</string>
   <string name="pc_xiaomi_device_model_name">Laptop Xiaomi</string>
+  <string name="edit_frequent_phrases">Edytuj częste zwroty</string>
 </resources>

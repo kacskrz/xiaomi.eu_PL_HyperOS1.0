@@ -10044,11 +10044,16 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="zone_time_type_dst">Zmiana czasu na letni</string>
     <string name="zone_time_type_standard">Czas standardowy</string>
     <string name="speed_mode">Tryb prędkości</string>
-    <string name="speed_mode_summary">W celu debugowania aplikacji</string>
+    <string name="speed_mode_summary">Gdy ten tryb jest włączony, wydajność urządzenia się polepszy, lecz zarazem zwiększy on zużycie energii i generowane ciepło. Używaj go z rozwagą.</string>
     <string name="freeform_guide_multi_window">Wielozadaniowość</string>
     <string name="freeform_vedio_description_pad">Przeciągaj elementy poza dok, aby otwierać pływające okna</string>
     <string name="security_check_progress_dialog_message">Sprawdzanie bezpieczeństwa…</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Przeciągnij róg, aby zminializować aplikację</string>
     <string name="multi_window_cvw_summary">Przeciągnij róg, aby włączyć pływające okno i dostosować jego kształt</string>
     <string name="multi_window_cvw_title">Pływające okno</string>
+    <string name="auto_task_operation_close">Zamknij</string>
+    <string name="menu_item_notification_power_text">Optymalizacja baterii</string>
+    <string name="p2p_summary_enable_GPS">Funkcja działa wtedy, gdy włączone są usługi lokalizacji</string>
+    <string name="speed_mode_noti_summary">Tryb prędkości zwiększy zużycie energii i generowane ciepło</string>
+    <string name="speed_mode_noti_title">Włączono tryb prędkości</string>
 </resources>

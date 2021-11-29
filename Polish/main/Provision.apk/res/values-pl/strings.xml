@@ -442,4 +442,8 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="sim_card_do_not_select_dial_card">Wybierz kartę SIM do dzwonienia</string>
     <string name="sim_card_network_card1">Dane kom. SIM1</string>
     <string name="sim_card_network_card2">Dane kom. SIM2</string>
+    <string name="bluetooth_introduction">Bluetooth jest używane przez system w celu bezprzewodowej komunikacji między urządzeniami. Aby móc działać normalnie, Bluetooth wymaga następujących uprawnień:</string>
+    <string name="disagreement_terminate_bluetooth">"Jeśli nie nadasz tych uprawnień, nie będzie można korzystać z Bluetooth. Możesz włączać i wyłączać Bluetooth, a także dodawać urządzenia Bluetooth w Ustawieniach."</string>
+    <string name="permission_call_records_describe_bluetooth_summary">W celu zezwalania innym kompatybilnym urządzeniom łączonym przez Ciebie z tym urządzeniem na dostęp do historii połączeń. Wydarzy się to tylko wtedy, gdy zachodzi konieczność korzystania z historii połączeń przez inne urządzenie. Historia połączeń i kontakty udostępniane przez system poprzez Bluetooth będą przetwarzane wyłącznie lokalnie na urządzeniach i udostępniane im za Twoim pozwoleniem.</string>
+    <string name="permission_contact_describe_bluetooth_summary">W celu zezwalania innym kompatybilnym urządzeniom łączonym przez Ciebie z tym urządzeniem na dostęp do kontaktów. Wydarzy się to tylko wtedy, gdy włączysz Bluetooth lub będziesz edytować swoje kontakty wtedy, gdy jest ono włączone.</string>
 </resources>

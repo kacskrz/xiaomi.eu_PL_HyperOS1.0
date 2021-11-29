@@ -2042,4 +2042,6 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="pref_privacy_watermark_edit_history">Historia</string>
   <string name="pref_privacy_watermark_entry">Ochrona dokumentów znakiem wodnym</string>
   <string name="pref_privacy_watermark_switch">Włącz ochronę</string>
+  <string name="pref_camera_dynamic_frame_rate_summary_new">Automatycznie zmniejsz częstotliwość odświeżania dla filmów nagrywanych w słabych warunkach oświetleniowych bądź w wysokiej temperaturze</string>
+  <string name="pref_camera_dynamic_frame_rate_title_new">Automatyczna częstotliwość nagrywania</string>
 </resources>

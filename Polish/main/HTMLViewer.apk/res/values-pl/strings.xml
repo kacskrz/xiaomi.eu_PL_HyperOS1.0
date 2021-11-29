@@ -46,4 +46,7 @@
   <string name="user_manual">Przewodnik</string>
   <string name="close">Zamknij</string>
   <string name="send">Wyślij</string>
+  <string name="action_use_network">Użyj</string>
+  <string name="error_continue_via_browser">Szczegóły</string>
+  <string name="ssl_error_untrusted">"Certyfikat nie jest podpisany przez zaufany urząd certyfikacji. Używać mimo to?"</string>
 </resources>

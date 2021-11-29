@@ -403,4 +403,18 @@
     <string name="miuix_indexer_selected">Wybrano %s</string>
     <string name="miuix_indexer_collect">Kolekcje</string>
     <string name="speakerphone_tip">Złóż urządzenie, aby użyć słuchawek lub głośnika</string>
+    <string name="incoming_show_permission_msg">"Nie można odtwarzać wideo profilowych dla przychodzących połączeń bez uprawnień do pamięci"</string>
+    <string name="call_progress_info_call_forwarding">Przekierowano rozmowę</string>
+    <string name="call_progress_info_call_rejected">Rozmówca jest teraz zajęty. Zadzwoń później.</string>
+    <string name="call_progress_info_call_waiting">Rozmówca prowadzi obecnie rozmowę. Proszę czekać…</string>
+    <string name="call_progress_info_no_answer_from_user">"Rozmówca nie odebrał połączenia"</string>
+    <string name="call_progress_info_no_user_responding">"Numer, pod który dzwonisz, nie ma zasięgu"</string>
+    <string name="call_progress_info_nonuser_call_rejected">"Numer, pod który dzwonisz, jest nieczynny"</string>
+    <string name="call_progress_info_remote_available">Rozmówca został powiadomiony o Twojej rozmowie. Proszę czekać…</string>
+    <string name="call_progress_info_subscriber_absent">"Numer, pod który dzwonisz, jest niedostępny"</string>
+    <string name="call_progress_info_unallocated_number">"Numer, pod który dzwonisz, nie istnieje"</string>
+    <string name="call_progress_info_user_busy">Rozmówca jest teraz zajęty. Zadzwoń później.</string>
+    <string name="call_progress_info_user_call_rejected">Twój numer jest niedostępny</string>
+    <string name="card_title_in_crbt">Oczekiwanie na odpowiedź…</string>
+    <string name="incoming_video_crs_call">Odtwarzanie wideo profilowego…</string>
 </resources>

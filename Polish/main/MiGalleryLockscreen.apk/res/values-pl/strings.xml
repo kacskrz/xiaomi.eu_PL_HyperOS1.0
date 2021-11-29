@@ -827,8 +827,8 @@ dd.M"</string>
   <string name="privacy_update_confirm">Zgadzam się</string>
   <string name="privacy_update_quit">Wyjdź</string>
   <string name="privacy_update_summary1">Zaktualizowano Politykę prywatności Tapet Blokady:</string>
-  <string name="privacy_update_summary2">"Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Polityki prywatności&lt;/font>&lt;/a>."</string>
-  <string name="privacy_update_summary3">"Nie będzie można używać usług Tapet Blokady, dopóki nie wyrazisz zgody na warunki nowej wersji &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Polityki prywatności&lt;/font>&lt;/a>. Czy chcesz to zrobić?"</string>
+  <string name="privacy_update_summary2">"Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Polityki prywatności&lt;/font>&lt;/a>."</string>
+  <string name="privacy_update_summary3">"Nie będzie można używać usług Tapet Blokady, dopóki nie wyrazisz zgody na warunki nowej wersji &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Polityki prywatności&lt;/font>&lt;/a>. Czy chcesz to zrobić?"</string>
   <string name="revoke_button">Wycofaj</string>
   <string name="revoke_failed1">Błąd</string>
   <string name="revoke_failed2">Błąd</string>
@@ -841,4 +841,11 @@ dd.M"</string>
   <string name="revoke_privacy_summary">"Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Tapet Blokady. Informacje już zgromadzone i przechowywane zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyha że ustalono inaczej. Ponieważ usługi Tapet Blokady są dostarczane w oparciu o niezbędne dane osobowe, wycofanie przez Ciebie zgody na warunki umów zostanie potraktowane jako odmowa akceptacji tychże usług. Wycofać zgodę?"</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
+  <string name="login_app">Zaloguj się</string>
+  <string name="login_app_cancel">Anuluj</string>
+  <string name="login_app_confirm">Zaloguj się</string>
+  <string name="login_xiaomi_account_summary">"Potwierdzam, że przeczytano i zaakceptowano warunki &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Umowy użytkownika&lt;/font>&lt;/a> oraz &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Polityki prywatności&lt;/font>&lt;/a> Konta Xiaomi."</string>
+  <string name="not_agree_summary">Najpierw wyraź zgodę na warunki użytkowania</string>
+  <string name="privacy_update_title1">Zaktualizowano Politykę prywatności</string>
+  <string name="privacy_update_title2">Uwaga</string>
 </resources>

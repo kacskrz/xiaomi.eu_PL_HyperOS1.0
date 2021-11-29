@@ -1573,7 +1573,7 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="wifi_pad_disable_phone">"Nie można wykonywać połączeń na tym urządzeniu"</string>
   <string name="permission_notice_desc_access_fine_location">W celu importowania kontaktów z innych urządzeń poprzez Bluetooth</string>
   <string name="permission_notice_desc_add_voicemail">W celu używania funkcjonalności poczty głosowej oraz wiadomości audio</string>
-  <string name="permission_notice_desc_call_phone">W celu wykonywania połączeń w aplikacjach firm trzecich</string>
+  <string name="permission_notice_desc_call_phone">W celu wykonywania połączeń przez skróty na pulpicie</string>
   <string name="permission_notice_desc_camera">W celu wykonywania zdjęć profilowych</string>
   <string name="permission_notice_desc_read_call_logs">W celu wyświetlania historii połączeń</string>
   <string name="permission_notice_desc_read_contacts">W celu wyświetlania kontaktów</string>
@@ -1584,13 +1584,13 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="permission_notice_desc_write_contacts">W celu zarządzania kontaktami</string>
   <string name="permission_notice_desc_write_external_storage">W celu dodawania zdjęć profilowych i importowania wizytówek vCard</string>
   <string name="permission_retry_deny">Anuluj</string>
-  <string name="permission_retry_dialog_msg">Aby móc używać Twojej karty SIM w tej aplikacji, zarządzać swoimi kontaktami i aktualizować na bieżąco historię połączeń, zezwól tej aplikacji na dostęp do historii połączeń oraz kontaktów oraz ich edycję, a także na dostęp do informacji o urządzeniu.</string>
+  <string name="permission_retry_dialog_msg">Aby móc używać Twojej karty SIM w tej aplikacji, wykonywać połączenia przez skróty na pulpicie, zarządzać swoimi kontaktami i aktualizować na bieżąco historię połączeń, zezwól tej aplikacji na dostęp do historii połączeń oraz kontaktów oraz ich edycję, wykonywanie połączeń, a także dostęp do informacji o urządzeniu.</string>
   <string name="permission_retry_dialog_msg_pad">Aby móc używać Twojej karty SIM w tej aplikacji i zarządzać swoimi kontaktami, zezwól tej aplikacji na dostęp do kontaktów oraz ich edycję, a także na dostęp do informacji o urządzeniu.</string>
   <string name="permission_retry_setting">Ustawienia</string>
   <string name="preference_privacy_settings">Prywatność</string>
   <string name="preference_privacy_settings_title">Prywatność</string>
   <string name="privacy_settings_call_phone">Wykonywanie połączeń</string>
-  <string name="privacy_settings_call_phone_description">W celu wykonywania połączeń w aplikacjach firm trzecich</string>
+  <string name="privacy_settings_call_phone_description">W celu wykonywania połączeń przez skróty na pulpicie</string>
   <string name="privacy_settings_contacts">Kontakty i Telefon</string>
   <string name="privacy_settings_mallowed">Przyznano</string>
   <string name="privacy_settings_mnotallowed">Nie przyznano</string>
@@ -1636,4 +1636,5 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="saf_permission_dialog_grant_permission_immediately">Zezwól</string>
   <string name="saf_permission_dialog_later">Później</string>
   <string name="saf_permission_dialog_title">Zezwól aplikacji Kontakty i Telefon na dostęp do nagrań połączeń</string>
+  <string name="item_offical">Oficjalna</string>
 </resources>

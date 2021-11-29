@@ -1131,7 +1131,7 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="dialog_add_shortcut_content">Dodaj skrót do Chmury Xiaomi na pulpicie, aby móc zarządzać jej przestrzenią bardziej efektywnie.</string>
   <string name="dialog_add_shortcut_title">Dodaj skrót</string>
   <string name="dialog_storage_full_title">Brak miejsca w Chmurze</string>
-  <string name="dialog_storage_low_content">Aby normalnie synchronizować elementy, ulepsz swój plan Chmury.</string>
+  <string name="dialog_storage_low_content">Aby kontynuować synchronizację, ulepsz swój plan Chmury.</string>
   <string name="dialog_storage_low_title">Mało miejsca w Chmurze</string>
   <string name="micloud_storage_detail">Szczegóły</string>
   <string name="micloud_storage_family_quota">Udostępnianie rodzinne</string>
@@ -1187,4 +1187,6 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="cloud_service_title">Chmura Xiaomi</string>
   <string name="open_service_title">Włącz</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="dialog_storage_upgrade_later">Nie, dziękuję</string>
+  <string name="dialog_storage_upgrade_now">Ulepsz</string>
 </resources>
