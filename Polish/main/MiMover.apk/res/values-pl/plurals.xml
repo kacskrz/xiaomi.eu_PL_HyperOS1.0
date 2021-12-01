@@ -175,4 +175,13 @@
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementów</item>
     </plurals>
+    <plurals name="app_update_64_dialog_message">
+        <item quantity="other">%1$d aplikacji zainstalowanych na tym urządzeniu mogą być zaktualizowane do wersji 64-bitowych. Zrób to, aby polepszyć ich działanie.</item>
+        <item quantity="few">%1$d aplikacje zainstalowane na tym urządzeniu mogą być zaktualizowane do wersji 64-bitowych. Zrób to, aby polepszyć ich działanie.</item>
+        <item quantity="one">Jedna z aplikacji zainstalowanych na tym urządzeniu może zostać zaktualizowana do wersji 64-bitowej. Zrób to, aby polepszyć jej działanie.</item>
+    </plurals>
+    <plurals name="app_update_64_notification_title">
+        <item quantity="other">64-bitowe aktualizacje %1$d aplikacji</item>
+        <item quantity="one">64-bitowa aktualizacja jednej z aplikacji</item>
+    </plurals>
 </resources>
