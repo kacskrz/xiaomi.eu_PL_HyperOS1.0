@@ -728,7 +728,7 @@
   <string name="navigation_guide_recent_title_spec_with_quotation_pad">Otwórz menu ostatnio otwartych aplikacji</string>
   <string name="maml_download_dialog_cancel_text">Czekaj na Wi-Fi</string>
   <string name="maml_download_dialog_cancel_text_china">Czekaj na Wi-Fi</string>
-  <string name="maml_download_dialog_checkbox_text">"Nie pokazuj ponownie"</string>
+  <string name="maml_download_dialog_checkbox_text">"Nie pokazuj ponownie przez %d minut"</string>
   <string name="maml_download_dialog_confirm_text">Pobierz</string>
   <string name="maml_download_dialog_message">Do pobrania tego elementu zostanie wykorzystane %s MB danych mobilnych. Pobrać?</string>
   <string name="maml_download_dialog_title">Ostrzeżenie dot. zużycia danych</string>

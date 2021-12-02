@@ -135,4 +135,9 @@
         <item quantity="few">%d minuty temu</item>
         <item quantity="many">%d minut temu</item>
     </plurals>
+    <plurals name="app_info_permission_count_">
+        <item quantity="other">%1$s uprawnień,</item>
+        <item quantity="few">%1$s uprawnienia,</item>
+        <item quantity="one">%1$s uprawnienie,</item>
+    </plurals>
 </resources>

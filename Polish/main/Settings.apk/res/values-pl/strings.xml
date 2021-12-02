@@ -10056,4 +10056,5 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="p2p_summary_enable_GPS">Funkcja działa wtedy, gdy włączone są usługi lokalizacji</string>
     <string name="speed_mode_noti_summary">Tryb prędkości zwiększy zużycie energii i generowane ciepło</string>
     <string name="speed_mode_noti_title">Włączono tryb prędkości</string>
+    <string name="environmental_speech_recognition">Rozpoznawanie dźwięków otoczenia</string>
 </resources>

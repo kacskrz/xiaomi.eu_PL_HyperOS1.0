@@ -887,4 +887,8 @@ and never miss the cool new ones!"</string>
     <string name="no_permission">Aby mieć dostęp do tej funkcji, nadaj wymagane uprawnienia</string>
     <string name="to_open">Ustawienia</string>
     <string name="to_setting">Ustawienia</string>
+    <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>
