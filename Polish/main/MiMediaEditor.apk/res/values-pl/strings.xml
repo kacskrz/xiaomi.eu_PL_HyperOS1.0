@@ -1549,4 +1549,6 @@
      <string name="saf_requester_title">Zezwól Edytorowi Galerii na dostęp do katalogu \"%s\"</string>
      <string name="saf_secret_album">Prywatny album</string>
      <string name="saf_secret_album_guide">Aplikacja wymaga uprawnień do wyświetlania elementów z prywatnego albumu.</string>
+     <string name="screen_editor_delete_dialog_picture_msg">Usunąć ten obrazek?</string>
+     <string name="share_and_delete_picture">Usuń po udostępnieniu</string>
 </resources>

@@ -692,4 +692,12 @@
         <item quantity="few">%2$d albumy, włącznie z %1$s</item>
         <item quantity="one">%2$d album (%1$s)</item>
     </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="one">%d min.</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="one">%d sek.</item>
+        <item quantity="other">%d sek.</item>
+    </plurals>
 </resources>
