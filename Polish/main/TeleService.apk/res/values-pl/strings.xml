@@ -1998,4 +1998,5 @@ Nadal możesz wykonywać połączenia alarmowe."</string>
   <string name="switch_debug_menu">Dodatkowe ustawienia sieci</string>
   <string name="uplmn_summary">Pokaż dostępne ustawienia sieci operatora w ustawieniach karty SIM</string>
   <string name="uplmn_title">Ustawienia sieci operatora</string>
+  <string name="smart_multinetwork_acceleration_title">Inteligentna akceleracja sieci</string>
 </resources>

@@ -483,4 +483,6 @@ Magazyn danych logowania może nie zostać włączony"</string>
   <string name="radio_info_nr_available">Dostępne NR:</string>
   <string name="radio_info_nr_frequency">Częstotliwość NR:</string>
   <string name="radio_info_nr_state">Stan NR:</string>
+  <string name="anti_fraud_notification_msg">Odrzuć to połączenie, aby uniknąć oszustwa</string>
+  <string name="anti_fraud_notification_title">Ostrzeżenie przed oszustwem</string>
 </resources>

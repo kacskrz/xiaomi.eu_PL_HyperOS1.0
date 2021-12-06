@@ -5232,4 +5232,7 @@ Wycofać zgodę?"</string>
     <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Jeśli pracownicy obsługi technicznej, urzędy bądź ludzie, których znasz, żądają od Ciebie dokonania tej płatności, &lt;/font>&lt;font = color=#F22424>zweryfikuj ich tożsamość, zanim przejdziesz dalej.&lt;/font></string>
     <string name="system_anti_fraud_dialog_image_txt">Ochrona przed oszustwami</string>
     <string name="system_anti_fraud_dialog_title">Ostrzeżenie przed próbą oszustwa</string>
+    <string name="gd_splite_screen_tips">"Dzielony ekran nie wspiera pływających okien"</string>
+    <string name="pc_battery_chart_loading">Chwileczkę…</string>
+    <string name="vb_video_effects_3d_summary_headset">Zwiększenie poczucia immersji i otoczki podczas słuchania dźwięku w słuchawkach</string>
 </resources>

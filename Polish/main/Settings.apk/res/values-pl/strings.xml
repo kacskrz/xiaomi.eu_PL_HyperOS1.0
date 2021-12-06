@@ -10057,4 +10057,6 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="speed_mode_noti_summary">Tryb prędkości zwiększy zużycie energii i generowane ciepło</string>
     <string name="speed_mode_noti_title">Włączono tryb prędkości</string>
     <string name="environmental_speech_recognition">Rozpoznawanie dźwięków otoczenia</string>
+    <string name="detailed_wifi_logging_disabled">Szczegółowe logi Wi-Fi wył.</string>
+    <string name="detailed_wifi_logging_enabled">Szczegółowe logi Wi-Fi wł.</string>
 </resources>

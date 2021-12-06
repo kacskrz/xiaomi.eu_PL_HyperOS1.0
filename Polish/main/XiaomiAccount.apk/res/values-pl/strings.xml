@@ -786,4 +786,11 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="user_license_with_3rd_app_no_operator"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;a href=%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%2$s>Polityki prywatności&lt;/a> Xiaomi, a także warunki &lt;a href=%3$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%4$s>Polityki prywatności&lt;/a> Konta Xiaomi."</Data></string>
   <string name="user_license_with_out_3rd_app_no_operator"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;a href=%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%2$s>Polityki prywatności&lt;/a> Konta Xiaomi."</Data></string>
   <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="account_verify_guide_verify_phone_desc">Potwierdź numer telefonu</string>
+  <string name="cloud_service_status_backup_not_open">Kopia zapasowa wył.</string>
+  <string name="cloud_service_status_cloud_not_open">Wył.</string>
+  <string name="cloud_service_status_storage_full">Pamięć jest pełna</string>
+  <string name="cloud_service_status_storage_not_enough">Brak miejsca</string>
+  <string name="notify_verify_again_security_phone">Potwierdź</string>
+  <string name="notify_verify_security_phone">Telefon</string>
 </resources>

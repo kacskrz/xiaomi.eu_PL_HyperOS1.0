@@ -1189,4 +1189,10 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="dialog_storage_upgrade_later">Nie, dziękuję</string>
   <string name="dialog_storage_upgrade_now">Ulepsz</string>
+  <string name="update_dialog_check_button_text">Sprawdź aktualizacje</string>
+  <string name="update_dialog_ignore_button_text">Nie, dziękuję</string>
+  <string name="update_dialog_no_internet_toast_text">Sprawdź połączenie z Internetem i spróbuj ponownie</string>
+  <string name="update_dialog_no_update_toast_text">Wersja jest aktualna</string>
+  <string name="update_dialog_title">Dostępna aktualizacja</string>
+  <string name="update_dialog_update_button_text">Aktualizuj</string>
 </resources>
