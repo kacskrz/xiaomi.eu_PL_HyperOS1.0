@@ -10059,4 +10059,6 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="environmental_speech_recognition">Rozpoznawanie dźwięków otoczenia</string>
     <string name="detailed_wifi_logging_disabled">Szczegółowe logi Wi-Fi wył.</string>
     <string name="detailed_wifi_logging_enabled">Szczegółowe logi Wi-Fi wł.</string>
+    <string name="connection_control">Zarządzaj połączeniami</string> 
+    <string name="interconnection">Łączenie z innymi urządzeniami</string>
 </resources>

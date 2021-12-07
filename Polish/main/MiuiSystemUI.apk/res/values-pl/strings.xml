@@ -3158,4 +3158,5 @@ Jeśli masz pytania, skontaktuj się z organizacją %2$s."</string>
     <string name="face_unlock_locked">"Nie można teraz użyć Odblokowania twarzą"</string>
     <string name="input_pattern_after_face_not_allowed">Wprowadź hasło co najmniej raz w ciągu %d godzin, aby je zapamiętać</string>
     <string name="input_pattern_or_finger_after_face_not_allowed">Wprowadź hasło lub użyj odcisku palca co najmniej raz w ciągu %d godzin, aby je zapamiętać</string>
+    <string name="input_pattern_after_restart_msg">Aby kontynuować, potwierdź blokadę ekranu</string> 
 </resources>
