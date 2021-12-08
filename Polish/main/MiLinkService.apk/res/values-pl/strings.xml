@@ -286,4 +286,24 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="privacy_update_dialog_negative_btn">Anuluj</string>
     <string name="privacy_update_dialog_positive_btn">Zgadzam się</string>
     <string name="privacy_update_dialog_quit">Wyjdź</string>
+    <string name="config_wifi_label_china">Skonfiguruj Wi-Fi MiPaiPai</string>
+    <string name="config_wifi_label_global">Skonfiguruj Wi-Fi MiPaiPai</string>
+    <string name="dual_wifi_warning_china">Wyłącz Podwójne Wi-Fi i spróbuj ponownie</string>
+    <string name="dual_wifi_warning_global">Wyłącz Podwójne Wi-Fi i spróbuj ponownie</string>
+    <string name="msg_send_fail">"Nie udało się przesłać danych"</string>
+    <string name="paipai_connect_btn_text">Gotowe</string>
+    <string name="paipai_connect_tv1_text">Połączono z urządzeniem</string>
+    <string name="paipai_connect_tv2_text">Przesłano dane</string>
+    <string name="paipai_error_dialog_msg">Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+    <string name="paipai_error_dialog_negative">Rozumiem</string>
+    <string name="scan_wifi_label_china">Połącz się z Wi-Fi</string>
+    <string name="scan_wifi_label_global">Połącz się z Wi-Fi</string>
+    <string name="show_result_on_tv">Zobacz wyniki na telewizorze</string>
+    <string name="toast_invisible_mode1">"Projekcja nie będzie działać, gdy włączony jest tryb incognito"</string>
+    <string name="wifi_connect_btn_text">Skonfiguruj</string>
+    <string name="wifi_other">Inne sieci</string>
+    <string name="wifi_passwd_et_hint">Wprowadź hasło</string>
+    <string name="wifi_recommendation">Wybierz sieci %1$d GHz, aby uzyskać lepszą jakość projekcji.</string>
+    <string name="wifi_scan_btn_text">Skanuj ponownie</string>
+    <string name="wifi_username_et_hint">Wprowadź identyfikator konta</string>
 </resources>

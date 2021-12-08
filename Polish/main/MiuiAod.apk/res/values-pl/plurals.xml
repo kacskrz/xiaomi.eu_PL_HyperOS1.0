@@ -85,4 +85,28 @@ Dłuższe animacje zostaną w tym momencie zatrzymane."</item>
         <item quantity="many">"Czas odtwarzania animacji nie może przekroczyć %d sekund.
 Dłuższe animacje zostaną w tym momencie zatrzymane."</item>
     </plurals>
+    <plurals name="character_pitch_minus">
+        <item quantity="other">Zmniejszono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
+        <item quantity="one">Zmniejszono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
+        <item quantity="few">Zmniejszono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
+        <item quantity="many">Zmniejszono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">Zwiększono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
+        <item quantity="one">Zwiększono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
+        <item quantity="few">Zwiększono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
+        <item quantity="many">Zwiększono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
+    </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">Zwiększono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
+        <item quantity="one">Zwiększono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
+        <item quantity="few">Zwiększono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
+        <item quantity="many">Zwiększono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">Zmniejszono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
+        <item quantity="one">Zmniejszono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
+        <item quantity="few">Zmniejszono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
+        <item quantity="many">Zmniejszono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
+    </plurals>
 </resources>

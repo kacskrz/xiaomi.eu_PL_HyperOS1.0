@@ -179,4 +179,46 @@
         <item quantity="one">Co najmniej %1$d znak</item>
         <item quantity="few">Co najmniej %1$d znaki</item>
     </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+        <item quantity="other">Sklep z widżetami. Lista aplikacji. %d elementów na liście.</item>
+        <item quantity="few">Sklep z widżetami. Lista aplikacji. %d elementy na liście.</item>
+        <item quantity="one">Sklep z widżetami. Lista aplikacji. %d element na liście.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+        <item quantity="other">Numer %d na liście.</item>
+        <item quantity="one">Numer %d na liście.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+        <item quantity="other">Element zawiera %d widżetów. Dotknij dwa razy, aby otworzyć opis widżetu.</item>
+        <item quantity="few">Element zawiera %d widżety. Dotknij dwa razy, aby otworzyć opis widżetu.</item>
+        <item quantity="one">Element zawiera %d widżet. Dotknij dwa razy, aby otworzyć opis widżetu.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+        <item quantity="other">Sklep z widżetami. Lista aplikacji. %d elementów na liście.</item>
+        <item quantity="few">Sklep z widżetami. Lista aplikacji. %d elementy na liście.</item>
+        <item quantity="one">Sklep z widżetami. Lista aplikacji. %d element na liście.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+        <item quantity="other">Numer %d na liście.</item>
+        <item quantity="one">Numer %d na liście.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+        <item quantity="other">Element zawiera %d widżetów. Dotknij dwa razy, aby otworzyć opis widżetu.</item>
+        <item quantity="few">Element zawiera %d widżety. Dotknij dwa razy, aby otworzyć opis widżetu.</item>
+        <item quantity="one">Element zawiera %d widżet. Dotknij dwa razy, aby otworzyć opis widżetu.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+        <item quantity="other">Sklep z widżetami. Lista aplikacji. %d elementów na liście.</item>
+        <item quantity="few">Sklep z widżetami. Lista aplikacji. %d elementy na liście.</item>
+        <item quantity="one">Sklep z widżetami. Lista aplikacji. %d element na liście.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+        <item quantity="other">Numer %d na liście.</item>
+        <item quantity="one">Numer %d na liście.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+        <item quantity="other">Element zawiera %d widżetów. Dotknij dwa razy, aby otworzyć opis widżetu.</item>
+        <item quantity="few">Element zawiera %d widżety. Dotknij dwa razy, aby otworzyć opis widżetu.</item>
+        <item quantity="one">Element zawiera %d widżet. Dotknij dwa razy, aby otworzyć opis widżetu.</item>
+    </plurals>
 </resources>

@@ -1195,4 +1195,8 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="update_dialog_no_update_toast_text">Wersja jest aktualna</string>
   <string name="update_dialog_title">Dostępna aktualizacja</string>
   <string name="update_dialog_update_button_text">Aktualizuj</string>
+  <string name="alert_sync_data_merge_dialog_title">Elementy zostaną połączone</string>
+  <string name="alert_sync_merge_dialog_cancel">Anuluj</string>
+  <string name="alert_sync_merge_dialog_confirm">Włącz</string>
+  <string name="contact_alert_sync_data_merge_dialog_msg">Jeśli włączysz synchronizację, kontakty wysłane do Chmury z tego urządzenia zostaną połączone z kontaktami już przechowywanymi w Chmurze. Włączyć synchronizację?</string>
 </resources>

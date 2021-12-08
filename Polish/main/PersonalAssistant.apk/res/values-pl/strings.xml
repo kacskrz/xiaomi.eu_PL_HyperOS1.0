@@ -1254,19 +1254,16 @@
     <string name="app_olympic_card_title_info">Dane są dostarczane przez firmę trzecią, mogą być opóźnione</string>
     <string name="app_olympic_gold_medal_country_region">Kraj</string>
     <string name="app_olympic_gold_medal_total">Razem</string>
-    <string name="pa_accessibility_picker_back">Sklep z widżetami. Wybrano akcję Wstecz. Dotknij dwa razy, aby wykonać akcję Wstecz.</string>
+    <string name="pa_accessibility_picker_back">Wykonaj akcję Wstecz.</string>
     <string name="pa_accessibility_picker_search_cancel">Pasek wyszukiwania widżetu. Dotknij dwa razy, aby anulować.</string>
     <string name="pa_accessibility_picker_search_tips">Pasek wyszukiwania widżetu. Dotknij dwa razy, aby wyszukać.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">%s. Wybrano przycisk na dole. Dotknij dwa razy, aby dodać ten element na pulpit.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">%s. Wybrano przycisk na dole. Dotknij dwa razy, aby dodać ten element do Asystenta MIUI.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Dotknij dwa razy, aby dodać ten element na pulpit.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Dotknij dwa razy, aby dodać ten element do Asystenta MIUI.</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Edytuj</string>
-    <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Wybrano widżet %s. Przeciągnij, aby dodać ten element na pulpit.</string>
-    <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Wybrano widżet %s. Przeciągnij, aby dodać ten element do Asystenta MIUI.</string>
+    <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Wybrano widżet. Przeciągnij, aby dodać ten element na pulpit.</string>
+    <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Wybrano widżet. Przeciągnij, aby dodać ten element do Asystenta MIUI.</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Sklep z widżetami. Wybierz, aby wyświetlić wszystkie widżety dla %s. Dotknij dwa razy, aby wyświetlić wszystkie widżety dla %s.</string>
-    <string name="pa_accessibility_picker_widget_item_add_to_desktop">Sklep z widżetami. Wybrano %s. Przeciągnij, aby dodać ten element na pulpit. Dotknij dwa razy, aby wyświetlić szczegóły widżetu.</string>
-    <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">Sklep z widżetami. Wybrano %s. Przeciągnij, aby dodać ten element do Asystenta MIUI. Dotknij dwa razy, aby wyświetlić szczegóły widżetu.</string>
-    <string name="pa_accessibility_picker_widget_item_add_to_third">Sklep z widżetami. Wybrano %s. Przeciągnij, aby go teraz użyć. Dotknij dwa razy, aby wyświetlić szczegóły widżetu.</string>
-    <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">%s. Wybrano przycisk edycji. Dotknij dwa razy, aby edytować.</string>
+    <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Dotknij dwa razy, aby edytować.</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Widżet</string>
     <string name="pa_app_label">Asystent MIUI</string>
     <string name="pa_cancel">Anuluj</string>
@@ -1344,7 +1341,7 @@
     <string name="pa_picker_detail_download_app_dialog_message_install_suffix">Dodane</string>
     <string name="pa_picker_detail_download_app_dialog_message_upgrade_prefix">Aktualizuj</string>
     <string name="pa_picker_detail_download_maml_dialog_cancel">Czekaj na Wi-Fi</string>
-    <string name="pa_picker_detail_download_maml_dialog_checkbox_text">"Nie pokazuj ponownie"</string>
+    <string name="pa_picker_detail_download_maml_dialog_checkbox_text">"Nie pokazuj ponownie przez %d minut"</string>
     <string name="pa_picker_detail_download_maml_dialog_confirm">Pobierz</string>
     <string name="pa_picker_detail_download_maml_dialog_message">Do pobrania tego widżetu w tym momencie potrzebne jest %s danych mobilnych. Pobrać mimo to?</string>
     <string name="pa_picker_detail_download_maml_dialog_title">Ostrzeżenie dot. użycia danych</string>
@@ -1583,4 +1580,16 @@ aby wyświetlać widżety."</string>
     <string name="pa_stock_desc_pin_stock">Przypnij do strony startowej</string>
     <string name="pa_stock_init_toast">Inicjalizacja widżetów…</string>
     <string name="pa_stock_search_input_hint">Wprowadź nazwę spółki lub jej symbol giełdowy</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">Wybrano %s.</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">Wybrano %s.</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">Wybrano %s.</string>
+    <string name="pa_edit_switch">Przełącz</string>
+    <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Chwileczkę…</string>
+    <string name="pa_picker_list_load_complete">Dotknij, aby załadować więcej</string>
+    <string name="pa_picker_list_load_end">Nie ma więcej elementów do pokazania</string>
+    <string name="pa_picker_list_load_failed">"Nie udało się załadować elementów. Dotknij, aby spróbować ponownie."</string>
+    <string name="pa_picker_list_loading">Chwileczkę…</string>
+    <string name="pa_sports_widget_empty_basketball">Koszykówka</string>
+    <string name="pa_sports_widget_empty_football">Piłka nożna</string>
+    <string name="pa_sports_widget_empty_recommend">Zalecane</string>
 </resources>
