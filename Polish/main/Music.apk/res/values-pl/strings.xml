@@ -1369,4 +1369,6 @@ Jeśli nie zgadzasz się na korzystanie ze wspomnianych usług, niektóre funkcj
   <string name="music_quality">Jakość dźwięku</string>
   <string name="no_lyrics">Brak tekstu</string>
   <string name="toast_hungama_vip_song">Ten utwór jest dostępny tylko dla użytkowników ze członkostwem PRO. Uzyskaj subskrypcję, aby móc go pobrać.</string>
+  <string name="autoplay_is_off">Autoodtwarzanie wył.</string>
+  <string name="autoplay_is_on">Autoodtwarzanie wł.</string>
 </resources>
