@@ -1551,4 +1551,18 @@
      <string name="saf_secret_album_guide">Aplikacja wymaga uprawnień do wyświetlania elementów z prywatnego albumu.</string>
      <string name="screen_editor_delete_dialog_picture_msg">Usunąć ten obrazek?</string>
      <string name="share_and_delete_picture">Usuń po udostępnieniu</string>
+     <string name="filter_popular_grey_gold">Pallad</string>
+     <string name="filter_popular_light_brown">Beż</string>
+     <string name="filter_popular_morandi">Morandi</string>
+     <string name="filter_sky_ai_sunny">Pogodny dzień</string>
+     <string name="filter_sky_ai_sunny_next_effect">Następny</string>
+     <string name="filter_sky_ai_sunny_scene_city">Miasto</string>
+     <string name="filter_sky_ai_sunny_scene_prairie">Łąka</string>
+     <string name="filter_sky_ai_sunny_scene_seaside">Nad morzem</string>
+     <string name="miuix_access_state_desc">Wybrano</string>
+     <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+     <string name="miuix_indexer_collect">Kolekcje</string>
+     <string name="miuix_indexer_selected">Wybrano %s</string>
+     <string name="text_edit_dialog_font_default_text">Domyślna</string>
+     <string name="text_edit_dialog_toast_server_error">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
 </resources>
