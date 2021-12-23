@@ -861,4 +861,8 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="action_expand">Pokaż więcej</string>
   <string name="canvas_is_too_large_to_share_phone">Ten element jest zbyt duży, aby go udostępnić</string>
   <string name="hand_write_syncing_phone">Synchronizacja…</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

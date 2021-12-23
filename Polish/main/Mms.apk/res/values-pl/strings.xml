@@ -1426,4 +1426,12 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj jej warunki."</string>
     <string name="service_abandon_retry_setting">Ustawienia</string>
     <string name="sim_activation_service_retry_main_purpose">Aby Wiadomości w Chmurze mogły działać normalnie, musi być włączona usługa aktywacji karty SIM. Możesz to zrobić w Ustawieniach > Aplikacje.</string>
     <string name="xiaomi_account_service_retry_main_purpose">Aby ta funkcja mogła działać normalnie, muszą być włączone usługi Konta Xiaomi. Możesz to zrobić w Ustawieniach > Aplikacje.</string>
+    <string name="add_to_block_by_number">"Dodano %s
+do Listy blokowanych"</string>
+    <string name="add_to_block_by_tag">"Dodano wiadomości z frazą \"%s\"
+do Listy blokowanych"</string>
+    <string name="suspected_fraud_action">Dotknij, aby zgłosić.</string>
+    <string name="suspected_fraud_action_tip">"Możliwe oszustwo. "</string>
+    <string name="suspected_fraud_link_tip">"Niebezpieczny odnośnik. "</string>
+    <string name="suspected_fraud_tip">Możliwe oszustwo</string>
 </resources>

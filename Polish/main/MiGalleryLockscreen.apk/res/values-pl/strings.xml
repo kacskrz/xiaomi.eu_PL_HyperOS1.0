@@ -848,4 +848,42 @@ dd.M"</string>
   <string name="not_agree_summary">Najpierw wyraź zgodę na warunki użytkowania</string>
   <string name="privacy_update_title1">Zaktualizowano Politykę prywatności</string>
   <string name="privacy_update_title2">Uwaga</string>
+  <string name="access_denied_info">Zbyt wiele prób. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="doing_login">Logowanie…</string>
+  <string name="doing_query_account">Sprawdzanie informacji o koncie…</string>
+  <string name="doing_register">Tworzenie konta…</string>
+  <string name="header_help">Pomoc</string>
+  <string name="i_know">Rozumiem</string>
+  <string name="input_length_exceeds_limit">Wprowadzony tekst jest za długi</string>
+  <string name="login_by_local_phone_long_text">Zaloguj się teraz</string>
+  <string name="login_by_local_phone_short_text">Zaloguj się</string>
+  <string name="login_other">Inne konto Xiaomi</string>
+  <string name="login_register_by_local_phone_long_text">Utwórz konto</string>
+  <string name="login_with_sns">Inne sposoby logowania</string>
+  <string name="network_error_info">Wystąpił błąd sieci. Sprawdź ustawienia sieci i spróbuj ponownie.</string>
+  <string name="network_timeout_info">Nie udało się połączyć z siecią. Spróbuj ponownie.</string>
+  <string name="open_settings">Ustawienia</string>
+  <string name="progressbar_title">Sprawdzanie bezpieczeństwa…</string>
+  <string name="protocal_dialog_cancel">Anuluj</string>
+  <string name="protocal_dialog_confirm">Zgadzam się</string>
+  <string name="protocal_dialog_title">Uwaga</string>
+  <string name="register_by_local_phone_long_text">Utwórz konto</string>
+  <string name="register_by_local_phone_short_text">Utwórz konto</string>
+  <string name="request_agree">Zezwól</string>
+  <string name="request_camera_permission_message">Xiaomi będzie chronić Twoje dane osobowe zgodnie z obowiązującymi przepisami. Ta aplikacja wymaga następujących uprawnień do normalnego działania:&lt;br>&lt;br>&lt;br>Używanie aparatu (do ustawiania zdjęcia profilowego)&lt;/b>&lt;/b>&lt;/b>Jeśli nie zgadzasz się na udzielenie takich uprawnień, nie będziesz mógł korzystać z niektórych funkcji tej aplikacji; jednak jej podstawowa funkcjonalność będzie nadal dostępna. W Ustawieniach zawsze możesz ograniczyć uprawnienia lub cofnąć autoryzację.</string>
+  <string name="request_cancel">Anuluj</string>
+  <string name="request_error_invalid_token">Nie udało się zweryfikować</string>
+  <string name="request_error_network">Wystąpił błąd sieci. Sprawdź ustawienia sieci i spróbuj ponownie.</string>
+  <string name="request_error_unknown">Wystąpił błąd serwera. Wróć i spróbuj ponownie.</string>
+  <string name="request_gallery_permission_message">Zezwól na dostęp do Galerii:&lt;br />Do ustawiania zdjęć profilowych</string>
+  <string name="skip_query_account">Pomiń</string>
+  <string name="system_error_info">System jest zajęty. Zaczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="unknown_error_info">Nieznany błąd</string>
+  <string name="user_agreement_hint_3rd_app"><Data>"Potwierdzam, że przeczytano i zapoznano się z warunkami &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>, a także &lt;a href=\"%3$s\">Umową użytkownika&lt;/a> oraz &lt;a href=\"%4$s\">Polityką prywatności&lt;/a> Konta Xiaomi."</Data></string>
+  <string name="user_agreement_hint_default"><Data>"Potwierdzam, że przeczytano i zapoznano się z warunkami &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Konta Xiaomi."</Data></string>
+  <string name="user_agreement_hint_default_1"><Data>Potwierdzam, że przeczytano i zaakceptowano warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności.&lt;/a></Data></string>
+  <string name="user_agreement_hint_default_extra"><Data>"Potwierdzam, że przeczytano i zapoznano się z warunkami &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności.&lt;/a> Przy pierwszym logowaniu zostanie utworzone konto Xiaomi."</Data></string>
+  <string name="user_agreement_hint_first_login">Stworzymy automatycznie konto, jeśli używasz swojego numeru telefonu po raz pierwszy.</string>
+  <string name="user_agreement_protocal_dialog_hint_default"><Data>"Potwierdzam, że przeczytano i zapoznano się z warunkami &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>, a także &lt;a href=\"%3$s\">Umową użytkownika&lt;/a> oraz &lt;a href=\"%4$s\">Polityką prywatności&lt;/a> Konta Xiaomi.</Data></string>
+  <string name="user_name_phone_number">Numer telefonu</string>
 </resources>
