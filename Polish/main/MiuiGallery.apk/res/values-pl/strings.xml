@@ -1145,7 +1145,7 @@
   <string name="photo_editor_miui_beauty_no_face">"Nie można wykryć twarzy"</string>
   <string name="photo_editor_mosaic">Mozaika</string>
   <string name="photo_editor_navigator_cancel">Anuluj</string>
-  <string name="photo_editor_navigator_download_network_metered_msg">Pobieranie %s wymaga użycia ok. %2$d MB danych mobilnych. Pobrać teraz?</string>
+  <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Pobranie %s wymaga około %2$d MB danych mobilnych. Pobrać teraz?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Użycie danych</string>
   <string name="photo_editor_navigator_export">Zapisz</string>
   <string name="photo_editor_navigator_module_download_failed">"Nie można pobrać %s"</string>
