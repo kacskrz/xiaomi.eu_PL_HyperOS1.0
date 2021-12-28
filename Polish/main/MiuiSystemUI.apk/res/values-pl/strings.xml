@@ -3159,4 +3159,8 @@ Jeśli masz pytania, skontaktuj się z organizacją %2$s."</string>
     <string name="input_pattern_after_face_not_allowed">Wprowadź hasło co najmniej raz w ciągu %d godzin, aby je zapamiętać</string>
     <string name="input_pattern_or_finger_after_face_not_allowed">Wprowadź hasło lub użyj odcisku palca co najmniej raz w ciągu %d godzin, aby je zapamiętać</string>
     <string name="input_pattern_after_restart_msg">Aby kontynuować, potwierdź blokadę ekranu</string> 
+    <string name="miui_keyboard_shortcut_click">Kliknięcie</string>
+    <string name="miui_keyboard_shortcut_double_click">Dwukrotne kliknięcie</string>
+    <string name="miui_keyboard_shortcut_system_dock">Pokaż dok z aplikacjami</string>
+    <string name="miui_keyboard_shortcut_system_quickly_recent">Przełączanie między ostatnio otwartymi aplikacjami</string>
 </resources>

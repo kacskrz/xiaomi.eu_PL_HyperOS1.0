@@ -481,4 +481,15 @@
   <string name="wallpaper_group_black_gobi_title">Piaski Gobi</string>
   <string name="wallpaper_group_crystallization_subtitle">Piękno nauki</string>
   <string name="wallpaper_group_crystallization_title">Krystalizacja</string>
+  <string name="ks_back_home">Pulpit</string>
+  <string name="ks_close_window">Zamknij obecne okno</string>
+  <string name="ks_launch_control_center">Centrum funkcji</string>
+  <string name="ks_launch_notification_center">Panel powiadomień</string>
+  <string name="ks_launch_recents_tasks">Otwórz Ostatnie aplikacje</string>
+  <string name="ks_lock_screen">Ekran blokady</string>
+  <string name="ks_regional_screen_shot">Zrzut ekranu (częściowy)</string>
+  <string name="ks_screenshot">Zrzut ekranu (cały ekran)</string>
+  <string name="small_freeform_check_memory_exception_message">Aplikacja %1$s spowodowała błąd pamięci. Zamknij ją, aby uniknąć lagowania.</string>
+  <string name="small_freeform_check_memory_exception_negative_message">Anuluj</string>
+  <string name="small_freeform_check_memory_exception_positive_message">Zamknij</string>
 </resources>

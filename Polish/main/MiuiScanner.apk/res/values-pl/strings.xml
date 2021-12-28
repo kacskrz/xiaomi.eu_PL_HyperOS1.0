@@ -644,4 +644,14 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="label_flash_light_on">Latarka włączona</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="storage_permissions_text">Aby móc korzystać z tej funkcji, zezwól Skanerowi na dostęp do pamięci urządzenia.</string>
+  <string name="language_translate_entry_auto">Automatyczny</string>
+  <string name="screenshot_copy_text">Kopiuj tekst</string>
+  <string name="screenshot_save_image">Zapisz obraz</string>
+  <string name="screenshot_save_image_error">"Nie udało się zapisać obrazu"</string>
+  <string name="screenshot_save_image_success">Pomyślnie zapisano obraz</string>
+  <string name="screenshot_shared_image">Udostępnij obraz</string>
+  <string name="screenshot_translation_running">Tłumaczenie…</string>
+  <string name="translate_export">Eksportuj</string>
+  <string name="translate_long_screen">Przewijane tłumaczenie</string>
+  <string name="view_origin_text">Oryginalny tekst</string>
 </resources>
