@@ -793,4 +793,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="cloud_service_status_storage_not_enough">Brak miejsca</string>
   <string name="notify_verify_again_security_phone">Potwierdź</string>
   <string name="notify_verify_security_phone">Telefon</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>

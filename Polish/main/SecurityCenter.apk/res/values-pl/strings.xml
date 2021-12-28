@@ -3964,7 +3964,7 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
   <string name="HIPS_Perm_Access_Gallery">Dostęp do Galerii</string>
   <string name="HIPS_Perm_Access_Gallery_Desc">Zezwól aplikacji na dostęp do elementów w Galerii</string>
   <string name="HIPS_Perm_tencentControl">Dostęp do wiadomości w aplikacjach społecznościowych</string>
-  <string name="HIPS_Perm_tencentControl_Desc">Zezwól aplikacji na dostep do wiadomości z WeChata i QQ</string>
+  <string name="HIPS_Perm_tencentControl_Desc">Zezwól aplikacji na dostep do obrazków i plików z WeChata i QQ</string>
   <string name="HIPS_Perm_External_Storage">Dostęp i zapis plików w pamięci</string>
   <string name="HIPS_Perm_External_Storage_Desc">Dostęp i zapis plików oraz zdjęć w pamięci wewnętrznej</string>
   <string name="HIPS_Perm_External_Storage_Group">Zarządzaj uprawnieniami dot. pamięci</string>
@@ -4908,7 +4908,7 @@ Twoje urządzenie jest teraz o %s szybsze."</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
     <string name="HIPS_Perm_GetInstall_Desc">Uzyskaj listę aplikacji zainstalowanych na urządzeniu</string>
     <string name="charge_high_temp_warning_dialog_ok">OK</string>
-    <string name="charge_high_temp_warning_dialog_text">Wygląda na to, że port ładowania jest przegrzany. Odłącz ładowarkę i poczekaj, aż bateria się ochłodzi, zanim wznowisz ładowanie.</string>
+    <string name="charge_high_temp_warning_dialog_text">Wygląda na to, że port ładowania jest przegrzany. Odłącz ładowarkę i poczekaj, aż port się ochłodzi, zanim wznowisz ładowanie.</string>
     <string name="charge_high_temp_warning_text">Odłącz ładowarkę i poczekaj, aż bateria się ochłodzi</string>
     <string name="charge_high_temp_warning_title">Port ładowania jest za gorący</string>
     <string name="privacy_apps_add">Dodaj</string>
@@ -5235,4 +5235,28 @@ Wycofać zgodę?"</string>
     <string name="gd_splite_screen_tips">"Dzielony ekran nie wspiera pływających okien"</string>
     <string name="pc_battery_chart_loading">Chwileczkę…</string>
     <string name="vb_video_effects_3d_summary_headset">Zwiększenie poczucia immersji i otoczki podczas słuchania dźwięku w słuchawkach</string>
+    <string name="compatible_dialog_content">"Ta aplikacja nie jest w pełni kompatybilna z architekturą 64-bitową. Korzystanie z niej może spowolnić działanie systemu i zwiększyć zużycie energii."</string>
+    <string name="compatible_dialog_more_info">Dowiedz się więcej</string>
+    <string name="compatible_dialog_title">Uwaga</string>
+    <string name="gtb_setting_item_summary_disable_ndds_sim">Blokuj usługi związane z łącznością na drugiej karcie SIM w trakcie grania, aby zapewnić stabilne połączenie i uniknąć przełączania się pomiędzy sieciami. Gdy skończysz grać, druga karta SIM zostanie odblokowana.</string>
+    <string name="gtb_setting_item_title_disable_ndds_sim">Blokuj drugą kartę SIM</string>
+    <string name="power_center_speed_mode_dialog_text">Tryb prędkości przyspiesza wydajność urządzenia, zwiększając zużycie energii i pozwalając na jego przegrzewanie się. Unikaj korzystania z tego trybu przez dłuższy czas.</string>
+    <string name="power_center_speed_mode_dialog_title">Tryb prędkości</string>
+    <string name="power_center_speed_mode_dialog_warning">Tryb prędkości zostanie automatycznie wyłączony, gdy poziom baterii będzie niższy niż %s.</string>
+    <string name="power_center_speed_mode_enter_noti_btn_text">Wyłącz</string>
+    <string name="power_center_speed_mode_enter_noti_summary">Twoje urządzenie będzie się przegrzewać i zużywać więcej energii</string>
+    <string name="power_center_speed_mode_enter_noti_title">Włączono Tryb prędkości</string>
+    <string name="power_center_speed_mode_exit_noti_summary">Pozostało mniej niż %s baterii</string>
+    <string name="power_center_speed_mode_exit_noti_title">Wyłączono Tryb prędkości</string>
+    <string name="power_center_speed_mode_negative_btn_text">Anuluj</string>
+    <string name="power_center_speed_mode_positive_btn_text">Włącz</string>
+    <string name="power_center_speed_mode_positive_btn_text_count">Włącz (%ds)</string>
+    <string name="power_center_speed_mode_progress_free_game_limit">Popraw wydajność grafiki</string>
+    <string name="power_center_speed_mode_progress_free_processor_performance">Przyspiesz działanie procesora</string>
+    <string name="power_center_speed_mode_progress_max_refresh_rate">Zwiększ częstotliwość odświeżania</string>
+    <string name="power_center_speed_mode_summary">Przedkładanie wydajności nad zużycie energii i kontrolę temperatury</string>
+    <string name="power_center_speed_mode_title">Tryb prędkości</string>
+    <string name="power_center_speed_mode_toast_open_fail">"Nie można włączyć Trybu prędkości, gdy poziom baterii jest niższy niż %s"</string>
+    <string name="power_center_speed_mode_toast_text">Włączono Tryb prędkości</string>
+    <string name="privacy_lab_empty">Nie ma tu żadnych funkcji</string>
 </resources>

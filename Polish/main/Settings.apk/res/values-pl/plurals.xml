@@ -763,4 +763,8 @@ Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się z administrat
         <item quantity="few">%d nieużywane aplikacje</item>
         <item quantity="many">%d nieużywanych aplikacji</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d sek.</item>
+        <item quantity="one">%d sek.</item>
+    </plurals>
 </resources>

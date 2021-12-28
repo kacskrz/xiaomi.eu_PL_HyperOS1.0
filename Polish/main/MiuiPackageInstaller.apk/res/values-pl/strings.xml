@@ -593,4 +593,21 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="virus_safe_install_mode_security_tips">" Jeśli nadal chcesz zainstalować tę aplikację, możesz zezwolić na to w Ustawieniach > Specjalne funkcje > Tryb bezpieczny."</string>
     <string name="virus_scanning_please_wait">Sprawdzanie…</string>
     <string name="uri_no_permission">Nie można odnaleźć pliku ze względu na brak uprawnień</string>
+    <string name="after_install_to_delete">Usuń pliki APK po instalacji</string>
+    <string name="install_version">Wersja: %1$s</string>
+    <string name="install_version_replace">Wersja: %1$s > %2$s</string>
+    <string name="lock_screen_risk">Odcisk palca lub blokada ekranu</string>
+    <string name="login_to_install">Zaloguj się, aby zainstalować</string>
+    <string name="login_to_install_des">Zaloguj się na swoje konto Xiaomi, aby kontynuować instalację. Możesz także zmienić swoje preferencje dot. instalacji aplikacju w Ustawieniach > Instalacja ryzykownych aplikacji.</string>
+    <string name="login_xiaomi_account">Zaloguj się</string>
+    <string name="no_set_lock_screen_tip">Ustaw blokadę ekranu i dodaj swój odcisk palca przed wybraniem tej metody autoryzacji.</string>
+    <string name="open_install_authorization">Wymagaj uwierzytelnienia przed instalacją ryzykownych aplikacji</string>
+    <string name="risk_app_install_authorization">Instalacja ryzykownych aplikacji</string>
+    <string name="risk_close_tip">Wyłącz autoryzację</string>
+    <string name="risk_close_tip_des">"Jeśli wyłączysz tę funkcję, ryzykowne aplikacje będą instalowane bez Twojego uwierzytelnienia. Jeśli ustawiono poprzednio blokadę palca bądź odcisk palca, poprosimy Cię o ich weryfikację."</string>
+    <string name="second_recomment_ad_title">Osoby, które zainstalowały &lt;font color=#0BAE73>%1$s&lt;/font>, lubią także</string>
+    <string name="verify_to_sure_close">Wyłącz</string>
+    <string name="virus_safe_install_mode_security_tips">Jeśli ufasz tej aplikacji, możesz zautoryzować jej instalację w Ustawieniach > Aplikacje > Tryb bezpieczny.</string>
+    <string name="virus_safe_install_mode_security_tips_pi">Jeśli ufasz tej aplikacji, dotknij ikony Ustawień i wybierz opcję \"Tryb bezpieczny\", aby zautoryzować jej instalację.</string>
+    <string name="xiaomi_account_risk">Hasło konta Xiaomi</string>
 </resources>

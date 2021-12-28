@@ -478,4 +478,7 @@
   <string name="pc_redmi_device_model_name">Laptop Redmi</string>
   <string name="pc_xiaomi_device_model_name">Laptop Xiaomi</string>
   <string name="edit_frequent_phrases">Edytuj częste zwroty</string>
+  <string name="wallpaper_group_black_gobi_title">Piaski Gobi</string>
+  <string name="wallpaper_group_crystallization_subtitle">Piękno nauki</string>
+  <string name="wallpaper_group_crystallization_title">Krystalizacja</string>
 </resources>

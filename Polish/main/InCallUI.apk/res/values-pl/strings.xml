@@ -269,7 +269,7 @@
   <string name="user_locked_prompt">Odblokuj urządzenie, aby mieć dostęp do kontaktów.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY mode first</string>
   <string name="video_conference_caller_info_name">"Połączenie konferencyjne z %1$s"</string>
-  <string name="video_crbt_title">Odtwarzany jest dźwięk dzwonka drugiej strony</string>
+  <string name="video_crbt_title">Odtwarzanie wideo profilowego…</string>
   <string name="video_switch_to_voice_call_prompt">Przełącz na głos</string>
   <string name="voicemail">Poczta głosowa</string>
   <string name="volte_call">Połączenie VoLTE</string>

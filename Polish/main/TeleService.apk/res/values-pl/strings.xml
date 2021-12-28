@@ -1999,4 +1999,6 @@ Nadal możesz wykonywać połączenia alarmowe."</string>
   <string name="uplmn_summary">Pokaż dostępne ustawienia sieci operatora w ustawieniach karty SIM</string>
   <string name="uplmn_title">Ustawienia sieci operatora</string>
   <string name="smart_multinetwork_acceleration_title">Inteligentna akceleracja sieci</string>
+  <string name="emergency_medical_records">Nagrania medyczne</string>
+  <string name="fiveg_switch_per_slot_summary">Użyj 5G, aby zwiększyć prędkość danych mobilnych</string>
 </resources>

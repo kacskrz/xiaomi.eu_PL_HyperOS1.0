@@ -638,4 +638,10 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="user_agreement">Umowa użytkownika</string>
   <string name="user_notification">Wycofanie zgody na warunki umów</string>
   <string name="version_code">"Wersja: "</string>
+  <string name="camera_permissions_text">Aby móc korzystać z tej funkcji, zezwól Skanerowi na dostęp do aparatu.</string>
+  <string name="format_error">Nieprawidłowe hasło</string>
+  <string name="label_flash_light_off">Latarka wyłączona</string>
+  <string name="label_flash_light_on">Latarka włączona</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="storage_permissions_text">Aby móc korzystać z tej funkcji, zezwól Skanerowi na dostęp do pamięci urządzenia.</string>
 </resources>

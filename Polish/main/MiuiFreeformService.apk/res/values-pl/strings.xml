@@ -40,4 +40,12 @@
     <string name="freeform_slide_to_small_freeform_summary_pad">Przeciągnij róg, aby zminializować aplikację</string>
     <string name="multi_window_cvw">Pływające okno</string>
     <string name="multi_window_cvw_summary">Przeciągnij róg, aby włączyć pływające okno i dostosować jego kształt</string>
+    <string name="copy">Kopiuj</string>
+    <string name="expand_button_title">Zaawansowane</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Przeciągnij róg, aby zminimalizować aplikację</string>
+    <string name="multi_window_cvw_title">Pływające okno</string>
+    <string name="not_set">Nie ustawiono</string>
+    <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
+    <string name="v7_preference_off">WYŁ.</string>
+    <string name="v7_preference_on">WŁ.</string>
 </resources>

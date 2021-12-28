@@ -302,8 +302,12 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="toast_invisible_mode1">"Projekcja nie będzie działać, gdy włączony jest tryb incognito"</string>
     <string name="wifi_connect_btn_text">Skonfiguruj</string>
     <string name="wifi_other">Inne sieci</string>
-    <string name="wifi_passwd_et_hint">Wprowadź hasło</string>
+    <string name="wifi_passwd_et_hint">Hasło</string>
     <string name="wifi_recommendation">Wybierz sieci %1$d GHz, aby uzyskać lepszą jakość projekcji.</string>
     <string name="wifi_scan_btn_text">Skanuj ponownie</string>
-    <string name="wifi_username_et_hint">Wprowadź identyfikator konta</string>
+    <string name="wifi_username_et_hint">Identyfikator konta</string>
+    <string name="current_wifi_tv">Obecna sieć</string>
+    <string name="notify_wifiap_dialog_msg">Aby zeskanować kod i skonfigurować sieć, wyłącz najpierw hotspot Wi-Fi.</string>
+    <string name="notify_wifiap_dialog_negative">OK</string>
+    <string name="notify_wifiap_dialog_title">Konfiguracja sieci</string>
 </resources>

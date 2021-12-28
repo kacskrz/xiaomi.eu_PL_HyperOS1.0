@@ -1908,7 +1908,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="dd_frn_f_t">Złóż urządzenie, aby użyć przedniego aparatu</string>
   <string name="esp_tip">Podgląd zewnętrznego ekranu</string>
   <string name="pref_camera_esp">Podgląd tylnego ekranu</string>
-  <string name="pref_camera_track_focus_preferred_description">"Włącz tę opcję, aby automatycznie ustawiać ostrość na ludziach i zwierzętach. Będzie można również ręcznie wybrać śledzony obiekt."</string>
+  <string name="pref_camera_track_focus_preferred_description">Automatycznie utrzymuj ostrość poruszających się ludzi, kotów i psów lub dotknij dwukrotnie dowolnego obiektu, aby go wyostrzyć</string>
   <string name="pref_camera_track_focus_preferred_title">Śledzenie obiektów</string>
   <string name="prep_video_ai_audio_new_desc_tip_alone">Dźwięki wyostrzonego obiektu są wzmocnione w trybie poziomym</string>
   <string name="prep_video_ai_audio_single_desc_tip_alone">Dźwięki spoza ekranu są filtrowane w trybie poziomym</string>
@@ -2044,4 +2044,6 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="pref_privacy_watermark_switch">Włącz ochronę</string>
   <string name="pref_camera_dynamic_frame_rate_summary_new">Automatycznie zmniejsz częstotliwość odświeżania dla filmów nagrywanych w słabych warunkach oświetleniowych bądź w wysokiej temperaturze</string>
   <string name="pref_camera_dynamic_frame_rate_title_new">Automatyczna częstotliwość nagrywania</string>
+  <string name="pref_camera_track_focus_intro_description">Kiedy wykonujesz zdjęcia lub nagrywasz filmy z poruszającymi się obiektami, funkcja wykrywa ludzi, koty oraz psy i automatycznie utrzymuje na nich ostrość. Możesz również dwukrotnie dotknąć każdego obiektu, aby śledzić jego ruch.</string>
+  <string name="pref_camera_track_focus_intro_goto">Włącz</string>
 </resources>

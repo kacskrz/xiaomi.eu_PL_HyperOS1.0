@@ -10044,21 +10044,31 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="zone_time_type_dst">Zmiana czasu na letni</string>
     <string name="zone_time_type_standard">Czas standardowy</string>
     <string name="speed_mode">Tryb prędkości</string>
-    <string name="speed_mode_summary">Gdy ten tryb jest włączony, wydajność urządzenia się polepszy, lecz zarazem zwiększy on zużycie energii i generowane ciepło. Używaj go z rozwagą.</string>
-    <string name="freeform_guide_multi_window">Wielozadaniowość</string>
+    <string name="speed_mode_summary">Przedkładanie wydajności nad zużycie energii i kontrolę temperatury</string>    <string name="freeform_guide_multi_window">Wielozadaniowość</string>
     <string name="freeform_vedio_description_pad">Przeciągaj elementy poza dok, aby otwierać pływające okna</string>
     <string name="security_check_progress_dialog_message">Sprawdzanie bezpieczeństwa…</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Przeciągnij róg, aby zminializować aplikację</string>
     <string name="multi_window_cvw_summary">Przeciągnij róg, aby włączyć pływające okno i dostosować jego kształt</string>
     <string name="multi_window_cvw_title">Pływające okno</string>
-    <string name="auto_task_operation_close">Zamknij</string>
+    <string name="auto_task_operation_close">Wyłącz</string>
     <string name="menu_item_notification_power_text">Optymalizacja baterii</string>
     <string name="p2p_summary_enable_GPS">Funkcja działa wtedy, gdy włączone są usługi lokalizacji</string>
-    <string name="speed_mode_noti_summary">Tryb prędkości zwiększy zużycie energii i generowane ciepło</string>
-    <string name="speed_mode_noti_title">Włączono tryb prędkości</string>
+    <string name="speed_mode_noti_summary">Twoje urządzenie będzie się przegrzewać i zużywać więcej energii</string>
+    <string name="speed_mode_noti_title">Włączono Tryb prędkości</string>
     <string name="environmental_speech_recognition">Rozpoznawanie dźwięków otoczenia</string>
     <string name="detailed_wifi_logging_disabled">Szczegółowe logi Wi-Fi wył.</string>
     <string name="detailed_wifi_logging_enabled">Szczegółowe logi Wi-Fi wł.</string>
     <string name="connection_control">Zarządzaj połączeniami</string> 
     <string name="interconnection">Łączenie z innymi urządzeniami</string>
+    <string name="about_ad_service_instructions_for_global">O reklamach i prywatności w aplikacjach systemowych</string>
+    <string name="auto_clean_summary_new">Odtwórz dźwięk (%d sek.), który wyczyści głośnij. Użyj tej funkcji kilka razy z rzędu przy znacznej ilości brudu.</string>
+    <string name="dialog_speaker_auto_clean_content_new">"Za chwilę odtworzysz dźwięk, który wyczyści głośnik. Dla lepszego efektu zwiększ głośność do maksimum."</string>
+    <string name="dialog_speaker_auto_clean_title_new">Wyczyść głośnik</string>
+    <string name="external_ram_dialog_icon_confirm">OK</string>
+    <string name="external_ram_dialog_icon_info">System zwiększy pamięć RAM o %1$s %2$s.</string>
+    <string name="external_ram_dialog_icon_title">Włączono rozszerzenie pamięci</string>
+    <string name="progress_dialog_speaker_auto_clean_button">Zatrzymaj</string>
+    <string name="progress_dialog_speaker_auto_clean_title">Czyszczenie głośnika…</string>
+    <string name="toast_disconnect_earphone">Rozłącz słuchawki i spróbuj ponownie</string>
+    <string name="use_personalized_ad_service_summary_for_global">"Personalizowane reklamy (jak i reklamy w ogóle) nie są wyświetlane w tym ROM-ie. Funkcja nie ma zastosowania."</string>
 </resources>

@@ -36,7 +36,7 @@
   <string name="congratulation_title">Wszystko gotowe</string>
   <string name="content_description_complete">Gotowe</string>
   <string name="content_description_language_picker">Wybór języka</string>
-  <string name="content_description_miui_version">MIUI 12</string>
+  <string name="content_description_miui_version">MIUI 13</string>
   <string name="content_description_start">Rozpocznij</string>
   <string name="continue_to_enable_accessibility">Przesuń w dół dwoma palcami, aby uruchomić ułatwienia dostępu.</string>
   <string name="data_traffic_enable_dialog_title">"Jeśli nie jesteś połączony z siecią Wi-Fi, Twoje urządzenie będzie korzystać z danych komórkowych. Operator może pobrać opłatę za zużycie tych danych (w zależności od Twojej taryfy)."</string>
@@ -446,4 +446,6 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="disagreement_terminate_bluetooth">"Jeśli nie nadasz tych uprawnień, nie będzie można korzystać z Bluetooth. Możesz włączać i wyłączać Bluetooth, a także dodawać urządzenia Bluetooth w Ustawieniach."</string>
     <string name="permission_call_records_describe_bluetooth_summary">W celu zezwalania innym kompatybilnym urządzeniom łączonym przez Ciebie z tym urządzeniem na dostęp do historii połączeń. Wydarzy się to tylko wtedy, gdy zachodzi konieczność korzystania z historii połączeń przez inne urządzenie. Historia połączeń i kontakty udostępniane przez system poprzez Bluetooth będą przetwarzane wyłącznie lokalnie na urządzeniach i udostępniane im za Twoim pozwoleniem.</string>
     <string name="permission_contact_describe_bluetooth_summary">W celu zezwalania innym kompatybilnym urządzeniom łączonym przez Ciebie z tym urządzeniem na dostęp do kontaktów. Wydarzy się to tylko wtedy, gdy włączysz Bluetooth lub będziesz edytować swoje kontakty wtedy, gdy jest ono włączone.</string>
+    <string name="other_settings_ad_dialog_content_for_global">"Personalizowane reklamy (jak i reklamy w ogóle) nie są wyświetlane w tym ROM-ie. Funkcja nie ma zastosowania."</string>
+    <string name="start_up_slogan_thirteen_china">Łącz wszystko w całość</string>
 </resources>

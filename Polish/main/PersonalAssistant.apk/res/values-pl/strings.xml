@@ -1592,4 +1592,9 @@ aby wyświetlać widżety."</string>
     <string name="pa_sports_widget_empty_basketball">Koszykówka</string>
     <string name="pa_sports_widget_empty_football">Piłka nożna</string>
     <string name="pa_sports_widget_empty_recommend">Zalecane</string>
+    <string name="pa_accessibility_picker_suit_item_add_to_desktop">Sklep z widżetami. Wybrano %s. Dotknij dwukrotnie, aby wyświetlić szczegóły.</string>
+    <string name="pa_accessibility_picker_suit_item_add_to_minus_desktop">Sklep z widżetami. Wybrano %s. Dotknij dwukrotnie, aby wyświetlić szczegóły.</string>
+    <string name="pa_accessibility_picker_suit_item_add_to_third">Sklep z widżetami. Wybrano %s. Dotknij dwukrotnie, aby wyświetlić szczegóły.</string>
+    <string name="pa_picker_maml_list_activity_title">Dodaj widżety</string>
+    <string name="pa_picker_suit_list_activity_title">Pakiety personalizacji</string>
 </resources>
