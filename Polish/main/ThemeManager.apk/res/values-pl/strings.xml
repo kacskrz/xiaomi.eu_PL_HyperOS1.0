@@ -1506,6 +1506,6 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="fold_restore_default_theme_dialog_title">Przywróć domyślny motyw</string>
     <string name="purchased">Zamówienia</string>
     <string name="show_theme_community">Skrót do społeczności</string>
-    <string name="show_theme_community_desc">Pokaż lub ukryj skrót do społeczności Motywów Themes community shortcut</string>
+    <string name="show_theme_community_desc">Pokaż lub ukryj skrót do społeczności Motywów</string>
     <string name="supersave_mode_toast_message">"Ta funkcja nie jest dostępna, gdy używasz Ultraoszczędzania baterii. Wyłącz ten tryb, aby móc korzystać z tej funkcji."</string>
 </resources>
