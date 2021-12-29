@@ -358,4 +358,12 @@
 aby kontynuować"</string>
     <string name="worker_try_join_pc_when_pad_adv_connected">Urządzenie jest teraz połączone z innym urządzeniem. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="worker_try_join_pc_when_pad_adv_connected_title">"Nie udało się połączyć z MIUI+"</string>
+    <string name="invisible_mode_dialog_cancel">Anuluj</string>
+    <string name="invisible_mode_dialog_message">"Nie można używać funkcji MIUI+ Screen Combo, gdy jesteś incognito. Wyłącz Tryb incognito."</string>
+    <string name="invisible_mode_dialog_positive">Wyłącz</string>
+    <string name="invisible_mode_dialog_title">"Jesteś incognito"</string>
+    <string name="invisible_mode_toast">Najpierw wyłącz Tryb incognito</string>
+    <string name="loading_view_abort_close_text">Zamknij</string>
+    <string name="loading_view_abort_text">"Przekroczono czas żądania połączenia.
+Zamknij tę stronę i spróbuj ponownie."</string>
 </resources>
