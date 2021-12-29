@@ -10071,4 +10071,5 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="progress_dialog_speaker_auto_clean_title">Czyszczenie głośnika…</string>
     <string name="toast_disconnect_earphone">Rozłącz słuchawki i spróbuj ponownie</string>
     <string name="use_personalized_ad_service_summary_for_global">"Personalizowane reklamy (jak i reklamy w ogóle) nie są wyświetlane w tym ROM-ie. Funkcja nie ma zastosowania."</string>
+    <string name="emergency_gesture_screen_title">Połączenie alarmowe</string>
 </resources>

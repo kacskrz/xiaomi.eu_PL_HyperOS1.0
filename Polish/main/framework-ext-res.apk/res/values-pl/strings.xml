@@ -492,4 +492,5 @@
   <string name="small_freeform_check_memory_exception_message">Aplikacja %1$s spowodowała błąd pamięci. Zamknij ją, aby uniknąć lagowania.</string>
   <string name="small_freeform_check_memory_exception_negative_message">Anuluj</string>
   <string name="small_freeform_check_memory_exception_positive_message">Zamknij</string>
+  <string name="wallpaper_group_molten_glass_title">Stopione szkło</string>
 </resources>
