@@ -3096,4 +3096,5 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
   <string name="privacy_reject_map_detail_new"><Data>"Wycofanie przez Ciebie zgody na warunki &lt;a href=\"%1$s\">Stanowiska dot. udostępniania danych Map Galerii firmom trzecim&lt;/a> zostanie potraktowany jako odmowa akceptacji usług Map Galerii. Ciągle będzie można używać innych funkcji Galerii. Wycofać zgodę?"</Data></string>
   <string name="privacy_rejected_map_new">Wycofanie zgody na warunki Stanowiska dot. udostępniania danych Map Galerii firmom trzecim</string>
   <string name="privacy_rejected_pos_btn">Wycofaj zgodę</string>
+  <string name="install_media_editor_function_message">Aby móc korzystać z funkcji \"%1$s\", pobierz najnowszą wersję Edytora Galerii.</string>
 </resources>

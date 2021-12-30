@@ -1565,4 +1565,5 @@
      <string name="miuix_indexer_selected">Wybrano %s</string>
      <string name="text_edit_dialog_font_default_text">Domyślna</string>
      <string name="text_edit_dialog_toast_server_error">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+     <string name="sticker_tab_talkback_happy_new_year">Szczęśliwego Nowego Roku</string>
 </resources>
