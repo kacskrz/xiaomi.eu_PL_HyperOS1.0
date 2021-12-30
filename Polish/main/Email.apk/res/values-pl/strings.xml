@@ -257,7 +257,7 @@
   <string name="bottom_bar_more_share">Udostępnij</string>
   <string name="bottom_bar_no_quickreply_toast">Brak szybkiej odp.</string>
   <string name="bytes">%s B</string>
-  <string name="calendar_remind_dialog_title">Przypomnienie</string>
+  <string name="calendar_remind_dialog_title">Dodaj do Kalendarza</string>
   <string name="calendar_remind_gridview_pick_date">Wybierz datę</string>
   <string name="cancel">Anuluj</string>
   <string name="cancel_action">Anuluj</string>
@@ -1611,4 +1611,22 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
   <string name="privacy_and_private_permission">Zgoda na warunki Umowy użytkownika i Polityki prywatności</string>
   <string name="disallow_qq_auth_how_get_auth_code">Jak mogę uzyskać kod autoryzacyjny?</string>
   <string name="oauth_find_browser_error_description">Zainstaluj przeglądarkę, aby móc się zalogować</string>
+  <string name="default_signature_phone">Wysłano z mojego telefonu Xiaomi</string>
+  <string name="error_message_account_or_password">Identyfikator konta bądź hasło są nieprawidłowe.</string>
+  <string name="error_message_auth_error">Użyj kodu weryfikacyjnego, aby się zalogować.</string>
+  <string name="error_message_blacklist">Twoje konto zostało dodane na czarną listę. Skontaktuj się z dostawcą usług pocztowych, aby rozwiązać ten problem.</string>
+  <string name="error_message_imap_or_pop3_service_not_open">Włącz IMAP lub POP3 i spróbuj ponownie.</string>
+  <string name="error_message_imap_service_not_open">Włącz IMAP i spróbuj ponownie.</string>
+  <string name="error_message_outlook_error">Najpierw zweryfikuj swoją tożsamość w przeglądarkowej wersji Outlooka.</string>
+  <string name="error_message_respond_revert_03">"Ta domena nie istnieje. Sprawdź adres URL i spróbuj ponownie."</string>
+  <string name="error_message_respond_revert_06">Wprowadzone hasło jest nieprawidłowe.</string>
+  <string name="error_message_respond_revert_07">"Nie udało się zweryfikować Twojej tożsamości. Użyj kodu weryfikacyjnego, aby się zalogować."</string>
+  <string name="error_message_respond_revert_16">Twoje hasło wygasło. Zaktualizuj je i zaloguj się ponownie.</string>
+  <string name="error_message_respond_revert_21">Włącz POP3 i spróbuj ponownie.</string>
+  <string name="error_message_respond_revert_25">Sprawdź połączenie z siecią i spróbuj ponownie.</string>
+  <string name="folder_list_switch_account">Przełącz</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>
