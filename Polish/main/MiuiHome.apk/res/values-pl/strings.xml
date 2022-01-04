@@ -820,4 +820,8 @@
   <string name="drag_icon_to_homescreen_guide">Przytrzymaj ikonę aplikacji, a następnie ją przeciągnij, aby utworzyć skrót na Pulpicie</string>
   <string name="menu_no_word">"Nie wyświetlaj tekstu pod ikonami"</string>
   <string name="menu_no_word_setting_tip" formatted="false">Używaj układu %d×%d bez tekstu</string>
+  <string name="recents_worldcirculate_text">Puść, aby wybrać</string>
+  <string name="recnets_worldcirculate_display_computer_info">Aplikacja działa na %s.</string>
+  <string name="recnets_worldcirculate_display_default_info">Dotknij, aby przywrócić ją z powrotem.</string>
+  <string name="recnets_worldcirculate_display_pad_info">Aplikacja działa na %s.</string>
 </resources>
