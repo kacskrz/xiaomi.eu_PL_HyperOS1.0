@@ -232,4 +232,9 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="global_pad">Mój tablet</string>
   <string name="global_pc">Mój laptop</string>
   <string name="global_phone">Mój telefon</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="pc_redmi_device_model_name">Laptop Redmi</string>
+  <string name="pc_xiaomi_device_model_name">Laptop Xiaomi</string>
+  <string name="seize_content">Zatrzymaj udostępnianie Twojego ekranu, aby móc przesyłać elementy. Zrobić to teraz?</string>
+  <string name="seize_title">Zatrzymaj udostępnianie ekranu</string>
 </resources>

@@ -310,4 +310,18 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="notify_wifiap_dialog_msg">Aby zeskanować kod i skonfigurować sieć, wyłącz najpierw hotspot Wi-Fi.</string>
     <string name="notify_wifiap_dialog_negative">OK</string>
     <string name="notify_wifiap_dialog_title">Konfiguracja sieci</string>
+    <string name="miplay_accessibility_cast">Wybierz urządzenie</string>
+    <string name="miplay_accessibility_cover">Okładka</string>
+    <string name="miplay_accessibility_next">Następny utwór</string>
+    <string name="miplay_accessibility_pause">Wstrzymaj</string>
+    <string name="miplay_accessibility_play">Odtwórz</string>
+    <string name="miplay_accessibility_prev">Poprzedni utwór</string>
+    <string name="miplay_accessibility_seekbar">Pasek postępu</string>
+    <string name="miplay_accessibility_volume">Głośność</string>
+    <string name="miplay_detail_divider_title">Telewizja i głośniki</string>
+    <string name="miplay_detail_header_no_song">Brak historii odtwarzania</string>
+    <string name="miplay_device_full_name">%2$s z %1$s</string>
+    <string name="miplay_headset_lc3_hint">Wyłącz LC3, aby móc przełączyć wyjście audio na to urządzenie</string>
+    <string name="miplay_service_timeout_toast">Przekroczono limit czasu połączenia. Spróbuj ponownie.</string>
+    <string name="miplay_song_title_empty">Brak utworów</string>
 </resources>

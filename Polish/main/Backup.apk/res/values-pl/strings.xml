@@ -948,4 +948,17 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
 %1$d. Skopiuj wykonane kopie zapasowe na swój komputer, aby uniknąć utraty danych. %2$s.
 %3$d. Kopie zapasowe są zapisywane w katalogu MIUI-Backup-AllBackup.
 %4$d. Niektóre aplikacje mogą nie wspierać tworzenia ich kopii zapasowych."</string>
+  <string name="agree_button">Zgadzam się</string>
+  <string name="agree_revoke_permission_title">Wycofanie uprawnień</string>
+  <string name="alternative_ui_content">Ta funkcja umożliwia wykonywanie i przywracanie kopii zapasowych z telefonu bądź komputera. Do poprawnego działania wymaga ona połączenia z Internetem oraz następujących niezbędnych uprawnień:</string>
+  <string name="grant_all_permission_content">Aby móc wykonywać i przywracać kopie zapasowe elementów, przyznaj wszystkie niezbędne uprawnienia.</string>
+  <string name="grant_all_permission_title">Wymagane uprawnienia</string>
+  <string name="permission_management_entrance">Zarządzaj uprawnieniami</string>
+  <string name="permission_read_storage_global">Dostęp do pamięci</string>
+  <string name="permission_write_storage">Zapisywanie elementów w pamięci</string>
+  <string name="privacy_policy_link"><Data>"Aby dowiedzieć się więcej o tym, jak przetwarzane są Twoje dane, a także o Twoich prawach jako użytkownika, przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Polityki prywatności&lt;/a>, zanim przejdziesz dalej."</Data></string>
+  <string name="private_policy_text">Polityka prywatności</string>
+  <string name="restore_files">W celu przywracania elementów</string>
+  <string name="revoke_permission_dialog_content">"Nie będzie można wykonywać i przywracać kopii zapasowych elementów bez wszystkich niezbędnych uprawnień. Wycofać je mimo to?"</string>
+  <string name="user_know_button_text">Rozumiem</string>
 </resources>
