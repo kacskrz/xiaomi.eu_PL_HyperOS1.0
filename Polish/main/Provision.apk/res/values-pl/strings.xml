@@ -223,7 +223,8 @@ Musisz się zgodzić na nasze Warunki użytkowania i Politykę prywatności, nim
 Musisz się zgodzić na nasze Warunki użytkowania i Politykę prywatności, nim będziesz mógł skorzystać z MIUI. Podczas aktywacji usługi Xiaomi, funkcja Lokalizacja urządzenia, usługi rejestracji karty SIM, Chmury Xiaomi, komponenty systemu MSA/MAB podłączą się do internetu i uzyskają dostęp do lokalizacji."</string>
   <string name="terms_of_use_label_package">Instalator paczek</string>
   <string name="terms_of_use_label_phrase">Częste zwroty</string>
-  <string name="terms_of_use_label_updater">Aktualizacje</string>
+  <string name="terms_of_use_label_updater">, Aktualizacje</string>
+  <string name="terms_of_use_label_mab">, MAB</string>
   <string name="terms_of_use_lable_apps">usługi Xiaomi, funkcja Lokalizacja urządzenia, usługi rejestracji karty SIM, Chmury Xiaomi, komponenty systemu MSA/MAB</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
@@ -234,8 +235,8 @@ Musisz zgodzić się z Polityką prywatności Kika przed użyciem tej funkcji."<
   <string name="terms_of_use_lable_default_input_method_mint">"
 
 Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mint Keyboard."</string>
-  <string name="terms_of_use_lable_gms">Usługi Google Play</string>
-  <string name="terms_of_use_lable_smart_cards">Karty asystenta</string>
+  <string name="terms_of_use_lable_gms">, Usługi Google Play</string>
+  <string name="terms_of_use_lable_smart_cards">, Karty asystenta</string>
   <string name="terms_privacy_policy_input_method_facemoji">Polityka prywatności Facemoji</string>
   <string name="terms_privacy_policy_input_method_kika">Polityka prywatności Kika</string>
   <string name="title_fingerprint">Ustaw blokadę</string>

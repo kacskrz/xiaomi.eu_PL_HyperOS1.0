@@ -2049,4 +2049,10 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="live_workspace_title_pause">Zatrzymaj</string>
   <string name="live_workspace_title_play">Odtwórz</string>
   <string name="live_workspace_title_pre_edit">Wybierz elementy do usunięcia</string>
+  <string name="cta_perm_cam">Korzystanie z aparatu</string>
+  <string name="cta_perm_cam_desc">W celu wykonywania zdjęć</string>
+  <string name="cta_perm_storage">Dostęp do zdjęć na urządzeniu</string>
+  <string name="cta_perm_storage_desc">W celu wyświetlania i zapisywania zdjęć</string>
+  <string name="cta_perm_voice">Korzystanie z mikrofonu</string>
+  <string name="cta_perm_voice_desc">W celu nagrywania dźwięku w trakcie nagrywania filmów</string>
 </resources>
