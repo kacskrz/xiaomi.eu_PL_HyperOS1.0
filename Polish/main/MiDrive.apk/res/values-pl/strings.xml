@@ -807,4 +807,5 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="talkback_previous_song">Poprzedni utwór</string>
   <string name="talkback_random_play">Odtwarzanie losowe</string>
   <string name="talkback_single_play">Zapętlij</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>

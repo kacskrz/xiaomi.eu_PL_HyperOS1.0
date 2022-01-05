@@ -243,4 +243,7 @@
   <string name="close">Zamknij</string>
   <string name="permdesc_bluetoothAcceptlist">Pozwala aplikacji na tymczasowe dodanie urządzenia Bluetooth do listy zaufanych. Dzięki temu wymiana danych z tym urządzeniem nie wymaga potwierdzenia przez użytkownika.</string>
   <string name="permlab_bluetoothAcceptlist">Dodanie urządzenia Bluetooth do zaufanych.</string>
+  <string name="aptx_notification_aptx">Urządzenie wspiera technologię Qualcomm® aptX™</string>
+  <string name="aptx_notification_aptx_adaptive">Urządzenie wspiera technologię Qualcomm® aptX™ Adaptive</string>
+  <string name="aptx_notification_aptx_hd">Urządzenie wspiera technologię Qualcomm® aptX™ HD</string>
 </resources>

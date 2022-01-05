@@ -459,4 +459,5 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="close">Zamknij</string>
   <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
   <string name="send">Wyślij</string>
+  <string name="select_show_city">Wybierz lokalizację</string>
 </resources>
