@@ -1597,4 +1597,41 @@ aby wyświetlać widżety."</string>
     <string name="pa_accessibility_picker_suit_item_add_to_third">Sklep z widżetami. Wybrano %s. Dotknij dwukrotnie, aby wyświetlić szczegóły.</string>
     <string name="pa_picker_maml_list_activity_title">Dodaj widżety</string>
     <string name="pa_picker_suit_list_activity_title">Pakiety personalizacji</string>
+    <string name="agenda_request_perm">Najpierw zezwól tej aplikacji na dostęp do kalendarza</string>
+    <string name="app_pa_setting_about_title">O tej aplikacji</string>
+    <string name="app_pa_setting_individualization_title">Personalizacja</string>
+    <string name="app_pa_setting_perm_calendar">Dostęp do kalendarza</string>
+    <string name="app_pa_setting_perm_denied">Nie przyznano</string>
+    <string name="app_pa_setting_perm_desc">Szczegóły uprawnień</string>
+    <string name="app_pa_setting_perm_granted">Przyznano</string>
+    <string name="app_pa_setting_perm_location">Dostęp do lokalizacji</string>
+    <string name="app_pa_setting_perm_state">Dostęp do informacji o urządzeniu</string>
+    <string name="app_pa_setting_perm_storage">Dostęp do pamięci</string>
+    <string name="app_pa_setting_perm_title">Uprawnienia</string>
+    <string name="app_pa_setting_permission">Szczegóły uprawnień</string>
+    <string name="app_pa_setting_preference_title">Preferencje</string>
+    <string name="app_pa_setting_priv_policy_title">Polityka prywatności</string>
+    <string name="app_pa_setting_retract">Wycofanie zgody</string>
+    <string name="app_pa_setting_retract_dialog_message">"Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Asystenta MIUI. Informacje, które zostały już zgromadzone i przechowane, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ aplikacja dostarcza usługi oparte na niezbędnych danych osobowych, wycofanie przez Ciebie zgody zostanie potraktowane jako odmowa akceptacji tychże usług. Wycofać zgodę?"</string>
+    <string name="app_pa_setting_retract_dialog_negative">Wycofaj</string>
+    <string name="app_pa_setting_retract_error">"Nie udało się połączyć z siecią. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
+    <string name="app_pa_setting_retract_error_message">A server error occurred. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="app_pa_setting_retract_error_title">"Nie udało się wycofać zgody"</string>
+    <string name="app_pa_setting_retract_no_net_message">Aby móc wycofać Twoją zgodę, urządzenie musi połączyć się z Internetem. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+    <string name="app_pa_setting_retract_no_net_title">"Nie udało się połączyć z siecią"</string>
+    <string name="app_pa_setting_retract_positive">OK</string>
+    <string name="app_pa_setting_retract_sec_left">Wycofaj (%ds)</string>
+    <string name="app_pa_setting_retract_summary">Wycofaj zgodę na warunki Polityki prywatności Asystenta MIUI</string>
+    <string name="app_pa_setting_retract_title">Wycofanie zgody i rezygnacja z usług</string>
+    <string name="app_pa_setting_service_title">Usługi</string>
+    <string name="app_pa_setting_tripartite">O udostępnianiu danych firmom trzecim</string>
+    <string name="cta_policy_change_dialog_agree">Zgadzam się</string>
+    <string name="cta_policy_change_dialog_exit">Wyjdź</string>
+    <string name="cta_policy_change_dialog_message" formatted="false">"Zaktualizowano warunki Polityki prywatności Asystenta MIUI:
+%s
+Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dalej."</string>
+    <string name="cta_policy_change_dialog_title">Zaktualizowano Politykę prywatności</string>
+    <string name="cta_privacy_policy">Polityka prywatności</string>
+    <string name="cta_refuse_policy_dialog_message">"Nie będzie można korzystać z Asystenta MIUI, dopóki nie wyrazisz zgody na warunki nowej wersji %s. Czy chcesz to teraz zrobić?"</string>
+    <string name="cta_refuse_policy_dialog_title">Uwaga</string>
 </resources>
