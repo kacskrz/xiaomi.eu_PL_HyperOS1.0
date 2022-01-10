@@ -961,4 +961,5 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="restore_files">W celu przywracania elementów</string>
   <string name="revoke_permission_dialog_content">"Nie będzie można wykonywać i przywracać kopii zapasowych elementów bez wszystkich niezbędnych uprawnień. Wycofać je mimo to?"</string>
   <string name="user_know_button_text">Rozumiem</string>
+  <string name="backup_notification_title">\"Kopia zapasowa\" pracuje…</string>
 </resources>

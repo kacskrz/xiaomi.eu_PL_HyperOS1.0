@@ -42,4 +42,6 @@
     <string name="multi_window_cvw_summary">Przeciągnij róg, aby włączyć pływające okno i dostosować jego kształt</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Przeciągnij róg, aby zminimalizować aplikację</string>
     <string name="multi_window_cvw_title">Pływające okno</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Przeciągnij róg, aby zminimalizować aplikację</string>
+    <string name="multi_window_cvw_summary_global">Przeciągnij róg, aby włączyć pływające okno i dostosować jego rozmiar</string>
 </resources>
