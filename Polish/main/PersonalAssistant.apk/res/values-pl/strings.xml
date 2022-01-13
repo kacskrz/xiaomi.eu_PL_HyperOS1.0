@@ -1380,7 +1380,7 @@
     <string name="pa_recommend_card_add_des">Dodaj ten widżet do Asystenta</string>
     <string name="pa_recommend_card_image_content_des">To widżet. Otwórz sklep z widżetami, aby dowiedzieć się więcej.</string>
     <string name="pa_recommend_card_image_text_null_des">Brak danych</string>
-    <string name="pa_recommend_card_summary">Otrzymuj rekomendacje widżetów</string>
+    <string name="pa_recommend_card_summary">Rekomendacje widżetów</string>
     <string name="pa_recommend_card_text_des">%s. Otwórz sklep z widżetami, aby dowiedzieć się więcej.</string>
     <string name="pa_recommend_card_title">Rekomendowane</string>
     <string name="pa_recommend_no_network">Najpierw pobierz aplikację</string>
@@ -1634,4 +1634,5 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
     <string name="cta_privacy_policy">Polityka prywatności</string>
     <string name="cta_refuse_policy_dialog_message">"Nie będzie można korzystać z Asystenta MIUI, dopóki nie wyrazisz zgody na warunki nowej wersji %s. Czy chcesz to teraz zrobić?"</string>
     <string name="cta_refuse_policy_dialog_title">Uwaga</string>
+    <string name="pa_recommend_add_btn">Start</string>
 </resources>

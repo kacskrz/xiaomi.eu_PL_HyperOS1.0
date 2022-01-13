@@ -221,4 +221,9 @@
         <item quantity="few">Element zawiera %d widżety. Dotknij dwa razy, aby otworzyć opis widżetu.</item>
         <item quantity="one">Element zawiera %d widżet. Dotknij dwa razy, aby otworzyć opis widżetu.</item>
     </plurals>
+    <plurals name="pa_edit_text_limit">
+        <item quantity="one">Wprowadź maks. %1$d znak</item>
+        <item quantity="few">Wprowadź maks. %1$d znaki</item>
+        <item quantity="other">Wprowadź maks. %1$d znaków</item>
+    </plurals>
 </resources>

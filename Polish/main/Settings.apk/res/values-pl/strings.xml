@@ -10084,5 +10084,5 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="string_off">Wył.</string>
     <string name="string_offed">Wył.</string>
     <string name="ap_connect_failed">Nie udało się połączyć</string>
-    <string name="ap_connected_battery_level">" | bateria %1$s"</string>
+    <string name="ap_connected_battery_level">" | Bateria %1$s"</string>
 </resources>
