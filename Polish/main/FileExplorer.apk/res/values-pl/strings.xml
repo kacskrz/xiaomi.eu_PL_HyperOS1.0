@@ -894,4 +894,5 @@ and never miss the cool new ones!"</string>
     <string name="midriver_install_button_text">Zainstaluj</string>
     <string name="midriver_not_install_title">Odinstalowano Mi Drive</string>
     <string name="reinstall_midriver_message">Zainstalować tę aplikację ponownie?</string>
+    <string name="internal_storage">Pamięć wewnętrzna</string>
 </resources>
