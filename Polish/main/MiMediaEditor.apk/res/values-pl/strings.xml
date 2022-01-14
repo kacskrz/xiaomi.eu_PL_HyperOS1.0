@@ -1566,4 +1566,6 @@
      <string name="text_edit_dialog_font_default_text">Domyślna</string>
      <string name="text_edit_dialog_toast_server_error">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
      <string name="sticker_tab_talkback_happy_new_year">Szczęśliwego Nowego Roku</string>
+     <string name="magic_no_object">"Nie znaleziono obiektu"</string>
+     <string name="vlog_fps_x">%d kl./s</string>
 </resources>

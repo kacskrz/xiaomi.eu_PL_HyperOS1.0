@@ -1629,4 +1629,5 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="account_setup_domain_invalid_toast">Wprowadzony adres domeny jest niepoprawny. Sprawdź jego poprawność i spróbuj ponownie.</string>
 </resources>
