@@ -485,4 +485,8 @@ Magazyn danych logowania może nie zostać włączony"</string>
   <string name="radio_info_nr_state">Stan NR:</string>
   <string name="anti_fraud_notification_msg">Odrzuć to połączenie, aby uniknąć oszustwa</string>
   <string name="anti_fraud_notification_title">Ostrzeżenie przed oszustwem</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

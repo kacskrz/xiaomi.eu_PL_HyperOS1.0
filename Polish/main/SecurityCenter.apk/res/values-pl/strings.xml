@@ -819,7 +819,7 @@
   <string name="cpu_usage_view_action_btn_text">Dotknij, aby wyświetlić</string>
   <string name="create_gamebooster_destop">Pomyślnie utworzono skrót</string>
   <string name="create_shortcut">Utwórz skrót do Game Turbo na pulpicie</string>
-  <string name="cta_HIPS_Perm_Location_Desc">Aby wyświetlać ostrzeżenia o trzęsieniu ziemi odpowiednie dla Twojej lokalizacji</string>
+  <string name="cta_HIPS_Perm_Location_Desc">W celu wykorzystywania Twojej lokalizacji w ramach opcji Alarmowy SOS czy Oszczędzanie baterii w aplikacjach, a także włączania przybliżonej lokalizacji</string>
   <string name="cta_button_text_agree">Zgadzam się</string>
   <string name="cta_button_text_cancel">Anuluj</string>
   <string name="cta_checkbox_title">"Nie pokazuj ponownie"</string>
@@ -831,7 +831,7 @@
   <string name="cta_dialog_negative">Wyjdź</string>
   <string name="cta_dialog_positive">Zgoda</string>
   <string name="cta_dialog_title">Łączność z siecią</string>
-  <string name="cta_main_purpose">Witaj w Panelu sterowania! Możesz użyć tej aplikacji, aby zwolnić miejsce, skanować urządzenie w poszukiwaniu wirusów, kontrolować zużycie baterii, optymalizować gry, zarządzać aplikacjami, otrzymywać ostrzeżenia o trzęsieniu ziemi i nie tylko.</string>
+  <string name="cta_main_purpose">Witaj w Panelu sterowania! Możesz użyć tej aplikacji oraz jej modułów (np. komponentów bezpieczeństwa czy usług systemowych MIUI), aby zwolnić miejsce, skanować urządzenie w poszukiwaniu wirusów, kontrolować zużycie baterii, optymalizować gry, zarządzać aplikacjami i nie tylko.</string>
   <string name="cta_settings">Zezwól na łączność z siecią i dostęp do lokalizacji</string>
   <string name="current_network_state_not_need_diagnose">Sieć działa poprawnie</string>
   <string name="customize_limit_pkg">%s (własne)</string>
@@ -5177,7 +5177,7 @@ Wycofać zgodę?"</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">W celu usuwania wiadomości z Twojej Listy blokowanych</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">W celu czyszczenia śmieci i wykonywania skanowania antywirusowego</string>
     <string name="custom_define_permission_desc_android.permission.READ_SMS">W celu używania Listy blokowanych i rozpoznawania wiadomości od Twojego operatora</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">W celu dostarczania informacji o Twojej lokalizacji dla funkcji Alarmowy sygnał SOS</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">W celu dostarczania informacji o Twojej lokalizacji dla funkcji Alarmowy sygnał SOS, Oszczędzanie baterii w aplikacjach oraz usługi przybliżonej lokalizacji</string>
     <string name="gtb_dialog_privacy_speed_message">"Niedługo skorzystasz z funkcji Xunyou Game Booster. Usługa będzie gromadzić ID Twojego konta Xiaomi, aby rejestrować czas trwania Twojego członkostwa."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Potwierdzam, że zapoznano się i zaakceptowano warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xunyou Game Booster."</Data></string>
     <string name="gtb_dialog_privacy_voice_message">"Niedługo skorzystasz z funkcji Xunyou Game Voice Changer. Usługa będzie gromadzić ID Twojego konta Xiaomi, aby rejestrować czas trwania Twojego członkostwa."</string>
@@ -5259,4 +5259,12 @@ Wycofać zgodę?"</string>
     <string name="power_center_speed_mode_toast_open_fail">"Nie można włączyć Trybu prędkości, gdy poziom baterii jest niższy niż %s"</string>
     <string name="power_center_speed_mode_toast_text">Włączono Tryb prędkości</string>
     <string name="privacy_lab_empty">Nie ma tu żadnych funkcji</string>
+    <string name="not_support_root_summary">Zezwalanie na dostęp do roota aplikacjom firm trzecich może narazić Twoje urządzenie na zagrożenia bezpieczeństwa i je uszkodzić. Z tego powodu MIUI nie dostarcza już możliwości zarządzania uprawnieniami dostępu do roota.</string>
+    <string name="not_support_root_title">Dostęp do roota</string>
+    <string name="send_sms_title">Zezwolić %s na wysyłanie SMS-ów?</string>
+    <string name="setting_back_sound_loading_msg">Chwileczkę…</string>
+    <string name="sms_content">"Wiadomość: "</string>
+    <string name="sms_sender">"Do: "</string>
+    <string name="verify_sms_ensure_allow">Wyślij</string>
+    <string name="verify_sms_title">%1$s próbuje wysłać wiadomość…</string>
 </resources>
