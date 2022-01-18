@@ -200,4 +200,8 @@ Zgłoś ten problem >"</string>
     <string name="miuix_appcompat_select_all_description">Wybierz wszystko</string>
     <string name="miuix_appcompat_select_item">Wybierz elementy</string>
     <string name="send">Wyślij</string>
+    <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

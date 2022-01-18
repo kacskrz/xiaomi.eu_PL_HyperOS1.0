@@ -258,4 +258,8 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="stricter_high_temp_state_message">"Wygląda na to, że urządzenie jest przegrzane. Obecnie będzie można korzystać tylko z aplikacji Telefon i Kontakty."</string>
   <string name="kill_all_back_pro_toast_message">"Nie można używać wszystkich procesów w tle, bo urządzenie jest przegrzane"</string>
   <string name="kill_some_back_pro_toast_message">"Nie można używać niektórych procesów w tle, bo urządzenie jest przegrzane"</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

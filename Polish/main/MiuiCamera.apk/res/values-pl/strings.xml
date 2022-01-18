@@ -2055,4 +2055,7 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="cta_perm_storage_desc">W celu wyświetlania i zapisywania zdjęć</string>
   <string name="cta_perm_voice">Korzystanie z mikrofonu</string>
   <string name="cta_perm_voice_desc">W celu nagrywania dźwięku w trakcie nagrywania filmów</string>
+  <string name="pref_camera_track_eye_preferred_description">Śledź ruch oczu, aby utrzymać na nich ostrość, gdy w kadrze znajduje się jedna osoba</string>
+  <string name="pref_camera_track_eye_preferred_title">Utrzymanie ostrości na oczach</string>
+  <string name="pref_hybrid_video_mode_description">Użyj technologii HLG, aby ulepszyć kolory i zakres dynamiczny filmów nagranych w wysokiej rozdzielczości</string>
 </resources>

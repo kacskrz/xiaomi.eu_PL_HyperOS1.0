@@ -10085,4 +10085,6 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="string_offed">Wył.</string>
     <string name="ap_connect_failed">Nie udało się połączyć</string>
     <string name="ap_connected_battery_level">" | Bateria %1$s"</string>
+    <string name="enable_sizecompat_freeform">Wymuszaj możliwość zmiany rozmiaru okienek</string>
+    <string name="enable_sizecompat_freeform_summary">Zezwól aplikacjom z ograniczeniami pod względem kompatybilności na uruchamianie się w okienkach z możliwością zmiany ich rozmiaru</string>
 </resources>
