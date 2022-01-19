@@ -417,5 +417,6 @@
     <string name="call_progress_info_user_call_rejected">Twój numer jest niedostępny</string>
     <string name="card_title_in_crbt">Oczekiwanie na odpowiedź…</string>
     <string name="incoming_video_crs_call">Odtwarzanie wideo profilowego…</string>
-    <string name="voice_control_deny_permission_msg">"Nie można teraz używać kontroli głosowej. Najpierw zezwól tej aplikacji na nagrywanie dźwięku. voice controls now."</string>
+    <string name="voice_control_deny_permission_msg">"Nie można teraz używać kontroli głosowej. Najpierw zezwól tej aplikacji na nagrywanie dźwięku."</string>
+    <string name="caller_info_name_delimiter">" lub "</string>
 </resources>
