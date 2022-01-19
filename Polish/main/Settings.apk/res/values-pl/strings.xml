@@ -196,9 +196,9 @@ Nie można powiększyć klawiatury ani paska nawigacji."</string>
   <string name="account_list">Inne</string>
   <string name="account_other">Pozostałe</string>
   <string name="account_settings">Konta</string>
-  <string name="account_settings_menu_auto_sync">Auto-synchronizacja danych</string>
-  <string name="account_settings_menu_auto_sync_personal">Auto-synchronizacja: osobiste</string>
-  <string name="account_settings_menu_auto_sync_work">Auto-synchronizacja: do pracy</string>
+  <string name="account_settings_menu_auto_sync">Autom. synchronizacja danych</string>
+  <string name="account_settings_menu_auto_sync_personal">Autom. synchronizacja: osobiste</string>
+  <string name="account_settings_menu_auto_sync_work">Autom. synchronizacja: do pracy</string>
   <string name="account_settings_title">Konta</string>
   <string name="account_sync_settings_title">Synchronizacja</string>
   <string name="account_sync_summary_all_off">Wyłącz synchronizację dla wszystkich elementów</string>
@@ -1760,7 +1760,7 @@ Szczegółowe ustawienia transmisji danych są zwykle dostępne bezpośrednio w 
   <string name="data_usage_app_settings">Ustawienia aplikacji</string>
   <string name="data_usage_app_summary_title">Przesył danych w aplikacji</string>
   <string name="data_usage_auto_sync_off_dialog">Powoduje przesyłanie mniejszej ilości danych oraz zmniejsza użycie baterii, ale pobranie najnowszych informacji będzie wymagało ręcznej synchronizacji każdego konta. Poza tym nie będziesz otrzymywać powiadomień o aktualizacjach.</string>
-  <string name="data_usage_auto_sync_off_dialog_title">Wyłączyć auto-synchronizację?</string>
+  <string name="data_usage_auto_sync_off_dialog_title">Wyłączyć automatyczną synchronizację?</string>
   <string name="data_usage_auto_sync_on_dialog">"Wszystkie zmiany, które wprowadzisz na swoich kontach w sieci, będą automatycznie kopiowane na Twoje urządzenie.
 
 Niektóre konta mogą też kopiować do sieci wszystkie zmiany, które wprowadzisz na urządzeniu. W ten sposób działa konto Google.
