@@ -824,4 +824,6 @@
   <string name="recnets_worldcirculate_display_computer_info">Aplikacja działa na %s.</string>
   <string name="recnets_worldcirculate_display_default_info">Dotknij, aby przywrócić ją z powrotem.</string>
   <string name="recnets_worldcirculate_display_pad_info">Aplikacja działa na %s.</string>
+  <string name="close_multi_finger_slide_summary">Takie gesty będą ignorowane w niektórych sytuacjach (np. podczas grania czy oglądania filmów)</string>
+  <string name="close_multi_finger_slide_title">"Nie odpowiadaj na gesty trzema lub czterema palcami"</string>
 </resources>
