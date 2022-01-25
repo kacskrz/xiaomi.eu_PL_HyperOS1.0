@@ -1635,4 +1635,11 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
     <string name="cta_refuse_policy_dialog_message">"Nie będzie można korzystać z Asystenta MIUI, dopóki nie wyrazisz zgody na warunki nowej wersji %s. Czy chcesz to teraz zrobić?"</string>
     <string name="cta_refuse_policy_dialog_title">Uwaga</string>
     <string name="pa_recommend_add_btn">Start</string>
+    <string name="app_accessibility_olympic_bronze_medal">Brązowy medal</string>
+    <string name="app_accessibility_olympic_gold_medal">Złoty medal</string>
+    <string name="app_accessibility_olympic_info_title">Więcej informacji</string>
+    <string name="app_accessibility_olympic_silver_medal">Srebrny medal</string>
+    <string name="app_accessibility_olympic_the_first">Pierwsze miejsce: %s</string>
+    <string name="app_accessibility_olympic_the_second">Drugie miejsce: %s</string>
+    <string name="app_accessibility_olympic_the_third">Trzecie miejsce: %s</string>
 </resources>
