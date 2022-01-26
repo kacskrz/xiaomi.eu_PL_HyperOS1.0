@@ -250,4 +250,28 @@
         <item quantity="few">%d srebrne medale</item>
         <item quantity="other">%d srebrnych medali</item>
     </plurals>
+    <plurals name="pa_accessibility_olympic_bronze_medal_count">
+        <item quantity="one">%d brązowy medal</item>
+        <item quantity="few">%d brązowe medale</item>
+        <item quantity="other">%d brązowych medali</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_gold_medal_count">
+        <item quantity="one">%d złoty medal</item>
+        <item quantity="few">%d złote medale</item>
+        <item quantity="other">%d złotych medali</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_medal_count">
+        <item quantity="one">%d medal</item>
+        <item quantity="few">%d medale</item>
+        <item quantity="other">%d medali</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_rank">
+        <item quantity="one">%d. miejsce</item>
+        <item quantity="other">%d. miejsce</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_silver_medal_count">
+        <item quantity="one">%d srebrny medal</item>
+        <item quantity="few">%d srebrne medale</item>
+        <item quantity="other">%d srebrnych medali</item>
+    </plurals>
 </resources>

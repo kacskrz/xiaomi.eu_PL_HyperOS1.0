@@ -1642,4 +1642,23 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
     <string name="app_accessibility_olympic_the_first">Pierwsze miejsce: %s</string>
     <string name="app_accessibility_olympic_the_second">Drugie miejsce: %s</string>
     <string name="app_accessibility_olympic_the_third">Trzecie miejsce: %s</string>
+    <string name="pa_accessibility_olympic_bronze_medal">Brązowy medal</string>
+    <string name="pa_accessibility_olympic_gold_medal">Złoty medal</string>
+    <string name="pa_accessibility_olympic_info_title">Więcej informacji</string>
+    <string name="pa_accessibility_olympic_silver_medal">Srebrny medal</string>
+    <string name="pa_accessibility_olympic_the_first">Pierwsze miejsce: %s</string>
+    <string name="pa_accessibility_olympic_the_second">Drugie miejsce: %s</string>
+    <string name="pa_accessibility_olympic_the_third">Trzecie miejsce: %s</string>
+    <string name="pa_olympic_country_name">Kraj</string>
+    <string name="pa_olympic_info_content">Dane dostarczane są przez firmę trzecią i mogą być opóźnione</string>
+    <string name="pa_olympic_label">Medale</string>
+    <string name="pa_olympic_medal_count">Łącznie medali</string>
+    <string name="pa_olympic_medals_description">Sprawdź klasyfikacje Olimpiady</string>
+    <string name="pa_operation_switch_summary">Wyświetl ostatnio popularne widżety</string>
+    <string name="pa_operation_switch_title">Wyświetlaj popularne widżety</string>
+    <string name="pa_recommend_add_btn">Start</string>
+    <string name="pa_setting_privacy_perm_location">Dostęp do lokalizacji</string>
+    <string name="pa_setting_privacy_perm_location_desc">" "</string>
+    <string name="pa_ski_foreground_service_noitification_name">Dostęp do lokalizacji</string>
+    <string name="pa_ski_foreground_service_title">Asystent MIUI próbuje uzyskać dostęp do lokalizacji</string>
 </resources>
