@@ -1656,7 +1656,6 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
     <string name="pa_olympic_medals_description">Sprawdź klasyfikacje Olimpiady</string>
     <string name="pa_operation_switch_summary">Wyświetl ostatnio popularne widżety</string>
     <string name="pa_operation_switch_title">Wyświetlaj popularne widżety</string>
-    <string name="pa_recommend_add_btn">Start</string>
     <string name="pa_setting_privacy_perm_location">Dostęp do lokalizacji</string>
     <string name="pa_setting_privacy_perm_location_desc">" "</string>
     <string name="pa_ski_foreground_service_noitification_name">Dostęp do lokalizacji</string>
