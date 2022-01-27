@@ -267,4 +267,138 @@
         <item>Islandia</item>
         <item>Kenia</item>
     </string-array>
+    <string-array name="annual_foods_title">
+        <item>Smakowity rok</item>
+        <item>Trzy dania. Cztery pory roku.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Witaj, świecie!</item>
+        <item>W trasie</item>
+        <item>Kalejdoskop miejsc</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Jesienny blask</item>
+        <item>Promienna jesień</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Noc, którą się pamięta</item>
+        <item>Nowy rozdział</item>
+        <item>Fajerwerki</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Szczęśliwego Nowego Roku!</item>
+        <item>Początek nowego roku</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Rok Małpy</item>
+        <item>Rok Koguta</item>
+        <item>Rok Psa</item>
+        <item>Rok Świni</item>
+        <item>Rok Szczura</item>
+        <item>Rok Bawołu</item>
+        <item>Rok Tygrysa</item>
+        <item>Rok Królika</item>
+        <item>Rok Smoka</item>
+        <item>Rok Węża</item>
+        <item>Rok Konia</item>
+        <item>Rok Owcy</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Pejzaż miejski</item>
+        <item>Ulice i zakątki</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Delikatne płatki</item>
+        <item>W pełnym rozkwicie</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>W dzicz</item>
+        <item>Dzikie i wolne</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Nasze spotkania</item>
+        <item>Wśród przyjaciół</item>
+        <item>Dawno się nie widzieliśmy</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Twoje ulubione obiekty</item>
+        <item>Pokrewne dusze</item>
+        <item>"Radosne życiowe chwile"</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Zajęci dorastaniem</item>
+        <item>Coraz bardziej słodki</item>
+        <item>Mały odkrywca</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Dziennik fitness</item>
+        <item>Staję się silniejszym</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Bon appétit!</item>
+        <item>Kolejny kęs?</item>
+        <item>Ciesz się jedzeniem!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Uśmiechnij się i pomachaj!</item>
+        <item>Czas zabawy</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Świeże powietrze</item>
+        <item>Trasy udeptane w śniegu</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Nie do zatrzymania</item>
+        <item>Bycie fit</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Wielki dzień</item>
+        <item>Wzdłuż przejścia</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>"Tak urosłeś!"</item>
+        <item>"Ale znowu urosłeś!"</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Moje menu</item>
+        <item>Chwile pełne smaku</item>
+        <item>Poproszę dokładkę!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>"Najlepsze pejzaże świata"</item>
+        <item>Wspinamy się</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Gdzie poprowadzi nas droga</item>
+        <item>Wspólne podróże</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Radosna wiosna</item>
+        <item>Wesołe lato</item>
+        <item>Szczęśliwa jesień</item>
+        <item>Przyjemna wiosna</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Wiosenne jedzenie</item>
+        <item>Letnie smakołyki</item>
+        <item>Jesienne biesiady</item>
+        <item>Zimowe pałaszowanie</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Kwiaty wiosny</item>
+        <item>Wiosna, ach, to ty</item>
+        <item>Witaj, wiosno!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Trochę lata</item>
+        <item>Gdzie lato nigdy się nie kończy</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Złociste jesienne godziny</item>
+        <item>Promienie złota</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Zimowe dni</item>
+        <item>Zimowa kraina czarów</item>
+    </string-array>
 </resources>
