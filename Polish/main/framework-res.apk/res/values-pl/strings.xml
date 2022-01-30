@@ -436,7 +436,7 @@ Jeśli masz pytania, skontaktuj się z administratorem organizacji."</string>
   <string name="fingerprints">Odciski cyfrowe:</string>
   <string name="floating_toolbar_close_overflow_description">Zamknij rozszerzony pasek</string>
   <string name="floating_toolbar_open_overflow_description">Więcej opcji</string>
-  <string name="force_close">OK</string>
+  <string name="force_close">Zamknij</string>
   <string name="foreground_service_app_in_background">Aplikacja %1$s używa baterii w tle</string>
   <string name="foreground_service_apps_in_background">Aplikacje (%1$d) używają baterii w tle</string>
   <string name="foreground_service_tap_for_details">Kliknij, by wyświetlić szczegóły wykorzystania baterii i transmisji danych</string>
