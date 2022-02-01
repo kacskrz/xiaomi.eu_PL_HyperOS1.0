@@ -1740,4 +1740,8 @@ Jeśli nie chcesz udostępniać tych informacji, możesz wyłączyć tę funkcj�
   <string name="sport_data_use_tip">"Przeczytaj i zaakceptuj warunki &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Polityki korzystania z danych dot. zdrowia i aktywności&lt;/a>&lt;/font>, aby lepiej zrozumieć, w jaki sposób Xiaomi gromadzi i przetwarza Twoje dane. Jeśli nie wyrazisz zgody na powyższe warunki, nie będzie można korzystać z tej usługi."</string>
   <string name="sport_data_use_title">Uprawnienia dot. danych</string>
   <string name="system_permission">Szczegóły dot. uprawnień</string>
+  <string name="dialog_upgrade_description">"1. Nowy wygląd.
+2. Synchronizacja danych między urządzeniami.
+3. Możliwość wyświetlania danych o zdrowiu z aplikacji Zdrowie, Xiaomi Wear i innych w jednym miejscu."</string>
+  <string name="dialog_upgrade_positive_btn">Zaktualizuj</string>
 </resources>

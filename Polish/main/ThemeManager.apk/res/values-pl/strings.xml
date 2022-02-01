@@ -67,7 +67,7 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="audition_ringtone">Odtwórz</string>
   <string name="author_attention">Obserwuj</string>
   <string name="author_attention_success">Obserwujesz</string>
-  <string name="author_dialog_message">Czy na pewno chcesz przestać obserwować te konto?</string>
+  <string name="author_dialog_message">Czy na pewno chcesz przestać obserwować to konto?</string>
   <string name="author_dynamic">Status</string>
   <string name="author_dynamic_no_resource">"Nie znaleziono rezultatów"</string>
   <string name="automatically_update_using_theme_tips">Zaktualizuj następnym razem</string>
@@ -891,7 +891,7 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
   <string name="trial_count_empty">Nie masz już darmowych elementów na dzisiaj. Do zobaczenia jutro!</string>
   <string name="trial_count_tip">Okres próbny kończy się za %1$s:%2$s:%3$s</string>
   <string name="trial_for_free">Wersja próbna</string>
-  <string name="trial_get_failed_tip">Obejrz te wideo, aby uzyskać motyw.</string>
+  <string name="trial_get_failed_tip">Obejrz to wideo, aby uzyskać motyw.</string>
   <string name="trial_get_success_tip">"Gratulacje! Otrzymałeś 3-dniowy okres próbny."</string>
   <string name="trial_now">Wypróbuj teraz</string>
   <string name="try_5_min">Wypróbuj przez 5 minut</string>
@@ -921,7 +921,7 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
   <string name="version_update">Sprawdź aktualizacje</string>
   <string name="video_ad_click">Wypróbuj teraz</string>
   <string name="video_ad_try_for_free">Wersja próbna</string>
-  <string name="video_ad_uncomplete_tip">Obejrz te wideo, aby uzyskać motyw.</string>
+  <string name="video_ad_uncomplete_tip">Obejrz to wideo, aby uzyskać motyw.</string>
   <string name="video_ad_uncomplete_tip_cancel">Anuluj</string>
   <string name="video_ad_uncomplete_tip_continue">Oglądaj</string>
   <string name="video_apply_home">Pulpit</string>
@@ -1510,4 +1510,22 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="supersave_mode_toast_message">"Ta funkcja nie jest dostępna, gdy używasz Ultraoszczędzania baterii. Wyłącz ten tryb, aby móc korzystać z tej funkcji."</string>
     <string name="show_exchange">Skrót do Centrum wymiany</string>
     <string name="show_exchange_desc">Pokaż lub ukryj skrót do Centrum wymiany</string>
+    <string name="current_device_not_support_superwallpaper_dialog_content">"Supertapety nie są wspierane na tym urządzeniu"</string>
+    <string name="deep_sea">Morskie głębiny</string>
+    <string name="deep_sea_resource_comment">Początek życia na Ziemi</string>
+    <string name="exchange_code_dialog_title">Uwaga</string>
+    <string name="exchange_code_not_match_account_dialog_content">Ten kod został już wykorzystany na innym koncie Xiaomi. Zaloguj się na to konto i spróbuj ponownie.</string>
+    <string name="local_mode">Tryb offline</string>
+    <string name="local_mode_close">Wyłączyć tryb offline?</string>
+    <string name="local_mode_close_desc">Jeśli chcesz używać usług online, wyłącz tryb offline. Zrobić to teraz?</string>
+    <string name="local_mode_desc">"Tryb offline używa wyłącznie zawartości znajdujących się na urządzeniu"</string>
+    <string name="local_mode_hint">"Używasz trybu offline.
+Dotknij, aby go wyłączyć."</string>
+    <string name="local_mode_open">Tryb offline</string>
+    <string name="repeat_exchange_dialog_content">"Nie można wykorzystać kodu. Czy chcesz zobaczyć, jakie nagrody możesz uzyskać?"</string>
+    <string name="repeat_exchange_dialog_positive_btn">Sprawdź</string>
+    <string name="repeat_exchange_dialog_title">Spróbuj ponownie</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Ta tapeta jest już powiązana z innym kontem Xiaomi. Zaloguj się na nim i spróbuj ponownie.</string>
+    <string name="theme_need_login_dialog_content">Aby przejść dalej, zaloguj się na swoje konto Xiaomi.</string>
+    <string name="theme_version_need_update_prompt_dialog_content">Aby przejść dalej, zaktualizuj aplikację Motywy do wersji %s lub wyższej</string>
 </resources>

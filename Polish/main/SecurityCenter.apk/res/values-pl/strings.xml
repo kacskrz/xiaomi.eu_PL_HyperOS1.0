@@ -3832,7 +3832,7 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="permission_instruction_device_admin">Te uprawnienie zezwala aplikacjom na kontrolowanie Twojego urządzenia, przez co rozumie się takie operacje, jak np. czyszczenie danych, odblokowywanie urządzenia czy zmiana haseł. Jest to uprawnienie wysokiego ryzyka - nadawaj je ze szczególną rozwagą.</string>
   <string name="permission_instruction_dont_disturb">Te uprawnienie zezwala aplikacjom na włączenie lub wyłączenie trybu Godziny ciszy.</string>
   <string name="permission_instruction_draw_overlay">Te uprawnienie zezwala aplikacjom na wyświetlanie pływających okienek nad jakimkolwiek innym interfejsem na urządzeniu, co może wpłynąć na normalne użytkowanie innych aplikacji. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu odczytu lub gromadzenia prywatnych danych (np. haseł) przez przezroczyste pływające okna.</string>
-  <string name="permission_instruction_external_storage">Te uprawnienie zezwala aplikacjom na dostęp do zdjęć, multimediów i plików na Twoim urządzeniu. Aby uniknąć wycieku Twoich osobistych danych, nadawaj te uprawnienie ze szczególną rozwagą.</string>
+  <string name="permission_instruction_external_storage">Te uprawnienie zezwala aplikacjom na dostęp do zdjęć, multimediów i plików na Twoim urządzeniu. Aby uniknąć wycieku Twoich osobistych danych, nadawaj to uprawnienie ze szczególną rozwagą.</string>
   <string name="permission_instruction_get_accounts">Te uprawnienie zezwala aplikacjom na dostęp do listy kont znajdujących się na urządeniu. Może ona zawierać wszystkie konta utworzone przez zainstalowane na urządzeniu aplikacje, jak również konta z serwisów społecznościowych oraz komunikatorów.</string>
   <string name="permission_instruction_install_shortcuts">Te uprawnienie zezwala aplikacjom na tworzenie skrótów na pulpicie.</string>
   <string name="permission_instruction_install_unknown_source">Te uprawnienie zezwala aplikacjom na instalację innych aplikacji na urządzeniu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu instalacji aplikacji bez Twojego potwierdzenia.</string>
@@ -3852,7 +3852,7 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="permission_instruction_read_sms">Te uprawnienie zezwala aplikacjom na odczyt wszystkich SMS-ów i MMS-ów znajdujących się na urządzeniu bądź karcie SIM. Mogą one zawierać m.in. hasła, kody jednorazowe, dane dot. konta w banku czy inne osobiste dane.</string>
   <string name="permission_instruction_read_write_calendar">Te uprawnienie zezwala aplikacjom na dostęp do Twojego kalendarza. Mogą one również odczytywać, dodawać, usuwać, edytować, udostępniać i zapisywać wydarzenia w kalendarzu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu wysłania wiadomości pochodzących rzekomo od Ciebie lub edytowania wydarzeń z kalendarza bez Twojej zgody.</string>
   <string name="permission_instruction_receive_mms">>Te uprawnienie zezwala aplikacjom na odczyt wszystkich MMS-ów znajdujących się na urządzeniu bądź karcie SIM. Mogą one zawierać m.in. hasła, kody jednorazowe, dane dot. konta w banku czy inne osobiste dane.</string>
-  <string name="permission_instruction_record_audio">"Te uprawnienie zezwala aplikacjom na korzystanie z mikrofonu w celu nagrania dźwięku. Pamiętaj jednak, że te uprawnienie zezwala aplikacjom na nagranie wszystkiego, co dzieje się w Twoim otoczeniu, włącznie z Twoimi rozmowami z innymi osobami. Najlepszą opcją jest zezwolenie aplikacjom na korzystanie z tego uprawnienia wyłącznie wtedy, gdy ich rzeczywiście używasz."</string>
+  <string name="permission_instruction_record_audio">"Te uprawnienie zezwala aplikacjom na korzystanie z mikrofonu w celu nagrania dźwięku. Pamiętaj jednak, że to uprawnienie zezwala aplikacjom na nagranie wszystkiego, co dzieje się w Twoim otoczeniu, włącznie z Twoimi rozmowami z innymi osobami. Najlepszą opcją jest zezwolenie aplikacjom na korzystanie z tego uprawnienia wyłącznie wtedy, gdy ich rzeczywiście używasz."</string>
   <string name="permission_instruction_running_background">Te uprawnienie zezwala aplikacjom na działanie w tle. Aplikacje mogą wtedy gromadzić dane i dostarczać swoje usługi. Zwiększa to zużycie energii.</string>
   <string name="permission_instruction_running_exceed_data">Te uprawnienie zezwala aplikacjom na zignorowanie limitów dot. użycia danych mobilnych.</string>
   <string name="permission_instruction_send_mms">Te uprawnienie zezwala aplikacjom na wysyłanie MMS-ów, co może generować dodatkowe opłaty od operatora. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu wysłania płatnych wiadomości bez Twojej zgody.</string>
@@ -4980,10 +4980,10 @@ Twoje urządzenie jest teraz o %s szybsze."</string>
     <string name="auto_task_open_bluetooth">Włącz Bluetooth</string>
     <string name="auto_task_open_wlan">Włącz Wi-Fi</string>
     <string name="auto_task_please_select_item">Wybierz element</string>
-    <string name="auto_task_rule_bluetooth">Gdy używasz Bluetooth z urządzeniem %1$s, możesz automatycznie otworzyć aplikację %2$s. Utworzyć teraz te zadanie?</string>
-    <string name="auto_task_rule_map_location">Gdy używasz map, możesz automatycznie włączyć usługi lokalizacji. Utworzyć teraz te zadanie?</string>
-    <string name="auto_task_rule_read_mode">Gdy używasz aplikacji do czytania e-booków, możesz automatycznie włączyć Tryb czytania. Utworzyć teraz te zadanie?</string>
-    <string name="auto_task_rule_zen_mode">Możesz automatycznie włączyć tryb Godziny ciszy w trakcie drzemek między 12:00 a 14:00. Utworzyć teraz te zadanie?</string>
+    <string name="auto_task_rule_bluetooth">Gdy używasz Bluetooth z urządzeniem %1$s, możesz automatycznie otworzyć aplikację %2$s. Utworzyć teraz to zadanie?</string>
+    <string name="auto_task_rule_map_location">Gdy używasz map, możesz automatycznie włączyć usługi lokalizacji. Utworzyć teraz to zadanie?</string>
+    <string name="auto_task_rule_read_mode">Gdy używasz aplikacji do czytania e-booków, możesz automatycznie włączyć Tryb czytania. Utworzyć teraz to zadanie?</string>
+    <string name="auto_task_rule_zen_mode">Możesz automatycznie włączyć tryb Godziny ciszy w trakcie drzemek między 12:00 a 14:00. Utworzyć teraz to zadanie?</string>
     <string name="auto_task_select_address_company">Praca</string>
     <string name="auto_task_select_address_home">Dom</string>
     <string name="auto_task_select_address_leave">Opuszczenie</string>

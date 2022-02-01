@@ -2406,7 +2406,7 @@ Adres sieci Wi-Fi (BSSID):
     <string name="controls_removed">Usunięte</string>
     <string name="controls_seeding_in_progress">Ładowanie rekomendacji</string>
     <string name="controls_structure_tooltip">Przeciągnij, aby zobaczyć więcej</string>
-    <string name="demote">Oznacz te powiadomienie jako niebędące konwersacją</string>
+    <string name="demote">Oznacz to powiadomienie jako niebędące konwersacją</string>
     <string name="device_services">Usługi urządzenia</string>
     <string name="dnd_suppressing_shade_text">Powiadomienia wstrzymane przez tryb Godziny ciszy</string>
     <string name="dock_alignment_not_charging">Zmień położenie telefonu, aby naładować go bezprzewodowo</string>

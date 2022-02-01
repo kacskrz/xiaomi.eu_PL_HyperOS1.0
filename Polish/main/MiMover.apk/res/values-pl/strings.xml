@@ -653,7 +653,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="host_manual_connect_link_text">Jeśli stare urządzenie szuka hotspota zbyt długo, spróbuj połączyć się ręcznie.</string>
     <string name="manual_connection_content1">1. Dotknij przycisku \"Połącz się z nowym urządzeniem ręcznie\" na starym urządzeniu.</string>
     <string name="manual_connection_content2">2. Wybierz odpowiedni hotspot Wi-Fi.</string>
-    <string name="manual_connection_content3">3. Wprowadź te hasło na starym urządzeniu, aby się połączyć.</string>
+    <string name="manual_connection_content3">3. Wprowadź to hasło na starym urządzeniu, aby się połączyć.</string>
     <string name="manual_connection_summary2">"Jeśli nie możesz odnaleźć tego hotspotu, odśwież listę dostępnych sieci Wi-Fi i spróbuj ponownie."</string>
     <string name="manual_connection_title">Połącz się ze starym urządzeniem ręcznie</string>
     <string name="not_support_data_content1">1. Elementy specyficzne dla danego urządzenia</string>

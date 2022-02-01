@@ -6786,7 +6786,7 @@ Tymczasem możesz dalej konfigurować nowe urządzenie %1$s."</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Nie teraz</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">OK</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">OK (%d s)</string>
-  <string name="turn_on_keyguard_password_alert_forget_content">"Zapamiętaj swoje hasło blokady ekranu. Hasło te (jeśli Android 9 lub wyższy) będzie potrzebne by kontynuować instalację aktualizacji systemu."</string>
+  <string name="turn_on_keyguard_password_alert_forget_content">"Zapamiętaj swoje hasło blokady ekranu. Będzie ono potrzebne, aby kontynuować instalację aktualizacji systemu."</string>
   <string name="turn_on_keyguard_password_alert_forget_title">Informacja</string>
   <string name="turn_on_security_lock">Dodaj hasło</string>
   <string name="turn_on_torch">Włącz latarkę</string>
@@ -8348,7 +8348,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miheadset_connectHeadsetForFw">Podłącz słuchawki, aby zobaczyć wersję oprogramowania</string>
   <string name="miheadset_connect_play_music">Rozpocznij odtwarzanie automatycznie po podłączeniu słuchawek</string>
   <string name="miheadset_disconnect">Rozłącz</string>
-  <string name="miheadset_disconnect_device">Rozłączyć te urządzenie?</string>
+  <string name="miheadset_disconnect_device">Rozłączyć to urządzenie?</string>
   <string name="miheadset_double_click_left">Dotknij dwukrotnie lewej słuchawki</string>
   <string name="miheadset_double_click_right">Dotknij dwukrotnie prawej słuchawki</string>
   <string name="miheadset_game_mode">Tryb gry</string>
@@ -8545,7 +8545,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="var_font_switch_title">Zmienna grubość czcionki</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Nie</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">Tak</string>
-  <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">Aby zmienić te ustawienie, konieczne jest ponowne uruchomienie urządzenia.</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">Aby zmienić to ustawienie, konieczne jest ponowne uruchomienie urządzenia.</string>
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Uruchomić ponownie?</string>
   <string name="haptic_video_content_description">Demonstracja wideo reakcji haptycznych</string>
   <string name="wlan_scanner_unresizeble">"Nie można wyświetlić ustawień Wi-Fi w trybie Dzielonego ekranu"</string>

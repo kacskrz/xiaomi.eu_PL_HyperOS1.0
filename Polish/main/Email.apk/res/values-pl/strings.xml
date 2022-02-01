@@ -990,7 +990,7 @@ Brak połączenia z siecią."</string>
   <string name="ser_resp_err_map_landing_too_frequently">Wykryto zbyt wiele częstych prób logowania. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="ser_resp_err_map_mailbox_locked">Te konto e-mail jest zablokowane. Aby je odblokować, skontaktuj się z dostawcą usług poczty.</string>
   <string name="ser_resp_err_map_mailbox_not_open">Te konto e-mail nie jest aktywowane. Aby je aktywować, skontatuj się z dostawcą usług poczty.</string>
-  <string name="ser_resp_err_map_max_connections">Dostęp do konta jest możliwy z zbyt wielu urządzeń. Usuń te konto z jednego z urządzeń, aby móc uzyskać do niego dostęp na tym urządzeniu.</string>
+  <string name="ser_resp_err_map_max_connections">Dostęp do konta jest możliwy z zbyt wielu urządzeń. Usuń to konto z jednego z urządzeń, aby móc uzyskać do niego dostęp na tym urządzeniu.</string>
   <string name="ser_resp_err_map_nouser">Nie udało się odnaleźć prawidłowego konta. Sprawdź poprawność wprowadzonych informacji i spróbuj ponownie.</string>
   <string name="ser_resp_err_map_or">%1$s lub %2$s</string>
   <string name="ser_resp_err_map_pserr">Nieprawidłowe hasło</string>
@@ -1166,7 +1166,7 @@ Brak połączenia z siecią."</string>
   <string name="calendar_skip_no_account_alert">Nie znaleziono tego konta</string>
   <string name="compose_event">Zaproszenie</string>
   <string name="confirm_add_to_calendar">Dodawanie do Kalendarza…</string>
-  <string name="delete_message_event">Usunąć te zaproszenie?</string>
+  <string name="delete_message_event">Usunąć to zaproszenie?</string>
   <string name="dtend">Koniec</string>
   <string name="dtstart">Start</string>
   <string name="editor_max_length_limit_hint">Wprowadzona wiadomość jest zbyt długa</string>
@@ -1304,7 +1304,7 @@ Brak połączenia z siecią."</string>
   <string name="drive_card_title">Link do chmury</string>
   <string name="expand_button_title">Zaawansowane</string>
   <string name="login_err_outlook_msg">"%s
-Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojego konta. Spróbuj wpisać swoje hasło lub wyłączyć te uwierzytelnianie."</string>
+Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojego konta. Spróbuj wpisać swoje hasło lub wyłączyć to uwierzytelnianie."</string>
   <string name="message_all_body">Pełna wiadomość</string>
   <string name="not_set">Nie ustawiono</string>
   <string name="pdf_save_error">Nie można skonwertować wiadomości do pliku PDF. Ta wiadomość jest za długa.</string>
@@ -1329,7 +1329,7 @@ Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojeg
   <string name="web_view_load_error_tip">Nie można wyświetlić treści tego e-maila ze względu na pewne problemy. Możesz spróbować zgłosić ten problem twórcom aplikacji.</string>
   <string name="attachment_drag_add_attachment">Załącznik</string>
   <string name="attachment_drag_add_inline">W treści wiadomości</string>
-  <string name="attachment_drag_add_picture_prompt">Dodać te zdjęcie jako załącznik czy w ramach treści wiadomości?</string>
+  <string name="attachment_drag_add_picture_prompt">Dodać to zdjęcie jako załącznik czy w ramach treści wiadomości?</string>
   <string name="attachment_drag_create_email_prompt">Czy chcesz użyć tego pliku, aby utworzyć nową wiadomość z załącznikiem?</string>
   <string name="common_google_play_services_enable_button">Włącz</string>
   <string name="common_google_play_services_enable_text">Aplikacja %1$s nie będzie działać, jeśli nie włączysz Usług Google Play.</string>
