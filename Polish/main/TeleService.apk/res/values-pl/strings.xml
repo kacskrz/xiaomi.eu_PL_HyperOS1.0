@@ -2000,4 +2000,8 @@ Nadal możesz wykonywać połączenia alarmowe."</string>
   <string name="uplmn_title">Ustawienia sieci operatora</string>
   <string name="smart_multinetwork_acceleration_title">Inteligentna akceleracja sieci</string>
   <string name="fiveg_switch_per_slot_summary">Użyj 5G, aby zwiększyć prędkość danych mobilnych</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

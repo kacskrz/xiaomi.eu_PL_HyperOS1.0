@@ -10087,6 +10087,25 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="ap_connected_battery_level">" | Bateria %1$s"</string>
     <string name="enable_sizecompat_freeform">Wymuszaj możliwość zmiany rozmiaru okienek</string>
     <string name="enable_sizecompat_freeform_summary">Zezwól aplikacjom z ograniczeniami pod względem kompatybilności na uruchamianie się w okienkach z możliwością zmiany ich rozmiaru</string>
-    <string name="headset_silent_upgrade_switch_summary">Automatycznie aktualizuj oprogramowanie słuchawek w wybranych sytuacjach</string>
+    <string name="headset_silent_upgrade_switch_summary">Automatycznie aktualizuj oprogramowanie słuchawek, gdy spełnione zostaną wszystkie wymagane warunki</string>
     <string name="headset_silent_upgrade_switch_title">Aktualizuj automatycznie</string>
+    <string name="ks_add_title">Dodaj skrót</string>
+    <string name="ks_back_home">Pulpit</string>
+    <string name="ks_category_app">Otwórz aplikacje</string>
+    <string name="ks_category_key">Skróty klawiszowe</string>
+    <string name="ks_category_system">Skróty systemowe</string>
+    <string name="ks_dialog_add_text">Wprowadź kombinację klawiszy, aby dodać skrót.</string>
+    <string name="ks_dialog_conflict">Ten skrót jest już używany do \"%s\"</string>
+    <string name="ks_dialog_modify_text">Wprowadź kombinację klawiszy, aby edytować ten skrót</string>
+    <string name="ks_dialog_reset_btn">Przywróć</string>
+    <string name="ks_dialog_reset_text_app">Przywrócone zostaną domyślne preferencje skrótów do otwierania aplikacji. Twoje skróty zostaną usunięte. Przywrócić mimo to?</string>
+    <string name="ks_dialog_reset_text_system">Przywrócić domyślne preferencje skrótów?</string>
+    <string name="ks_dialog_title">Otwórz %s</string>
+    <string name="ks_launch_control_center">Centrum funkcji</string>
+    <string name="ks_launch_notification_center">Panel powiadomień</string>
+    <string name="ks_reset_title">Przywróć domyślne preferencje</string>
+    <string name="ks_screenshot">Zrzut ekranu</string>
+    <string name="ks_search_summary">Szukaj</string>
+    <string name="ks_title">Skróty klawiszowe</string>
+    <string name="flashback_wangzhe_summary">Wyświetlaj odliczanie do wskrzeszenia</string>
 </resources>

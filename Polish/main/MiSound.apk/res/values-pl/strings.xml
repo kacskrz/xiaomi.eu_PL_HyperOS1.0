@@ -373,4 +373,6 @@
   <string name="sound_id_test_select_note">Odtwórz oba nagrania i wybierz te, które lubisz bardziej</string>
   <string name="sound_id_wired_analog_headset">Słuchawki przewodowe</string>
   <string name="speaker_scenario_resume">Przywróć oryginalne efekty</string>
+  <string name="effect_virtual_surround">Wirtualny dźwięk przestrzenny</string>
+  <string name="effect_virtual_surround_summary">"Zwiększ głębię dźwięku odtwarzanych filmów i utworów. Funkcja nie będzie działać, gdy odtwarzane jest audio %.1f."</string>
 </resources>
