@@ -10108,4 +10108,19 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="ks_search_summary">Szukaj</string>
     <string name="ks_title">Skróty klawiszowe</string>
     <string name="flashback_wangzhe_summary">Wyświetlaj odliczanie do wskrzeszenia</string>
+    <string name="Intelligentpickfree">Wykryj głos</string>
+    <string name="anc_auto">Autom.</string>
+    <string name="anc_depth">Mocna</string>
+    <string name="anc_mild">Słaba</string>
+    <string name="auto_anc_closed">Wył.</string>
+    <string name="auto_anc_fifteen_recover">%d sek.</string>
+    <string name="auto_anc_five_recover">%d sek.</string>
+    <string name="auto_anc_not_recover">Ciągle włączona</string>
+    <string name="auto_anc_ten_recover">%d sek.</string>
+    <string name="double_connect">Dwa połączenia na raz</string>
+    <string name="double_connect_summary">Możliwość łączenia się z dwoma urządzeniami jednocześnie</string>
+    <string name="mi_headset_healthy">Zdrowie narządu słuchu</string>
+    <string name="transparent_human_voice">Głos</string>
+    <string name="transparent_normal">Regularne</string>
+    <string name="transparent_surroundings">Otoczenie</string>
 </resources>

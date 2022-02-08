@@ -163,4 +163,6 @@ Dotknij, aby je zobaczyć."</string>
   <string name="privacy_settings">Prywatność</string>
   <string name="view_privacy">Wyświetl Politykę prywatności</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="battery_not_allowed_warning">"Nie można nagrywać ekranu, gdy poziom baterii wynosi mniej niż %1$s. Naładuj baterię do poziomu co najmniej %2$s."</string>
+  <string name="low_memory_for_phone">Zostało mniej niż %1$d GB dostępnej przestrzeni. Obecne nagranie może trwać maksymalnie %2$d minut.</string>
 </resources>

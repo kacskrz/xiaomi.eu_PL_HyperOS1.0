@@ -2058,4 +2058,8 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="pref_camera_track_eye_preferred_description">Śledź ruch oczu, aby utrzymać na nich ostrość, gdy w kadrze znajduje się jedna osoba</string>
   <string name="pref_camera_track_eye_preferred_title">Utrzymanie ostrości na oczach</string>
   <string name="pref_hybrid_video_mode_description">Użyj technologii HLG, aby ulepszyć kolory i zakres dynamiczny filmów nagranych w wysokiej rozdzielczości</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>

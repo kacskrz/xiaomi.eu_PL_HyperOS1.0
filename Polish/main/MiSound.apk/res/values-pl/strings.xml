@@ -375,4 +375,7 @@
   <string name="speaker_scenario_resume">Przywróć oryginalne efekty</string>
   <string name="effect_virtual_surround">Wirtualny dźwięk przestrzenny</string>
   <string name="effect_virtual_surround_summary">"Zwiększ głębię dźwięku odtwarzanych filmów i utworów. Funkcja nie będzie działać, gdy odtwarzane jest audio %.1f."</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

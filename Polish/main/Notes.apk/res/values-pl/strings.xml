@@ -599,7 +599,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="audio_btn_trans">Tłumaczenie chiński-angielski</string>
   <string name="audio_dialog_mode_meeting">Tryb spotkania (beta)</string>
   <string name="audio_dialog_mode_meeting_exit">Nie, dzięki</string>
-  <string name="audio_dialog_mode_meeting_sum">Tryb spotkania umożliwia rozpoznanie głosów maks. 4 różnych osób. W wersji beta mogą występować pewne błędy w rozpoznawaniu.</string>
+  <string name="audio_dialog_mode_meeting_sum">Tryb spotkania umożliwia rozpoznanie głosów od %1$d do %2$d różnych osób. W wersji beta mogą występować pewne błędy w rozpoznawaniu.</string>
   <string name="audio_dialog_mode_meeting_use">Start</string>
   <string name="monday">Poniedziałek</string>
   <string name="monday_short">Pon</string>

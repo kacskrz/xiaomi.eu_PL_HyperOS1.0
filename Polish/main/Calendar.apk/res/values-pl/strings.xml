@@ -828,4 +828,18 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię nic ważnego."</stri
     <string name="premission_description_ringtone">W celu ustawienia dzwonków</string>
     <string name="miuix_indexer_collect">Kolekcje</string>
     <string name="talk_back_tab_switch_language">Wybierz język Kalendarza</string>
+    <string name="already_num">Czas od %s</string>
+    <string name="count_down_date_view">Odliczanie</string>
+    <string name="date_view">Data</string>
+    <string name="in_progress">W trakcie</string>
+    <string name="near_agenda_view">Nadchodzące wydarzenia</string>
+    <string name="spec_agenda_view">Wydarzenia specjalne</string>
+    <string name="still_num">Czas do %s</string>
+    <string name="today_no_event">Brak wydarzeń na dziś.</string>
+    <string name="widget_normal_agenda_tip_empty">Brak wydarzeń na dziś.</string>
+    <string name="widget_normal_agenda_today_done">Wszystkie dzisiejsze wydarzenia się zakończyły.</string>
+    <string name="widget_normal_more_event">Więcej wydarzeń</string>
+    <string name="widget_normal_new_event">Dodaj wydarzenie</string>
+    <string name="widget_normal_weekN">Tydzień %d</string>
+    <string name="widget_spec_agenda_birth_today">Dzisiaj</string>
 </resources>

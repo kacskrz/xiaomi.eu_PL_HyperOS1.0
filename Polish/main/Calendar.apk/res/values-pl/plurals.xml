@@ -302,4 +302,58 @@
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">Za %d min</item>
+        <item quantity="one">Za %d min</item>
+        <item quantity="few">Za %d min</item>
+        <item quantity="many">Za %d min</item>
+    </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">%d wydarzeń więcej</item>
+        <item quantity="one">%d wydarzenie więcej</item>
+        <item quantity="few">%d wydarzenia więcej</item>
+        <item quantity="many">%d wydarzeń więcej</item>
+    </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">%d wydarzeń dzisiaj</item>
+        <item quantity="one">%d wydarzenie dzisiaj</item>
+        <item quantity="few">%d wydarzenia dzisiaj</item>
+        <item quantity="many">%d wydarzeń dzisiaj</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s dni</item>
+        <item quantity="one">%1$s dzień</item>
+        <item quantity="few">%1$s dni</item>
+        <item quantity="many">%1$s dni</item>
+    </plurals>
+    <plurals name="widget_custom_unit_day">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dni</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">%d wydarzeń w trakcie</item>
+        <item quantity="one">%d wydarzenie w trakcie</item>
+        <item quantity="few">%d wydarzenia w trakcie</item>
+        <item quantity="many">%d wydarzeń w trakcie</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">Następne wydarzenie za %d min</item>
+        <item quantity="one">Następne wydarzenie za %d min</item>
+        <item quantity="few">Następne wydarzenie za %d min</item>
+        <item quantity="many">Następne wydarzenie za %d min</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">%d wydarzeń jutro</item>
+        <item quantity="one">%d wydarzenie jutro</item>
+        <item quantity="few">%d wydarzenia jutro</item>
+        <item quantity="many">%d wydarzeń jutro</item>
+    </plurals>
+    <plurals name="widget_weekN">
+        <item quantity="other">Tydzień %d</item>
+        <item quantity="one">Tydzień %d</item>
+        <item quantity="few">Tydzień %d</item>
+        <item quantity="many">Tydzień %d</item>
+    </plurals>
 </resources>
