@@ -323,4 +323,10 @@ Szyszy protokół transmisji."</string>
     <string name="stylus_firmware_update_summary">Aktualizowanie oprogramowania rysika…</string>
     <string name="stylus_firmware_update_title">Oprogramowanie rysika</string>
     <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="config_net_device_connect">Połącz</string>
+    <string name="config_net_device_find">Połącz urządzenie</string>
+    <string name="config_net_not_my_device">Anuluj</string>
+    <string name="confignet_app_download">Instaluj</string>
+    <string name="confignet_cancel">Anuluj</string>
+    <string name="confignet_download_title">Zainstaluj aplikację Mi Fitness, aby kontynuować</string>
 </resources>
