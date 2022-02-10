@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Dodaj częste zwroty</string>
+    <string name="call">Zadzwoń</string>
+    <string name="edit_frequent_phrases">Edytuj częste zwroty</string>
+    <string name="floating_toolbar_open_overflow_description">Więcej opcji</string>
+    <string name="frequent_phrases">Frequent phrases</string>
+    <string name="open">Przeglądaj</string>
+    <string name="query">Zapytaj</string>
+    <string name="select">Wybierz</string>
+    <string name="translate">Tłumacz</string>
+    <string name="translation_more">Więcej</string>
+    <string name="translation_query_error">"Nie znaleziono rezultatów"</string>
+    <string name="translation_query_error_network">"Nie udało się uzyskać informacji. Sprawdź połączenie z Internetem i spróbuj ponownie."</string>
+</resources>
