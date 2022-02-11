@@ -28,6 +28,7 @@ Nasze dane to: Orange Polska S.A., Aleje Jerozolimskie 160, 02-326 Warszawa, wpi
 Korzystanie z Wi-Fi Calling może wiązać się z naliczaniem opłat zgodnie z cennikiem oferty, z której korzystasz. Szczegóły na www.orange.pl/wificalling
 
 Połączenia na numery alarmowe, np. 112, będą realizowane za pośrednictwem sieci operatora komórkowego, w zasięgu której będzie znajdować się telefon. Gdy sieć komórkowa nie będzie dostępna, połączenia alarmowe mogą być realizowane za pośrednictwem Wi-Fi Calling. W takim przypadku operator może nie dysponować informacją na temat Twojej lokalizacji, dlatego centrum powiadamiania ratunkowego, do którego Twoje połączenie zostanie przekierowane, może nie być najbliższym względem miejsca, z którego dzwonisz."</string>
+    <string name="wifi_call_cancel">Więcej</string>
     <string name="wifi_call_help_title">Wi-Fi Calling - Pomoc</string>
     <string name="wifi_call_notification_message">"Wi-Fi Calling pozwala na wykonywanie i odbieranie połączeń telefonicznych poprzez Internet w dowolnej sieci Wi-Fi, również wtedy, gdy jesteś poza zasięgiem sieci operatora komórkowego. Połączenia realizowane za pośrednictwem Wi-Fi Calling będą sygnalizowane ikonką w górnej części ekranu.
 
