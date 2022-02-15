@@ -10123,4 +10123,8 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="transparent_human_voice">Głos</string>
     <string name="transparent_normal">Regularne</string>
     <string name="transparent_surroundings">Otoczenie</string>
+    <string name="Sound_Settings">Efekty dźwiękowe</string>
+    <string name="search_gmscore_settings_title">Google;Usługi Google;GMS;Gmail</string>
+    <string name="virtual_surround_sound_switch_summary">"Zwiększ głębię dźwięku odtwarzanych filmów i utworów. Funkcja nie będzie działać, gdy odtwarzane jest audio %.1f."</string>
+    <string name="virtual_surround_sound_switch_title">Wirtualny dźwięk przestrzenny</string>
 </resources>

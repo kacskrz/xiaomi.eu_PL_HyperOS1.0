@@ -49,4 +49,5 @@
     <string name="stop_on_bugreport">Zatrzymaj dołączanie logów do raportów o błędach</string>
     <string name="stop_on_bugreport_summary">Kończy aktywną sesję rejestrowania logów po rozpoczęciu tworzenia raportu o błędzie</string>
     <string name="window_blurs">Zezwól na rozmycie na poziomie okna</string>
+    <string name="start_new_trace">Rozpocznij nowe śledzenie</string>
 </resources>

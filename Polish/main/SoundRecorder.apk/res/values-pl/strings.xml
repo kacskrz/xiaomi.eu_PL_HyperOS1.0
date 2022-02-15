@@ -458,4 +458,10 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="saf_permission_dialog_no_more_tip">"Nie pokazuj ponownie"</string>
   <string name="saf_permission_dialog_title">Wymagane uprawnienia</string>
   <string name="settings_saf_permission">Uprawnienia dot. zarządzania plikami</string>
+  <string name="new_saf_permission_dialog_content">"Uprawnienia aplikacji Dyktafon zostały zaktualizowane. Zezwól jej na dostęp do nagrań połączeń.
+
+Jak to zrobić?
+Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
+  <string name="new_saf_permission_dialog_grant_permission_immediately">Dalej</string>
+  <string name="this_folder">Użyj tego folderu</string>
 </resources>

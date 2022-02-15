@@ -4824,8 +4824,8 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gb_performance_balance">Balans</string>
     <string name="gb_performance_high">Wydajność</string>
     <string name="gb_performance_mode">Tryb gry</string>
-    <string name="gb_performance_tips">"Korzystanie z trybu wydajności przez dłuższy czas
-drenuje baterię i może być przyczyną przegrzewania"</string>
+    <string name="gb_performance_tips">"Tryb wydajności polepsza grafikę,
+ale zwiększa zużycie baterii i umożliwia przegrzewanie się urządzenia"</string>
     <string name="gb_turbo_collimator_subtitle">Ułatw sobie celowanie</string>
     <string name="gb_turbo_macro_subtitle">Automatyzuj działania</string>
     <string name="gb_turbo_new_flag">NOWE</string>
@@ -4842,7 +4842,7 @@ drenuje baterię i może być przyczyną przegrzewania"</string>
     <string name="gtb_guide_gtb_community_title">Społeczność</string>
     <string name="gtb_guide_gtb_func_desc">Narzędzia, dzięki którym gra jest przyjemniejsza</string>
     <string name="gtb_guide_gtb_func_title">Game Turbo</string>
-    <string name="gtb_guide_gtb_line_new">Oto nowy tryb Game Turbo!</string>
+    <string name="gtb_guide_gtb_line_new">Wypróbuj Tryb wydajności w Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">Korzystaj z innych aplikacji w trakcie gry</string>
     <string name="gtb_guide_small_window_app_title">Pływające okna</string>
     <string name="behavior_widget_get_installed_apps">Dostęp do listy aplikacji</string>
@@ -5267,4 +5267,11 @@ Wycofać zgodę?"</string>
     <string name="sms_sender">"Do: "</string>
     <string name="verify_sms_ensure_allow">Wyślij</string>
     <string name="verify_sms_title">%1$s próbuje wysłać wiadomość…</string>
+    <string name="confirm_ai_allow_all_permission">Zmienić stan uprawnienia na \"Zdecyduj za mnie\" dla wszystkich aplikacji?</string>
+    <string name="gb_performance_balance_tips">"Tryb zbalansowany oszczędza baterię
+i obniża częstotliwość odświeżania oraz limity temperatury"</string>
+    <string name="gd_sidebar_long_press_tips">Przytrzymaj pasek, aby go przesunąć, gdy używasz urządzenia pionowo</string>
+    <string name="gtb_guide_game_mode_tips">Wybierz preferowany tryb grania</string>
+    <string name="gtb_guide_gtb_line_xspace">Przenieś się na wyższy poziom z nowym Game Turbo!</string>
+    <string name="st_title_keywords_list">Lista słów kluczowych</string>
 </resources>

@@ -1804,4 +1804,6 @@ Ulepszone powiadomienia mogą czytać całą zawartość powiadomień, w tym inf
 dotyczące konta %2$s."</string>
   <string name="face_recalibrate_notification_content">Kliknij, aby usunąć model twarzy, a następnie ponownie dodaj skan twarzy</string>
   <string name="face_recalibrate_notification_title">Problem z rozpoznawaniem twarzy</string>
+  <string name="face_error_vendor_unknown">Coś poszło nie tak. Spróbuj ponownie.</string>
+  <string name="fingerprint_error_vendor_unknown">Coś poszło nie tak. Spróbuj ponownie.</string>
 </resources>

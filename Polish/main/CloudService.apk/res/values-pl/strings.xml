@@ -1207,4 +1207,19 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="find_device_permissions_header">"Witaj w funkcji Znajdź urządzenie! Możesz jej używać do lokalizowania, śledzenia i zablokowania urządzenia w razie jego utraty. Funkcja wymaga następujących uprawnień:"</string>
   <string name="revoke_permission_content">"Nie będzie można używać funkcji Znajdź urządzenie, jeśli wycofasz stosowne uprawnienia. Zostanie ona wtedy wyłączona. Przed wycofaniem uprawnień zostanie wyświetlona prośba o podanie hasła."</string>
   <string name="revoke_permission_title">Uwaga</string>
+  <string name="permission_status_allow">Przyznano</string>
+  <string name="permission_status_deny">Nie przyznano</string>
+  <string name="permission_status_loading">Uzyskiwanie dostępu do stanu urządzenia…</string>
+  <string name="privacy_runtime_perm_calendar_desc">W celu synchronizacji wydarzeń z kalendarza</string>
+  <string name="privacy_runtime_perm_calendar_title">Dostęp do kalendarza</string>
+  <string name="privacy_runtime_perm_call_log_desc">W celu synchronizacji rejestru połączeń</string>
+  <string name="privacy_runtime_perm_call_log_title">Dostęp i edycja rejestru połączeń</string>
+  <string name="privacy_runtime_perm_contacts_desc">W celu synchronizacji kontaktów</string>
+  <string name="privacy_runtime_perm_contacts_title">Dostęp i edycja kontaktów</string>
+  <string name="privacy_runtime_perm_external_storage_desc">W celu synchronizacji zdjęć kontaktów i załączników do SMS-ów</string>
+  <string name="privacy_runtime_perm_external_storage_title">Dostęp do pamięci</string>
+  <string name="privacy_runtime_perm_phone_state_desc">W celu uzyskania numeru telefonu i informacji o stanie urządzenia</string>
+  <string name="privacy_runtime_perm_phone_state_title">Dostęp do informacji o urządzeniu</string>
+  <string name="privacy_runtime_perm_sms_desc">W celu synchronizacji SMS-ów</string>
+  <string name="privacy_runtime_perm_sms_title">Dostęp do SMS-ów</string>
 </resources>

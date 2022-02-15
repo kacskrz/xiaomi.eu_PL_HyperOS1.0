@@ -537,4 +537,10 @@
   <string name="unselect_all">Odznacz wszystko</string>
   <string name="xiaoai_ringtone_title">Dzwonki SI Mi</string>
   <string name="cities_show_limit_desc">"Nie można wyświetlić więcej zegarów"</string>
+  <string name="show_life_post_desc">"Poranne prognozy nie będą wyświetlane, gdy wyłączysz tę funkcję won't be displayed if you turn this feature off"</string>
+  <string name="show_life_post_lable">Pokaż poranną prognozę</string>
+  <string name="sleep_date_provider_text_new">Dane dot. snu dostarcza Mi Fitness</string>
+  <string name="sleep_record_desc_detailed_new">Śledzenie snu dostarcza funkcja Sen aplikacji Mi Fitness. Jeśli włączysz tę funkcję, Mi Fitness będzie automatycznie gromadzić i wyświetlać dane dot. Twojego snu w oparciu o Twoje korzystanie z telefonu, aktywność oraz ustawione przez Ciebie pory zasypiania i wstawania. Aby śledzić sen dokładniej, zezwól aplikacji Mi Fitness na korzystanie z autostartu.</string>
+  <string name="update_health_app_desc_new">Funkcję śledzenia snu dostarcza aplikacja Mi Fitness. Aby uzyskać dostęp do związanych z nią funkcji, zaktualizuj aplikację Mi Fitness.</string>
+  <string name="update_health_app_new">Zaktualizuj Mi Fitness</string>
 </resources>

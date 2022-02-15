@@ -1359,7 +1359,7 @@
     <string name="pa_picker_home_app_group_title">Aplikacje z widżetami</string>
     <string name="pa_picker_home_group_more">Wszystko</string>
     <string name="pa_picker_home_request_failed">Błąd sieci</string>
-    <string name="pa_picker_home_search_hint">Szukaj</string>
+    <string name="pa_picker_home_search_hint">Szukaj widżetów</string>
     <string name="pa_picker_home_title">Dodaj widżety</string>
     <string name="pa_picker_item_retry">"Nie udało się załadować elementów. Spróbuj ponownie."</string>
     <string name="pa_picker_list_app_footer_classic_widget">Widżety Androida</string>
@@ -1455,7 +1455,7 @@
     <string name="pa_stock_search_failure">"Nie znaleziono rezultatów"</string>
     <string name="pa_stock_search_loading">Chwileczkę…</string>
     <string name="pa_stock_update_limitation_tip">Informacje o rynkach giełdowych USA oraz Hongkongu są aktualizowane z 15-minutowym opóźnieniem.</string>
-    <string name="pa_stock_webview_bottom_button">Otwórz</string>
+    <string name="pa_stock_webview_bottom_button">Pobierz</string>
     <string name="pa_stock_webview_bottom_text">Otwórz klienta, aby wyświetlić więcej informacji</string>
     <string name="pa_stock_widget_button_add_stock">Dodaj</string>
     <string name="pa_stock_widget_empty">Nie ma tu jeszcze elementów</string>
@@ -1660,4 +1660,10 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
     <string name="pa_setting_privacy_perm_location_desc">" "</string>
     <string name="pa_ski_foreground_service_noitification_name">Dostęp do lokalizacji</string>
     <string name="pa_ski_foreground_service_title">Asystent MIUI próbuje uzyskać dostęp do lokalizacji</string>
+    <string name="pa_picker_toast_count_limit_forbidden_for_type">"Nie można dodać więcej widżetów tego typu"</string>
+    <string name="pa_recommend_add_btn">Zacznij</string>
+    <string name="pa_stock_change_cp_code_alert">Ta operacja może spowodować, iż dane nie będą się wyświetlać poprawnie</string>
+    <string name="pa_stock_change_cp_code_error">"Nie udało się zmienić źródła danych"</string>
+    <string name="pa_stock_change_cp_code_progress_msg">Synchronizacja danych…</string>
+    <string name="pa_stock_data_source_label">Wybierz źródło danych</string>
 </resources>

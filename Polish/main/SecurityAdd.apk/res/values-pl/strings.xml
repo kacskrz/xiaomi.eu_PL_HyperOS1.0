@@ -376,4 +376,9 @@
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="gamebooster_network_dialog_message_pad">Zezwolić Panelowi sterowania na połączenie z Internetem w celu skorzystania ze wszystkich funkcji Game Turbo?</string>
+  <string name="gb_global_settings">Ustawienia ogólne</string>
+  <string name="gb_webwindow_schemedialog_accept">Otwórz</string>
+  <string name="gb_webwindow_schemedialog_cancel">Anuluj</string>
+  <string name="gb_webwindow_schemedialog_title">Otworzyć aplikację Gry?</string>
 </resources>
