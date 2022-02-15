@@ -93,12 +93,12 @@
         <item quantity="one">" min"</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
-        <item quantity="other">%s godz. później</item>
-        <item quantity="one">%s godz. później</item>
+        <item quantity="other">%s godz. przed</item>
+        <item quantity="one">%s godz. przed</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
-        <item quantity="other">%s godz. wcześniej</item>
-        <item quantity="one">%s godz. wcześniej</item>
+        <item quantity="other">%s godz. za</item>
+        <item quantity="one">%s godz. za</item>
     </plurals>
     <plurals name="stopwatch_running_notification_day">
         <item quantity="other">Stoper jest uruchomiony już %s dni. Dotknij, aby zobaczyć.</item>

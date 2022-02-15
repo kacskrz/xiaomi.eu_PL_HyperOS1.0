@@ -1665,4 +1665,5 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
     <string name="pa_stock_change_cp_code_error">"Nie udało się zmienić źródła danych"</string>
     <string name="pa_stock_change_cp_code_progress_msg">Synchronizacja danych…</string>
     <string name="pa_stock_data_source_label">Wybierz źródło danych</string>
+    <string name="pa_day_date">dd:MM</string>
 </resources>
