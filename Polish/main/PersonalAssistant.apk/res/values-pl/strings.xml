@@ -1661,7 +1661,6 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
     <string name="pa_ski_foreground_service_noitification_name">Dostęp do lokalizacji</string>
     <string name="pa_ski_foreground_service_title">Asystent MIUI próbuje uzyskać dostęp do lokalizacji</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"Nie można dodać więcej widżetów tego typu"</string>
-    <string name="pa_recommend_add_btn">Zacznij</string>
     <string name="pa_stock_change_cp_code_alert">Ta operacja może spowodować, iż dane nie będą się wyświetlać poprawnie</string>
     <string name="pa_stock_change_cp_code_error">"Nie udało się zmienić źródła danych"</string>
     <string name="pa_stock_change_cp_code_progress_msg">Synchronizacja danych…</string>
