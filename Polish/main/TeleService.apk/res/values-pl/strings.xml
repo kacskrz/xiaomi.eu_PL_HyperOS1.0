@@ -2004,4 +2004,8 @@ Nadal możesz wykonywać połączenia alarmowe."</string>
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="HIPS_Perm_External_Storage">Pamięć</string>
+  <string name="HIPS_Perm_External_Storage_Desc">Dostęp i zapis plików oraz zdjęć na urządzeniu</string>
+  <string name="HIPS_Perm_Read_Contact">Kontakty</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">Dostęp do Twoich kontaktów</string>
 </resources>

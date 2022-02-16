@@ -1639,4 +1639,12 @@ Wybierz jedną z następujących opcji:"</string>
   <string name="item_offical">Oficjalna</string>
   <string name="comma">Przecinek</string>
   <string name="identify_numbers_text">Włącz funkcję ID rozmówcy, aby rozpoznawać połączenia ze spamem</string>
+  <string name="calllog_record_none_toast">Brak nagrań połączeń do wyświetlenia</string>
+  <string name="new_saf_permission_dialog_content">"Uprawnienia aplikacji Kontakty zostały zaktualizowane. Zezwól tej aplikacji na dostęp do nagrań połączeń.
+
+Jak to zrobić?
+Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
+  <string name="new_saf_permission_dialog_grant_permission_immediately">Dalej</string>
+  <string name="new_saf_permission_dialog_title"><b>Wymagane uprawnienia</b></string>
+  <string name="this_folder">Użyj tego folderu</string>
 </resources>
