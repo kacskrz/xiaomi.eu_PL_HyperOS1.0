@@ -1170,4 +1170,8 @@ Zrób sobie przerwę!"</item>
         <item quantity="other">Zezwolono dla %s aplikacji</item>
         <item quantity="one">Zezwolono dla %s aplikacji</item>
     </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Automatycznie rejestruj kluczowe momenty rozgrywki i generuj filmy z najlepszymi zdarzeniami w danej sesji. Możesz zapisać je po każdej rozgrywce. Niezapisane filmy zostaną automatycznie usunięte po %1$d dniach.</item>
+        <item quantity="one">Automatycznie rejestruj kluczowe momenty rozgrywki i generuj filmy z najlepszymi zdarzeniami w danej sesji. Możesz zapisać je po każdej rozgrywce. Niezapisane filmy zostaną automatycznie usunięte po %1$d dniu.</item>
+    </plurals>
 </resources>

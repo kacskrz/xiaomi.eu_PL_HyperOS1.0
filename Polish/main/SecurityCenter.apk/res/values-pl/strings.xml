@@ -5274,4 +5274,25 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gtb_guide_game_mode_tips">Wybierz preferowany tryb grania</string>
     <string name="gtb_guide_gtb_line_xspace">Przenieś się na wyższy poziom z nowym Game Turbo!</string>
     <string name="st_title_keywords_list">Lista słów kluczowych</string>
+    <string name="gamebox_bullet_chat">Komentarze na ekranie</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">Ręcznie zarejestruj wideo z rozgrywki trwające od %d do %d sekund.</string>
+    <string name="gb_dialog_record_way_setting_tip_one">Zwiększone zużycie energii i lagowanie</string>
+    <string name="gb_dialog_record_way_setting_tip_title">Ta funkcja może powodować następujące problemy:</string>
+    <string name="gb_dialog_record_way_setting_tip_two">Konflikty z innymi aplikacjami nagrywającymi ekran</string>
+    <string name="gb_game_video_save_tip">Pomyślnie zapisano</string>
+    <string name="gb_manual_video_record_title">Nagrania</string>
+    <string name="gb_shoulder_guide_message1">Przenieś [L] do jakiejkolwiek funkcjonalnej pozycji, aby wykonać ją za pomocą bumpera.</string>
+    <string name="gb_shoulder_guide_message2">Akcję [1] wykonasz, naciskając przycisk. Akcję [2] wywołasz, puszczając go.</string>
+    <string name="gb_shoulder_guide_tips1">Otwórz pasek narzędzi i skonfiguruj bumpery</string>
+    <string name="gb_shoulder_guide_title1">Akcja</string>
+    <string name="gb_shoulder_guide_title2">Sekwencja</string>
+    <string name="gb_shoulder_set_left_right">Skonfiguruj [%s]</string>
+    <string name="gb_shoulder_set_title">Włącz bumpery, aby je skonfigurować</string>
+    <string name="gb_shoulder_set_title2">Przenieś [%s] do jakiejkolwiek funkcjonalnej pozycji, aby wykonać ją za pomocą bumpera</string>
+    <string name="gb_shoulder_single_trigger">Akcja</string>
+    <string name="gb_shoulder_subsection_down">Naciśnięcie</string>
+    <string name="gb_shoulder_subsection_trigger">Sekwencja</string>
+    <string name="gb_shoulder_subsection_up">Puszczenie</string>
+    <string name="gb_shoulder_update_left_right">Edytuj %s</string>
+    <string name="resume">Przywróć</string>
 </resources>

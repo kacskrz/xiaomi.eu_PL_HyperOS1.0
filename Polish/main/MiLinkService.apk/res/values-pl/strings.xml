@@ -324,4 +324,8 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="miplay_headset_lc3_hint">Wyłącz LC3, aby móc przełączyć wyjście audio na to urządzenie</string>
     <string name="miplay_service_timeout_toast">Przekroczono limit czasu połączenia. Spróbuj ponownie.</string>
     <string name="miplay_song_title_empty">Brak utworów</string>
+    <string name="invisible_mode_dialog_content">"Nie można używać projekcji w Trybie incognito. Wyłącz najpierw ten tryb."</string>
+    <string name="invisible_mode_dialog_content_audio_relay">"Nie można przesyłać odtwarzanego strumienia w Trybie incognito. Wyłącz najpierw ten tryb."</string>
+    <string name="invisible_mode_dialog_pos">Wyłącz</string>
+    <string name="invisible_mode_dialog_title">"Jesteś incognito"</string>
 </resources>

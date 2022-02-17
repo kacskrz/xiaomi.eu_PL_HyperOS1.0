@@ -2062,4 +2062,7 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="pref_camera_volumekey_function_entry_timer_new">Odliczanie migawki (%d s)</string>
+  <string name="portait_effect_entry_cold_white">Światło gwiazd</string>
+  <string name="portait_effect_entry_shallots">Promyki słońca</string>
 </resources>
