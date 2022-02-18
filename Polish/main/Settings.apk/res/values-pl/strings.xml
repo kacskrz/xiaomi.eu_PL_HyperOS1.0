@@ -10061,7 +10061,7 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="connection_control">Zarządzaj połączeniami</string> 
     <string name="interconnection">Łączenie z innymi urządzeniami</string>
     <string name="about_ad_service_instructions_for_global">O reklamach i prywatności w aplikacjach systemowych</string>
-    <string name="auto_clean_summary_new">Odtwórz dźwięk (%d sek.), który wyczyści głośnij. Użyj tej funkcji kilka razy z rzędu przy znacznej ilości brudu.</string>
+    <string name="auto_clean_summary_new">Odtwórz dźwięk (%d sek.), który wyczyści głośnik. Użyj tej funkcji kilka razy z rzędu przy znacznej ilości brudu.</string>
     <string name="dialog_speaker_auto_clean_content_new">"Za chwilę odtworzysz dźwięk, który wyczyści głośnik. Dla lepszego efektu zwiększ głośność do maksimum."</string>
     <string name="dialog_speaker_auto_clean_title_new">Wyczyść głośnik</string>
     <string name="external_ram_dialog_icon_confirm">OK</string>
