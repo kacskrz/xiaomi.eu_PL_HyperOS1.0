@@ -419,4 +419,7 @@
     <string name="incoming_video_crs_call">Odtwarzanie wideo profilowego…</string>
     <string name="voice_control_deny_permission_msg">"Nie można teraz używać kontroli głosowej. Najpierw zezwól tej aplikacji na nagrywanie dźwięku."</string>
     <string name="caller_info_name_delimiter">" lub "</string>
+    <string name="relay_known">OK</string>
+    <string name="relay_network_error">Błąd sieci</string>
+    <string name="relay_network_error_msg">"Nie można wykonać połączenia za pomocą tego urządzenia ze względu na bład sieci. Przełącz się z powrotem na swój telefon."</string>
 </resources>

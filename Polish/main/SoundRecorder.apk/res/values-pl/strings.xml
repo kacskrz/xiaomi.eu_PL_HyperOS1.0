@@ -464,4 +464,6 @@ Jak to zrobić?
 Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="new_saf_permission_dialog_grant_permission_immediately">Dalej</string>
   <string name="this_folder">Użyj tego folderu</string>
+  <string name="permission_read_phone_state">Dostęp do informacji o urządzeniu</string>
+  <string name="permission_read_phone_state_description">W celu uzyskiwania dostępu do statusu połączeń po to, aby automatycznie zatrzymać nagrywanie podczas otrzymywania połączeń</string>
 </resources>

@@ -347,4 +347,29 @@ Możesz usunąć ten plik."</item>
         <item quantity="other">Ostatnie %d dni</item>
         <item quantity="one">Ostatni dzień</item>
     </plurals>
+    <plurals name="clean_app_data_selected_app">
+        <item quantity="other">Wybrano %d aplikacji</item>
+        <item quantity="one">Wybrano %d aplikację</item>
+        <item quantity="few">Wybrano %d aplikacje</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_reset">
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> aplikacji wykorzystuje dużo pamięci urządzenia&lt;/Data></item>
+        <item quantity="few">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> aplikacje wykorzystują dużo pamięci urządzenia&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> aplikacja wykorzystuje dużo pamięci urządzenia&lt;/Data></item>
+    </plurals>
+    <plurals name="reset_app_selected_app">
+        <item quantity="other">Wybrano %d aplikacji</item>
+        <item quantity="one">Wybrano %d aplikację</item>
+        <item quantity="few">Wybrano %d aplikacje</item>
+    </plurals>
+    <plurals name="select_app">
+        <item quantity="other">Wybrano %d aplikacji</item>
+        <item quantity="one">Wybrano %d aplikację</item>
+        <item quantity="few">Wybrano %d aplikacje</item>
+    </plurals>
+    <plurals name="unload_app_selected_app">
+        <item quantity="other">Wybrano %d aplikacji</item>
+        <item quantity="one">Wybrano %d aplikację</item>
+        <item quantity="few">Wybrano %d aplikacje</item>
+    </plurals>
 </resources>

@@ -5295,4 +5295,8 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gb_shoulder_subsection_up">Puszczenie</string>
     <string name="gb_shoulder_update_left_right">Edytuj %s</string>
     <string name="resume">Przywróć</string>
+    <string name="cpu_usage_process_run_time_little_time_new">Mniej niż %d minutę</string>
+    <string name="first_aid_card_consume_power_summary_app">Zezwolono na autostart więcej niż %d aplikacjom. Ogranicz ten dostęp, aby oszczędzać energię.</string>
+    <string name="system_anti_fraud_dialog_message">Ochrona przed oszustwem</string>
+    <string name="system_anti_fraud_dialog_title2">Ostrzeżenie przed oszustwem</string>
 </resources>

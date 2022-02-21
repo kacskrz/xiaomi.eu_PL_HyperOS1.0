@@ -7858,13 +7858,12 @@ Zezwolić na to wszystkim aplikacjom, które chcą wykonywać skanowanie?"</stri
   <string name="wifi_switch_away_when_unvalidated">Przełącz na dane komórkowe, jeśli Wi-Fi utraci dostęp do internetu.</string>
   <string name="wifi_switch_to_gsm_message">Rozłączono z Wi-Fi. Połączyć się z wykorzystaniem transmisji mobilnej?</string>
   <string name="wifi_switch_to_gsm_title">Użyć sieci GSM?</string>
-  <string name="wifi_tether_checkbox_text">Przenośny hotspot Wi-Fi</string>
+  <string name="wifi_tether_checkbox_text">Hotspot Wi-Fi</string>
   <string name="wifi_tether_configure_ap_text">Skonfiguruj hotspot Wi-Fi</string>
   <string name="wifi_tether_configure_ssid_default">Punkt dostępu Android</string>
   <string name="wifi_tether_configure_subtext">"Hotspot Wi-Fi: \"%1$s\". 
 Zabezpieczenia: %2$s"</string>
   <string name="wifi_tether_enabled_subtext">Hotspot \"%1$s\" jest aktywny</string>
-  <string name="wifi_tether_enabled_summary">Hotspot \"%1$s\" jest aktywny</string>
   <string name="wifi_tether_failed_subtext">Błąd przenośnego hotspota Wi-Fi</string>
   <string name="wifi_tether_setting_title">Ustawienia</string>
   <string name="wifi_tether_settings_title">Hotspot</string>
@@ -10131,7 +10130,7 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="miheadset_audio_quality">Jakość dźwięku</string>
     <string name="miheadset_audio_quality_summary">Wybierz kodek dźwięku Bluetooth</string>
     <string name="miheadset_auto_answer_call">Automatycznie odbieraj połączenia</string>
-    <string name="miheadset_bluetooth_audio_title">Częstotliwość próbkowania dźwięku Bluetooth LC%dplus</string>
+    <string name="miheadset_bluetooth_audio_title">Częstotliwość próbkowania dźwięku Bluetooth LC3plus</string>
     <string name="miheadset_custom_sound">Własne preferencje dźwięku</string>
     <string name="miheadset_custom_sound_summary">Dostosuj dźwięk odtwarzany przez słuchawki</string>
     <string name="miheadset_double_connection">Łączenie z dwoma urządzeniami naraz</string>
@@ -10155,6 +10154,6 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="miheadset_spatial_audio_summary">Doświadcz immersji i poczucia przestrzeni dla obsługiwanych materiałów audio i wideo</string>
     <string name="miheadset_support">Pomoc</string>
     <string name="miheadset_virtual_surround">Wirtualny dźwięk przestrzenny</string>
-    <string name="miheadset_virtual_surround_summary">"Zwiększ głębię dźwięku odtwarzanych filmów i utworów w słuchawkach. Funkcja nie będzie działać, gdy odtwarzany jest dźwięk kanałowy %1$d.%2$d."</string>
+    <string name="miheadset_virtual_surround_summary">"Zwiększ głębię dźwięku odtwarzanych filmów i utworów w słuchawkach. Funkcja nie będzie działać, gdy odtwarzany jest dźwięk kanałowy %s."</string>
     <string name="miheadset_voice_control_summary">Gdy ta funkcja jest włączona, możesz poprosić Mi SI o nawigowanie po Twoim urządzeniu czy kontrolowanie odtwarzanego dźwięku za pomocą komend głosowych</string>
 </resources>
