@@ -885,7 +885,7 @@ nie są tworzone w Drugiej przestrzeni"</string>
 %2$d. W pewnych przypadkach częstotliwość odświeżania może być dostosowana dynamicznie w zależności od wyświetlanych elementów."</string>
     <string name="high_fps_tip_footer">Używanie wyższych częstotliwości odświeżania sprawia, że wyświetlane treści są płynniejsze, lecz zużywa także więcej energii.</string>
     <string name="intelligent_radio_btn_summary">Dynamicznie dostosuj częstotliwość odświeżania w oparciu o różne scenariusze, aby zachować balans pomiędzy wydajnością a zużyciem energii</string>
-    <string name="intelligent_radio_btn_title">Automatyczna (zalecane)</string>
+    <string name="intelligent_radio_btn_title">Domyślna (zalecane)</string>
     <string name="low_flicker_mode">Gdy światła jest mniej</string>
     <string name="low_flicker_mode_summary">Zapobiegaj migotaniu w słabych warunkach oświetleniowych, aby zmniejszyć zmęczenie oczu</string>
     <string name="normal_mode_summary_new">Zezwalaj na migotanie w słabych warunkach oświetleniowych</string>
