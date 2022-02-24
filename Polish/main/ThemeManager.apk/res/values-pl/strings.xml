@@ -1528,4 +1528,8 @@ Dotknij, aby go wyłączyć."</string>
     <string name="superwallpaper_has_bound_account_dialog_content">Ta tapeta jest już powiązana z innym kontem Xiaomi. Zaloguj się na nim i spróbuj ponownie.</string>
     <string name="theme_need_login_dialog_content">Aby przejść dalej, zaloguj się na swoje konto Xiaomi.</string>
     <string name="theme_version_need_update_prompt_dialog_content">Aby przejść dalej, zaktualizuj aplikację Motywy do wersji %s lub wyższej</string>
+    <string name="application_notify_title">Uwaga</string>
+    <string name="configure_success_not_enable_aod">Pomyślnie zastosowano. Włącz funkcję Ekran zawsze włączony dla tego motywu, aby zastosować wszystkie efekty.</string>
+    <string name="super_wallpaper_dialog_content">Oszczędzanie baterii wyłączy dynamiczne zawartości tapet.</string>
+    <string name="video_wallpaper_apply_warning">Ta tapeta zostanie ustawiona zarówno na pulpicie, jak i na Ekranie blokady. Zrobić to?</string>
 </resources>
