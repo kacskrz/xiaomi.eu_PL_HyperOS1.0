@@ -3149,4 +3149,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
   <string name="solar_new_year_eve_title_two">Ostatnie momenty %1$s</string>
   <string name="solar_new_year_title">Nowy Rok</string>
   <string name="solar_valentines_day_title">"Walentynki"</string>
+  <string name="cloud_full_space_tip_title_completely">Brak miejsca w Chmurze</string>
+  <string name="last_some_performance_title">Rzeczy, które widziałeś</string>
+  <string name="operation_upgrade_gallery">Zaktualizuj</string>
 </resources>

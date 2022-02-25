@@ -32,6 +32,8 @@
         <item>Mgła</item>
      </string-array>
      <string-array name="magic_effects_description">
+        <item>Futurystyczne, geometryczne tła</item>
+        <item>Atmosfera starodruków</item>
         <item>Zamień tła w szkice</item>
         <item>Akwarelowe tła</item>
         <item>Cyberpunkowe retro</item>
@@ -40,6 +42,8 @@
         <item>Futurystyczne wrażenie</item>
      </string-array>
      <string-array name="magic_effects_title">
+        <item>Low poly</item>
+        <item>Sztych</item>
         <item>Szkic</item>
         <item>Akwarele</item>
         <item>RGB</item>

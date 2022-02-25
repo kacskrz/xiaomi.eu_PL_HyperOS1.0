@@ -1326,7 +1326,7 @@ Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojeg
   <string name="email_no_snippet">[Pusty e-mail]</string>
   <string name="general_preference_trash_contact">Informuj o spamie</string>
   <string name="general_preference_trash_contact_sum">Zarządzaj e-mailami od nadawców, którzy zostali zgłoszeni jako spam przez dużą ilość użytkowników</string>
-  <string name="web_view_load_error_tip">Nie można wyświetlić treści tego e-maila ze względu na pewne problemy. Możesz spróbować zgłosić ten problem twórcom aplikacji.</string>
+  <string name="web_view_load_error_tip">Twoja przeglądarka przestała działać. Pobierz najnowszą wersję Android System WebView ze Sklepu Play, aby pomóc rozwiązać ten problem.</string>
   <string name="attachment_drag_add_attachment">Załącznik</string>
   <string name="attachment_drag_add_inline">W treści wiadomości</string>
   <string name="attachment_drag_add_picture_prompt">Dodać to zdjęcie jako załącznik czy w ramach treści wiadomości?</string>
@@ -1629,5 +1629,21 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
-  <string name="account_setup_domain_invalid_toast">Wprowadzony adres domeny jest niepoprawny. Sprawdź jego poprawność i spróbuj ponownie.</string>
+  <string name="account_setup_domain_invalid_toast">Wprowadź prawidłową domenę e-mail</string>
+  <string name="attachment_drag_add_inline">Osadź</string>
+  <string name="attachment_drag_add_picture_prompt">Chcesz osadzić obrazy bezpośrednio w treści wiadomości czy załączyć je w załącznikach?</string>
+  <string name="attachment_drag_create_email_prompt">Załączyć wybrane pliki do nowej wiadomości?</string>
+  <string name="compose_encrypt_lock_description">Zaszyfruj</string>
+  <string name="compose_encrypt_unlock_description">Odszyfruj</string>
+  <string name="compose_encrypt_unlock_w_description">Niezaufany kontakt</string>
+  <string name="compose_smime_sign_description">Zastosuj sygnaturę</string>
+  <string name="compose_smime_unsign_description">Usuń sygnaturę</string>
+  <string name="pdf_signature_add">Dodaj nową sygnaturę</string>
+  <string name="pdf_signature_delete">Usuń sygnaturę</string>
+  <string name="pdf_signature_select">Wybierz sygnaturę</string>
+  <string name="selected">Zaznaczono</string>
+  <string name="unselected">Odznaczono</string>
+  <string name="close_custom_folder">Ukryj subfoldery</string>
+  <string name="mi_slide_menu">Pasek boczny</string>
+  <string name="open_custom_folder">Pokaż subfoldery</string>
 </resources>
