@@ -1328,9 +1328,6 @@ Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojeg
   <string name="general_preference_trash_contact_sum">Zarządzaj e-mailami od nadawców, którzy zostali zgłoszeni jako spam przez dużą ilość użytkowników</string>
   <string name="web_view_load_error_tip">Twoja przeglądarka przestała działać. Pobierz najnowszą wersję Android System WebView ze Sklepu Play, aby pomóc rozwiązać ten problem.</string>
   <string name="attachment_drag_add_attachment">Załącznik</string>
-  <string name="attachment_drag_add_inline">W treści wiadomości</string>
-  <string name="attachment_drag_add_picture_prompt">Dodać to zdjęcie jako załącznik czy w ramach treści wiadomości?</string>
-  <string name="attachment_drag_create_email_prompt">Czy chcesz użyć tego pliku, aby utworzyć nową wiadomość z załącznikiem?</string>
   <string name="common_google_play_services_enable_button">Włącz</string>
   <string name="common_google_play_services_enable_text">Aplikacja %1$s nie będzie działać, jeśli nie włączysz Usług Google Play.</string>
   <string name="common_google_play_services_enable_title">Włącz Usługi Google Play</string>
