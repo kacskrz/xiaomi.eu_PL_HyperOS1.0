@@ -1667,4 +1667,5 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
     <string name="pa_stock_data_source_label">Wybierz źródło danych</string>
     <string name="pa_day_date">dd:MM</string>
     <string name="pa_rtk_unlike_text">Odepnij</string>
+    <string name="pa_picker_detail_maml_downloading">Pobieranie elementów…</string>
 </resources>

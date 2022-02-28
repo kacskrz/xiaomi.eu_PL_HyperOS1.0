@@ -575,7 +575,9 @@ Wystarczy zetknąć urządzenia ze sobą (najlepiej tyłem) i dotknąć ekranu. 
   <string name="auto_brightness_very_low_title">Bardzo niska</string>
   <string name="auto_caps">Wstawiaj wielkie litery</string>
   <string name="auto_caps_summary">Zaczynaj zdania wielką literą</string>
-  <string name="auto_clean_description">O tej funkcji:\n1. Uruchom to narzędzie raz lub dwa razy, jeśli Twój głośnik jest zablokowany przez kurz bądź pył.\n2. Jeśli głośnik jest zablokowany mocniej, uruchom to narzędzie od 2 do 5 razy, potrząsając urządzeniem z głośnikiem skierowanym w dół.</string>
+  <string name="auto_clean_description">"O tej funkcji:
+1. Uruchom to narzędzie raz lub dwa razy, jeśli Twój głośnik jest zablokowany przez kurz bądź pył.
+2. Jeśli głośnik jest zablokowany mocniej, uruchom to narzędzie od %1$d do %2$d razy, potrząsając urządzeniem z głośnikiem skierowanym w dół."</string>
   <string name="auto_clean_summary">Odtwórz 30-sekundowy dźwięk, aby wyczyścić głośnik</string>
   <string name="auto_clean_title">Wyczyść głośnik</string>
   <string name="auto_disable_screenbuttons_ask">Pytaj</string>
@@ -10156,4 +10158,45 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="miheadset_virtual_surround">Wirtualny dźwięk przestrzenny</string>
     <string name="miheadset_virtual_surround_summary">"Zwiększ głębię dźwięku odtwarzanych filmów i utworów w słuchawkach. Funkcja nie będzie działać, gdy odtwarzany jest dźwięk kanałowy %s."</string>
     <string name="miheadset_voice_control_summary">Gdy ta funkcja jest włączona, możesz poprosić Mi SI o nawigowanie po Twoim urządzeniu czy kontrolowanie odtwarzanego dźwięku za pomocą komend głosowych</string>
+    <string name="animation_off">Animacje wył.</string>
+    <string name="at_most_one_process">Maks. %d proces</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_1">Optymalizacja pod kątem jakości dźwięku (%1$d kb/s / %2$d kb/s)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Zrównoważona jakość dźwięku i połączenia (%1$d kb/s / %2$d kb/s)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">Optymalizacja pod kątem jakości połączenia (%1$d kb/s / %2$d kb/s)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">Optymalna (adaptacyjna szybkość transmisji bitów)</string>
+    <string name="force_msaa_new">Wymuś %dx MSAA</string>
+    <string name="force_msaa_summary_new">Włącz %2$dx MSAA w aplikacjach używających OpenGL ES %1$.1f</string>
+    <string name="max_number_of_processes">Maks. %d procesów</string>
+    <string name="no_background_processes">Brak procesów w tle</string>
+    <string name="standard_limit">Standardowy limit</string>
+    <string name="string_after_int_minute">Po %d minucie</string>
+    <string name="string_after_int_minutes">Po %d minutach</string>
+    <string name="string_after_int_seconds">Po %d sekundach</string>
+    <string name="string_always">Zawsze</string>
+    <string name="string_bits_per_sample">%d bitów/próbkę</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Małe opóźnienie (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Średnie opóźnienie (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Duże opóźnienie (%1$d~%2$dms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_1">Optymalizacja pod kątem opóźnienia (%d kb/s)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_2">>Optymalizacja pod kątem jakości połączenia (%d kb/s)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Zrównoważona jakość dźwięku i połączenia (%1$d/%2$d kb/s)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optymalizacja pod kątem jakości dźwięku (%d kb/s)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Optymalna (adaptacyjna szybkość transmisji bitów)</string>
+    <string name="string_float_inches">%f cali</string>
+    <string name="string_float_seconds">%f sekund</string>
+    <string name="string_immediately">Natychmiast</string>
+    <string name="string_int_hour">%d godz.</string>
+    <string name="string_int_hours">%d godz.</string>
+    <string name="string_int_minute">%d min.</string>
+    <string name="string_int_minutes">%d min.</string>
+    <string name="string_int_second">%d sek.</string>
+    <string name="string_int_seconds">%d sek.</string>
+    <string name="string_never">Nigdy</string>
+    <string name="string_scale_float">Skala animacji %.1fx</string>
+    <string name="string_scale_int">Skala animacji %dx</string>
+    <string name="string_unlimited">Bez limut</string>
+    <string name="time_format_entries_1">%d godz. 1:00 PM</string>
+    <string name="time_format_entries_2">%d godz. 13:00</string>
+    <string name="time_format_entries_3">Automatyczny (w zależności od języka systemu)</string>
+    <string name="use_system_preference">Użyj preferencji systemu (domyślnie)</string>
 </resources>

@@ -1434,4 +1434,15 @@ do Listy blokowanych"</string>
     <string name="suspected_fraud_action_tip">"Możliwe oszustwo. "</string>
     <string name="suspected_fraud_link_tip">"Niebezpieczny odnośnik. "</string>
     <string name="suspected_fraud_tip">Możliwe oszustwo</string>
+    <string name="mms_mi_message_main_purpose">Witaj w Wiadomościach w Chmurze! Aby aktywować tę usługę, wymagane jest wysłanie jednego SMS-a aktywacyjnego. Opłatę za niego pobierze Twój operator.</string>
+    <string name="mms_mi_message_request_notice">Chcemy, abyś w pełni wykorzystał możliwości Wiadomości w Chmurze.</string>
+    <string name="mms_mx_privacy_policy">Polityka prywatności Wiadomości w Chmurze</string>
+    <string name="mms_smart_msg_main_purpose">Funkcja Inteligentne wiadomości może rozpoznawać identyfikatory nadawcy, dostarczać usługi inteligentnego menu i rozpoznawać podejrzane SMS-y.</string>
+    <string name="mms_smart_msg_privacy_policy">Polityka prywatności Inteligentnych wiadomości</string>
+    <string name="mms_user_agreement">Umowa użytkownika</string>
+    <string name="system_permission_declare_mi_message">Witaj w Wiadomościach w Chmurze!</string>
+    <string name="system_permission_declare_rcs">Witaj w Wiadomościach 5G!</string>
+    <string name="system_permission_declare_smart_message">Witaj w Inteligentnych wiadomościach!</string>
+    <string name="system_permission_declare_user_agree">Zgadzam się</string>
+    <string name="system_permission_user_privacy">Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki tych dokumentów.</string>
 </resources>

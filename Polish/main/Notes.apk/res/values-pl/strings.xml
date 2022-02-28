@@ -863,4 +863,21 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="hand_write_syncing_phone">Synchronizacja…</string>
   <string name="miuix_access_state_desc">Wybrano</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="alert_message_edit_anyway_new">Ta notatka zawiera niewspieraną zawartość. Jej edycja może spowodować zmiany w formatowaniu lub utratę danych.</string>
+  <string name="error_unsupport_content_format">Ta notatka zawiera niewspieraną zawartość. Zaktualizuj aplikację do wersji %1$s lub nowszej.</string>
+  <string name="setting_big_screen_layout_columns">Pasek boczny</string>
+  <string name="setting_big_screen_layout_flat">Kafelki</string>
+  <string name="setting_big_screen_layout_title">Układ dużego ekranu</string>
+  <string name="setting_layout">Układ</string>
+  <string name="setting_micloud_sync_title">Synchronizacja z Chmurą</string>
+  <string name="setting_note_list_layout_title">Układ</string>
+  <string name="warn_cannot_add_new_bullet">"Nie można dodać nowej wypunktowanej listy, ponieważ notatka jest za długa"</string>
+  <string name="warn_cannot_add_new_checkbox">"Nie można dodać nowego pola wyboru, ponieważ notatka jest za długa"</string>
+  <string name="warn_cannot_add_new_doodle">"Nie można dodać nowego bazgrołu, ponieważ notatka jest za długa"</string>
+  <string name="warn_cannot_add_new_element">"Nie można dodać nowego elementu, ponieważ notatka jest za długa"</string>
+  <string name="warn_cannot_add_new_link_card">"Nie można dodać nowego odnośnika, ponieważ notatka jest za długa"</string>
+  <string name="warn_cannot_add_new_picture">"Nie można dodać nowego obrazu, ponieważ notatka jest za długa"</string>
+  <string name="warn_cannot_add_new_style">"Nie można dodać nowego formatowania, ponieważ notatka jest za długa"</string>
+  <string name="warn_disable_edit_in_browse_mode">"Nie można edytować notatek w trybie tylko do odczytu"</string>
+  <string name="warn_enter_browse_mode">"Jesteś w trybie tylko do odczytu"</string>
 </resources>

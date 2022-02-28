@@ -826,4 +826,8 @@
   <string name="recnets_worldcirculate_display_pad_info">Aplikacja działa na %s.</string>
   <string name="close_multi_finger_slide_summary">Takie gesty będą ignorowane w niektórych sytuacjach (np. podczas grania czy oglądania filmów)</string>
   <string name="close_multi_finger_slide_title">"Nie odpowiadaj na gesty trzema lub czterema palcami"</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>
