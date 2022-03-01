@@ -809,4 +809,8 @@ Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</st
     <string name="xiaomi_calculator_delete_title">Odinstalować Kalkulator?</string>
     <string name="xiaomi_calculator_remove_icon_description">"Kalkulator to aplikacja systemowa. Po usunięciu jej skrótu korzystanie z konwerterów i innych dodatkowych funkcji dostarczanych przez tę aplikację będzie utrudnione."</string>
     <string name="xiaomi_calculator_remove_icon_title">Usunąć \"Kalkulator\" z pulpitu?</string>
+    <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

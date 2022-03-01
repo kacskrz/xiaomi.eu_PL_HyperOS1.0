@@ -17,4 +17,6 @@
   <string name="select_apps">Wybierz aplikacje</string>
   <string name="home_search_bar_app">Wyszukiwarka w pasku wyszukiwania</string>
   <string name="home_search_gesture_app">Aplikacja do wyszukiwania po pociągnięciu w górę</string>
+  <string name="auto">Automatyczny</string>
+  <string name="wifi_region">Region Wi-Fi</string>
 </resources>
