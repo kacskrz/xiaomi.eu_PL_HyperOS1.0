@@ -5299,4 +5299,9 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="first_aid_card_consume_power_summary_app">Zezwolono na autostart więcej niż %d aplikacjom. Ogranicz ten dostęp, aby oszczędzać energię.</string>
     <string name="system_anti_fraud_dialog_message">Ochrona przed oszustwem</string>
     <string name="system_anti_fraud_dialog_title2">Ostrzeżenie przed oszustwem</string>
+    <string name="app_manager_mobile_slot">Dane mobilne (SIM %d)</string>
+    <string name="applock_lock_mode_locked">Gdy urządzenie jest zablokowane</string>
+    <string name="applock_lock_mode_locked_or_exit">Gdy urządzenie jest zablokowane lub po wyjściu z aplikacji</string>
+    <string name="applock_lock_mode_locked_or_exit_or_wait">Gdy urządzenie jest zablokowane lub po %d min. od wyjścia z aplikacji</string>
+    <string name="title_flow_verify_failed_new">"Nie udało się dostosować przez %d dni z rzędu"</string>
 </resources>

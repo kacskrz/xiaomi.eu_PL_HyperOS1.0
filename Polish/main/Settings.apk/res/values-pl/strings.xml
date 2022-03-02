@@ -577,7 +577,7 @@ Wystarczy zetknąć urządzenia ze sobą (najlepiej tyłem) i dotknąć ekranu. 
   <string name="auto_caps_summary">Zaczynaj zdania wielką literą</string>
   <string name="auto_clean_description">"O tej funkcji:
 1. Uruchom to narzędzie raz lub dwa razy, jeśli Twój głośnik jest zablokowany przez kurz bądź pył.
-2. Jeśli głośnik jest zablokowany mocniej, uruchom to narzędzie od %1$d do %2$d razy, potrząsając urządzeniem z głośnikiem skierowanym w dół."</string>
+2. Jeśli głośnik jest zablokowany mocniej, uruchom to narzędzie od 2 do 5 razy, potrząsając urządzeniem z głośnikiem skierowanym w dół."</string>
   <string name="auto_clean_summary">Odtwórz 30-sekundowy dźwięk, aby wyczyścić głośnik</string>
   <string name="auto_clean_title">Wyczyść głośnik</string>
   <string name="auto_disable_screenbuttons_ask">Pytaj</string>
