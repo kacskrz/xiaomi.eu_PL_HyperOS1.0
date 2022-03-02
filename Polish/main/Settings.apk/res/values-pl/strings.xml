@@ -10199,6 +10199,6 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="time_format_entries_2">%d godz. 13:00</string>
     <string name="time_format_entries_3">Automatyczny (w zależności od języka systemu)</string>
     <string name="use_system_preference">Użyj preferencji systemu (domyślnie)</string>
-    <string name="wifi_region_summary">Wybierz region wykorzystywany przez Wi-Fi. Aby go zastosować, połącz się z siecią ponownie.</string>
+    <string name="wifi_region_summary">Włącz Wi-Fi ponownie, aby zastosować wybrany przez siebie region.</string>
     <string name="wifi_region_title">Region Wi-Fi</string>
 </resources>
