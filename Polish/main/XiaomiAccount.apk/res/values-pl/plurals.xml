@@ -33,4 +33,9 @@
         <item quantity="few">" kroki"</item>
         <item quantity="one">" krok"</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">Znaleziono %d wyników</item>
+        <item quantity="few">Znaleziono %d wyniki</item>
+        <item quantity="one">Znaleziono %d wynik</item>
+    </plurals>
 </resources>

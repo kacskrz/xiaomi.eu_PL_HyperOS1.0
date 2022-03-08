@@ -493,4 +493,13 @@
   <string name="small_freeform_check_memory_exception_negative_message">Anuluj</string>
   <string name="small_freeform_check_memory_exception_positive_message">Zamknij</string>
   <string name="wallpaper_group_molten_glass_title">Stopione szkło</string>
+  <string name="app_continuity_channel_name">Działanie aplikacji</string>
+  <string name="relaunch_action">Uruchom ponownie aplikację</string>
+  <string name="relaunch_fold_notification_content">Aplikacja \"%s\" może nie wyświetlać się poprawnie po złożeniu telefonu. Aby móc ją normalnie wyświetlić, konieczne jest jej ponowne uruchomienie.</string>
+  <string name="relaunch_notification_title">Uruchom ponownie aplikację \"%s\"</string>
+  <string name="relaunch_unfold_notification_content">Aplikacja \"%s\" może nie wyświetlać się poprawnie po rozłożeniu telefonu. Aby móc ją normalnie wyświetlić, konieczne jest jej ponowne uruchomienie.</string>
+  <string name="sc_notification_warning_content">Układ aplikacji może nie wyświetlać się poprawnie w trybie pełnoekranowym. Możesz przywrócić poprzedni stan aplikacji bądź przejść do ustawień.</string>
+  <string name="sc_notification_warning_restore">Przywróć</string>
+  <string name="sc_notification_warning_settings">Ustawienia</string>
+  <string name="sc_relaunch_dialog_message">"Aplikacja nie jest dostosowana do składanego ekranu. Jej przełączenie w tryb pełnoekranowy wymaga jej restartu. Czy chcesz to zrobić?"</string>
 </resources>

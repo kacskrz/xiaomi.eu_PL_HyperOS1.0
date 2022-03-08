@@ -3164,4 +3164,8 @@ Jeśli masz pytania, skontaktuj się z organizacją %2$s."</string>
     <string name="miui_keyboard_shortcut_system_dock">Pokaż dok z aplikacjami</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Przełączanie między ostatnio otwartymi aplikacjami</string>
     <string name="input_second_pattern_after_restart_msg">Potwierdź hasło Drugiej przestrzeni, aby kontynuować</string>
+    <string name="qs_bill_message_balance">Pozostało %1$s %2$s</string>
+    <string name="qs_traffic_message_type_exceed">%1$s %2$s ponad limit</string>
+    <string name="qs_traffic_message_type_remain">Pozostało %1$s %2$s</string>
+    <string name="qs_traffic_message_type_used">Zużyto %1$s %2$s</string>
 </resources>

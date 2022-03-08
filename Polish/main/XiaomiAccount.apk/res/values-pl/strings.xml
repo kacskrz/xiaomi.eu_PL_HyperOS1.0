@@ -794,4 +794,6 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="notify_verify_again_security_phone">Potwierdź</string>
   <string name="notify_verify_security_phone">Telefon</string>
   <string name="no_account_or_forget_password">Utworzyć konto czy przywrócić hasło?</string>
+  <string name="area_code_no_search_result">"Nie znaleziono rezultatów"</string>
+  <string name="area_code_search_hint">Wyszukaj kraj lub region</string>
 </resources>

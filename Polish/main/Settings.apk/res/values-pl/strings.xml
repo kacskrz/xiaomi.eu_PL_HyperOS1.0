@@ -577,7 +577,7 @@ Wystarczy zetknąć urządzenia ze sobą (najlepiej tyłem) i dotknąć ekranu. 
   <string name="auto_caps_summary">Zaczynaj zdania wielką literą</string>
   <string name="auto_clean_description">"O tej funkcji:
 1. Uruchom to narzędzie raz lub dwa razy, jeśli Twój głośnik jest zablokowany przez kurz bądź pył.
-2. Jeśli głośnik jest zablokowany mocniej, uruchom to narzędzie od 2 do 5 razy, potrząsając urządzeniem z głośnikiem skierowanym w dół."</string>
+2. Jeśli głośnik jest zablokowany mocniej, uruchom to narzędzie od %1$d do %2$d razy, potrząsając urządzeniem z głośnikiem skierowanym w dół."</string>
   <string name="auto_clean_summary">Odtwórz 30-sekundowy dźwięk, aby wyczyścić głośnik</string>
   <string name="auto_clean_title">Wyczyść głośnik</string>
   <string name="auto_disable_screenbuttons_ask">Pytaj</string>
@@ -6030,14 +6030,18 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="sos_privacy_dialog_message_new_version">"Alarmowy SOS pozwala ci udostępniać twoją lokalizację w czasie rzeczywistym oraz wysyłać wiadomości tekstowe do kontaktów alarmowych.
 Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności.
 Ta aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:
-• Dostęp do pamięci urządzenia, 
+• Dostęp do pamięci urządzenia
 Aby zapisać kontakty alarmowe
-• Dostęp do kontaktów, 
-Aby oznaczyć określone kontakty jako alarmowe,
-• Wysyłanie SMS, 
+• Dostęp do kontaktów
+Aby oznaczyć określone kontakty jako alarmowe
+• Wysyłanie SMS
 Aby wysyłać wiadomości tekstowe do kontaktów alarmowych
-• Dostęp do lokalizacji, 
-Aby udostępniać twoją lokalizację kontaktom alarmowym.
+• Dostęp do lokalizacji
+Aby udostępniać twoją lokalizację kontaktom alarmowym
+• Nagrywanie dźwięku
+Aby wysłać nagrania dźwięków otoczenia do kontaktów alarmowych
+• Korzystanie z Aparatu
+Aby wysłać zdjęcia do kontaktów alarmowych
 Jeśli nie zgadzasz się na nadanie tych uprawnień lub udostępnianie twoich danych osobowych, nie możesz używać tej aplikacji.
 Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="sos_privacy_dialog_title">Warunki użytkowania</string>
@@ -10201,4 +10205,27 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="use_system_preference">Użyj preferencji systemu (domyślnie)</string>
     <string name="wifi_region_summary">Włącz Wi-Fi ponownie, aby zastosować wybrany przez siebie region.</string>
     <string name="wifi_region_title">Region Wi-Fi</string>
+    <string name="bt_aptx_adaptive_open_dialog_summary">Technologia aptX Adaptive dostarcza dźwięk w wysokiej jakości i zmniejsza jego opóźnienie w grach i filmach, jednakże zwiększa również zużycie energii. Odtwarzanie dźwięku może być przerywane ze względu na ograniczenia sprzętowe Bluetooth oraz interferencje pochodzące z otoczenia.</string>
+    <string name="bt_aptx_adaptive_open_dialog_title">Włączyć aptX Adaptive?</string>
+    <string name="bt_lc3plus_open_dialog_summary">Technologia LC3plus dostarcza dźwięk w wysokiej jakości i zmniejsza jego opóźnienie w grach i filmach, jednakże zwiększa również zużycie energii. Odtwarzanie dźwięku może być przerywane ze względu na ograniczenia sprzętowe Bluetooth oraz interferencje pochodzące z otoczenia.</string>
+    <string name="bt_lc3plus_open_dialog_title">Włączyć LC3plus?</string>
+    <string name="miheadset_anc_manual">Ręcznie</string>
+    <string name="miheadset_audio_sound_quality">Jakość dźwięku</string>
+    <string name="miheadset_audio_sound_quality_summary">Wybierz kodek dźwięku Bluetooth</string>
+    <string name="miheadset_codec_sample_rate">Częstotliwość próbkowania dźwięku Bluetooth</string>
+    <string name="miui_sos_around_photo_summary">Załącz po %d zdjęciu z przedniego i tylnego aparatu do SMS-a wysyłanego do Twoich kontaktów alarmowych</string>
+    <string name="miui_sos_around_photo_title">Załącz zdjęcia</string>
+    <string name="miui_sos_around_voice_summary">Załącz %d-sekundowe nagranie dźwiękowe do SMS-a wysyłanego do Twoich kontaktów alarmowych</string>
+    <string name="miui_sos_around_voice_title">Załącz %d-sekundowe nagranie dźwiękowe</string>
+    <string name="miui_sos_call_fire">Straż pożarna</string>
+    <string name="miui_sos_call_hospital">Pogotowie</string>
+    <string name="miui_sos_call_police">Policja</string>
+    <string name="miui_sos_emergency_title">Alarmowy sygnał SOS</string>
+    <string name="miui_sos_exit_emergency_title">Wyłącz</string>
+    <string name="miui_sos_exit_send_location_title">Udostępnianie Twojej lokalizacji kontaktom alarmowym w czasie rzeczywistym
+    <string name="miui_sos_hospital_card">Informacje medyczne</string>
+    <string name="miui_sos_hospital_card_important_info">Informacje dot. Twojego zdrowia dla ratowników medycznych</string>
+    <string name="miui_sos_unknow_contract">Nieznany kontakt</string>
+    <string name="sim_no_service">Brak usługi</string>
+    <string name="wifi_tether_enabled_nosecurity_summary">"%1$s nie jest zaszyfrowana"</string>
 </resources>

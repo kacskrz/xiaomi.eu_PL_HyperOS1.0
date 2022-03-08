@@ -449,4 +449,6 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="permission_contact_describe_bluetooth_summary">W celu zezwalania innym kompatybilnym urządzeniom łączonym przez Ciebie z tym urządzeniem na dostęp do kontaktów. Wydarzy się to tylko wtedy, gdy włączysz Bluetooth lub będziesz edytować swoje kontakty wtedy, gdy jest ono włączone.</string>
     <string name="other_settings_ad_dialog_content_for_global">"Personalizowane reklamy (jak i reklamy w ogóle) nie są wyświetlane w tym ROM-ie. Funkcja nie ma zastosowania."</string>
     <string name="start_up_slogan_thirteen_china">Łącz wszystko w całość</string>
+    <string name="sim_card_dial_card">Karta SIM %d do połączeń</string>
+    <string name="sim_card_network_card">Karta SIM %d do danych</string>
 </resources>
