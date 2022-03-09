@@ -10228,4 +10228,12 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="miui_sos_unknow_contract">Nieznany kontakt</string>
     <string name="sim_no_service">Brak usługi</string>
     <string name="wifi_tether_enabled_nosecurity_summary">"%1$s nie jest zaszyfrowana"</string>
+    <string name="bt_plugin_new_version">Aktualizacja</string>
+    <string name="bt_plugin_preference_button">Aktualizuj</string>
+    <string name="bt_plugin_preference_msg">Obecnie: %1$s | Nowa: %2$s</string>
+    <string name="bt_plugin_preference_title">Nowa wersja</string>
+    <string name="bt_plugin_set_net_dialog_cancle">Anuluj</string>
+    <string name="bt_plugin_set_net_dialog_message">Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+    <string name="bt_plugin_set_net_dialog_retry">Spróbuj ponownie</string>
+    <string name="bt_plugin_set_net_dialog_title">"Nie udało się połączyć z siecią"</string>
 </resources>

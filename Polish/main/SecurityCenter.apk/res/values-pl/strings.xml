@@ -4856,7 +4856,7 @@ ale zwiększa zużycie baterii i umożliwia przegrzewanie się urządzenia"</str
     <string name="pc_fast_charge_notifi_action_text_on">Zwiększ</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Ustaw poziom baterii dla przypomnień</string>
     <string name="pc_fast_charge_notifi_summary">Ładowanie do %s razy szybciej niż zwykle…</string>
-    <string name="pc_fast_charge_notifi_summary_on">Ta funkcja może zwiększyć temperaturę urządzenia</string>
+    <string name="pc_fast_charge_notifi_summary_on">Przyspieszenie ładowania odbywa się wtedy, gdy ekran jest wyłączony. Funkcja zwiększy temperaturę urządzenia.</string>
     <string name="pc_fast_charge_notifi_switch_summary">Powiadamiaj o zwiększeniu prędkości ładowania, gdy podłączona jest dołączona ładowarka o mocy %dW, a poziom baterii znajduje się poniżej ustawionego poziomu</string>
     <string name="pc_fast_charge_notifi_switch_title">Informuj o przyspieszonym ładowaniu</string>
     <string name="pc_fast_charge_notifi_title">Ładowanie %dW</string>
@@ -5187,7 +5187,7 @@ Wycofać zgodę?"</string>
     <string name="adv_version_text">Wersja: %s</string>
     <string name="vb_video_effects_3d">Dźwięk przestrzenny</string>
     <string name="vb_video_effects_3d_summary">Zwiększ głębię reprodukcji dźwięku dla słuchawek i głośników</string>
-    <string name="vb_video_effects_3d_surround">Dźwięk przestrzenny</string>
+    <string name="vb_video_effects_3d_surround">Wirtualny dźwięk przestrzenny</string>
     <string name="vb_video_effects_liquid_summary">Zwiększ klarowność dialogów w filmach</string>
     <string name="vb_video_effects_only_headphone">Tylko ze słuchawkami</string>
     <string name="vb_video_effects_some_headphone">Wspierane przez wybrane słuchawki</string>
