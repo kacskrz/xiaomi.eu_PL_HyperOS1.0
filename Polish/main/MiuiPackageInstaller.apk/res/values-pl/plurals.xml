@@ -140,4 +140,9 @@
         <item quantity="few">%1$s uprawnienia,</item>
         <item quantity="one">%1$s uprawnienie,</item>
     </plurals>
+    <plurals name="password_wrong_retry_msg">
+        <item quantity="other">Zbyt wiele nieudanych prób. Spróbuj ponownie za %1$S sekund.</item>
+        <item quantity="few">Zbyt wiele nieudanych prób. Spróbuj ponownie za %1$S sekundy.</item>
+        <item quantity="one">Zbyt wiele nieudanych prób. Spróbuj ponownie za %1$S sekundę.</item>
+    </plurals>
 </resources>

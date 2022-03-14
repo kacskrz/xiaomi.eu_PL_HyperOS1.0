@@ -1371,4 +1371,22 @@ Jeśli nie zgadzasz się na korzystanie ze wspomnianych usług, niektóre funkcj
   <string name="toast_hungama_vip_song">Ten utwór jest dostępny tylko dla użytkowników ze członkostwem PRO. Uzyskaj subskrypcję, aby móc go pobrać.</string>
   <string name="autoplay_is_off">Autoodtwarzanie wył.</string>
   <string name="autoplay_is_on">Autoodtwarzanie wł.</string>
+  <string name="best_experience">Najlepsze wrażenia</string>
+  <string name="download_free">Pobieraj muzykę</string>
+  <string name="downloaded">Pobrane</string>
+  <string name="find_you_tunes">Znajdź swoje utwory</string>
+  <string name="free">Darmowe</string>
+  <string name="get_one_day_vip">Otrzymano %d-dniowy VIP!</string>
+  <string name="get_one_hour_vip">Otrzymano %d-godzinny VIP!</string>
+  <string name="get_vip">Uzyskaj VIP</string>
+  <string name="hifi_quality">Jakość Hi-Fi</string>
+  <string name="imported">Zaimportowane</string>
+  <string name="just_hit_next">Po prostu idź dalej</string>
+  <string name="listen_anywhere">Słuchaj w każdym miejscu</string>
+  <string name="millions_songs">Miliony utworów</string>
+  <string name="one_day_vip">%d-dniowy VIP</string>
+  <string name="one_hour_vip">%d-godzinny VIP</string>
+  <string name="unlimited_skips">Nielimitowane pomijania</string>
+  <string name="user_experience_program_open">Ze względu na ograniczenia dot. praw autorskich musisz zapisać się do Programu zadowolenia użytkownika, aby móc odtwarzać pobrane utwory. Możesz to zrobić w Ustawieniach > Hasła i bezpieczeństwo > Prywatność > Program zadowolenia użytkownika.</string>
+  <string name="watch_video">Obejrz film</string>
 </resources>

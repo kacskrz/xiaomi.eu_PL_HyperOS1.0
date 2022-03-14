@@ -795,4 +795,9 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
   <string name="trans_apple_interrupt_title">Przesyłanie przerwane</string>
   <string name="trans_sync_transfer_data_list_apple">"Wybierz elementy do przeniesienia
 na swoim iPhonie"</string>
+  <string name="apps_cannot_be_transfered_confirm_button">Zacznij</string>
+  <string name="apps_cannot_be_transfered_next_button">Dalej</string>
+  <string name="apps_cannot_be_transfered_summary">"Te 64-bitowe aplikacje nie mogą zostać przeniesione na 32-bitowe urządzenie. Możesz je pobrać ze sklepu z aplikacjami po zakończeniu przenoszenia."</string>
+  <string name="apps_cannot_be_transfered_title">"Nie można przenieść tych aplikacji"</string>
+  <string name="refuse_accept">"Nie zgadzam się"</string>
 </resources>

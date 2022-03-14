@@ -609,4 +609,22 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="verify_to_sure_close">Wyłącz</string>
     <string name="virus_safe_install_mode_security_tips_pi">Jeśli ufasz tej aplikacji, dotknij ikony Ustawień i wybierz opcję \"Tryb bezpieczny\", aby zautoryzować jej instalację.</string>
     <string name="xiaomi_account_risk">Hasło konta Xiaomi</string>
+    <string name="ad_developer">Twórca: %1$s</string>
+    <string name="ad_privacy">&lt;u>Prywatność&lt;u/></string>
+    <string name="ad_publisher">Twórca: %1$s</string>
+    <string name="confirm_install">Zainstaluj</string>
+    <string name="cpu_compatible_error">"Ta aplikacja nie jest w pełni kompatybilna z architekturą 64-bitową. Jej używanie może spowolnić pracę systemu i zwiększyć zużycie energii. Dotknij, aby dowiedzieć się więcej."</string>
+    <string name="dialog_install_source">Źródło: %1$s</string>
+    <string name="fingerprint_authrioze_done">Pomyślnie zweryfikowano</string>
+    <string name="fingerprint_authrioze_retry">Spróbuj ponownie</string>
+    <string name="fingerprint_authrioze_tips">Umieść palec na czytniku</string>
+    <string name="fingerprint_authrioze_too_many_times">Zbyt wiele nieudanych prób. Zweryfikuj swoją blokadę ekranu.</string>
+    <string name="lock_finger">Zweryfikuj odcisk palca, aby zainstalować</string>
+    <string name="lock_screen_password_authrioze">Zweryfikuj blokadę ekranu, aby zainstalować</string>
+    <string name="password_wrong_msg">"Nie udało się zweryfikować. Spróbuj ponownie."</string>
+    <string name="please_input_phone_password">Wprowadź blokadę ekranu</string>
+    <string name="risk_install_already_open">Wł.</string>
+    <string name="risk_install_no_open">Wył.</string>
+    <string name="verify_account_close_title">Wyłącz</string>
+    <string name="verify_and_install">Zainstaluj</string>
 </resources>

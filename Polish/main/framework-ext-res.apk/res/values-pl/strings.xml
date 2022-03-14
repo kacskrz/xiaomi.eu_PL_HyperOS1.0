@@ -502,4 +502,5 @@
   <string name="sc_notification_warning_restore">Przywróć</string>
   <string name="sc_notification_warning_settings">Ustawienia</string>
   <string name="sc_relaunch_dialog_message">"Aplikacja nie jest dostosowana do składanego ekranu. Jej przełączenie w tryb pełnoekranowy wymaga jej restartu. Czy chcesz to zrobić?"</string>
+  <string name="miui_landscape_compat_toast">"Ta aplikacja może nie działać poprawnie w orientacji poziomej. Zaleca się jej używanie pionowo."</string>
 </resources>

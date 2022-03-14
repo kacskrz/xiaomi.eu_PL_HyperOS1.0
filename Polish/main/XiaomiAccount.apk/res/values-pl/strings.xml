@@ -796,4 +796,10 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="no_account_or_forget_password">Utworzyć konto czy przywrócić hasło?</string>
   <string name="area_code_no_search_result">"Nie znaleziono rezultatów"</string>
   <string name="area_code_search_hint">Wyszukaj kraj lub region</string>
+  <string name="access_denied_info">Zbyt wiele prób. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="network_error_info">Wystąpił błąd sieci. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+  <string name="network_timeout_info">"Nie udało się połączyć z siecią. Spróbuj ponownie."</string>
+  <string name="progressbar_title">Sprawdzanie pod kątem bezpieczeństwa…</string>
+  <string name="system_error_info">System jest zajęty. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="unknown_error_info">Nieznany błąd</string>
 </resources>

@@ -422,4 +422,14 @@
     <string name="relay_known">OK</string>
     <string name="relay_network_error">Błąd sieci</string>
     <string name="relay_network_error_msg">"Nie można wykonać połączenia za pomocą tego urządzenia ze względu na bład sieci. Przełącz się z powrotem na swój telefon."</string>
+    <string name="remind_unlock_screen_message">Odblokuj swoje urządzenie, aby móc używać \"%s\". Odblokować?</string>
+    <string name="saf_permission_content">"Uprawnienia systemowe zostały zaktualizowane. Aby móc nagrywać połączenia, musisz przyznać odpowiednie uprawnienie.
+
+Jak to zrobić?
+Dotknij opcji \"%1$s\", a następnie wybierz \"%2$s\"."</string>
+    <string name="saf_permission_grant_permission_immediately">Dalej</string>
+    <string name="saf_permission_later">Nie teraz</string>
+    <string name="saf_permission_refused">"Nie można nagrywać połączeń ze względu na brak uprawnień"</string>
+    <string name="saf_permission_title">Wymagane uprawnienia</string>
+    <string name="saf_permission_use_this_folder">Użyj tego folderu</string>
 </resources>
