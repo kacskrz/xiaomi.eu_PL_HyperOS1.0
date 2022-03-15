@@ -10236,4 +10236,6 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="bt_plugin_set_net_dialog_message">Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
     <string name="bt_plugin_set_net_dialog_retry">Spróbuj ponownie</string>
     <string name="bt_plugin_set_net_dialog_title">"Nie udało się połączyć z siecią"</string>
+    <string name="gxzw_vibrate_summary">Wibruj, gdy odtwarzana jest animacja odblokowywania odciskiem palca</string>
+    <string name="gxzw_vibrate_title">Wibruj przy odblokowywaniu</string>
 </resources>
