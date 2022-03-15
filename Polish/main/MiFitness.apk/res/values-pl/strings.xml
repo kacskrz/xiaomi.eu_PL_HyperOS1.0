@@ -2653,8 +2653,6 @@ Zdobądź tę nagrodę"</string>
     <string name="mtrl_picker_a11y_next_month">Zmień na następny miesiąc</string>
     <string name="mtrl_picker_a11y_prev_month">Zmień na poprzedni miesiąc</string>
     <string name="mtrl_picker_announce_current_selection">Bieżący wybór: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Wybierz datę</string>
     <string name="mtrl_picker_date_header_unselected">Wybrana data</string>
     <string name="mtrl_picker_day_of_week_column_header">Kolumna z dniami: %1$s</string>
@@ -2666,7 +2664,6 @@ Zdobądź tę nagrodę"</string>
     <string name="mtrl_picker_out_of_range">Poza zakresem: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data rozpoczęcia – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – data zakończenia</string>
-    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
     <string name="mtrl_picker_range_header_title">Wybierz zakres</string>
     <string name="mtrl_picker_range_header_unselected">Data rozpoczęcia – data zakończenia</string>
     <string name="mtrl_picker_save">Zapisz</string>
