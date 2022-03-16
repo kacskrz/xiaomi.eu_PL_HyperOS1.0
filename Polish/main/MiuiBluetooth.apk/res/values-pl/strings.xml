@@ -329,4 +329,12 @@ Szyszy protokół transmisji."</string>
     <string name="confignet_app_download">Instaluj</string>
     <string name="confignet_cancel">Anuluj</string>
     <string name="confignet_download_title">Zainstaluj aplikację Mi Fitness, aby kontynuować</string>
+    <string name="bt_plugin_update_dialog_cancle">Nie teraz</string>
+    <string name="bt_plugin_update_dialog_title">Aktualizacja Bluetooth</string>
+    <string name="bt_plugin_update_dialog_update">Aktualizuj</string>
+    <string name="bt_plugin_update_done_dialog_exit">Zastosuj</string>
+    <string name="bt_plugin_update_done_dialog_msg">Aby zastosować zmiany, Ustawienia zostaną zamknięte, a Bluetooth zostanie uruchomione ponownie.</string>
+    <string name="bt_plugin_update_done_dialog_title">Zastosowanie zmian</string>
+    <string name="bt_plugin_update_done_toast">Pomyślnie zaktualizowano</string>
+    <string name="bt_plugin_update_notification_updating">Aktualizacja Bluetooth</string>
 </resources>

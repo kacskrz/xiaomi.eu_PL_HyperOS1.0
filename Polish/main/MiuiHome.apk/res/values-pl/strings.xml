@@ -632,7 +632,7 @@
   <string name="navigation_guide_settings">Jak korzystać z gestów?</string>
   <string name="switch_screen_button_order">Zamień przyciski</string>
   <string name="switch_screen_button_order_desc">Zamień miejscami przyciski ekranowe Menu i Wstecz</string>
-  <string name="auto_disable_screenbuttons_summary">Aby włączyć przyciski ponownie, dotknij dwukrotnie dowolnego z nich</string>
+  <string name="auto_disable_screenbuttons_summary">Automatycznie wyłączaj przyciski nawigacyjne, gdy Pasek statusu nie jest wyświetlany. Dotknij dwukrotnie dowolnego przycisku nawigacji, aby włączyć je ponownie.</string>
   <string name="auto_disable_screenbuttons_title">Automatycznie wyłącz przyciski nawigacji</string>
   <string name="key_shortcut_settings_title">Skróty przycisków</string>
   <string name="alexa_notification_add">Dodaj</string>

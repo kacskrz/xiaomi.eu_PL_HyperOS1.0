@@ -3168,4 +3168,13 @@ Jeśli masz pytania, skontaktuj się z organizacją %2$s."</string>
     <string name="qs_traffic_message_type_exceed">%1$s %2$s ponad limit</string>
     <string name="qs_traffic_message_type_remain">Pozostało %1$s %2$s</string>
     <string name="qs_traffic_message_type_used">Zużyto %1$s %2$s</string>
+    <string name="privacy_dialog_title">Powiadomienia o wrażliwych akcjach</string>
+    <string name="privacy_recent_used_title">Ostatnio</string>
+    <string name="privacy_using_title">Obecnie</string>
+    <string name="recent_used_camera">Ta aplikacja używała aparatu</string>
+    <string name="recent_used_camera_and_microphone">Ta aplikacja nagrywała dźwięk i używała aparatu</string>
+    <string name="recent_used_microphone">Ta aplikacja nagrywała dźwięk</string>
+    <string name="using_camera">Ta aplikacja używa aparatu</string>
+    <string name="using_camera_and_microphone">Ta aplikacja nagrywa dźwięk i używa aparatu</string>
+    <string name="using_microphone">Ta aplikacja nagrywa dźwięk</string>
 </resources>
