@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessing_notification_title">Dostęp do plików z %1$s</string>
+    <string name="app_label">Host MTP</string>
+    <string name="downloads_app_label">Pobrane</string>
+    <string name="error_busy_device">"Inne urządzenie jest zajęte. Nie można przesyłać plików, dopóki nie będzie ono dostępne."</string>
+    <string name="error_locked_device">Nie znaleziono plików. Inne urządzenie może być zablokowane. Jeśli tak jest, odblokuj je i spróbuj ponownie.</string>
+    <string name="search_menu_title">Szukaj</string>
+</resources>
