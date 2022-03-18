@@ -900,4 +900,8 @@
   <string name="uni_search_permission_title">Usprawnione wyszukiwanie</string>
   <string name="uni_search_setting_summary">Znajdź zawartość bezpośrednio w aplikacji</string>
   <string name="uni_search_setting_title">Tryb zapytań w aplikacji</string>
+  <string name="recents_worldcirculate_text">Puść, aby wybrać</string>
+  <string name="recnets_worldcirculate_display_computer_info">Aplikacja działa na %s.</string>
+  <string name="recnets_worldcirculate_display_default_info">Dotknij, aby przywrócić ją tutaj.</string>
+  <string name="recnets_worldcirculate_display_pad_info">Aplikacja działa na %s.</string>
 </resources>
