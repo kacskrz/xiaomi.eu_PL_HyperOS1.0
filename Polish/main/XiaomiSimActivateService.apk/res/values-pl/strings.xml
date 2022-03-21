@@ -214,4 +214,8 @@ Wpisz numer powiązany z nową kartą SIM aby aktywować ponownie %s"</string>
   <string name="activate_status_desc_request_activation_sms_server_error_tip_one_sim">"Nie udało się otrzymać SMS-a aktywacyjnego. Upewnij się, że Twoja karta SIM działa poprawnie i spróbuj ponownie."</string>
   <string name="error_no_get_send_sms_permission_one_sim">Najpierw zezwól na wysyłanie SMS-ów.</string>
   <string name="error_sim_not_in_service_tip_one_sim">"Nie można połączyć się z siecią. Upewnij się, że Twoja karta SIM działa poprawnie i spróbuj ponownie."</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

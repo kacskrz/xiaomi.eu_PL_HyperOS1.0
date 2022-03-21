@@ -451,4 +451,8 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="start_up_slogan_thirteen_china">Łącz wszystko w całość</string>
     <string name="sim_card_dial_card">Karta SIM %d do połączeń</string>
     <string name="sim_card_network_card">Karta SIM %d do danych</string>
+    <string name="bluetooth_usage_desc">Pierwsza konfiguracja pozwala na ustawienie podstawowej konfiguracji tego urządzenia. Aby ukończyć ją pomyślnie, systemowe usługi Bluetooth będą używać następujących uprawnień:</string>
+    <string name="enable_or_disable_bluetooth">Włączanie i wyłączanie Bluetooth</string>
+    <string name="miui_provision">Pierwsza konfiguracja</string>
+    <string name="permission_enable_disable_bluetooth_summary">W celu odnajdywania urządzeń w pobliżu po to, aby połączyć się z nimi i przesyłać dane</string>
 </resources>
