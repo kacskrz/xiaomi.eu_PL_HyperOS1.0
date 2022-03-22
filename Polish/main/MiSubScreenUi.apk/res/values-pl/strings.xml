@@ -329,4 +329,5 @@ dd.MM."</string>
     <string name="wilderness_is_starting">Włączanie Superoszczędzania baterii…</string>
     <string name="app_name">Tylny wyświetlacz</string>
     <string name="music_null">Nie odtwarzasz muzyki</string>
+    <string name="subscreen_brightness">Jasność tylnego wyświetlacza</string>
 </resources>

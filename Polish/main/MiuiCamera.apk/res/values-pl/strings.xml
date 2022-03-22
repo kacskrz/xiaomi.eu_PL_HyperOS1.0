@@ -128,7 +128,7 @@
   <string name="ai_watermark_toast_off">Wyłączono znak wodny SI</string>
   <string name="ai_watermark_toast_on">Włączono znak wodny SI</string>
   <string name="audio_focus_exit_button_text">Zamknij Audio Focus</string>
-  <string name="autozoom_click_hint">"Kliknij w obiekt, aby skupić uwagę aparatu na nim w trakcie ruchu. Dla lepszego efektu oddal się od niego na min. 3 metry."</string>
+  <string name="autozoom_click_hint">"Kliknij w obiekt, aby skupić uwagę aparatu na nim w trakcie ruchu. Dla lepszego efektu oddal się od niego na min. %d metry."</string>
   <string name="autozoom_disabled_hint">Zatrzymano śledzenie obiektu</string>
   <string name="autozoom_hint">Śledzenie obiektu</string>
   <string name="autozoom_landscape_hint">Fotografuj w trybie poziomym, aby uzyskać najlepszy efekt</string>
@@ -165,7 +165,7 @@
   <string name="button_normal_video_title">Nagraj film</string>
   <string name="calibration_guide_tittle">Nieskalibrowany aparat</string>
   <string name="calibration_hint_usage">Nieskalibrowany aparat wpłynie negatywnie na jakość zdjęć. Skontaktuj się z obsługą posprzedażową.</string>
-  <string name="camcorder_tip_8k_max_video_duration">Możesz nagrać maks. 6 minut filmu w 8K</string>
+  <string name="camcorder_tip_8k_max_video_duration">Możesz nagrać maks. %1$d minut filmu w 8K</string>
   <string name="camera_disabled">Aparat został wyłączony</string>
   <string name="camera_error_title">Błąd aparatu</string>
   <string name="camera_facedetection_sub_option_hint">Opcja eksperymentalna jest już dostępna</string>
@@ -611,7 +611,7 @@ były bardziej widoczne na zdjęciach"</string>
   <string name="parameter_peak_focus_title">Kontrola ostrości</string>
   <string name="parameter_peak_raw_description">Ten format zdjęć rejestruje wszystkie dane zgromadzone przez sensor w trakcie robienia zdjęcia. Nieskompresowane dane pozwalają Ci na o wiele większe możliwości post-produkcji, niż w przypadku standardowego zdjęcia w formacie JPEG czy HEIF.</string>
   <string name="parameter_peak_raw_title">Format RAW</string>
-  <string name="parameter_wb_description">Poza standardowymi ustawieniami balansu bieli (światło dzienne, żarowe, jarzeniowe, pochmurne) możesz także ustawić balans bieli na dowolną wartość od 2000 do 8000 w skali Kelwina.</string>
+  <string name="parameter_wb_description">Poza standardowymi ustawieniami balansu bieli (światło dzienne, żarowe, jarzeniowe, pochmurne) możesz także ustawić balans bieli na dowolną wartość od %1$d do %2$d w skali Kelwina.</string>
   <string name="parameter_wb_title">Balans bieli</string>
   <string name="parameter_zoom_slider_description">Przeciągaj suwak powiększenia poziomo, aby płynnie zmieniać ujęcie z dalekiego kadru na konkretny obiekt.</string>
   <string name="parameter_zoom_slider_title">Powiększenie</string>
@@ -1041,19 +1041,19 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_video_speed_slow_title">Zwolnione</string>
   <string name="pref_video_speed_title">Szybkość nagrywania wideo</string>
   <string name="pref_video_subtitle">Napisy</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_10">0,3 s przerwy (10x)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_120">4 s przerwy (120x)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_150">5 s przerwy (150x)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_1800">60 s przerwy (1800x)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_2">0,06 s przerwy (2x)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_240">8 s przerwy (240x)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_30">1 s przerwy (30x)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_300">10 s przerwy (300x)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_4">0,12 s przerwy (4x)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_450">15 s przerwy (450x)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_60">2 s przerwy (60x)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_90">3 s przerwy (90x)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_900">30 s przerwy (900x)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_10">%.1f s przerwy (10x)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_120">%d s przerwy (120x)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_150">%d s przerwy (150x)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_1800">%d s przerwy (1800x)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_2">%.2f s przerwy (2x)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_240">%d s przerwy (240x)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_30">%d s przerwy (30x)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_300">%d s przerwy (300x)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_4">%.2f s przerwy (4x)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_450">%d s przerwy (450x)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_60">%d s przerwy (60x)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_90">%d s przerwy (90x)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_900">%d s przerwy (900x)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Film poklatkowy</string>
   <string name="pref_watermark_off">Wył.</string>
   <string name="pref_watermark_on">Wł.</string>
@@ -1656,7 +1656,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="download_confirm">Pobierz</string>
   <string name="download_hint">Do pobrania elementów zostanie zużyte %1$s MB danych mobilnych. Pobrać mimo to?</string>
   <string name="download_title">Ostrzeżenie o użyciu danych</string>
-  <string name="update_loading">Pobrano %1$d%%</string>
+  <string name="update_loading">Pobrano %1$s</string>
   <string name="update_start">Zaktualizuj %1$s</string>
   <string name="live_draft_continue">Wznów</string>
   <string name="live_draft_empty">Brak elementów</string>
@@ -2065,4 +2065,6 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="pref_camera_volumekey_function_entry_timer_new">Odliczanie migawki (%d s)</string>
   <string name="portait_effect_entry_cold_white">Światło gwiazd</string>
   <string name="portait_effect_entry_shallots">Promyki słońca</string>
+  <string name="pref_video_quality_entry_1080p_24fps">FHD 1080p, 24 kl./s</string>
+  <string name="pref_video_quality_entry_4kuhd_24fps">4K 2160p, 24 kl./s</string>
 </resources>

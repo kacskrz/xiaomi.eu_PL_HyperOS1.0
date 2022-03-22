@@ -5327,4 +5327,17 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gtb_stop_accelerate">Zatrzymaj</string>
     <string name="gtb_timer">Odliczanie</string>
     <string name="gtb_voice_changer">Zmiana głosu</string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Przyspiesz pracę urządzenia o &lt;font color=#0099ff>%s&lt;/font></Data></string>
+    <string name="gb_dialog_record_way_ai_new">Nagrania wykonane przez SI są zapisywane w panelu gier i przechowywane tam przez %d dni.</string>
+    <string name="gb_dialog_record_way_manual_new">Ręcznie nagrywaj momenty z rozgrywki (maks.  %d sekund)</string>
+    <string name="gb_game_video_bottom_tips_new">Przypomnij sobie kluczowe fragmenty Twojej sesji w Game Turbo. Nagrania są usuwane automatycznie po %d dniach.</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed_new">Zwiększ prędkość połączenia o %1$s-%2$s, gdy jesteś połączony z routerami Mi/Redmi</string>
+    <string name="memory_clean_no_need_clean_1_new" formatted="false">"Zwolniono %s.
+Twoje urządzenie działa teraz %s szybciej."</string>
+    <string name="menu_item_notification_optimize_text_new">Zajęto %s</string>
+    <string name="menu_summary_garbage_cleanup_new_new">%s miejsca w pamięci</string>
+    <string name="menu_summary_optimize_manage_1_new">Przyspiesz urządzenie o %s</string>
+    <string name="notification_link_optimizemanage_1011_new">Zajęto %s pamięci. Wyczyść ją.</string>
+    <string name="notification_optimize_title_new">Zajęto %s pamięci</string>
+    <string name="superpower_notification_new_title_new">Mniej niż %s baterii</string>
 </resources>

@@ -10238,4 +10238,11 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="bt_plugin_set_net_dialog_title">"Nie udało się połączyć z siecią"</string>
     <string name="gxzw_vibrate_summary">Wibruj, gdy odtwarzana jest animacja odblokowywania odciskiem palca</string>
     <string name="gxzw_vibrate_title">Wibruj przy odblokowywaniu</string>
+    <string name="adapt_embedded">Równoległe okna są dostępne</string>
+    <string name="application_mode_empty_text">Brak dostępnych aplikacji</string>
+    <string name="application_mode_name">Tryb wyświetlania aplikacji</string>
+    <string name="rename_words_reached_limit">"Nowa nazwa nie może być dłuższa od obecnej"</string>
+    <string name="size_embedded">Równoległe okna</string>
+    <string name="size_full">Pełny ekran</string>
+    <string name="unadapt_embedded">"Równoległe okna nie są dostępne"</string>
 </resources>
