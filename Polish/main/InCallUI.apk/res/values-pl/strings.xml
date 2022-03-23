@@ -432,9 +432,9 @@ Dotknij opcji \"%1$s\", a następnie wybierz \"%2$s\"."</string>
     <string name="saf_permission_refused">"Nie można nagrywać połączeń ze względu na brak uprawnień"</string>
     <string name="saf_permission_title">Wymagane uprawnienia</string>
     <string name="saf_permission_use_this_folder">Użyj tego folderu</string>
-    <string name="bluetooth_permission_content">Ze względu na aktualizację uprawnień systemowych musisz udzielić pozwolenia na uzyskanie listy urządzeń Bluetooth.</string>
-    <string name="bluetooth_permission_grant_immediately">Nadaj</string>
-    <string name="bluetooth_permission_later">Później</string>
+    <string name="bluetooth_permission_content">Uprawnienia systemu uległy aktualizacji. Zezwól tej aplikacji na dostęp do nazw Twoich urządzeń Bluetooth, aby móc je wyświetlić.</string>
+    <string name="bluetooth_permission_grant_immediately">Zezwól</string>
+    <string name="bluetooth_permission_later">Nie teraz</string>
     <string name="bluetooth_permission_title">Wymagane uprawnienia</string>
     <string name="font_camera_tip">Złóż urządzenie, aby skorzystać z przedniego aparatu</string>
 </resources>

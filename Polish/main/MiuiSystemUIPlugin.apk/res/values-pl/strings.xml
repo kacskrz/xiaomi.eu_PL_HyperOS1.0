@@ -423,4 +423,8 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="switch_bar_on">Wł.</string>
     <string name="torch_high_temperature_warning">Twoje urządzenie jest przegrzane. Nie można włączyć latarki.</string>
     <string name="wifi_is_off">Wi-Fi jest wyłączone</string>
+    <string name="close_invisible_mode_dialog_cancel">Anuluj</string>
+    <string name="close_invisible_mode_dialog_message">"Nie można korzystać teraz z funkcji Mi Smart Play. Aby móc to zrobić, wyłącz Tryb incognito w Ustawieniach."</string>
+    <string name="close_invisible_mode_dialog_ok">Ustawienia</string>
+    <string name="close_invisible_mode_dialog_title">"Jesteś incognito"</string>
 </resources>

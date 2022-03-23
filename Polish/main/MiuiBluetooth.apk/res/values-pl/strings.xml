@@ -337,4 +337,5 @@ Szyszy protokół transmisji."</string>
     <string name="bt_plugin_update_done_dialog_title">Zastosowanie zmian</string>
     <string name="bt_plugin_update_done_toast">Pomyślnie zaktualizowano</string>
     <string name="bt_plugin_update_notification_updating">Aktualizacja Bluetooth</string>
+    <string name="bt_plugin_update_dialog_updating">Aktualizowanoe Bluetooth do wersji %1$s…</string>
 </resources>

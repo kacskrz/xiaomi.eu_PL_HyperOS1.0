@@ -880,4 +880,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="warn_cannot_add_new_style">"Nie można dodać nowego formatowania, ponieważ notatka jest za długa"</string>
   <string name="warn_disable_edit_in_browse_mode">"Nie można edytować notatek w trybie tylko do odczytu"</string>
   <string name="warn_enter_browse_mode">"Jesteś w trybie tylko do odczytu"</string>
+  <string name="yesterday">Wczoraj</string>
+  <string name="tomorrow">Jutro</string>
+  <string name="today">Dzisiaj</string>
 </resources>

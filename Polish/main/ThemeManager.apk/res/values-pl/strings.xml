@@ -1027,9 +1027,9 @@ d MMMM"</string>
   <string name="miui_lock_screen_date_two_lines_12">"EEEE
 d MMMM"</string>
   <string name="miui_lock_screen_large_date">"EEE
-dd.M."</string>
+dd.MM."</string>
   <string name="miui_lock_screen_large_date_12">"EEE
-dd.M."</string>
+dd.MM."</string>
   <string name="theme_designer_products">Motywy projektanta</string>
   <string name="use_hint">Uwaga</string>
   <string name="apply_failed">"Nie udało się zastosować"</string>

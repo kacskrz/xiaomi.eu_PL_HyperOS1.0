@@ -10245,4 +10245,5 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="size_embedded">Równoległe okna</string>
     <string name="size_full">Pełny ekran</string>
     <string name="unadapt_embedded">"Równoległe okna nie są dostępne"</string>
+    <string name="bt_plugin_current_version">Obecna wersja</string>
 </resources>
