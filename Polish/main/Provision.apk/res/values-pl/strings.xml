@@ -455,4 +455,6 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="enable_or_disable_bluetooth">Włączanie i wyłączanie Bluetooth</string>
     <string name="miui_provision">Pierwsza konfiguracja</string>
     <string name="permission_enable_disable_bluetooth_summary">W celu odnajdywania urządzeń w pobliżu po to, aby połączyć się z nimi i przesyłać dane</string>
+    <string name="other_settings_quality_service">Uprawnienia MIUI Daemon</string>
+    <string name="other_settings_quality_service_summary">MIUI Daemon jest wykorzystywany do poprawy stabilności i wydajności systemu. Aby móc działać normalnie, usługa wymaga uprawnień dostępu do pamięci urządzenia oraz zapisu elementów w niej.</string>
 </resources>
