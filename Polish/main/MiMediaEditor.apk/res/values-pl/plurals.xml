@@ -239,4 +239,9 @@
         <item quantity="other">Synchr. wył. %1$d elementów do synchronizacji</item>
         <item quantity="one">Synchr. wył. %1$d elementów do synchronizacji</item>
      </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="other">%d nowych powiadomień</item>
+     </plurals>
 </resources>

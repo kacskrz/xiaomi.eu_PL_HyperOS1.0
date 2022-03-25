@@ -5,4 +5,14 @@
         <item quantity="one">Zaznaczono %d element</item>
         <item quantity="few">Zaznaczono %d elementy</item>
     </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d urządzeń</item>
+        <item quantity="few">%1$d urządzenia</item>
+        <item quantity="one">%1$d urządzenie</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d urządzeń</item>
+        <item quantity="few">%1$d urządzenia</item>
+        <item quantity="one">%1$d urządzenie</item>
+    </plurals>
 </resources>
