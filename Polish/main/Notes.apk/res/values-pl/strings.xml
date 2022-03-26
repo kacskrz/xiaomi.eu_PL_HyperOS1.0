@@ -599,7 +599,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="audio_btn_trans">Tłumaczenie chiński-angielski</string>
   <string name="audio_dialog_mode_meeting">Tryb spotkania (beta)</string>
   <string name="audio_dialog_mode_meeting_exit">Nie, dzięki</string>
-  <string name="audio_dialog_mode_meeting_sum">Tryb spotkania umożliwia rozpoznanie głosów od %1$d do %2$d różnych osób. W wersji beta mogą występować pewne błędy w rozpoznawaniu.</string>
+  <string name="audio_dialog_mode_meeting_sum">Tryb spotkania umożliwia rozpoznanie głosów maksymalnie 4 różnych osób. W wersji beta mogą występować pewne błędy w rozpoznawaniu.</string>
   <string name="audio_dialog_mode_meeting_use">Start</string>
   <string name="monday">Poniedziałek</string>
   <string name="monday_short">Pon</string>
@@ -869,7 +869,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="setting_big_screen_layout_flat">Kafelki</string>
   <string name="setting_big_screen_layout_title">Układ dużego ekranu</string>
   <string name="setting_layout">Układ</string>
-  <string name="setting_micloud_sync_title">Synchronizacja z Chmurą</string>
+  <string name="setting_micloud_sync_title">Chmura Xiaomi</string>
   <string name="setting_note_list_layout_title">Układ</string>
   <string name="warn_cannot_add_new_bullet">"Nie można dodać nowej wypunktowanej listy, ponieważ notatka jest za długa"</string>
   <string name="warn_cannot_add_new_checkbox">"Nie można dodać nowego pola wyboru, ponieważ notatka jest za długa"</string>
@@ -883,4 +883,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="yesterday">Wczoraj</string>
   <string name="tomorrow">Jutro</string>
   <string name="today">Dzisiaj</string>
+  <string name="menu_edit">Edytuj</string>
+  <string name="note_module_name">Notatki</string>
+  <string name="setting_cloud_service">Usługi Chmury</string>
 </resources>
