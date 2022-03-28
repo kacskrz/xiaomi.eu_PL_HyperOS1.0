@@ -886,4 +886,37 @@ dd.M"</string>
   <string name="user_agreement_hint_first_login">Stworzymy automatycznie konto, jeśli używasz swojego numeru telefonu po raz pierwszy.</string>
   <string name="user_agreement_protocal_dialog_hint_default"><Data>"Potwierdzam, że przeczytano i zapoznano się z warunkami &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>, a także &lt;a href=\"%3$s\">Umową użytkownika&lt;/a> oraz &lt;a href=\"%4$s\">Polityką prywatności&lt;/a> Konta Xiaomi.</Data></string>
   <string name="user_name_phone_number">Numer telefonu</string>
+  <string name="lks_cta_dont_mention">"Nie pokazuj ponownie"</string>
+  <string name="lks_cta_ok">Zgadzam się</string>
+  <string name="lks_cta_reject">"Nie zgadzam się"</string>
+  <string name="lks_cta_summary1">Tapety Blokady dostarczają następujące funkcje:</string>
+  <string name="lks_cta_summary2">"1. Automatycznie aktualizowane tapety&lt;br>2. Nowe obrazy i historie dostarczane wprost na Ekran blokady&lt;br>3. Opcje personalizacji&lt;br>Aby móc działać normalnie, aplikacja wymaga łączenia się z Intenretem.&lt;br>&lt;br>Aby dostarczać dodatkowe usługi, aplikacja może poprosić o pozwolenie na dostęp do pamięci tego urządzenia oraz zapis elementów w niej. Przeczytaj i zaakceptuj warunki &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Umowy użytkownika&lt;/font>&lt;/a> oraz &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Polityki prywatności&lt;/font>&lt;/a>, zanim przejdziesz dalej."</string>
+  <string name="lks_cta_title">Warunki użytkowania</string>
+  <string name="lks_current_lks_wallpaper">Obecny Ekran blokady</string>
+  <string name="lks_data_warning_toast_1">"Używasz danych mobilnych, aby przeglądać tapety.
+Może to generować dodatkowe opłaty."</string>
+  <string name="lks_dislike">"Nie lubię tego"</string>
+  <string name="lks_download">Pobierz</string>
+  <string name="lks_like">Dodaj do ulubionych</string>
+  <string name="lks_liked">Dodano do ulubionych</string>
+  <string name="lks_loop_icon_ask_cancle">Anuluj</string>
+  <string name="lks_loop_icon_ask_dlg">Włącz Pokaz slajdów na Ekranie blokady, aby codziennie uzyskiwać nowe obrazy i historie na swoim Ekranie blokady.</string>
+  <string name="lks_loop_icon_ask_ok">Włącz</string>
+  <string name="lks_loop_icon_ask_title">Pokaz slajdów na Ekranie blokady</string>
+  <string name="lks_loop_icon_close_cancle">Anuluj</string>
+  <string name="lks_loop_icon_close_dlg">Pokaz slajdów na Ekranie blokady zostanie wyłączony po ustawieniu tego obrazu jako tapety Ekranu blokady. Ustawić tę tapetę?</string>
+  <string name="lks_loop_icon_close_title">Uwaga</string>
+  <string name="lks_loop_icon_dlg_title">Pokaz slajdów na Ekranie blokady</string>
+  <string name="lks_loop_icon_open_dlg">Pokaz slajdów na Ekranie blokady jest włączony i będzie codziennie dostarczać nowe obrazy oraz historie na Twój Ekran blokady.</string>
+  <string name="lks_loop_icon_open_ok">Rozumiem</string>
+  <string name="lks_more">Więcej</string>
+  <string name="lks_more_pics_coming_toast">Nowe obrazy już w drodze</string>
+  <string name="lks_new_user_help_anime">Przeciągnij w górę, aby zobaczyć więcej Tapet Blokady</string>
+  <string name="lks_no_network">"Nie udało się połączyć z siecią"</string>
+  <string name="lks_please_reload">Załaduj ponownie</string>
+  <string name="lks_related_article">Artykuł</string>
+  <string name="lks_retry">Spróbuj ponownie</string>
+  <string name="lks_set_as_lks_wallpaper">Ustaw na Ekranie blokady</string>
+  <string name="lks_to_history">Historia</string>
+  <string name="lks_to_setting">Ustawienia Tapet Blokady</string>
 </resources>

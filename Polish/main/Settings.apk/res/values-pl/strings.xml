@@ -8387,7 +8387,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="aggregate_rule_group_disabled">"Nie grupuj"</string>
   <string name="aggregate_rule_group_enabled">Grupuj</string>
   <string name="aod_notification_style">Efekt powiadomień</string>
-  <string name="error_xcap_not_add">Typ APN nie może być typem XCAP.</string>
+  <string name="error_xcap_not_add">Nie można użyć XCAP jako typu punktu dostępu.</string>
   <string name="fold_rule_default">Zalecane</string>
   <string name="fold_rule_important">Istotne</string>
   <string name="fold_rule_unimportant">Nieistotne</string>
@@ -10246,4 +10246,11 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="size_full">Pełny ekran</string>
     <string name="unadapt_embedded">"Równoległe okna nie są dostępne"</string>
     <string name="bt_plugin_current_version">Obecna wersja</string>
+    <string name="fiveg_vonr_switch_summary">Używaj VoNR w środowiskach sieci 5G, aby polepszyć wrażenia z wykonywania połączeń. Funkcja dostarczana w celach testowych.</string>
+    <string name="fiveg_vonr_switch_title">Ustawienia VoNR</string>
+    <string name="font_cta_alert_btn_negative">Anuluj</string>
+    <string name="font_cta_alert_btn_positive">Zgadzam się</string>
+    <string name="font_cta_alert_message">Przeczytaj i zaakceptuj warunki użytkowania Motywów, aby przejść dalej.</string>
+    <string name="font_cta_alert_title">Warunki użytkowania</string>
+    <string name="vonr_switch_title">Użyj VoNR</string>
 </resources>

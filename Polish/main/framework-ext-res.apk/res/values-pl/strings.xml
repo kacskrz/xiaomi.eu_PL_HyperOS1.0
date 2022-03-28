@@ -506,4 +506,5 @@
   <string name="tip_close_screen_phone">Przełącz się na tryb głośnomówiący lub złóż urządzenie, aby skorzystać z głośnika</string>
   <string name="tip_for_phone_and_camera">Złóż urządzenie, aby skorzystać z głośnika lub przedniego aparatu</string>
   <string name="tip_use_front_camera">Złóż urządzenie, aby skorzystać z przedniego aparatu</string>
+  <string name="lenovo_phone">Telefon Lenovo</string>
 </resources>

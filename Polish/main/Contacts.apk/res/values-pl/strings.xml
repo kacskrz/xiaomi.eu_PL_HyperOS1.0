@@ -1647,4 +1647,6 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="new_saf_permission_dialog_grant_permission_immediately">Dalej</string>
   <string name="new_saf_permission_dialog_title"><b>Wymagane uprawnienia</b></string>
   <string name="this_folder">Użyj tego folderu</string>
+  <string name="privacy_settings_blue_scan_connect">Łączenie się z urządzeniami w pobliżu</string>
+  <string name="toast_not_show_blue_scan_connect_perm_req">Zezwól tej funkcji na łączenie się z urządzeniami w pobliżu poprzez Bluetooth, aby móc importować kontakty z innych urządzeń.</string>
 </resources>
