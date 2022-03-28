@@ -1445,4 +1445,6 @@ do Listy blokowanych"</string>
     <string name="system_permission_declare_smart_message">Witaj w Inteligentnych wiadomościach!</string>
     <string name="system_permission_declare_user_agree">Zgadzam się</string>
     <string name="system_permission_user_privacy">Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki tych dokumentów.</string>
+    <string name="title_not_show_read_mms_perm_req">Wymagane uprawnienia</string>
+    <string name="toast_not_show_read_mms_perm_req">Aby móc wyświetlać otrzymane wiadomości, należy przyznać aplikacji SMS uprawnienie do odczytu SMS-ów i MMS-ów. Możesz to zrobić w Ustawieniach.</string>
 </resources>
