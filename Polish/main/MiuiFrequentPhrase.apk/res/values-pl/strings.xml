@@ -50,4 +50,5 @@
     <string name="input_method_function_voice_des">Dotknij, aby użyć wprowadzania głosowego</string>
     <string name="input_method_function_xiaoai">Wprowadzanie głosowe za pomocą Mi SI</string>
     <string name="input_method_function_xiaoai_des">Dotknij, aby użyć wprowadzania głosowego Mi SI</string>
+    <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>

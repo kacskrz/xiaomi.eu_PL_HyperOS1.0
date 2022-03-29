@@ -1257,8 +1257,8 @@
     <string name="pa_accessibility_picker_back">Wykonaj akcję Wstecz.</string>
     <string name="pa_accessibility_picker_search_cancel">Pasek wyszukiwania widżetu. Dotknij dwa razy, aby anulować.</string>
     <string name="pa_accessibility_picker_search_tips">Pasek wyszukiwania widżetu. Dotknij dwa razy, aby wyszukać.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Dotknij dwa razy, aby dodać ten element na pulpit.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Dotknij dwa razy, aby dodać ten element do Asystenta MIUI.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Dodaj ten element na pulpit.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Dodaj ten element do Asystenta MIUI.</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Edytuj</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Wybrano widżet. Przeciągnij, aby dodać ten element na pulpit.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Wybrano widżet. Przeciągnij, aby dodać ten element do Asystenta MIUI.</string>
