@@ -2008,4 +2008,6 @@ Nadal możesz wykonywać połączenia alarmowe."</string>
   <string name="HIPS_Perm_External_Storage_Desc">Dostęp i zapis plików oraz zdjęć na urządzeniu</string>
   <string name="HIPS_Perm_Read_Contact">Kontakty</string>
   <string name="HIPS_Perm_Read_Contact_Desc">Dostęp do Twoich kontaktów</string>
+  <string name="preference_check_privacy">Wyświetl Politykę prywatności</string>
+  <string name="privacy_setting">Prywatność</string>
 </resources>
