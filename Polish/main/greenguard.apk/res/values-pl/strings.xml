@@ -178,4 +178,8 @@ Rozmiar zmian: %2$s"</string>
     <string name="bind_status_dialog_title">Przywróć dodane urządzenie</string>
     <string name="bind_status_last_bind_time">Dodano po raz pierwszy: %s</string>
     <string name="refresh">Odśwież</string>
+    <string name="miuix_access_state_desc">Wybrane</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

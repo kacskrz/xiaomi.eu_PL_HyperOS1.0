@@ -465,5 +465,5 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="dialog_score_good">Zadowolony</string>
   <string name="dialog_score_very_bad">Bardzo niezadowolony</string>
   <string name="dialog_score_very_good">Usatysfakcjonowany</string>
-  <string name="pad_real_time_detail_title">Komfort</string>
+  <string name="pad_real_time_detail_title">Wskaźniki</string>
 </resources>

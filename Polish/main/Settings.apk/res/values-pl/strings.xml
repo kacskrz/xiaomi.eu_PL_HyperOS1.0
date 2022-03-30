@@ -10264,4 +10264,20 @@ Obszar, w którym można potwierdzić blokadę ekranu, przesunie się w prawo."<
     <string name="guide_title_left">Przesuń w górę po lewej</string>
     <string name="guide_title_right">Przesuń w górę po prawej</string>
     <string name="search_application_count">Wyszukaj aplikacje</string>
+    <string name="expand_card_action">Dodatkowe karty</string>
+    <string name="music_playback_control_cross_device_flow">Przesyłanie odtwarzanego dźwięku między urządzeniami</string>
+    <string name="music_video_flow_across_device">Kontrolowanie i przesyłanie odtwarzanego dźwięku między urządzeniami</string>
+    <string name="sos_privacy_dialog_message_old_version">"Alarmowy SOS pozwala ci udostępniać twoją lokalizację w czasie rzeczywistym oraz wysyłać wiadomości tekstowe do kontaktów alarmowych.
+Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności.
+Ta aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:
+• Dostęp do pamięci urządzenia
+Aby zapisać kontakty alarmowe
+• Dostęp do kontaktów
+Aby oznaczyć określone kontakty jako alarmowe
+• Wysyłanie SMS
+Aby wysyłać wiadomości tekstowe do kontaktów alarmowych
+• Dostęp do lokalizacji
+Aby udostępniać twoją lokalizację kontaktom alarmowym
+Jeśli nie zgadzasz się na nadanie tych uprawnień lub udostępnianie twoich danych osobowych, nie możesz używać tej aplikacji. W każdej chwili możesz wyłączyć tę funkcję lub jej nie używać.
+Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
 </resources>

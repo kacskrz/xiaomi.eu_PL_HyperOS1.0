@@ -592,7 +592,7 @@ Jeśli zmienisz zdanie, przed skorzystaniem z naszych usług musisz zaakceptowa�
     <string name="device_language_setting">Język</string>
     <string name="device_location_dialog_message">Nie będziesz w stanie korzystać z tej usługi, dopóki nie przyznasz wymaganych uprawnień. Nie przyznanie uprawnień nie wpłynie jednak na użytkowanie innych usług. Możesz w każdej chwili ograniczyć uprawnienia w Ustawieniach.</string>
     <string name="device_location_dialog_title">Wymagane uprawnienia</string>
-    <string name="device_lock_off_wrist">Wykrywanie nadgarstka</string>
+    <string name="device_lock_off_wrist">PIN</string>
     <string name="device_manager">Urządzenia</string>
     <string name="device_mi_band">Opaska</string>
     <string name="device_mi_watch">Zegarek</string>
@@ -884,7 +884,7 @@ Włączenie tej funkcji wpłynie na żywotność baterii. Kontynuować mimo to?"
     <string name="device_settings_heart_rate_warning_unit">BPM</string>
     <string name="device_settings_helper_keep_alive">Uprawnienia w tle</string>
     <string name="device_settings_high_hr_notify">Wysokie tętno</string>
-    <string name="device_settings_high_hr_notify_des">Powiadamiaj, gdy podczas bycie nieaktywnym przez 10 min tętno wzrośnie powyżej ustawionego poziomu</string>
+    <string name="device_settings_high_hr_notify_des">Powiadamiaj, gdy podczas bycia nieaktywnym tętno pozostaje powyżej ustawionego poziomu</string>
     <string name="device_settings_high_hr_notify_threshold">Wartość alertu</string>
     <string name="device_settings_high_pressure_notice_des">Rozpocznij wykonywanie ćwiczeń oddechowych, gdy poziom stresu utrzymuje się powyżej 80</string>
     <string name="device_settings_high_pressure_notice_title">Przypomnienie o odpoczynku</string>
@@ -913,7 +913,7 @@ Włączenie tej funkcji wpłynie na żywotność baterii. Kontynuować mimo to?"
     <string name="device_settings_limit_bind_switch_tips">Ogranicz parowanie Twojego monitora aktywności z innymi aplikacjami</string>
     <string name="device_settings_limit_hint">Wskazówki</string>
     <string name="device_settings_load_data_failed">Nie udało się załadować informacji</string>
-    <string name="device_settings_lock_off_wrist">Wykrywanie nadgarstka</string>
+    <string name="device_settings_lock_off_wrist">PIN</string>
     <string name="device_settings_lock_off_wrist_set_pwd">Ustaw kod PIN</string>
     <string name="device_settings_long_sit">Alert o braku aktywności</string>
     <string name="device_settings_low_hr_warning_title">Niskie tętno</string>
@@ -1054,7 +1054,7 @@ Dane powiązanego urządzenia zostaną usunięte w ciągu 7 dni."</string>
     <string name="device_settings_unlock_phone_unlock_distance">Przedział</string>
     <string name="device_settings_unwear_alert">Zablokuj swój monitor aktywności, gdy go nie nosisz</string>
     <string name="device_settings_unwear_close_cofirm_msg">Po wyłączeniu kodu PIN nie będziesz w stanie korzystać z tej funkcji. Kontynuować mimo to?</string>
-    <string name="device_settings_unwear_close_cofirm_title">Wyłączyć kod PIN?</string>
+    <string name="device_settings_unwear_close_cofirm_title">Wyłącz kod PIN</string>
     <string name="device_settings_unwear_close_pwd">Wyłącz kod PIN</string>
     <string name="device_settings_unwear_no_set">Nie ustawiono</string>
     <string name="device_settings_unwear_set_pwd">Kod PIN</string>
@@ -4114,4 +4114,40 @@ Jeśli nie chcesz udostępniać swoich danych, możesz wyłączyć tę funkcję.
     <string name="device_connect_devices_common_app">Wybierz aplikację</string>
     <string name="device_connect_devices_common_app_desc">&lt;Data>Aby uzyskać lepsze połączenie między telefonem a Twoim urządzeniem, wybierz aplikację, której chcesz używać do łączenia się z urządzeniem.&lt;br>&lt;a href=\"%1$s\">Dowiedz się więcej&lt;/a>&lt;/Data></string>
     <string name="device_determine">Kontynuuj</string>
+    <string name="device_agree_all">Wyrażam zgodę na wszystko</string>
+    <string name="device_agree_to_terms">Warunki użytkowania</string>
+    <string name="device_required_agree_collect_info">&lt;Data>Wyrażam zgodę na &lt;a href=\"%1$s\">gromadzenie i wykorzystywanie danych osobowych&lt;/a> (obowiązkowa)&lt;/Data></string>
+    <string name="device_required_agree_use_location">&lt;Data>Wyrażam zgodę na &lt;a href=\"%1$s\">gromadzenie danych dot. lokalizacji&lt;/a> (obowiązkowa)&lt;/Data></string>
+    <string name="device_settings_contact">Ulubione kontakty</string>
+    <string name="device_settings_contact_add">Dodaj</string>
+    <string name="device_settings_contact_add_fail">"Nie udało się dodać do ulubionych kontaktów. Spróbuj ponownie."</string>
+    <string name="device_settings_contact_delete_fail">"Nie udało się usunąć. Spróbuj ponownie."</string>
+    <string name="device_settings_contact_edit">Edytuj</string>
+    <string name="device_settings_contact_list_fail">"Nie udało się uzyskać informacji o kontakcie. Spróbuj ponownie."</string>
+    <string name="device_settings_contact_list_tips1">1. Aby dzwonić do swoich kontaktów na urządzeniu, które nosisz, dodaj te kontakty do ulubionych kontaktów.</string>
+    <string name="device_settings_contact_list_tips2">2. Możesz dodać maksymalnie 10 ulubionych kontaktów.</string>
+    <string name="device_settings_contact_search">Wyszukaj kontakty</string>
+    <string name="device_settings_contact_select">Wybierz kontakt</string>
+    <string name="device_settings_contact_sort">Sortuj</string>
+    <string name="device_settings_contact_sync_failt">"Nie udało się zsynchronizować. Spróbuj ponownie."</string>
+    <string name="device_settings_contact_sync_success">Pomyślnie zsynchronizowano</string>
+    <string name="device_settings_no_contact">Brak ulubionych</string>
+    <string name="device_settings_unwear_get_status_fail">"Nie udało się zsynchronizować danych"</string>
+    <string name="health_spo2_abnormal_count">Alerty</string>
+    <string name="privacy_permission_record_audio">Nagrywanie dźwięku</string>
+    <string name="privacy_permission_record_audio_des">W celu rejestrowania mówienia oraz chrapania podczas analizy Twojego cyklu snu</string>
+    <string name="success">Gotowe</string>
+    <string name="sync_wifi_no_permission_desc">Udostępnić hasło do sieci Wi-Fi urządzeniu, które nosisz?</string>
+    <string name="sync_wifi_no_permission_title">Udostępnij hasło</string>
+    <string name="trail_map_style_common">Domyślne</string>
+    <string name="trail_map_style_no_label">Brak</string>
+    <string name="trail_map_style_satillite">Satelita</string>
+    <string name="trail_open_mail_points">Znaczniki kilometrowe</string>
+    <string name="trail_sport_map_edit">Mapa</string>
+    <string name="trail_sport_summary_speed">Prędkość (km/h)</string>
+    <string name="trail_summary_detail_fall_height">Spadek wys. (m)</string>
+    <string name="trail_summary_detail_rise_height">Przyrost wys. (m)</string>
+    <string name="trail_summary_golf_avg_swing_speed">Prędkość (m/s)</string>
+    <string name="trail_summary_row_avg_freq">SPM</string>
+    <string name="trail_summary_row_energy_working">Energia (kJ)</string>
 </resources>
