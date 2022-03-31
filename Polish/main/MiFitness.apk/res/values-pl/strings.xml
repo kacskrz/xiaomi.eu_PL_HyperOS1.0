@@ -4114,10 +4114,6 @@ Jeśli nie chcesz udostępniać swoich danych, możesz wyłączyć tę funkcję.
     <string name="device_connect_devices_common_app">Wybierz aplikację</string>
     <string name="device_connect_devices_common_app_desc">&lt;Data>Aby uzyskać lepsze połączenie między telefonem a Twoim urządzeniem, wybierz aplikację, której chcesz używać do łączenia się z urządzeniem.&lt;br>&lt;a href=\"%1$s\">Dowiedz się więcej&lt;/a>&lt;/Data></string>
     <string name="device_determine">Kontynuuj</string>
-    <string name="device_agree_all">Wyrażam zgodę na wszystko</string>
-    <string name="device_agree_to_terms">Warunki użytkowania</string>
-    <string name="device_required_agree_collect_info">&lt;Data>Wyrażam zgodę na &lt;a href=\"%1$s\">gromadzenie i wykorzystywanie danych osobowych&lt;/a> (obowiązkowa)&lt;/Data></string>
-    <string name="device_required_agree_use_location">&lt;Data>Wyrażam zgodę na &lt;a href=\"%1$s\">gromadzenie danych dot. lokalizacji&lt;/a> (obowiązkowa)&lt;/Data></string>
     <string name="device_settings_contact">Ulubione kontakty</string>
     <string name="device_settings_contact_add">Dodaj</string>
     <string name="device_settings_contact_add_fail">"Nie udało się dodać do ulubionych kontaktów. Spróbuj ponownie."</string>
