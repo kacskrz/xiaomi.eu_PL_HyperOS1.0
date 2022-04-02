@@ -10280,4 +10280,9 @@ Aby wysyłać wiadomości tekstowe do kontaktów alarmowych
 Aby udostępniać twoją lokalizację kontaktom alarmowym
 Jeśli nie zgadzasz się na nadanie tych uprawnień lub udostępnianie twoich danych osobowych, nie możesz używać tej aplikacji. W każdej chwili możesz wyłączyć tę funkcję lub jej nie używać.
 Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
+    <string name="freeform_guide_to_sidehide_summary">Szybko przeciągnij aplikację do rogu ekranu, aby ją ukryć</string>
+    <string name="freeform_guide_to_sidehide_title">Ukrywanie pływających okien</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Dotknij ikony aplikacji na Pasku bocznym, aby otworzyć ją w pływającym oknie.
+· Przeciągnij aplikację na środek ekranu, aby otworzyć ją w pływającym oknie bądź do rogu, aby skorzystać z Dzielonego ekranu."</string>
+    <string name="sidebar_setting">Ustawienia Paska bocznego</string>
 </resources>
