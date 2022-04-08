@@ -21,7 +21,7 @@
   <string name="app_name">MIUI Bluetooth</string>
   <string name="ble_device_address">MAC urządzenia Smart BLE</string>
   <string name="ble_device_profile">Profil urządzenia</string>
-  <string name="ble_device_profile_header_title">Ustawienia</string>
+  <string name="ble_device_profile_header_title">Więcej</string>
   <string name="ble_device_profile_title">Połącz z urządzeniem BLE</string>
   <string name="ble_device_rename">Zmień nazwę</string>
   <string name="bluetooth_connected">Połączony</string>
@@ -338,4 +338,5 @@ Szyszy protokół transmisji."</string>
     <string name="bt_plugin_update_done_toast">Pomyślnie zaktualizowano</string>
     <string name="bt_plugin_update_notification_updating">Aktualizacja Bluetooth</string>
     <string name="bt_plugin_update_dialog_updating">Aktualizowanie Bluetooth do wersji %1$s…</string>
+    <string name="ble_device_profile_summary">Zarządzaj tym urządzeniem</string>
 </resources>

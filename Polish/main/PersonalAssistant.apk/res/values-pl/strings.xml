@@ -1668,4 +1668,5 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
     <string name="pa_day_date">dd:MM</string>
     <string name="pa_rtk_unlike_text">Odepnij</string>
     <string name="pa_picker_detail_maml_downloading">Pobieranie elementów…</string>
+    <string name="pa_picker_detail_vp2_indicator">Wybrano stronę %1$d z %2$d</string>
 </resources>

@@ -900,4 +900,10 @@
   <string name="uni_search_permission_title">Usprawnione wyszukiwanie</string>
   <string name="uni_search_setting_summary">Znajdź zawartość bezpośrednio w aplikacji</string>
   <string name="uni_search_setting_title">Tryb zapytań w aplikacji</string>
+  <string name="exit_overview_because_task_stack_changed">Zamknięto menu Ostatnio otwartych aplikacji ze względu na zmiany, które nastąpiły w tle</string>
+  <string name="navigation_position_center">Pośrodku</string>
+  <string name="navigation_position_left">Po lewej</string>
+  <string name="navigation_position_right">Po prawej</string>
+  <string name="navigation_position_summary">Niestandardowe położenie przycisków nawigacji zostanie zastosowane tylko na Pulpicie</string>
+  <string name="navigation_position_title">Pozycja przycisków nawigacyjnych</string>
 </resources>

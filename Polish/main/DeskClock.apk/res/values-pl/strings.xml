@@ -547,4 +547,11 @@
   <string name="read_phone_state_desc">Dostęp do informacji dot. połączeń w momencie włączenia alarmu</string>
   <string name="read_phone_state_desc_when_request">W celu dostępu do stanu połączeń po to, aby automatycznie zatrzymać odtwarzanie alarmu w momencie nadejścia połączenia</string>
   <string name="remark_hint">Wprowadź etykietę</string>
+  <string name="add_timer_dialog_title">Dodaj minutnik</string>
+  <string name="timer_alert_type_no">Brak</string>
+  <string name="timer_desc_use_brush_teeth">Mycie zębów</string>
+  <string name="timer_desc_use_facial_mask">Maseczka na twarz</string>
+  <string name="timer_desc_use_sleep">Drzemka</string>
+  <string name="timer_item_edit">Edytuj</string>
+  <string name="white_noise_guide_desc">Dodaj dźwięk w tle, aby się skupić</string>
 </resources>
