@@ -511,4 +511,5 @@
   <string name="dark_mode_suggest_message">Aby wygodniej przeglądać treści, możesz automatycznie włączać Ciemny motyw o zachodzie słońca</string>
   <string name="dark_mode_suggest_title">"Robi się ciemno"</string>
   <string name="dark_mode_suggest_toast">Ciemny motyw będzie od teraz włączany automatycznie o zachodzie i wyłączany o wschodzie słońca</string>
+  <string name="sc_notification_warning_title">Zmień tryb wyświetlania</string>
 </resources>

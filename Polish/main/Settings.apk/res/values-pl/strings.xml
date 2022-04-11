@@ -902,7 +902,7 @@ Aplikacje:
   <string name="block_list_no_device">Brak połączonych urządzeń z listy blokowanych</string>
   <string name="block_list_qcom_dialog_content">“%s” zostanie rozłączony i dodany do czarnej listy</string>
   <string name="block_list_remove_dialog_content">“%s” będzie mógł połączyć się z hotspotem</string>
-  <string name="block_list_remove_dialog_title">Usuń “%s” z listy blokowanych</string>
+  <string name="block_list_remove_dialog_title">Uwaga</string>
   <string name="block_list_summary">Pokaż urządzenia bez pozwolenia na łączenie z hotspotem</string>
   <string name="block_list_title">Blokowane</string>
   <string name="block_title">Powiadomienia</string>

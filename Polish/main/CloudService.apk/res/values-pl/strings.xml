@@ -1222,4 +1222,5 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="privacy_runtime_perm_phone_state_title">Dostęp do informacji o urządzeniu</string>
   <string name="privacy_runtime_perm_sms_desc">W celu synchronizacji SMS-ów</string>
   <string name="privacy_runtime_perm_sms_title">Dostęp do SMS-ów</string>
+  <string name="btn_revoke_permission">Wycofaj zgodę</string>
 </resources>

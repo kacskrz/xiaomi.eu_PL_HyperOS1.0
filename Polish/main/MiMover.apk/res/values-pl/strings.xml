@@ -800,4 +800,12 @@ na swoim iPhonie"</string>
   <string name="apps_cannot_be_transfered_summary">"Te 64-bitowe aplikacje nie mogą zostać przeniesione na 32-bitowe urządzenie. Możesz je pobrać ze sklepu z aplikacjami po zakończeniu przenoszenia."</string>
   <string name="apps_cannot_be_transfered_title">"Nie można przenieść tych aplikacji"</string>
   <string name="refuse_accept">"Nie zgadzam się"</string>
+  <string name="apple_install_background_downloading">Pobieranie aplikacji w tle…</string>
+  <string name="apple_install_get_data_faild">Wystąpił błąd</string>
+  <string name="apple_install_install_immediately_default">Zainstaluj</string>
+  <string name="apple_install_skip">Pomiń</string>
+  <string name="apple_install_sub_title">Wybrane aplikacje zostaną pobrane z GetApps</string>
+  <string name="apple_install_title">Aplikacje ze starego urządzenia</string>
+  <string name="deselect_all">Odznacz wszystko</string>
+  <string name="select_all">Zaznacz wszystko</string>
 </resources>

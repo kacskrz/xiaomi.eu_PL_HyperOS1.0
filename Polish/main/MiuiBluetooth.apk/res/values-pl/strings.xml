@@ -339,4 +339,8 @@ Szyszy protokół transmisji."</string>
     <string name="bt_plugin_update_notification_updating">Aktualizacja Bluetooth</string>
     <string name="bt_plugin_update_dialog_updating">Aktualizowanie Bluetooth do wersji %1$s…</string>
     <string name="ble_device_profile_summary">Zarządzaj tym urządzeniem</string>
+    <string name="headset_incall_answer">Odbierz</string>
+    <string name="headset_incall_reject">Anuluj</string>
+    <string name="headset_incall_summary">Odebrać połączenie na %1$s za pomocą słuchawek? Pozostaną one połączone z tym urządzeniem po zakończeniu rozmowy.</string>
+    <string name="headset_incall_title">Odbierz połączenie za pomocą słuchawek</string>
 </resources>

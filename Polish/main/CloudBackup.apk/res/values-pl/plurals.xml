@@ -128,4 +128,8 @@
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="session_time_remain">
+        <item quantity="other">Pozostało ok. %s minut</item>
+        <item quantity="one">Pozostało ok. %s minuty</item>
+    </plurals>
  </resources>

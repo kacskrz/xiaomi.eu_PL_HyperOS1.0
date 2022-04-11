@@ -437,4 +437,5 @@ Dotknij opcji \"%1$s\", a następnie wybierz \"%2$s\"."</string>
     <string name="bluetooth_permission_later">Nie teraz</string>
     <string name="bluetooth_permission_title">Wymagane uprawnienia</string>
     <string name="font_camera_tip">Złóż urządzenie, aby skorzystać z przedniego aparatu</string>
+    <string name="saf_permission_recorder_unlock_screen_message">Aby móc zapisywać nagrania, odblokuj urządzenie. Zrobić to teraz?</string>
 </resources>
