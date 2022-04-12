@@ -806,6 +806,4 @@ na swoim iPhonie"</string>
   <string name="apple_install_skip">Pomiń</string>
   <string name="apple_install_sub_title">Wybrane aplikacje zostaną pobrane z GetApps</string>
   <string name="apple_install_title">Aplikacje ze starego urządzenia</string>
-  <string name="deselect_all">Odznacz wszystko</string>
-  <string name="select_all">Zaznacz wszystko</string>
 </resources>
