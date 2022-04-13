@@ -421,4 +421,26 @@ Wymagane są uprawnienia."</string>
   <string name="session_success_title_backup">Pomyślnie skopiowano</string>
   <string name="session_success_title_restore">Pomyślnie przywrócono</string>
   <string name="session_waiting_network">Oczekiwanie na sieć…</string>
+  <string name="access_denied_info">Zbyt wiele prób. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="cloud_backup_permission_allow">Przyznano</string>
+  <string name="cloud_backup_permission_not_allow">Nie przyznano</string>
+  <string name="cloud_backup_phone_state_summary">Dostęp do numeru telefonu i stanu urządzenia</string>
+  <string name="cloud_backup_phone_state_title">Dostęp do informacji o urządzeniu</string>
+  <string name="cloud_backup_rw_storage_summary">W celu wykonania kopii zapasowej układu pulpitu, a także danych i ustawień aplikacji w Chmurze</string>
+  <string name="cloud_backup_rw_storage_title">Dostęp do pamięci</string>
+  <string name="collect_diagnosis_log">Gromadzenie logów diagnostycznych</string>
+  <string name="diagnosis_log_send_failed">Nie udało się wysłać logów diagnostycznych.</string>
+  <string name="diagnosis_log_sent_format">"Pomyślnie wysłano logi.
+ID:%s
+Wyślij ten kod do wsparcia technicznego."</string>
+  <string name="for_diagnosis_usage_only">Używaj tych informacji wyłącznie w celach diagnostycznych.</string>
+  <string name="network_error_info">Wystąpił błąd sieci. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+  <string name="network_timeout_info">Nie udało się połączyć z siecią. Spróbuj ponownie.</string>
+  <string name="permission_to_use">Szczegóły uprawnień</string>
+  <string name="progressbar_title">Sprawdzanie pod kątem bezpieczeństwa…</string>
+  <string name="send_diagnosis_log">Wyślij log diagnostyczny</string>
+  <string name="sending">Wysyłanie…</string>
+  <string name="system_error_info">System jest zajęty. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="temporary_not_available">Tymczasowo niedostępne</string>
+  <string name="unknown_error_info">Nieznany błąd</string>
 </resources>
