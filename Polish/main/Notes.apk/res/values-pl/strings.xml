@@ -886,4 +886,5 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="menu_edit">Edytuj</string>
   <string name="note_module_name">Notatki</string>
   <string name="setting_cloud_service">Usługi Chmury</string>
+  <string name="warn_cannot_add_new_content">"Nie można dodać nowej treści, ponieważ notatka jest za długa"</string>
 </resources>
