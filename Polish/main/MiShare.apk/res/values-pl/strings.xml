@@ -237,4 +237,5 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="pc_xiaomi_device_model_name">Laptop Xiaomi</string>
   <string name="seize_content">Zatrzymaj udostępnianie Twojego ekranu, aby móc przesyłać elementy. Zrobić to teraz?</string>
   <string name="seize_title">Zatrzymaj udostępnianie ekranu</string>
+  <string name="lenovo_phone">Telefon Lenovo</string>
 </resources>

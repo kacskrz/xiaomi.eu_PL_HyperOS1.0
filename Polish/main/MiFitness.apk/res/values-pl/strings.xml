@@ -987,7 +987,7 @@ Dane powiązanego urządzenia zostaną usunięte w ciągu 7 dni."</string>
     <string name="device_settings_save">Zapisz</string>
     <string name="device_settings_schedule">Wydarzenia</string>
     <string name="device_settings_sedentary__stretch_guide">Rozciąganie</string>
-    <string name="device_settings_sedentary_remind">Stanie</string>
+    <string name="device_settings_sedentary_remind">Alert o bezczynności</string>
     <string name="device_settings_sedentary_rest">Wycisz Alert o braku aktywności od 12:00 do 14:00</string>
     <string name="device_settings_sedentary_siesta">Nie przeszkadzać</string>
     <string name="device_settings_sedentary_state">Alert o braku aktywności</string>
@@ -1029,7 +1029,7 @@ Dane powiązanego urządzenia zostaną usunięte w ciągu 7 dni."</string>
     <string name="device_settings_sportsort_outdoor_sports">Aktywność na zewnątrz</string>
     <string name="device_settings_sportsort_water_sports">Sporty wodne</string>
     <string name="device_settings_stand_detect_title">Przypominaj o wstawaniu</string>
-    <string name="device_settings_stand_remind">Stanie</string>
+    <string name="device_settings_stand_remind">Alert o bezczynności</string>
     <string name="device_settings_sync_failure">Nie udało się zsynchronizować</string>
     <string name="device_settings_sync_phone_schedule">Pora zasypiania</string>
     <string name="device_settings_sync_system_schedule">Harmonogram</string>
@@ -1281,7 +1281,7 @@ Wyślij ten kod do administratora."</string>
     <string name="face_file_invalid">Nieprawidłowy plik</string>
     <string name="face_fun">Kompilacja (%1$d)</string>
     <string name="face_local">Lokalne</string>
-    <string name="face_manager_band">Wyświetlacze opaski</string>
+    <string name="face_manager_band">Tarcze opaski</string>
     <string name="face_manager_watch">Tarcze zegarka</string>
     <string name="face_market">Online</string>
     <string name="face_me_band">Lokalne</string>
@@ -1476,7 +1476,7 @@ Wyślij ten kod do administratora."</string>
     <string name="fitness_group_gymnastics">Gimnastyka masowa</string>
     <string name="fitness_gymnastics">Gimnastyka</string>
     <string name="fitness_handball">Piłka ręczna</string>
-    <string name="fitness_health_walk">Chodzenie</string>
+    <string name="fitness_health_walk">Chód</string>
     <string name="fitness_high_intensity_gap_training">Trening HIIT</string>
     <string name="fitness_high_intensity_interval_training">Trening HIIT</string>
     <string name="fitness_hiking_outdoor">Wspinaczka</string>
@@ -1577,8 +1577,8 @@ Wyślij ten kod do administratora."</string>
     <string name="fitness_volleyball">Siatkówka</string>
     <string name="fitness_waist_training">Mięśnie brzucha</string>
     <string name="fitness_walk">Chód sportowy</string>
-    <string name="fitness_walk_outdoor">Chodzenie</string>
-    <string name="fitness_walking">Chodzenie</string>
+    <string name="fitness_walk_outdoor">Chód</string>
+    <string name="fitness_walking">Chód</string>
     <string name="fitness_wall_ball">Piłka lekarska</string>
     <string name="fitness_water_polo">Wodne polo</string>
     <string name="fitness_web_swimming">Pływanie w płetwach</string>
@@ -1863,12 +1863,12 @@ Nadciśnienie 2. stopnia występuje, gdy ciśnienie krwi stale utrzymuje się na
     <string name="health_data_sort_label">Ukryte elementy</string>
     <string name="health_data_sort_label_kit">Ukryte widżety</string>
     <string name="health_data_sport_record_empty">Zapisz swój trening.</string>
-    <string name="health_data_stand_explain_desc">"„Stanie” pokazuje godziny, w których wstajesz i poruszasz się przynajmniej przez minutę.
+    <string name="health_data_stand_explain_desc">"„Alert o bezczynności” pokazuje godziny, w których wstajesz i poruszasz się przynajmniej przez minutę.
 
 Aby przeciwdziałać siedzeniu przez cały dzień, stój i ruszaj się przez 12 lub więcej godzin w ciągu dnia."</string>
     <string name="health_data_stand_finished">Wstawałeś(-aś)</string>
-    <string name="health_data_stand_home_desc">Stanie %1$s</string>
-    <string name="health_data_stand_top_desc">Stanie %1$s</string>
+    <string name="health_data_stand_home_desc">Alert o bezczynności %1$s</string>
+    <string name="health_data_stand_top_desc">Alert o bezczynności %1$s</string>
     <string name="health_data_stand_unfinished">Nie wstawałeś(-aś)</string>
     <string name="health_data_time_content_desc">Ostatni: %1$s | %2$s</string>
     <string name="health_data_title_calendar_day">D</string>
@@ -1891,7 +1891,7 @@ Aby przeciwdziałać siedzeniu przez cały dzień, stój i ruszaj się przez 12 
     <string name="health_data_type_sleep">Sen</string>
     <string name="health_data_type_spo2">Tlen we krwi</string>
     <string name="health_data_type_sport_record">Treningi</string>
-    <string name="health_data_type_standing">Stanie</string>
+    <string name="health_data_type_standing">Alert o bezczynności</string>
     <string name="health_data_type_step">Kroki</string>
     <string name="health_data_type_stress">Stres</string>
     <string name="health_data_type_vo2_max">VO₂ max</string>
@@ -2236,7 +2236,7 @@ Silny: 81–100."</string>
     <string name="health_tab_title_irregular_heart_beat">Zaburzenia</string>
     <string name="health_tab_title_manually_measured">Ręczne</string>
     <string name="health_taget_toast_not_support_mhs_msg">Możesz rozpocząć trening na telefonie i śledzić swoje postępy w fukcji W ruchu</string>
-    <string name="health_taget_toast_not_support_stand_msg">Stanie nie jest dostępne na Twoim urządzeniu</string>
+    <string name="health_taget_toast_not_support_stand_msg">Alert o bezczynności nie jest dostępne na Twoim urządzeniu</string>
     <string name="health_target_activity_time">W ruchu</string>
     <string name="health_target_activity_time_desc">Dorośli w wieku 18–64 lat powinni za cel obrać wykonywanie umiarkowanej aktywności przez co najmniej 30 minut dziennie, 5 razy w tygodniu.</string>
     <string name="health_target_activity_title">W ruchu</string>
@@ -2268,14 +2268,14 @@ Silny: 81–100."</string>
     <string name="health_target_recommend_activity_desc">Funkcja \"W ruchu\" pokazuje Twoją umiarkowaną i wysoką aktywność. Dla dorosłych w wieku 18-64 lat celem jest wykonywanie umiarkowanej aktywności fizycznej przynajmniej 30 minut dziennie, 5 razy w tygodniu. Możesz też spróbować 75 minut intensywnej aktywności raz w tygodniu. Postęp będzie widoczny, gdy rytm przekroczy 100 SPM lub gdy tętno przekroczy 65% tętna maksymalnego.</string>
     <string name="health_target_recommend_bottom_desc">Uwaga: Funkcja działa z wybranymi inteligentnymi urządzeniami wyprodukowanymi przez Xiaomi.</string>
     <string name="health_target_recommend_calorie_desc">„Kalorie” pokazuje liczbę aktywnych kalorii spalanych każdego dnia poprzez poruszanie się i ćwiczenia. Ustaw cel na podstawie planu kontroli wagi i spożycia kalorii.</string>
-    <string name="health_target_recommend_stand_desc">„Stanie” pokazuje godziny, w których wstajesz i poruszasz się. Aby przeciwdziałać siedzeniu przez cały dzień, stój i ruszaj się co godzinę w ciągu dnia.</string>
+    <string name="health_target_recommend_stand_desc">„Alert o bezczynności” pokazuje godziny, w których wstajesz i poruszasz się. Aby przeciwdziałać siedzeniu przez cały dzień, stój i ruszaj się co godzinę w ciągu dnia.</string>
     <string name="health_target_recommend_step_desc">Śledź swoje kroki, znajdź punkt odniesienia, wyznacz cel i pracuj nad nim krok po kroku. Mniej niż 5000 kroków dziennie może wskazywać na siedzący tryb życia. Osoba aktywna pokonuje od 8000 do 10000 kroków dziennie.</string>
     <string name="health_target_setting_desc">Monitoruj dzienne cele z Twoim telefonem lub monitorem aktywności</string>
     <string name="health_target_sport_calorie_desc">Przeciętny człowiek spala około 200–300 kcal w ciągu 30 minut biegu.</string>
-    <string name="health_target_stand_child_title">Stanie</string>
-    <string name="health_target_stand_times">Stanie</string>
+    <string name="health_target_stand_child_title">Alert o bezczynności</string>
+    <string name="health_target_stand_times">Alert o bezczynności</string>
     <string name="health_target_stand_times_desc">Aby uniknąć siedzącego trybu życia, wstawaj i ruszaj się co godzinę w ciągu dnia.</string>
-    <string name="health_target_standing_desc">Stanie</string>
+    <string name="health_target_standing_desc">Alert o bezczynności</string>
     <string name="health_target_step_child_title">Kroki</string>
     <string name="health_target_step_desc_title">Kroki</string>
     <string name="health_target_steps">Cel</string>
@@ -2283,11 +2283,11 @@ Silny: 81–100."</string>
     <string name="health_target_tips1_title">Porada</string>
     <string name="health_target_total_sport_duration">Czas</string>
     <string name="health_target_use_default_value">Użyj domyślnych celów</string>
-    <string name="health_target_valid_stand_time">Stanie</string>
+    <string name="health_target_valid_stand_time">Alert o bezczynności</string>
     <string name="health_target_value_connect_home_string">%1$s/%2$s</string>
     <string name="health_target_value_connect_string">%1$s/%2$s</string>
     <string name="health_time">Czas</string>
-    <string name="health_title_subtitle">Każdy krok się liczy</string>
+    <string name="health_title_subtitle">Liczy się każdy krok</string>
     <string name="health_total_sleep_duration">Czas</string>
     <string name="health_tracking_progress_labe_up_refresh">Chwileczkę</string>
     <string name="health_training_load">Obciążenie treningowe</string>
@@ -3356,10 +3356,10 @@ Ten krok jest wymagany, aby zapłacić urządzeniem."</string>
     <string name="sport_voice_broadcast">Komunikaty głosowe</string>
     <string name="sport_waist_bag">W torbie (nerce)</string>
     <string name="sport_walk_distance">Dystans</string>
-    <string name="sport_walking_outdoor">Chodzenie</string>
+    <string name="sport_walking_outdoor">Chód</string>
     <string name="sport_wear_device_sport_record">Twój monitor aktywności śledzi trening</string>
     <string name="sport_whole_kilo">Alert o dystansie</string>
-    <string name="stand">Stanie</string>
+    <string name="stand">Alert o bezczynności</string>
     <string name="stand_finish_stand">Tak</string>
     <string name="stand_notice">Ustawienia</string>
     <string name="stand_notice_not_show_today">Nie pokazuj dziś</string>
@@ -3771,7 +3771,7 @@ Ten krok jest wymagany, aby zapłacić urządzeniem."</string>
     <string name="trail_sport_v02max_name">VO₂ max</string>
     <string name="trail_sport_v02max_unit">ml/kg/min</string>
     <string name="trail_sport_v02max_unit_desc">%d ml/kg/min</string>
-    <string name="trail_sport_walk">Chodzenie</string>
+    <string name="trail_sport_walk">Chód</string>
     <string name="trail_sport_weeks_desc">Tydzień %1$d</string>
     <string name="trail_step_length">Długość kroku (cm)</string>
     <string name="trail_stress">Stres</string>
@@ -3849,7 +3849,7 @@ Ten krok jest wymagany, aby zapłacić urządzeniem."</string>
     <string name="user_id_hint">E-mail/Telefon/Numer konta Xiaomi</string>
     <string name="user_name_phone_number">Numer telefonu</string>
     <string name="userinfo_account_desc">Aby dane treningowe były dokładniejsze, uzupełnij informacje o profilu.</string>
-    <string name="userinfo_active_stage_stand">Stanie</string>
+    <string name="userinfo_active_stage_stand">Alert o bezczynności</string>
     <string name="userinfo_allergic_drugs">Alergie na leki</string>
     <string name="userinfo_allergic_drugs_hint">Wprowadź listę leków i reakcje na nie</string>
     <string name="userinfo_auto_measure">Automatyczne wykrywanie</string>
@@ -3955,9 +3955,9 @@ Jeśli nie chcesz udostępniać swoich danych, możesz wyłączyć tę funkcję.
     <string name="userinfo_sport_target_calorie">Kalorie</string>
     <string name="userinfo_support_lock_screen_show_description">Możesz wyświetlić swoją Kartę medyczną dotykając Alarmowe, a następnie Karta medyczna, gdy ekran jest zablokowany.</string>
     <string name="userinfo_switch_goal">Sugerowane</string>
-    <string name="userinfo_switch_stand_goal">Stanie</string>
+    <string name="userinfo_switch_stand_goal">Alert o bezczynności</string>
     <string name="userinfo_taget_toast_not_support_mhs_msg">Możesz rozpocząć trening na telefonie i śledzić swoje postępy w fukcji W ruchu</string>
-    <string name="userinfo_taget_toast_not_support_stand_msg">Funkcja Stanie nie jest dostępna na twoich urządzeniach</string>
+    <string name="userinfo_taget_toast_not_support_stand_msg">Funkcja Alert o bezczynności nie jest dostępna na twoich urządzeniach</string>
     <string name="userinfo_target_activity_time">W ruchu</string>
     <string name="userinfo_target_activity_time_desc">Dorośli w wieku 18–64 lat powinni za cel obrać wykonywanie umiarkowanej aktywności przez co najmniej 30 minut dziennie, 5 razy w tygodniu.</string>
     <string name="userinfo_target_activity_title">W ruchu</string>
@@ -3974,7 +3974,7 @@ Jeśli nie chcesz udostępniać swoich danych, możesz wyłączyć tę funkcję.
     <string name="userinfo_target_not_update_value">Nie teraz</string>
     <string name="userinfo_target_setting_desc">Monitoruj dzienne cele z Twoim telefonem lub monitorem aktywności</string>
     <string name="userinfo_target_sport_calorie_desc">Przeciętny człowiek spala około 200–300 kcal w ciągu 30 minut biegu.</string>
-    <string name="userinfo_target_stand_times">Stanie</string>
+    <string name="userinfo_target_stand_times">Alert o bezczynności</string>
     <string name="userinfo_target_stand_times_desc">Aby uniknąć siedzącego trybu życia, wstawaj i ruszaj się co godzinę w ciągu dnia.</string>
     <string name="userinfo_target_switch_dynamic_indicators">Ustal cel</string>
     <string name="userinfo_target_update_stand_value">OK</string>
