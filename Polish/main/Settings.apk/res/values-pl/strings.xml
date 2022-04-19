@@ -10285,4 +10285,8 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Dotknij ikony aplikacji na Pasku bocznym, aby otworzyć ją w pływającym oknie.
 · Przeciągnij aplikację na środek ekranu, aby otworzyć ją w pływającym oknie bądź do rogu, aby skorzystać z Dzielonego ekranu."</string>
     <string name="sidebar_setting">Ustawienia Paska bocznego</string>
+    <string name="keep_screen_on_after_folding_off_summary">Nie wyłączaj zewnętrznego ekranu po złożeniu w trakcie rozmowy lub przy korzystaniu z aparatu</string>
+    <string name="keep_screen_on_after_folding_on_summary">Nie wyłączaj zewnętrznego ekranu po złożeniu, aby kontynuować wykonywanie swoich zadań</string>
+    <string name="keep_screen_on_after_folding_text">Nie wyłączaj zewnętrznego ekranu po złożeniu, aby kontynuować wykonywanie swoich zadań</string>
+    <string name="keep_screen_on_after_folding_title">Nie wyłączaj ekranu po złożeniu</string>
 </resources>
