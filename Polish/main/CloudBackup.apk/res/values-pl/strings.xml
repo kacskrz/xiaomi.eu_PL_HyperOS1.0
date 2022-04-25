@@ -443,4 +443,14 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="system_error_info">System jest zajęty. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="temporary_not_available">Tymczasowo niedostępne</string>
   <string name="unknown_error_info">Nieznany błąd</string>
+  <string name="backup_action_long_time_not_backup_action">Utwórz</string>
+  <string name="backup_action_long_time_not_backup_title">Dawno nie wykonano kopii</string>
+  <string name="dialog_content_cancel_backup">Dane, które zostały już przesłane, zostaną utracone, jeśli zdecydujesz się anulować proces tworzenia kopii. Czy chcesz to zrobić?</string>
+  <string name="dialog_content_cancel_restore">Dane, które zostały już przywrócone, zostaną zachowane, jeśli zdecydujesz się anulować proces przywracania kopii. Czy chcesz to zrobić?</string>
+  <string name="dialog_negative_btn_cancel_backup">Tak</string>
+  <string name="dialog_negative_btn_cancel_restore">Tak</string>
+  <string name="dialog_positive_btn_cancel_backup">Nie</string>
+  <string name="dialog_positive_btn_cancel_restore">Nie</string>
+  <string name="dialog_title_cancel_backup">Anulowanie tworzenia kopii</string>
+  <string name="dialog_title_cancel_restore">Zatrzymywanie przywracania kopii</string>
 </resources>

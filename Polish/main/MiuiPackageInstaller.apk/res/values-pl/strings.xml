@@ -627,4 +627,17 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="risk_install_no_open">Wył.</string>
     <string name="verify_account_close_title">Wyłącz</string>
     <string name="verify_and_install">Zainstaluj</string>
+    <string name="isntall_failed_verification">"Nie udało się sprawdzić tego pliku APK. Aplikacja może nie być kompatybilna z obecną wersją systemu Android."</string>
+    <string name="isntall_failed_verification_resolve_uggestion">Spróbuj znaleźć odpowiednik aplikacji w sklepie</string>
+    <string name="server_error_msg">"Nie udało się połączyć z siecią w celu wykonania skanowania bezpieczeństwa"</string>
+    <string name="app_install_safe_check">Sprawdź aplikacje przed instalacją</string>
+    <string name="app_non_put_on_the_shelf">Not available</string>
+    <string name="app_safe_check_tip">Metoda weryfikacji dla instalacji aplikacji z wykrytymi zagrożeniami:</string>
+    <string name="install_abi_error">"Ra aplikacja nie jest kompatybilna z architekturą 32-bitową"</string>
+    <string name="install_abi_error_des">Zainstaluj 32-bitową wersję tej aplikacji</string>
+    <string name="install_abi_error_des_market">Pobierz 32-bitową wersję tej aplikacji ze sklepu</string>
+    <string name="open_app_install_safe_check">Sprawdź aplikacje przed instalacją</string>
+    <string name="open_app_install_safe_des">Sprawdź aplikacje pod kątem potencjalnych zagrożeń czy problemów z bezpieczeństwem przed ich instalacją</string>
+    <string name="risk_app">Wykryto zagrożenia</string>
+    <string name="risk_close_tip_des">"Jeśli wyłączysz tę funkcję, wszystkie aplikacje, które zainstalujesz, nie będą już sprawdzane pod kątem potencjalnych zagrożeń, a ryzykowne aplikacje będą instalowane bezpośrednio, bez Twojego potwierdzenia. Zweryfikujemy Twoją blokadę ekranu bądź odcisk palca, jeśli ustawiono je wcześniej."</string>
 </resources>

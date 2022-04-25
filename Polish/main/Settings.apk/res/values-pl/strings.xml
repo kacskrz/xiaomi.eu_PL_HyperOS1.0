@@ -10289,4 +10289,5 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="keep_screen_on_after_folding_on_summary">Nie wyłączaj zewnętrznego ekranu po złożeniu, aby kontynuować wykonywanie swoich zadań</string>
     <string name="keep_screen_on_after_folding_text">Nie wyłączaj zewnętrznego ekranu po złożeniu, aby kontynuować wykonywanie swoich zadań</string>
     <string name="keep_screen_on_after_folding_title">Nie wyłączaj ekranu po złożeniu</string>
+    <string name="handy_mode_hint">Tryb Jedna Dłoń jest dostępny wyłącznie na zewnętrznym ekranie</string>
 </resources>

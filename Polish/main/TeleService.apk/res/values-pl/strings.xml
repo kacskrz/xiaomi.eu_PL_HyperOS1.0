@@ -2010,4 +2010,24 @@ Nadal możesz wykonywać połączenia alarmowe."</string>
   <string name="HIPS_Perm_Read_Contact_Desc">Dostęp do Twoich kontaktów</string>
   <string name="preference_check_privacy">Wyświetl Politykę prywatności</string>
   <string name="privacy_setting">Prywatność</string>
+  <string name="wifi_call_preferred_summary">"Jeśli wybierzesz opcję preferowania sieci komórkowych, do połączeń domyślnie będą używane sieci komórkowe. Jeśli nie ma sygnału sieci komórkowej lub jest on bardzo słaby, zamiast niej będzie używana sieć Wi-Fi."</string>
+  <string name="more">Więcej</string>
+  <string name="disable_esim_dialog_summary">"Jeśli zdezaktywujesz teraz eSIM, zostanie aktywowana karta SIM %s.
+Zdezaktywować eSIM?"</string>
+  <string name="disable_esim_dialog_title">Dezaktywacja eSIM</string>
+  <string name="disable_esim_error_toast_message">"Nie udało się zdezaktywować eSIM"</string>
+  <string name="disable_esim_progress_activating_message">Dezaktywacja eSIM…</string>
+  <string name="enable_esim_dialog_summary">"Jeśli dokonasz aktywacji eSIM, karta SIM %s zostanie zdezaktywowana.
+Aktywować eSIM?"</string>
+  <string name="enable_esim_dialog_title">Aktywacja eSIM</string>
+  <string name="enable_esim_error_toast_message">"Nie udało się aktywować eSIM"</string>
+  <string name="enable_esim_progress_activating_message">Aktywacja eSIM…</string>
+  <string name="enable_esim_title">Użyj eSIM</string>
+  <string name="enter_esim_manager_title">Zarządzaj eSIM</string>
+  <string name="esim_inactive_notification_message_global">Nie wykryto karty SIM. Dotknij, aby aktywować eSIM</string>
+  <string name="esim_inactive_notification_title_global">Karty SIM i sieć mobilna</string>
+  <string name="esim_setting_title">Ustawienia eSIM</string>
+  <string name="no_active_esim_text">Nieaktywna karta eSIM</string>
+  <string name="set_esim_toast_phone_in_call">"Nie można wykonywać tej akcji w trakcie połączeń"</string>
+  <string name="switch_cancel_btn_text">Anuluj</string>
 </resources>
