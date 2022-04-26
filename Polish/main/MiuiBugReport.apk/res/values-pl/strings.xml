@@ -139,7 +139,7 @@
   <string name="feedback_probability_label">Prawdopodobieństwo</string>
   <string name="feedback_remind_login_btn">Zaloguj</string>
   <string name="feedback_report_remind_login_desc">Zaloguj się za pomocą konta Xiaomi, aby nasi programiści mogli się z tobą skontaktować.</string>
-  <string name="feedback_report_remind_login_desc2">Możesz także zobaczyć postęp swoich zgłoszeń w \"Moich raportach\".</string>
+  <string name="feedback_report_remind_login_desc2">Możesz także zobaczyć postęp swoich zgłoszeń w \"Moich opiniach\".</string>
   <string name="feedback_reproductivity_everytime">Za każdym razem</string>
   <string name="feedback_reproductivity_occasionally">Rzadko</string>
   <string name="feedback_reproductivity_often">Często</string>
@@ -186,7 +186,7 @@
   <string name="feedback_submit_hint">Zgłaszaj błędy za każdym razem, gdy napotkasz problem, pomoże to je szybciej rozwiązać.</string>
   <string name="feedback_submit_hint_gone">Zamknięta wiadomość</string>
   <string name="feedback_submit_hint1">Powiadomimy cię o postępach w zgłoszeniu</string>
-  <string name="feedback_submit_hint2">Przejdź do \"Moich raportów\", aby zobaczyć szczegóły</string>
+  <string name="feedback_submit_hint2">Przejdź do \"Moich opinii\", aby zobaczyć szczegóły</string>
   <string name="feedback_submit_succ">Przesłano poprawnie</string>
   <string name="feedback_submit_succ_button">Gotowe</string>
   <string name="feedback_submitting">Wysyłanie</string>
@@ -925,4 +925,8 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
   <string name="user_agreement_protocal_dialog_hint_default"><Data>"Potwierdzam, że przeczytano i zapoznano się z warunkami &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>, a także &lt;a href=\"%3$s\">Umową użytkownika&lt;/a> oraz &lt;a href=\"%4$s\">Polityką prywatności&lt;/a> Konta Xiaomi.</Data></string>
   <string name="user_name_phone_number">Numer telefonu</string>
   <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>Twoja opinia, wraz z załącznikami (jeśli zostały dodane), logi (odznacz elementy, których nie chcesz wysyłać) oraz numer telefonu lub e-mail (jeśli został dodany) zostaną przesłane na serwery MIUI. Logi mogą zawierać dane osobiste oraz dane o lokalizacji. Wybierając \"Zgadzam się\" potwierdzasz, że przeczytałeś i akceptujesz &lt;a href=\"%1$s\">Politykę Prywatności&lt;/a> i &lt;a href=\"%2$s\">Umowę Użytkownika&lt;/a> Xiaomi.&lt;/Data></string>
+  <string name="catch_full_log_dialog_content_pad">Może to wpłynąć na wydajność urządzenia. Jeśli nie potrafisz powtórzyć czynności, które wywołują błąd, wróć do logów i dotknij \"Anuluj\".</string>
+  <string name="catch_full_log_privacy_content_audio_pad">Generujesz logi i zapisujesz je na swoim urządzeniu. Logi mogą zawierać informacje o muzyce w twoim urządzeniu, w tym historii odtwarzania oraz nagrywania. Należy zachować ostrożność i nie ujawniać tych logów innym osobom. Dotykając \"Zgadzam się\" poniżej, wyrażasz zgodę na zbieranie powyższych danych podczas generowania logów, a następnie przesłanie ich na nasze serwery w celu zlokalizowania i rozwiązania problemów, które zgłosisz.</string>
+  <string name="catch_full_log_privacy_content_sensor_pad">Generujesz logi i zapisujesz je na swoim urządzeniu. Logi mogą zawierać informacje zebrane przez czujniki urządzenia (w tym czujnik światła, barometr, licznik kroków, magnetometr itd.). Należy zachować ostrożność i nie ujawniać tych logów innym osobom. Dotykając \"Zgadzam się\" poniżej, wyrażasz zgodę na zbieranie powyższych danych podczas generowania logów, a następnie przesłanie ich na nasze serwery w celu zlokalizowania i rozwiązania problemów, które zgłosisz.</string>
+  <string name="kr_authorization_phone_desc_pad">Do uzyskiwania dostępu do modelu urządzenia, IMEI i identyfikatora urządzenia w celu zlokalizowania i rozwiązania problemów</string>
 </resources>
