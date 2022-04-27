@@ -72,4 +72,9 @@
         <item>Domyślna</item>
         <item>Google</item>
     </string-array>
+    <string-array name="animation_rate_entries">
+        <item>Długa</item>
+        <item>Zbalansowana</item>
+        <item>Minimalna</item>
+    </string-array>
 </resources>

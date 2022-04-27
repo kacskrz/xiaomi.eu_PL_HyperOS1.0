@@ -2263,7 +2263,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="operation_pic_to_pdf">Utwórz PDF</string>
     <string name="photodetail_failed_already_exist">Ten plik już istnieje</string>
     <string name="photodetail_rename_failed">"Nie udało się zmienić nazwy"</string>
-    <string name="photodetail_rename_invalid">"Nazwy plików nie mogą zawierać znaków: /\\:*?&lt;&gt;|."</string>
+    <string name="photodetail_rename_invalid">"Nazwy plików nie mogą zawierać znaków: /\\:*?&lt;&gt;|.\""</string>
     <string name="photodetail_rename_success">Pomyślnie zmieniono nazwę</string>
     <string name="photodetail_rename_title">Zmień nazwę</string>
     <string name="photodetail_rename_too_long">Wprowadzona nazwa pliku jest za długa</string>
@@ -3152,4 +3152,8 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
   <string name="cloud_full_space_tip_title_completely">Brak miejsca w Chmurze</string>
   <string name="last_some_performance_title">Rzeczy, które widziałeś</string>
   <string name="operation_upgrade_gallery">Zaktualizuj</string>
+  <string name="create_album_failed_because_dup">Ten album już istnieje. Dodać do niego elementy?</string>
+  <string name="grant_permission_manage_storage">Wymagane uprawnienia</string>
+  <string name="grant_permission_manage_storage_unlock">Aby móc wyświetlić elementy, odblokuj urządzenie i zezwól tej aplikacji na dostęp do wszystkich plików.</string>
+  <string name="lenovo_phone">Telefon Lenovo</string>
 </resources>

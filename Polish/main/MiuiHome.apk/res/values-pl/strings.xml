@@ -906,4 +906,5 @@
   <string name="navigation_position_right">Po prawej</string>
   <string name="navigation_position_summary">Niestandardowe położenie przycisków nawigacji zostanie zastosowane tylko na Pulpicie</string>
   <string name="navigation_position_title">Pozycja przycisków nawigacyjnych</string>
+  <string name="animation_rate_title">Skala animacji</string>
 </resources>
