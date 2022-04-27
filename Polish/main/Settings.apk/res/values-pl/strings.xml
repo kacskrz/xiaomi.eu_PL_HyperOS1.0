@@ -2892,7 +2892,7 @@ Kopia zapasowa nie wlicza się do limitu miejsca na Dysku Google. Nie zostanie t
   <string name="gxzw_anim_rhythm">Rytm</string>
   <string name="gxzw_anim_star">Gwiazdy</string>
   <string name="gxzw_anim_title">Animacja odcisku palca</string>
-  <string name="gxzw_aod_show_summary">Podnieś urządzenie bądź dotknij ekranu, aby pojawiła się ikona odcisku palca. Włączenie tej funkcji zwiększy użycie baterii.</string>
+  <string name="gxzw_aod_show_summary">Podnieś urządzenie bądź dotknij ekranu, aby pojawiła się ikona odcisku palca. Włączenie tej funkcji zwiększy użycie baterii, lecz umożliwi Ci szybsze odblokowywanie urządzenia.</string>
   <string name="gxzw_aod_show_tittle">Pokaż ikonę odcisku palca</string>
   <string name="gxzw_dialog_message">"Czytnik linii papilarnych wbudowany w ekran działa najlepiej bez dodatkowej ochrony ekranu jak szkła hartowane czy folie. Jeśli nadal chcesz zabezpieczyć ekran, korzystaj tylko z najwyższej jakości akcesoriów."</string>
   <string name="gxzw_dialog_not_show_again">"Nie pokazuj ponownie"</string>
@@ -9980,8 +9980,7 @@ Naciśnij jednocześnie przyciski zasilania i zwiększania głośności."</strin
     <string name="blank_screen_no_record">Nie ma jeszcze rekordów</string>
     <string name="bluetooth_version">Wersja Bluetooth</string>
     <string name="bluetooth_version_message">Aktualiuj</string>
-    <string name="face_data_suggesstion_first_cn">"Aby móc używać Odblokowania twarzą, Xiaomi musi gromadzić dane twarzy na urządzeniu. Nie będą one nigdzie wysyłane. Aby je usunąć, wyszukaj \"Odblokowanie twarzą\" w Ustawieniach, a następnie wybierz opcję Odblokowanie twarzą > Dane twarzy.
-Odblokowanie twarzą jest mniej bezpieczne niż kod PIN, hasło bądź wzór. Urządzenie może być odblokowane za pomocą zdjęcia Twojej twarzy, a także przez osoby lub obiekty o podobnym wyglądzie."</string>
+    <string name="face_data_suggesstion_first_cn">"Aby móc używać Odblokowania twarzą, Xiaomi musi gromadzić dane twarzy na urządzeniu. Nie będą one nigdzie wysyłane. Aby je usunąć, wyszukaj Odblokowanie twarzą w Ustawieniach, a następnie wybierz opcję Odblokowanie twarzą > Dane twarzy."</string>
     <string name="finger_add_user_info_dialog_cancel">Anuluj</string>
     <string name="finger_add_user_info_dialog_message">"Aby móc używać odblokowania odciskiem palca i dokonywać nim płatności, Xiaomi musi gromadzić odcisk palca na urządzeniu. Nie będzie on nigdzie wysyłany. Aby go usunąć, wyszukaj \"Odblokowanie odciskiem palca\" w Ustawieniach, a następnie wybierz opcję Odblokowanie odciskiem palca > Odcisk palca. Jeśli nie zgodzisz się na gromadzenie odcisku palca na urządzeniu, nie będzie można korzystać z tej funkcji."</string>
     <string name="finger_add_user_info_dialog_next">Zgadzam się</string>
@@ -10290,4 +10289,8 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="keep_screen_on_after_folding_text">Nie wyłączaj zewnętrznego ekranu po złożeniu, aby kontynuować wykonywanie swoich zadań</string>
     <string name="keep_screen_on_after_folding_title">Nie wyłączaj ekranu po złożeniu</string>
     <string name="handy_mode_hint">Tryb Jedna Dłoń jest dostępny wyłącznie na zewnętrznym ekranie</string>
+    <string name="device_mall_card_title">Sprawdź możliwe korzyści</string>
+    <string name="face_data_suggesstion_first_cn_highlight">Odblokowanie twarzą jest mniej bezpieczne niż PIN, hasło czy wzór. Urządzenie może zostać odblokowane Twoim zdjęciem, a także przez podobne do Ciebie osoby bądź obiekty.</string>
+    <string name="new_fingerprint_to_new_face_dialog_msg">Aby móc korzystać z Odblokowywania twarzą, dodaj dane twarzy. Zrobić to teraz?</string>
+    <string name="new_fingerprint_to_new_face_dialog_tittle">Dodaj dane twarzy</string>
 </resources>
