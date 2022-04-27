@@ -1632,7 +1632,7 @@
      <string name="beauty_tip_download_fail">"Nie udało się pobrać. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
      <string name="beauty_tip_portrait_not_recognized">"Nie udało się rozpoznać portretu"</string>
      <string name="filter_portrait_bright_blue">Lazur</string>
-     <string name="filter_portrait_haruno">Haruno</string>
+     <string name="filter_portrait_haruno">Zawiązek</string>
      <string name="id_photo_module_face_detect_fail">"Nie udało się rozpoznać rysów twarzy. Sprawdź inny obraz."</string>
      <string name="portrait_improving_skin_luster">Zwiększanie blasku skóry…</string>
      <string name="portrait_improving_the_texture_of_the_whole_picture">Optymalizacja tekstur…</string>
@@ -1712,4 +1712,6 @@
      <string name="vlog_filter_leica_monochrom">Leica Monochrom.</string>
      <string name="vlog_filter_leica_monochrom_HC">Leica Monochrom. HC</string>
      <string name="vlog_filter_leica_natural">Leica Naturalny</string>
+     <string name="filter_popular_haruno">Rozkwit</string>
+     <string name="filter_popular_qing_summer">Zenit</string>
 </resources>
