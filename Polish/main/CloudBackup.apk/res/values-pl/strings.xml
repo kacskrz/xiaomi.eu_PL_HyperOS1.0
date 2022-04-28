@@ -415,9 +415,9 @@ Wymagane są uprawnienia."</string>
   <string name="session_starting_backup_text">Przygotowywanie do kopiowania. Potrwa to ok. %1$d-%2$d minut.</string>
   <string name="session_starting_restore_text">Przygotowywanie do przywracania. Potrwa to ok. %1$d-%2$d minut.</string>
   <string name="session_success_backup_data_size">Rozmiar kopii: %s</string>
-  <string name="session_success_backup_finish_time">Kopia ukończona w %s</string>
+  <string name="session_success_backup_finish_time">Kopia ukończona o %s</string>
   <string name="session_success_restore_data_size">Rozmiar pliku: %s</string>
-  <string name="session_success_restore_finish_time">Kopia przywrócona w %s</string>
+  <string name="session_success_restore_finish_time">Kopia przywrócona o %s</string>
   <string name="session_success_title_backup">Pomyślnie skopiowano</string>
   <string name="session_success_title_restore">Pomyślnie przywrócono</string>
   <string name="session_waiting_network">Oczekiwanie na sieć…</string>
