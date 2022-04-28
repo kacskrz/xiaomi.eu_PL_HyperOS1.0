@@ -802,4 +802,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="progressbar_title">Sprawdzanie pod kątem bezpieczeństwa…</string>
   <string name="system_error_info">System jest zajęty. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="unknown_error_info">Nieznany błąd</string>
+  <string name="login_notification_button_text">Zaloguj się</string>
+  <string name="login_notification_desc">Ciesz się usługami Chmury i innymi przydatnymi rzeczami</string>
+  <string name="login_notification_title">Zaloguj się na konto Xiaomi</string>
 </resources>

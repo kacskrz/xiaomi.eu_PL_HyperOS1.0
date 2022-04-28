@@ -694,7 +694,6 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="immediately_try">Skanuj</string>
   <string name="immediately_try_video">Skanuj</string>
   <string name="intelligent_participle">Słowa</string>
-  <string name="language_translate_entry_auto">Automatycznie</string>
   <string name="module_title_form">Tabela</string>
   <string name="module_title_new_document">Skanuj dokument</string>
   <string name="not_identification_form">"Nie udało się rozpoznać tabeli. Wybierz ponownie i rozpocznij od nowa."</string>
@@ -732,19 +731,10 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="scan_text">Skanuj tekst</string>
   <string name="scan_text_top_tip">Rozpoznawaj i kopiuj tekst</string>
   <string name="scan_translate_top_tip">Przetłumacz cały tekst ze zdjęcia</string>
-  <string name="screenshot_copy_text">Kopiuj tekst</string>
-  <string name="screenshot_save_image">Zapisz obraz</string>
-  <string name="screenshot_save_image_error">"Nie udało się zapisać obrazu"</string>
-  <string name="screenshot_save_image_success">Pomyślnie zapisano obraz</string>
-  <string name="screenshot_shared_image">Udostępnij obraz</string>
-  <string name="screenshot_translation_running">Tłumaczenie…</string>
   <string name="share_error">"Nie udało się udostępnić"</string>
   <string name="text_extraction_demo_dialog_title">Dotknij, aby rozpoznać i skopiować tekst</string>
   <string name="to_date">Dzisiaj</string>
-  <string name="translate_export">Eksportuj</string>
-  <string name="translate_long_screen">Przewijane tłumaczenie</string>
   <string name="use_presentation_file">Demonstracja</string>
-  <string name="view_origin_text">Oryginalny tekst</string>
   <string name="word_is_being_saved">Zapisywanie dokumentu Worda…</string>
   <string name="word_save_sucess">Pomyślnie zapisano dokument Worda</string>
 </resources>

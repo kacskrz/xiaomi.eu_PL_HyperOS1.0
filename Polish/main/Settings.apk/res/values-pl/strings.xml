@@ -10293,4 +10293,10 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="face_data_suggesstion_first_cn_highlight">Odblokowanie twarzą jest mniej bezpieczne niż PIN, hasło czy wzór. Urządzenie może zostać odblokowane Twoim zdjęciem, a także przez podobne do Ciebie osoby bądź obiekty.</string>
     <string name="new_fingerprint_to_new_face_dialog_msg">Aby móc korzystać z Odblokowywania twarzą, dodaj dane twarzy. Zrobić to teraz?</string>
     <string name="new_fingerprint_to_new_face_dialog_tittle">Dodaj dane twarzy</string>
+    <string name="miheadset_LEAudio_summary">"Gdy LE Audio jest włączone, niektóre funkcje nie będą dostępne."</string>
+    <string name="miheadset_LEAudio_title">Włączyć LE Audio?</string>
+    <string name="miheadset_LE_on_toast">Upewnij się, że obie słuchawki są naładowane, i wyjmij je z zestawu przed włączeniem tej funkcji</string>
+    <string name="miheadset_feedback_summary">Aby móc przesłać logi, umieść obie słuchawki w zestawie ładującym i nie zamykaj go.</string>
+    <string name="miheadset_feedback_title">Przesyłanie logów</string>
+    <string name="miheadset_singleear_toast">Niewspierane tylko dla jednej słuchawki</string>
 </resources>
