@@ -2085,8 +2085,9 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="edit_touch_up">Makijaż</string>
   <string name="pref_beauty_me_mp_switch_desc">Dostosuj efekty makijażu dla mężczyzn na zdjęciach grupowych</string>
   <string name="pref_beauty_me_mp_switch_title">Dostosuj efekty makijażu dla mężczyzn</string>
-  <string name="pref_beauty_nvs_wp_desc">Usuń pieprzyki, gdy wykorzystywane są efekty wygładzające skórę when skin smoothening effects are used</string>
+  <string name="pref_beauty_nvs_wp_desc">Usuń pieprzyki, gdy wykorzystywane są efekty wygładzające skórę</string>
   <string name="pref_beauty_nvs_wp_title">Usuń pieprzyki</string>
   <string name="pref_focus_view_bg_tip">Zablokowano AE/AF</string>
   <string name="camcorder_tip_super_night_video_4k_max_video_duration">W 4K możesz nagrać film o długości maks. %d minut</string>
+  <string name="pref_true_colour_video_mode_description">Wzbogać swoje filmy o niezwykłe szczegóły, oszałamiające kolory i uderzający kontrast</string>
 </resources>
