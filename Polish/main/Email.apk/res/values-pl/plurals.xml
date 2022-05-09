@@ -314,4 +314,9 @@
         <item quantity="one">%d nowe powiadomienie</item>
         <item quantity="few">%d nowe powiadomienia</item>
     </plurals>
+    <plurals name="email_filter_rule_max_tips">
+        <item quantity="one">Możesz dodać maks. %1$d warunek</item>
+        <item quantity="few">Możesz dodać maks. %1$d warunki</item>
+        <item quantity="other">Możesz dodać maks. %1$d warunków</item>
+    </plurals>
 </resources>
