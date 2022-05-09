@@ -2030,4 +2030,10 @@ Aktywować eSIM?"</string>
   <string name="no_active_esim_text">Nieaktywna karta eSIM</string>
   <string name="set_esim_toast_phone_in_call">"Nie można wykonywać tej akcji w trakcie połączeń"</string>
   <string name="switch_cancel_btn_text">Anuluj</string>
+  <string name="fiveg_nrca_switch_summary">Użyj agregacji pasm 5G dla lepszej łączności</string>
+  <string name="fiveg_nrca_switch_title">Agregacja pasm 5G</string>
+  <string name="nrca_switch_summary">Użyj agregacji pasm 5G dla lepszej łączności</string>
+  <string name="nrca_switch_title">Użyj NRCA</string>
+  <string name="unfold_show_bublle_pref_summary">Rozłóż urządzenie w trakcie połączeń, aby wyświetlić je w pływających oknach</string>
+  <string name="unfold_show_bublle_pref_title">Rozłóż, aby zminimalizować połączenia</string>
 </resources>

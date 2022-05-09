@@ -353,9 +353,9 @@ Możesz usunąć ten plik."</item>
         <item quantity="few">Wybrano %d aplikacje</item>
     </plurals>
     <plurals name="dc_item_summary_app_reset">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> aplikacji wykorzystuje dużo pamięci urządzenia&lt;/Data></item>
-        <item quantity="few">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> aplikacje wykorzystują dużo pamięci urządzenia&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> aplikacja wykorzystuje dużo pamięci urządzenia&lt;/Data></item>
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> aplikacji wykorzystuje dużo pamięci&lt;/Data></item>
+        <item quantity="few">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> aplikacje wykorzystują dużo pamięci&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> aplikacja wykorzystuje dużo pamięci&lt;/Data></item>
     </plurals>
     <plurals name="reset_app_selected_app">
         <item quantity="other">Wybrano %d aplikacji</item>

@@ -335,8 +335,8 @@
   <string name="turn_on_work_profile">Włącz</string>
   <string name="relaunch_dialog_alwaysUsePrompt">Zapamiętaj mój wybór</string>
   <string name="relaunch_dialog_button_cancel">Anuluj</string>
-  <string name="relaunch_dialog_button_confirm">OK</string>
-  <string name="relaunch_dialog_message">"Nie można dostosować rozmiaru okna, gdy korzystasz z aplikacji. Możesz ją zrestartować w celu zmiany rozmiaru, ale jej dane wygenerowane w trakcie tej sesji zostaną utracone. Zrestartować mimo to?"</string>
+  <string name="relaunch_dialog_button_confirm">Uruchom ponownie</string>
+  <string name="relaunch_dialog_message">"Rozmiar okna aplikacji można zmienić tylko po jej ponownym uruchomieniu. Jeśli zrobisz to teraz, niezapisane zmiany zostaną utracone. Zrestartować mimo to?"</string>
   <string name="relaunch_dialog_title">Zrestartować \"%s\"?</string>
   <string name="application_cannot_open_au_pay">Zainstaluj najpierw aplikację au PAY</string>
   <string name="miui_multiwindow_not_support_small_window">"%1$s nie wspiera pływających okien"</string>
@@ -493,15 +493,15 @@
   <string name="small_freeform_check_memory_exception_negative_message">Anuluj</string>
   <string name="small_freeform_check_memory_exception_positive_message">Zamknij</string>
   <string name="wallpaper_group_molten_glass_title">Stopione szkło</string>
-  <string name="app_continuity_channel_name">Działanie aplikacji</string>
-  <string name="relaunch_action">Uruchom ponownie aplikację</string>
-  <string name="relaunch_fold_notification_content">Ta aplikacja może nie wyświetlać się poprawnie po złożeniu telefonu. Aby móc ją normalnie wyświetlić, konieczne jest jej ponowne uruchomienie.</string>
-  <string name="relaunch_notification_title">Uruchom ponownie aplikację \"%s\"</string>
-  <string name="relaunch_unfold_notification_content">Ta aplikacja może nie wyświetlać się poprawnie po rozłożeniu telefonu. Aby móc ją normalnie wyświetlić, konieczne jest jej ponowne uruchomienie.</string>
-  <string name="sc_notification_warning_content">Układ aplikacji może nie wyświetlać się poprawnie w trybie pełnoekranowym. Możesz przywrócić poprzedni stan aplikacji bądź przejść do ustawień.</string>
+  <string name="app_continuity_channel_name">Dostosowania układu aplikacji</string>
+  <string name="relaunch_action">Uruchom ponownie</string>
+  <string name="relaunch_fold_notification_content">Ta aplikacja może nie wyświetlać się poprawnie na tym ekranie. Uruchom ją ponownie, aby dopasować układ.</string>
+  <string name="relaunch_notification_title">Uruchom ponownie \"%s\"</string>
+  <string name="relaunch_unfold_notification_content">Ta aplikacja może nie wyświetlać się poprawnie na tym ekranie. Uruchom ją ponownie, aby dopasować układ.</string>
+  <string name="sc_notification_warning_content">Jeśli aplikacja nie wyświetla się poprawnie, możesz przywrócić jej domyślny widok lub zmienić preferencje wyświetlania aplikacji w Ustawieniach.</string>
   <string name="sc_notification_warning_restore">Przywróć</string>
   <string name="sc_notification_warning_settings">Ustawienia</string>
-  <string name="sc_relaunch_dialog_message">"Aplikacja nie jest dostosowana do składanego ekranu. Jej przełączenie w tryb pełnoekranowy wymaga jej restartu. Czy chcesz to zrobić?"</string>
+  <string name="sc_relaunch_dialog_message">"Ta aplikacja może nie wyświetlać się poprawnie na tym ekranie. Uruchom ją ponownie, aby dopasować układ."</string>
   <string name="miui_landscape_compat_toast">"Ta aplikacja może nie działać poprawnie w orientacji poziomej. Zaleca się jej używanie pionowo."</string>
   <string name="tip_close_screen_phone">Przełącz się na tryb głośnomówiący lub złóż urządzenie, aby skorzystać z głośnika</string>
   <string name="tip_for_phone_and_camera">Złóż urządzenie, aby skorzystać z głośnika lub przedniego aparatu</string>
@@ -511,5 +511,6 @@
   <string name="dark_mode_suggest_message">Aby wygodniej przeglądać treści, możesz automatycznie włączać Ciemny motyw o zachodzie słońca</string>
   <string name="dark_mode_suggest_title">"Robi się ciemno"</string>
   <string name="dark_mode_suggest_toast">Ciemny motyw będzie od teraz włączany automatycznie o zachodzie i wyłączany o wschodzie słońca</string>
-  <string name="sc_notification_warning_title">Zmień tryb wyświetlania</string>
+  <string name="sc_notification_warning_title">Preferencje wyświetlania aplikacji</string>
+  <string name="unreplace_freeform_count_max">"Nie można otworzyć więcej pływających okien"</string>
 </resources>

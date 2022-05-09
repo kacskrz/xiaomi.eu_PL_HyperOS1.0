@@ -343,4 +343,5 @@ Szyszy protokół transmisji."</string>
     <string name="headset_incall_reject">Anuluj</string>
     <string name="headset_incall_summary">Odebrać połączenie na %1$s za pomocą słuchawek? Pozostaną one połączone z tym urządzeniem po zakończeniu rozmowy.</string>
     <string name="headset_incall_title">Odbierz połączenie za pomocą słuchawek</string>
+    <string name="fast_connect_connection_fail">"Nie udało się połączyć"</string>
 </resources>

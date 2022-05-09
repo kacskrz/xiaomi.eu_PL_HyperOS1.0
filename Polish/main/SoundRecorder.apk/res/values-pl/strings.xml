@@ -466,4 +466,6 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="this_folder">Użyj tego folderu</string>
   <string name="permission_read_phone_state">Dostęp do informacji o urządzeniu</string>
   <string name="permission_read_phone_state_description">W celu uzyskiwania dostępu do statusu połączeń po to, aby automatycznie zatrzymać nagrywanie podczas otrzymywania połączeń</string>
+  <string name="manage_external_storage">Dostęp do wszystkich plików</string>
+  <string name="sync_desc_state_complete">Zsynchronizowano z Chmurą: %1$s</string>
 </resources>
