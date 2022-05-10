@@ -10303,6 +10303,8 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Użyj protokołów P2P Bluetooth o wysokiej prędkości do przesyłania plików</string>
     <string name="fiveg_nrca_switch_summary">Popraw łączność 5G dla środowisk testowych</string>
     <string name="fiveg_nrca_switch_title">Agregacja pasm 5G</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Przeciągnij aplikację z paska bocznego do środka ekranu, aby otworzyć ją w pływającym oknie lub do krawędzi, aby użyć Dzielonego ekranu from the sidebar to the center of the screen to open it in a floating window or to the side to use Split screen</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Przeciągnij aplikację z paska bocznego do środka ekranu, aby otworzyć ją w pływającym oknie lub do krawędzi, aby użyć Dzielonego ekranu</string>
     <string name="nrca_switch_title">Użyj agregacji pasm 5G</string>
+    <string name="miheadset_same_account_incall">Odbieraj połączenia ze zsnychronizowanych urządzeń</string>
+    <string name="miheadset_same_account_incall_summary">Połącz słuchawki z innymi zsynchronizowanymi urządzeniami, aby odbierać przychodzące połączenia</string>
 </resources>

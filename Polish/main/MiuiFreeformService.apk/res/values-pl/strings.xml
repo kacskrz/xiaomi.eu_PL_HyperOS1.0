@@ -46,4 +46,5 @@
     <string name="multi_window_cvw_summary_global">Przeciągnij róg, aby włączyć pływające okno i dostosować jego rozmiar</string>
     <string name="freeform_guide_to_sidehide_summary">Szybko przeciągnij okno za pomocą paska akcji do rogu ekranu</string>
     <string name="freeform_guide_to_sidehide_title">Ukrywanie pływających okien</string>
+    <string name="freeform_guide_to_sidehide_summary_pad">Szybko przeciągnij aplikację do krawędzi ekranu, aby ją ukryć</string>
 </resources>
