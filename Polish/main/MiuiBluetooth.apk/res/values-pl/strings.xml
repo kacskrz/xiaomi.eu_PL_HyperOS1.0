@@ -344,4 +344,8 @@ Szyszy protokół transmisji."</string>
     <string name="headset_incall_summary">Odebrać połączenie na %1$s za pomocą słuchawek? Pozostaną one połączone z tym urządzeniem po zakończeniu rozmowy.</string>
     <string name="headset_incall_title">Odbierz połączenie za pomocą słuchawek</string>
     <string name="fast_connect_connection_fail">"Nie udało się połączyć"</string>
+    <string name="miheadset_spatial_audio_change_to_phone">Przełączono na dźwięk przestrzenny na tym urządzeniu</string>
+    <string name="miheadset_spatial_audio_headset">Słuchawki</string>
+    <string name="miheadset_spatial_audio_not_support_headset">"Dźwięk przestrzenny słuchawek nie jest kompatybilny z wielokanałowymi źródłami"</string>
+    <string name="miheadset_spatial_audio_phone">To urządzenie</string>
 </resources>

@@ -10307,4 +10307,12 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="nrca_switch_title">Użyj agregacji pasm 5G</string>
     <string name="miheadset_same_account_incall">Odbieraj połączenia ze zsnychronizowanych urządzeń</string>
     <string name="miheadset_same_account_incall_summary">Połącz słuchawki z innymi zsynchronizowanymi urządzeniami, aby odbierać przychodzące połączenia</string>
+    <string name="dialog_esim_button_negative">Anuluj</string>
+    <string name="dialog_esim_button_positive">OK</string>
+    <string name="dialog_softbank_esim_wipe_cancel">Zachowaj</string>
+    <string name="dialog_softbank_esim_wipe_info">"Wyczyścić wszystkie pobrane dane karty eSIM? Nie spowoduje to anulowania Twojej taryfy."</string>
+    <string name="dialog_softbank_esim_wipe_ok">Wyczyść</string>
+    <string name="dialog_softbank_esim_wipe_title">Wyczyść dane karty SIM</string>
+    <string name="dialog_softbank_esime_context">Aby móc aktywować kartę eSIM, urządzenie musi się połączyć z Internetem. Pominąć ten proces?</string>
+    <string name="dialog_softbank_esime_title">Pomiń aktywację karty eSIM</string>
 </resources>

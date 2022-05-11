@@ -5442,4 +5442,10 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="traffic_reminder_settings">Ustaw ostrzeżenie dot. zużycia danych</string>
     <string name="turn_off_auto_correction">Wyłączanie autom. synchronizacji</string>
     <string name="unknown_operator">"Możesz zadzwonić na numer %2$s, aby potwierdzić szczegóły planu u operatora %1$s."</string>
+    <string name="ew_sleep_mode_alert_content">"Aby upewnić się, że możesz otrzymywać ostrzeżenia przed trzęsieniem ziemi, MIUI wyłączy Tryb nocny. Gdy będziesz spać, aplikacje funkcjonujące w tle, a także NFC, Bluetooth, GPS, dane mobilne i Wi-Fi będą działać normalnie. Włączyć ostrzeżenia?"</string>
+    <string name="ew_sleep_mode_alert_title">Ostrzeżenie przed trzęsieniem ziemi</string>
+    <string name="storage_fbo_clear">Defragmentacja</string>
+    <string name="storage_fbo_des">"Pamięć wewnętrzna ulega fragmentacji, co może znacznie spowolnić działanie urządzenia. Defragmentacja jest wykonywana automatycznie, gdy nie korzystasz z urządzenia. Fizycznie organizuje ona pliki w jak najmniejszą liczbę fragmentów, zmniejszając opóźnienia."</string>
+    <string name="storage_fbo_number_tip">Złączono %1$s</string>
+    <string name="storage_fbo_tools">Optymalizacja pamięci</string>
 </resources>

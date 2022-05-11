@@ -324,7 +324,7 @@
   <string name="disable_nfc_reverse">Wyłączono NFC w trakcie bezprzewodowego ładowania zwrotnego</string>
   <string name="enable_nfc">Zakończono ładowanie. Włączono NFC z powrotem.</string>
   <string name="enable_nfc_reverse">Zakończono ładowanie zwrotne. Włączono NFC z powrotem.</string>
-  <string name="freeform_exchange_tip">Puść, aby otworzyć aplikację</string>
+  <string name="freeform_exchange_tip">Otwórz pływające okno w trybie pełnoekranowym</string>
   <string name="freeform_exchange_tip2">Przeciągnij do rogu, aby zakończyć</string>
   <string name="dock_tip_floatwindow">Przytrzymaj i przeciągnij pasek do krawędzi ekranu, aby wejść w tryb podzielonego ekranu.</string>
   <string name="dock_tip_splitscreen_landscape_drag">Przeciągnij pasek poziomo, aby zamienić miejscami obydwa okna aplikacji.</string>
@@ -513,4 +513,6 @@
   <string name="dark_mode_suggest_toast">Ciemny motyw będzie od teraz włączany automatycznie o zachodzie i wyłączany o wschodzie słońca</string>
   <string name="sc_notification_warning_title">Preferencje wyświetlania aplikacji</string>
   <string name="unreplace_freeform_count_max">"Nie można otworzyć więcej pływających okien"</string>
+  <string name="disable_nfc_haptic_reverse">Wyłączono NFC i wibrację dla funkcji bezprzewodowego ładowania zwrotnego</string>
+  <string name="enable_nfc_haptic_reverse">Zatrzymano ładowanie zwrotne. Ponownie włączono NFC i wibrację.</string>
 </resources>

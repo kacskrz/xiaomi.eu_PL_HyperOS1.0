@@ -461,4 +461,5 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="item_facerecognition">Odblokowanie twarzą</string>
     <string name="activate_esim_tips">"Nie udało się aktywować. Spróbuj ponownie."</string>
     <string name="preinstall_tips">Przygotowywanie…</string>
+    <string name="activating_esim_tips">Aktywacja…</string>
 </resources>

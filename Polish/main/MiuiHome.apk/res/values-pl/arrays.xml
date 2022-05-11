@@ -73,8 +73,8 @@
         <item>Google</item>
     </string-array>
     <string-array name="animation_rate_entries">
-        <item>Długa</item>
-        <item>Zbalansowana</item>
-        <item>Minimalna</item>
+        <item>Wolna</item>
+        <item>Normalna</item>
+        <item>Szybka</item>
     </string-array>
 </resources>

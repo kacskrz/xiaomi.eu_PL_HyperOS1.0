@@ -1174,4 +1174,9 @@ Zrób sobie przerwę!"</item>
         <item quantity="other">Automatycznie rejestruj kluczowe momenty rozgrywki i generuj filmy z najlepszymi zdarzeniami w danej sesji. Możesz zapisać je po każdej rozgrywce. Niezapisane filmy zostaną automatycznie usunięte po %1$d dniach.</item>
         <item quantity="one">Automatycznie rejestruj kluczowe momenty rozgrywki i generuj filmy z najlepszymi zdarzeniami w danej sesji. Możesz zapisać je po każdej rozgrywce. Niezapisane filmy zostaną automatycznie usunięte po %1$d dniu.</item>
     </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmentów</item>
+        <item quantity="few">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmenty</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragment</item>
+    </plurals>
 </resources>
