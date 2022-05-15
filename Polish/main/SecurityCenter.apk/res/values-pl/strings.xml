@@ -5008,7 +5008,7 @@ Twoje urządzenie jest teraz o %s szybsze."</string>
     <string name="auto_task_voice_dialog_alarm_title">Alarmy</string>
     <string name="auto_task_voice_dialog_call_title">Połączenia, powiadomienia, przypomnienia</string>
     <string name="auto_task_voice_dialog_media_title">Muzyka, gry, multimedia</string>
-    <string name="default_condition_summary">Np. \"Gdy poziom baterii niższy niż %s\"</string>
+    <string name="default_condition_summary">Np. \"Gdy poziom baterii niższy niż 20%\"</string>
     <string name="default_condition_title">Dodaj warunek</string>
     <string name="default_condition_title_continue">Dodaj warunek</string>
     <string name="default_result_summary">Np. \"Wyłącz Tryb samolotowy\"</string>
