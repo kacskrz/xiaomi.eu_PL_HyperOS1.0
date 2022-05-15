@@ -1486,7 +1486,6 @@
   <string name="slim_description_dialog_ok">Rozumiem</string>
   <string name="slim_description_dialog_slim_after">"Po: %d KB"</string>
   <string name="slim_description_dialog_slim_before">"Przed: %.2f MB"</string>
-  <string name="slim_dialog_message">Z Chmury zostaną pobrane zoptymalizowane zdjęcia zamiast oryginalnych</string>
   <string name="slim_exit_dialog_positive">Zatrzymaj</string>
   <string name="slim_exit_dialog_title">Zatrzymaj optymalizację</string>
   <string name="slim_introduce">Zamień zdjęcia i filmy w pełnej rozdzielczości na mniejsze po zsynchronizowaniu z Chmurą. Oryginalne zdjęcia będą zachowane w Chmurze. Pozwoli to odzyskać do 90% miejsca w pamięci urządzenia. Do działania funkcji wymagane jest konto Xiaomi.</string>
