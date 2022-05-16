@@ -10315,4 +10315,23 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="dialog_softbank_esim_wipe_title">Wyczyść dane karty SIM</string>
     <string name="dialog_softbank_esime_context">Aby móc aktywować kartę eSIM, urządzenie musi się połączyć z Internetem. Pominąć ten proces?</string>
     <string name="dialog_softbank_esime_title">Pomiń aktywację karty eSIM</string>
+    <string name="device_ime_keyboard_fold">Opcje klawiatury dla składanych urządzeń</string>
+    <string name="device_ime_keyboard_pad">Opcje klawiatury dla tabletów</string>
+    <string name="double_g_v">Duplikuj klawisze G i V</string>
+    <string name="double_g_v_sumary">Duplikuj centralne przyciski na ergonomicznej klawiaturze dla lepszej wygody</string>
+    <string name="fold_game_adaptation">Gry</string>
+    <string name="fold_screen_settings_title">Funkcje dla dużego ekranu</string>
+    <string name="imitate_real_keyboard">Tradycyjna klawiatura</string>
+    <string name="imitate_real_keyboard_summary">Wygodna, gdy urządzenie leży na płaskiej przestrzeni</string>
+    <string name="left_right_hand_switch">Zamiana części miejscami</string>
+    <string name="left_right_hand_switch_summary">Dotknij, aby zamienić miejscami lewą i prawą część klawiatury</string>
+    <string name="mishow_disable_password_setting">"Nie można ustawiać haseł w trybie demonstracyjnym"</string>
+    <string name="miui_lab_drive_mode_desc_new">Używaj kontroli głosem</string>
+    <string name="separate_keyboard">Ergonomiczna klawiatura</string>
+    <string name="separate_keyboard_summary_fold">Oddziel klawiaturę przegrodą na środku, aby wygodniej pisać, trzymając urządzenie obiema rękami</string>
+    <string name="separate_keyboard_summary_pad">Oddziel klawiaturę przegrodą na środku, aby pisanie było szybsze i wygodniejsze</string>
+    <string name="symbol_fast_input">Znaki specjalne</string>
+    <string name="symbol_fast_input_summary">Dotknij specjalnego przycisku, aby włączyć klawiaturę ze znakami specjalnymi i wprowadzać wiele symboli jednocześnie</string>
+    <string name="tablet_screen_settings_title">Funkcje dla tabletów</string>
+    <string name="wallpaper_setting_title">Tapeta</string>
 </resources>

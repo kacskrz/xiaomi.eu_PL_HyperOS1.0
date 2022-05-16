@@ -805,4 +805,11 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="login_notification_button_text">Zaloguj się</string>
   <string name="login_notification_desc">Ciesz się usługami Chmury i innymi przydatnymi rzeczami</string>
   <string name="login_notification_title">Zaloguj się na konto Xiaomi</string>
+  <string name="about_mi_account">O Koncie Xiaomi</string>
+  <string name="check_apk_update">Sprawdź aktualizacje</string>
+  <string name="find_new_apk_version">Dostępna aktualizacja</string>
+  <string name="has_no_new_version">Aktualna</string>
+  <string name="new_version">Nowa wersja</string>
+  <string name="update_apk_version_later">Nie teraz</string>
+  <string name="update_apk_version_now">Aktualizuj</string>
 </resources>

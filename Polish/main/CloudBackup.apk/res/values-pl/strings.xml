@@ -172,7 +172,7 @@ Info: dane zainstalowanych aplikacji nie będą zachowane w Chmurze."</string>
   <string name="miui_device_name">Android</string>
   <string name="msg_alert_cancel_restore">Trwa przywracanie kopii z Chmury. Przerwać proces?</string>
   <string name="msg_alert_restore_error">"Przywracanie z Chmury nieudane. Spróbuj ponownie."</string>
-  <string name="msg_restore_start_with_metered_network">"Pulpit uruchomi się ponownie, a aplikacje zostaną pobrane automatycznie. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;Zostanie pobrane %s plików.&lt;/font&gt;&lt;/b&gt;"</string>
+  <string name="msg_restore_start_with_metered_network">"Jeśli przywrócisz tę kopię, Pulpit zostanie zresetowany, a aplikacje zostaną automatycznie pobrane i zainstalowane. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;Rozmiar kopii: %s&lt;/font&gt;&lt;/b&gt;"</string>
   <string name="msg_restore_with_metered_network_hint">Jeśli przystąpisz do przywracania tych elementów, zostanie wykorzystana transmisja danych.</string>
   <string name="msg_restore_with_metered_network_pattern">"Zostanie pobrane &lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; plików."</string>
   <string name="name_model">%1$s %2$s</string>
