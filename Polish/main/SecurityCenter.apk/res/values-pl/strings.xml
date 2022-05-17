@@ -5448,4 +5448,26 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="storage_fbo_des">"Pamięć wewnętrzna ulega fragmentacji, co może znacznie spowolnić działanie urządzenia. Defragmentacja jest wykonywana automatycznie, gdy nie korzystasz z urządzenia. Fizycznie organizuje ona pliki w jak najmniejszą liczbę fragmentów, zmniejszając opóźnienia."</string>
     <string name="storage_fbo_number_tip">Złączono %1$s</string>
     <string name="storage_fbo_tools">Optymalizacja pamięci</string>
+    <string name="gb_game_fill_desc">W niektórych przypadkach treść może być zniekształcona</string>
+    <string name="gb_game_mode">Tryb wyświetlania</string>
+    <string name="gb_game_mode_change">Możesz się tu przełączać między różnymi trybami</string>
+    <string name="gb_game_mode_change_btn_right">Zrestartuj</string>
+    <string name="gb_game_mode_change_message">Uruchomić ponownie grę w celu zastosowania zmian?</string>
+    <string name="gb_game_mode_change_title">Zrestartowanie gry</string>
+    <string name="gb_game_mode_choose_game_area">Aktywny obszar</string>
+    <string name="gb_game_mode_choose_title">Wybierz tryb wyświetlania</string>
+    <string name="gb_game_mode_empty">Brak gier</string>
+    <string name="gb_game_mode_fill">Wypełnij ekran</string>
+    <string name="gb_game_mode_fill_type">Wypełnij ekran</string>
+    <string name="gb_game_mode_ratio">Oryginalnie</string>
+    <string name="gb_game_mode_ratio_type">Oryginalnie</string>
+    <string name="gb_game_mode_recommend">" (zalecane)"</string>
+    <string name="gb_game_mode_search">Wyszukaj aplikacje</string>
+    <string name="gb_game_ratio_bottom">Na dole</string>
+    <string name="gb_game_ratio_center">Pośrodku</string>
+    <string name="gb_game_ratio_desc_h">"Aktywny obszar nie zostanie przycięty, mogą się pojawiać czarne miejsca"</string>
+    <string name="gb_game_ratio_desc_v">"Aktywny obszar nie zostanie przycięty, mogą się pojawiać czarne miejsca"</string>
+    <string name="gb_game_ratio_left">Po lewej</string>
+    <string name="gb_game_ratio_right">Po prawej</string>
+    <string name="gb_game_ratio_top">Na górze</string>
 </resources>

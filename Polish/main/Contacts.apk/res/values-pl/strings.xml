@@ -1649,4 +1649,5 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="this_folder">Użyj tego folderu</string>
   <string name="privacy_settings_blue_scan_connect">Łączenie się z urządzeniami w pobliżu</string>
   <string name="toast_not_show_blue_scan_connect_perm_req">Zezwól tej funkcji na łączenie się z urządzeniami w pobliżu poprzez Bluetooth, aby móc importować kontakty z innych urządzeń.</string>
+  <string name="unshow_qr_code_in_narrow_screen_split">"Nie można wyświetlić kodów QR w trakcie korzystania z Dzielonego ekranu"</string>
 </resources>
