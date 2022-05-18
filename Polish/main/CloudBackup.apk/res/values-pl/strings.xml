@@ -310,7 +310,7 @@ Spróbuj ponownie"</string>
   <string name="btn_restore_cancel_app_app">"Nie przywracaj danych WeChata"</string>
   <string name="cloud_backup_detail_app_data">Wszystkie dane WeChata</string>
   <string name="cloud_backup_detail_app_data_summary">Włącznie z historiami czatów i plikami</string>
-  <string name="confirm_restore_app_data">Aplikacja WeChat jest zainstalowana na urządzeniu. Nie można rozpocząć przywracania danych.</string>
+  <string name="confirm_restore_app_data">Aplikacja WeChat jest już zainstalowana na urządzeniu. Nie można przywrócić jej danych.</string>
   <string name="confirm_restore_app_data_summary">Wygląda na to, że aplikacja WeChat wygenerowała już dane na tym urządzeniu. Nadpisać je danymi z kopii?</string>
   <string name="dialog_backup_failed">"Nie udało się wykonać kopii"</string>
   <string name="dialog_buy_cloud_space">Ulepsz</string>
@@ -379,7 +379,7 @@ Wymagane są uprawnienia."</string>
   <string name="restore_detail_category_apps_size">Rozmiar: %s</string>
   <string name="restore_detail_category_settings_size">Rozmiar: ＜%.1f GB</string>
   <string name="restore_file_empty">Brak kopii zapasowych</string>
-  <string name="restore_header_backup_size">Rozmiar：%s</string>
+  <string name="restore_header_backup_size">Rozmiar kopii：%s</string>
   <string name="restore_header_msg">"Przed przywróceniem danych WeChata upewnij się, że aplikacja WeChat nie jest zainstalowana na tym urządzeniu. W trakcie trwania procesu nie otwieraj WeChata i nie korzystaj z niego."</string>
   <string name="restore_header_title">Łączny rozmiar: %s</string>
   <string name="restore_header_title2">Kopii łącznie: %s</string>

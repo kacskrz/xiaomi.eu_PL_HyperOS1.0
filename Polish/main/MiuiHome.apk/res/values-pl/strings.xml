@@ -909,4 +909,8 @@
   <string name="animation_rate_title">Prędkość animacji</string>
   <string name="notification_channel_alerts">Alerty</string>
   <string name="open_pad_personal_assistant_settings">Widżety pulpitu</string>
+  <string name="fold_pair_install_shortcut_long_click">Przytrzymaj, aby dodać na pulpit</string>
+  <string name="fold_pair_installed_shortcut_launcher">Ten skrót już istnieje</string>
+  <string name="no_space_toast_fold">Brak miejsca</string>
+  <string name="add_to_workspace">Dodaj na pulpit</string>
 </resources>
