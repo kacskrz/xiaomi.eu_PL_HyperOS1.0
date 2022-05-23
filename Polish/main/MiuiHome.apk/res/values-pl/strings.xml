@@ -913,4 +913,5 @@
   <string name="fold_pair_installed_shortcut_launcher">Ten skrót już istnieje</string>
   <string name="no_space_toast_fold">Brak miejsca</string>
   <string name="add_to_workspace">Dodaj na pulpit</string>
+  <string name="recnets_worldcirculate_display_default_info_pad">Dotknij, aby przywrócić ją z powrotem.</string>
 </resources>

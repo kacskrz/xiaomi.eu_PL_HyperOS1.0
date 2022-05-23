@@ -124,7 +124,7 @@ Ostatnia kopia: %2$s"</string>
   <string name="find_device_error_password_changed">Hasło zostało ostatnio zmienione.</string>
   <string name="find_device_error_server">Błąd serwera</string>
   <string name="find_device_error_unknown">Nieznany błąd</string>
-  <string name="find_device_gdpr_prompt">Włączając Lokalizację urządzenia, zgadzasz się na warunki <a href="app://com.miui.cloudservice.gdpr.license"><u>Polityki prywatności</u></a> Xiaomi.</string>
+  <string name="find_device_gdpr_prompt">Włączając Lokalizację urządzenia, zgadzasz się na warunki <u><a href="app://com.miui.cloudservice.gdpr.license">Polityki prywatności</a></u> Xiaomi.</string>
   <string name="find_device_gdpr_prompt_policy_doc_name">\"Polityka Prywatności\"</string>
   <string name="find_device_notice_p1">Odwiedź</string>
   <string name="find_device_notice_p3">"aby zlokalizować, zablokować lub zresetować telefon.

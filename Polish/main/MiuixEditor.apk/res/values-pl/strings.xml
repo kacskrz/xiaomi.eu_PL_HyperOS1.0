@@ -12,4 +12,9 @@
     <string name="translation_more">Więcej</string>
     <string name="translation_query_error">"Nie znaleziono rezultatów"</string>
     <string name="translation_query_error_network">"Nie udało się uzyskać informacji. Sprawdź połączenie z Internetem i spróbuj ponownie."</string>
+    <string name="google_call">Połącz</string>
+    <string name="google_email">E-mail</string>
+    <string name="google_map">Mapy</string>
+    <string name="google_open">Otwórz</string>
+    <string name="google_translate">Tłumacz</string>
 </resources>

@@ -29,7 +29,7 @@
     <string name="miservice_notification_scan_title">Tłumacz w mgnieniu oka</string>
     <string name="miservice_notification_open_feedback_content">Wszystkie funkcje Opinii zostały przeniesione do nowej aplikacji</string>
     <string name="miservice_notification_open_feedback_title">Wprowadzenie do \"Usług i opinii\"</string>
-    <string name="miui_feedback_answer_detail_community">Możesz znaleźć odpowiedzi na swoje pytania na Mi Community</string>
+    <string name="miui_feedback_answer_detail_community">Możesz znaleźć odpowiedzi na swoje pytania na Xiaomi Community</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Tak</string>
     <string name="miui_feedback_answer_detail_feedback_result">Dziękujemy za twoją opinię!</string>
     <string name="miui_feedback_answer_detail_feedback_title">Czy ta informacja była pomocna?</string>

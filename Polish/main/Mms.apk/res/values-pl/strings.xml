@@ -288,9 +288,9 @@
   <string name="favorite_at_time">Polubione: %1s</string>
   <string name="fdn_check_failure">Wiadomości możesz wysyłać wyłącznie na swoje ustalone numery.</string>
   <string name="feature_mx">Wiadomości w Chmurze</string>
-  <string name="feature_mx_summary"><b>Wiadomości w Chmurze pozwalają Ci na wysyłanie wiadomości do innych użytkowników tej usługi przez Internet bez żadnych opłat.</b>. Do jej aktywacji może być wymagane wysłanie SMS-a, za którego operator może obciążyć Cię opłatą. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki <a href="http://url1"><font color="#B3000000">Umowy użytkownika</font></a> oraz <a href="http://url2"><font color="#B3000000">Polityki prywatności</font></a>.</string>
+  <string name="feature_mx_summary"><b>Wiadomości w Chmurze pozwalają Ci na wysyłanie wiadomości do innych użytkowników tej usługi przez Internet bez żadnych opłat.</b>. Do jej aktywacji może być wymagane wysłanie SMS-a, za którego operator może obciążyć Cię opłatą. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki <font color="#B3000000"><a href="http://url1">Umowy użytkownika</a></font> oraz <font color="#B3000000"><a href="http://url2">Polityki prywatności</a></font>.</string>
   <string name="feature_smart_sms">Inteligentne wiadomości</string>
-  <string name="feature_smart_sms_summary"><b>Inteligentne wiadomości dostarczają usługi takie jak rozpoznawanie ID nadawcy czy proste menu</b>". Usługa jest częściowo dostarczana przez Yulore. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki "<a href="http://url3"><font color="#B3000000">Polityki prywatności</font></a> firmy Yulore.</string>
+  <string name="feature_smart_sms_summary"><b>Inteligentne wiadomości dostarczają usługi takie jak rozpoznawanie ID nadawcy czy proste menu</b>". Usługa jest częściowo dostarczana przez Yulore. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki "<font color="#B3000000"><a href="http://url3">Polityki prywatności</a></font> firmy Yulore.</string>
   <string name="festival_sms_loading">Ładowanie…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Utworzono:</string>
@@ -1113,7 +1113,7 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
     <string name="banner_btn_open">Otwórz</string>
     <string name="default_google_message_promo_content">"Ustawiono aplikację Wiadomości od Google jako Twoją domyślną aplikację do SMS-ów. Dotknij przycisku \"Otwórz\", aby ją uruchomić."</string>
     <string name="enable_classify_tip_dialog_content">Ta opcja spowoduje ponowne uruchomienie aplikacji SMS.</string>
-    <string name="google_message_promo_content">Xiaomi zaleca zmianę aplikacji na Wiadomości od Google. Pozwala ona na wysyłanie wiadomości poprzez sieć Wi-Fi, udostępnianie multimediów w wysokiej jakości oraz więcej innych funkcji. <a href="https://support.google.com/messages/answer/6089066"><font color="#B3000000">Dowiedz się więcej</font></a>.</string>
+    <string name="google_message_promo_content">Xiaomi zaleca zmianę aplikacji na Wiadomości od Google. Pozwala ona na wysyłanie wiadomości poprzez sieć Wi-Fi, udostępnianie multimediów w wysokiej jakości oraz więcej innych funkcji. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Dowiedz się więcej</a></font>.</string>
     <string name="google_message_promo_title">Zmień aplikację do SMS-ów</string>
     <string name="installed_google_message_promo_content">Xiaomi zaleca zmianę aplikacji na Wiadomości od Google. Pozwala ona na wysyłanie wiadomości poprzez sieć Wi-Fi, udostępnianie multimediów w wysokiej jakości oraz więcej innych funkcji.</string>
     <string name="installed_google_message_promo_title">Zacznij korzystać z Wiadomości</string>

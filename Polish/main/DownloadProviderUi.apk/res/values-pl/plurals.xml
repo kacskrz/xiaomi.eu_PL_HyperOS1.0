@@ -6,9 +6,9 @@
 		<item quantity="few">Usunąć %d pobrania?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Pomyślnie usunięto %s pobrań</item>
-        <item quantity="one">Pomyślnie usunięto %s pobranie</item>
-		<item quantity="few">Pomyślnie usunięto %s pobrania</item>
+        <item quantity="other">Pomyślnie usunięto %1$d pobrań</item>
+        <item quantity="one">Pomyślnie usunięto %1$d pobranie</item>
+		<item quantity="few">Pomyślnie usunięto %1$d pobrania</item>
     </plurals>
    <plurals name="numberOfItemsAvailable">
         <item quantity="other">Usunąć %d elementów?</item>
@@ -42,9 +42,9 @@
         <item quantity="few">%1$d sekundy</item>
     </plurals>
     <plurals name="number_items">
-        <item quantity="other">%s elementów</item>
-        <item quantity="one">%s element</item>
-        <item quantity="few">%s elementy</item>
+        <item quantity="other">%1$d elementów</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="few">%1$d elementy</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">Godzinę temu</item>
