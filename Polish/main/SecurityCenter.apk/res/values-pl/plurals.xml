@@ -1184,4 +1184,12 @@ Zrób sobie przerwę!"</item>
         <item quantity="few">Pozostały %2$1.2f godz.</item>
         <item quantity="one">Pozostała %2$1.2f godz.</item>
     </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
 </resources>

@@ -914,4 +914,5 @@
   <string name="no_space_toast_fold">Brak miejsca</string>
   <string name="add_to_workspace">Dodaj na pulpit</string>
   <string name="recnets_worldcirculate_display_default_info_pad">Dotknij, aby przywrócić ją z powrotem.</string>
+  <string name="upgrade_remove_small_window_in_recents">Możesz używać paska bocznego do otwierania aplikacji w pływających oknach</string>
 </resources>

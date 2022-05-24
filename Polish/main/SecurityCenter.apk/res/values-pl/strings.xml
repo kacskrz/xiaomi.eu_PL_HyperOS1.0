@@ -5470,4 +5470,17 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="gb_game_ratio_left">Po lewej</string>
     <string name="gb_game_ratio_right">Po prawej</string>
     <string name="gb_game_ratio_top">Na górze</string>
+    <string name="gb_game_mode_change_new">Przełączaj się między układami</string>
+    <string name="gb_game_mode_choose_title_new">Wybierz układ</string>
+    <string name="gb_game_mode_new">Układy gier</string>
+    <string name="gb_predownload_dialog_cancel">Nie, dzięki</string>
+    <string name="gb_predownload_dialog_checked">"Nie wyświetlaj ponownie"</string>
+    <string name="gb_predownload_dialog_confirm">Włącz</string>
+    <string name="gb_predownload_dialog_message_china"><Data>"Urządzenie może automatycznie pobierać zaktualizowane treści dla tej gry po połączeniu się z siecią Wi-Fi i wyłączeniu ekranu. Dzięki temu będziesz mógł grać w grę w nowej wersji tuż po jej opublikowaniu.&lt;br>&lt;br>Przed skorzystaniem z tej funkcji przeczytaj i zaakceptuj &lt;a href=\"%1$s\">Stanowisko dot. aktualizacji w tle&lt;/a>."</Data></string>
+    <string name="gb_predownload_dialog_title">Dostępne aktualizacje w tle</string>
+    <string name="gb_predownload_message">"Zaktualizuj King of Glory, Game for Peace i inne kompatybilne gry w tle, gdy nie używasz urządzenia"</string>
+    <string name="gb_predownload_noti_message">"%2$1.2f GB zaktualizowanej zawartości znajduje się już na urządzeniu. Będzie można jej używać, gdy wydana zostanie nowa wersja gry."</string>
+    <string name="gb_predownload_noti_title">Pomyślnie zaktualizowano %s w tle</string>
+    <string name="gb_predownload_title">Aktualizacje w tle</string>
+    <string name="gb_smart_battery_surplus_new">Pozostało %1$s %2$s</string>
 </resources>

@@ -10320,7 +10320,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="double_g_v">Duplikuj klawisze G i V</string>
     <string name="double_g_v_sumary">Duplikuj centralne przyciski na ergonomicznej klawiaturze dla lepszej wygody</string>
     <string name="fold_game_adaptation">Gry</string>
-    <string name="fold_screen_settings_title">Funkcje dla dużego ekranu</string>
+    <string name="fold_screen_settings_title">Funkcje dla składanych urządzeń</string>
     <string name="imitate_real_keyboard">Tradycyjna klawiatura</string>
     <string name="imitate_real_keyboard_summary">Wygodna, gdy urządzenie leży na płaskiej przestrzeni</string>
     <string name="left_right_hand_switch">Zamiana części miejscami</string>
@@ -10333,7 +10333,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="symbol_fast_input">Znaki specjalne</string>
     <string name="symbol_fast_input_summary">Dotknij specjalnego przycisku, aby włączyć klawiaturę ze znakami specjalnymi i wprowadzać wiele symboli jednocześnie</string>
     <string name="tablet_screen_settings_title">Funkcje dla tabletów</string>
-    <string name="wallpaper_setting_title">Tapeta</string>
+    <string name="wallpaper_setting_title">Tapety dla składanych urządzeń</string>
     <string name="felica_wallet">Portfel FeliCa</string>
     <string name="felica_wallet_desc">Portfel FeliCa</string>
     <string name="mi_wallet">Portfel Mi</string>
@@ -10351,10 +10351,16 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="sim_wallet">Portfel SIM</string>
     <string name="sim_wallet_desc">Portfel SIM</string>
     <string name="google_assistant_guide_cancel">Anuluj</string>
-    <string name="google_assistant_guide_message">Możesz przytrzymać przycisk Zasilania %s sekundy, aby uruchomić Asystenta Google. Ustawić ten skrót?</string>
+    <string name="google_assistant_guide_message">Możesz przytrzymać przycisk Zasilania przez %s sekundy, aby uruchomić Asystenta Google. Ustawić ten skrót?</string>
     <string name="google_assistant_guide_ok">Ustaw</string>
     <string name="google_assistant_guide_tip">*Aby otworzyć menu wyłączania urządzenia, przytrzymaj przycisk Zasilania przez %s sekund.</string>
     <string name="google_assistant_guide_title">Asystent Google</string>
     <string name="miui_bubbles_notification">Dymki</string>
     <string name="miui_bubbles_notification_status_opened">Wł.</string>
+    <string name="fold_application_mode_name">Układy aplikacji</string>
+    <string name="fold_game_adaptation">Układy gier</string>
+    <string name="fold_screen_application_adaptation_title">Własne układy dla składanych urządzeń</string>
+    <string name="fold_screen_special_function_title">Funkcje dla składanych urządzeń</string>
+    <string name="tablet_screen_application_adaptation_title">Własne układy dla tabletów</string>
+    <string name="tablet_screen_special_function_title">Funkcje dla składanych tabletów</string>
 </resources>

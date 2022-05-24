@@ -504,4 +504,7 @@ może znajdować się w oddzielnej aplikacji"</string>
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="alwaysUsePrompt">Zapamiętaj mój wybór</string>
+  <string name="xspace_head">Sklonowana aplikacja</string>
+  <string name="xspace_resolver_activity_title">Wybierz aplikację</string>
 </resources>
