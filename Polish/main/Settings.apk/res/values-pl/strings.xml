@@ -10319,7 +10319,6 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="device_ime_keyboard_pad">Opcje klawiatury dla tabletów</string>
     <string name="double_g_v">Duplikuj klawisze G i V</string>
     <string name="double_g_v_sumary">Duplikuj centralne przyciski na ergonomicznej klawiaturze dla lepszej wygody</string>
-    <string name="fold_game_adaptation">Gry</string>
     <string name="fold_screen_settings_title">Funkcje dla składanych urządzeń</string>
     <string name="imitate_real_keyboard">Tradycyjna klawiatura</string>
     <string name="imitate_real_keyboard_summary">Wygodna, gdy urządzenie leży na płaskiej przestrzeni</string>
