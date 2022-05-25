@@ -919,4 +919,7 @@ Może to generować dodatkowe opłaty."</string>
   <string name="lks_set_as_lks_wallpaper">Ustaw na Ekranie blokady</string>
   <string name="lks_to_history">Historia</string>
   <string name="lks_to_setting">Ustawienia Tapet Blokady</string>
+  <string name="detail_recomm_excellent">Wyróżnione</string>
+  <string name="detail_recomm_personal">Zalecane</string>
+  <string name="main_fragment_title_home_excellent">Wyróżnione</string>
 </resources>

@@ -28,8 +28,8 @@
   <string name="address">"Adres: "</string>
   <string name="agree_app_use">Skanowanie kodów QR i innych obrazów (część funkcji może wymagać dostępu do lokalizacji)</string>
   <string name="agree_btn">Zezwól</string>
-  <string name="agree_camera_permission">W celu wykonywania zdjęć i nagrywania filmów</string>
-  <string name="agree_storage_permission">W celu dostępu do zdjęć i plików na urządzeniu</string>
+  <string name="agree_camera_permission">W celu używania aparatu do skanowania elementów</string>
+  <string name="agree_storage_permission">W celu uzyskiwania dostępu do obrazów Galerii i ich importowania, a także zapisywania plików</string>
   <string name="allow_check_website_security">Pokaż powiadomienia o bezpieczeństwie witryn</string>
   <string name="always">Zawsze</string>
   <string name="amazon_assistant_shopping_title">Wyszukaj na Amazonie</string> 
@@ -737,4 +737,9 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="use_presentation_file">Demonstracja</string>
   <string name="word_is_being_saved">Zapisywanie dokumentu Worda…</string>
   <string name="word_save_sucess">Pomyślnie zapisano dokument Worda</string>
+  <string name="agree_camera_permission_message">W celu używania aparatu do skanowania elementów</string>
+  <string name="agree_storage_permission_message">W celu uzyskiwania dostępu do obrazów Galerii i ich importowania, a także zapisywania plików</string>
+  <string name="come_back_picture">Wstecz</string>
+  <string name="toast_net_2g">Słaby zasięg sieci. Zmień ją i spróbuj ponownie.</string>
+  <string name="toast_net_timeout">Przekroczono czas trwania żądania. Spróbuj ponownie później.</string>
 </resources>

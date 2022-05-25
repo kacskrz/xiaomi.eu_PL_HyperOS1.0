@@ -3155,4 +3155,36 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
   <string name="grant_permission_manage_storage">Wymagane uprawnienia</string>
   <string name="grant_permission_manage_storage_unlock">Aby móc wyświetlić elementy, odblokuj urządzenie i zezwól tej aplikacji na dostęp do wszystkich plików.</string>
   <string name="lenovo_phone">Telefon Lenovo</string>
+  <string name="all_story_empty_desc">Brak wspomnień</string>
+  <string name="all_story_empty_tip">"Brak wspomnień.
+Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
+  <string name="all_story_title">Wszystkie wspomnienia</string>
+  <string name="download_library_dialog_message">Galeria wymaga szablonów, aby móc tworzyć wspomnienia na tym urządzeniu. Do ich pobrania zalecane jest połączenie z siecią Wi-Fi.</string>
+  <string name="download_library_dialog_title">Pobieranie szablonów</string>
+  <string name="empty_tip_btn">Zrób zdjęcie</string>
+  <string name="home_page_empty_action_new">Importuj ze starego urządzenia</string>
+  <string name="is_in_ocr">Rozpoznawanie…</string>
+  <string name="ocr_aiasst_version">Najpierw zaktualizuj Mi AI</string>
+  <string name="ocr_extract">Wyodrębnij</string>
+  <string name="ocr_text_copied_selected">Pomyślnie skopiowano</string>
+  <string name="ocr_translation">Tłumacz</string>
+  <string name="story_guide_tip_download_btn">Pobierz</string>
+  <string name="story_guide_tip_download_desc">Pobierz szablony dla swoich wspomnień</string>
+  <string name="story_guide_tip_download_title">Pobierz szablony</string>
+  <string name="story_guide_tip_generate_btn">Rozpocznij</string>
+  <string name="story_guide_tip_generate_desc">Zrób zdjęcia. Podłącz ładowarkę. Zablokuj ekran.</string>
+  <string name="story_guide_tip_generate_title">Wygeneruj wspomnienia</string>
+  <string name="story_guide_tip_open_btn">Włącz</string>
+  <string name="story_guide_tip_open_desc">Przeżyj te chwile jeszcze raz</string>
+  <string name="story_guide_tip_open_title">Wspomnienia</string>
+  <string name="story_guide_tip_revisit_btn">Rozpocznij</string>
+  <string name="story_guide_tip_revisit_desc">Zrób zdjęcia. Podłącz ładowarkę. Zablokuj ekran.</string>
+  <string name="story_guide_tip_revisit_title">Przeżyj te chwile jeszcze raz</string>
+  <string name="str_scan_form">Rozpoznaj tabelę</string>
+  <string name="text_recognition">Rozpoznaj tekst</string>
+  <string name="today_of_year">Tego dnia</string>
+  <string name="today_of_year_empty_tip">Brak wspomnień</string>
+  <string name="today_of_year_location_num">Lokalizacje</string>
+  <string name="today_of_year_photo_num">Zdjęcia</string>
+  <string name="widget_disable">"Widżety tego rozmiaru nie są wspierane przez te urządzenie"</string>
 </resources>

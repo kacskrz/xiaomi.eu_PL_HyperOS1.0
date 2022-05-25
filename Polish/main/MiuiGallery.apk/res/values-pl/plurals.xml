@@ -700,4 +700,9 @@
         <item quantity="one">%d sek.</item>
         <item quantity="other">%d sek.</item>
     </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="one">%d wspomnienie</item>
+        <item quantity="few">%d wspomnienia</item>
+        <item quantity="other">%d wspomnień</item>
+    </plurals>
 </resources>
