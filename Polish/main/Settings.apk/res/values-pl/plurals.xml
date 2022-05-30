@@ -770,4 +770,30 @@ Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się z administrat
     <plurals name="search_application_count">
         <item quantity="other">Wyszukaj aplikacje</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Maks. %d procesów</item>
+        <item quantity="few">Maks. %d procesy</item>
+        <item quantity="one">Maks. %d proces</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Po %d min</item>
+        <item quantity="one">Po %d min.</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bitów/próbkę</item>
+        <item quantity="few">%d bity/próbkę</item>
+        <item quantity="one">%d bit/próbkę</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d sek.</item>
+        <item quantity="one">%d sek.</item>
+    </plurals>
 </resources>

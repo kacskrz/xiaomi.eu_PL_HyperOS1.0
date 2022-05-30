@@ -576,8 +576,8 @@ Wystarczy zetknąć urządzenia ze sobą (najlepiej tyłem) i dotknąć ekranu. 
   <string name="auto_caps">Wstawiaj wielkie litery</string>
   <string name="auto_caps_summary">Zaczynaj zdania wielką literą</string>
   <string name="auto_clean_description">"O tej funkcji:
-1. Uruchom to narzędzie raz lub dwa razy, jeśli Twój głośnik jest zablokowany przez kurz bądź pył.
-2. Jeśli głośnik jest zablokowany mocniej, uruchom to narzędzie od %1$d do %2$d razy, potrząsając urządzeniem z głośnikiem skierowanym w dół."</string>
+%3$d. Uruchom to narzędzie raz lub dwa razy, jeśli Twój głośnik jest zablokowany przez kurz bądź pył.
+%4$d. Jeśli głośnik jest zablokowany mocniej, uruchom to narzędzie od %1$d do %2$d razy, potrząsając urządzeniem z głośnikiem skierowanym w dół."</string>
   <string name="auto_clean_summary">Odtwórz 30-sekundowy dźwięk, aby wyczyścić głośnik</string>
   <string name="auto_clean_title">Wyczyść głośnik</string>
   <string name="auto_disable_screenbuttons_ask">Pytaj</string>
@@ -10167,7 +10167,7 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Zrównoważona jakość dźwięku i połączenia (%1$d kb/s / %2$d kb/s)</string>
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">Optymalizacja pod kątem jakości połączenia (%1$d kb/s / %2$d kb/s)</string>
     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">Optymalna (adaptacyjna szybkość transmisji bitów)</string>
-    <string name="force_msaa_new">Wymuś %dx MSAA</string>
+    <string name="force_msaa_new">Wymuś 4x MSAA</string>
     <string name="force_msaa_summary_new">Włącz %2$dx MSAA w aplikacjach używających OpenGL ES %1$.1f</string>
     <string name="max_number_of_processes">Maks. %d procesów</string>
     <string name="no_background_processes">Brak procesów w tle</string>
@@ -10361,6 +10361,28 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="fold_screen_application_adaptation_title">Własne układy dla składanych urządzeń</string>
     <string name="fold_screen_special_function_title">Funkcje dla składanych urządzeń</string>
     <string name="tablet_screen_application_adaptation_title">Własne układy dla tabletów</string>
-    <string name="tablet_screen_special_function_title">Funkcje dla składanych tabletów</string>
+    <string name="tablet_screen_special_function_title">Funkcje dla tabletów</string>
     <string name="nrca_need_reset">Aby zastosować zmiany, uruchom ponownie urządzenie</string>
+    <string name="access_denied_info">Zbyt wiele prób. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="bt_leaudio_cg_dialog_summary">"Po włączeniu tej funkcji niektóre opcje staną się niedostępne. Nie wspiera ona również łączenia wielu urządzeń z Twoimi słuchawkami. Jeśli połączono się już z dwoma różnymi urządzeniami, rozłącz się najpierw z jednym z nich. Włączyć LC3?"</string>
+    <string name="bt_leaudio_support_multi_dialog_summary">"Po włączeniu tej funkcji niektóre opcje staną się niedostępne. Włączyć LC3?"</string>
+    <string name="collect_diagnosis_log">Zbierz logi diagnostyczne</string>
+    <string name="dark_mode_alert_dialog_cancel">Anuluj</string>
+    <string name="dark_mode_alert_dialog_checkbox">"Nie wyświetlaj ponownie"</string>
+    <string name="dark_mode_alert_dialog_confirm">Włącz</string>
+    <string name="dark_mode_alert_dialog_message">Ta aplikacja może nie wyświetlać się poprawnie w Ciemnym motywie. Włączyć dla niej ten tryb mimo to?</string>
+    <string name="dark_mode_alert_dialog_title">Uwaga</string>
+    <string name="diagnosis_log_send_failed">Nie udało się przesłać logów.</string>
+    <string name="diagnosis_log_sent_format">"Logi zostały pomyślnie przesłane.
+ID: %s
+Wyślij ten kod pracownikowi wsparcia technicznego."</string>
+    <string name="for_diagnosis_usage_only">Wykorzystaj te dane tylko w celach diagnostycznych.</string>
+    <string name="force_msaa_prefrence_summary_new">Włącz 4x MSAA w aplikacjach z OpenGL ES %1$.1f</string>
+    <string name="network_error_info">Wystąpił błąd sieci. Sprawdź swoje ustawienia i spróbuj ponownie.</string>
+    <string name="network_timeout_info">"Nie udało się połączyć z siecią. Spróbuj ponownie."</string>
+    <string name="progressbar_title">Sprawdzanie kwestii bezpieczeństwa…</string>
+    <string name="send_diagnosis_log">Prześlij log diagnostyczne</string>
+    <string name="sending">Wysyłanie…</string>
+    <string name="system_error_info">System jest zajęty. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="unknown_error_info">Nieznany błąd</string>
 </resources>
