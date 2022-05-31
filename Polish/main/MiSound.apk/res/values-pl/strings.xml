@@ -35,7 +35,7 @@
   <string name="eq_return">Return</string>
   <string name="equalizer">Equalizer</string>
   <string name="first_note">Sprawdź swoją percepcję słuchową, aby odpowiednio dostosować głośność.</string>
-  <string name="four_note">Test zostanie ukończony w ciągu 3 minut.</string>
+  <string name="four_note">Test zostanie ukończony w ciągu %d minut.</string>
   <string name="heard_no">Nie</string>
   <string name="heard_yes">Tak</string>
   <string name="hearing_of_left_ear">Lewe ucho</string>
@@ -54,7 +54,7 @@
   <string name="music_audio_effect_settings">Efekty dźwiękowe</string>
   <string name="music_audio_visual_wake_lock">Nie usypiaj ekranu</string>
   <string name="music_audio_visual_wake_lock_summary">"Nie wyłączaj ekranu, kiedy wyświetlane są efekty wizualne"</string>
-  <string name="music_below_thirty_years">Do 30 lat</string>
+  <string name="music_below_thirty_years">Do %d lat</string>
   <string name="music_customized_sound_summary">Dostosuj głośność dźwięku do swoich percepcji słuchowych</string>
   <string name="music_customized_sound_title">Dostosuj głośność</string>
   <string name="music_delete">Usuń</string>
@@ -141,10 +141,10 @@
   <string name="music_sound_num">Własny efekt %s</string>
   <string name="music_sound_sample">Efekty systemowe</string>
   <string name="music_sure_to_delete_sound_msg">Usunąć wybrane efekty?</string>
-  <string name="music_thirty_to_sixty_years">Od 30 do 60 lat</string>
+  <string name="music_thirty_to_sixty_years" formatted="false">Od %d do %d lat</string>
   <string name="music_title_dolby_control">Dźwięk Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">Niewspierany zestaw słuchawkowy USB</string>
-  <string name="music_upper_sixty_years">Więcej niż 60 lat</string>
+  <string name="music_upper_sixty_years">Więcej niż %d lat</string>
   <string name="name">Nazwa</string>
   <string name="now_here">A teraz?</string>
   <string name="original_sound">Odtwórz oryginalny dźwięk</string>

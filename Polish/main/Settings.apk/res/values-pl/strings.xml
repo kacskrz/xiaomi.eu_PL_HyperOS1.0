@@ -10385,4 +10385,5 @@ Wyślij ten kod pracownikowi wsparcia technicznego."</string>
     <string name="sending">Wysyłanie…</string>
     <string name="system_error_info">System jest zajęty. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="unknown_error_info">Nieznany błąd</string>
+    <string name="control_center_force_use_panel_guide_text">Pociągnij pasek statusu z lewej strony, aby wyświetlić powiadomienia bądź z prawej strony, aby otworzyć Centrum funkcji. Możesz się pomiędzy nimi przełączać, przeciągając w lewo bądź w prawo.</string>
 </resources>

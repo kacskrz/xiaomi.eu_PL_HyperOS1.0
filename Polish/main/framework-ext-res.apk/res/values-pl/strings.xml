@@ -515,4 +515,5 @@
   <string name="unreplace_freeform_count_max">"Nie można otworzyć więcej pływających okien"</string>
   <string name="disable_nfc_haptic_reverse">Wyłączono NFC i wibrację dla funkcji bezprzewodowego ładowania zwrotnego</string>
   <string name="enable_nfc_haptic_reverse">Zatrzymano ładowanie zwrotne. Ponownie włączono NFC i wibrację.</string>
+  <string name="kb_reset_toast">Pomyślnie zresetowano klawiaturę</string>
 </resources>

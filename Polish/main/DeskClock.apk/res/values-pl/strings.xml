@@ -554,4 +554,12 @@
   <string name="timer_desc_use_sleep">Drzemka</string>
   <string name="timer_item_edit">Edytuj</string>
   <string name="white_noise_guide_desc">Dodaj dźwięk w tle, aby się skupić</string>
+  <string name="add_new_sound">Dodaj dzwonek</string>
+  <string name="confirm_remove_custom_ringtone">Jeśli usuniesz ten dzwonek, alarmy i minutniki korzystające z niego będą odtwarzać domyślny dzwonek. Usunąć?</string>
+  <string name="custom_ringtone_lost_permissions">"Nie udało się uzyskać dostępu do tego dźwięku."</string>
+  <string name="device_sounds">Dźwięki z urządzenia</string>
+  <string name="unknown_ringtone_title">Nieznany</string>
+  <string name="white_noise_not_selected">Nie wybrano</string>
+  <string name="white_noise_selected">Wybrano</string>
+  <string name="your_sounds">Moje dźwięki</string>
 </resources>
