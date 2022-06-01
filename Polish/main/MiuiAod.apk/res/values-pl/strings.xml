@@ -271,4 +271,8 @@ dd.MM"</string>
     <string name="notification_channel_alerts">Alerty</string>
     <string name="temporary_style_5">Przez 5 sekund po dotknięciu</string>
     <string name="theme_manager_other">Więcej elementów</string>
+    <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

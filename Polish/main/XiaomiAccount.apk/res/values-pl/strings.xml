@@ -813,4 +813,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="update_apk_version_later">Nie teraz</string>
   <string name="update_apk_version_now">Aktualizuj</string>
   <string name="auto_fill_not_sport_on_water_mark_version">"Logowanie przez autouzupełnianie nie jest wspierane na wersji ze znakiem wodnym"</string>
+  <string name="phone_register">Użyj numeru telefonu</string>
 </resources>

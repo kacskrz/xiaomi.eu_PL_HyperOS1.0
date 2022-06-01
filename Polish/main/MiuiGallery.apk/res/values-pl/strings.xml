@@ -3187,4 +3187,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
   <string name="today_of_year_location_num">Lokalizacje</string>
   <string name="today_of_year_photo_num">Zdjęcia</string>
   <string name="widget_disable">"Widżety tego rozmiaru nie są wspierane przez te urządzenie"</string>
+  <string name="feedback_my_reports">Opinia</string>
+  <string name="feedback_problem">Zgłoś problem</string>
+  <string name="feedback_suggest">Prześlij sugestię</string>
 </resources>
