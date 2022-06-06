@@ -1535,4 +1535,24 @@ Dotknij, aby go wyłączyć."</string>
     <string name="exo_download_paused">Wstrzymane pobierania</string>
     <string name="exo_download_paused_for_network">Pobierania oczekujące na sieć</string>
     <string name="exo_download_paused_for_wifi">Pobierania oczekujące na Wi-Fi</string>
+    <string name="ad_close">Zamknięto tę reklamę</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">Ta tapeta zostanie zastosowana do obu Ekranów blokady i Pulpitów (zarówno wewnętrznych, jak i zewnętrznych).</string>
+    <string name="close_custom_permission_warning_text_above_eleven">"Aplikacja nie będzie mogła personalizować Twojego urządzenia bez uprawnień dostępu do pamięci. Wyłączyć mimo to?"</string>
+    <string name="custom_storage_permission_desc_above_eleven">Aby móc zmieniać preferencje dot. personalizacji, zezwól aplikacji na dostęp do pamięci. Możesz to uczynić w Ustawieniach.</string>
+    <string name="custom_widget">Zalecane widżety</string>
+    <string name="fold_sensor_video_wallpaper_group">Dynamiczne tapety dla składanych urządzeń</string>
+    <string name="privacy_phone_read_and_write_storage_above_eleven">Dostęp do pamięci</string>
+    <string name="resource_search_history">Historia wyszukiwania</string>
+    <string name="set_calling">Ustaw</string>
+    <string name="system_cta_runtime_perm_desc_storage_above_eleven">W celu zmieniania preferencji dot. personalizacji</string>
+    <string name="toast_both_all_apply_failured">"Nie udało się zastosować na Pulpicie lub Ekranie blokady"</string>
+    <string name="toast_both_all_apply_success">Pomyślnie zastosowano na Pulpicie i Ekranie blokady</string>
+    <string name="toast_home_apply_failured">"Nie udało się zastosować na Pulpicie"</string>
+    <string name="toast_home_apply_success">Pomyślnie zastosowano na Pulpicie</string>
+    <string name="toast_lockscreen_apply_failured">"Nie udało się zastosować na Ekranie blokady"</string>
+    <string name="toast_lockscreen_apply_failured_but_home_apply_success">"Pomyślnie zastosowano na Pulpicie. Nie udało się zastosować na Ekranie blokady."</string>
+    <string name="toast_lockscreen_apply_success">Pomyślnie zastosowano na Ekranie blokady</string>
+    <string name="toast_lockscreen_apply_success_but_home_apply_failured">"Pomyślnie zastosowano na Ekranie blokady. Nie udało się zastosować na Pulpicie."</string>
+    <string name="toast_transparent_wallpaper_filter_set_failured">"Nie udało się zastosować"</string>
+    <string name="toast_transparent_wallpaper_filter_set_successfully">Pomyślnie zastosowano</string>
 </resources>

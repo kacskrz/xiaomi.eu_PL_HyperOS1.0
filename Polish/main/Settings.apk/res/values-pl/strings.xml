@@ -10386,4 +10386,6 @@ Wyślij ten kod pracownikowi wsparcia technicznego."</string>
     <string name="system_error_info">System jest zajęty. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="unknown_error_info">Nieznany błąd</string>
     <string name="control_center_force_use_panel_guide_text">Pociągnij pasek statusu z lewej strony, aby wyświetlić powiadomienia bądź z prawej strony, aby otworzyć Centrum funkcji. Możesz się pomiędzy nimi przełączać, przeciągając w lewo bądź w prawo.</string>
+    <string name="bluetooth_hd_music_play_summary">"Odtwarzaj dźwięk %d kHz na urządzeniach Bluetooth bez zmniejszania częstotliwości próbkowania. Gdy ta funkcja jest włączona, nie będą dostępne efekty Dolby."</string>
+    <string name="bluetooth_hd_music_play_title">Odtwarzaj dźwięk %d kHz</string>
 </resources>

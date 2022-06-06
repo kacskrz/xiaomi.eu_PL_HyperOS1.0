@@ -439,4 +439,5 @@ Dotknij opcji \"%1$s\", a następnie wybierz \"%2$s\"."</string>
     <string name="font_camera_tip">Złóż urządzenie, aby skorzystać z przedniego aparatu</string>
     <string name="saf_permission_recorder_unlock_screen_message">Aby móc zapisywać nagrania, odblokuj urządzenie. Zrobić to teraz?</string>
     <string name="msim_select_default_last">Ostatnio używana</string>
+    <string name="multi_call_manager_other_calls">Inne połączenia (%1$d)</string>
 </resources>
