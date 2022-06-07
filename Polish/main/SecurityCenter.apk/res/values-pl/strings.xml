@@ -5483,4 +5483,18 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="gb_predownload_noti_title">Pomyślnie zaktualizowano %s w tle</string>
     <string name="gb_predownload_title">Aktualizacje w tle</string>
     <string name="gb_smart_battery_surplus_new">Pozostało %1$s %2$s</string>
+    <string name="antivirus_antidefraud_risk_desc">Aplikacja %s została określona przez Narodowe Centrum Ochrony Przed Oszustwami jako oszustwo. Aby uniknąć możliwych zagrożeń, odinstaluj ją.</string>
+    <string name="antivirus_antidefraud_risk_type">Oszustwo finansowe</string>
+    <string name="antivirus_antidefraud_risk_type_label">Oszustwo finansowe i zagrożenia bezpieczeństwa</string>
+    <string name="antivirus_detect_apps_dialog_cancel">Zignoruj</string>
+    <string name="antivirus_detect_apps_dialog_content">Aplikacja %s została określona przez Narodowe Centrum Ochrony Przed Oszustwami jako oszustwo. Niesie ona poważne zagrożenia dla Twojego bezpieczeństwa.</string>
+    <string name="antivirus_detect_apps_dialog_uninstall">Odinstaluj</string>
+    <string name="antivirus_detect_apps_noti_message">Ta aplikacja niesie zagrożenia dla bezpieczeństwa</string>
+    <string name="antivirus_detect_apps_noti_title">Kilka aplikacji, w tym %s, może nieść zagrożenia</string>
+    <string name="antivirus_detect_single_app_noti_title">Aplikacja %s może nieść zagrożenia</string>
+    <string name="antivirus_not_remind_for_app">"Nie ostrzegaj ponownie o tej aplikacji"</string>
+    <string name="sp_unshelf_dialog_cancel_pay">Anuluj</string>
+    <string name="sp_unshelf_dialog_content">"Aplikacja %s nie przeszła testów bezpieczeństwa GetApps. Używanie wbudowanych w nią płatności może spowodować straty finansowe. Zapłacić mimo to?"</string>
+    <string name="sp_unshelf_dialog_continue_pay">Zapłać</string>
+    <string name="sp_unshelf_dialog_title">Wykryto zagrożenie</string>
 </resources>
