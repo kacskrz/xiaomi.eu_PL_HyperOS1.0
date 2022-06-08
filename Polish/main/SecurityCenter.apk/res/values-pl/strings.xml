@@ -5483,7 +5483,7 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="gb_predownload_noti_title">Pomyślnie zaktualizowano %s w tle</string>
     <string name="gb_predownload_title">Aktualizacje w tle</string>
     <string name="gb_smart_battery_surplus_new">Pozostało %1$s %2$s</string>
-    <string name="antivirus_antidefraud_risk_desc">Aplikacja %s została określona przez Narodowe Centrum Ochrony Przed Oszustwami jako oszustwo. Aby uniknąć możliwych zagrożeń, odinstaluj ją.</string>
+    <string name="antivirus_antidefraud_risk_desc">Ta aplikacja została określona przez Narodowe Centrum Ochrony Przed Oszustwami jako oszustwo. Aby uniknąć możliwych zagrożeń, odinstaluj ją.</string>
     <string name="antivirus_antidefraud_risk_type">Oszustwo finansowe</string>
     <string name="antivirus_antidefraud_risk_type_label">Oszustwo finansowe i zagrożenia bezpieczeństwa</string>
     <string name="antivirus_detect_apps_dialog_cancel">Zignoruj</string>
