@@ -814,4 +814,8 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="update_apk_version_now">Aktualizuj</string>
   <string name="auto_fill_not_sport_on_water_mark_version">"Logowanie przez autouzupełnianie nie jest wspierane na wersji ze znakiem wodnym"</string>
   <string name="phone_register">Użyj numeru telefonu</string>
+  <string name="copy_link">Kopiuj URL</string>
+  <string name="network_error">Wystąpił błąd sieci.</string>
+  <string name="network_error_hint">Sprawdź adres URL i spróbuj ponownie lub skopiuj ten adres i wklej go w swojej przeglądarce.</string>
+  <string name="page_load_failed">"Nie można otworzyć strony"</string>
 </resources>
