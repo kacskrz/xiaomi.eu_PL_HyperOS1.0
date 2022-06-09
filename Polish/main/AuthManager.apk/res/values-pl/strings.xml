@@ -464,8 +464,8 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="HIPS_Perm_NEARBY_DEVICES">Łączenie z urządzeniami w pobliżu</string>
   <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Odkrywaj i łącz się z urządzeniami w pobliżu</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
-  <string name="grant_dialog_button_only_allow_foreground_locate">Ogranicz tym razem</string>
-  <string name="grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Zawsze ograniczaj</string>
+  <string name="grant_dialog_button_only_allow_foreground_locate">Nie tym razem</string>
+  <string name="grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Nie zezwalaj i nie pytaj</string>
   <string name="permdesc_add_voicemail">Zezwolić %1$s na dodawanie wiadomości poczty głosowej?</string>
   <string name="permdesc_call_phone">Zezwolić %1$s na wykonywanie połączeń?</string>
   <string name="permdesc_get_account">Zezwolić %1$s na dostęp do wszystkich kont z tego urządzenia?</string>

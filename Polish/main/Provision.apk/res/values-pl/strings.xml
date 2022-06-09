@@ -463,4 +463,5 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="preinstall_tips">Przygotowywanie…</string>
     <string name="activating_esim_tips">Aktywacja…</string>
     <string name="other_settings_auto_update_summary_v1">Pozwól MIUI wybrać najlepszy moment na pobranie i instalację aktualizacji. Aby zastosować zmiany, urządzenie zostanie automatycznie uruchomione ponownie.</string>
+    <string name="is_prepare_install_go">Przygotowywanie…</string>
 </resources>
