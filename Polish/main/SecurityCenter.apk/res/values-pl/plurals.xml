@@ -1192,4 +1192,9 @@ Zrób sobie przerwę!"</item>
         <item quantity="other">%d min.</item>
         <item quantity="one">%d min.</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="other">%d nowych powiadomień</item>
+    </plurals>
 </resources>

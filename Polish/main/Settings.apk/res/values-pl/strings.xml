@@ -10388,4 +10388,13 @@ Wyślij ten kod pracownikowi wsparcia technicznego."</string>
     <string name="bluetooth_hd_music_play_title">Odtwarzaj dźwięk %d kHz</string>
     <string name="lock_screen_after_fold_screen_summary">"Po złożeniu urządzenie zablokuje się z wyjątkiem sytuacji, w której korzystasz z przedniego aparatu bądź głośnika."</string>
     <string name="lock_screen_after_fold_screen_title">Złóż, aby zablokować</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_message">Aby zastosować zmiany, niezbędne jest ponowne uruchomienie Bluetooth. Nawiązane połączenia mogą zostać przerwane. Zrestartować?</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_negative">Anuluj</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_positive">Zrestartuj</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_title">Zrestartuj Bluetooth</string>
+    <string name="dsda_close_toast">Wyłączono tryb dwóch aktywnych kart SIM. Aby zastosować zmiany, uruchom ponownie urządzenie.</string>
+    <string name="dsda_open_toast">Włączono tryb dwóch aktywnych kart SIM. Aby zastosować zmiany, uruchom ponownie urządzenie.</string>
+    <string name="dsda_switch_summary">Zezwól obu kartom SIM na jednoczesne korzystanie z danych mobilnych i wykonywanie połączeń</string>
+    <string name="dsda_switch_title">Tryb dwóch aktywnych kart SIM</string>
+    <string name="sunlight_low_power_notification">Nie można włączyć Trybu światła słonecznego. Zbyt niski poziom baterii."</string>
 </resources>

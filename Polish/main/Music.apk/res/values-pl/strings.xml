@@ -1389,4 +1389,7 @@ Jeśli nie zgadzasz się na korzystanie ze wspomnianych usług, niektóre funkcj
   <string name="unlimited_skips">Nielimitowane pomijania</string>
   <string name="user_experience_program_open">Ze względu na ograniczenia dot. praw autorskich musisz zapisać się do Programu zadowolenia użytkownika, aby móc odtwarzać pobrane utwory. Możesz to zrobić w Ustawieniach > Hasła i bezpieczeństwo > Prywatność > Program zadowolenia użytkownika.</string>
   <string name="watch_video">Obejrz film</string>
+  <string name="entertainment">Rozrywka</string>
+  <string name="ludo_tab_guide">Sprawdź nasze nowe pokoje Muzyki our new Music rooms</string>
+  <string name="welcome_to_entertainment">Sprawdź nową funkcję Rozrywka - gry muzyczne i wiele więcej</string>
 </resources>

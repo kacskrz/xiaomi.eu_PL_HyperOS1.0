@@ -218,4 +218,5 @@ Wpisz numer powiązany z nową kartą SIM aby aktywować ponownie %s"</string>
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="sim_activate_notificat_channel">Powiadomienia dot. aktywacji</string>
 </resources>
