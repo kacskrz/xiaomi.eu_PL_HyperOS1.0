@@ -5535,8 +5535,11 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="password_toggle_content_description">Pokaż hasło</string>
     <string name="bubble_app_manage">Zarządzaj dymkami</string>
     <string name="bubble_notification">Dymki</string>
-    <string name="bubble_notification_switch">Zezwalaj na dymki</string>
-    <string name="bubble_notification_switch_desc">Gdy pływające okno jest ukryte przy krawędzi ekranu, system pokaże jego powiadomienia w formie dymków</string>
+    <string name="bubble_notification_switch">Pokazuj dymki</string>
+    <string name="bubble_notification_switch_desc">Gdy komunikator jest ukryty przy krawędzi ekranu w formie pływającego okna, system pokaże jego powiadomienia w formie dymków</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Dotknij aplikację w Pasku bocznym, aby otworzyć ją jako pływające okno.
 · Przeciągnij aplikację na środek ekranu, aby otworzyć ją w pływającym oknie lub do krawędzi, aby skorzystać z Dzielonego ekranu."</string>
+    <string name="app_predict_folder_tips">Sugestie oparte na Twoich nawykach</string>
+    <string name="app_predict_settings_train_tip">Automatycznie optymalizuj dokładność sugestii</string>
+    <string name="gb_game_tips_restart">Aby zastosować zmiany, gra zostanie uruchomiona ponownie</string>
 </resources>

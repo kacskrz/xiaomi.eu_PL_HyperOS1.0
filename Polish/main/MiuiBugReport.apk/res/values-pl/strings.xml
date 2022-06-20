@@ -617,7 +617,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="toast_report_copied_to_clipboard">Raport skopiowany do schowka</string>
   <string name="toast_report_sent_failed">Nie udało się wysłać raportu</string>
   <string name="toast_report_sent_succeed">Raport został wysłany</string>
-  <string name="toast_screenshot_too_large">Nie można wysłać zdjęć lub wideo większych niż 100MB.</string>
+  <string name="toast_screenshot_too_large">Nie można wysłać zdjęć lub wideo większych niż %d MB.</string>
   <string name="toast_third_packagename_required">Wprowadź nazwę aplikacji</string>
   <string name="toast_title_required">Opisz swój problem</string>
   <string name="topic_author">1#</string>

@@ -516,4 +516,8 @@
   <string name="disable_nfc_haptic_reverse">Wyłączono NFC i wibrację dla funkcji bezprzewodowego ładowania zwrotnego</string>
   <string name="enable_nfc_haptic_reverse">Zatrzymano ładowanie zwrotne. Ponownie włączono NFC i wibrację.</string>
   <string name="kb_reset_toast">Pomyślnie zresetowano klawiaturę</string>
+  <string name="nps_ContentText">Dotknij, aby sprawdzić szczegóły</string>
+  <string name="nps_ContentTitle">Wyszukiwanie GPS</string>
+  <string name="nps_description">Powiadomienie dot. stanu GPS</string>
+  <string name="nps_monitor_name">Lokalizacja GPS</string>
 </resources>

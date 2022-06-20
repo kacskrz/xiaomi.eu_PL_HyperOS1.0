@@ -1555,4 +1555,6 @@ Dotknij, aby go wyłączyć."</string>
     <string name="toast_lockscreen_apply_success_but_home_apply_failured">"Pomyślnie zastosowano na Ekranie blokady. Nie udało się zastosować na Pulpicie."</string>
     <string name="toast_transparent_wallpaper_filter_set_failured">"Nie udało się zastosować"</string>
     <string name="toast_transparent_wallpaper_filter_set_successfully">Pomyślnie zastosowano</string>
+    <string name="wallpaper_apply_inner">Ustaw na wewnętrznym ekranie</string>
+    <string name="wallpaper_apply_outer">Ustaw na zewnętrznym ekranie</string>
 </resources>

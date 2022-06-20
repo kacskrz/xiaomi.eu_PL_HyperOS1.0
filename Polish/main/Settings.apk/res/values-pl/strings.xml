@@ -10397,4 +10397,5 @@ Wyślij ten kod pracownikowi wsparcia technicznego."</string>
     <string name="dsda_switch_summary">Zezwól obu kartom SIM na jednoczesne korzystanie z danych mobilnych i wykonywanie połączeń</string>
     <string name="dsda_switch_title">Tryb dwóch aktywnych kart SIM</string>
     <string name="sunlight_low_power_notification">Nie można włączyć Trybu światła słonecznego. Zbyt niski poziom baterii."</string>
+    <string name="location_description_no_gps">"To urządzenie nie wspiera nawigacji poprzez satelity. Informacje o lokalizacji wygenerowane na podstawie danych sieciowych mogą być w niektórych sytuacjach niewystarczające."</string>
 </resources>

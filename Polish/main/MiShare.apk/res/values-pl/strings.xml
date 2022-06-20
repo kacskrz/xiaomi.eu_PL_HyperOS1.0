@@ -49,9 +49,9 @@
     <string name="enable_midrop">Włącz</string>
     <string name="error_ap_in_use">"Nie można przesyłać elementów do innych urządzeń, gdy włączony jest hotspot"</string>
     <string name="error_ap_or_screen_already_hosting">"Nie można wysyłać elementów do innych urządzeń, gdy przesyłasz ekran na inne urządzenie bądź używasz hotspotu."</string>
-    <string name="error_device_lost">Wygląda na to, że inne urządzenie jest poza zasięgiem aplikacji. Odczekaj minutę bądź dwie i spróbuj ponownie.</string>
+    <string name="error_device_lost">Wygląda na to, że inne urządzenie nie odpowiada. Odczekaj minutę bądź dwie i spróbuj ponownie.</string>
     <string name="error_has_occurred">Wystąpił błąd</string>
-    <string name="error_msg_network_error">Wystąpił błąd sieci. Spróbuj ponownie.</string>
+    <string name="error_msg_network_error">Nie udało się połączyć z siecią. Sprawdź połączenia Wi-Fi i Bluetooth na obu urządzeniach.</string>
     <string name="error_receive_file_cannot_read">"Nie udało się otrzymać pliku"</string>
     <string name="error_receive_file_changed">"Nie można otrzymać pliku - został on zmieniony."</string>
     <string name="error_receive_file_file_opened">"Nie udało się otrzymać pliku - wygląda na to, że jest on obecnie używany."</string>
@@ -66,7 +66,7 @@
     <string name="error_send_file_no_enough_space">"Nie można wysłać - brak wystarczającej ilości miejsca na innym urządzeniu."</string>
     <string name="error_send_file_not_found">"Nie znaleziono pliku. Spróbuj ponownie."</string>
     <string name="error_send_file_service_disabled">Anulowano wychodzący transfer</string>
-    <string name="error_send_transfer_error">"Nie udało się przenieść elementów. Spróbuj ponownie."</string>
+    <string name="error_send_transfer_error">"Nie udało się wysłać elementów. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
     <string name="error_slave_wifi_in_use">"Mi Share nie będzie działać, gdy włączone jest podwójne Wi-Fi. Wyłącz tą funkcję w Ustawieniach i spróbuj ponownie."</string>
     <string name="error_slave_wifi_in_use_china">"Mi Share nie będzie działać, gdy włączone jest podwójne Wi-Fi. Wyłącz tą funkcję w Ustawieniach i spróbuj ponownie."</string>
     <string name="error_timeout">Przekroczono czas trwania sesji. Odczekaj minutę bądź dwie i spróbuj ponownie.</string>
@@ -238,4 +238,17 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="seize_content">Zatrzymaj udostępnianie Twojego ekranu, aby móc przesyłać elementy. Zrobić to teraz?</string>
   <string name="seize_title">Zatrzymaj udostępnianie ekranu</string>
   <string name="lenovo_phone">Telefon Lenovo</string>
+  <string name="error_msg_network_error_china">"Nie udało się połączyć z siecią. Sprawdź połączenia Wi-Fi i Bluetooth na obu urządzeniach."</string>
+  <string name="error_msg_wlan_error_china">"Nie udało się połączyć. Połącz się ponownie z siecią Wi-Fi i spróbuj ponownie."</string>
+  <string name="error_p2p_create_group_failure_china">"Nie udało się połączyć. Połącz się ponownie z siecią Wi-Fi na obu urządzeniach i spróbuj ponownie."</string>
+  <string name="error_p2p_recv_connect_timeout_china">"Nie udało się połączyć. Połącz się ponownie z siecią Wi-Fi na obu urządzeniach i spróbuj ponownie."</string>
+  <string name="tips_p2p_support_use5g_china">Dla lepszych rezultatów wykorzystaj sieć Wi-Fi 5 GHz.</string>
+  <string name="wait_remote_receive_tips_china">"Upewnij się, że ekrany obu urządzeń, a także Wi-Fi i Bluetooth na nich, są włączone."</string>
+  <string name="error_ble_connect_failure">"Urządzenie otrzymujące przekaz nie mogło się połączyć poprzez Bluetooth. Sprawdź, czy jego ekran jest włączony."</string>
+  <string name="error_ble_connect_timeout">"Nie udało się połączyć przez Bluetooth. Włącz jeszcze raz Bluetooth na obu urządzeniach i spróbuj ponownie."</string>
+  <string name="error_msg_wlan_error">"Nie udało się połączyć. Połącz się ponownie z siecią Wi-Fi i spróbuj ponownie."</string>
+  <string name="error_p2p_create_group_failure">"Nie udało się połączyć. Połącz się ponownie z siecią Wi-Fi na obu urządzeniach i spróbuj ponownie."</string>
+  <string name="error_p2p_recv_connect_timeout">"Nie udało się połączyć. Połącz się ponownie z siecią Wi-Fi na obu urządzeniach i spróbuj ponownie."</string>
+  <string name="tips_p2p_support_use5g">Dla lepszych rezultatów wykorzystaj sieć Wi-Fi 5 GHz.</string>
+  <string name="wait_remote_receive_tips">"Upewnij się, że ekrany obu urządzeń, a także Wi-Fi i Bluetooth na nich, są włączone."</string>
 </resources>

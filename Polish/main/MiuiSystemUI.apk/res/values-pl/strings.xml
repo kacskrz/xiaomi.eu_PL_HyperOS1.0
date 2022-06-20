@@ -3178,4 +3178,5 @@ Jeśli masz pytania, skontaktuj się z organizacją %2$s."</string>
     <string name="using_camera_and_microphone">Ta aplikacja nagrywa dźwięk i używa aparatu</string>
     <string name="using_microphone">Ta aplikacja nagrywa dźwięk</string>
     <string name="tip_close_flares">"Nie będziesz otrzymywać powiadomień o zachowaniach aplikacji w trakcie tej sesji"</string>
+    <string name="quick_settings_low_battery_toast_text">"Nie można włączyć latarki. Niski poziom baterii."</string>
 </resources>
