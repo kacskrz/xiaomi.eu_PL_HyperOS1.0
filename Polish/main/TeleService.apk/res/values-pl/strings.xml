@@ -2037,4 +2037,5 @@ Aktywować eSIM?"</string>
   <string name="unfold_show_bublle_pref_summary">Rozłóż urządzenie w trakcie połączeń, aby wyświetlić je w pływających oknach</string>
   <string name="unfold_show_bublle_pref_title">Rozłóż, aby zminimalizować połączenia</string>
   <string name="nrca_need_reset">Aby zastosować zmiany, uruchom ponownie urządzenie</string>
+  <string name="data_interruption_remind">"Wygląda na to, że Twoje środowisko sieciowe nie działa właściwie. Aby poprawić jakość połączenia, zezwól urządzeniu na korzystanie z danych mobilnych w trakcie połączeń VoLTE na drugiej karcie SIM."</string>
 </resources>

@@ -480,4 +480,5 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="permdesc_use_sip">Zezwolić %1$s na używanie protokołu SIP do streamowania wideo?</string>
   <string name="permdesc_write_call_log">Zezwolić %1$s na edycję historii połączeń?</string>
   <string name="permdesc_write_contacts">Zezwolić %1$s na edycję kontaktów?</string>
+  <string name="precise_location_title">Dokładna lokalizacja</string>
 </resources>

@@ -1691,4 +1691,13 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
   <string name="restart_detail_conversation_options4">30 min.</string>
   <string name="restart_detail_conversation_title">Uruchom ponownie w tle</string>
   <string name="title_setting_email_filter_add_rules">Reguły filtrowania e-maili</string>
+  <string name="how_to_login_icloud">Jak zalogować się na konto iCloud</string>
+  <string name="icloud_login_tips">Możesz utworzyć hasło, które będziesz używać na swoim koncie iCloud, na stronie: iCloud.com</string>
+  <string name="icoud_login_pw_hint">Wprowadź hasło</string>
+  <string name="login_des_icloud">Zaloguj się na konto iCloud</string>
+  <string name="miuix_search_action_mode_cancel">Anuluj</string>
+  <string name="miuix_search_history_clear">Wyczyść historię wyszukiwania</string>
+  <string name="miuix_search_history_default_title">Historia wyszukiwania</string>
+  <string name="miuix_search_recommendation_default_title">Może zainteresuje Cię też</string>
+  <string name="miuix_search_recommendation_item_del_des">Usuń</string>
 </resources>

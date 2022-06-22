@@ -349,6 +349,6 @@ Szyszy protokół transmisji."</string>
     <string name="miheadset_spatial_audio_not_support_headset">"Dźwięk przestrzenny słuchawek nie jest kompatybilny z wielokanałowymi źródłami"</string>
     <string name="miheadset_spatial_audio_phone">To urządzenie</string>
     <string name="headset_battery_low">Niski poziom baterii. Podłącz ładowarkę.</string>
-    <string name="headset_connect_timeout">Przekroczono czas trwania żądania. Spróbuj ponownie.</string>
-    <string name="headset_not_in_case">Słuchawki nie znajdują się w zestawie ładującym. Spróbuj ponownie.</string>
+    <string name="headset_connect_timeout">Przekroczono czas trwania żądania. Zacznij od nowa.</string>
+    <string name="headset_not_in_case">Umieść obie słuchawki w zestawie ładującym i zacznij od nowa</string>
 </resources>
