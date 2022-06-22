@@ -1695,9 +1695,4 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
   <string name="icloud_login_tips">Możesz utworzyć hasło, które będziesz używać na swoim koncie iCloud, na stronie: iCloud.com</string>
   <string name="icoud_login_pw_hint">Wprowadź hasło</string>
   <string name="login_des_icloud">Zaloguj się na konto iCloud</string>
-  <string name="miuix_search_action_mode_cancel">Anuluj</string>
-  <string name="miuix_search_history_clear">Wyczyść historię wyszukiwania</string>
-  <string name="miuix_search_history_default_title">Historia wyszukiwania</string>
-  <string name="miuix_search_recommendation_default_title">Może zainteresuje Cię też</string>
-  <string name="miuix_search_recommendation_item_del_des">Usuń</string>
 </resources>

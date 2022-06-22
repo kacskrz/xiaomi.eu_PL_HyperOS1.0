@@ -145,7 +145,6 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
     <string name="view_file">Zobacz</string>
     <string name="vivo_phone">Telefon vivo</string>
     <string name="wait_receive_file">Oczekiwanie na otrzymanie…</string>
-    <string name="wait_remote_receive_tips">Oczekiwanie…</string>
     <string name="wifi_is_not_enabled">Włącz najpierw Wi-Fi</string>
     <string name="wifi_is_not_enabled_china">Włącz najpierw Wi-Fi</string>
     <string name="xiaomi_phone">Telefon Mi</string>
