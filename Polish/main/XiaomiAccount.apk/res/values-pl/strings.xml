@@ -818,4 +818,6 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="network_error">Wystąpił błąd sieci.</string>
   <string name="network_error_hint">Sprawdź adres URL i spróbuj ponownie lub skopiuj ten adres i wklej go w swojej przeglądarce.</string>
   <string name="page_load_failed">"Nie można otworzyć strony"</string>
+  <string name="user_agreement_network_permission_msg">Aby dostarczać Ci niezbędne usługi, aplikacja musi łączyć się z Internetem.</string>
+  <string name="user_agreement_use_account_msg">Konto Xiaomi umożliwia Ci dostęp do wszystkich usług Xiaomi.</string>
 </resources>
