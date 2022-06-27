@@ -740,6 +740,12 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="agree_camera_permission_message">W celu używania aparatu do skanowania elementów</string>
   <string name="agree_storage_permission_message">W celu uzyskiwania dostępu do obrazów Galerii i ich importowania, a także zapisywania plików</string>
   <string name="come_back_picture">Wstecz</string>
-  <string name="toast_net_2g">Słaby zasięg sieci. Zmień ją i spróbuj ponownie.</string>
-  <string name="toast_net_timeout">Przekroczono czas trwania żądania. Spróbuj ponownie później.</string>
+  <string name="toast_net_2g">Nie udało się połączyć z siecią. Zmień ją i spróbuj ponownie.</string>
+  <string name="toast_net_timeout">Przekroczono czas trwania żądania. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="crop_frame_you_box_selection_cannot_crop_this_picture">Zaznaczony obszar powinien mieć cztery krawędzie</string>
+  <string name="form_preview_title">Podgląd tabeli Excela</string>
+  <string name="location_permission_message">W celu łączenia się z siecią Wi-Fi</string>
+  <string name="location_permissions_text">Aby móc korzystać z tej funkcji, zezwól na dostęp do lokalizacji w Ustawieniach.</string>
+  <string name="not_permissions_hint">Aby móc korzystać z tej funkcji, zezwól na dostęp do aparatu.</string>
+  <string name="not_permissions_title">Wymagane uprawnienia</string>
 </resources>

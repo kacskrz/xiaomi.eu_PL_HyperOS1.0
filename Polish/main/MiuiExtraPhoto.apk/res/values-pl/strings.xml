@@ -217,4 +217,8 @@
     <string name="wednesday_short">Śr</string>
     <string name="wednesday_shortest">Śr</string>
     <string name="doc_photo_adjust_section_talkback">Przytnij i edytuj</string>
+    <string name="doc_photo_not_save">"Nie zapisuj"</string>
+    <string name="doc_photo_save_effect_toast">Zapisać zmiany?</string>
+    <string name="open">Wł.</string>
+    <string name="close">Wył.</string>
 </resources>

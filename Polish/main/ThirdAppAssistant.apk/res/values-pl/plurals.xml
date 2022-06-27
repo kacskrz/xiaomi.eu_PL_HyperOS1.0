@@ -20,4 +20,7 @@
         <item quantity="few">%d aplikacje mają swoje 64-bitowe wersje</item>
         <item quantity="one">%d aplikacja ma swoją 64-bitową wersję</item>
     </plurals>
+    <plurals name="lowbit_version_contenttitle_more">
+        <item quantity="other">Dostępne 64-bitowe wersje dla %d aplikacji</item>
+    </plurals>
 </resources>

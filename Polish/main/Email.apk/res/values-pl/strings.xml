@@ -325,8 +325,8 @@ IMAP"</string>
   <string name="contact_edit_set_black_list_receive">Przenieś wiadomości od tego odbiorcy do Kosza (tylko nowe wiadomości)</string>
   <string name="contact_edit_set_black_list_receive_summary">Usuń wiadomości zawierające tego odbiorcę w polach Do/DW</string>
   <string name="contact_edit_set_black_list_title">Dodaj do czarnej listy</string>
-  <string name="contact_edit_set_phone_contact">Edytuj kontakty telefonu</string>
-  <string name="contact_edit_title_phone_contact">Edycja</string>
+  <string name="contact_edit_set_phone_contact">Edytuj kontakt z telefonu</string>
+  <string name="contact_edit_title_phone_contact">Edytuj kontakt</string>
   <string name="contact_in_filter_call_phone_str">Połączenie od %s</string>
   <string name="contact_in_filter_title">Nadawca</string>
   <string name="contact_info_string">Pokaż informacje kontaktowe: %1$s</string>
@@ -334,7 +334,7 @@ IMAP"</string>
   <string name="contact_list_add_btn">Dodaj</string>
   <string name="contact_list_search_hint">Szukaj kontaktów</string>
   <string name="contact_list_title">Kontakty</string>
-  <string name="contact_permission_error">Dostęp do kontaktów w telefonie jest ograniczony</string>
+  <string name="contact_permission_error">Nadaj uprawnienia dostępu do kontaktów</string>
   <string name="contact_select">Wybierz kontakty</string>
   <string name="content_description">%1$s o %2$s, %3$s w dniu %4$s, %5$s</string>
   <string name="content_description_today">%1$s o %2$s, %3$s o godzinie %4$s, %5$s</string>
@@ -387,7 +387,7 @@ IMAP"</string>
   <string name="default_">DOMYŚLNE</string>
   <string name="default_opening_attchemnt_mode">Otwieraj załączniki za pomocą domyślnych aplikacji</string>
   <string name="default_setup">USTAWIENIA DOMYŚLNE</string>
-  <string name="default_signature">Wysłano z telefonu Xiaomi</string>
+  <string name="default_signature">Wysłano z urządzenia Xiaomi</string>
   <string name="default_signature_2">Wysłano z %s</string>
   <string name="del_account_questionnair_hint">"Czemu usuwasz to konto?"</string>
   <string name="delete">Usuń</string>
@@ -818,7 +818,7 @@ limit skrzynki odbiorczej"</string>
   <string name="permission_access_provider_desc">Zezwala aplikacji na dostęp do bazy danych e-maili, w tym odebranych i wysłanych wiadomości, nazw użytkowników oraz haseł.</string>
   <string name="permission_access_provider_label">Dostęp do danych dostawcy poczty e-mail</string>
   <string name="permission_des_calendar">W celu sychronizacji wydarzeń z kalendarza</string>
-  <string name="permission_des_contact">W celu dostępu do adresów e-mail kontaktów (autouzupełnianie pola odbiorców)</string>
+  <string name="permission_des_contact">W celu synchronizacji kontaktów e-mail z kontaktami w systemie. Zalecamy wybór opcji \"Zawsze zezwalaj\".</string>
   <string name="permission_des_detail">"Jeśli nie nadasz wymaganych uprawnień, nie będziesz mógł używać tej aplikacji. Możesz ją odinstalować, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w dowolnym momencie."</string>
   <string name="permission_des_external_storage">W celu tworzenia nowych wiadomości oraz zapisywania i dodawania załączników</string>
   <string name="permission_des_phone_status">W celu uzyskania numeru IMEI do identyfikacji urządzenia</string>
@@ -866,7 +866,7 @@ limit skrzynki odbiorczej"</string>
   <string name="preference_head_load_description">Minimalizuj użycie danych mobilnych przez pobieranie nagłówków wiadomości.</string>
   <string name="preference_head_load_title">Pobieraj tylko nagłówki</string>
   <string name="preference_imap_tips"/>
-  <string name="preference_pop_tips">W POP3 załączniki zostaną automatycznie pobrane z wiadomością e-mail. Może to zwiększyć wykorzystanie danych mobilnych.</string>
+  <string name="preference_pop_tips">W POP3 załączniki zostaną automatycznie pobrane z wiadomością e-mail. Może to zwiększyć wykorzystanie danych mobilnych. Pobrać mimo to?</string>
   <string name="preference_sender_image_description">Pokaż zdjęcia profilowe obok nazwy nadawcy w Odebranych</string>
   <string name="preference_sender_image_title">Pokaż zdjęcie profilowe nadawcy</string>
   <string name="preferences_signature_dialog_title">Podpis</string>
@@ -1033,7 +1033,7 @@ Brak połączenia z siecią."</string>
   <string name="subject_hint">Temat</string>
   <string name="sync_calendra_fail_per_content">Dotknij, aby zezwolić</string>
   <string name="sync_calendra_fail_per_title">"Nie udało się zsynchronizować wydarzeń z kalendarza"</string>
-  <string name="sync_calendra_fail_permission">"Nie udało się zsynchronizować wydarzeń z kalendarza. Zezwól Poczcie na dostęp do kalendarza."</string>
+  <string name="sync_calendra_fail_permission">"Aby móc synchronizować wydarzenia z kalendarza, nadaj aplikacji uprawnienia do niego w Ustawieniach &gt; Uprawnienia."</string>
   <string name="sync_error">"Błąd synchronizacji."</string>
   <string name="sync_error_message">W Twoim urządzeniu jest za mało miejsca na przeprowadzenie synchronizacji.</string>
   <string name="sync_failed_mi_authority_view_detail">Zobacz szczegóły</string>
@@ -1046,7 +1046,7 @@ Brak połączenia z siecią."</string>
   <string name="system_folders_trash_summary">Wybierz folder kosza na serwerze</string>
   <string name="system_folders_trash_title">Folder kosz</string>
   <string name="system_root_path">Pamięć wew.</string>
-  <string name="system_security_open_error">To adjust security settings, give Mail the required permissions in the Settings</string>
+  <string name="system_security_open_error">Aby móc otworzyć Panel sterowania, nadaj stosowne uprawnienia w Ustawieniach</string>
   <string name="system_setup_open_error">Włącz synchronizację poczty</string>
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Kliknij, by skonfigurować</string>
@@ -1062,12 +1062,12 @@ Brak połączenia z siecią."</string>
   <string name="toast_bar_open_gmail_synchronization">"Nie można połączyć z Gmail. Sprawdź ustawienia sieci."</string>
   <string name="toast_bar_send_fail_remind">"Nie można wysłać wiadomości. Zapisano do katalogu \"Do wysłania\"."</string>
   <string name="toast_bar_sync_failed_client_cert">Synchronizacja nieudana z powodu braku certyfikatu. Kliknij, aby dodać certyfikat ponownie.</string>
-  <string name="toast_bar_sync_failed_mi_authority">Zaloguj się, aby zautoryzować urządzenie</string>
+  <string name="toast_bar_sync_failed_mi_authority">To urządzenie nie zostało zautoryzowane. Sprawdź aplikację do obsługi SMS-ów w celu odnalezienia wiadomości weryfikacyjnej.</string>
   <string name="toastbar_calendar_permission_switch_close">Aby otrzymywać przypomnienia kalendarza, daj Poczcie wymagane uprawnienia w Ustawieniach</string>
-  <string name="toastbar_contacts_permission_switch_close">Aby dodać kontakty, daj Poczcie wymagane uprawnienia w Ustawieniach</string>
+  <string name="toastbar_contacts_permission_switch_close">Aby móc dodawać kontakty w systemie, zezwól aplikacji na dostęp do kontaktów</string>
   <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Włącz synchronizację kalendarza i kontaktów, aby synchronizować kalendarz i kontakty</string>
   <string name="toastbar_local_calendar_sync_switch_close">Włącz synchronizację kalendarza, aby otrzymywać powiadomienia kalendarza</string>
-  <string name="toastbar_local_contacts_sync_swtich_close">Włącz synchronizację kontaktów, aby dodać kontakty</string>
+  <string name="toastbar_local_contacts_sync_swtich_close">Aby móc dodawać kontakty w systemie, zezwól aplikacji na synchronizację kontaktów</string>
   <string name="today_text">Dzisiaj</string>
   <string name="too_large_to_attach_additional">Plik nie został dołączony. Osiągnięto limit %1$s.</string>
   <string name="too_large_to_attach_multiple">Co najmniej jeden plik nie został dołączony. Limit %1$s.</string>
@@ -1518,7 +1518,7 @@ Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojeg
   <string name="clear_text_end_icon_content_description">Wyczyść tekst</string>
   <string name="compose_add_attachment_permission_denied">"Nie można przekazać e-maila. Wymagane są uprawnienia do pamięci zewnętrznej."</string>
   <string name="compose_to_label">Do</string>
-  <string name="default_signature_pad">Wysłane z mojego Mi Pada</string>
+  <string name="default_signature_pad">Wysłane z urządzenia Xiaomi</string>
   <string name="download_before_sharing2">"Niektóre z wybranych elementów nie są pobrane. Pobierz je najpierw."</string>
   <string name="error_icon_content_description">Błąd</string>
   <string name="exposed_dropdown_menu_content_description">Pokaż rozwijane menu</string>
@@ -1609,7 +1609,7 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
   <string name="privacy_and_private_permission">Zgoda na warunki Umowy użytkownika i Polityki prywatności</string>
   <string name="disallow_qq_auth_how_get_auth_code">Jak mogę uzyskać kod autoryzacyjny?</string>
   <string name="oauth_find_browser_error_description">Zainstaluj przeglądarkę, aby móc się zalogować</string>
-  <string name="default_signature_phone">Wysłano z mojego telefonu Xiaomi</string>
+  <string name="default_signature_phone">Wysłano z urządzenia Xiaomi</string>
   <string name="error_message_account_or_password">Identyfikator konta bądź hasło są nieprawidłowe.</string>
   <string name="error_message_auth_error">Użyj kodu weryfikacyjnego, aby się zalogować.</string>
   <string name="error_message_blacklist">Twoje konto zostało dodane na czarną listę. Skontaktuj się z dostawcą usług pocztowych, aby rozwiązać ten problem.</string>
@@ -1695,4 +1695,9 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
   <string name="icloud_login_tips">Możesz utworzyć hasło, które będziesz używać na swoim koncie iCloud, na stronie: iCloud.com</string>
   <string name="icoud_login_pw_hint">Wprowadź hasło</string>
   <string name="login_des_icloud">Zaloguj się na konto iCloud</string>
+  <string name="error_message_respond_revert_24">Twój adres IP został zablokowany. Skontaktuj się ze wsparciem technicznym poczty Sohu, aby naprawić ten problem.</string>
+  <string name="error_message_respond_revert_26">Twoje konto zostało zablokowane. Zaloguj się na pocztę Sohu w przeglądarce, aby je aktywować.</string>
+  <string name="error_message_respond_revert_27">Hasło wygasło. Zaloguj się na pocztę Sohu w przeglądarce, aby uzyskać hasło wygenerowane przez serwer.</string>
+  <string name="quick_translation">Przetłumacz</string>
+  <string name="sync_contacts_req_per_ignored">Aby móc używać tej funkcji, zezwól tej aplikacji na synchronizację kontaktów</string>
 </resources>

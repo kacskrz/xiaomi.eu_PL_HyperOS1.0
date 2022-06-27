@@ -47,4 +47,6 @@
     <string name="freeform_guide_to_sidehide_summary">Szybko przeciągnij okno za pomocą paska akcji do rogu ekranu</string>
     <string name="freeform_guide_to_sidehide_title">Ukrywanie pływających okien</string>
     <string name="freeform_guide_to_sidehide_summary_pad">Szybko przeciągnij aplikację do krawędzi ekranu, aby ją ukryć</string>
+    <string name="bottom_bar_smallwindow_drag_text">Przeciągnij tutaj, aby przypiąć</string>
+    <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Przeciągnij od dołu do górnej krawędzi ekranu</string>
 </resources>

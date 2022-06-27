@@ -25,4 +25,9 @@
         <item quantity="one">Zaznaczono %d element</item>
         <item quantity="few">Zaznaczono %d elementy</item>
     </plurals>
+    <plurals name="word_limit_prompt">
+        <item quantity="one">%d znak powyżej limitu</item>
+        <item quantity="few">%d znaki powyżej limitu</item>
+        <item quantity="other">%d znaków powyżej limitu</item>
+    </plurals>
 </resources>

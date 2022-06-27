@@ -8378,7 +8378,8 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="toast_apply_font_fail">"Nie można ustawić czcionki"</string>
   <string name="resolution_sub_title">MIUI może zamknąć aplikacje uruchomione w tle w trakcie zmiany rozdzielczości</string>
   <string name="font_setting_weight_toast">"Obecna czcionka nie wspiera zmiany jej grubości"</string>
-  <string name="face_unlock_prompt">Informacja dot. odblokowania twarzą</string>
+  <string name="face_unlock_prompt">"Rejestruj dane twarzy,
+patrząc na zewnętrzny ekran"</string>
   <string name="intelligence_suppression_title">Automatyczne (zalecane)</string>
   <string name="screen_enhance_engine_memc_note">"Nie można ulepszyć filmów, gdy włączona jest superrozdzielczość. Włączając ulepszanie filmów, wyłączysz superrozdzielczość."</string>
   <string name="screen_enhance_engine_sr_for_video_note">"Superrozdzielczość nie działa z ulepszonymi filmami. Włączając superrozdzielczość, wyłączysz ulepszanie filmów."</string>
@@ -10398,4 +10399,7 @@ Wyślij ten kod pracownikowi wsparcia technicznego."</string>
     <string name="dsda_switch_title">Tryb dwóch aktywnych kart SIM</string>
     <string name="sunlight_low_power_notification">Nie można włączyć Trybu światła słonecznego. Zbyt niski poziom baterii."</string>
     <string name="location_description_no_gps">"To urządzenie nie wspiera nawigacji poprzez satelity. Informacje o lokalizacji wygenerowane na podstawie danych sieciowych mogą być w niektórych sytuacjach niewystarczające."</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Przytrzymaj dół okna i przeciągnij je do górnej krawędzi ekranu.
+Funkcja działa tylko w przypadku ustawienia gestów jako sposobu nawigacji po systemie."</string>
+    <string name="miheadset_auto_upgrade_reminder">Wyłącz automatyczne aktualizacje i ponownie sprawdź ich dostępność</string>
 </resources>

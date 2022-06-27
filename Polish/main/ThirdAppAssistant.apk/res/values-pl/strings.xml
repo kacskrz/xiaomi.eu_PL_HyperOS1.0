@@ -18,7 +18,7 @@
     <string name="abc_shareactionprovider_share_with_application">Udostępnij przez %s</string>
     <string name="abc_toolbar_collapse_description">Zwiń</string>
     <string name="app_name">Problemy aplikacji firm trzecich</string>
-    <string name="dialog_content_message2_feedback">"Powiadomimy developera aplikacji o tych problemach. Sprawdzaj aktualizacje."</string>
+    <string name="dialog_content_message2_feedback">"Powiadomimy developera aplikacji o tych problemach. Możesz również zgłosić mu je bezpośrednio za pomocą kanałów dostarczonych w jego aplikacji."</string>
     <string name="dialog_content_message2_update">"Wygląda na to, że używasz starej wersji aplikacji. Czy chcesz ją zaktualizować?"</string>
     <string name="dialog_content_message_func_path">Ścieżka: Ustawienia > Aplikacje > Zarządzanie > Ustawienia > %s</string>
     <string name="dialog_content_message_other">"Wymuszono zamknięcie aplikacji %s ze względu na wewnętrzny błąd. "</string>
@@ -80,4 +80,19 @@
     <string name="lowbit_version_page_summary">32-bitowe aplikacje są mniej wydajne i zużywają więcej energii. Mogą też się samoczynnie zamykać ze względu na brak pamięci wirtualnej. Google nie będzie już wspierać 32-bitowych aplikacji w nowych wersjach Androida.</string>
     <string name="lowbit_version_summary">32-bitowe aplikacje mogą się zamykać i drenować baterię</string>
     <string name="lowbit_version_title">32-bitowe aplikacje</string>
+    <string name="app_title">Problemy aplikacji firm trzecich</string>
+    <string name="er_details_app_name">Aplikacja: %s</string>
+    <string name="er_details_app_version">Wersja: %s</string>
+    <string name="er_details_exception_date">Czas wystąpienia problemu: %s</string>
+    <string name="er_details_exception_trace">"Logi: "</string>
+    <string name="er_details_title">Szczegóły</string>
+    <string name="lowbit_version_contenttext">Zaktualizuj, aby przyspieszyć działanie aplikacji</string>
+    <string name="lowbit_version_contenttitle">Dostępna 64-bitowa wersja aplikacji %1$s</string>
+    <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
+    <string name="notification_channel_name_problem_detection">Wykrywanie problemów</string>
+    <string name="notification_channel_name_third_app_crash">Problemy aplikacji</string>
+    <string name="upgrade_immediately">&lt;font color=#0099FF>Zaktualizuj&lt;/font></string>
 </resources>
