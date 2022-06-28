@@ -5542,4 +5542,8 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="app_predict_folder_tips">Sugestie oparte na Twoich nawykach</string>
     <string name="app_predict_settings_train_tip">Automatycznie optymalizuj dokładność sugestii</string>
     <string name="gb_game_tips_restart">Aby zastosować zmiany, gra zostanie uruchomiona ponownie</string>
+    <string name="na_open_at_once">Włącz</string>
+    <string name="na_query_and_correction">Sprawdź i skalibruj stan konta</string>
+    <string name="na_query_and_correction_msg">"Możesz sprawdzić i skalibrować stan swojego konta oraz statystyki dot. danych mobilnych, wysyłając bezpłatny, szyfrowany SMS do swojego operatora. Nie będzie on przechowywany ani wyświetlany w aplikacji SMS.
+Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\" w każdej chwili."</string>
 </resources>
