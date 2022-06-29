@@ -520,4 +520,7 @@
   <string name="nps_ContentTitle">Wyszukiwanie GPS</string>
   <string name="nps_description">Powiadomienie dot. stanu GPS</string>
   <string name="nps_monitor_name">Lokalizacja GPS</string>
+  <string name="mw_guide_dialog_button_confirm">OK</string>
+  <string name="mw_guide_dialog_message">"Wygląda na to, że ta aplikacja nie wspiera Równoległych okien. Ustawiono dla niej inny, kompatybilny układ."</string>
+  <string name="mw_guide_dialog_title">"Brak wsparcia dla Równoległych okien"</string>
 </resources>
