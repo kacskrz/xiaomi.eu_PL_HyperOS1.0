@@ -221,4 +221,18 @@
     <string name="doc_photo_save_effect_toast">Zapisać zmiany?</string>
     <string name="open">Wł.</string>
     <string name="close">Wył.</string>
+    <string name="doc_photo_close">Wyłączanie</string>
+    <string name="doc_photo_close_toast">Jeśli wyłączysz tę funkcję, wymazane przez Ciebie notatki pojawią się ponownie. Wyłączyć?</string>
+    <string name="doc_photo_crop_left_rotate">Lewo</string>
+    <string name="doc_photo_crop_right_rotate">Prawo</string>
+    <string name="doc_photo_crop_toast">Po przycięciu obrazu wymazane przez Ciebie notatki pojawią się na nim ponownie. Kontynuować?</string>
+    <string name="doc_photo_enhance_crop">Przytnij</string>
+    <string name="doc_photo_enhance_dehandwrite">Wymaż notatki</string>
+    <string name="doc_photo_enhance_dehandwrite_desc">Wymaż ręczne notatki jednym dotknięciem</string>
+    <string name="doc_photo_enhance_effect">Efekty</string>
+    <string name="doc_photo_enhance_handmode_remove">Wymaż ręcznie</string>
+    <string name="doc_photo_enhance_undistortion_version4">Wyprostuj</string>
+    <string name="doc_photo_handwrite_recover">Przywróć</string>
+    <string name="doc_photo_handwrite_remove">Wymaż</string>
+    <string name="doc_photo_no_remind">"Nie pokazuj ponownie"</string>
 </resources>
