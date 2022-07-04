@@ -922,4 +922,11 @@ Może to generować dodatkowe opłaty."</string>
   <string name="detail_recomm_excellent">Wyróżnione</string>
   <string name="detail_recomm_personal">Zalecane</string>
   <string name="main_fragment_title_home_excellent">Wyróżnione</string>
+  <string name="back">Wstecz</string>
+  <string name="close_country_code_content_description">Usuń kod kraju</string>
+  <string name="facebook_login_btn_content_description">Zaloguj się za pomocą Facebooka</string>
+  <string name="google_login_btn_content_description">Zaloguj się za pomocą Google</string>
+  <string name="qq_login_btn_content_description">Zaloguj się za pomocą QQ</string>
+  <string name="weibo_login_btn_content_description">Zaloguj się za pomocą Weibo</string>
+  <string name="weixin_login_btn_content_description">Zaloguj się za pomocą WeChata</string>
 </resources>

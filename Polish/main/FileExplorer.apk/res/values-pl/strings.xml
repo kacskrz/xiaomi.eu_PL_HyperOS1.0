@@ -900,4 +900,12 @@ and never miss the cool new ones!"</string>
     <string name="des_hide_pwd">Ukryj hasło</string>
     <string name="des_show_pwd">Pokaż hasło</string>
     <string name="fab_menu_ball">Szybkie akcje</string>
+    <string name="lack_perm_msg">Do poprawnego działania aplikacja Pliki wymaga następujących uprawnień: &lt;b>%s&lt;/b></string>
+    <string name="lack_perm_title">Wymagane uprawnienia</string>
+    <string name="main_button_continue">Ustawienia</string>
+    <string name="main_button_ok">OK</string>
+    <string name="main_button_quit">Anuluj</string>
+    <string name="message_request_manage_external_storage_perm">Aby móc zarządzać plikami znajdującymi się na urządzeniu, aplikacja Pliki wymaga uprawnień dostępu do plików. Możesz je nadać w Ustawieniach.</string>
+    <string name="perm_manage_external_storage">Dostęp do wszystkich plików</string>
+    <string name="title_request_manage_external_storage_perm">Wymagane uprawnienia</string>
 </resources>

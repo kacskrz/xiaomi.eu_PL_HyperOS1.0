@@ -235,4 +235,6 @@
     <string name="doc_photo_handwrite_recover">Przywróć</string>
     <string name="doc_photo_handwrite_remove">Wymaż</string>
     <string name="doc_photo_no_remind">"Nie pokazuj ponownie"</string>
+    <string name="doc_photo_enter_hand_remove">Dotknij, aby wymazać ręcznie</string>
+    <string name="doc_photo_remind">Uwaga</string>
 </resources>
