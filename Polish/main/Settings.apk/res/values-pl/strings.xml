@@ -10402,4 +10402,13 @@ Wyślij ten kod pracownikowi wsparcia technicznego."</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Przytrzymaj dół okna i przeciągnij je do górnej krawędzi ekranu.
 Funkcja działa tylko w przypadku ustawienia gestów jako sposobu nawigacji po systemie."</string>
     <string name="miheadset_auto_upgrade_reminder">Wyłącz automatyczne aktualizacje i ponownie sprawdź ich dostępność</string>
+    <string name="bottom_to_top_slide">Przesuń w górę</string>
+    <string name="left_to_right_slide">Przesuń w prawo</string>
+    <string name="miheadset_keyconfig_click_thrice">Trzykrotne naciśnięcie przycisku</string>
+    <string name="miheadset_keyconfig_click_twice">Dwukrotne naciśnięcie przycisku</string>
+    <string name="miheadset_keyconfig_press_long">Przytrzymanie przycisku przez %d sek.</string>
+    <string name="right_to_left_slide">Przesuń w lewo</string>
+    <string name="top_to_bottom_slide">Przesuń w dół</string>
+    <string name="wlan_switch_tips">Przełączanie między sieciami Wi-Fi</string>
+    <string name="wlan_switch_tips_message">W trakcie przełączania się między dodatkową i główną siecią Wi-Fi urządzenie tymczasowo rozłączy się z dodatkową siecią. Przełączyć?</string>
 </resources>

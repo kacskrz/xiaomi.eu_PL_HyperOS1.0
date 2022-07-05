@@ -3179,4 +3179,8 @@ Jeśli masz pytania, skontaktuj się z organizacją %2$s."</string>
     <string name="using_microphone">Ta aplikacja nagrywa dźwięk</string>
     <string name="tip_close_flares">"Nie będziesz otrzymywać powiadomień o zachowaniach aplikacji w trakcie tej sesji"</string>
     <string name="quick_settings_low_battery_toast_text">"Nie można włączyć latarki. Niski poziom baterii."</string>
+    <string name="dialog_forget_password_cancel">Anuluj</string>
+    <string name="dialog_forget_password_message">Jeśli zapomniano kodu PUK, możesz wyłączyć tę kartę eSIM, aby nie utracić dostępu do swojego urządzenia. Po dokonaniu tej czynności możesz skontaktować się ze swoim operatorem, aby uzyskać pomoc.</string>
+    <string name="dialog_forget_password_ok">Wyłącz</string>
+    <string name="forget_password_string_for_esim"><u>Zapomniałem kodu PUK</u></string>
 </resources>

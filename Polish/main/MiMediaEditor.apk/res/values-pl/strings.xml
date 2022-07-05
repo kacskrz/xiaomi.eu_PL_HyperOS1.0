@@ -1763,4 +1763,6 @@
      <string name="vlog_trans_xiayi">Ruch w dół</string>
      <string name="vlog_trans_youyi">Ruch w prawo</string>
      <string name="vlog_trans_zuoyi">Ruch w lewo</string>
+     <string name="photo_editor_gallery_frame">Artystyczne ramki</string>
+     <string name="tips_support_gallery_frame">Funkcja wspierana wyłącznie dla zdjęć wykonanych przez urządzenia Xiaomi opracowane przy współpracy z Leicą</string>
 </resources>

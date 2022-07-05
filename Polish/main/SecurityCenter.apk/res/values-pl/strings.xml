@@ -5546,4 +5546,5 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="na_query_and_correction">Sprawdź i skalibruj stan konta</string>
     <string name="na_query_and_correction_msg">"Możesz sprawdzić i skalibrować stan swojego konta oraz statystyki dot. danych mobilnych, wysyłając bezpłatny, szyfrowany SMS do swojego operatora. Nie będzie on przechowywany ani wyświetlany w aplikacji SMS.
 Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\" w każdej chwili."</string>
+    <string name="gb_performace_guide_disable_desc"><Data>"Nie można włączyć trybu zbalansowanego, gdy włączony jest systemowy Tryb wydajności. Możesz zmienić ustawienia baterii w Panelu sterowania.&lt;br>&lt;a href=\"#\">Otwórz Panel sterowania&lt;/a>"</Data></string>
 </resources>

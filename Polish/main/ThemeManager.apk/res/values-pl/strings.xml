@@ -1558,4 +1558,5 @@ Dotknij, aby go wyłączyć."</string>
     <string name="wallpaper_apply_inner">Ustaw na wewnętrznym ekranie</string>
     <string name="wallpaper_apply_outer">Ustaw na zewnętrznym ekranie</string>
     <string name="label">Etykieta</string>
+    <string name="wallpaper_apply_outer_and_inner">Zastosuj na obu ekranach</string>
 </resources>

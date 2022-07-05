@@ -366,4 +366,8 @@ aby kontynuować"</string>
     <string name="loading_view_abort_close_text">Zamknij</string>
     <string name="loading_view_abort_text">"Przekroczono czas żądania połączenia.
 Zamknij tę stronę i spróbuj ponownie."</string>
+    <string name="app_no_storage_permission">Najpierw zezwól aplikacji %1$s na dostęp do pamięci w Ustawieniach > Aplikacje > %2$s > Uprawnienia</string>
+    <string name="app_opened_in_new_window">Otwarto tę aplikację w nowym oknie</string>
+    <string name="settings_bluetooth_enable_summary">Włącz Bluetooth, aby odnaleźć urządzenia w pobliżu. Zrobić to?</string>
+    <string name="settings_handoff_enable_bluetooth">Włącz Bluetooth, aby odnaleźć urządzenia w pobliżu</string>
 </resources>
