@@ -2121,7 +2121,6 @@
      <string name="zman_title">Bezpieczne udostępnianie</string>
      <string name="album_tab_page_switch_view_style_to_grid">Widok siatki</string>
      <string name="album_tab_page_switch_view_style_to_linear">Widok listy</string>
-	   <string name="continue_feedback">Dodatkowa opinia</string>
      <string name="macarons_download_later">Odczekaj minutę lub dwie i spróbuj ponownie</string>
      <string name="macarons_download_network_fail">"Nie udało się pobrać wtyczki. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
      <string name="macarons_download_other_fail">"Nie udało się pobrać ze względu na nieznany błąd"</string>
