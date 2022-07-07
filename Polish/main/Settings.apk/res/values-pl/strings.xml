@@ -9022,8 +9022,6 @@ Włącz tę funkcję i dotknij przycisku Ułatwień dostępu na dole ekranu, aby
   <string name="magic_list_empty_text_pad">Brak aplikacji kompatybilnych z tą funkcją</string>
   <string name="magic_window_name_pad">Optymalizacja widoku poziomego</string>
   <string name="headset_toast_tip_disconnect_others">Wygląda na to, że Twoje słuchawki są obecnie połączone z innym urządzeniem</string>
-  <string name="pad_add_fingerprint_finish_message">Dotknij opcji \"Gotowe\", aby wyświetlić dodatkowe ustawienia</string>
-  <string name="pad_add_fingerprint_message">Umieść swój palec na przycisku Zasilania</string>
   <string name="params_interpretation">Szczegółowa specyfikacja</string>
   <string name="vip_service_settings">Moje usługi</string>
   <string name="miuix_access_state_desc">Wybrano</string>
