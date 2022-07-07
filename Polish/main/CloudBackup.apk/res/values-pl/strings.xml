@@ -369,7 +369,7 @@ Wymagane są uprawnienia."</string>
   <string name="restore_failed_reason_app_data_error">"Nie udało się przywrócić kopii danych WeChata"</string>
   <string name="cancel_restore">Anulowanie…</string>
   <string name="cloud_backup_detail_header_msg">"Możesz wykonać kopię zapasową układu pulpitu, aplikacji czy ustawień Twojego urządzenia. &lt;font color=#0D84FF>&lt;a href=>Dotknij, aby dowiedzieć się więcej.&lt;/a>&lt;/font>"</string>
-  <string name="cloud_backup_detail_local_backup_size">Rozmiar kopii: %s</string>
+  <string name="cloud_backup_detail_local_backup_size">Przybliżony rozmiar kopii: %s</string>
   <string name="cloud_backup_detail_no_time">Nie wykonano kopii</string>
   <string name="dialog_wechat_data_close_agree">Nie</string>
   <string name="dialog_wechat_data_close_disagree">Tak</string>

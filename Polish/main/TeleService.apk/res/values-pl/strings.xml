@@ -896,7 +896,7 @@ Zawsze używaj tego numeru"</string>
   <string name="msim_setting_sim_info_editor_title">Edytuj informacje</string>
   <string name="msim_sim_lock">Zablokowana</string>
   <string name="msim_sim_radio_off">Wyłączone</string>
-  <string name="msim_switch_data_conn_toast">Karty SIM zostały zmienione. Przejdź do ustawień sieci komórkowych by zobaczyć zmiany</string>
+  <string name="msim_switch_data_conn_toast">Karty SIM zostały zmienione.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">Slot SIM 2 obsługuje tylko tryb GSM. 
   Preferowany tryb sieci dla slotu 2 został zmieniony na 2G GSM.</string>
   <string name="multi_category_disable">Obsługa wielu kategorii wyłączona</string>

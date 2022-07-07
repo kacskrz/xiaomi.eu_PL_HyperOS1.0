@@ -2510,7 +2510,8 @@ Więcej informacji uzyskasz od administratora organizacji."</string>
   <string name="face_data_input_ok_title">Pomyślnie dodano</string>
   <string name="face_data_input_structure_title">Dane twarzy 3D</string>
   <string name="face_data_input_title">Dodaj dane twarzy</string>
-  <string name="face_data_introduction_msg">Dane twarzy zostaną wykorzystane do odblokowania telefonu lub zweryfikowania tożsamości. Dodaj hasło ekranu blokady przed dodaniem danych twojej twarzy.</string>
+  <string name="face_data_introduction_msg">"Dane twarzy zostaną wykorzystane do odblokowania telefonu lub zweryfikowania tożsamości.
+Dodaj blokadę ekranu przed dodaniem danych twojej twarzy."</string>
   <string name="face_data_introduction_next">Dalej</string>
   <string name="face_data_introduction_title">Rozpoznawanie twarzy</string>
   <string name="face_data_manage_delete">Usunąć zapisane dane twarzy?</string>
@@ -3456,11 +3457,13 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="lockpassword_choose_for_second_user">Ustaw hasło dla drugiego profilu</string>
   <string name="lockpassword_choose_lock_generic_header">Wybierz blokadę ekranu</string>
   <string name="lockpassword_choose_your_password_header">Wybierz hasło</string>
-  <string name="lockpassword_choose_your_password_second_space">"Ustaw PIN dla drugiego profilu.
-PIN musi zawierać tyle samo cyfr co PIN głównego profilu."</string>
+  <string name="lockpassword_choose_your_password_second_space">"Ustaw hasło
+dla Drugiej przestrzeni"</string>
   <string name="lockpassword_choose_your_pattern_header">Wybierz wzór</string>
   <string name="lockpassword_choose_your_pin_header">Wybierz kod PIN</string>
-  <string name="lockpassword_choose_your_pin_header_second_space">"Ustaw PIN dla drugiego profilu"</string>
+  <string name="lockpassword_choose_your_pin_header_second_space">"Ustaw PIN
+dla Drugiej przestrzeni.
+Powinien on mieć tyle samo znaków co PIN w Głównej przestrzeni."</string>
   <string name="lockpassword_choose_your_pin_title">Wpisz %1$d-%2$d cyfr</string>
   <string name="lockpassword_confirm_for_second_user">Potwierdź hasło dla drugiego profilu</string>
   <string name="lockpassword_confirm_passwords_dont_match">Hasła nie są takie same</string>
@@ -3523,7 +3526,8 @@ PIN musi zawierać tyle samo cyfr co PIN głównego profilu."</string>
   <string name="lockpattern_recording_inprogress">Podnieś palec, gdy skończysz</string>
   <string name="lockpattern_recording_intro_footer">Naciśnij Menu, aby uzyskać pomoc.</string>
   <string name="lockpattern_recording_intro_header">Narysuj wzór odblokowania</string>
-  <string name="lockpattern_recording_intro_header_second_space">Narysuj wzór odblokowania drugiego profilu:</string>
+  <string name="lockpattern_recording_intro_header_second_space">"Narysuj wzór odblokowania drugiego profilu.
+Połącz co najmniej 4 kropki."</string>
   <string name="lockpattern_restart_button_text">Narysuj ponownie</string>
   <string name="lockpattern_retry_button_text">Ponów próbę</string>
   <string name="lockpattern_settings_change_lock_pattern">Zmień wzór odblokowania</string>
@@ -5994,8 +5998,8 @@ Wpisany kod PIN może być błędny."</string>
   <string name="slot_status_title">IMEI</string>
   <string name="small_font">Mały</string>
   <string name="smallwindow_smartcover_title">Z okienkiem</string>
-  <string name="smartcover_lock_or_unlock_screen_tittle">Odblokuj telefon z aktywnym pokrowcem</string>
-  <string name="smartcover_sensitive_summary">Odblokuj telefon z aktywnym pokrowcem</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">Odblokuj urządzenie z aktywnym pokrowcem</string>
+  <string name="smartcover_sensitive_summary">Blokuj lub odblokuj urządzenie z aktywnym pokrowcem</string>
   <string name="smartcover_sensitive_title">Smart Cover</string>
   <string name="sms_application_title">Aplikacja do SMS-ów</string>
   <string name="sms_change_default_dialog_text">Chcesz używać aplikacji %1$s zamiast %2$s do wysłania i otrzymywania SMS-ów?</string>
@@ -6792,7 +6796,7 @@ Tymczasem możesz dalej konfigurować nowe urządzenie %1$s."</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Nie teraz</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">OK</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">OK (%d s)</string>
-  <string name="turn_on_keyguard_password_alert_forget_content">"Zapamiętaj swoje hasło blokady ekranu. Będzie ono potrzebne, aby kontynuować instalację aktualizacji systemu."</string>
+  <string name="turn_on_keyguard_password_alert_forget_content">"Zapamiętaj swoją blokadę ekranu. Będzie ona potrzebna, aby kontynuować instalację aktualizacji systemu."</string>
   <string name="turn_on_keyguard_password_alert_forget_title">Informacja</string>
   <string name="turn_on_security_lock">Dodaj hasło</string>
   <string name="turn_on_torch">Włącz latarkę</string>
@@ -10289,7 +10293,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="keep_screen_on_after_folding_title">Nie wyłączaj ekranu po złożeniu</string>
     <string name="handy_mode_hint">Tryb Jedna Dłoń jest dostępny wyłącznie na zewnętrznym ekranie</string>
     <string name="device_mall_card_title">Sprawdź możliwe korzyści</string>
-    <string name="face_data_suggesstion_first_cn_highlight">Odblokowanie twarzą jest mniej bezpieczne niż PIN, hasło czy wzór. Urządzenie może zostać odblokowane Twoim zdjęciem, a także przez podobne do Ciebie osoby bądź obiekty.</string>
+    <string name="face_data_suggesstion_first_cn_highlight">Odblokowanie twarzą jest mniej bezpieczne niż PIN, hasło, wzór czy odcisk palca. Urządzenie może zostać odblokowane Twoim zdjęciem, a także przez podobne do Ciebie osoby bądź obiekty.</string>
     <string name="new_fingerprint_to_new_face_dialog_msg">Aby móc korzystać z Odblokowywania twarzą, dodaj dane twarzy. Zrobić to teraz?</string>
     <string name="new_fingerprint_to_new_face_dialog_tittle">Dodaj dane twarzy</string>
     <string name="miheadset_LEAudio_summary">"Gdy LE Audio jest włączone, niektóre funkcje nie będą dostępne."</string>
@@ -10411,4 +10415,9 @@ Funkcja działa tylko w przypadku ustawienia gestów jako sposobu nawigacji po s
     <string name="top_to_bottom_slide">Przesuń w dół</string>
     <string name="wlan_switch_tips">Przełączanie między sieciami Wi-Fi</string>
     <string name="wlan_switch_tips_message">W trakcie przełączania się między dodatkową i główną siecią Wi-Fi urządzenie tymczasowo rozłączy się z dodatkową siecią. Przełączyć?</string>
+    <string name="finger_detail_info_text">Zmień nazwę odcisku palca</string>
+    <string name="pad_add_fingerprint_finish_message">Kontynuuj, aby uzyskać dostęp do dodatkowych ustawień.</string>
+    <string name="pad_add_fingerprint_message">Umieść palec na przycisku Zasilania</string>
+    <string name="miheadset_double_toast">Włóż obie słuchawki, aby móc użyć tej funkcji</string>
+    <string name="ethernet_tether_checkbox_text">Udostępnianie przez Ethernet</string>
 </resources>
