@@ -562,4 +562,6 @@
   <string name="white_noise_not_selected">Nie wybrano</string>
   <string name="white_noise_selected">Wybrano</string>
   <string name="your_sounds">Moje dźwięki</string>
+  <string name="xiaomi_deskclock_uninstall_description_content">"Zegar to aplikacja systemowa. Po jej odinstalowaniu nie będzie można sprawdzać czasu, ustawiać alarmów lub korzystać z innych funkcji tej aplikacji."</string>
+  <string name="xiaomi_deskclock_uninstall_description_title">Odinstalować Zegar?</string>
 </resources>

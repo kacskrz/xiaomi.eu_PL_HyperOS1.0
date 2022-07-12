@@ -5444,9 +5444,9 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="unknown_operator">"Możesz zadzwonić na numer %2$s, aby potwierdzić szczegóły planu u operatora %1$s."</string>
     <string name="ew_sleep_mode_alert_content">"Aby upewnić się, że możesz otrzymywać ostrzeżenia przed trzęsieniem ziemi, MIUI wyłączy Tryb nocny. Gdy będziesz spać, aplikacje funkcjonujące w tle, a także NFC, Bluetooth, GPS, dane mobilne i Wi-Fi będą działać normalnie. Włączyć ostrzeżenia?"</string>
     <string name="ew_sleep_mode_alert_title">Ostrzeżenie przed trzęsieniem ziemi</string>
-    <string name="storage_fbo_clear">Defragmentacja</string>
-    <string name="storage_fbo_des">"Pamięć wewnętrzna ulega fragmentacji, co może znacznie spowolnić działanie urządzenia. Defragmentacja jest wykonywana automatycznie, gdy nie korzystasz z urządzenia. Fizycznie organizuje ona pliki w jak najmniejszą liczbę fragmentów, zmniejszając opóźnienia."</string>
-    <string name="storage_fbo_number_tip">Złączono %1$s</string>
+    <string name="storage_fbo_clear">Defragmentacja FBO</string>
+    <string name="storage_fbo_des">"Pamięć wewnętrzna ulega fragmentacji, co może znacznie spowolnić działanie urządzenia. Defragmentacja FBO jest wykonywana automatycznie, gdy nie korzystasz z urządzenia. Fizycznie organizuje ona pliki w jak najmniejszą liczbę fragmentów, zmniejszając opóźnienia."</string>
+    <string name="storage_fbo_number_tip">Wykonano %1$s</string>
     <string name="storage_fbo_tools">Optymalizacja pamięci</string>
     <string name="gb_game_fill_desc">W niektórych przypadkach treść może być zniekształcona</string>
     <string name="gb_game_mode">Tryb wyświetlania</string>
@@ -5547,4 +5547,5 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="na_query_and_correction_msg">"Możesz sprawdzić i skalibrować stan swojego konta oraz statystyki dot. danych mobilnych, wysyłając bezpłatny, szyfrowany SMS do swojego operatora. Nie będzie on przechowywany ani wyświetlany w aplikacji SMS.
 Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\" w każdej chwili."</string>
     <string name="gb_performace_guide_disable_desc"><Data>"Nie można włączyć trybu zbalansowanego, gdy włączony jest systemowy Tryb wydajności. Możesz zmienić ustawienia baterii w Panelu sterowania.&lt;br>&lt;a href=\"#\">Otwórz Panel sterowania&lt;/a>"</Data></string>
+    <string name="bubble_app_empty_page">"Nie znaleziono aplikacji obsługujących dymki powiadomień"</string>
 </resources>
