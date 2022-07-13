@@ -10418,4 +10418,6 @@ Funkcja działa tylko w przypadku ustawienia gestów jako sposobu nawigacji po s
     <string name="pad_add_fingerprint_message">Umieść palec na przycisku Zasilania</string>
     <string name="miheadset_double_toast">Włóż obie słuchawki, aby móc użyć tej funkcji</string>
     <string name="ethernet_tether_checkbox_text">Udostępnianie przez Ethernet</string>
+    <string name="miheadset_close_leaudio_first">Aby móc skorzystać z tej funkcji, wyłącz LE Audio w Dodatkowych ustawieniach</string>
+    <string name="miheadset_openAnc2">Redukcja szumów</string>
 </resources>

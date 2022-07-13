@@ -427,4 +427,9 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="close_invisible_mode_dialog_message">"Nie można korzystać teraz z funkcji Mi Smart Play. Aby móc to zrobić, wyłącz Tryb incognito w Ustawieniach."</string>
     <string name="close_invisible_mode_dialog_ok">Ustawienia</string>
     <string name="close_invisible_mode_dialog_title">"Jesteś incognito"</string>
+    <string name="controls_media_title">Multimedia</string>
+    <string name="miuix_access_state_desc">Wybrano</string>
+    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+    <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>
