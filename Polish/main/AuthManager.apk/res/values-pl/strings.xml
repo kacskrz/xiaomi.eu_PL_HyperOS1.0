@@ -475,7 +475,7 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="permdesc_read_contacts">Zezwolić %1$s na dostęp do kontaktów?</string>
   <string name="permdesc_read_mms">Zezwolić %1$s na odczytywanie MMS-ów?</string>
   <string name="permdesc_read_phone_state">Zezwolić %1$s na dostęp do stanu urządzenia i informacji dot. sieci komórkowej?</string>
-  <string name="permdesc_read_sms">Zezwolić %1$s na odczyt lub wysyłanie SMS-ów i MMS-ów?</string>
+  <string name="permdesc_read_sms">Zezwolić %1$s na odczyt SMS-ów i MMS-ów?</string>
   <string name="permdesc_send_sms">Zezwolić %1$s na wysyłanie SMS-ów?</string>
   <string name="permdesc_use_sip">Zezwolić %1$s na używanie protokołu SIP do streamowania wideo?</string>
   <string name="permdesc_write_call_log">Zezwolić %1$s na edycję historii połączeń?</string>

@@ -10130,7 +10130,7 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="transparent_surroundings">Otoczenie</string>
     <string name="Sound_Settings">Efekty dźwiękowe</string>
     <string name="search_gmscore_settings_title">Google;Usługi Google;GMS;Gmail</string>
-    <string name="virtual_surround_sound_switch_summary">"Zwiększ głębię dźwięku odtwarzanych filmów i utworów. Funkcja nie będzie działać, gdy odtwarzane jest audio %.1f."</string>
+    <string name="virtual_surround_sound_switch_summary">"Zwiększ głębię dźwięku odtwarzanych w słuchawkach filmów i utworów"</string>
     <string name="virtual_surround_sound_switch_title">Wirtualny dźwięk przestrzenny</string>
     <string name="miheadset_Intelligentpickfree_summary">Gdy redukcja szumów jest włączona, Twoje słuchawki automatycznie przełączą się na krótki czas w tryb przezroczystości, gdy wykryją one głosy w pobliżu</string>
     <string name="miheadset_audio_quality">Jakość dźwięku</string>
@@ -10420,4 +10420,5 @@ Funkcja działa tylko w przypadku ustawienia gestów jako sposobu nawigacji po s
     <string name="ethernet_tether_checkbox_text">Udostępnianie przez Ethernet</string>
     <string name="miheadset_close_leaudio_first">Aby móc skorzystać z tej funkcji, wyłącz LE Audio w Dodatkowych ustawieniach</string>
     <string name="miheadset_openAnc2">Redukcja szumów</string>
+    <string name="virtual_surround_sound_switch_summary_global">"Zwiększ głębię dźwięku odtwarzanych w słuchawkach filmów i utworów. Funkcja nie działa z włączonym kodekiem LDAC."</string>
 </resources>
