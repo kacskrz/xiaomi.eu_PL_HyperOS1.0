@@ -213,7 +213,7 @@
     <string name="miui_ringer_standard_description">Wycisz dźwięki połączeń i powiadomień</string>
     <string name="miui_ringer_status_close">Wył.</string>
     <string name="miui_ringer_status_open">Wł.</string>
-    <string name="miui_ringer_total">Godz. ciszy</string>
+    <string name="miui_ringer_total">Nie przeszkadzać</string>
     <string name="miui_ringer_total_description">Wycisz dźwięki i wyłącz wibracje wszystkich elementów z wyjątkiem alarmów</string>
     <string name="miui_toast_zen_dnd_to_off">Połączenia i powiadomienia nie będą już wyciszone</string>
     <string name="miui_toast_zen_standard_to_off">Wyłączono tryb Cichy</string>
@@ -400,7 +400,7 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="quick_settings_nightmode_label">Ciemny motyw</string>
     <string name="quick_settings_papermode_label">Tryb czytania</string>
     <string name="quick_settings_powermode_label">Tryb wydajności</string>
-    <string name="quick_settings_quietmode_label">Godziny ciszy</string>
+    <string name="quick_settings_quietmode_label">Nie przeszkadzać</string>
     <string name="quick_settings_rotationlock_label">Nie obracaj</string>
     <string name="quick_settings_screenbutton_label">Przyciski</string>
     <string name="quick_settings_screenlock_label">Ekran blokady</string>
