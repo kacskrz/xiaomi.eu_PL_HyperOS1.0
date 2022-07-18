@@ -973,7 +973,6 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
   <string name="passport_password_not_show">"Nie pokazuj hasła"</string>
   <string name="passport_password_show">Pokaż hasło</string>
   <string name="passport_resend_ticket">Wyślij ponownie kod</string>
-  <string name="passport_retry">Spróbuj ponownie</string>
   <string name="passport_send_sms_to">Wysłano kod do %1$s</string>
   <string name="passport_ticket_send_by_second">Wysyłanie za %d</string>
   <string name="passport_to_forget_password">Nie pamiętasz hasła?</string>
