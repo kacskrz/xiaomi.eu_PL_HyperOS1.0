@@ -952,4 +952,5 @@
   <string name="mtrl_picker_toggle_to_year_selection">Dotknij, aby przełączyć na wybór roku</string>
   <string name="password_toggle_content_description">Pokaż hasło</string>
   <string name="external_not_support_split_screen_j18">"Dzielenie ekranu nie jest wspierane na zewnętrznym ekranie"</string>
+  <string name="miui_widget_menu_replace_text">Zmień</string>
 </resources>

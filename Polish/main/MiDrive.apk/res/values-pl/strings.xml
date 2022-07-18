@@ -808,4 +808,8 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="talkback_random_play">Odtwarzanie losowe</string>
   <string name="talkback_single_play">Zapętlij</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="permission_account_desc_pad">Dostęp do wszystkich kont zgromadzonych na urządzeniu</string>
+  <string name="permission_account_title_pad">Dostęp do kont</string>
+  <string name="permission_storage_desc_pad">Dostęp do zdjęć i plików na urządzeniu</string>
+  <string name="permission_storage_title_pad">Dostęp do pamięci</string>
 </resources>

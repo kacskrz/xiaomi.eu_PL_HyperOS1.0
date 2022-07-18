@@ -453,4 +453,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="dialog_positive_btn_cancel_restore">Nie</string>
   <string name="dialog_title_cancel_backup">Anulowanie tworzenia kopii</string>
   <string name="dialog_title_cancel_restore">Zatrzymywanie przywracania kopii</string>
+  <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Skopiuj układ pulpitu, listę aplikacji i ustawienia systemu. &lt;font color=#0D84FF>&lt;a href=>Dotknij, aby dowiedzieć się więcej&lt;/a>&lt;/font>."</string>
 </resources>

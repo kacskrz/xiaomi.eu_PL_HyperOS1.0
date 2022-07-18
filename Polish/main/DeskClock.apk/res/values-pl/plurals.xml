@@ -51,7 +51,7 @@
      </plurals>
      <plurals name="minute">
          <item quantity="other">%d minut</item>
-         <item quantity="one">%d minutę</item>
+         <item quantity="one">%d minuta</item>
          <item quantity="few">%d minuty</item>
      </plurals>
     <plurals name="sleep_duration_hour">
