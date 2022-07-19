@@ -889,4 +889,5 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="warn_cannot_add_new_content">"Nie można dodać nowej treści, ponieważ notatka jest za długa"</string>
   <string name="widget_size_item_super_big">Wielki</string>
   <string name="widget_size_not_support">"Wielkie widżety nie są wspierane na tym urządzeniu"</string>
+  <string name="select_up_limit_toast">Wybierz maks. %d elementów</string>
 </resources>

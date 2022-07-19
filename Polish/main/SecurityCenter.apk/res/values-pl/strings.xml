@@ -5427,7 +5427,7 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="storage_file_list_form_default">Karta SD</string>
     <string name="storage_file_list_from">Z %s</string>
     <string name="storage_fob_date_format">dd.MM.</string>
-    <string name="storage_item_system_data">System</string>
+    <string name="storage_item_system_data">Pliki systemu</string>
     <string name="storage_system_log">Logi systemowe</string>
     <string name="storage_system_log_tip">Logi będą czyszczone automatycznie, gdy zajdzie potrzeba</string>
     <string name="storage_system_memory_expansion">Rozszerzenie pamięci</string>
@@ -5548,4 +5548,7 @@ Wsparcie techniczne Xiaomi i ICL"</string>
 Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\" w każdej chwili."</string>
     <string name="gb_performace_guide_disable_desc"><Data>"Nie można włączyć trybu zbalansowanego, gdy włączony jest systemowy Tryb wydajności. Możesz zmienić ustawienia baterii w Panelu sterowania.&lt;br>&lt;a href=\"#\">Otwórz Panel sterowania&lt;/a>"</Data></string>
     <string name="bubble_app_empty_page">"Nie znaleziono aplikacji obsługujących dymki powiadomień"</string>
+    <string name="gb_performace_switch_toast">Włączono Tryb wydajności. Urządzenie może się nagrzewać i zużywać więcej energii.</string>
+    <string name="gb_performace_tips_button">Włącz</string>
+    <string name="gb_performace_tips_title">Włącz Tryb wydajności dla lepszych wrażeń</string>
 </resources>

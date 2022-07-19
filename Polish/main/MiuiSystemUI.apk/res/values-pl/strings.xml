@@ -3183,4 +3183,6 @@ Jeśli masz pytania, skontaktuj się z organizacją %2$s."</string>
     <string name="dialog_forget_password_message">Jeśli zapomniano kodu PUK, możesz wyłączyć tę kartę eSIM, aby nie utracić dostępu do swojego urządzenia. Po dokonaniu tej czynności możesz skontaktować się ze swoim operatorem, aby uzyskać pomoc.</string>
     <string name="dialog_forget_password_ok">Wyłącz</string>
     <string name="forget_password_string_for_esim"><u>Zapomniałem kodu PUK</u></string>
+    <string name="miui_notification_slide_menu_msg_ongoing">Ograniczyć stałe powiadomienia dla \"%1$s\"?</string>
+    <string name="miui_notification_slide_menu_ongoing">Ogranicz stałe powiadomienia</string>
 </resources>

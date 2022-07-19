@@ -1117,7 +1117,7 @@ dd.MM."</string>
   <string name="super_wallpaper_setting_view_height_title">Wysokość</string>
   <string name="task_already_exist">Zadanie już istnieje</string>
   <string name="update">Zaktualizuj</string>
-  <string name="wallpaper_group_set_loop">Pokaz slajdów z podobnymi obrazami na Ekranie blokady</string>
+  <string name="wallpaper_group_set_loop">Slajdy z podobnymi obrazami</string>
   <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AoD</string>
   <string name="wallpaper_setting_find_more_text">Więcej tapet online</string>
   <string name="wallpaper_setting_home_wallpaper_banner_button_text">Pulpit</string>
@@ -1559,4 +1559,6 @@ Dotknij, aby go wyłączyć."</string>
     <string name="wallpaper_apply_outer">Ustaw na zewnętrznym ekranie</string>
     <string name="label">Etykieta</string>
     <string name="wallpaper_apply_outer_and_inner">Zastosuj na obu ekranach</string>
+    <string name="clock">Zainstaluj Zegar</string>
+    <string name="install_clock">"Na urządzeniu nie znajduje się aplikacja Zegar. Pobrać ją?"</string>
 </resources>
