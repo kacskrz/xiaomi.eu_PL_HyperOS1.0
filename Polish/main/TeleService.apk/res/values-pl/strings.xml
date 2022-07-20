@@ -2039,4 +2039,5 @@ Aktywować eSIM?"</string>
   <string name="nrca_need_reset">Aby zastosować zmiany, uruchom ponownie urządzenie</string>
   <string name="data_interruption_remind">"Wygląda na to, że Twoje środowisko sieciowe nie działa właściwie. Aby poprawić jakość połączenia, zezwól urządzeniu na korzystanie z danych mobilnych w trakcie połączeń VoLTE na drugiej karcie SIM."</string>
   <string name="low_battery_flash_when_ring_button_tip">"Nie można użyć lampy błyskowej w trakcie odtwarzania dzwonka ze względu na niski poziom baterii"</string>
+  <string name="hide_stk_name">Narzędzia SIM</string>
 </resources>

@@ -820,4 +820,6 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="page_load_failed">"Nie można otworzyć strony"</string>
   <string name="user_agreement_network_permission_msg">Aby dostarczać Ci niezbędne usługi, aplikacja musi łączyć się z Internetem.</string>
   <string name="user_agreement_use_account_msg">Konto Xiaomi umożliwia Ci dostęp do wszystkich usług Xiaomi.</string>
+  <string name="child_account_system_ad_disable_hint">Ta funkcja nie jest dostępna dla kont dzieci</string>
+  <string name="family_service">Usługi rodzinne</string>
 </resources>

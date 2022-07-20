@@ -3200,4 +3200,9 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
   <string name="hr_preview_200m">Włączono podgląd 200 Mpx</string>
   <string name="install_media_editor_download_description">Pobieranie…</string>
   <string name="install_media_editor_download_title">Pobieranie wtyczki Edytora Galerii…</string>
+  <string name="assistant_today_of_year_function_closed_tip">Włącz</string>
+  <string name="assistant_today_of_year_function_no_address_tip">Podróż w czasie</string>
+  <string name="assistant_today_of_year_function_no_photo_tip">Zacznij</string>
+  <string name="ocr_switch_hint">Rozpoznawaj tekst wyświetlany na zdjęciach, aby móc go wybrać lub podjąć jakąś akcję</string>
+  <string name="ocr_switch_title">Rozpoznawaj tekst na zdjęciach</string>
 </resources>

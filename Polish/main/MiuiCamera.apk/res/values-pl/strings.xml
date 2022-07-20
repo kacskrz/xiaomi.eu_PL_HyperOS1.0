@@ -2110,7 +2110,7 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="pref_camera_heic_image_format_description_global">Format plików graficznych o wysokiej wydajności oszczędza miejsce w pamięci, ale nie jest obsługiwany przez niektóre aplikacje innych firm. W zdjęciach wykonanych w tym formacie nie można usunąć znaków wodnych.</string>
   <string name="pref_camera_suspend_shutter_button_summary">Przeciągnij przycisk migawki w górę, aby stworzyć dodatkową, pływającą migawkę</string>
   <string name="pref_camera_suspend_shutter_button_title">Dodatkowa migawka</string>
-  <string name="pref_cv_watermark_summary">Podglądy są udostępniane wyłącznie w celach informacyjnych. Znak wodny Leica pojawi się na zdjęciach wykonanych w trybach „Zdjęcie” i „Portret”.</string>
+  <string name="pref_cv_watermark_summary">Podglądy są udostępniane wyłącznie w celach informacyjnych. Znak wodny Leica pojawi się na zdjęciach wykonanych w trybach „Zdjęcie” i „Profesjonalny”.</string>
   <string name="pref_cv_watermark_title">Znak wodny Leica</string>
   <string name="pref_privacy_watermark_edit_title">Edytuj znak wodny</string>
   <string name="stop_save_low_battery">Zapisz (%d sek.)</string>

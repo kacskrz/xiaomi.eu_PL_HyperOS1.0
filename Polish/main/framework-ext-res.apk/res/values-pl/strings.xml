@@ -524,4 +524,5 @@
   <string name="mw_guide_dialog_message">"Wygląda na to, że ta aplikacja nie wspiera Równoległych okien. Ustawiono dla niej inny, kompatybilny układ."</string>
   <string name="mw_guide_dialog_title">"Brak wsparcia dla Równoległych okien"</string>
   <string name="fold_small_not_split">"Dzielenie ekranu nie jest wspierane na zewnętrznym ekranie"</string>
+  <string name="open_miui_optimization">Najpierw włącz optymalizację MIUI</string>
 </resources>
