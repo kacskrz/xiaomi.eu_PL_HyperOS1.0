@@ -599,8 +599,8 @@ Jeśli włączysz ją ponownie, może zostać naliczona opłata za użycie danyc
     <string name="dlg_summary_close_wifi">Wyłącz Wi-Fi, Bluetooth i Hotspot</string>
     <string name="dlg_summary_nfc">Wyłącz NFC</string>
     <string name="dlg_summary_title">Ekstremalne oszczędzanie baterii zatrzymuje wszelką aktywność aplikacji po wyjściu na pulpit. Jeśli chcesz by aplikacja działała w tle dodaj ją do wyjątków.</string>
-  <string name="dnd_is_off">Godziny ciszy wyłączone</string>
-  <string name="dnd_notification_warnings_title">Włączone są Godziny ciszy. Połączenia i powiadomienia będą wyciszane.</string>
+  <string name="dnd_is_off">Tryb Nie przeszkadzać wyłączony</string>
+  <string name="dnd_notification_warnings_title">Włączono tryb Nie przeszkadzać. Połączenia i powiadomienia będą wyciszane.</string>
   <string name="do_disclosure_generic">Tym urządzeniem zarządza Twoja organizacja</string>
   <string name="do_disclosure_with_name">Tym urządzeniem zarządza %s</string>
   <string name="do_not_silence">Nie ignoruj</string>
@@ -1205,12 +1205,12 @@ długi zrzut ekranu"</string>
   <string name="miui_ringer_total">Godz. Ciszy</string>
   <string name="miui_ringer_total_description">Wycisza dźwięki i wyłącza wibracje dla wszystkich zdarzeń prócz alarmów</string>
   <string name="miui_screen_rotation_freeze_message">Zablokowano obrót ekranu w trybie horyzontalnym</string>
-  <string name="miui_toast_zen_dnd_to_off">Wyłączono tryb Godziny ciszy. Dźwięki i wibracje zostały przywrócone.</string>
+  <string name="miui_toast_zen_dnd_to_off">Wyłączono tryb Nie przeszkadzać. Dźwięki i wibracje zostały przywrócone.</string>
   <string name="miui_toast_zen_standard_to_off">Wyłączono tryb Cichy. Dźwięk dzwonków i powiadomień został przywrócony.</string>
-  <string name="miui_toast_zen_standard_to_off_when_shield_media">Wyłączono tryb Godziny ciszy. Dzwonki, powiadomienia i dźwięki multimediów będą słyszalne.</string>
-  <string name="miui_toast_zen_to_dnd">Włączono tryb Godziny ciszy. Dźwięki zostały wyciszone, a wibracje wyłączone.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Wyłączono tryb Nie przeszkadzać. Dzwonki, powiadomienia i dźwięki multimediów będą słyszalne.</string>
+  <string name="miui_toast_zen_to_dnd">Włączono tryb Nie przeszkadzać. Dźwięki zostały wyciszone, a wibracje wyłączone.</string>
   <string name="miui_toast_zen_to_standard">Włączono tryb Cichy. Dzwonki połączeń i powiadomień zastąpiono wibracjami.</string>
-  <string name="miui_toast_zen_to_standard_when_shield_media">Włączono tryb Godziny ciszy. Dzwonki, powiadomienia i dźwięki multimediów będą wyciszone.</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Włączono tryb Nie przeszkadzać. Dzwonki, powiadomienia i dźwięki multimediów będą wyciszone.</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mobile_data">Dane</string>
   <string name="mobile_data_always_on">Dane zawsze aktywne</string>
@@ -1329,7 +1329,7 @@ Aby dowiedzieć się więcej, skontaktuj się z administratorem.
   <string name="notification_channel_controls_closed_accessibility">Sterowanie powiadomieniami aplikacji %1$s zamknięte</string>
   <string name="notification_channel_controls_opened_accessibility">Sterowanie powiadomieniami aplikacji %1$s otwarte</string>
   <string name="notification_channel_disabled">Nie będziesz już otrzymywać tych powiadomień</string>
-  <string name="notification_channel_dnd">Godziny ciszy</string>
+  <string name="notification_channel_dnd">Nie przeszkadzać</string>
   <string name="notification_channel_general">Wiadomości</string>
   <string name="notification_channel_location">Lokalizacja</string>
   <string name="notification_channel_screenbutton">Przyciski</string>
@@ -1497,9 +1497,9 @@ Aby dowiedzieć się więcej, skontaktuj się z administratorem.
   <string name="qs_customize_remove">Usuń</string>
   <string name="qs_customize_title">Edytuj</string>
   <string name="qs_dnd_keep">Zachowaj</string>
-  <string name="qs_dnd_prompt_app">Godziny ciszy wyłączone przez aplikację (%s).</string>
-  <string name="qs_dnd_prompt_auto_rule">Godziny ciszy wyłączone przez regułę automatyczną (%s).</string>
-  <string name="qs_dnd_prompt_auto_rule_app">Godziny ciszy wyłączone przez regułę automatyczną lub aplikację.</string>
+  <string name="qs_dnd_prompt_app">Tryb Nie przeszkadzać wyłączony przez aplikację (%s).</string>
+  <string name="qs_dnd_prompt_auto_rule">Tryb Nie przeszkadzać wyłączony przez regułę automatyczną (%s).</string>
+  <string name="qs_dnd_prompt_auto_rule_app">Tryb Nie przeszkadzać wyłączony przez regułę automatyczną lub aplikację.</string>
   <string name="qs_dnd_replace">Zastąp</string>
   <string name="qs_dnd_until">Do: %s</string>
   <string name="qs_edit">Edytuj</string>
@@ -1581,7 +1581,7 @@ Aby dowiedzieć się więcej, skontaktuj się z administratorem.
   <string name="quick_settings_notifications_label">Powiadomienia</string>
   <string name="quick_settings_papermode_label">Tryb czytania</string>
   <string name="quick_settings_powermode_label">Wydajny</string>
-  <string name="quick_settings_quietmode_label">Godz. ciszy</string>
+  <string name="quick_settings_quietmode_label">Nie przeszkadzać</string>
   <string name="quick_settings_reset_confirmation_button">Ukryj</string>
   <string name="quick_settings_reset_confirmation_message">Pojawi się ponownie, gdy następnym włączysz go w ustawieniach.</string>
   <string name="quick_settings_reset_confirmation_title">Ukryć %1$s?</string>
@@ -2295,9 +2295,9 @@ Adres sieci Wi-Fi (BSSID):
     <string name="wifi_debugging_secondary_user_message">Obecnie działający użytkownik na tym urządzeniu nie może włączyć trybu debugowania poprzez sieć. Aby skorzystać z tej funkcji, przełącz się na domyślnego użytkownika.</string>
     <string name="wifi_debugging_secondary_user_title">Debugowanie poprzez sieć niedozwolone</string>
     <string name="wifi_debugging_title">Czy chcesz zezwolić na debugowanie poprzez sieć w ramach tej sieci?</string>
-    <string name="miui_toast_zen_dnd_to_off_version_R">Wyłączono tryb Godziny ciszy. Przywrócono dźwięki powiadomień oraz wibracje.</string>
+    <string name="miui_toast_zen_dnd_to_off_version_R">Wyłączono tryb Nie przeszkadzać. Przywrócono dźwięki powiadomień oraz wibracje.</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Wyłączono tryb Cichy. Przywrócono dźwięki powiadomień oraz multimediów, a także wibracje.</string>
-    <string name="miui_toast_zen_to_dnd_version_R">Włączono tryb Godziny ciszy. Powiadomienia będą wyciszone, a wibracje wyłączone.</string>
+    <string name="miui_toast_zen_to_dnd_version_R">Włączono tryb Nie przeszkadzać. Powiadomienia będą wyciszone, a wibracje wyłączone.</string>
     <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Włączono tryb Cichy. Powiadomienia oraz multimedia będą wyciszone, a wibracje wyłączone.</string>
     <string name="abc_slice_error">"Nie udało się połączyć"</string>
     <string name="abc_slice_more">Więcej</string>
@@ -2408,7 +2408,7 @@ Adres sieci Wi-Fi (BSSID):
     <string name="controls_structure_tooltip">Przeciągnij, aby zobaczyć więcej</string>
     <string name="demote">Oznacz to powiadomienie jako niebędące konwersacją</string>
     <string name="device_services">Usługi urządzenia</string>
-    <string name="dnd_suppressing_shade_text">Powiadomienia wstrzymane przez tryb Godziny ciszy</string>
+    <string name="dnd_suppressing_shade_text">Powiadomienia wstrzymane przez tryb Nie przeszkadzać</string>
     <string name="dock_alignment_not_charging">Zmień położenie telefonu, aby naładować go bezprzewodowo</string>
     <string name="dock_alignment_slow_charging">Zmień położenie telefonu, aby ładować go szybciej</string>
     <string name="drag_to_rearrange_tiles">Przytrzymaj i przeciągnij, aby zmienić położenie kafelków</string>
@@ -2524,7 +2524,7 @@ Czy nadal je pokazywać?"</string>
     <string name="priority_onboarding_appear_as_bubble_text">Wyświetlane jako pływający dymek nad aplikacjami</string>
     <string name="priority_onboarding_behavior">Rozmowy priorytetowe:</string>
     <string name="priority_onboarding_done_button_title">Rozumiem</string>
-    <string name="priority_onboarding_ignores_dnd_text">Ignorują tryb Godziny ciszy</string>
+    <string name="priority_onboarding_ignores_dnd_text">Ignorują tryb Nie przeszkadzać</string>
     <string name="priority_onboarding_settings_button_title">Ustawienia</string>
     <string name="priority_onboarding_show_at_top_text">Wyświetlają się na górze sekcji konwersacji</string>
     <string name="priority_onboarding_show_avatar_text">Wyświetlają zdjęcie profilowe na Ekranie blokady</string>
@@ -2639,7 +2639,7 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="zen_mode_warnings_all_time_content">Powiadomienia i połączenia będą wyciszone</string>
     <string name="zen_mode_warnings_keyguard_content">Powiadomienia i połączenia będą wyciszone, gdy urządzenie jest zablokowane</string>
     <string name="zen_mode_warnings_quit_immediately">Wyłącz</string>
-    <string name="zen_mode_warnings_title">Włączone Godziny ciszy</string>
+    <string name="zen_mode_warnings_title">Włączono tryb Nie przeszkadzać</string>
     <string name="accessibility_enter_lock_setting">Dotknij, aby otworzyć ustawienia Tapet blokady</string>
     <string name="accessibility_keyboard_delete_button">Usuń</string>
     <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps Lock</string>

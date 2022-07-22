@@ -79,7 +79,7 @@ Tablet może obliczać ilość przesłanych danych inaczej niż operator sieci k
     <string name="sim_lock_off">Aby korzystać z tabletu, trzeba wpisać PIN</string>
     <string name="sim_lock_on">Aby korzystać z tabletu, trzeba wpisać PIN</string>
     <string name="smartcover_sensitive_summary">Odblokuj lub blokuj tablet z aktywnym pokrowcem</string>
-    <string name="sound_mode">Tryb cichy i Godziny ciszy</string>
+    <string name="sound_mode">Tryb cichy i Nie przeszkadzać</string>
     <string name="sound_vibrate_settings">Dźwięk</string>
     <string name="storage_wizard_init_v2_internal_action">Pamięć tabletu</string>
     <string name="storage_wizard_init_v2_internal_summary">Tylko na aplikacje, pliki i multimedia na tym tablecie</string>

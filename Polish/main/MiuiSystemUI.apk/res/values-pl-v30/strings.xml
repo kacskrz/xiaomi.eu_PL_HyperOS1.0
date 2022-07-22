@@ -157,7 +157,7 @@ Spróbuj ponownie za %d sekund."</string>
     <string name="always_use_device">Zawsze otwieraj: %1$s po podłączeniu urządzenia %2$s</string>
     <string name="battery_low_percent_format">Pozostało %s</string>
     <string name="battery_low_title">Bateria może się wkrótce wyczerpać</string>
-    <string name="dnd_notification_warnings_title">Włączony jest tryb Godziny ciszy. Powiadomienia są wyciszone, a wibracje wyłączone.</string>
+    <string name="dnd_notification_warnings_title">Włączony jest tryb Nie przeszkadzać. Powiadomienia są wyciszone, a wibracje wyłączone.</string>
     <string name="invalid_charger">"Nie można ładować przez USB. Użyj ładowarki dołączonej do urządzenia."</string>
     <string name="invalid_charger_text">Użyj ładowarki dołączonej do urządzenia</string>
     <string name="invalid_charger_title">"Nie można ładować przez USB"</string>

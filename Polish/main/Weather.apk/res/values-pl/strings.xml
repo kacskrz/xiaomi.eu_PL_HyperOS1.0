@@ -239,7 +239,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="network_not_available">Brak połączenia z siecią</string>
   <string name="network_unavailable">Brak połączenia z siecią</string>
   <string name="night_not_disturb_settings_summary">Aplikacja nie będzie powiadamiać o pogodzie w godzinach 23:00 do 7:00</string>
-  <string name="night_not_disturb_settings_title">Godziny ciszy</string>
+  <string name="night_not_disturb_settings_title">Nie przeszkadzać</string>
   <string name="no_data">Brak danych</string>
   <string name="no_network_btn">Spróbuj ponownie</string>
   <string name="no_vote_ratio">Przeciw %1$s%%</string>

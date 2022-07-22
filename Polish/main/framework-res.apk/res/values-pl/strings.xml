@@ -15,7 +15,7 @@
   <string name="ColpMmi">Identyfikator połączonej linii</string>
   <string name="ColrMmi">Ograniczenie identyfikatora połączonej linii</string>
   <string name="CwMmi">Połączenia oczekujące</string>
-  <string name="DndMmi">Godziny ciszy</string>
+  <string name="DndMmi">Nie przeszkadzać</string>
   <string name="EmergencyCallWarningSummary">Nie można wykonać połączenia alarmowego przez Wi-Fi</string>
   <string name="EmergencyCallWarningTitle">Połączenie alarmowe jest niedostępne</string>
   <string name="Midnight">Północ</string>

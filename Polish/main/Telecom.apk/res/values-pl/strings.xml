@@ -469,7 +469,7 @@ Magazyn danych logowania może nie zostać włączony"</string>
   <string name="wednesday_short">Śr</string>
   <string name="wednesday_shortest">Śr</string>
   <string name="message_no_voice_capability">"Nie można wykonywać połączeń na tym urządzeniu"</string>
-  <string name="notification_channel_missed_call_DND">Godziny ciszy</string>
+  <string name="notification_channel_missed_call_DND">Nie przeszkadzać</string>
   <string name="wifi_connected_low_quality">Niska jakość</string>
   <string name="bluetooth_bc_profile_summary_connected">Połączono z serwerem BA</string>
   <string name="bluetooth_bc_profile_summary_use_for">Użyj do BA</string>

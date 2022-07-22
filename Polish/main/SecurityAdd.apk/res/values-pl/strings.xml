@@ -35,7 +35,7 @@
   <string name="dialog_text">Utwórz skrót na ekranie głównym dla Przyśpieszania gier</string>
   <string name="dont_bore">Nie pozwól przyciskom i powiadomieniom rozpraszać cię</string>
   <string name="dont_bore_text">Wycisz powiadomienia oraz wyłącz podświetlenie przycisków, aby nie rozpraszać</string>
-  <string name="dont_bore_title">Godziny ciszy</string>
+  <string name="dont_bore_title">Nie przeszkadzać</string>
   <string name="dual_app_title">Klonowanie aplikacji</string>
   <string name="dual_app_words">Twórz szybko i łatwo dwie wersje danej aplikacji</string>
   <string name="fastboot_locked_answer_1">Fastboot jest tradycyjną metodą wgrywania oprogramowaia do urządzeń Xiaomi. Gdy urządzenie znajduje się w trybie Fastboot, wszystkie zapisane na nim dane można bezpośrednio uzyskać, a także je usunąć. Blokujemy Fastboot, aby zapewnić bezpieczeństwo danych na wypadek utraty urządzenia, a także zagwarantować niezawodność funkcji Znajdź urządzenie.</string>

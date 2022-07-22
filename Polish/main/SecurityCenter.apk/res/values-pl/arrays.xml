@@ -189,7 +189,7 @@
         <item>Odczyt wszystkich powiadomień, w tym SMS-ów i innych treści mogących zawierać wrażliwe dane</item>
         <item>Ograniczenie uprawnień dot. powiadomień dla części aplikacji</item>
         <item>Symulowanie dotknięć powiadomień i otwieranie aplikacji</item>
-        <item>Włączanie i wyłączanie trybu Godziny ciszy</item>
+        <item>Włączanie i wyłączanie trybu Nie przeszkadzać</item>
     </string-array>
     <string-array name="perm_intercept_statitics">
         <item>Gromadzenie danych dot. Twoich zainteresowań i zachowań na podstawie uczenia się tego, jakich używasz aplikacji i jak często je uruchamiasz</item>

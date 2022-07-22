@@ -223,8 +223,8 @@
   <string name="pref_desc_alarm_when_silent">Alarmy będą słyszalne w trybie cichym</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Przesuń w górę dwoma palcami, aby usunąć notatkę bez potwierdzania"</string>
   <string name="pref_desc_todo_float_mode">Przesuń od krawędzi ekranu, aby otworzyć pasek zadań</string>
-  <string name="pref_remind_type_summary">Odtwórz dźwięk przypomnienia w trybie Godziny ciszy</string>
-  <string name="pref_remind_type_title">Ignoruj Godziny ciszy</string>
+  <string name="pref_remind_type_summary">Odtwórz dźwięk przypomnienia w trybie Nie przeszkadzać</string>
+  <string name="pref_remind_type_title">Ignoruj Nie przeszkadzać</string>
   <string name="pref_title_todo_float_mode">Użyj paska narzędzi</string>
   <string name="pref_title_todo_shorcut">Pasek narzędzi</string>
   <string name="pref_title_alarm_when_silent">Alarmy na wyciszeniu</string>
@@ -622,7 +622,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="sunday">Niedziela</string>
   <string name="sunday_short">Ndz</string>
   <string name="sunday_shortest">N</string>
-  <string name="pref_remind_type_summary_new_2">Odtwarzaj dźwięk nawet wtedy, gdy włączony jest tryb Cichy lub Godziny ciszy</string>
+  <string name="pref_remind_type_summary_new_2">Odtwarzaj dźwięk nawet wtedy, gdy włączony jest tryb Cichy lub Nie przeszkadzać</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d MMMM</string>

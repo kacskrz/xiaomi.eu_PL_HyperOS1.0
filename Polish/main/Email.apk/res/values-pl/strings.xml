@@ -414,13 +414,13 @@ IMAP"</string>
   <string name="discard">Odrzuć</string>
   <string name="discard_drafts">Odrzuć wersje robocze</string>
   <string name="dismiss_tip_hover_text">Zamknij wskazówkę</string>
-  <string name="disturb_switch">Godziny ciszy</string>
+  <string name="disturb_switch">Nie przeszkadzać</string>
   <string name="done">Gotowe</string>
   <string name="done_action">Gotowe</string>
   <string name="donot_disturb_endtime_title">Do</string>
   <string name="donot_disturb_starttime_title">Od</string>
   <string name="donot_disturb_summary">Powiadomienia o nowych wiadomościach zostaną wyciszone i ukryte</string>
-  <string name="donot_disturb_title">Godziny ciszy</string>
+  <string name="donot_disturb_title">Nie przeszkadzać</string>
   <string name="downlaod_cancel_confirm_download">Anuluj pobieranie</string>
   <string name="downlaod_cancel_continue_download">Anuluj</string>
   <string name="downlaod_confirm_download">Pobierz</string>
@@ -740,7 +740,7 @@ Spróbuj inną skrzynkę odbiorczą."</string>
   <string name="notification_action_undo_remove_label">Etykieta usunięta</string>
   <string name="notification_exchange_calendar_added">Dodany kalendarz exchange</string>
   <string name="notify_channel_new_mail">Nowe wiadomości</string>
-  <string name="notify_channel_no_disterb">Godziny ciszy</string>
+  <string name="notify_channel_no_disterb">Nie przeszkadzać</string>
   <string name="notify_channel_permission_notice">Wymagane uprawnienia</string>
   <string name="notify_channel_send_fail">Niedostarczenie wiadomości</string>
   <string name="notify_channel_service">Synchronizacja w tle</string>
