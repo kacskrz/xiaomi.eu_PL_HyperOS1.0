@@ -1684,4 +1684,27 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
 Zajrzyj tu wkrótce!"</string>
     <string name="pa_picker_list_recommend">Zalecane</string>
     <string name="pa_read_storage_permission_description">W celu wyświetlania tapety Twojego pulpitu jako tło aplikacji</string>
+    <string name="pa_filter_replace_bt">Zastosuj</string>
+    <string name="pa_filter_search_title">Wyniki dla \"%s\"</string>
+    <string name="pa_filter_title">Więcej widżetów</string>
+    <string name="pa_picker_accessibility_fab_description">Wróć na górę strony</string>
+    <string name="pa_picker_detail_bottom_download_app_and_add_widget">Zainstaluj aplikację</string>
+    <string name="pa_picker_detail_bottom_update_app_and_add_widget">Zaktualizuj aplikację</string>
+    <string name="pa_picker_no_relevant_content">"Nie znaleziono rezultatów"</string>
+    <string name="pa_picker_search">Szukaj</string>
+    <string name="pa_picker_search_card_header_accessibility_filter_icon">Filtr</string>
+    <string name="pa_picker_search_card_more_all_applications">Więcej aplikacji</string>
+    <string name="pa_picker_search_card_more_all_suits">Więcej zestawów widżetów</string>
+    <string name="pa_picker_search_recommendation_title">Zalecane</string>
+    <string name="pa_picker_search_result_empty">"Nie znaleziono rezultatów"</string>
+    <string name="pa_picker_search_result_type_application">Aplikacje</string>
+    <string name="pa_picker_search_result_type_recommend">Zalecane</string>
+    <string name="pa_picker_search_result_type_suit">Zestawy widżetów</string>
+    <string name="pa_picker_search_result_type_widget">Widżety</string>
+    <string name="pa_picker_tab_title_category">Kategorie</string>
+    <string name="pa_picker_tab_title_recommend">Zalecane</string>
+    <string name="pa_widget_menu_replace">Zmień</string>
+    <string name="pa_widget_need_download_permission">Uprawnienia</string>
+    <string name="pa_widget_need_download_privacy">Prywatność</string>
+    <string name="pa_widget_need_download_version">Wersja %1$s</string>
 </resources>
