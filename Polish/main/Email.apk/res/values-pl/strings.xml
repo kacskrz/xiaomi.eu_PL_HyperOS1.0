@@ -1700,4 +1700,10 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
   <string name="error_message_respond_revert_27">Hasło wygasło. Zaloguj się na pocztę Sohu w przeglądarce, aby uzyskać hasło wygenerowane przez serwer.</string>
   <string name="quick_translation">Przetłumacz</string>
   <string name="sync_contacts_req_per_ignored">Aby móc używać tej funkcji, zezwól tej aplikacji na synchronizację kontaktów</string>
+  <string name="account_settings_background_attachments_security_summary">Sprawdzaj załączniki zawierające pliki APK pod względem ich bezpieczeństwa</string>
+  <string name="account_settings_background_attachments_security_title">Sprawdzaj załączniki pod kątem zagrożeń</string>
+  <string name="attachments_security_alert_install_message">Ten załącznik to plik APK. Przed jego otwarciem upewnij się, że pochodzi on ze źródła, któremu ufasz. Zainstalować go?</string>
+  <string name="attachments_security_alert_install_title">Uwaga</string>
+  <string name="attachments_security_alert_message">Ta wiadomość zawiera plik APK. Przed jego otwarciem upewnij się, że pochodzi on ze źródła, któremu ufasz.</string>
+  <string name="attachments_security_install">Zainstaluj</string>
 </resources>

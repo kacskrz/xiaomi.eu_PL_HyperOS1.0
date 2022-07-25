@@ -490,4 +490,5 @@ Magazyn danych logowania może nie zostać włączony"</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
   <string name="notification_disconnectedDialing_message">Nie można nawiązać połączenia, ponieważ trwa już wybieranie numeru innego połączenia wychodzącego.</string>
+  <string name="fraud_toast_message">Możesz zarządzać przekierowaniem połączeń w Ustawieniach</string>
 </resources>

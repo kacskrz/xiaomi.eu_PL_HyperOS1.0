@@ -1765,4 +1765,6 @@
      <string name="vlog_trans_zuoyi">Ruch w lewo</string>
      <string name="photo_editor_gallery_frame">Artystyczne ramki</string>
      <string name="tips_support_gallery_frame">Funkcja wspierana wyłącznie dla zdjęć wykonanych przez urządzenia Xiaomi opracowane przy współpracy z Leicą</string>
+     <string name="filter_popular_milk_green">Pistacja</string>
+     <string name="filter_popular_slightly_blue">Barwinek</string>
 </resources>
