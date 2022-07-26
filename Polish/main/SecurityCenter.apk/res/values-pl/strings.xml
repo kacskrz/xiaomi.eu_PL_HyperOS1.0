@@ -5346,7 +5346,7 @@ Twoje urządzenie działa teraz %s szybciej."</string>
     <string name="bill_remind">Ostrzeżenie dot. stanu konta</string>
     <string name="bill_reminder_summary">Przypomnij o naładowaniu konta, gdy jego stan będzie niższy niż %1s</string>
     <string name="bill_traffic_reminder_instruction">Uwaga</string>
-    <string name="bill_traffic_reminder_instruction_text">Szczegóły planów dostarczanych przez operatorów mogą się różnić. Ponadto mogą wystąpić opóźnienia w rachunkach. Informacje dostarczane tutaj mają wyłącznie charakter poglądowy.</string>
+    <string name="bill_traffic_reminder_instruction_text">Metody rozliczeń i standardy obliczania danych u różnych operatorów mogą się różnić. Mogą wystąpić opóźnienia w rozliczeniach. Statystyki użytkowania podane tutaj mają charakter wyłącznie poglądowy.</string>
     <string name="click_to_charge_bill">Naładuj konto</string>
     <string name="click_to_set_carrier">Dotknij, aby ustawić</string>
     <string name="click_to_set_personalized_reminder">Ustaw ostrzeżenia</string>
@@ -5605,4 +5605,25 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\
     <string name="screen_share_warning_summary">"Twoje powiadomienia nie będą wyświetlane na zewnętrznym ekranie."</string>
     <string name="screen_share_warning_title">"Powiadomienia nie są wyświetlane"</string>
     <string name="system_anti_fraud_stayaway_from_risk">Unikaj cyfrowych oszustw</string>
+    <string name="beauty_fc_assistant_summary_common">Używaj dodatkowych funkcji za pomocą przedniego aparatu</string>
+    <string name="beauty_fc_auto_brightness">Automatycznie dostosowuj jasność światła wypełniającego</string>
+    <string name="enable_notification_title">Zezwolić aplikacji %1$s na korzystanie z powiadomień?</string>
+    <string name="gb_predownload_message_new">Automatycznie aktualizuj kompatybilne gry, gdy nie używasz urządzenia</string>
+    <string name="over_package_reminder_type">Po wykorzystaniu planu danych</string>
+    <string name="reach_warning_reminder_type">Gdy osiągnięto limit danych</string>
+    <string name="reminder_click_to_close_tips">Możesz włączać i wyłączać ostrzeżenia dot. zużycia danych w Panelu sterowania > Użycie danych > Ustawienia.</string>
+    <string name="HIPS_Perm_External_READ_FILES">Dostęp do plików i dokumentów</string>
+    <string name="HIPS_Perm_External_READ_FILES_Desc">Dostęp do plików i dokumentów znajdujących się na tym urządzeniu</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Dostęp do plików audio</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Dostęp do piosenek i innych plików audio znajdujących się na tym urządzeniu</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Dostęp do zdjęć i filmów</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Dostęp do zdjęć i filmów znajdujących się na tym urządzeniu</string>
+    <string name="category_no_scoped">Inne aplikacje</string>
+    <string name="category_scoped">Kompatybilne aplikacje</string>
+    <string name="permission_instruction_media_audio">To uprawnienie pozwala aplikacjom na dostęp do piosenek i innych plików audio znajdujących się na tym urządzeniu. Te elementy mogą zawierać informacje osobiste.</string>
+    <string name="permission_instruction_media_files">To uprawnienie pozwala aplikacjom na dostęp do plików i dokumentów znajdujących się na tym urządzeniu. Te elementy mogą zawierać informacje osobiste.</string>
+    <string name="permission_instruction_read_media_pic">To uprawnienie pozwala aplikacjom na dostęp do zdjęć i filmów znajdujących się na tym urządzeniu. Te elementy mogą zawierać informacje osobiste.</string>
+    <string name="permission_instruction_scoped">Nowy mechanizm ochrony pamięci umożliwia Ci lepszą kontrolę nad korzystaniem z pamięci przez kompatybilne aplikacje</string>
+    <string name="storage_compact_warning">Dostosowywanie różnych uprawnień</string>
+    <string name="storage_compact_warning_desc">"Ta aplikacja nie wspiera dostosowywania indywidualnych uprawnień dla zdjęć, filmów, dźwięków, plików lub dokumentów."</string>
 </resources>

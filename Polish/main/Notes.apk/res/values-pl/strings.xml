@@ -890,4 +890,10 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="widget_size_item_super_big">Wielki</string>
   <string name="widget_size_not_support">"Wielkie widżety nie są wspierane na tym urządzeniu"</string>
   <string name="select_up_limit_toast">Wybierz maks. %d elementów</string>
+  <string name="dlg_info_save_to_local_message">Zapisywanie…</string>
+  <string name="permission_storage_desc_new_v12">W celu dodawania obrazków do notatek i zapisywania notatek jako obrazy</string>
+  <string name="permission_storage_desc_pad_new_v12">W celu dodawania obrazków do notatek i zapisywania notatek jako obrazy</string>
+  <string name="save_to_local_failure_message">"Nie udało się zapisać"</string>
+  <string name="save_to_local_icon_name">Zapisz</string>
+  <string name="save_to_local_success_message">Pomyślnie zapisano</string>
 </resources>

@@ -276,7 +276,7 @@ musisz najpierw utworzyć kopię zapasową iCloud."</string>
   <string name="local_main_backup_time">Ostatnia kopia: %1$s</string>
   <string name="local_main_date_format">dd.MM.yyyy, HH:mm</string>
   <string name="local_main_encrypt_backup_summary">Zaszyfruj elementy kopii zapasowej za pomocą swojego konta Xiaomi</string>
-  <string name="local_main_encrypt_backup_title">Zaszyfruj kopie</string>
+  <string name="local_main_encrypt_backup_title">Zweryfikuj konto, aby przywrócić kopię</string>
   <string name="local_main_latest_backup_time_loading">Chwileczkę…</string>
   <string name="local_no_backup">Brak lokalnych kopii</string>
   <string name="local_no_backup_data">Nie ma tu jeszcze żadnych kopii</string>
@@ -962,4 +962,6 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="revoke_permission_dialog_content">"Nie będzie można wykonywać i przywracać kopii zapasowych elementów bez wszystkich niezbędnych uprawnień. Wycofać je mimo to?"</string>
   <string name="user_know_button_text">Rozumiem</string>
   <string name="backup_notification_title">\"Kopia zapasowa\" pracuje…</string>
+  <string name="backup_notice_content">"Twoje kopie zapasowe nie będą szyfrowane, co oznacza, iż mogą do nich uzyskiwać dostęp aplikacje firm trzecich. Mogą również wystąpić inne zagrożenia bezpieczeństwa urządzenia. Upewnij się, że przechowywasz skopiowane elementy w dobrze chronionym środowisku."</string>
+  <string name="backup_notice_title">Uwaga</string>
 </resources>

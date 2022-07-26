@@ -822,4 +822,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="user_agreement_use_account_msg">Konto Xiaomi umożliwia Ci dostęp do wszystkich usług Xiaomi.</string>
   <string name="child_account_system_ad_disable_hint">Ta funkcja nie jest dostępna dla kont dzieci</string>
   <string name="family_service">Usługi rodzinne</string>
+  <string name="account_user_avatar_activity_not_found">"Nie udało się otworzyć Galerii"</string>
 </resources>
