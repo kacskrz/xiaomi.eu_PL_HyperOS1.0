@@ -275,4 +275,5 @@ dd.MM"</string>
     <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
     <string name="miuix_indexer_collect">Kolekcje</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
+    <string name="add_from_local">Wybierz obraz</string>
 </resources>

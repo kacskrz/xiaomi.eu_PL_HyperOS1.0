@@ -5626,4 +5626,26 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\
     <string name="permission_instruction_scoped">Nowy mechanizm ochrony pamięci umożliwia Ci lepszą kontrolę nad korzystaniem z pamięci przez kompatybilne aplikacje</string>
     <string name="storage_compact_warning">Dostosowywanie różnych uprawnień</string>
     <string name="storage_compact_warning_desc">"Ta aplikacja nie wspiera dostosowywania indywidualnych uprawnień dla zdjęć, filmów, dźwięków, plików lub dokumentów."</string>
+    <string name="added_game_notification_summary">Zacznij grać</string>
+    <string name="added_game_notification_title">Aplikacja %s jest już w Game Turbo</string>
+    <string name="added_game_start_game">Graj</string>
+    <string name="bubble_mode_barrage_switch_tips">Włącz, aby wyświetlać dymki konwersacji dla zminimalizowanych aplikacji jako komentarze na ekranie</string>
+    <string name="bubble_mode_barrage_tips">Dymki konwersacji dla zminimalizowanych aplikacji będą wyświetlane jako komentarze na ekranie</string>
+    <string name="dialog_btn_delete_icon">Usuń</string>
+    <string name="dialog_btn_no_create_icon">Anuluj</string>
+    <string name="dialog_btn_yes_create_icon">Dodaj</string>
+    <string name="dialog_msg_create_icon_content">Dodać skrót na pulpicie?</string>
+    <string name="dialog_msg_create_icon_not_remain_anymore">"Nie wyświetlaj ponownie"</string>
+    <string name="dialog_msg_delete_icon_content">Panel sterowania umożliwia Ci usunięcie śmieci z urządzenia, odnalezienie i neutralizację wirusów, oszczędzanie baterii, zarządzanie uprawnieniami i inne rzeczy.</string>
+    <string name="dialog_msg_delete_icon_title">Usunąć ten skrót z pulpitu?</string>
+    <string name="gb_beauty_cold_light">Zimne</string>
+    <string name="gb_beauty_face">Upiększanie</string>
+    <string name="gb_beauty_light">Światło wypełniające</string>
+    <string name="gb_beauty_nature_light">Naturalne</string>
+    <string name="gb_beauty_warm_light">Ciepłe</string>
+    <string name="manual_item_create_icon_title">Skrót na pulpicie</string>
+    <string name="power_center_battery_duration_screen_on">Pozostały czas na ekranie</string>
+    <string name="power_center_dialog_msg_title_screen_on">"Jeśli włączysz tę funkcję, uzyskasz %1$s czasu na ekranie. Oto środki, które pozwolą zaoszczędzić baterię:"</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">Pozostało %1$s %2$s czasu na ekranie</string>
+    <string name="power_main_open_last_hour_minute_screen_on">Włącz, aby dodać %1$s %2$s czasu na ekranie</string>
 </resources>

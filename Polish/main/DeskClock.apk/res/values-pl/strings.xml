@@ -568,4 +568,5 @@
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="alert_page_desc">Przytrzymaj i przesuń w górę, aby wyłączyć alarm</string>
 </resources>

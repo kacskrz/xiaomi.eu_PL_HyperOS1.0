@@ -964,4 +964,8 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="backup_notification_title">\"Kopia zapasowa\" pracuje…</string>
   <string name="backup_notice_content">"Twoje kopie zapasowe nie będą szyfrowane, co oznacza, iż mogą do nich uzyskiwać dostęp aplikacje firm trzecich. Mogą również wystąpić inne zagrożenia bezpieczeństwa urządzenia. Upewnij się, że przechowywasz skopiowane elementy w dobrze chronionym środowisku."</string>
   <string name="backup_notice_title">Uwaga</string>
+  <string name="category_contacts">Kontakty</string>
+  <string name="category_message_contacts">SMS-y i Kontakty</string>
+  <string name="permission_read_write_sys_app1">Aby móc wykonać kopię zapasową lub przywrócić SMS-y i kontakty, zezwól tej funkcji na dostęp do nich.</string>
+  <string name="permission_read_write_sys_app2">Aby móc wykonać kopię zapasową lub przywrócić kontakty, zezwól tej funkcji na dostęp do nich.</string>
 </resources>

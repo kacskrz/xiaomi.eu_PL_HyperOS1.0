@@ -823,4 +823,12 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="child_account_system_ad_disable_hint">Ta funkcja nie jest dostępna dla kont dzieci</string>
   <string name="family_service">Usługi rodzinne</string>
   <string name="account_user_avatar_activity_not_found">"Nie udało się otworzyć Galerii"</string>
+  <string name="cloud_member">Członkostwo</string>
+  <string name="cloud_member_status_expired">Wygasło</string>
+  <string name="cloud_member_status_expired_soon">Wygasa wkrótce</string>
+  <string name="cloud_member_status_non_vip">Ulepsz</string>
+  <string name="cloud_member_vipname_free">Darmowe</string>
+  <string name="cloud_member_vipname_mega">Mega</string>
+  <string name="cloud_member_vipname_premium">Premium</string>
+  <string name="cloud_member_vipname_ultra">Ultra</string>
 </resources>

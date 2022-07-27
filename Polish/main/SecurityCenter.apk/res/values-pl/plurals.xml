@@ -1197,4 +1197,20 @@ Zrób sobie przerwę!"</item>
         <item quantity="few">%d nowe powiadomienia</item>
         <item quantity="other">%d nowych powiadomień</item>
     </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s godz.</item>
+        <item quantity="one">%s godz.</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">Pozostało %s min. czasu na ekranie</item>
+        <item quantity="one">Pozostało %s min. czasu na ekranie</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Włącz, aby dodać %s min. czasu na ekranie</item>
+        <item quantity="one">Włącz, aby dodać %s min. czasu na ekranie</item>
+    </plurals>
 </resources>

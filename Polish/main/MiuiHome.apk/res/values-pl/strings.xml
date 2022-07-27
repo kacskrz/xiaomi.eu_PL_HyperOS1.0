@@ -953,4 +953,6 @@
   <string name="password_toggle_content_description">Pokaż hasło</string>
   <string name="external_not_support_split_screen_j18">"Dzielenie ekranu nie jest wspierane na zewnętrznym ekranie"</string>
   <string name="miui_widget_menu_replace_text">Zmień</string>
+  <string name="monochrome_summary">Zmień kolor tła kompatybilnych ikon</string>
+  <string name="monochrome_title">Kolor tła</string>
 </resources>
