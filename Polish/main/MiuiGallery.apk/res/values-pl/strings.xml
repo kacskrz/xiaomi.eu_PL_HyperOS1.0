@@ -1244,7 +1244,7 @@
   <string name="projection_cancel">Anuluj</string>
   <string name="projection_checkbox_text">Pamiętaj ten wyświetlacz</string>
   <string name="projection_device_connection_failed">Nie można połączyć się z projektorem</string>
-  <string name="projection_local_mobile">Telefon</string>
+  <string name="projection_local_mobile">Urządzenie</string>
   <string name="projection_multi_title">Lista urządzeń</string>
   <string name="projection_screen_project_in_screening">Używasz teraz swojego urządzenia do przesyłania</string>
   <string name="projection_single_title">Prześlij na %s</string>
@@ -3205,4 +3205,8 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
   <string name="assistant_today_of_year_function_no_photo_tip">Zacznij</string>
   <string name="ocr_switch_hint">Rozpoznawaj tekst wyświetlany na zdjęciach, aby móc go wybrać lub podjąć jakąś akcję</string>
   <string name="ocr_switch_title">Rozpoznawaj tekst na zdjęciach</string>
+  <string name="cta_screenthrow_declare">"Aby móc przesyłać ekran tego urządzenia na zewnętrzne monitory, aplikacja musi się połączyć z Internetem."</string>
+  <string name="fail_reason_migrate">Przetwarzanie elementów… Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="home_sdcard_op_tip_msg">"Nie udało się ukończyć tej akcji dla wszystkich wybranych zdjęć. Odmontuj i zamontuj ponownie swoją kartę pamięci."</string>
+  <string name="home_sdcard_tip_msg">Wygląda na to, że Twoja karta pamięci jest w trybie tylko do odczytu. Odmontuj i zamontuj ją ponownie w Ustawieniach &gt; O telefonie &gt; Pamięć.</string>
 </resources>
