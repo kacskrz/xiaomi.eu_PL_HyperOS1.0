@@ -1706,4 +1706,7 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
   <string name="attachments_security_alert_install_title">Uwaga</string>
   <string name="attachments_security_alert_message">Ta wiadomość zawiera plik APK. Przed jego otwarciem upewnij się, że pochodzi on ze źródła, któremu ufasz.</string>
   <string name="attachments_security_install">Zainstaluj</string>
+  <string name="close_tips">Wyłączenie przypomnień</string>
+  <string name="folder_junk_name_en5">Spam</string>
+  <string name="message_invite_calendar_download_prompt">Pobierz Kalendarz, aby móc korzystać z tej funkcji</string>
 </resources>

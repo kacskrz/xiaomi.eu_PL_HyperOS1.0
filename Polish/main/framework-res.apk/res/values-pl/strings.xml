@@ -1806,4 +1806,112 @@ dotyczące konta %2$s."</string>
   <string name="face_recalibrate_notification_title">Problem z rozpoznawaniem twarzy</string>
   <string name="face_error_vendor_unknown">Coś poszło nie tak. Spróbuj ponownie.</string>
   <string name="fingerprint_error_vendor_unknown">Coś poszło nie tak. Spróbuj ponownie.</string>
+  <string name="app_streaming_blocked_message">Z aplikacji nie można skorzystać na urządzeniu %1$s. Użyj telefonu.</string>
+  <string name="app_streaming_blocked_message_for_fingerprint_dialog">Ta aplikacja wymaga dodatkowych zabezpieczeń. Użyj telefonu.</string>
+  <string name="app_streaming_blocked_message_for_permission_dialog">W tej chwili na urządzeniu %1$s nie można skorzystać z aplikacji. Użyj telefonu.</string>
+  <string name="app_streaming_blocked_title">%1$s – brak dostępu</string>
+  <string name="app_streaming_blocked_title_for_camera_dialog">Aparat niedostępny</string>
+  <string name="app_streaming_blocked_title_for_fingerprint_dialog">Kontynuuj na telefonie</string>
+  <string name="app_streaming_blocked_title_for_microphone_dialog">Mikrofon niedostępny</string>
+  <string name="app_streaming_blocked_title_for_permission_dialog">Wymagane są uprawnienia</string>
+  <string name="app_streaming_blocked_title_for_settings_dialog">Ustawienia telefonu są niedostępne</string>
+  <string name="autofill_picker_some_suggestions">{count,plural, =1{Jedna propozycja autouzupełnienia}few{# propozycje autouzupełniania}many{# propozycji autouzupełniania}other{# propozycji autouzupełniania}}</string>
+  <string name="bugreport_countdown">{count,plural, =1{Zrzut ekranu do raportu o błędzie zostanie zrobiony za # sekundę.}few{Zrzut ekranu do raportu o błędzie zostanie zrobiony za # sekundy.}many{Zrzut ekranu do raportu o błędzie zostanie zrobiony za # sekund.}other{Zrzut ekranu do raportu o błędzie zostanie zrobiony za # sekundy.}}</string>
+  <string name="device_policy_manager_service">Usługa menedżera zasad dotyczących urządzeń</string>
+  <string name="duration_days_relative">{count,plural, =1{# dzień temu}few{# dni temu}many{# dni temu}other{# dnia temu}}</string>
+  <string name="duration_days_relative_future">{count,plural, =1{# dzień}few{# dni}many{# dni}other{# dnia}}</string>
+  <string name="duration_days_shortest">%d d.</string>
+  <string name="duration_days_shortest_future">za %d d.</string>
+  <string name="duration_hours_relative">{count,plural, =1{# godzinę temu}few{# godziny temu}many{# godzin temu}other{# godziny temu}}</string>
+  <string name="duration_hours_relative_future">{count,plural, =1{# godzina}few{# godziny}many{# godzin}other{# godziny}}</string>
+  <string name="duration_hours_shortest">%d godz.</string>
+  <string name="duration_hours_shortest_future">za %d godz.</string>
+  <string name="duration_minutes_relative">{count,plural, =1{# minutę temu}few{# minuty temu}many{# minut temu}other{# minuty temu}}</string>
+  <string name="duration_minutes_relative_future">{count,plural, =1{# minuta}few{# minuty}many{# minut}other{# minuty}}</string>
+  <string name="duration_minutes_shortest">%d min</string>
+  <string name="duration_minutes_shortest_future">za %d min</string>
+  <string name="duration_years_relative">{count,plural, =1{# rok temu}few{# lata temu}many{# lat temu}other{# roku temu}}</string>
+  <string name="duration_years_relative_future">{count,plural, =1{# rok}few{# lata}many{# lat}other{# roku}}</string>
+  <string name="duration_years_shortest">%d r.</string>
+  <string name="duration_years_shortest_future">za %d r.</string>
+  <string name="face_sensor_privacy_enabled">Aby używać rozpoznawania twarzy, włącz <b>dostęp do aparatu</b> w Ustawieniach i prywatności</string>
+  <string name="file_count">{count,plural, =1{{file_name} + # plik}few{{file_name} + # pliki}many{{file_name} + # plików}other{{file_name} + # pliku}}</string>
+  <string name="fingerprint_acquired_imager_dirty_alt">Wyczyść czujnik i spróbuj ponownie</string>
+  <string name="fingerprint_error_not_match">Nie rozpoznano odcisku palca</string>
+  <string name="fingerprint_udfps_error_not_match">Nie rozpoznano odcisku palca</string>
+  <string name="fp_power_button_bp_message">"Naciśnięto przycisk zasilania — zwykle powoduje to wyłączenie ekranu.
+
+Kliknij delikatnie, aby zweryfikować odcisk palca."</string>
+  <string name="fp_power_button_bp_negative_button">Dalej</string>
+  <string name="fp_power_button_bp_positive_button">Wyłącz ekran</string>
+  <string name="fp_power_button_bp_title">Kontynuować weryfikację odcisku palca?</string>
+  <string name="fp_power_button_enrollment_message">"Naciśnięto przycisk zasilania — zwykle powoduje to wyłączenie ekranu.
+
+Klikaj delikatnie podczas konfigurowania odcisku palca."</string>
+  <string name="fp_power_button_enrollment_negative_button">Konfiguruj dalej</string>
+  <string name="fp_power_button_enrollment_positive_button">Wyłącz ekran</string>
+  <string name="fp_power_button_enrollment_title">Kontynuować konfigurowanie?</string>
+  <string name="guest_name">Gość</string>
+  <string name="in_progress">w toku</string>
+  <string name="input_method_ime_switch_button_desc">Przełącz metodę wprowadzania</string>
+  <string name="input_method_nav_back_button_desc">Wstecz</string>
+  <string name="last_num_days">{count,plural, =1{Ostatni # dzień}few{Ostatnie # dni}many{Ostatnich # dni}other{Ostatnie # dnia}}</string>
+  <string name="log_access_confirmation_allow">Zezwól na jednorazowy dostęp</string>
+  <string name="log_access_confirmation_body">"Dzienniki urządzenia zapisują, co dzieje się na urządzeniu. Aplikacje mogą ich używać do wykrywania i rozwiązywania problemów.
+
+Niektóre dzienniki mogą zawierać poufne dane, dlatego na dostęp do wszystkich dzienników zezwalaj tylko aplikacjom, którym ufasz. 
+
+Nawet jeśli nie zezwolisz tej aplikacji na dostęp do wszystkich dzienników na urządzeniu, będzie miała dostęp do własnych. Producent urządzenia nadal będzie mógł korzystać z niektórych dzienników na urządzeniu. Więcej informacji"</string>
+  <string name="log_access_confirmation_deny">Nie zezwalaj</string>
+  <string name="log_access_confirmation_title">Zezwolić aplikacji %s na dostęp do wszystkich dzienników urządzenia?</string>
+  <string name="log_access_do_not_show_again">Nie pokazuj ponownie</string>
+  <string name="matches_found">{count,plural, =1{# dopasowanie}few{# z {total}}many{# z {total}}other{# z {total}}}</string>
+  <string name="mte_override_notification_message">Wydajność i stabilność systemu mogą się pogorszyć. Uruchom ponownie, aby wyłączyć. Jeśli włączono, korzystając z arm64.memtag.bootctl, wcześniej ustaw tu „none”.</string>
+  <string name="mte_override_notification_title">Włączono eksperymentalne rozszerzenie MTE</string>
+  <string name="notification_action_check_bg_apps">Sprawdź aktywne aplikacje</string>
+  <string name="notification_channel_abusive_bg_apps">Aktywność w tle</string>
+  <string name="notification_content_abusive_bg_apps">Aplikacja %1$s działa w tle. Kliknij, by zarządzać wykorzystaniem baterii.</string>
+  <string name="notification_content_long_running_fgs">Aplikacja %1$s może mieć wpływ na czas pracy na baterii. Kliknij, aby sprawdzić aktywne aplikacje.</string>
+  <string name="notification_title_abusive_bg_apps">Aplikacja zużywa baterię</string>
+  <string name="notification_title_long_running_fgs">Aplikacja jest wciąż aktywna</string>
+  <string name="permdesc_bodySensors_background">Zezwala aplikacji na dostęp do danych z czujników na ciele, takich jak tętno, temperatura i poziom saturacji, gdy aplikacja ta jest używana w tle.</string>
+  <string name="permdesc_nearby_wifi_devices">Zezwala aplikacji na przesyłanie informacji o sobie, łączenie się z urządzeniami Wi‑Fi w pobliżu i określanie ich względnego położenia</string>
+  <string name="permdesc_postNotification">Zezwala aplikacji na pokazywanie powiadomień</string>
+  <string name="permdesc_readBasicPhoneState">Zezwól na dostęp aplikacji do podstawowych funkcji telefonicznych na urządzeniu.</string>
+  <string name="permdesc_readMediaAudio">Zezwala na odczyt przez aplikację plików audio w pamięci współdzielonej.</string>
+  <string name="permdesc_readMediaImages">Zezwala na odczyt przez aplikację plików graficznych w pamięci współdzielonej.</string>
+  <string name="permdesc_readMediaVideo">Zezwala na odczyt przez aplikację plików wideo w pamięci współdzielonej.</string>
+  <string name="permdesc_startReviewPermissionDecisions">Umożliwia posiadaczowi uruchomienie ekranu w celu przeglądania decyzji dotyczących uprawnień. Zwykłe aplikacje nie powinny tego potrzebować.</string>
+  <string name="permdesc_startViewAppFeatures">Umożliwia posiadaczowi rozpoczęcie przeglądania informacji o funkcjach aplikacji.</string>
+  <string name="permgroupdesc_notifications">pokazuj powiadomienia</string>
+  <string name="permgroupdesc_readMediaAural">dostęp do muzyki i dźwięku na urządzeniu</string>
+  <string name="permgroupdesc_readMediaVisual">dostęp do zdjęć i filmów na urządzeniu</string>
+  <string name="permgrouplab_notifications">Powiadomienia</string>
+  <string name="permgrouplab_readMediaAural">Muzyka i dźwięk</string>
+  <string name="permgrouplab_readMediaVisual">Zdjęcia i filmy</string>
+  <string name="permlab_bodySensors_background">Zezwól na dostęp do danych z czujników na ciele, np. tętna, podczas używania aplikacji w tle</string>
+  <string name="permlab_nearby_wifi_devices">interakcje z urządzeniami Wi-Fi w pobliżu</string>
+  <string name="permlab_postNotification">pokazuj powiadomienia</string>
+  <string name="permlab_readBasicPhoneState">odczyt podstawowych informacji na temat stanu usług telefonicznych i tożsamości</string>
+  <string name="permlab_readMediaAudio">odczyt plików audio z pamięci współdzielonej</string>
+  <string name="permlab_readMediaImages">odczyt plików graficznych z pamięci współdzielonej</string>
+  <string name="permlab_readMediaVideo">odczyt plików wideo z pamięci współdzielonej</string>
+  <string name="permlab_startReviewPermissionDecisions">rozpoczęcie wyświetlania decyzji dotyczących uprawnień</string>
+  <string name="permlab_startViewAppFeatures">rozpoczęcie wyświetlania funkcji aplikacji</string>
+  <string name="review_notification_settings_dismiss">Odrzuć</string>
+  <string name="review_notification_settings_remind_me_action">Przypomnij później</string>
+  <string name="review_notification_settings_text">W Androidzie 13 i nowszych zainstalowane aplikacje będą potrzebowały zezwolenia na wysyłanie powiadomień. Kliknij, aby zmienić uprawnienia dla istniejących aplikacji.</string>
+  <string name="review_notification_settings_title">Sprawdź ustawienia powiadomień</string>
+  <string name="ssl_ca_cert_warning">{count,plural, =1{Zainstalowany certyfikat}few{Zainstalowane certyfikaty}many{Zainstalowane certyfikaty}other{Zainstalowane certyfikaty}}</string>
+  <string name="supervised_user_creation_label">Dodaj nadzorowanego użytkownika</string>
+  <string name="system_locale_title">Ustawienie domyślne systemu</string>
+  <string name="vdm_camera_access_denied">Nie można korzystać z aparatu telefonu na urządzeniu %1$s</string>
+  <string name="zen_mode_duration_hours">{count,plural, =1{Przez 1 godzinę}few{Przez # godziny}many{Przez # godzin}other{Przez # godziny}}</string>
+  <string name="zen_mode_duration_hours_short">{count,plural, =1{Przez 1 godz.}few{Przez # godz.}many{Przez # godz.}other{Przez # godz.}}</string>
+  <string name="zen_mode_duration_hours_summary">{count,plural, =1{Przez 1 godzinę (do {formattedTime})}few{Przez # godziny (do {formattedTime})}many{Przez # godzin (do {formattedTime}))}other{Przez # godziny (do {formattedTime})}}</string>
+  <string name="zen_mode_duration_hours_summary_short">{count,plural, =1{Przez 1 godz. (do {formattedTime})}few{Przez # godz. (do {formattedTime})}many{Przez # godz. (do {formattedTime})}other{Przez # godz. (do {formattedTime})}}</string>
+  <string name="zen_mode_duration_minutes">{count,plural, =1{Przez 1 minutę}few{Przez # minuty}many{Przez # minut}other{Przez # minuty}}</string>
+  <string name="zen_mode_duration_minutes_short">{count,plural, =1{Przez 1 min}few{Przez # min}many{Przez # min}other{Przez # min}}</string>
+  <string name="zen_mode_duration_minutes_summary">{count,plural, =1{Przez 1 minutę (do {formattedTime})}few{Przez # minuty (do {formattedTime})}many{Przez # minut (do {formattedTime})}other{Przez # minuty (do {formattedTime})}}</string>
+  <string name="zen_mode_duration_minutes_summary_short">{count,plural, =1{Przez 1 min (do {formattedTime})}few{Przez # min (do {formattedTime})}many{Przez # min (do {formattedTime})}other{Przez # min (do {formattedTime})}}</string>
 </resources>

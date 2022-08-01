@@ -209,4 +209,25 @@
         <item>Wył.</item>
         <item>Wł.</item>
     </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Niedostępna</item>
+        <item>Wyłączona</item>
+        <item>Włączona</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Niedostępny</item>
+        <item>Wyłączony</item>
+        <item>Włączony</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Niedostępny</item>
+        <item>Wyłączony</item>
+        <item>Włączony</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Przenieś w lewo</item>
+        <item>Przenieś w dół</item>
+        <item>Przenieś w prawo</item>
+        <item>Przenieś w górę</item>
+    </string-array>
 </resources>

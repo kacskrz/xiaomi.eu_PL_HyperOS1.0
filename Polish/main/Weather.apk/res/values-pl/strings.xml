@@ -467,4 +467,10 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="dialog_score_very_good">Usatysfakcjonowany</string>
   <string name="pad_real_time_detail_title">Wskaźniki</string>
   <string name="content_desc_activity_main_page">Strona %1$d z %2$d</string>
+  <string name="indices_wind_direction_east">Wsch.</string>
+  <string name="indices_wind_direction_north">Płn.</string>
+  <string name="indices_wind_direction_south">Płd.</string>
+  <string name="indices_wind_direction_west">Zach.</string>
+  <string name="setting_notification_manager">Powiadomienia</string>
+  <string name="setting_used_to_push_reminder">Otrzymuj ostrzeżenia i alerty pogodowe</string>
 </resources>

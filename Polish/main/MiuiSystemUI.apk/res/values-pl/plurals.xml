@@ -341,4 +341,10 @@
         <item quantity="few">%d nowe powiadomienia</item>
         <item quantity="many">%d nowych powiadomień</item>
     </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s aplikacji jest aktywne</item>
+        <item quantity="one">%s aplikacja jest aktywna</item>
+        <item quantity="few">%s aplikacje są aktywne</item>
+        <item quantity="many">%s aplikacji jest aktywnych</item>
+    </plurals>
 </resources>

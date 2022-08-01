@@ -169,4 +169,8 @@
     <string name="mtrl_picker_toggle_to_year_selection">Kliknij, by wybrać rok</string>
     <string name="password_toggle_content_description">Pokaż hasło</string>
     <string name="navigation_button_description">Przejdź wyżej</string>
+    <string name="error_role_holder_download_install_failed">Spróbuj ponownie później lub poproś o pomoc administratora IT</string>
+    <string name="error_role_holder_hash_mismatch">Nie można skonfigurować urządzenia. Skontaktuj się z administratorem, podając typ błędu „Nieprawidłowa suma kontrolna”.</string>
+    <string name="error_role_holder_package_invalid">Nie można skonfigurować urządzenia. Skontaktuj się z administratorem, podając typ błędu „Brak komponentów lub komponenty uszkodzone”.</string>
+    <string name="setting_up">Konfiguruję…</string>
 </resources>

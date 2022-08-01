@@ -1449,4 +1449,5 @@ do Listy blokowanych"</string>
     <string name="toast_not_show_read_mms_perm_req">Aby móc wyświetlać otrzymane wiadomości, należy przyznać aplikacji SMS uprawnienie do odczytu SMS-ów i MMS-ów. Możesz to zrobić w Ustawieniach.</string>
     <string name="sticked">Pomyślnie przypięto</string>
     <string name="unsticked">Pomyślnie odpięto</string>
+    <string name="sim_not_support_mms">"Ta karta SIM nie wspiera MMS"</string>
 </resources>

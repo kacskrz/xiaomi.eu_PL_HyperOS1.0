@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="battery_low_title">Włączyć Oszczędzanie baterii?</string>
+    <string name="controls_media_close_session">Ukryć sterowanie multimediami w aplikacji %1$s?</string>
+    <string name="controls_media_dismiss_button">Ukryj</string>
+    <string name="kg_invalid_sim_puk_hint">Kod PUK musi mieć co najmniej 8 cyfr.</string>
+    <string name="media_output_dialog_connect_failed">Nie można przełączyć. Spróbuj ponownie.</string>
+    <string name="media_output_dialog_disconnected">(odłączono)</string>
+    <string name="monitoring_description_managed_profile_named_vpn">Twoje aplikacje służbowe są połączone z internetem za pomocą aplikacji %1$s. Twoja aktywność w sieci w aplikacjach służbowych, w tym poczta e-mail i dane przeglądania, są widoczne dla administratora IT i firmy świadczącej usługi VPN.</string>
+    <string name="monitoring_description_named_vpn">To urządzenie jest połączone z internetem za pomocą aplikacji %1$s. Twoja aktywność w sieci, w tym poczta e-mail i dane przeglądania, są widoczne dla administratora IT.</string>
+    <string name="monitoring_description_personal_profile_named_vpn">Twoje aplikacje osobiste są połączone z internetem za pomocą aplikacji %1$s. Twoja aktywność w sieci, w tym poczta e-mail i dane przeglądania, są widoczne dla firmy świadczącej usługi VPN.</string>
+    <string name="monitoring_description_two_named_vpns">To urządzenie jest połączone z internetem za pomocą aplikacji %1$s i %2$s. Twoja aktywność w sieci, w tym poczta e-mail i dane przeglądania, są widoczne dla administratora IT.</string>
+    <string name="quick_settings_disclosure_managed_profile_named_vpn">Twoje aplikacje służbowe są połączone z internetem za pomocą aplikacji %1$s</string>
+    <string name="quick_settings_disclosure_management_named_vpn">To urządzenie należy do Twojej organizacji i jest połączone z internetem za pomocą aplikacji %1$s</string>
+    <string name="quick_settings_disclosure_management_vpns">To urządzenie należy do Twojej organizacji i jest połączone z internetem za pomocą sieci VPN</string>
+    <string name="quick_settings_disclosure_named_management_named_vpn">To urządzenie należy do organizacji %1$s i jest połączone z internetem za pomocą aplikacji %2$s</string>
+    <string name="quick_settings_disclosure_named_management_vpns">To urządzenie należy do organizacji %1$s i jest połączone z internetem za pomocą sieci VPN</string>
+    <string name="quick_settings_disclosure_named_vpn">To urządzenie jest połączone z internetem za pomocą aplikacji %1$s</string>
+    <string name="quick_settings_disclosure_personal_profile_named_vpn">Twoje aplikacje osobiste są połączone z internetem za pomocą aplikacji %1$s</string>
+    <string name="quick_settings_disclosure_vpns">To urządzenie jest połączone z internetem za pomocą sieci VPN</string>
+    <string name="wallet_secondary_label_no_card">Kliknij, aby otworzyć</string>
+</resources>

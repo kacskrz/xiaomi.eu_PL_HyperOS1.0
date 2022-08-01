@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_direct_permission_rationale">Domyślna usługa drukowania wymaga uprawnień dotyczących urządzeń w pobliżu do wyszukiwania drukarek w pobliżu.</string>
+</resources>

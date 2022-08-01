@@ -2040,4 +2040,11 @@ Aktywować eSIM?"</string>
   <string name="data_interruption_remind">"Wygląda na to, że Twoje środowisko sieciowe nie działa właściwie. Aby poprawić jakość połączenia, zezwól urządzeniu na korzystanie z danych mobilnych w trakcie połączeń VoLTE na drugiej karcie SIM."</string>
   <string name="low_battery_flash_when_ring_button_tip">"Nie można użyć lampy błyskowej w trakcie odtwarzania dzwonka ze względu na niski poziom baterii"</string>
   <string name="hide_stk_name">Narzędzia SIM</string>
+  <string name="call_barring">"Blokowanie połączeń"</string>
+  <string name="cf_setting_mobile_data_alert">"Włącz komórkową transmisję danych i upewnij się, że sieć WLAN jest wyłączona"</string>
+  <string name="cf_setting_mobile_data_roaming_alert">"Włącz roaming danych"</string>
+  <string name="no_mobile_data">"Komórkowa transmisja danych jest niedostępna"</string>
+  <string name="no_mobile_data_roaming">"Roaming danych nie jest dostępny"</string>
+  <string name="srvcc_message">"Połączenie głosowe w sieci 4G przystosowano do połączeń 2G/3G, ponieważ sieć 4G jest niedostępna."</string>
+  <string name="srvcc_video_message">"Połączenie wideo zostało zamienione na połączenie głosowe 2G/3G, ponieważ sieć 4G jest niedostępna."</string>
 </resources>

@@ -1912,4 +1912,13 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Poziom 4</item>
         <item>Poziom 5</item>
     </string-array>
+    <string-array name="nfc_payment_favor">
+        <item>Zawsze</item>
+        <item>Z wyjątkiem sytuacji, gdy otwarta jest inna aplikacja płatnicza</item>
+    </string-array>
+    <string-array name="switch_to_user_zero_when_docked_timeout_entries">
+        <item>Nigdy</item>
+        <item>Po minucie</item>
+        <item>Po 5 minutach</item>
+    </string-array>
 </resources>

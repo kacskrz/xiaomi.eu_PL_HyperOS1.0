@@ -2126,4 +2126,15 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="widget_camera_lens_description">Eksperymentuj z ogniskową</string>
   <string name="widget_camera_lens_none_description">50-milimetrowy obiekt do portretów</string>
   <string name="widget_camera_lens_talk_back">Obiektywy Pro</string>
+  <string name="accessibility_beauty_compare">Wyświetlaj obrazy z i bez Upiększania</string>
+  <string name="camera_newcta_storage_message_1">Do przechowywania i wyświetlania obrazków, filmów i plików</string>
+  <string name="moiton_detection_960_fps_video_tip" formatted="false">Filmy %1d kl./s mogą trwać maks. %2d sekund</string>
+  <string name="moiton_detection_tip">Wykrywanie ruchu… Nie ruszaj urządzeniem.</string>
+  <string name="moiton_detection_video_3840fps_3840">%d kl./s</string>
+  <string name="moiton_detection_video_electric_quantity_tip">Naładuj urządzenie, aby móc korzystać z tej funkcji</string>
+  <string name="moiton_detection_video_temperature_stop_tip">Urządzenie jest przegrzane. Nagrywanie zostanie wstrzymane za %d sekund.</string>
+  <string name="moiton_detection_video_temperature_tip">Schłódź urządzenie, aby moc korzystać z tej funkcji</string>
+  <string name="pixel_mode_capture_hint">Upewnij się, że otoczenie jest dobrze oświetlone</string>
+  <string name="pref_motioon_detection">Wykrywanie ruchu</string>
+  <string name="qvga_shelter_tip_text">"Nie zasłaniaj obiektywu"</string>
 </resources>

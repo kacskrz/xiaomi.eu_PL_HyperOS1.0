@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_autoclick_default_title">Automatyczne kliknięcie wyłączone</string>
+    <string name="accessibility_autoclick_description">Automatyczne kliknięcie może być pomocne, gdy trudno Ci używać myszy</string>
+    <string name="accessibility_button_description"><b>Aby rozpocząć</b>"
+1. Otwórz ustawienia ułatwień dostępu
+2. Wybierz funkcję i kliknij skrót
+3. Wybierz przycisk, aby skorzystać z funkcji"</string>
+    <string name="accessibility_button_gesture_description"><b>Aby rozpocząć</b>"
+1. Otwórz ustawienia ułatwień dostępu
+2. Wybierz funkcję i kliknij skrót
+3. Wybierz przycisk lub gest, którego będziesz używać, aby skorzystać z funkcji"</string>
+    <string name="accessibility_hearingaid_pair_instructions_message">"Na następnym ekranie wybierz swój aparat słuchowy. Możliwe, że trzeba będzie sparować osobno lewe i prawe ucho.
+
+Upewnij się, że aparat słuchowy jest włączony i gotowy do parowania."</string>
+    <string name="accessibility_screen_magnification_summary">&lt;b>Aby powiększyć:&lt;/b>&lt;br/> {0,number,integer}. Włącz powiększenie za pomocą skrótu&lt;br/> {1,number,integer}. Kliknij ekran&lt;br/> {2,number,integer}. Aby przesuwać powiększony ekran, przeciągaj po nim dwoma palcami&lt;br/> {3,number,integer}. Aby regulować powiększenie, ściągaj i rozciągaj ekran dwoma palcami&lt;br/> {4,number,integer}. Wyłącz powiększenie za pomocą skrótu&lt;br/>&lt;br/>&lt;b>Aby powiększyć tymczasowo:&lt;/b>&lt;br/> {0,number,integer}. Sprawdź, czy ustawiony typ powiększenia to pełny ekran&lt;br/> {1,number,integer}. Włącz powiększenie za pomocą skrótu&lt;br/> {2,number,integer}. Naciśnij i przytrzymaj dowolne miejsce na ekranie&lt;br/> {3,number,integer}. Aby przesuwać powiększony ekran, przeciągaj po nim palcem&lt;br/> {4,number,integer}. Podnieś palec, aby wyłączyć powiększenie</string>
+    <string name="allow_bind_app_widget_activity_allow_bind">"Po utworzeniu widżetu aplikacja może uzyskać dostęp do wszystkich wyświetlanych informacji.
+
+Aplikacja: %1$s
+Widżet: %2$s
+"</string>
+    <string name="one_handed_mode_intro_text">Przeciągnij w dół górną połowę ekranu, aby łatwiej było korzystać z niego jedną ręką</string>
+    <string name="sim_action_switch_sub_dialog_progress">Przełączam na operatora %1$s do obsługi połączeń i wiadomości…</string>
+    <string name="unused_apps_switch">Wstrzymaj aktywność w aplikacji, jeśli jest nieużywana</string>
+    <string name="user_add_max_count">Nie możesz dodać więcej użytkowników. Aby dodać nowego użytkownika, usuń któregoś z obecnych.</string>
+</resources>

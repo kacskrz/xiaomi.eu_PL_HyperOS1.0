@@ -108,4 +108,84 @@
         <item quantity="few">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 filmów?</item>
         <item quantity="many">Zezwolić aplikacji ^1 na zmodyfikowanie ^2 filmów?</item>
     </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Usuwam ^1 plików audio…</item>
+        <item quantity="few">Usuwam ^1 pliki audio…</item>
+        <item quantity="one">Usuwam plik audio…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Usuwam ^1 elementów…</item>
+        <item quantity="few">Usuwam ^1 elementy…</item>
+        <item quantity="one">Usuwam element…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Usuwam ^1 zdjęć…</item>
+        <item quantity="few">Usuwam ^1 zdjęcia…</item>
+        <item quantity="one">Usuwam zdjęcie…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Usuwam ^1 filmów…</item>
+        <item quantity="few">Usuwam ^1 filmy…</item>
+        <item quantity="one">Usuwam film…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Przenoszę ^1 plików audio do kosza…</item>
+        <item quantity="few">Przenoszę ^1 pliki audio do kosza…</item>
+        <item quantity="one">Przenoszę plik audio do kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Przenoszę ^1 elementów do kosza…</item>
+        <item quantity="few">Przenoszę ^1 elementy do kosza…</item>
+        <item quantity="one">Przenoszę element do kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Przenoszę ^1 zdjęć do kosza…</item>
+        <item quantity="few">Przenoszę ^1 zdjęcia do kosza…</item>
+        <item quantity="one">Przenoszę zdjęcie do kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Przenoszę ^1 filmów do kosza…</item>
+        <item quantity="few">Przenoszę ^1 filmy do kosza…</item>
+        <item quantity="one">Przenoszę film do kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Przenoszę ^1 plików audio z kosza…</item>
+        <item quantity="few">Przenoszę ^1 pliki audio z kosza…</item>
+        <item quantity="one">Przenoszę plik audio z kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Przenoszę ^1 elementów z kosza…</item>
+        <item quantity="few">Przenoszę ^1 elementy z kosza…</item>
+        <item quantity="one">Przenoszę element z kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Przenoszę ^1 zdjęć z kosza…</item>
+        <item quantity="few">Przenoszę ^1 zdjęcia z kosza…</item>
+        <item quantity="one">Przenoszę zdjęcie z kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Przenoszę ^1 filmów z kosza…</item>
+        <item quantity="few">Przenoszę ^1 filmy z kosza…</item>
+        <item quantity="one">Przenoszę film z kosza…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Modyfikuję ^1 plików audio…</item>
+        <item quantity="few">Modyfikuję ^1 pliki audio…</item>
+        <item quantity="one">Modyfikuję plik audio…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Modyfikuję ^1 elementów…</item>
+        <item quantity="few">Modyfikuję ^1 elementy…</item>
+        <item quantity="one">Modyfikuję element…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Modyfikuję ^1 zdjęć…</item>
+        <item quantity="few">Modyfikuję ^1 zdjęcia…</item>
+        <item quantity="one">Modyfikuję zdjęcie…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Modyfikuję ^1 filmów…</item>
+        <item quantity="few">Modyfikuję ^1 filmy…</item>
+        <item quantity="one">Modyfikuję film…</item>
+    </plurals>
 </resources>

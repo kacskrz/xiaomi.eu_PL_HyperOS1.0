@@ -525,4 +525,5 @@
   <string name="mw_guide_dialog_title">"Brak wsparcia dla Równoległych okien"</string>
   <string name="fold_small_not_split">"Dzielenie ekranu nie jest wspierane na zewnętrznym ekranie"</string>
   <string name="open_miui_optimization">Najpierw włącz optymalizację MIUI</string>
+  <string name="freeform_exchange_tip3">Otwórz pływające okno w trybie pełnoekranowym</string>
 </resources>

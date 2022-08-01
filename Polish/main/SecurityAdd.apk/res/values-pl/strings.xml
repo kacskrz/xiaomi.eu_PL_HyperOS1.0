@@ -381,4 +381,6 @@
   <string name="gb_webwindow_schemedialog_accept">Otwórz</string>
   <string name="gb_webwindow_schemedialog_cancel">Anuluj</string>
   <string name="gb_webwindow_schemedialog_title">Otworzyć aplikację Gry?</string>
+  <string name="power_center_battery_duration_screen_on">Pozostały czas na ekranie</string>
+  <string name="power_main_battery_last_hour_minute_screen_on">Pozostało %1$s %2$s czasu na ekranie</string>
 </resources>
