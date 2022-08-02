@@ -203,7 +203,6 @@
   <string name="call_background_default">Domyślne</string>
   <string name="call_background_lock_wallpaper">Z ekranu blokady</string>
   <string name="call_background_setting">Tło rozmowy</string>
-  <string name="call_barring">Call barring</string>
   <string name="call_barring_incoming">Połączenie przychodzące</string>
   <string name="call_barring_outgoing">Blokowanie połączeń wychodzących</string>
   <string name="call_barring_sum">Ograniczenie połączeń głosowych</string>
@@ -2043,7 +2042,6 @@ Aktywować eSIM?"</string>
   <string name="call_barring">"Blokowanie połączeń"</string>
   <string name="cf_setting_mobile_data_alert">"Włącz komórkową transmisję danych i upewnij się, że sieć WLAN jest wyłączona"</string>
   <string name="cf_setting_mobile_data_roaming_alert">"Włącz roaming danych"</string>
-  <string name="no_mobile_data">"Komórkowa transmisja danych jest niedostępna"</string>
   <string name="no_mobile_data_roaming">"Roaming danych nie jest dostępny"</string>
   <string name="srvcc_message">"Połączenie głosowe w sieci 4G przystosowano do połączeń 2G/3G, ponieważ sieć 4G jest niedostępna."</string>
   <string name="srvcc_video_message">"Połączenie wideo zostało zamienione na połączenie głosowe 2G/3G, ponieważ sieć 4G jest niedostępna."</string>

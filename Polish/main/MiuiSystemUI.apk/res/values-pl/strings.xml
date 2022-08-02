@@ -1064,7 +1064,6 @@ Należy używać tylko dołączonej ładowarki."</string>
   <string name="kg_sim_pin_instructions">Wpisz kod PIN karty SIM.</string>
   <string name="kg_sim_pin_instructions_multi">Wpisz kod PIN karty SIM „%1$s”.</string>
   <string name="kg_sim_unlock_progress_dialog_message">Odblokowuję kartę SIM…</string>
-  <string name="kg_too_many_failed_attempts_countdown">Spróbuj ponownie za %d s.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message">"Po raz %1$d wpisałeś nieprawidłowe hasło. 
 
 Spróbuj ponownie za %2$d s."</string>
@@ -3208,8 +3207,6 @@ Jeśli masz pytania, skontaktuj się z organizacją %2$s."</string>
     <string name="biometric_dialog_tap_confirm_with_face">Odblokowano skanem twarzy. Aby kontynuować, kliknij ikonę odblokowywania.</string>
     <string name="bluetooth_bc_profile_summary_connected">Połączono z serwerem BA</string>
     <string name="bluetooth_bc_profile_summary_use_for">Użyj do BA</string>
-    <string name="bluetooth_dun_profile_summary_connected">Połączono z serwerem Dun</string>
-    <string name="bluetooth_dun_profile_summary_use_for">Użyj do wdzwanianego dostępu do sieci</string>
     <string name="bluetooth_hearing_aid_left_active">Aktywny, tylko lewa strona</string>
     <string name="bluetooth_hearing_aid_left_and_right_active">Aktywny, lewa i prawa strona</string>
     <string name="bluetooth_hearing_aid_right_active">Aktywny, tylko prawa strona</string>

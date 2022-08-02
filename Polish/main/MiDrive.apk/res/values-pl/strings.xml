@@ -812,4 +812,24 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="permission_account_title_pad">Dostęp do kont</string>
   <string name="permission_storage_desc_pad">Dostęp do zdjęć i plików na urządzeniu</string>
   <string name="permission_storage_title_pad">Dostęp do pamięci</string>
+  <string name="cancel_mi_drive">Anuluj usługi</string>
+  <string name="cancel_mi_drive_alert_description">"Aby móc anulować usługi, wyczyść wszystkie elementy z Mi Drive. Możesz to zrobić w następujący sposób:&lt;br />1. Na stronie startowej Mi Drive przytrzymaj element, aby pojawił się przycisk \"Zaznacz wszystko\". Użyj tego przycisku, aby wybrać maks. 200 plików naraz i usunąć je.&lt;br />2. Po usunięciu wszystkich elementów usuń wszystkie pliki z Ostatnio usuniętych elementów."</string>
+  <string name="cancel_mi_drive_alert_reminder_card_summary">"1. Przed usunięciem elementów zalecamy wykonanie ich kopii zapasowej. Aby to zrobić, odwiedź stronę i.mi.com, kliknij Mi Drive i pobierz elementy na komputer.&lt;br />2. Nie można przywrócić elementów, które zostały usunięte z Ostatnio usuniętych elementów."</string>
+  <string name="cancel_mi_drive_confirm_button">Anuluj usługi</string>
+  <string name="cancel_mi_drive_confirm_description">"Jeśli przejdziesz dalej, anulujesz usługi Mi Drive. Xiaomi zaprzestanie gromadzenia Twoich danych, a informacje już zgromadzone i przetworzone zostaną usunięte w terminie określonym odpowiednimi przepisami prawa, chyba że ustalono inaczej."</string>
+  <string name="cancel_mi_drive_confirm_hint">"Anulowanie usług Mi Drive nie wpłynie na korzystanie przez Ciebie z innych produktów i usług Xiaomi. Jeśli chcesz usunąć swoje konto Xiaomi, możesz to zrobić &lt;font color=#0097FF>&lt;a href=%1$s>tutaj&lt;/a>&lt;/font>."</string>
+  <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424>Te elementy zostaną permanentnie usunięte po anulowaniu usług:&lt;/font>&lt;br />1. Wszystkie elementy znajdujące się w Mi Drive, takie jak dokumenty, prywatne pliki i usunięte elementy.&lt;br />2. Uprawnienia urządzenia, ustawienia i inne treści z pamięci podręcznej.&lt;br />3. Historia wysyłania i pobierania Mi Drive.</string>
+  <string name="cancel_mi_drive_success">Pomyślnie anulowano usługi</string>
+  <string name="cancel_mi_drive_title">Anuluj usługi</string>
+  <string name="privacy_recall_alert_description">"Aby móc wycofać zgodę, wyczyść wszystkie elementy z Mi Drive. Możesz to zrobić w następujący sposób:&lt;br />1. Na stronie startowej Mi Drive przytrzymaj element, aby pojawił się przycisk \"Zaznacz wszystko\". Użyj tego przycisku, aby wybrać maks. 200 plików naraz i usunąć je.&lt;br />2. Po usunięciu wszystkich elementów usuń wszystkie pliki z Ostatnio usuniętych elementów."</string>
+  <string name="privacy_recall_alert_reminder_card_summary">"1. Przed usunięciem elementów zalecamy wykonanie ich kopii zapasowej. Aby to zrobić, odwiedź stronę i.mi.com, kliknij Mi Drive i pobierz elementy na komputer.&lt;br />2. Nie można przywrócić elementów, które zostały usunięte z Ostatnio usuniętych elementów."</string>
+  <string name="privacy_recall_confirm_button">Wycofaj zgodę</string>
+  <string name="privacy_recall_confirm_description">"Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Mi Drive. Xiaomi zaprzestanie gromadzenia Twoich danych, a informacje już zgromadzone i przetworzone zostaną usunięte w terminie określonym odpowiednimi przepisami prawa, chyba że ustalono inaczej."</string>
+  <string name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424>Te elementy zostaną permanentnie usunięte po wycofaniu zgody:&lt;/font>&lt;br />1. Wszystkie elementy znajdujące się w Mi Drive, takie jak dokumenty, prywatne pliki i usunięte elementy.&lt;br />2. Uprawnienia urządzenia, ustawienia i inne treści z pamięci podręcznej.&lt;br />3. Historia wysyłania i pobierania Mi Drive.</string>
+  <string name="privacy_recall_success">Pomyślnie wycofano zgodę</string>
+  <string name="privacy_recall_title">Wycofanie zgody na warunki Polityki prywatności</string>
+  <string name="privacy_recalling">Wycofywanie zgody…</string>
+  <string name="query_quota_exception">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="query_quota_searching">Chwileczkę…</string>
+  <string name="reminder_card_title">Uwaga</string>
 </resources>

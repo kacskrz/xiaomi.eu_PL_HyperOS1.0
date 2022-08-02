@@ -1561,4 +1561,6 @@ Dotknij, aby go wyłączyć."</string>
     <string name="wallpaper_apply_outer_and_inner">Zastosuj na obu ekranach</string>
     <string name="clock">Zainstaluj Zegar</string>
     <string name="install_clock">"Na urządzeniu nie znajduje się aplikacja Zegar. Pobrać ją?"</string>
+    <string name="install_gallery_content">"Nie zainstalowano jeszcze Galerii. Pobrać ją?"</string>
+    <string name="install_gallery_title">Zainstaluj Galerię</string>
 </resources>

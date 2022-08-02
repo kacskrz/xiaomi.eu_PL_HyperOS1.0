@@ -489,4 +489,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="downloadCount">Pobrań</string>
   <string name="nowInstall">Instaluj</string>
   <string name="size">Rozmiar</string>
+  <string name="storage_permission_deny">Wymagane uprawnienia do pamięci</string>
 </resources>

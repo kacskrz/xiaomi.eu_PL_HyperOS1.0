@@ -1134,7 +1134,7 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="dialog_storage_low_content">Aby kontynuować synchronizację, ulepsz swój plan Chmury.</string>
   <string name="dialog_storage_low_title">Mało miejsca w Chmurze</string>
   <string name="micloud_storage_detail">Szczegóły</string>
-  <string name="micloud_storage_family_quota">Udostępnianie rodzinne</string>
+  <string name="micloud_storage_family_quota">Wspólna przestrzeń</string>
   <string name="micloud_storage_full_tip">Brak miejsca</string>
   <string name="micloud_storage_normal_tip">Pozostało %s</string>
   <string name="micloud_storage_share_family">Udostępniane rodzinne</string>

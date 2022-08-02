@@ -831,4 +831,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="cloud_member_vipname_mega">Mega</string>
   <string name="cloud_member_vipname_premium">Premium</string>
   <string name="cloud_member_vipname_ultra">Ultra</string>
+  <string name="passport_vcode_what_app_send_prompt">Twój kod weryfikacyjny WhatsAppa zostanie wysłany na numer awaryjny &lt;font color=#1F93FF>%s&lt;/font></string>
 </resources>
