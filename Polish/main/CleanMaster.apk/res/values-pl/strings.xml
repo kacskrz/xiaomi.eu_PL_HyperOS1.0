@@ -1025,4 +1025,13 @@
   <string name="to_reset_app">Zresetuj</string>
   <string name="updating_tips">Chwileczkę…</string>
   <string name="storage_system_log">Logi systemowe</string>
+  <string name="app_name_securitycenter">Panel sterowania</string>
+  <string name="dialog_btn_delete_icon">Usuń</string>
+  <string name="dialog_btn_no_create_icon">Anuluj</string>
+  <string name="dialog_btn_yes_create_icon">Dodaj</string>
+  <string name="dialog_msg_create_icon_content">Dodać skrót na pulpicie?</string>
+  <string name="dialog_msg_create_icon_not_remain_anymore">"Nie pokazuj ponownie"</string>
+  <string name="dialog_msg_delete_icon_content">Panel sterowania umożliwia Ci usunięcie śmieci z urządzenia, odnalezienie i neutralizację wirusów, oszczędzanie baterii, zarządzanie uprawnieniami i inne rzeczy.</string>
+  <string name="dialog_msg_delete_icon_title">Usunąć ten skrót z pulpitu?</string>
+  <string name="manual_item_create_icon_title">Skrót na pulpicie</string>
 </resources>

@@ -526,4 +526,7 @@
   <string name="fold_small_not_split">"Dzielenie ekranu nie jest wspierane na zewnętrznym ekranie"</string>
   <string name="open_miui_optimization">Najpierw włącz optymalizację MIUI</string>
   <string name="freeform_exchange_tip3">Otwórz pływające okno w trybie pełnoekranowym</string>
+  <string name="hs_guide_dialog_button_confirm">Rozumiem</string>
+  <string name="hs_guide_dialog_message">"Ta aplikacja nie została jeszcze dostosowana do nowego trybu poziomego. Przełączono się zamiast tego na inny kompatybilny układ."</string>
+  <string name="hs_guide_dialog_title">Uwaga</string>
 </resources>

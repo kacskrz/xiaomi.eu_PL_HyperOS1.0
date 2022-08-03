@@ -10755,4 +10755,5 @@ Po usunięciu tych danych będziesz potrzebować kodu PIN, wzoru lub hasła do o
     <string name="zen_mode_from_important_conversations_second">rozmowy priorytetowe</string>
     <string name="zen_mode_from_some">Niektóre osoby lub rozmowy</string>
     <string name="zen_mode_people_footer">Nawet jeśli aplikacje służące do dzwonienia lub wysyłania wiadomości nie będą mogły wysyłać Ci powiadomień, osoby, które tutaj wybierzesz, będą mogły się z Tobą skontaktować za pomocą tych aplikacji</string>
+    <string name="miheadset_open_closeAnc">Redukcja szumów wł./wył.</string>
 </resources>
