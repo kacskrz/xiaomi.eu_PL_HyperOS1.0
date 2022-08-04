@@ -123,4 +123,5 @@
   <string name="miuix_indexer_selected">Wybrano %s</string>
   <string name="new_cta_app_purpose">wyświetlanie kierunków i koordynatów</string>
   <string name="calibrating">Kalibracja kompasu</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>

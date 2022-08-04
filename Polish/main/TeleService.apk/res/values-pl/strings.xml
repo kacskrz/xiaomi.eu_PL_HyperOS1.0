@@ -2045,4 +2045,8 @@ Aktywować eSIM?"</string>
   <string name="no_mobile_data_roaming">"Roaming danych nie jest dostępny"</string>
   <string name="srvcc_message">"Połączenie głosowe w sieci 4G przystosowano do połączeń 2G/3G, ponieważ sieć 4G jest niedostępna."</string>
   <string name="srvcc_video_message">"Połączenie wideo zostało zamienione na połączenie głosowe 2G/3G, ponieważ sieć 4G jest niedostępna."</string>
+  <string name="data_interruption_remind_for_t">"Wygląda na to, że Twoje środowisko sieciowe nie działa właściwie. Aby poprawić jakość połączenia, zezwól urządzeniu na korzystanie z danych mobilnych w trakcie połączeń VoLTE na drugiej karcie SIM."</string>
+  <string name="smart_switch_dual_sim_prompt">Łączenie się z siecią mobilną za pomocą karty SIM %1$s może generować dodatkowe opłaty. Ustaw limit zużycia danych, aby tego uniknąć.</string>
+  <string name="smart_switch_dual_sim_summary">Automatycznie przełączaj się między kartami SIM do danych w oparciu o jakość połączenia i stan urządzenia</string>
+  <string name="smart_switch_dual_sim_title">Przełączaj się między kartami SIM do danych</string>
 </resources>
