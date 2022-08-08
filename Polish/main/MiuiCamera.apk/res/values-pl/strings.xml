@@ -2137,4 +2137,6 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="pixel_mode_capture_hint">Upewnij się, że otoczenie jest dobrze oświetlone</string>
   <string name="pref_motioon_detection">Wykrywanie ruchu</string>
   <string name="qvga_shelter_tip_text">"Nie zasłaniaj obiektywu"</string>
+  <string name="pref_cv_watermark_location_title">Położenie</string>
+  <string name="pref_cv_watermark_time_title">Czas</string>
 </resources>

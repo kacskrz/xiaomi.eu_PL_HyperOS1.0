@@ -308,7 +308,7 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="permdesc_in_calls">Monitorowanie połączeń przychodzących</string>
   <string name="permdesc_location">Zezwolić %1$s na dostęp do lokalizacji?</string>
   <string name="permdesc_location_background">Zezwolić %1$s na dostęp do lokalizacji w tle?</string>
-  <string name="permdesc_microphone">Zezwolić %1$s na nagrywanie rozmów i dźwięku?</string>
+  <string name="permdesc_microphone">Zezwolić %1$s na nagrywanie dźwięku?</string>
   <string name="permdesc_out_calls">Monitorowanie połączeń wychodzących</string>
   <string name="permdesc_read_calendar">Zezwolić %1$s na dostęp do wydarzeń z kalendarza i ich edycję?</string>
   <string name="permdesc_read_storage">Zezwolić %1$s na dostęp do zdjęć i plików na urządzeniu?</string>
@@ -360,7 +360,7 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="virtual_reject_notice_title_contacts">Dostęp do kontaktów przez %1$s</string>
   <string name="virtual_reject_notice_title_phonestate">Dostęp do informacji o urządzeniu przez %1$s</string>
   <string name="virtual_reject_notice_title_sms">Dostęp do SMS-ów przez %1$s</string>
-  <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Nagrywanie dźwięku i tworzenie połączeń</string>
+  <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Nagrywanie dźwięku</string>
   <string name="HIPS_Perm_Intl_group_desc_auto_start">Automatyczne uruchamianie aplikacji w tle</string>
   <string name="HIPS_Perm_Intl_group_desc_calendar">Dostęp do wydarzeń z kalendarza</string>
   <string name="HIPS_Perm_Intl_group_desc_call_log">Dostęp do historii połączeń i jej edycja</string>
