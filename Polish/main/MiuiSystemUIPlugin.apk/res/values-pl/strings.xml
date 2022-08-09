@@ -432,4 +432,19 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
     <string name="miuix_indexer_collect">Kolekcje</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
+    <string name="controls_add_device_guide">Brak urządzeń</string>
+    <string name="controls_click_to_add_device">Dodaj urządzenia</string>
+    <string name="controls_default_structure">Urządzenia smart home</string>
+    <string name="controls_edit_add_device_guide">Brak dostępnych urządzeń do dodania</string>
+    <string name="controls_edit_added_subtitle">Przeciągnij elementy, aby zmienić ich położenie</string>
+    <string name="controls_edit_added_title">Dodano</string>
+    <string name="controls_edit_done_button">Gotowe</string>
+    <string name="controls_edit_go_to_app_guide">Otwórz</string>
+    <string name="controls_edit_not_added_title">Dostępne</string>
+    <string name="controls_loading_device">Zmiana lokalizacji</string>
+    <string name="controls_not_found_device_toast">Usunięto ten element w aplikacji</string>
+    <string name="controls_not_found_device_toast_mihome">Usunięto ten element w aplikacji</string>
+    <string name="controls_offline_device_toast">To urządzenie jest offline. Przytrzymaj, aby otworzyć aplikację.</string>
+    <string name="controls_unsupport_toggle_toast">"Nie można kontrolować tego urządzenia tutaj. Przytrzymaj, aby otworzyć aplikację."</string>
+    <string name="offline">Offline</string>
 </resources>

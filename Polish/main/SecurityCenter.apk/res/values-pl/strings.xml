@@ -5648,4 +5648,14 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\
     <string name="power_center_dialog_msg_title_screen_on">"Jeśli włączysz tę funkcję, uzyskasz %1$s czasu na ekranie. Oto środki, które pozwolą zaoszczędzić baterię:"</string>
     <string name="power_main_battery_last_hour_minute_screen_on">Pozostało %1$s %2$s czasu na ekranie</string>
     <string name="power_main_open_last_hour_minute_screen_on">Włącz, aby dodać %1$s %2$s czasu na ekranie</string>
+    <string name="application_mode_name">Układy aplikacji</string>
+    <string name="gamebooster_dialog_recover">Odnów</string>
+    <string name="gamebooster_dialog_start_booster">Zacznij</string>
+    <string name="gamebooster_push_expiring_soon_button">Odnów</string>
+    <string name="icon_created_settings_preference">Dodano</string>
+    <string name="order_bh_net_error">Brak sieci</string>
+    <string name="other_operator_name_virtual_operator">Inni operatorzy wirtualni</string>
+    <string name="pc_endurance_calculation">Obliczanie…</string>
+    <string name="size_embedded">Równoległe okna</string>
+    <string name="size_full">Pełny ekran</string>
 </resources>

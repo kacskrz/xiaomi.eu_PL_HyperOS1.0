@@ -507,4 +507,6 @@ może znajdować się w oddzielnej aplikacji"</string>
   <string name="alwaysUsePrompt">Zapamiętaj mój wybór</string>
   <string name="xspace_head">Sklonowana aplikacja</string>
   <string name="xspace_resolver_activity_title">Wybierz aplikację</string>
+  <string name="gamebooster_dialog_recover">Odnów</string>
+  <string name="gamebooster_dialog_start_booster">Zacznij</string>
 </resources>

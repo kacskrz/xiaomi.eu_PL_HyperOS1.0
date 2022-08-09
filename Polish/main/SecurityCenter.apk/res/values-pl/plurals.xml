@@ -1213,4 +1213,12 @@ Zrób sobie przerwę!"</item>
         <item quantity="other">Włącz, aby dodać %s min. czasu na ekranie</item>
         <item quantity="one">Włącz, aby dodać %s min. czasu na ekranie</item>
     </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Twoje członkostwo Game Turbo wygaśnie za %d dni.</item>
+        <item quantity="one">Twoje członkostwo Game Turbo wygaśnie za %d dzień.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Twoje członkostwo Game Turbo wygaśnie za %d dni. Odnów je teraz, aby cieszyć się grą.</item>
+        <item quantity="one">Twoje członkostwo Game Turbo wygaśnie za %d dzień. Odnów je teraz, aby cieszyć się grą.</item>
+    </plurals>
 </resources>
