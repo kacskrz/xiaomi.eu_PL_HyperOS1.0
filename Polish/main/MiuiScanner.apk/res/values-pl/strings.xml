@@ -748,4 +748,5 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="location_permissions_text">Aby móc korzystać z tej funkcji, zezwól na dostęp do lokalizacji w Ustawieniach.</string>
   <string name="not_permissions_hint">Aby móc korzystać z tej funkcji, zezwól na dostęp do aparatu.</string>
   <string name="not_permissions_title">Wymagane uprawnienia</string>
+  <string name="save_documents_ui">Zapisano w Plikach</string>
 </resources>
