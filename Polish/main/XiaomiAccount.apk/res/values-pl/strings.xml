@@ -818,7 +818,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="network_error">Wystąpił błąd sieci.</string>
   <string name="network_error_hint">Sprawdź adres URL i spróbuj ponownie lub skopiuj ten adres i wklej go w swojej przeglądarce.</string>
   <string name="page_load_failed">"Nie można otworzyć strony"</string>
-  <string name="user_agreement_network_permission_msg">Aby dostarczać Ci niezbędne usługi, aplikacja musi łączyć się z Internetem.</string>
+  <string name="user_agreement_network_permission_msg">Aplikacja do normalnego działania wymaga łączności z Internetem, a także następujących uprawnień:</string>
   <string name="user_agreement_use_account_msg">Konto Xiaomi umożliwia Ci dostęp do wszystkich usług Xiaomi.</string>
   <string name="child_account_system_ad_disable_hint">Ta funkcja nie jest dostępna dla kont dzieci</string>
   <string name="family_service">Usługi rodzinne</string>
@@ -832,4 +832,11 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="cloud_member_vipname_premium">Premium</string>
   <string name="cloud_member_vipname_ultra">Ultra</string>
   <string name="passport_vcode_what_app_send_prompt">Twój kod weryfikacyjny WhatsAppa zostanie wysłany na numer awaryjny &lt;font color=#1F93FF>%s&lt;/font></string>
+  <string name="user_agreement_device_permission_desc">W celu zapewnienia bezpieczeństwa środowiska logowania</string>
+  <string name="user_agreement_device_permission_title">Dostęp do informacji o urządzeniu</string>
+  <string name="user_agreement_must_permission_msg">Uprawnienia obowiązkowe (używane przez podstawowe funkcje i usługi tej aplikacji )</string>
+  <string name="user_agreement_permission_summary_msg">Konto Xiaomi umożliwia Ci dostęp do wszystkich usług dostarczanych przez Xiaomi. Aplikacja do normalnego działania wymaga łączności z Internetem, a także następujących uprawnień:</string>
+  <string name="user_agreement_wifi_permission_title">Włączanie i wyłączanie Wi-Fi</string>
+  <string name="user_agreement_wlan_permission_desc">W celu sprawdzania środowiska logowania pod kątem bezpieczeństwa</string>
+  <string name="user_agreement_wlan_permission_title_china">Włączanie i wyłączanie Wi-Fi</string>
 </resources>
