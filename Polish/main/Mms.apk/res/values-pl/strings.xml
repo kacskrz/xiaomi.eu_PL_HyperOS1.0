@@ -1450,4 +1450,8 @@ do Listy blokowanych"</string>
     <string name="sticked">Pomyślnie przypięto</string>
     <string name="unsticked">Pomyślnie odpięto</string>
     <string name="sim_not_support_mms">"Ta karta SIM nie wspiera MMS"</string>
+    <string name="download_miui_calendar_detail">Pobierz Kalendarz, aby móc dodawać wydarzenia do kalendarza oraz przypomnienia. Otworzyć aplikację sklepu?</string>
+    <string name="download_miui_calendar_title">Pobierz Kalendarz</string>
+    <string name="notes_not_found">Najpierw zainstaluj Notatki</string>
+    <string name="soundrecorder_not_found">Najpierw zainstaluj Dyktafon</string>
 </resources>

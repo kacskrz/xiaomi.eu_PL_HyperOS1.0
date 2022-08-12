@@ -3380,4 +3380,6 @@ To, którymi urządzeniami możesz sterować w ten sposób, określa aplikacja n
     <string name="wifitrackerlib_admin_restricted_network">Niedozwolone przez Twoją organizację</string>
     <string name="wifitrackerlib_wifi_standard_legacy">Starsze</string>
     <string name="wifitrackerlib_wifi_standard_unknown">Nieznane</string>
+    <string name="quick_settings_bluetooth_connected_tip">Pomyślnie połączono przez Bluetooth</string>
+    <string name="quick_settings_bluetooth_disconnected_tip">Wszystkie połączenia Bluetooth będą dzisiaj rozłączone</string>
 </resources>

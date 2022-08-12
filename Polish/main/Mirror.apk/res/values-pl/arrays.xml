@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="settings_search_mirror">
-        <item>MIUI+ Beta</item>
-        <item>Więcej opcji sieci/MIUI+ Beta</item>
-        <item>Screen Combo;Przesyłanie ekranu;Wiele ekranów;PC;Komputer;MIUI+;Lustro;Duet;Duo</item>
+        <item>Połączone urządzenia</item>
+        <item>Więcej opcji sieci/Połączone urządzenia</item>
+        <item>MIUI+, MIUIPLUS, wiele ekranów, handoff, przesyłanie ekranu, klawiatura i myszka, rozszerzanie ekranu, Mi Smart Hub, mirror, lustro, rozszerzenie, wielozadaniowość, udostępnianie, myszka, klawiatura, łączenie urządzeń</item>
     </string-array>
     <string-array name="settings_tips_message">
         <item>"1. Wyłącz funkcje hotspotu, Mi Share bądź przesyłania ekranu na telefonie przed użyciem tej funkcji.

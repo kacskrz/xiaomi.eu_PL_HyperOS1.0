@@ -465,4 +465,5 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="other_settings_auto_update_summary_v1">Pozwól MIUI wybrać najlepszy moment na pobranie i instalację aktualizacji. Aby zastosować zmiany, urządzenie zostanie automatycznie uruchomione ponownie.</string>
     <string name="is_prepare_install_go">Przygotowywanie…</string>
     <string name="location_introduction_qcom">Usługi lokalizacji wykorzystują pozycjonowanie do dostarczania usług specyficznych dla danej lokalizacji. Gdy są one wykorzystywane przez Twoje urządzenie, moduł QCC połączy się z siecią, aby przyspieszyć proces pozycjonowania.</string>
+    <string name="create_shortcut">Skrót na pulpicie</string>
 </resources>

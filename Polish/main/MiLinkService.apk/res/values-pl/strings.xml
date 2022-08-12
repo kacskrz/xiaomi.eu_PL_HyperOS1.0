@@ -252,7 +252,7 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
     <string name="miuix_appcompat_select_all_description">Wybierz wszystko</string>
     <string name="miuix_appcompat_select_item">Wybierz elementy</string>
-    <string name="dialog_scanning_precondition_new_china">Włącz Wi-Fi, Bluetooth i lokalizację, aby móc używać Przesyłania ekranu. Zrobić to teraz?</string>
+    <string name="dialog_scanning_precondition_new_china">Włącz Wi-Fi i Bluetooth, aby móc używać Przesyłania ekranu. Zrobić to teraz?</string>
     <string name="dialog_scanning_precondition_new_global">Włącz Wi-Fi i lokalizację, aby móc używać Przesyłania ekranu. Zrobić to teraz?</string>
     <string name="audio_record_des">W celu przesyłania dźwięku z urządzenia do zewnętrznych monitorów</string>
     <string name="dialog_location_permission_message">Aby móc odnaleźć zewnętrzne monitory w pobliżu, aplikacja wymaga dostępu do lokalizacji. Wybierz opcję \"Zezwól za każdym razem\" w dialogu dot. uprawnień, aby uniknąć możliwych błędów.</string>
@@ -425,13 +425,13 @@ aby udostępnić ekran tabletu"</string>
     <string name="circulate_common_retry_later">Poczekaj minutę lub dwie i spróbuj ponownie</string>
     <string name="circulate_cta_agree">Akceptuję</string>
     <string name="circulate_cta_desc_pad">Witamy w Mi Smart Hub! Aplikacja zezwala na korzystanie z projekcji i Mi Smart Play, a także na przesyłanie odtwarzanych multimediów pomiędzy urządzeniami. Aplikacja wymaga połączenia z Internetem i następujących uprawnień, aby działać poprawnie:</string>
-    <string name="circulate_cta_desc_phone">Witamy w Mi Smart Hub! Aplikacja zezwala na korzystanie z projekcji, Mi Smart Play i MIUI+, a także na rozpoczynanie zadań na jednym urządzeniu i płynne przełączanie się na inne. Aplikacja wymaga połączenia z Internetem i następujących uprawnień, aby działać poprawnie:</string>
-    <string name="circulate_cta_exit">Wyjście</string>
-    <string name="circulate_cta_premission_sound_subtitle">Do przesyłania odtwarzania na inne urządzenia</string>
+    <string name="circulate_cta_desc_phone">Witamy w Mi Smart Hub! Aplikacja zezwala na korzystanie z projekcji zawartości ekranu, przesyłanie odtwarzanych multimediów między urządzeniami, korzystanie Mi Smart Play i MIUI+, a także na rozpoczynanie zadań na jednym urządzeniu i płynne przełączanie się na inne. Aplikacja wymaga połączenia z Internetem i następujących uprawnień, aby działać poprawnie:</string>
+    <string name="circulate_cta_exit">Nie zgadzam się</string>
+    <string name="circulate_cta_premission_sound_subtitle">Do przesyłania odtwarzanego dźwięku na inne urządzenia</string>
     <string name="circulate_cta_premission_sound_title">Nagrywanie dźwięku</string>
-    <string name="circulate_cta_premission_storage_subtitle">Do wysyłania i odbierania elementów bezprzewodowo</string>
-    <string name="circulate_cta_premission_storage_title">Dostęp do zdjęć i plików na tym urządzeniu oraz ich zapisywanie</string>
-    <string name="circulate_cta_premission_wlan_subtitle">Do wyszukiwania urządzeń w pobliżu i przesyłania zadań przez Wi-Fi</string>
+    <string name="circulate_cta_premission_storage_subtitle">Do wysyłania i odbierania przesyłanych plików</string>
+    <string name="circulate_cta_premission_storage_title">Dostęp do elementów na tym urządzeniu oraz ich zapisywanie</string>
+    <string name="circulate_cta_premission_wlan_subtitle">Do przesyłania elementów i łączenia urządzeń przez Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_subtitle_global">Do wyszukiwania urządzeń w pobliżu i przesyłania zadań przez Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_subtitle_miui_plus">Do przesyłania zadań przez Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_subtitle_miui_plus_global">Do przesyłania zadań przez Wi-Fi</string>
@@ -496,4 +496,52 @@ swoich urządzeń?"</string>
     <string name="upgrade_now">Aktualizuj</string>
     <string name="upgrade_test_package">"Aby zakończyć aktualizację,
 upewnij się, że pakiet zawiera najnowsze wersje wszystkich aplikacji."</string>
+    <string name="appcirculate_toast_not_support_device_phone">"Nie można otworzyć tej aplikacji na telefonie"</string>
+    <string name="cast_image_des">Samouczek Projekcji</string>
+    <string name="circulate_cta_premission_storage_pad_title">Dostęp i zapisywanie elementów w pamięci</string>
+    <string name="circulate_cta_user_agreement">Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;txt href=\"%1$s\">Umowy użytkownika&lt;/txt> oraz &lt;txt href=\"%2$s\">Polityki prywatności&lt;/txt> Xiaomi.</string>
+    <string name="circulate_headset_back_to_box_desc">"1. Włóż obie słuchawki do etui.
+2. Naciśnij i przytrzymaj przycisk na etui.
+3. Zakończ parowanie na docelowym urządzeniu."</string>
+    <string name="circulate_headset_back_to_box_desc_pad">"1. Włóż obie słuchawki do etui.
+2. Naciśnij i przytrzymaj przycisk na etui.
+3. Zakończ parowanie w ustawieniach Bluetooth lub za pomocą wyskakującego okna dialogowego na urządzeniu."</string>
+    <string name="circulate_headset_back_to_box_desc_phone">"1. Włóż obie słuchawki do etui.
+2. Naciśnij i przytrzymaj przycisk na etui.
+3. Zakończ parowanie w ustawieniach Bluetooth lub za pomocą wyskakującego okna dialogowego na urządzeniu."</string>
+    <string name="circulate_headset_back_to_box_subtitle">Nie można automatycznie sparować tych słuchawek. Sparuj je ręcznie na docelowym urządzeniu.</string>
+    <string name="circulate_headset_back_to_box_title">Najpierw sparuj słuchawki</string>
+    <string name="circulate_headset_back_to_box_title_pad">Sparuj słuchawki z tym urządzeniem</string>
+    <string name="circulate_headset_back_to_box_title_phone">Sparuj słuchawki z tym urządzeniem</string>
+    <string name="circulate_headset_duplicate_cancel">Anuluj</string>
+    <string name="circulate_headset_duplicate_dialog_message">Wygląda na to, że inny komplet słuchawek jest podłączony do %1$s. Zastąpić je obecnym kompletem?</string>
+    <string name="circulate_headset_duplicate_dialog_title">Zastąp słuchawki podłączone do %1$s</string>
+    <string name="circulate_headset_duplicate_ok">Zastąp</string>
+    <string name="circulate_headset_error_default">Przekroczono czas połączenia</string>
+    <string name="circulate_headset_error_device_not_support">Nie można połączyć słuchawek z tym urządzeniem</string>
+    <string name="circulate_headset_error_headset_not_support">Nie można połączyć słuchawek z komputerem</string>
+    <string name="circulate_headset_error_timeout">Przekroczono czas połączenia</string>
+    <string name="circulate_headset_error_upgrade">Najpierw zaktualizuj Mi Smart Hub na docelowym urządzeniu</string>
+    <string name="connect_success">Połączono %1$s</string>
+    <string name="upgrade_cancel">Anuluj</string>
+    <string name="upgrade_cancel_all">Anuluj aktualizacje</string>
+    <string name="upgrade_check_upgrade">Aktualizuj</string>
+    <string name="upgrade_checking">Wyszukiwanie aktualizacji…</string>
+    <string name="upgrade_help_menu">Pomoc</string>
+    <string name="upgrade_help_title">Pomoc z aktualizacją</string>
+    <string name="upgrade_login_dialog_message">Zaloguj się na swoje konto Xiaomi, aby móc wyświetlać połączone urządzenia.</string>
+    <string name="upgrade_login_dialog_sure">Zaloguj się</string>
+    <string name="upgrade_login_dialog_title">Zaloguj się na konto Xiaomi</string>
+    <string name="upgrade_no_devices">Brak dostępnych aktualizacji</string>
+    <string name="upgrade_scan">Sprawdź dostępność aktualizacji</string>
+    <string name="upgrade_start">Aktualizuj</string>
+    <string name="upgrade_start_all">Aktualizuj</string>
+    <string name="upgrade_title">Zaktualizuj podłączone urządzenia</string>
+    <string name="upgrade_toast_no_wifi">Nie udało się połączyć</string>
+    <string name="upgrade_tv_device_tip">*Aktualizacje są dostarczane przez Xiaomi TV</string>
+    <string name="upgrade_ver_can_upgrade">Dostępna aktualizacja</string>
+    <string name="upgrade_ver_latest">Korzystasz z najnowszej wersji</string>
+    <string name="upgrade_ver_latest1">Korzystasz z najnowszej wersji (%1$d)</string>
+    <string name="upgrade_ver_can_upgrade_1to2">Aktualizacja z wersji %1$d do %2$d</string>
+    <string name="upgrade_ver_can_upgrade_to1">Aktualizacja do wersji %1$d</string>
 </resources>
