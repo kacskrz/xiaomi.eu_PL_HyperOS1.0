@@ -408,10 +408,8 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="pad_pc_message_introduction_title">Wspólny schowek</string>
     <string name="pad_pc_mirror_introduction_summary">Wyświetlaj zawartość ekranu komputera na tablecie</string>
     <string name="pad_pc_mirror_introduction_title">Klonuj ekran</string>
-    <string name="pad_settings_bluetooth_enable_summary">Aby móc odnajdywać urządzenia w pobliżu, włącz Bluetooth. Zrobić to teraz?</string>
     <string name="pad_settings_click_toast_msg">Połącz za pomocą Mi Smart Hub na swoim komputerze</string>
     <string name="pad_settings_current_device_tip">Automatycznie łącz się z innymi tabletami powiązanymi z Twoim kontem Xiaomi</string>
-    <string name="pad_settings_handoff_enable_bluetooth">Włącz Bluetooth, aby odnaleźć urządzenia w pobliżu</string>
     <string name="pc_account_connect_cta_again">Połącz się ponownie na swoim komputerze</string>
     <string name="pc_cooperate_duplicate_title">Pulpit komputera</string>
     <string name="pc_cooperate_extend_title">Rozszerzanie pulpitu komputera</string>
