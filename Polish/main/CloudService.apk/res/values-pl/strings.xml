@@ -1230,4 +1230,6 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="micloud_dspt_provision_no_sms">Możesz wykorzystać Chmurę Xiaomi do synchronizacji zdjęć, kontaktów, call history, notatek, nagrań i innych danych, a także lokalizacji urządzenia i udostępniania elementów przyjaciołom. Aby działać normalnie, aplikacja musi się łączyć z Internetem. Synchronizacja elementów może wymagać łączności z siecią komórkową i włączenia Wi-Fi.</string>
   <string name="micloud_dspt_provision_no_sms_and_call">Możesz wykorzystać Chmurę Xiaomi do synchronizacji zdjęć, kontaktów, notatek, nagrań i innych danych, a także lokalizacji urządzenia i udostępniania elementów przyjaciołom. Aby działać normalnie, aplikacja musi się łączyć z Internetem. Synchronizacja elementów może wymagać łączności z siecią komórkową i włączenia Wi-Fi.</string>
   <string name="micloud_share_cloud_storage_entrance_title">Dziel miejsce w Chmurze ze swoją grupą rodzinną</string>
+  <string name="find_permission_phone_sim_info_summary">W celu uzyskiwania lokalizacji poprzez SMS w przypadku braku połączenia z siecią</string>
+  <string name="find_permission_phone_sim_info_title">Dostęp do informacji o urządzeniu</string>
 </resources>

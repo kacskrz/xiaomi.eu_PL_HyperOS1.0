@@ -444,4 +444,6 @@ Dotknij opcji \"%1$s\", a następnie wybierz \"%2$s\"."</string>
     <string name="dsda_not_incall_sim_mo_fail_desc">"Nie można teraz korzystać z karty SIM %1$d w celu wykonywania połączeń. Obecne środowisko sieciowe nie wspiera funkcjonalności dwóch kart SIM."</string>
     <string name="dsda_swap_call_prompt">"Jeśli przejdziesz dalej, zostaniesz przełączony na rozmowę głosową."</string>
     <string name="select_other_sim_card_dial">Użyj SIM %1$d</string>
+    <string name="call_log_short_in">Ten numer dzwonił do Ciebie teraz</string>
+    <string name="call_log_short_out">Dzwoniono pod ten numer teraz</string>
 </resources>

@@ -984,4 +984,5 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
   <string name="qq_login_btn_content_description">Zaloguj się przez QQ</string>
   <string name="weibo_login_btn_content_description">Zaloguj się przez Weibo</string>
   <string name="weixin_login_btn_content_description">Zaloguj się przez WeChat</string>
+  <string name="please_download_gallery">Zainstaluj Galerię, aby wyświetlić</string>
 </resources>

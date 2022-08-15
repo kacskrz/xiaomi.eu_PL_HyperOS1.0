@@ -1674,7 +1674,7 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
     <string name="pa_accessibility_picker_home_search">Wyszukaj widżety</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">Wybrano %1$s, rząd %2$d, numer %3$d. Dotknij dwa razy, aby rozpocząć.</string>
     <string name="pa_accessibility_picker_home_title">Dodaj widżet</string>
-    <string name="pa_accessibility_picker_home_widget_slected">Wybrano %1$s, rząd %2$d, numer %3$d. Dotknij dwa razy, aby wyświetlić szczegóły. Przytrzymaj, aby przeciągnąć element.</string>
+    <string name="pa_accessibility_picker_home_widget_slected">Wybrano %1$s, Rozmiar: %2$s, Stan instalacji: %3$s, Rząd %4$d, Numer %5$d. Dotknij dwa razy, aby uzyskać szczegóły. Przytrzymaj, aby przenieść.</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Wybrano %1$s, rząd %2$d, numer %3$d. Dotknij dwa razy, aby wyświetlić szczegóły.</string>
     <string name="pa_get_installed_app_permission_description">W celu instalowania aplikacji i dodawania widżetów</string>
     <string name="pa_pad_privacy_text">Widżety pulpitu</string>
@@ -1707,4 +1707,11 @@ Zajrzyj tu wkrótce!"</string>
     <string name="pa_widget_need_download_permission">Uprawnienia</string>
     <string name="pa_widget_need_download_privacy">Prywatność</string>
     <string name="pa_widget_need_download_version">Wersja %1$s</string>
+    <string name="pa_picker_search_card_filter_button_text">Wszystkie widżety</string>
+    <string name="pa_accessibility_picker_app_group_list_item">Widżet %1$s z %2$d</string>
+    <string name="pa_accessibility_picker_home_widget_replace">Wybrano %s. Zmienianie widżetów.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widżet: %s. Dotknij dwukrotnie przycisku poniżej niego, aby zastąpić go innym widżetem.</string>
+    <string name="pa_filter_accessibility_filter_item">Wybrano %s. Dotknij dwukrotnie, aby filtrować inne wybory.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_selected">Dotknij dwukrotnie, aby wybrać %s.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Dotknij dwukrotnie, aby wybrać.</string>
 </resources>

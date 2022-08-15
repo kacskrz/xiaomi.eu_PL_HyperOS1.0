@@ -139,4 +139,48 @@
         <item quantity="few">%d minuty temu</item>
         <item quantity="many">%d minut temu</item>
     </plurals>
+    <plurals name="call_log_day_in">
+        <item quantity="other">Ten numer dzwonił do Ciebie %1$s dni temu</item>
+        <item quantity="one">Ten numer dzwonił do Ciebie wczoraj</item>
+    </plurals>
+    <plurals name="call_log_day_out">
+        <item quantity="other">Dzwoniono pod ten numer %1$s dni temu</item>
+        <item quantity="one">Dzwoniono pod ten numer wczoraj</item>
+    </plurals>
+    <plurals name="call_log_hour_in">
+        <item quantity="other">Ten numer dzwonił do Ciebie %1$s godz. temu</item>
+        <item quantity="one">Ten numer dzwonił do Ciebie %1$s godz. temu</item>
+    </plurals>
+    <plurals name="call_log_hour_out">
+        <item quantity="other">Dzwoniono pod ten numer %1$s godz. temu</item>
+        <item quantity="one">Dzwoniono pod ten numer %1$s godz. temu</item>
+    </plurals>
+    <plurals name="call_log_minute_in">
+        <item quantity="other">Ten numer dzwonił do Ciebie %1$s min. temu</item>
+        <item quantity="one">Ten numer dzwonił do Ciebie %1$s min. temu</item>
+    </plurals>
+    <plurals name="call_log_minute_out">
+        <item quantity="other">Dzwoniono pod ten numer %1$s min. temu</item>
+        <item quantity="one">Dzwoniono pod ten numer %1$s min. temu</item>
+    </plurals>
+    <plurals name="call_log_month_in">
+        <item quantity="other">Ten numer dzwonił do Ciebie %1$s miesięcy temu</item>
+        <item quantity="few">Ten numer dzwonił do Ciebie %1$s miesiące temu</item>
+        <item quantity="one">Ten numer dzwonił do Ciebie %1$s miesiąc temu</item>
+    </plurals>
+    <plurals name="call_log_month_out">
+        <item quantity="other">Dzwoniono pod ten numer %1$s miesięcy temu</item>
+        <item quantity="few">Dzwoniono pod ten numer %1$s miesiące temu</item>
+        <item quantity="one">Dzwoniono pod ten numer %1$s miesiąc temu</item>
+    </plurals>
+    <plurals name="call_log_year_in">
+        <item quantity="other">Ten numer dzwonił do Ciebie %1$s lat temu</item>
+        <item quantity="few">Ten numer dzwonił do Ciebie %1$s lata temu</item>
+        <item quantity="one">Ten numer dzwonił do Ciebie %1$s rok temu</item>
+    </plurals>
+    <plurals name="call_log_year_out">
+        <item quantity="other">Dzwoniono pod ten numer %1$s lat temu</item>
+        <item quantity="few">Dzwoniono pod ten numer %1$s lata temu</item>
+        <item quantity="one">Dzwoniono pod ten numer %1$s rok temu</item>
+    </plurals>
 </resources>
