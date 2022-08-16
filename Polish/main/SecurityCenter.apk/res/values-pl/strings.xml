@@ -4589,7 +4589,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="power_wireless_update_notification_title">Aktualizacja oprogramowania ładowania bezprzewodowego</string>
     <string name="power_wireless_update_text">Aktualna</string>
     <string name="power_wireless_update_tv_text">"Aktualizacja oprogramowania… Nie wyłączaj urządzenia."</string>
-    <string name="setting_wireless_reverse_charging_fg_control_summary">Zatrzymaj bezprzewodowe ładowanie zwrotne, kiedy poziom naładowania baterii będzie wynosić %s</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Zatrzymaj bezprzewodowe ładowanie zwrotne, kiedy poziom naładowania baterii będzie mniejszy niż %s</string>
     <string name="setting_wireless_reverse_charging_summary">Umieść urządzenie wspierające technologię ładowania bezprzewodowego Qi (np. telefon czy zegarek) na środku obudowy</string>
     <string name="time_picker_dialog_title">Ustaw czas</string>
     <string name="antivirus_browser_check">Sprawdzaj strony w Przeglądarce</string>
@@ -5658,4 +5658,7 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\
     <string name="pc_endurance_calculation">Obliczanie…</string>
     <string name="size_embedded">Równoległe okna</string>
     <string name="size_full">Pełny ekran</string>
+    <string name="global_satisfaction_notification_button">Oceń</string>
+    <string name="global_satisfaction_notification_subhead">Powiedz Xiaomi o swoich wrażeniach</string>
+    <string name="global_satisfaction_notification_title">Oceń to urządzenie</string>
 </resources>

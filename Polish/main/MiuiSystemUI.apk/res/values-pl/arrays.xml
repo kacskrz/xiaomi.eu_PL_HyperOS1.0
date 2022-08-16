@@ -230,4 +230,8 @@
         <item>Przenieś w prawo</item>
         <item>Przenieś w górę</item>
     </string-array>
+    <string-array name="miui_notification_aggregate_category">
+        <item>To zalecana treść.</item>
+        <item>To reklama.</item>
+    </string-array>
 </resources>

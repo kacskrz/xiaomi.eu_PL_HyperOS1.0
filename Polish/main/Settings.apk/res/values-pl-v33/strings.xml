@@ -23,4 +23,6 @@ Widżet: %2$s
     <string name="sim_action_switch_sub_dialog_progress">Przełączam na operatora %1$s do obsługi połączeń i wiadomości…</string>
     <string name="unused_apps_switch">Wstrzymaj aktywność w aplikacji, jeśli jest nieużywana</string>
     <string name="user_add_max_count">Nie możesz dodać więcej użytkowników. Aby dodać nowego użytkownika, usuń któregoś z obecnych.</string>
+    <string name="lock_settings_picker_admin_restricted_personal_message">Jeśli zapomnisz blokadę ekranu, administrator IT nie będzie mógł jej zresetować.</string>
+
 </resources>

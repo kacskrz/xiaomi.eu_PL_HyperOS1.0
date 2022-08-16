@@ -2139,4 +2139,28 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="qvga_shelter_tip_text">"Nie zasłaniaj obiektywu"</string>
   <string name="pref_cv_watermark_location_title">Położenie</string>
   <string name="pref_cv_watermark_time_title">Czas</string>
+  <string name="accessibility_flash_on_but_not_adjust_ambient">"Nie można dostosować flesza"</string>
+  <string name="ambient_lighting_need_flash_on_tip">Wypełnianie światłem zostanie włączone, gdy dotkniesz przycisku migawki</string>
+  <string name="ambient_lighting_not_adjust_ambient">"Nie można użyć tego efektu wraz z fleszem"</string>
+  <string name="ambient_lighting_type_blue">Szafir</string>
+  <string name="ambient_lighting_type_purple">Moweina</string>
+  <string name="ambient_lighting_type_sun">Promień</string>
+  <string name="ambient_lighting_type_warm">Flara</string>
+  <string name="ambient_lighting_type_wind">Poryw</string>
+  <string name="cosmetic_mirror_instructions_hint">"Spójrz w aparat i dotknij ekranu dwukrotnie, aby przybliżyć i wycentrować Twoją twarz
+(działa tylko z jedną osobą w ramce)"</string>
+  <string name="cosmetic_mirror_shortcut_short">Małe lusterko</string>
+  <string name="cosmetic_mirror_title">Małe lusterko</string>
+  <string name="description_sorftlight_style_cold">Włączono flesz. Wybrano zimne światło.</string>
+  <string name="description_sorftlight_style_nature">Włączono flesz. Wybrano naturalne światło.</string>
+  <string name="description_sorftlight_style_warm">Włączono flesz. Wybrano ciepłe światło.</string>
+  <string name="flat_selfie_tip_text">Obróć urządzenie, aby skorzystać z aparatu</string>
+  <string name="flat_selfie_tip_text_main">Obróć urządzenie, aby skorzystać z aparatu</string>
+  <string name="flat_selfie_tip_text_sub">Przełącz aparaty na zewnętrznym ekranie i obróć urządzenie, aby powrócić do wewnętrznego ekranu</string>
+  <string name="pref_ambient_lighting_title">Oświetlenie</string>
+  <string name="pref_camera_crop_preferred_description">"Inteligentnie przycinaj zdjęcia w wysokiej rozdzielczości, aby poprawiać ich kompozycję. Funkcja nie wspiera obrazów w formacie HEIF."</string>
+  <string name="pref_true_colour_video_mode_introduction">Niezwykłe szczegóły, oszałamiające kolory i uderzający kontrast</string>
+  <string name="sorftlight_style_cold">Zimne</string>
+  <string name="sorftlight_style_nature">Naturalne</string>
+  <string name="sorftlight_style_warm">Ciepłe</string>
 </resources>

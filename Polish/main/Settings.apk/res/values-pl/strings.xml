@@ -5291,17 +5291,12 @@ To ustawienie obowiązuje wszystkich użytkowników tego urządzenia."</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Łączność z siecią</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Pobieraj z internetu listę aplikacji mogących korzystać z trybu Czytania</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Aktualizuj listę aplikacji</string>
-  <string name="screen_pinning_description">"Gdy to ustawienie jest włączone, możesz przypiąć ekran, by widzieć jego aktualną zawartość o czasu, gdy go odepniesz.
+  <string name="screen_pinning_description">"Przypięta aplikacja może otwierać inne aplikacje, a dane osobowe mogą być dostępne. 
 
-Aby przypiąć ekran:
-
-1. Upewnij się, że funkcja przypinania ekranu jest włączona.
-
-2. Otwórz ekran, który chcesz przypiąć.
-
-3. Kliknij Przegląd.
-
-4. Przesuń palcem w górę i kliknij ikonę pinezki."</string>
+Aby używać przypinania aplikacji: \u0009
+1. Włącz przypinanie aplikacji. \u0009
+2. Otwórz Przegląd. \u0009
+3. Kliknij ikonę aplikacji u góry ekranu, a następnie kliknij Przypnij"</string>
   <string name="screen_pinning_title">Przypinanie ekranu</string>
   <string name="screen_pinning_unlock_none">Zablokuj urządzenie przy odpinaniu</string>
   <string name="screen_pinning_unlock_password">Aby odpiąć, poproś o hasło</string>
@@ -10757,4 +10752,87 @@ Po usunięciu tych danych będziesz potrzebować kodu PIN, wzoru lub hasła do o
     <string name="zen_mode_people_footer">Nawet jeśli aplikacje służące do dzwonienia lub wysyłania wiadomości nie będą mogły wysyłać Ci powiadomień, osoby, które tutaj wybierzesz, będą mogły się z Tobą skontaktować za pomocą tych aplikacji</string>
     <string name="miheadset_open_closeAnc">Redukcja szumów wł./wył.</string>
     <string name="bt_always_show_icon">Zawsze wyświetlaj ikonę Bluetooth na pasku statusu</string>
+    <string name="accessibility_text_reading_reset_message">Rozmiar wyświetlacza i ustawienia tekstu zostały zresetowane</string>
+    <string name="accessibility_vibration_settings_state_off">Wyłączono</string>
+    <string name="accessibility_vibration_settings_state_on">Włączono</string>
+    <string name="assistance_category_title">Ułatwienia dostępu</string>
+    <string name="auto_rotate_link_a11y">Dowiedz się więcej o autoobracaniu</string>
+    <string name="auto_rotate_screen_summary">Automatycznie dostosuj orientację ekranu, gdy obracasz telefon do pionu lub poziomu</string>
+    <string name="auto_rotate_summary_a11y">Gdy obracasz telefon do pionu lub poziomu</string>
+    <string name="back_navigation_animation">Przewidywanie animacji Wstecz</string>
+    <string name="back_navigation_animation_dialog">To ustawienie włącza animacje systemowe dla animacji przewidywania gestów. Wymaga ono ustawienia w ramach aplikacji wartości enableOnBackInvokedCallback na true w jej pliku manifestu.</string>
+    <string name="back_navigation_animation_summary">Włącz animacje systemowe dla przewidywania gestu Wstecz.</string>
+    <string name="bluetooth_broadcast_dialog_broadcast_app">Transmituj aplikację %1$s</string>
+    <string name="bluetooth_broadcast_dialog_broadcast_message">Przesyłaj multimedia na urządzenia w pobliżu lub posłuchaj komunikatu innej osoby</string>
+    <string name="bluetooth_broadcast_dialog_find_message">Posłuchaj komunikatów odtwarzanych w pobliżu</string>
+    <string name="bluetooth_broadcast_dialog_title">Komunikat</string>
+    <string name="bluetooth_find_broadcast">Znajdź komunikaty</string>
+    <string name="bluetooth_find_broadcast_button_leave">Zostaw komunikat</string>
+    <string name="bluetooth_find_broadcast_button_scan">Zeskanuj kod QR</string>
+    <string name="bluetooth_find_broadcast_summary">Odtwarzane</string>
+    <string name="bluetooth_find_broadcast_title">Komunikaty</string>
+    <string name="bt_le_audio_broadcast_dialog_different_output">Zmień wyjście</string>
+    <string name="bt_le_audio_broadcast_dialog_sub_title">Jeśli zaczniesz transmisję %1$s lub zmienisz wyjście, Twoja obecna transmisja się zatrzyma.</string>
+    <string name="bt_le_audio_broadcast_dialog_switch_app">Transmituj aplikację %1$s</string>
+    <string name="bt_le_audio_broadcast_dialog_title">Zaprzestać transmisji %1$s?</string>
+    <string name="bt_le_audio_qr_code_is_not_valid_format">Nieprawidłowy format kodu QR</string>
+    <string name="bt_le_audio_scan_qr_code_scanner">Aby odsłuchać, wyśrodkuj kod QR poniżej</string>
+    <string name="desc_app_locale_disclaimer">Język może się różnić od języków dostępnych w aplikacji. NIektóre aplikacje mogą nie obsługiwać tego ustawienia.</string>
+    <string name="desc_app_locale_selection_supported">Wyświetlają się tutaj tylko aplikacje, które działają w wybranym języku.</string>
+    <string name="desc_no_available_supported_locale">Wybór języka tej aplikacji nie jest dostępny w Ustawieniach.</string>
+    <string name="find_broadcast_password_dialog_connection_error">Nie można połączyć. Spróbuj ponownie.</string>
+    <string name="find_broadcast_password_dialog_password_error">Nieprawidłowe hasło</string>
+    <string name="find_broadcast_password_dialog_title">Wpisz hasło</string>
+    <string name="guest_remove_guest_confirm_button">Usuń</string>
+    <string name="lock_settings_picker_admin_restricted_personal_message_action">Ustaw osobną blokadę profilu służbowego</string>
+    <string name="lockpassword_password_too_short_all_numeric">{count,plural, =1{Jeśli używasz tylko liczb, hasło musi składać się z przynajmniej 1 cyfry}few{Jeśli używasz tylko liczb, hasło musi składać się z przynajmniej # cyfr}many{Jeśli używasz tylko liczb, hasło musi składać się z przynajmniej # cyfr}other{Jeśli używasz tylko liczb, hasło musi składać się z przynajmniej # cyfry}}</string>
+    <string name="lockscreen_trivial_disabled_controls_summary">Aby tego użyć, musisz najpierw włączyć „Pokazuj sterowanie urządzeniami”</string>
+    <string name="privacy_advanced_settings">Więcej ustawień prywatności</string>
+    <string name="privacy_advanced_settings_summary">Autouzupełnianie, zarządzanie aktywnością i inne ustawienia</string>
+    <string name="process_network_tethering">Tethering</string>
+    <string name="process_removed_apps">Usunięte aplikacje</string>
+    <string name="profile_section_header_for_advanced_privacy">Profil służbowy</string>
+    <string name="search_history_clear_description">Wyczyść historię wyszukiwania</string>
+    <string name="search_history_description">Historia wyszukiwania</string>
+    <string name="search_result_feedback_text">"Nie znaleziono rezultatów"</string>
+    <string name="security_fingerprint_disclaimer_lockscreen_disabled_1">Opcja blokady ekranu jest wyłączona. Aby dowiedzieć się więcej, skontaktuj się z administratorem organizacji.</string>
+    <string name="security_fingerprint_disclaimer_lockscreen_disabled_2">Nadal możesz używać odcisku palca do autoryzowania zakupów i korzystania z aplikacji.</string>
+    <string name="security_settings_fingerprint_enroll_finish_v2_message">Możesz teraz używać odcisku palca do odblokowywania telefonu oraz weryfikacji tożsamości, na przykład podczas logowania się w aplikacjach</string>
+    <string name="security_settings_fingerprint_enroll_introduction_v2_message">Używaj odcisku palca do odblokowywania telefonu i potwierdzania tożsamości, na przykład podczas logowania się w aplikacjach lub zatwierdzania zakupów.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_6">Najlepsze efekty daje osłona ekranu z oznaczeniem „Made for Google”. W przypadku innych osłon ekranu Twój odcisk palca może nie zadziałać.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_6">Najlepsze efekty daje osłona ekranu z oznaczeniem „Made for Google”. W przypadku innych osłon ekranu odcisk palca Twojego dziecka może nie zadziałać.</string>
+    <string name="security_settings_fingerprint_v2_home_screen_text">Używaj odcisku palca do odblokowywania telefonu i potwierdzania tożsamości, na przykład podczas logowania się w aplikacjach</string>
+    <string name="security_settings_udfps_enroll_left_edge_title">Umieść na czytniku lewą krawędź palca</string>
+    <string name="security_settings_udfps_enroll_right_edge_title">Umieść na czytniku prawą krawędź palca</string>
+    <string name="spatial_audio_footer_learn_more_text">Ustawienia połączonych urządzeń</string>
+    <string name="spatial_audio_footer_title">Możesz też włączyć dźwięk przestrzenny na urządzeniach Bluetooth.</string>
+    <string name="ssl_ca_cert_info_message">"{numberOfCertificates,plural, =1{Organizacja {orgName} zainstalowała w Twoim profilu służbowym certyfikat CA, który może zezwolić jej na monitorowanie aktywności profilu w sieci, w tym e-maili, aplikacji i bezpiecznych stron internetowych.
+
+Aby dowiedzieć się więcej o tym certyfikacie, skontaktuj się ze swoim administratorem.}few{Organizacja {orgName} zainstalowała w Twoim profilu służbowym certyfikaty CA, które mogą zezwolić jej na monitorowanie aktywności profilu w sieci, w tym e-maili, aplikacji i bezpiecznych stron internetowych.
+
+Aby dowiedzieć się więcej o tym certyfikacie, skontaktuj się ze swoim administratorem.}many{Organizacja {orgName} zainstalowała w Twoim profilu służbowym certyfikaty CA, które mogą zezwolić jej na monitorowanie aktywności profilu w sieci, w tym e-maili, aplikacji i bezpiecznych stron internetowych.
+
+Aby dowiedzieć się więcej o tym certyfikacie, skontaktuj się ze swoim administratorem.}other{Organizacja {orgName} zainstalowała w Twoim profilu służbowym certyfikaty CA, które mogą zezwolić jej na monitorowanie aktywności profilu w sieci, w tym e-maili, aplikacji i bezpiecznych stron internetowych.
+
+Aby dowiedzieć się więcej o tym certyfikacie, skontaktuj się ze swoim administratorem.}}"</string>
+    <string name="ssl_ca_cert_info_message_device_owner">"{numberOfCertificates,plural, =1{Organizacja {orgName} zainstalowała na Twoim urządzeniu certyfikat CA, który może zezwolić jej na monitorowanie aktywności urządzenia w sieci, w tym e-maili, aplikacji i bezpiecznych stron internetowych.
+
+Aby dowiedzieć się więcej o tym certyfikacie, skontaktuj się ze swoim administratorem.}few{Organizacja {orgName} zainstalowała na Twoim urządzeniu certyfikaty CA, które mogą zezwolić jej na monitorowanie aktywności urządzenia w sieci, w tym e-maili, aplikacji i bezpiecznych stron internetowych.
+
+Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się ze swoim administratorem.}many{Organizacja {orgName} zainstalowała na Twoim urządzeniu certyfikaty CA, które mogą zezwolić jej na monitorowanie aktywności urządzenia w sieci, w tym e-maili, aplikacji i bezpiecznych stron internetowych.
+
+Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się ze swoim administratorem.}other{Organizacja {orgName} zainstalowała na Twoim urządzeniu certyfikat CA, który może zezwolić jej na monitorowanie aktywności urządzenia w sieci, w tym e-maili, aplikacji i bezpiecznych stron internetowych.
+
+Aby dowiedzieć się więcej o tym certyfikacie, skontaktuj się ze swoim administratorem.}}"</string>
+    <string name="tare_off">Wyłączono</string>
+    <string name="tare_on">Włączono</string>
+    <string name="wifi_scan_change">Zmień</string>
+    <string name="screen_pinning_guest_user_description">"Przypięta aplikacja może otwierać inne aplikacje, a dane osobowe mogą być dostępne. 
+
+Jeśli chcesz przekazać komuś swoje urządzenie w bezpieczny sposób, skorzystaj raczej z profilu gościa. 
+
+Aby używać przypinania aplikacji: \u0009
+1. Włącz przypinanie aplikacji. \u0009
+2. Otwórz Przegląd. \u0009
+3. Kliknij ikonę aplikacji u góry ekranu, a następnie kliknij Przypnij"</string>
 </resources>
