@@ -6074,12 +6074,6 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="split_screen">Przejdź do dzielonego ekranu</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Monitorowanie sieci</string>
-  <string name="ssl_ca_cert_info_message">"To urządzenie jest zarządzane w domenie:
-%s
-
-Administrator może monitorować Twoją aktywność w sieci, w tym e-maile, aplikacje i bezpieczne witryny.
-
-Skontaktuj się z nim, by dowiedzieć się więcej."</string>
   <string name="ssl_ca_cert_settings_button">Sprawdź zaufane dane uwierzytelniające</string>
   <string name="ssl_ca_cert_warning">Sieć może być monitorowana</string>
   <string name="ssl_ca_cert_warning_message">"Podmiot zewnętrzny może monitorować Twoją aktywność w sieci (np. e-maile, aplikacje i bezpieczne strony).
