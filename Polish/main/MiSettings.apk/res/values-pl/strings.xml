@@ -897,4 +897,43 @@ nie są tworzone w Drugiej przestrzeni"</string>
 "</string>
     <string name="desktop_widget_authorization_new">Dotknij, aby zobaczyć statystyki Czasu przed ekranem</string>
     <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="avalible_per_day">Czas trwania sesji</string>
+    <string name="category_limit_notify_title">Powiadomienie Czasu przed ekranem</string>
+    <string name="category_list_expand">Więcej</string>
+    <string name="category_list_packup">Ukryj</string>
+    <string name="compulsor_tip">Pulpit</string>
+    <string name="continue_time">Czas trwania sesji</string>
+    <string name="device_limit_enable">Wł.</string>
+    <string name="device_limit_un_enable">Wył.</string>
+    <string name="force_rest">Przerwy w sesji</string>
+    <string name="force_rest_summary">Rób obowiązkowe przerwy, kiedy sesje osiągną ustalony limit</string>
+    <string name="force_rest_time">Czas trwania przerwy</string>
+    <string name="guard_item_app_summary">Zdalnie odinstalowuj aplikacje</string>
+    <string name="guard_item_app_title">Zarządzaj aplikacjami</string>
+    <string name="guard_item_browser_summary">Kontroluj dostęp do aplikacji i treści</string>
+    <string name="guard_item_browser_title">Ograniczenia</string>
+    <string name="guard_item_call_summary">Zezwól określonym kontaktom na wykonywanie połączeń</string>
+    <string name="guard_item_call_title">Komunikacja</string>
+    <string name="guard_item_eye_protect_summary">Monitoruj postawę</string>
+    <string name="guard_item_eye_protect_title">Komfort oczu</string>
+    <string name="guard_range_from">Od</string>
+    <string name="guard_range_to">Do</string>
+    <string name="holiday_limit">Dni wolne</string>
+    <string name="in_forbidden_period">Korzystanie jest ograniczone</string>
+    <string name="loading_error">Nie udało się załadować elementów</string>
+    <string name="next_day">"(Nast. dnia) "</string>
+    <string name="steady_on_screen_notify_new">Zrób sobie przerwę</string>
+    <string name="steady_on_screen_ntf_msg">Wszystkie funkcje będą dostępne ponownie za %1$s</string>
+    <string name="time_over_back_home">Pulpit</string>
+    <string name="time_over_delayed_use">Ignoruj</string>
+    <string name="time_over_not_delayed_use">Rozumiem</string>
+    <string name="time_over_today">"Dzisiejszy czas przed ekranem
+został wykorzystany"</string>
+    <string name="time_over_today_use">"Dzisiejsza sesja: "</string>
+    <string name="unavailable_per_day">Przerwy</string>
+    <string name="usage_device_limit_forbidden_period">Użycie jest ograniczone pomiędzy %1$s a %2$s</string>
+    <string name="usage_device_limit_start_forbidden_period">Użycie jest ograniczone pomiędzy %1$s a %2$s (pozostało %3$s)</string>
+    <string name="usage_new_category_limit_summary">Ustaw dzienny limit zużycia dla wszystkich aplikacji w tej kategorii</string>
+    <string name="usage_new_category_limit_title">Ogranicz użycie dla kategorii aplikacji</string>
+    <string name="workday_limit">Dni robocze</string>
 </resources>

@@ -209,4 +209,26 @@
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">Dziś pozostało %2$d minut dla \"%1$s\"</item>
+        <item quantity="few">Dziś pozostały %2$d minuty dla \"%1$s\"</item>
+        <item quantity="one">Dziś pozostała %2$d minuta dla \"%1$s\"</item>
+    </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Odpocznij przez %d minuty</item>
+        <item quantity="one">Odpocznij przez %d minutę</item>
+        <item quantity="few">Odpocznij przez %d minuty</item>
+        <item quantity="many">Odpocznij przez %d minut</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">Korzystasz z tego urządzenia już przez %d minuty</item>
+        <item quantity="one">Korzystasz z tego urządzenia już przez %d minutę</item>
+        <item quantity="few">Korzystasz z tego urządzenia już przez %d minuty</item>
+        <item quantity="many">Korzystasz z tego urządzenia już przez %d minut</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">Możesz dodać tylko %d przerw</item>
+        <item quantity="one">Możesz dodać tylko %d przerwę</item>
+        <item quantity="few">Możesz dodać tylko %d przerwy</item>
+    </plurals>
 </resources>
