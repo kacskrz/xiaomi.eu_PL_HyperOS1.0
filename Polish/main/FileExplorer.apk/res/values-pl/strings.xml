@@ -919,4 +919,6 @@ and never miss the cool new ones!"</string>
     <string name="widget_choose_file">Dotknij, aby dodać pliki</string>
     <string name="widget_choose_fragment_title">Wybierz typ pliku</string>
     <string name="widget_finish">Gotowe</string>
+    <string name="widget_choose_document_please">Wybierz dokument</string>
+    <string name="widget_name">Ostatnio wyświetlane pliki</string>
 </resources>

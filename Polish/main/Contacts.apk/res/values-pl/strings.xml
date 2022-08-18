@@ -1659,4 +1659,8 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="invisible_mode_title">"Jesteś w trybie Incognito"</string>
   <string name="invisible_mode_unable_connect_camera">Wyłącz tryb Incognito, aby móc korzystać z aparatu. Zrobić to?</string>
   <string name="invisible_mode_unable_get_location">Wyłącz tryb Incognito, aby móc korzystać z usług lokalizacji i importować kontakty z innych urządzeń za pomocą Bluetooth. Zrobić to?</string>
+  <string name="presentation_payphone">Budka telefoniczna</string>
+  <string name="presentation_private">Numer prywatny</string>
+  <string name="presentation_unknown">Nieznany numer</string>
+  <string name="view_more_call_logs">Pokaż więcej</string>
 </resources>
