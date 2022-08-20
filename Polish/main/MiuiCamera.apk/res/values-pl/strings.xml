@@ -2163,4 +2163,32 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="sorftlight_style_cold">Zimne</string>
   <string name="sorftlight_style_nature">Naturalne</string>
   <string name="sorftlight_style_warm">Ciepłe</string>
+  <string name="shine_hair_puffy">Włosy</string>
+  <string name="sorftlight_style_cold_alert">Biuro</string>
+  <string name="sorftlight_style_nature_alert">Na zewnątrz</string>
+  <string name="sorftlight_style_warm_alert">Restauracja</string>
+  <string name="video_prompter_adjust_size">Rozmiar tekstu</string>
+  <string name="video_prompter_adjust_speed">Prędkość przewijania</string>
+  <string name="video_prompter_default_txt">"
+Teleprompter
+Użyj telepromptera, aby przeczytać swój skrypt podczas nagrywania filmu.
+
+Jak działa teleprompter
+Możesz użyć poniższych przycisków, aby zaimportować tekst, wyświetlić podgląd odtwarzania i edytować wiersze. Aby zmienić rozmiar ruchomego okna, naciśnij i przytrzymaj jego dolne rogi. Aby przenieść okno, przeciągnij je za dolną lub górną krawędź."</string>
+  <string name="video_prompter_edit_exit_dialog_message">Jeśli przerwiesz edycję, wzystkie niezapisane zmiany zostaną utracone. Przerwać mimo to?</string>
+  <string name="video_prompter_edit_exit_dialog_title">Przerwać edytowanie?</string>
+  <string name="video_prompter_edit_import_fail">Nie udało się zaimportować</string>
+  <string name="video_prompter_edit_import_success">Pomyślnie zaimportowano</string>
+  <string name="video_prompter_edit_import_success_partially">Tekst jest za długi. Zaimportowano tylko jego część.</string>
+  <string name="video_prompter_edit_tip_dialog_cancel">Anuluj</string>
+  <string name="video_prompter_edit_tip_dialog_message">Możesz importować pliki DOC, DOCX i TXT. Obrazy, tabele i hiperłącza nie będą wyświetlane.</string>
+  <string name="video_prompter_edit_tip_dialog_ok">OK</string>
+  <string name="video_prompter_edit_tip_dialog_title">Importuj tekst</string>
+  <string name="vlog_pro_cancel_reset_record_hint">Anuluj</string>
+  <string name="vlog_pro_first_into_vlog_dumy_hint">Wybierz szablon i dotknij, aby rozpocząć</string>
+  <string name="vlog_pro_first_record_hint">Dotknij, aby połączyć w sekwencję</string>
+  <string name="vlog_pro_reset_record_hint">Jeszcze raz</string>
+  <string name="vlog_pro_workspace_continue_recording">Kontynuuj nagrywanie</string>
+  <string name="vlog_pro_workspace_video_delete">Usuń</string>
+  <string name="vlog_pro_workspace_video_rename">Zmień nazwę</string>
 </resources>

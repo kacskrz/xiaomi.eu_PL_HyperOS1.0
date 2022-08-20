@@ -482,4 +482,5 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="permdesc_write_contacts">Zezwolić %1$s na edycję kontaktów?</string>
   <string name="precise_location_title">Dokładna lokalizacja</string>
   <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Poszukuj i łącz się z urządzeniami w pobliżu za pomocą Bluetooth i Wi-Fi</string>
+  <string name="permdesc_post_notification">Zezwolić %1$s na wysyłanie powiadomień?</string>
 </resources>

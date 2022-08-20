@@ -955,4 +955,8 @@
   <string name="miui_widget_menu_replace_text">Zmień</string>
   <string name="monochrome_summary">Zmień kolor tła kompatybilnych ikon</string>
   <string name="monochrome_title">Kolor tła</string>
+  <string name="work_mode_off_detailed_text">Twoje aplikacje służbowe nie mogą wysyłać powiadomień, używać baterii lub uzyskiwać lokalizacji</string>
+  <string name="work_mode_off_text">Aplikacje służbowe wstrzymane</string>
+  <string name="work_mode_toggle_off">Wyłącz aplikacje służbowe</string>
+  <string name="work_mode_toggle_on">Włącz aplikacje służbowe</string>
 </resources>
