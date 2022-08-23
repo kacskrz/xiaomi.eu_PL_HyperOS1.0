@@ -1392,4 +1392,17 @@ Jeśli nie zgadzasz się na korzystanie ze wspomnianych usług, niektóre funkcj
   <string name="entertainment">Rozrywka</string>
   <string name="ludo_tab_guide">Sprawdź nasze nowe pokoje Muzyki our new Music rooms</string>
   <string name="welcome_to_entertainment">Sprawdź nową funkcję Rozrywka - gry muzyczne i wiele więcej</string>
+  <string name="clause_content_first">Ze względu na wymagania prawne, aplikacja Muzyka wymaga Twojej zgody na dostarczanie Ci odpowiednich usług.</string>
+  <string name="clause_content_second">"Xiaomi będzie chronić Twoje dane zgodnie ze przyjętymi w branży standardami bezpieczeństwa."</string>
+  <string name="clause_content_third">W każdym momencie możesz wycofać swoją zgodę w Ustawieniach.</string>
+  <string name="content_failed_to_load">"Nie udało się załadować treści"</string>
+  <string name="file_and_media_permissions_for_display">Dostęp do plików: w celu skanowania, wyświetlania i odtwarzania lokalnych plików</string>
+  <string name="login_out_tip">"Nie możesz się teraz wylogować. Możesz natomiast wyczyścić dane aplikacji Muzyka."</string>
+  <string name="lots_of_songs_for_free">Słuchaj milionów utworów za darmo</string>
+  <string name="read_and_agree_hungama_protocol"><Data>"Przeczytałam/em i akceptuję warunki &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Polityki prywatności Hungama&lt;/a>&lt;/font>"</Data></string>
+  <string name="read_and_agree_joox_protocol"><Data>"Przeczytałam/em i akceptuję warunki &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Polityki prywatności JOOX&lt;/a>&lt;/font>"</Data></string>
+  <string name="read_and_agree_mi_protocol"><Data>"Przeczytałam/em i akceptuję warunki &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Polityki prywatności Xiaomi&lt;/a>&lt;/font>"</Data></string>
+  <string name="read_and_agree_protocol">Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności.</string>
+  <string name="storage_space_permissions_for_display">Dostęp do pamięci urządzenia: w celu skanowania, wyświetlania i odtwarzania lokalnych plików</string>
+  <string name="telephone_permissions_for_push">Uprawnienia do dzwonienia: w celu dostarczania usług powiadomień push Google</string>
 </resources>

@@ -896,4 +896,6 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="save_to_local_failure_message">"Nie udało się zapisać"</string>
   <string name="save_to_local_icon_name">Zapisz</string>
   <string name="save_to_local_success_message">Pomyślnie zapisano</string>
+  <string name="note_mindnote_not_support_in_phone_model">"Nie można edytować map myśli na tym urządzeniu"</string>
+  <string name="note_write_hint">Zacznij pisać</string>
 </resources>

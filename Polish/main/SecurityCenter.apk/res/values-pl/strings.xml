@@ -5661,4 +5661,6 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\
     <string name="global_satisfaction_notification_button">Oceń</string>
     <string name="global_satisfaction_notification_subhead">Powiedz Xiaomi o swoich wrażeniach</string>
     <string name="global_satisfaction_notification_title">Oceń to urządzenie</string>
+    <string name="antispam_guangdian_card_hint">"Twoja karta SIM nie obsługuje przełączania na inną wiadomość dot. nieobecności. Skontaktuj się z operatorem, aby uzyskać szczegółowe informacje."</string>
+    <string name="antispam_guangdian_card_title">"Przełączanie niewspierane"</string>
 </resources>

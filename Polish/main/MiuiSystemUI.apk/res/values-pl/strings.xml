@@ -3382,4 +3382,9 @@ To, którymi urządzeniami możesz sterować w ten sposób, określa aplikacja n
     <string name="wifitrackerlib_wifi_standard_unknown">Nieznane</string>
     <string name="quick_settings_bluetooth_connected_tip">Pomyślnie połączono przez Bluetooth</string>
     <string name="quick_settings_bluetooth_disconnected_tip">Wszystkie połączenia Bluetooth będą dzisiaj rozłączone</string>
+    <string name="quick_settings_screen_rotation_inner_locked">Obrót wewn. ekranu wył.</string>
+    <string name="quick_settings_screen_rotation_inner_unlocked">Obrót wewn. ekranu wł.</string>
+    <string name="quick_settings_screen_rotation_outer_landscape_locked">Zablokowano zewn. ekran w trybie poziomym</string>
+    <string name="quick_settings_screen_rotation_outer_portrait_locked">Zablokowano zewn. ekran w trybie pionowym</string>
+    <string name="quick_settings_screen_rotation_outer_unlocked">Obrót zewn. ekranu wł.</string>
 </resources>

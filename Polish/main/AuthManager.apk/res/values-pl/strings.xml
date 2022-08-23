@@ -483,4 +483,5 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="precise_location_title">Dokładna lokalizacja</string>
   <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Poszukuj i łącz się z urządzeniami w pobliżu za pomocą Bluetooth i Wi-Fi</string>
   <string name="permdesc_post_notification">Zezwolić %1$s na wysyłanie powiadomień?</string>
+  <string name="perm_educate_post_notification">Powiadomieniom mogą towarzyszyć dźwięk i wibracja, gdy pojawiają się one w Panelu powiadomień i na ikonach pulpitu. Możesz zmienić swoje preferencje dot. powiadomień w Ustawieniach.</string>
 </resources>

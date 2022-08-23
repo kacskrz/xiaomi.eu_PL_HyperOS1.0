@@ -452,4 +452,8 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="switch_wlan_tips">Połącz się z tą samą siecią</string>
     <string name="switch_wlan_tips_desc">Aby uzyskać lepsze efekty, możesz się połączyć z tą samą siecią Wi-Fi co inne urządzenie. Zrobić to teraz?</string>
     <string name="settings_home">Połączone urządzenia</string>
+    <string name="call_error_notify_button">Wróć</string>
+    <string name="call_error_notify_content">Możesz wrócić z powrotem na ekran telefonu, aby kontynuować rozmowę</string>
+    <string name="call_error_notify_title">Niestabilne połączenie z siecią</string>
+    <string name="toast_calling_warning">Zakończ trwające połączenie i spróbuj ponownie</string>
 </resources>
