@@ -1767,4 +1767,20 @@
      <string name="tips_support_gallery_frame">Funkcja wspierana wyłącznie dla zdjęć wykonanych przez urządzenia Xiaomi opracowane przy współpracy z Leicą</string>
      <string name="filter_popular_milk_green">Pistacja</string>
      <string name="filter_popular_slightly_blue">Barwinek</string>
+     <string name="filter_popular_cyan_yellow">Zieleniaste</string>
+     <string name="filter_popular_dark_elegant">Noir</string>
+     <string name="grant_permission_remind_title">Wymagane uprawnienia</string>
+     <string name="photo_editor_gallery_frame_darkmode_black">Czarna</string>
+     <string name="photo_editor_gallery_frame_darkmode_white">Biała</string>
+     <string name="photo_editor_gallery_frame_icon_location">Lokalizacja</string>
+     <string name="photo_editor_gallery_frame_icon_time">Czas</string>
+     <string name="photo_editor_remover2_desc_type_things">Zakreśl obiekty, które chcesz usunąć</string>
+     <string name="photo_editor_remover2_edit_type_things">Usuń obiekty</string>
+     <string name="photo_editor_remover2_toast_no_things">Nie wykryto obiektów</string>
+     <string name="tips_no_loc_gallery_frame">Zdjęcie nie zawiera informacji o lokalizacji</string>
+     <string name="tips_no_time_gallery_frame">Zdjęcie nie zawiera znaku czasu</string>
+     <string name="vlog_not_support_above_4k">Najwyższa wspierana rozdzielczość filmu to 4K</string>
+     <string name="vlog_pro_not_support">"Ta rozdzielczość nie jest wspierana"</string>
+     <string name="vlog_save_max_4k">Najwyższa wspierana rozdzielczość przy zapisywaniu elementów to 4K</string>
+     <string name="vlog_saving_no_edit">Nie zamykaj tego menu w trakcie zapisywania elementów…</string>
 </resources>

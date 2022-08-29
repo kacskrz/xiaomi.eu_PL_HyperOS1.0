@@ -577,4 +577,7 @@ z przedniego aparatu"</string>
   <string name="three_gesture_pc_mode">Włącz tryb PC</string>
   <string name="turn_on_torch">Włącz latarkę</string>
   <string name="under_keyguard">Przy wył. ekranie</string>
+  <string name="periodiccacheclear_notification_indefinite">Automatycznie wyczyściliśmy dla Ciebie pamięć. </string>
+  <string name="periodiccacheclear_notification_post"> pamięci zostało automatycznie wyczyszczone.</string>
+  <string name="periodiccacheclear_notification_title">Inteligentne czyszczenie</string>
 </resources>

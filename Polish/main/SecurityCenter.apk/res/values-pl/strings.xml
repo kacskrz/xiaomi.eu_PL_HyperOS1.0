@@ -5663,4 +5663,13 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\
     <string name="global_satisfaction_notification_title">Oceń to urządzenie</string>
     <string name="antispam_guangdian_card_hint">"Twoja karta SIM nie obsługuje przełączania na inną wiadomość dot. nieobecności. Skontaktuj się z operatorem, aby uzyskać szczegółowe informacje."</string>
     <string name="antispam_guangdian_card_title">"Przełączanie niewspierane"</string>
+    <string name="app_name_pad">Panel sterowania</string>
+    <string name="app_name_phone">Panel sterowania</string>
+    <string name="beauty_portrait_center">Utrzymaj twarze pośrodku</string>
+    <string name="beauty_portrait_center_desc">Automatycznie rozpoznawaj i wycentruj twarze w rozmowach wideo i spotkaniach. Niektóre aplikacje nie wspierają tej funkcji.</string>
+    <string name="dialog_msg_delete_icon_content_pad">Panel sterowania umożliwia Ci usunięcie śmieci z urządzenia, odnalezienie i neutralizację wirusów, oszczędzanie baterii, zarządzanie uprawnień i wiele innych rzeczy.</string>
+    <string name="dialog_msg_delete_icon_content_phone">Panel sterowania umożliwia Ci usunięcie śmieci z urządzenia, odnalezienie i neutralizację wirusów, oszczędzanie baterii, zarządzanie uprawnień i wiele innych rzeczy.</string>
+    <string name="dialog_msg_delete_icon_title_pad">Usunąć ten skrót z pulpitu?</string>
+    <string name="dialog_msg_delete_icon_title_phone">Usunąć ten skrót z pulpitu?</string>
+    <string name="pc_xiaoai_create_auto_task">Nowe zadanie od Mi SI</string>
 </resources>
