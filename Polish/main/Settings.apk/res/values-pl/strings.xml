@@ -10831,4 +10831,6 @@ Aby używać przypinania aplikacji: \u0009
 3. Kliknij ikonę aplikacji u góry ekranu, a następnie kliknij Przypnij"</string>
     <string name="accept_new_connection">Zezwalaj na łączenie się z nowymi urządzeniami</string>
     <string name="accept_new_connection_detail">Nowe połączenia w Centrum funkcji są ograniczone</string>
+    <string name="external_auto_rotate_title">Blokuj orientację dla zewnętrznego ekranu</string>
+    <string name="internal_auto_rotate_title">Blokuj orientację dla wewnętrznego ekranu</string>
 </resources>

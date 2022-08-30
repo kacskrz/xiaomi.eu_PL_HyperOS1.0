@@ -3387,4 +3387,5 @@ To, którymi urządzeniami możesz sterować w ten sposób, określa aplikacja n
     <string name="quick_settings_screen_rotation_outer_landscape_locked">Zablokowano zewn. ekran w trybie poziomym</string>
     <string name="quick_settings_screen_rotation_outer_portrait_locked">Zablokowano zewn. ekran w trybie pionowym</string>
     <string name="quick_settings_screen_rotation_outer_unlocked">Obrót zewn. ekranu wł.</string>
+    <string name="toast_for_first_use_three_gesture">Przesuń poziomo czterema palcami, aby przełączać się między aplikacjami</string>
 </resources>

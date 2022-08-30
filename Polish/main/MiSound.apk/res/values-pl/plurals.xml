@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="rename_error_longer_effect_name">
+        <item quantity="other">Możesz tu wprowadzić maks. %d znaków</item>
+        <item quantity="few">Możesz tu wprowadzić maks. %d znaki</item>
+        <item quantity="one">Możesz tu wprowadzić maks. %d znak</item>
+    </plurals>
+</resources>

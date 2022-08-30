@@ -749,4 +749,5 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="not_permissions_hint">Aby móc korzystać z tej funkcji, zezwól na dostęp do aparatu.</string>
   <string name="not_permissions_title">Wymagane uprawnienia</string>
   <string name="save_documents_ui">Zapisano w Plikach</string>
+  <string name="xiaoai_vision">Skaner</string>
 </resources>

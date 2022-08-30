@@ -136,4 +136,13 @@
         <item quantity="other">"Od %s tygodni nie wykonywano kopii zapasowej elementów. Zrób to, aby uniknąć utraty ważnych rzeczy."</item>
         <item quantity="one">"Od %s tygodnia nie wykonywano kopii zapasowej elementów. Zrób to, aby uniknąć utraty ważnych rzeczy."</item>
     </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Wykonano kopię %d aplikacji</item>
+        <item quantity="one">Wykonano kopię %d aplikacji</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">Przywrócono %d aplikacji</item>
+        <item quantity="few">Przywrócono %d aplikacje</item>
+        <item quantity="one">Przywrócono %d aplikację</item>
+    </plurals>
  </resources>

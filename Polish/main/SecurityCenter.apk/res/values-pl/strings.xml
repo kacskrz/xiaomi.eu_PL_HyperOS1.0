@@ -2564,7 +2564,7 @@ W trakcie kalibracji, MIUI wyśle wiadomość tekstową do Twojego operatora, ab
   <string name="safe_result_item_info_wifi_encryption">Sieć Wi-Fi jest szyfrowana</string>
   <string name="safe_result_item_info_wifi_fake">Sieć jest zaufana</string>
   <string name="safepay_alert_dialog_button_continue">Dalej</string>
-  <string name="safepay_alert_dialog_button_fix">Popraw</string>
+  <string name="safepay_alert_dialog_button_fix">Więcej</string>
   <string name="safepay_alert_dialog_button_unknown">Sprawdź ponownie</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Risk found! Interrupt current payment!&lt;/font&gt;</string>
   <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Couldn't check payment security. Connect to the internet and try again.&lt;/font&gt;"</string>
@@ -2666,9 +2666,9 @@ W trakcie kalibracji, MIUI wyśle wiadomość tekstową do Twojego operatora, ab
   <string name="sms_stranger_block">Zablokowany</string>
   <string name="sorted_dialog_title">Sortuj według</string>
   <string name="sp_background_risk_dialog_summary"/>
-  <string name="sp_background_risk_dialog_summary_new">Obecne środowisko płatności może powodować zagrożenia pod względem bezpieczeństwa. Poświęć chwilę, aby rozwiązać istniejące problemy.</string>
-  <string name="sp_background_risk_dialog_title">Niebezpieczeństwo</string>
-  <string name="sp_background_risk_type_messaging">Aplikacja do SMS nie jest fabryczna</string>
+  <string name="sp_background_risk_dialog_summary_new">Obecne środowisko płatności może powodować zagrożenia pod względem bezpieczeństwa. Poświęć chwilę, aby dowiedzieć się więcej.</string>
+  <string name="sp_background_risk_dialog_title">MIUI wykryło zagrożenie</string>
+  <string name="sp_background_risk_type_messaging">Aplikacja do SMS-ów nie jest fabryczna</string>
   <string name="sp_background_risk_type_root">System został zrootowany</string>
   <string name="sp_background_risk_type_sign">Uruchomiona jest nieoficjalna aplikacja</string>
   <string name="sp_background_risk_type_virus">Uruchomiona jest aplikacja z wirusem</string>
@@ -5672,4 +5672,8 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\
     <string name="dialog_msg_delete_icon_title_pad">Usunąć ten skrót z pulpitu?</string>
     <string name="dialog_msg_delete_icon_title_phone">Usunąć ten skrót z pulpitu?</string>
     <string name="pc_xiaoai_create_auto_task">Nowe zadanie od Mi SI</string>
+    <string name="eletric_no_grant_dialog_message_for_phone">Nadaj wymagane uprawnienia, aby móc rozpoznawać nieznane numery telefonów.</string>
+    <string name="eletric_no_grant_dialog_negative_button">Anuluj</string>
+    <string name="eletric_no_grant_dialog_positive_button">Ustawienia</string>
+    <string name="eletric_no_grant_dialog_title">Wymagane uprawnienia</string>
 </resources>

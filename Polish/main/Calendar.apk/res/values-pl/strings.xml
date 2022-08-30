@@ -842,4 +842,12 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię nic ważnego."</stri
     <string name="widget_normal_new_event">Dodaj wydarzenie</string>
     <string name="widget_normal_weekN">Tydzień %d</string>
     <string name="widget_spec_agenda_birth_today">Dzisiaj</string>
+    <string name="edit_event_reminder_3_days_before_time">Przypomnij też %d dni przed</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%1$d dni przed i o %1$s danego dnia</string>
+    <string name="permission_description">Szczegóły dot. uprawnień</string>
+    <string name="privacy_and_permissions">Prywatność i uprawnienia</string>
+    <string name="tab_view_day">Dzień</string>
+    <string name="tab_view_month">Miesiąc</string>
+    <string name="tab_view_week">Tydzień</string>
+    <string name="tab_view_year">Rok</string>
 </resources>
