@@ -490,4 +490,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="nowInstall">Instaluj</string>
   <string name="size">Rozmiar</string>
   <string name="storage_permission_deny">Wymagane uprawnienia do pamięci</string>
+  <string name="storage_dialog_content">Zezwól aplikacji Pobrane na dostęp do pamięci urządzenia, aby móc korzystać z jej funkcji.</string>
+  <string name="storage_dialog_go">Ustawienia</string>
+  <string name="storage_dialog_title">Dostęp do pamięci urządzenia</string>
 </resources>
