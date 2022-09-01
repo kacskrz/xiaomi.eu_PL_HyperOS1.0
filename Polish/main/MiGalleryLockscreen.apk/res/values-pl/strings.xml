@@ -929,4 +929,8 @@ Może to generować dodatkowe opłaty."</string>
   <string name="qq_login_btn_content_description">Zaloguj się za pomocą QQ</string>
   <string name="weibo_login_btn_content_description">Zaloguj się za pomocą Weibo</string>
   <string name="weixin_login_btn_content_description">Zaloguj się za pomocą WeChata</string>
+  <string name="miuix_access_state_desc">Wybrano</string>
+  <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
+  <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="miuix_indexer_selected">Wybrano %s</string>
 </resources>

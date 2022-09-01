@@ -2191,4 +2191,5 @@ Możesz użyć poniższych przycisków, aby zaimportować tekst, wyświetlić po
   <string name="vlog_pro_workspace_continue_recording">Kontynuuj nagrywanie</string>
   <string name="vlog_pro_workspace_video_delete">Usuń</string>
   <string name="vlog_pro_workspace_video_rename">Zmień nazwę</string>
+  <string name="cta_mimoji_perm_type">Uprawnienia obowiązkowe (używane przez podstawowe funkcje i usługi aplikacji)</string>
 </resources>

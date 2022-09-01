@@ -580,4 +580,5 @@ z przedniego aparatu"</string>
   <string name="periodiccacheclear_notification_indefinite">Automatycznie wyczyściliśmy dla Ciebie pamięć. </string>
   <string name="periodiccacheclear_notification_post"> pamięci zostało automatycznie wyczyszczone.</string>
   <string name="periodiccacheclear_notification_title">Inteligentne czyszczenie</string>
+  <string name="swipe_up_to_continue_using">Przesuń w górę, aby kontynuować</string>
 </resources>

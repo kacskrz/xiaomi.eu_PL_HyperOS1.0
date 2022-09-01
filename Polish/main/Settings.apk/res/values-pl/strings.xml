@@ -10833,4 +10833,10 @@ Aby używać przypinania aplikacji: \u0009
     <string name="accept_new_connection_detail">Nowe połączenia w Centrum funkcji są ograniczone</string>
     <string name="external_auto_rotate_title">Blokuj orientację dla zewnętrznego ekranu</string>
     <string name="internal_auto_rotate_title">Blokuj orientację dla wewnętrznego ekranu</string>
+    <string name="close_lid_display_settings_title">Po złożeniu</string>
+    <string name="intelligent_keep_screen_on">Nie wyłączaj ekranu w pewnych przypadkach</string>
+    <string name="intelligent_keep_screen_on_summary">"Nie wyłączaj zewnętrznego ekranu, gdy jest on skierowany w górę"</string>
+    <string name="lock_screen_now">Blokuj ekran</string>
+    <string name="swipe_up_to_continue_using">Przesuń w górę, aby kontynuować</string>
+    <string name="swipe_up_to_continue_using_summary">Blokuj po %d sek. nieaktywności</string>
 </resources>
