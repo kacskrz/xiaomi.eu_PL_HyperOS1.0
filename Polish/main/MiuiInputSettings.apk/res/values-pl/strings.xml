@@ -153,8 +153,8 @@ Możesz zobaczyć wygenerowane logi w aplikacji Pliki."</string>
     <string name="friday_shortest">Pt</string>
     <string name="gesture_function_dialog_message">Gest %1$s jest używany do wywołania funkcji \"%2$s\". Czy chcesz go zastąpić \"%3$s\"?</string>
     <string name="gesture_settings_title">Skróty gestów</string>
-    <string name="global_stylus_summary">"Konwertuj odręczne notatki na tekst wszędzie tam, gdzie jest to wspierane"</string>
-    <string name="global_stylus_title">Pismo odręczne</string>
+    <string name="global_stylus_summary">Pisz w dowolnym polu tekstowym i konwertuj swoje pismo na tekst (obsługiwane tylko angielski i chiński)</string>
+    <string name="global_stylus_title">Edytuj odręczny tekst</string>
     <string name="go_to_sleep">Wyłącz ekran</string>
     <string name="home_app">Launcher</string>
     <string name="home_key">Ekran główny</string>
@@ -175,8 +175,8 @@ Możesz zobaczyć wygenerowane logi w aplikacji Pliki."</string>
     <string name="key_gesture_function_optional">Opcjonalne gesty i przyciski</string>
     <string name="key_gesture_function_preview">Podgląd ustawionego skrótu</string>
     <string name="key_gesture_function_shortcut">Skróty funkcyjne</string>
-    <string name="key_handwriting_input_summary">Edytuj tekst za pomocą rysika. Czynności, które możesz wykonać, obejmują usuwanie, zaznaczanie, wklejanie i rozpoczynanie nowego akapitu.</string>
-    <string name="key_handwriting_input_title">Pismo odręczne</string>
+    <string name="key_handwriting_input_summary">Edytuj chiński lub angielski tekst napisany odręcznie za pomocą rysika</string>
+    <string name="key_handwriting_input_title">Edytuj tekst</string>
     <string name="key_none">Brak</string>
     <string name="key_operation_diagram">Podgląd</string>
     <string name="key_position_cat">Pozycje przycisków</string>
@@ -546,4 +546,10 @@ Kliknij dwukrotnie, aby otworzyć Ostatnie aplikacje."</string>
     <string name="wednesday_short">Śr</string>
     <string name="wednesday_shortest">Śr</string>
     <string name="yesterday">Wczoraj</string>
+    <string name="global_stylus_title_beta">Skryba (Beta)</string>
+    <string name="google_assistant_guide_cancel">Anuluj</string>
+    <string name="google_assistant_guide_message">Możesz przytrzymać przycisk Zasilania przez %s sekund, aby uruchomić Asystenta Google. Ustawić ten skrót?</string>
+    <string name="google_assistant_guide_ok">Ustaw</string>
+    <string name="google_assistant_guide_tip">*Aby otworzyć menu wyłączania urządzenia, przytrzymaj przycisk Zasilania %s sekund.</string>
+    <string name="google_assistant_guide_title">Asystent Google</string>
 </resources>

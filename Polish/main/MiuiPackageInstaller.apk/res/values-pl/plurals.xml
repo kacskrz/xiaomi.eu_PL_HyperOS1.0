@@ -145,4 +145,21 @@
         <item quantity="few">Zbyt wiele nieudanych prób. Spróbuj ponownie za %1$S sekundy.</item>
         <item quantity="one">Zbyt wiele nieudanych prób. Spróbuj ponownie za %1$S sekundę.</item>
     </plurals>
+    <plurals name="settings_security_mode_enable_count">
+        <item quantity="other">Tryb bezpieczny działa na &lt;font color=#0D84FF>%1$s&lt;/font> urządzeniach</item>
+        <item quantity="one">Tryb bezpieczny działa na &lt;font color=#0D84FF>%1$s&lt;/font> urządzeniu</item>
+    </plurals>
+    <plurals name="settings_security_mode_protect_count">
+        <item quantity="other">Zneutralizowano &lt;font color=#0D84FF>%1$s&lt;/font> zagrożeń</item>
+        <item quantity="few">Zneutralizowano &lt;font color=#0D84FF>%1$s&lt;/font> zagrożenia</item>
+        <item quantity="one">Zneutralizowano &lt;font color=#0D84FF>%1$s&lt;/font> zagrożenie</item>
+    </plurals>
+    <plurals name="settings_security_mode_protect_days">
+        <item quantity="other">Tryb bezpieczny działa od &lt;font color=#0D84FF>%1$s&lt;/font> dni</item>
+        <item quantity="one">Tryb bezpieczny działa od &lt;font color=#0D84FF>%1$s&lt;/font> dnia</item>
+    </plurals>
+    <plurals name="settings_security_mode_title_on_msg">
+        <item quantity="other">Tryb bezpieczny działa od %1$s dni</item>
+        <item quantity="one">Tryb bezpieczny działa od %1$s dnia</item>
+    </plurals>
 </resources>
