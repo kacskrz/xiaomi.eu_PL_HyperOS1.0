@@ -959,4 +959,22 @@
   <string name="work_mode_off_text">Aplikacje służbowe wstrzymane</string>
   <string name="work_mode_toggle_off">Wyłącz aplikacje służbowe</string>
   <string name="work_mode_toggle_on">Włącz aplikacje służbowe</string>
+  <string name="all_apps_setting_jeejen_title">Tryb Lite</string>
+  <string name="edit_folder">Edytuj folder</string>
+  <string name="fold_pair_install_shortcut_launcher_success">Pomyślnie utworzono</string>
+  <string name="folder_picker_big_text">Większy</string>
+  <string name="folder_picker_default_text">Normalny</string>
+  <string name="folder_picker_options_tab_text">Rozmiar</string>
+  <string name="folder_picker_sliding_button_tab_text">Sugeruj wyróżnione aplikacje</string>
+  <string name="folder_picker_tab_text">Folder</string>
+  <string name="intelligent_exposed_button_summary_text">Używaj inteligentnych sugestii opartych na Twoich nawykach, aby wyróżnić aplikacje w większych folderach</string>
+  <string name="jeejen_description">"Większy interfejs.
+Szybsze połączenia.
+Zwiększone bezpieczeństwo."</string>
+  <string name="menu_only_widget_no_word">Usuń tekst z widżetów</string>
+  <string name="open_personal_assistant_settings_off">Wył.</string>
+  <string name="open_personal_assistant_settings_on">Wł.</string>
+  <string name="open_personal_assistant_settings_simplified">Asystent MIUI</string>
+  <string name="recent_menu_item_add_pair">Utwórz skrót na pulpicie dla tej kombinacji Dzielonego ekranu</string>
+  <string name="recent_menu_item_add_pair_first_toast">Utwórz skrót na pulpicie dla tej kombinacji Dzielonego ekranu</string>
 </resources>

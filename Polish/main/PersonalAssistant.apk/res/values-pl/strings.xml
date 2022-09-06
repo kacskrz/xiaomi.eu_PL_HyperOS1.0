@@ -1714,4 +1714,6 @@ Zajrzyj tu wkrótce!"</string>
     <string name="pa_filter_accessibility_filter_item">Wybrano %s. Dotknij dwukrotnie, aby filtrować inne wybory.</string>
     <string name="pa_filter_accessibility_filter_popup_item_selected">Dotknij dwukrotnie, aby wybrać %s.</string>
     <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Dotknij dwukrotnie, aby wybrać.</string>
+    <string name="pa_accessibility_picker_search_clear">Wyczyść tekst</string>
+    <string name="pa_setting_perm_empty">Nic tu nie ma</string>
 </resources>
