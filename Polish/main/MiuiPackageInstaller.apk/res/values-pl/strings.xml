@@ -663,7 +663,6 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="pure_introduction_title5">Ochrona przed oszustwami</string>
     <string name="safe_mode_tip_title_off_msg">Tryb bezpieczny wył.</string>
     <string name="safe_mode_tip_title_on_msg">Tryb bezpieczny</string>
-    <string name="safe_mode_title_text">Tryb bezpieczny</string>
     <string name="security_mode_close_feedback">Dziękujemy za używanie Trybu bezpiecznego</string>
     <string name="security_mode_feedback_commit">Wyślij</string>
     <string name="security_mode_feedback_multiple_choice">" (wybierz swoje powody)"</string>
