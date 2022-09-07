@@ -10839,4 +10839,8 @@ Aby używać przypinania aplikacji: \u0009
     <string name="lock_screen_now">Blokuj ekran</string>
     <string name="swipe_up_to_continue_using">Przesuń w górę, aby kontynuować</string>
     <string name="swipe_up_to_continue_using_summary">Blokuj po %d sek. nieaktywności</string>
+    <string name="emulate_sd_data">Dane emulowanej karty SD</string>
+    <string name="launch_accessibility_environmental_speech_recognition">Rozpoznawanie dźwięków otoczenia</string>
+    <string name="launch_accessibility_hear_sound_subtitle">Napisy Mi Ditto</string>
+    <string name="launch_accessibility_voice_control">Sterowanie głosowe</string>
 </resources>

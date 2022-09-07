@@ -1034,4 +1034,10 @@
   <string name="dialog_msg_delete_icon_content">Panel sterowania umożliwia Ci usunięcie śmieci z urządzenia, odnalezienie i neutralizację wirusów, oszczędzanie baterii, zarządzanie uprawnieniami i inne rzeczy.</string>
   <string name="dialog_msg_delete_icon_title">Usunąć ten skrót z pulpitu?</string>
   <string name="manual_item_create_icon_title">Skrót na pulpicie</string>
+  <string name="app_name_pad">Panel sterowania</string>
+  <string name="app_name_phone">Panel sterowania</string>
+  <string name="dialog_msg_delete_icon_content_pad">Panel sterowania umożliwia Ci usunięcie śmieci z urządzenia, odnalezienie i neutralizację wirusów, oszczędzanie baterii, zarządzanie uprawnieniami i inne rzeczy.</string>
+  <string name="dialog_msg_delete_icon_content_phone">Panel sterowania umożliwia Ci usunięcie śmieci z urządzenia, odnalezienie i neutralizację wirusów, oszczędzanie baterii, zarządzanie uprawnieniami i inne rzeczy.</string>
+  <string name="dialog_msg_delete_icon_title_pad">Usunąć ten skrót z pulpitu?</string>
+  <string name="dialog_msg_delete_icon_title_phone">Usunąć ten skrót z pulpitu?</string>
 </resources>
