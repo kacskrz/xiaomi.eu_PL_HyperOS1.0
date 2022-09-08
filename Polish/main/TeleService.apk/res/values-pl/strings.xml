@@ -2049,4 +2049,8 @@ Aktywować eSIM?"</string>
   <string name="smart_switch_dual_sim_prompt">Łączenie się z siecią mobilną za pomocą karty SIM %1$s może generować dodatkowe opłaty. Ustaw limit zużycia danych, aby tego uniknąć.</string>
   <string name="smart_switch_dual_sim_summary">Automatycznie przełączaj się między kartami SIM do danych w oparciu o jakość połączenia i stan urządzenia</string>
   <string name="smart_switch_dual_sim_title">Przełączaj się między kartami SIM do danych</string>
+  <string name="smart_switch_dual_sim_diag_cancel">Anuluj</string>
+  <string name="smart_switch_dual_sim_diag_message">"Wygląda na to, że Twoja obecna karta SIM do danych komórkowych nie zapewnia stabilnej łączności z siecią. Automatyczna zmiana karty na drugą może poprawić jakość połączenia. Możesz włączyć tę funkcję w Ustawieniach."</string>
+  <string name="smart_switch_dual_sim_diag_ok">Ustawienia</string>
+  <string name="smart_switch_dual_sim_diag_title">Uwaga</string>
 </resources>
