@@ -287,7 +287,7 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="status_bar_recording_pause">Nagrywanie wstrzymane</string>
   <string name="text_btn_backward_3_seconds">3 sekundy wstecz</string>
   <string name="text_btn_complete">Zakończ</string>
-  <string name="text_btn_forward_3_seconds">3 sekundy wprzód</string>
+  <string name="text_btn_forward_3_seconds">3 sekundy naprzód</string>
   <string name="text_btn_list">Nagrania</string>
   <string name="text_btn_mark">Oznacz</string>
   <string name="text_btn_pause">Wstrzymaj</string>
