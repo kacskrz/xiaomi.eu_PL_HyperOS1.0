@@ -582,4 +582,7 @@ z przedniego aparatu"</string>
   <string name="periodiccacheclear_notification_title">Inteligentne czyszczenie</string>
   <string name="swipe_up_to_continue_using">Przesuń w górę, aby kontynuować</string>
   <string name="backup_suspend_hint">Trwa tworzenie kopii zapasowej tej aplikacji. Poczekaj, aż wykonywanie kopii się zakończy, i spróbuj ponownie.</string>
+  <string name="rescueparty_package_tips">Wykryto uszkodzenie usługi systemowej {0}</string>
+  <string name="rescuepartyplus_config_reset_context">Niektóre dane mogły zostać wyczyszczone. Dotknij, aby zobaczyć szczegóły.</string>
+  <string name="rescuepartyplus_config_reset_title">Ukończono naprawę systemu</string>
 </resources>

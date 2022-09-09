@@ -1564,4 +1564,7 @@ Dotknij, aby go wyłączyć."</string>
     <string name="install_gallery_content">"Nie zainstalowano jeszcze Galerii. Pobrać ją?"</string>
     <string name="install_gallery_title">Zainstaluj Galerię</string>
     <string name="apply_4k_video_wallpaper_warning">"Filmy 4K i 8K nie mogą być używane jako tapety wideo."</string>
+    <string name="apply_wallpaper_after_three_theme">"Używasz obecnie niesystemowego motywu. Jeśli zmienisz tylko tapetę Ekranu blokady, może to spowodować przywrócenie domyślnego stylu zegara Ekranu blokady. Zastosować?"</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Używasz obecnie supertapety. Jeśli wybierzesz nową tapetę, zostanie ona zastosowana zarówno na pulpicie, jak i Ekranie blokady. Zostaną także przywrócone poprzednie ustawienia Ekranu zawsze włączonego. Zastosować?"</string>
+    <string name="apply_wallpaper_warning_use_super_wallpaper">"Używasz obecnie supertapety. Jeśli wybierzesz nową tapetę, zostanie ona zastosowana zarówno na pulpicie, jak i Ekranie blokady. Zastosować?"</string>
 </resources>

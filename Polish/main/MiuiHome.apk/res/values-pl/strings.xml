@@ -977,4 +977,5 @@ Zwiększone bezpieczeństwo."</string>
   <string name="open_personal_assistant_settings_simplified">Asystent MIUI</string>
   <string name="recent_menu_item_add_pair">Utwórz skrót na pulpicie dla tej kombinacji Dzielonego ekranu</string>
   <string name="recent_menu_item_add_pair_first_toast">Utwórz skrót na pulpicie dla tej kombinacji Dzielonego ekranu</string>
+  <string name="split_screen_position_top">Podziel na górze</string>
 </resources>
