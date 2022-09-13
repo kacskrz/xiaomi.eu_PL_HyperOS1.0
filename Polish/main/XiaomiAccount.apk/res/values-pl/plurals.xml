@@ -38,4 +38,9 @@
         <item quantity="few">Znaleziono %d wyniki</item>
         <item quantity="one">Znaleziono %d wynik</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d osób</item>
+        <item quantity="few">%d osoby</item>
+        <item quantity="one">%d osoba</item>
+    </plurals>
 </resources>

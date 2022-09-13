@@ -10386,7 +10386,7 @@ Wyślij ten kod pracownikowi wsparcia technicznego."</string>
     <string name="bluetooth_enable_opp_high_speed_dialog_title">Zrestartuj Bluetooth</string>
     <string name="dsda_close_toast">Wyłączono tryb dwóch aktywnych kart SIM. Aby zastosować zmiany, uruchom ponownie urządzenie.</string>
     <string name="dsda_open_toast">Włączono tryb dwóch aktywnych kart SIM. Aby zastosować zmiany, uruchom ponownie urządzenie.</string>
-    <string name="dsda_switch_summary">Zezwól obu kartom SIM na jednoczesne korzystanie z danych mobilnych i wykonywanie połączeń</string>
+    <string name="dsda_switch_summary">Zezwól obu kartom SIM na jednoczesne korzystanie z danych mobilnych i wykonywanie połączeń, gdy znajdujesz się w miejscu z zasięgiem sieci 5G</string>
     <string name="dsda_switch_title">Tryb dwóch aktywnych kart SIM</string>
     <string name="sunlight_low_power_notification">Nie można włączyć Trybu światła słonecznego. Zbyt niski poziom baterii."</string>
     <string name="location_description_no_gps">"To urządzenie nie wspiera nawigacji poprzez satelity. Informacje o lokalizacji wygenerowane na podstawie danych sieciowych mogą być w niektórych sytuacjach niewystarczające."</string>

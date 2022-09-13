@@ -839,4 +839,14 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="user_agreement_wifi_permission_title">Włączanie i wyłączanie Wi-Fi</string>
   <string name="user_agreement_wlan_permission_desc">W celu sprawdzania środowiska logowania pod kątem bezpieczeństwa</string>
   <string name="user_agreement_wlan_permission_title_china">Włączanie i wyłączanie Wi-Fi</string>
+  <string name="cloud_service_cloud_open">Włącz</string>
+  <string name="cloud_service_space_full">Pełna pamięć</string>
+  <string name="cloud_service_space_not_enough">Brak pamięci</string>
+  <string name="cloud_service_space_used">Zajęte</string>
+  <string name="cloud_service_state_error">"Nie udało się załadować"</string>
+  <string name="dind_device_service_not_open">Wył.</string>
+  <string name="dind_device_service_opened">Wł.</string>
+  <string name="family_service_not_open">Zaproś członków</string>
+  <string name="mi_account">Moje konto</string>
+  <string name="xiaomi_cloud_service">Chmura Xiaomi</string>
 </resources>
