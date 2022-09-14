@@ -705,4 +705,18 @@
         <item quantity="few">%d wspomnienia</item>
         <item quantity="other">%d wspomnień</item>
     </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d miesięcy</item>
+        <item quantity="few">%d miesiące</item>
+        <item quantity="one">%d miesiąc</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d lat</item>
+        <item quantity="few">%d lata</item>
+        <item quantity="one">%d rok</item>
+    </plurals>
 </resources>
