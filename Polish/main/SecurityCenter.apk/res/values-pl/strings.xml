@@ -5676,4 +5676,24 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\
     <string name="eletric_no_grant_dialog_negative_button">Anuluj</string>
     <string name="eletric_no_grant_dialog_positive_button">Ustawienia</string>
     <string name="eletric_no_grant_dialog_title">Wymagane uprawnienia</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Dostęp i zapis obrazów, filmów i plików audio do pamięci wewnętrznej</string>
+    <string name="applock_biometric_recognition">Biometria</string>
+    <string name="function_oncall_not_close_network">"Nie odbieraj połączeń"</string>
+    <string name="function_oncall_not_close_network_detail">"O tej funkcji
+ %1$d. Funkcja umożliwia Ci pozostawanie online podczas grania bez przerywania go przychodzącymi połączeniami, gdy urządzenie jest połączone z konkretnymi sieciami 5G.
+ %2$d. Jeśli żadna z kart SIM nie jest połączona z siecią 5G, przychodzące połączenia będą automatycznie odrzucane przez pierwszą kartę SIM.
+ %3$d. Funkcja jest wspierana tylko w Chinach kontynentalnych.
+ %4$d. Funkcja działa tylko w sieciach 5G-SA."</string>
+    <string name="gb_barrage_chat_desc">Zawsze wierz, że wydarzy się coś wspaniałego</string>
+    <string name="gb_barrage_chat_text_color">Kolor</string>
+    <string name="gb_barrage_chat_text_size">Rozmiar tekstu</string>
+    <string name="gb_barrage_chat_text_size_big">Duży</string>
+    <string name="gb_barrage_chat_text_size_small">Mały</string>
+    <string name="gb_barrage_chat_text_speed">Prędkość</string>
+    <string name="gb_barrage_chat_text_speed_faster">Szybka</string>
+    <string name="gb_barrage_chat_text_speed_slow">Wolna</string>
+    <string name="pc_fast_charge_switch_summary_new">Przypominaj o możliwości zwiększenia prędkości ładowania, gdy podłączona jest dołączona do zestawu ładowarka, a poziom baterii jest mniejszy od ustawionego</string>
+    <string name="power_5g_popups_content">Sieci 5G umożliwiają duże prędkości połączeń i zmniejszają opóźnienie.</string>
+    <string name="power_5g_popups_title">Używaj sieci 5G</string>
+    <string name="vtb_ai_subtitle">Napisy</string>
 </resources>

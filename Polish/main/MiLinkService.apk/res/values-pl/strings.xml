@@ -544,4 +544,7 @@ upewnij się, że pakiet zawiera najnowsze wersje wszystkich aplikacji."</string
     <string name="upgrade_ver_latest1">Korzystasz z najnowszej wersji (%1$d)</string>
     <string name="upgrade_ver_can_upgrade_1to2">Aktualizacja z wersji %1$d do %2$d</string>
     <string name="upgrade_ver_can_upgrade_to1">Aktualizacja do wersji %1$d</string>
+    <string name="global_privacy_screencast">Podczas nagrywania lub projekcji usługa udostępniająca tę funkcję może przechwytywać wszelkie poufne informacje wyświetlane na ekranie lub odtwarzane z urządzenia, w tym informacje poufne takie jak dźwięk, hasła, informacje o płatnościach, zdjęcia i wiadomości.</string>
+    <string name="privacy_permission_screencast">Dostęp do informacji na ekranie</string>
+    <string name="privacy_permission_screencast_desc">Podczas nagrywania lub projekcji usługa udostępniająca tę funkcję może przechwytywać wszelkie poufne informacje wyświetlane na ekranie lub odtwarzane z urządzenia, w tym informacje poufne takie jak dźwięk, hasła, informacje o płatnościach, zdjęcia i wiadomości</string>
 </resources>
