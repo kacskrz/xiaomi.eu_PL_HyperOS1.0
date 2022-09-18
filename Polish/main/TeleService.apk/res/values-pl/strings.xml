@@ -2053,4 +2053,6 @@ Aktywować eSIM?"</string>
   <string name="smart_switch_dual_sim_diag_message">"Wygląda na to, że Twoja obecna karta SIM do danych komórkowych nie zapewnia stabilnej łączności z siecią. Automatyczna zmiana karty na drugą może poprawić jakość połączenia. Możesz włączyć tę funkcję w Ustawieniach."</string>
   <string name="smart_switch_dual_sim_diag_ok">Ustawienia</string>
   <string name="smart_switch_dual_sim_diag_title">Uwaga</string>
+  <string name="vice_slot_volte_data_dialog_message"><Data>Wygląda na to, że obecne połączenie z siecią jest niestabilne. Możesz spróbować automatycznie przełączyć się między kartami SIM do danych mobilnych. &lt;font color=#ff0000>&lt;b>Korzystanie z tej funkcji może generować dodatkowe opłaty od operatora&lt;/b>&lt;/font>.</Data></string>
+  <string name="vice_slot_volte_data_dialog_open">Włącz</string>
 </resources>

@@ -10843,4 +10843,6 @@ Aby używać przypinania aplikacji: \u0009
     <string name="launch_accessibility_environmental_speech_recognition">Rozpoznawanie dźwięków otoczenia</string>
     <string name="launch_accessibility_hear_sound_subtitle">Napisy Mi Ditto</string>
     <string name="launch_accessibility_voice_control">Sterowanie głosowe</string>
+    <string name="var_font_switch_dialog_summary">Aby zmienić to ustawienie, konieczne jest ponowne uruchomienie urządzenia.</string>
+    <string name="var_font_switch_dialog_title">Uruchomić ponownie?</string>
 </resources>

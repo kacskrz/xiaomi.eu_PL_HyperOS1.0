@@ -3212,4 +3212,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
   <string name="gallery_uninstall_description_content">"Galeria to systemowa aplikacja umożliwiająca przeglądanie, zarządzanie i synchronizację zdjęć oraz filmów między wszystkimi połączonymi urządzeniami. Jeśli ją odinstalujesz, stracisz elementy oznaczone przez Ciebie jako prywatne, a funkcje związane z przeglądaniem i wyświetlaniem elementów w Galerii również nie będą już dostępne. Odinstalować mimo to?"</string>
   <string name="gallery_uninstall_description_title">Odinstalować Galerię?</string>
   <string name="people_page_photo">Miniatura osoby</string>
+  <string name="disable_secret_album_upload_message">Jeśli wyłączysz tę funkcję, nowe zdjęcia nie będą już synchronizowane z Chmurą Xiaomi. Wyłączyć mimo to?</string>
+  <string name="enable_secret_album_upload_message">Jeśli włączysz tę funkcję, wszystkie prywatne elementy będą synchronizowane z Chmurą Xiaomi. Włączyć?</string>
+  <string name="local_secret_tip">Gdy ta funkcja jest włączona, prywatne elementy są synchronizowane z Chmurą Xiaomi. Możesz zmienić swoje preferencje w Ustawieniach &gt; Synchronizacja z Chmurą &gt; Zarządzaj zsynchronizowanymi albumami &gt; Prywatny album.</string>
 </resources>
