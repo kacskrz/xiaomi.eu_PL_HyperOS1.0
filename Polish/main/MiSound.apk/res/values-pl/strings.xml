@@ -258,8 +258,8 @@
   <string name="headset_volume_content">Bieżąca głośność słuchawek przekracza zalecany limit. Zmniejsz głośność, aby chronić słuch.</string>
   <string name="headset_volume_prompt">Głośność słuchawek</string>
   <string name="see_details">Szczegóły</string>
-  <string name="spatial_audio">Śledź ruch głowy</string>
-  <string name="spatial_audio_summary">Dostosuj dźwięk przestrzenny do ruchów głowy</string>
+  <string name="spatial_audio">Dźwięk przestrzenny</string>
+  <string name="spatial_audio_summary">Odczuj immersję i poczucie przestrzeni, gdy dźwięk jest odtwarzany przez słuchawki</string>
   <!-- standard android strings, use as base for other files -->
   <string name="bottomsheet_action_expand_halfway">Rozwiń do połowy</string>
   <string name="character_counter_content_description">%1$d z %2$d znaków</string>
@@ -335,12 +335,9 @@
   <string name="sound_id_function_description">Dostosuj krzywą EQ do własnych preferencji</string>
   <string name="sound_id_function_name">Własne brzmienie</string>
   <string name="sound_id_headset_status">Obecne słuchawki</string>
-  <string name="sound_id_hz_high">"Góra
-%d Hz"</string>
-  <string name="sound_id_hz_low">"Basy
-%d Hz"</string>
-  <string name="sound_id_hz_media">"Środek
-%d Hz"</string>
+  <string name="sound_id_hz_high">"Góra %d Hz"</string>
+  <string name="sound_id_hz_low">"Basy %d Hz"</string>
+  <string name="sound_id_hz_media">"Środek %d Hz"</string>
   <string name="sound_id_music_one_description">Lekkie | %d sek.</string>
   <string name="sound_id_music_one_title">Deszczowe miasto</string>
   <string name="sound_id_music_three_description">Melodyczne | %d sek.</string>

@@ -259,4 +259,5 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji %3$s."</st
     <string name="withdraw_consent_failed_hint">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="withdraw_consent_failed_hint_connect_net">Aby móc wycofać Twoją zgodę, urządzenie musi się połączyć z Internetem. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
     <string name="withdrawing">Wycofywanie zgody…</string>
+    <string name="mi_service_back">Wstecz</string>
 </resources>

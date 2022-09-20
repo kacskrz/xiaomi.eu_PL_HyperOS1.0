@@ -1921,4 +1921,9 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Po minucie</item>
         <item>Po 5 minutach</item>
     </string-array>
+    <string-array name="typing_style_entries">
+        <item>Standardowy</item>
+        <item>Dotknięcie</item>
+        <item>Bezp. dotknięcie</item>
+    </string-array>
 </resources>
