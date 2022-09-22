@@ -3389,4 +3389,6 @@ To, którymi urządzeniami możesz sterować w ten sposób, określa aplikacja n
     <string name="quick_settings_screen_rotation_outer_unlocked">Obrót zewn. ekranu wł.</string>
     <string name="toast_for_first_use_three_gesture">Przesuń poziomo czterema palcami, aby przełączać się między aplikacjami</string>
     <string name="stream_assistant">Asystent</string>
+    <string name="reboot_to_bootloader_title">Tryb Fastboot</string>
+    <string name="reboot_to_recovery_title">Tryb Recovery</string>
 </resources>

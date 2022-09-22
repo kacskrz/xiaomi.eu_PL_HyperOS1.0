@@ -2055,4 +2055,11 @@ Aktywować eSIM?"</string>
   <string name="smart_switch_dual_sim_diag_title">Uwaga</string>
   <string name="vice_slot_volte_data_dialog_message"><Data>Wygląda na to, że obecne połączenie z siecią jest niestabilne. Możesz spróbować automatycznie przełączyć się między kartami SIM do danych mobilnych. &lt;font color=#ff0000>&lt;b>Korzystanie z tej funkcji może generować dodatkowe opłaty od operatora&lt;/b>&lt;/font>.</Data></string>
   <string name="vice_slot_volte_data_dialog_open">Włącz</string>
+  <string name="business_hall_settings_summary">Kontroluj rozmowy i zużycie danych</string>
+  <string name="business_hall_settings_title">Ustawienia planu taryfowego</string>
+  <string name="default_data_title">Dane</string>
+  <string name="default_sim_setting">Domyślne karty SIM</string>
+  <string name="default_voice_title">Rozmowy</string>
+  <string name="pref_sim_item_no_default">Brak domyślnej</string>
+  <string name="sim_select_dialog_title">Wybierz kartę SIM</string>
 </resources>

@@ -10854,4 +10854,5 @@ Aby używać przypinania aplikacji: \u0009
     <string name="miui_type_style_summary">Styl pisania stosowany przy włączonym Czytniku ekranowym</string>
     <string name="miui_type_style_title">Styl pisania</string>
     <string name="stylus_not_connect_message_new">Załącz swój rysik, aby sparować</string>
+    <string name="sound_mode">Opcje dot. dźwięku</string>
 </resources>
