@@ -1454,4 +1454,5 @@ do Listy blokowanych"</string>
     <string name="download_miui_calendar_title">Pobierz Kalendarz</string>
     <string name="notes_not_found">Najpierw zainstaluj Notatki</string>
     <string name="soundrecorder_not_found">Najpierw zainstaluj Dyktafon</string>
+    <string name="button_copy">Kopiuj</string>
 </resources>

@@ -1580,7 +1580,6 @@ Ten problem może być spowodowany przez uwierzytelnianie dwuskładnikowe Twojeg
   <string name="fallback_menu_item_copy_link">Skopiuj link</string>
   <string name="fallback_menu_item_open_in_browser">Otwórz w przeglądarce</string>
   <string name="fallback_menu_item_share_link">Udostępnij link</string>
-  <string name="sign_in_dialog_outlook_enterprise">Outlook dla biznesu (bez kalendarza)</string>
   <string name="sign_in_dialog_outlook_exchange">Exchange (z kalendarzem)</string>
   <string name="sign_in_dialog_outlook_imap">IMAP (bez kalendarza)</string>
   <string name="gmail_invalid_tip_cancel">Anuluj</string>

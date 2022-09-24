@@ -1405,4 +1405,6 @@ Jeśli nie zgadzasz się na korzystanie ze wspomnianych usług, niektóre funkcj
   <string name="read_and_agree_protocol">Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności.</string>
   <string name="storage_space_permissions_for_display">Dostęp do pamięci urządzenia: w celu skanowania, wyświetlania i odtwarzania lokalnych plików</string>
   <string name="telephone_permissions_for_push">Uprawnienia do dzwonienia: w celu dostarczania usług powiadomień push Google</string>
+  <string name="app_disable_description_content">Muzyka to aplikacja systemowa. Jej wyłączenie może wpłynąć na użytkowanie innych aplikacji. Wyłączyć mimo to?</string>
+  <string name="app_disable_description_title">Wyłączyć aplikację systemową?</string>
 </resources>

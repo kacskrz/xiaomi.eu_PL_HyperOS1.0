@@ -933,4 +933,9 @@ Może to generować dodatkowe opłaty."</string>
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="apply_warning_content">"Używasz Supertapety. Jeśli zmienisz swoją tapetę, zostanie ona zastosowana zarówno na pulpicie, jak i na Ekranie blokady. Czy chcesz to zrobić?"</string>
+  <string name="apply_warning_content_with_aod">"Używasz Supertapety. Jeśli zmienisz swoją tapetę, zostanie ona zastosowana zarówno na pulpicie, jak i na Ekranie blokady. Ponadto może zostać przywrócony domyślny wygląd Ekranu zawsze włączonego. Czy chcesz to zrobić?"</string>
+  <string name="apply_warning_content_with_maml">"Używasz motywu strony trzeciej. Jeśli zmienisz swoją tapetę, może zostać przywrócony domyślny zegar Ekranu blokady. Czy chcesz to zrobić?"</string>
+  <string name="apply_warning_title">Ustawianie tapety</string>
+  <string name="dlg_ok">Ustaw</string>
 </resources>
