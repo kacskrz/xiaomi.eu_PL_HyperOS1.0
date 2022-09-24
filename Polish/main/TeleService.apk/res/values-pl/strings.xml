@@ -412,7 +412,6 @@ Czy mimo to chcesz użyć danych mobilnych?"</string>
   <string name="default_call_type">Voice</string>
   <string name="default_notification_description">Domyślny dźwięk (%1$s)</string>
   <string name="default_preference_summary">Nie ustawione</string>
-  <string name="default_sim_setting">Default SIM settings as:</string>
   <string name="delete">Usuń</string>
   <string name="deleteAllSimEntries">Usuń wszystkie kontakty SIM</string>
   <string name="deleteSimContacts">Usuwanie kontaktów SIM...</string>
