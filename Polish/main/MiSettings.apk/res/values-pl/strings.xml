@@ -936,4 +936,12 @@ został wykorzystany"</string>
     <string name="usage_new_category_limit_summary">Ustaw dzienny limit zużycia dla wszystkich aplikacji w tej kategorii</string>
     <string name="usage_new_category_limit_title">Ogranicz użycie dla kategorii aplikacji</string>
     <string name="workday_limit">Dni robocze</string>
+    <string name="closed_high_refresh_options">Aplikacje nieużywające wysokiej częstotliwości odświeżania</string>
+    <string name="customize_high_refresh_summary">Ta funkcja wspiera częstotliwość odświeżania o wysokości do %d Hz. Odpowiednia częstotliwość może być dobierana automatycznie w oparciu o ustawienia urządzenia.</string>
+    <string name="customize_high_refresh_title">Aplikacje używające wysokiej częstotliwości odświeżania</string>
+    <string name="follow_apps_settings">Zgodnie z ustawieniami aplikacji</string>
+    <string name="high_refresh_options_title">Wspierane aplikacje</string>
+    <string name="new_customize_high_refresh_title">Wysoka częstotliwość odświeżania</string>
+    <string name="opened_high_refresh_options">Aplikacje używające wysokiej częstotliwości odświeżania</string>
+    <string name="search_app_tips">Wyszukaj aplikacje</string>
 </resources>

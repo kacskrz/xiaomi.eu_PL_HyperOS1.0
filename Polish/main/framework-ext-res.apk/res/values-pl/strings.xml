@@ -585,4 +585,5 @@ z przedniego aparatu"</string>
   <string name="rescueparty_package_tips">Wykryto uszkodzenie usługi systemowej {0}</string>
   <string name="rescuepartyplus_config_reset_context">Niektóre dane mogły zostać wyczyszczone. Dotknij, aby zobaczyć szczegóły.</string>
   <string name="rescuepartyplus_config_reset_title">Ukończono naprawę systemu</string>
+  <string name="wallpaper_group_macaron_title">Makaroniki</string>
 </resources>

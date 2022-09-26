@@ -10855,4 +10855,6 @@ Aby używać przypinania aplikacji: \u0009
     <string name="miui_type_style_title">Styl pisania</string>
     <string name="stylus_not_connect_message_new">Załącz swój rysik, aby sparować</string>
     <string name="sound_mode">Opcje dot. dźwięku</string>
+    <string name="external_ram_intro">"Utwórz dodatkową pamięć RAM, zajmując przestrzeń na dane. Używaj tej funkcji tylko wtedy, gdy na urządzeniu jest dostępna wystarczająca ilość wolnego miejsca."</string>
+    <string name="kid_space_forbidden_set_unlock_password_msg">"Nie można ustawić lub zmienić hasła w Przestrzeni dziecięcej"</string>
 </resources>
