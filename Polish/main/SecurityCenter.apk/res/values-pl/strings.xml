@@ -5696,4 +5696,8 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\
     <string name="power_5g_popups_content">Sieci 5G umożliwiają duże prędkości połączeń i zmniejszają opóźnienie.</string>
     <string name="power_5g_popups_title">Używaj sieci 5G</string>
     <string name="vtb_ai_subtitle">Napisy</string>
+    <string name="app_manager_restricted_settings_title">Zezwól na ograniczone ustawienia</string>
+    <string name="gb_barrage_chat_pre_desc">Podgląd</string>
+    <string name="gb_barrage_chat_text_speed_moderate">Średni</string>
+    <string name="power_dialog_performance_mode_checkbox">Przełącz na odświeżanie 120 Hz</string>
 </resources>

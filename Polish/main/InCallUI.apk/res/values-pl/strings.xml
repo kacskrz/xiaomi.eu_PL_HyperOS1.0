@@ -446,4 +446,17 @@ Dotknij opcji \"%1$s\", a następnie wybierz \"%2$s\"."</string>
     <string name="select_other_sim_card_dial">Użyj SIM %1$d</string>
     <string name="call_log_short_in">Ten numer dzwonił do Ciebie teraz</string>
     <string name="call_log_short_out">Dzwoniono pod ten numer teraz</string>
+    <string name="camera_on">Inna osoba chce włączyć Twój aparat.</string>
+    <string name="camera_on_agree">Zezwól</string>
+    <string name="camera_on_refuse">"Nie zezwalaj"</string>
+    <string name="camera_on_title">Aparat</string>
+    <string name="onscreen_collapsed">Zwiń</string>
+    <string name="onscreen_collapsed_dialpad">Pokaż klawiaturę numeryczną</string>
+    <string name="onscreen_expand">Więcej</string>
+    <string name="onscreen_expand_dialpad">Ukryj klawiaturę numeryczną</string>
+    <string name="screen_share">Zdalna pomoc</string>
+    <string name="screen_share_agree">Zezwól</string>
+    <string name="screen_share_connecting">Łączenie…</string>
+    <string name="screen_share_message">Zezwolić innej osobie na wyświetlanie Twojego ekranu w czasie rzeczywistym?</string>
+    <string name="screen_share_refuse">Anuluj</string>
 </resources>

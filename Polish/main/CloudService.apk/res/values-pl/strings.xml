@@ -1232,4 +1232,6 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="micloud_share_cloud_storage_entrance_title">Dziel miejsce w Chmurze ze swoją grupą rodzinną</string>
   <string name="find_permission_phone_sim_info_summary">W celu uzyskiwania lokalizacji poprzez SMS w przypadku braku połączenia z siecią</string>
   <string name="find_permission_phone_sim_info_title">Dostęp do informacji o urządzeniu</string>
+  <string name="phone_guarantee_service_description" formatted="false">Ochrona od uszkodzeń i wypadków związanych z ekranem może zostać zakupiona w ciągu %d dni od aktywacji. Rozszerzona gwarancja może zostać zakupiona w ciągu %d dni od aktywacji.</string>
+  <string name="phone_guarantee_service_name">Gwarancja urządzenia</string>
 </resources>
