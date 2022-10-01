@@ -978,4 +978,6 @@ Zwiększone bezpieczeństwo."</string>
   <string name="recent_menu_item_add_pair">Utwórz skrót na pulpicie dla tej kombinacji Dzielonego ekranu</string>
   <string name="recent_menu_item_add_pair_first_toast">Utwórz skrót na pulpicie dla tej kombinacji Dzielonego ekranu</string>
   <string name="split_screen_position_top">Podziel na górze</string>
+  <string name="toast_split_app_unsupported">"Ta aplikacja nie wspiera Dzielonego ekranu"</string>
+  <string name="toast_split_select_app">Dotknij aplikacji, aby użyć Dzielonego ekranu</string>
 </resources>

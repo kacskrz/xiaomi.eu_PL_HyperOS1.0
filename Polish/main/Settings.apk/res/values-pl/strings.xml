@@ -10857,4 +10857,6 @@ Aby używać przypinania aplikacji: \u0009
     <string name="sound_mode">Opcje dot. dźwięku</string>
     <string name="external_ram_intro">"Utwórz dodatkową pamięć RAM, zajmując przestrzeń na dane. Używaj tej funkcji tylko wtedy, gdy na urządzeniu jest dostępna wystarczająca ilość wolnego miejsca."</string>
     <string name="kid_space_forbidden_set_unlock_password_msg">"Nie można ustawić lub zmienić hasła w Przestrzeni dziecięcej"</string>
+    <string name="lite_font_weight_title">Grubość czcionki</string>
+    <string name="more_font_pref_title">Więcej czcionek</string>
 </resources>

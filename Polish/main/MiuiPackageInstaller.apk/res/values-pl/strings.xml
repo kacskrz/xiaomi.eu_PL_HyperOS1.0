@@ -702,4 +702,5 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="what_is_security_mode">Czym jest Tryb bezpieczny?</string>
     <string name="install_package_error">"Ta aplikacja nie jest kompatybilna z Twoim systemem"</string>
     <string name="install_package_error_des">Skontaktuj się z twórcą aplikacji lub zainstaluj jej kompatybilną wersję ze sklepu z aplikacjami.</string>
+    <string name="cancel_update">"Nie aktualizuj"</string>
 </resources>
