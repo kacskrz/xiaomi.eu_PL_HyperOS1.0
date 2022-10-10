@@ -122,7 +122,7 @@
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
   <string name="new_cta_app_purpose">wyświetlanie kierunków i koordynatów</string>
-  <string name="calibrating">Kalibracja kompasu</string>
+  <string name="calibrating">Kalibracja</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="calibrate_new_tip">Gwałtownie przechyl urządzenie, aby obrócić kulę dookoła okręgu</string>
 </resources>
