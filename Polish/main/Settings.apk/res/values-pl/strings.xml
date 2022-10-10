@@ -10859,4 +10859,8 @@ Aby używać przypinania aplikacji: \u0009
     <string name="kid_space_forbidden_set_unlock_password_msg">"Nie można ustawić lub zmienić hasła w Przestrzeni dziecięcej"</string>
     <string name="lite_font_weight_title">Grubość czcionki</string>
     <string name="more_font_pref_title">Więcej czcionek</string>
+    <string name="headset_find_left_tip">Wygląda na to, że lewa słuchawka jest w zestawie lub uchu</string>
+    <string name="headset_find_right_tip">Wygląda na to, że prawa słuchawka jest w zestawie lub uchu</string>
+    <string name="miheadset_connect_device_hfp">Podłącz słuchawki i upewnij się, że zezwolono na odtwarzanie dźwięku dla połączeń głosowych</string>
+    <string name="miheadset_firmware_version_update">Aktualizuj oprogramowanie</string>
 </resources>

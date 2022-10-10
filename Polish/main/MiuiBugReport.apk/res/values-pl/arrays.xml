@@ -4,4 +4,58 @@
         <item>Mężczyzna</item>
         <item>Kobieta</item>
     </string-array>
+    <string-array name="net_diag_err_link_quality">
+        <item>Słabe połączenie z Wi-Fi. Zmień pasmo sieci lub uruchom ponownie router.</item>
+        <item>"Nie można połączyć się z siecią. Połącz się ponownie z Wi-Fi lub uruchom ponownie router."</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+        <item>Słabe połączenie z Wi-Fi. Zmień pasmo sieci lub uruchom ponownie router.</item>
+        <item>"Nie można połączyć się z siecią. Połącz się ponownie z Wi-Fi lub uruchom ponownie router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+        <item>Aby połączyć się z siecią, musisz się uwierzytelnić</item>
+        <item>"Dostęp do sieci jest ograniczony. Zmień czas na tym urządzeniu i sprawdź ustawienia sieciowe routera."</item>
+        <item>Błąd sieci. Sprawdź ustawienia proxy HTTP.</item>
+        <item>Błąd sieci. Sprawdź, czy router ma dostęp do Internetu.</item>
+        <item>"Nie można połączyć się z siecią. Połącz się ponownie z Wi-Fi lub uruchom ponownie router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+        <item>Aby połączyć się z siecią, musisz się uwierzytelnić</item>
+        <item>"Dostęp do sieci jest ograniczony. Zmień czas na tym urządzeniu i sprawdź ustawienia sieciowe routera."</item>
+        <item>Błąd sieci. Sprawdź ustawienia proxy HTTP.</item>
+        <item>Błąd sieci. Sprawdź, czy router ma dostęp do Internetu.</item>
+        <item>"Nie można połączyć się z siecią. Połącz się ponownie z Wi-Fi lub uruchom ponownie router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+        <item>"Błąd serwera DNS. Sprawdź konfigurację DNS routera."</item>
+        <item>"Duże opóźnienia ze strony serwera DNS. Sprawdź konfigurację DNS routera."</item>
+        <item>"Nie można połączyć się z bramą domyślną. Połącz się ponownie z Wi-Fi lub uruchom ponownie router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+        <item>"Błąd serwera DNS. Sprawdź konfigurację DNS routera."</item>
+        <item>"Duże opóźnienia ze strony serwera DNS. Sprawdź konfigurację DNS routera."</item>
+        <item>"Nie można połączyć się z bramą domyślną. Połącz się ponownie z Wi-Fi lub uruchom ponownie router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+        <item>Duże opóźnienia ze strony sieci lokalnej. Uruchom ponownie router lub połącz się z inną siecią.</item>
+        <item>Duże opóźnienia ze strony Internetu. Sprawdź ustawienia sieciowe operatora lub połącz się z inną siecią.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>Zmień statyczne IP na DHCP</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>Błąd protokołu sieciowego. Połącz się ponownie z Wi-Fi lub zrestartuj urządzenie.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>Błąd protokołu sieciowego. Połącz się ponownie z Wi-Fi lub zrestartuj urządzenie.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>Przenieś się do obszaru z lepszym zasięgiem Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>Przenieś się do obszaru z lepszym zasięgiem Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>"Sprawdź ustawienia DHCP routera i połączenie przewodowe"</item>
+    </string-array>
 </resources>
