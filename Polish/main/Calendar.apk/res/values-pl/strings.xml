@@ -850,4 +850,16 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię nic ważnego."</stri
     <string name="tab_view_month">Miesiąc</string>
     <string name="tab_view_week">Tydzień</string>
     <string name="tab_view_year">Rok</string>
+    <string name="calendar_account_settings">Ustawienia konta</string>
+    <string name="check_new_version">Sprawdź aktualizacje</string>
+    <string name="display_to_calendar">Pokaż w Kalendarzu</string>
+    <string name="hour_1">%d godzina</string>
+    <string name="minutes_10">%d minut</string>
+    <string name="minutes_15">%d minut</string>
+    <string name="minutes_30">%d minut</string>
+    <string name="minutes_5">%d minut</string>
+    <string name="shortcut_new_event">Dodaj wydarzenie</string>
+    <string name="shortcut_next_agenda">Następne</string>
+    <string name="shortcut_settings">Ustawienia</string>
+    <string name="suggestions_and_feedback">Opinia</string>
 </resources>
