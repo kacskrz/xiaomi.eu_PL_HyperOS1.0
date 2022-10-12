@@ -1234,4 +1234,15 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="find_permission_phone_sim_info_title">Dostęp do informacji o urządzeniu</string>
   <string name="phone_guarantee_service_description" formatted="false">Ochrona od uszkodzeń i wypadków związanych z ekranem może zostać zakupiona w ciągu %d dni od aktywacji. Rozszerzona gwarancja może zostać zakupiona w ciągu %d dni od aktywacji.</string>
   <string name="phone_guarantee_service_name">Gwarancja urządzenia</string>
+  <string name="download_gallery_data_summary">Przejdź na stronę i.mi.com, aby pobrać zsynchronizowane zdjęcia i filmy na swoje urządzenie.</string>
+  <string name="download_gallery_data_title">Pobierz elementy na swoje urządzenie</string>
+  <string name="gallery_data_transfer_ddl">Termin: %s</string>
+  <string name="gallery_data_transfer_summary">Elementy z Galerii nie mogą już być synchronizowane z Chmurą Xiaomi. Xiaomi zaleca przeniesienie zsynchronizowanych zdjęć i filmów do Zdjęć Google i wykonanie tam ich kopii zapasowej.</string>
+  <string name="gallery_data_transfer_title">Przenieś zsynchronizowane zdjęcia i filmy do Zdjęć Google</string>
+  <string name="gallery_service_termination_announcement">Uwaga: Elementy z Galerii nie mogą już być synchronizowane z Chmurą Xiaomi</string>
+  <string name="gallery_service_termination_announcement_title">Elementy z Galerii nie mogą już być synchronizowane z Chmurą Xiaomi. Xiaomi zaleca przeniesienie zsynchronizowanych zdjęć i filmów do Zdjęć Google lub odwiedzenie strony i.mi.com w celu pobrania zsynchronizowanych zdjęć i filmów na swoje urządzenie. Usługi migracji i pobierania elementów będą dostępne do %s. Po tym terminie wszystkie zsynchronizowane elementy Galerii zostaną permanentnie usunięte.</string>
+  <string name="gallery_service_termination_btn_continue">Kontynuuj</string>
+  <string name="gallery_service_termination_more_info">Aby dowiedzieć się więcej, zobacz \"%s\"</string>
+  <string name="menu_migrate_to_google_photos">Przenieś dane do Zdjęć Google</string>
+  <string name="start_transfer_gallery_data">Przenieś dane</string>
 </resources>
