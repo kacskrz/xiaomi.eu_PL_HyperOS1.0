@@ -1407,4 +1407,5 @@ Jeśli nie zgadzasz się na korzystanie ze wspomnianych usług, niektóre funkcj
   <string name="telephone_permissions_for_push">Uprawnienia do dzwonienia: w celu dostarczania usług powiadomień push Google</string>
   <string name="app_disable_description_content">Muzyka to aplikacja systemowa. Jej wyłączenie może wpłynąć na użytkowanie innych aplikacji. Wyłączyć mimo to?</string>
   <string name="app_disable_description_title">Wyłączyć aplikację systemową?</string>
+  <string name="tips_click_here_to_continue">Dotknij, aby wznowić odtwarzanie</string>
 </resources>

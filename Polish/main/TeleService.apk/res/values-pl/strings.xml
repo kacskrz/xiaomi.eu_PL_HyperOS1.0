@@ -2061,4 +2061,5 @@ Aktywować eSIM?"</string>
   <string name="default_voice_title">Rozmowy</string>
   <string name="pref_sim_item_no_default">Brak domyślnej</string>
   <string name="sim_select_dialog_title">Wybierz kartę SIM</string>
+  <string name="speed_limit_card_toast">"Wykorzystano już limit danych z pełną prędkością. Prędkość połączenia będzie teraz zmniejszona."</string>
 </resources>

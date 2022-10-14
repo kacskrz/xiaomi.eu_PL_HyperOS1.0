@@ -719,4 +719,46 @@
         <item quantity="few">%d lata</item>
         <item quantity="one">%d rok</item>
     </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="few">Wysłano %d zdjęcia</item>
+        <item quantity="other">Wysłano %d zdjęć</item>
+        <item quantity="one">Wysłano %d zdjęcie</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d pokojów</item>
+        <item quantity="one">%1$d pokój</item>
+        <item quantity="few">%1$d pokoje</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d ekranów</item>
+        <item quantity="few">%1$d ekrany</item>
+        <item quantity="one">%1$d ekran</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d udostępnionych ekranów</item>
+        <item quantity="few">%1$d udostępnione ekrany</item>
+        <item quantity="one">%1$d udostępniony ekran</item>
+    </plurals>
+    <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">Dostępne %1$d środowisk smart home</item>
+        <item quantity="few">Dostępne %1$d środowiska smart home</item>
+        <item quantity="one">Dostępne %1$d środowisko smart home</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d elementów jest za dużych do synchronizacji</item>
+        <item quantity="few">%d elementy są za duże do synchronizacji</item>
+        <item quantity="one">%d element jest za duży do synchronizacji</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">"Nie udało się zsynchronizować %d elementów. Ulepsz swój plan Chmury."</item>
+        <item quantity="one">"Nie udało się zsynchronizować %d elementu. Ulepsz swój plan Chmury."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">"Nie udało się zsynchronizować %d elementów. Spróbuj ponownie."</item>
+        <item quantity="one">"Nie udało się zsynchronizować %d elementu. Spróbuj ponownie."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">"Nie udało się zsynchronizować %d elementów. Właściciel tego albumu nie ma już miejsca w Chmurze."</item>
+        <item quantity="one">"Nie udało się zsynchronizować %d elementu. Właściciel tego albumu nie ma już miejsca w Chmurze."</item>
+    </plurals>
 </resources>

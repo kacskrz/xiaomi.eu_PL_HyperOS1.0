@@ -898,4 +898,8 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="save_to_local_success_message">Pomyślnie zapisano</string>
   <string name="note_mindnote_not_support_in_phone_model">"Nie można edytować map myśli na tym urządzeniu"</string>
   <string name="note_write_hint">Zacznij pisać</string>
+  <string name="new_lite_audio_create_talkback_des">Dotknij, aby utworzyć notatkę</string>
+  <string name="widget_all_notes_name">Wszystkie notatki</string>
+  <string name="widget_all_todo_name">Wszystkie zadania</string>
+  <string name="widget_click_check">Dotknij, aby wyświetlić</string>
 </resources>
