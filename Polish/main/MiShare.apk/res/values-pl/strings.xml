@@ -77,7 +77,7 @@
     <string name="file_cannot_screen_throw">"Nie można wykonać projekcji tego elementu."</string>
     <string name="file_receive_progress">Postęp: %1$d%%</string>
     <string name="file_receive_progress_title">Postęp</string>
-    <string name="file_received_successfully_from_pc">Pomyślnie otrzymano więcej niż 200 plików od %1$s</string>
+    <string name="file_received_successfully_from_pc">Pomyślnie otrzymano więcej niż %2$d plików od %1$s</string>
     <string name="file_sending">Przenoszenie plików…</string>
     <string name="file_transfer_progress">Postęp: %1$d%%</string>
     <string name="file_transfer_progress_title">Postęp</string>
@@ -123,13 +123,13 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
     <string name="sender_error">"Nie udało się wysłać. Odczekaj minutę bądź dwie i spróbuj ponownie."</string>
     <string name="some_files_receive_completed">"Zobacz pliki otrzymane przez Ciebie w katalogu %1$s."</string>
     <string name="somepc_send_much_file_to_you_files">%1$s wysyła do Ciebie więcej niż 200 plików…</string>
-    <string name="somepc_send_muchfile_files">%1$s wysyła do Ciebie więcej niż 200 plików…</string>
+    <string name="somepc_send_muchfile_files">%1$s wysyła do Ciebie więcej niż %2$d plików…</string>
     <string name="start_advertise">ZACZNIJ REKLAMĘ</string>
-    <string name="start_receive_much_files_from_pc">Otrzymywanie więcej niż 200 plików od %1$s…</string>
+    <string name="start_receive_much_files_from_pc">Otrzymywanie więcej niż %2$d plików od %1$s…</string>
     <string name="start_scan">ZACZNIJ SKANOWANIE</string>
     <string name="stop_advertise">ZATRZYMAJ REKLAMĘ</string>
     <string name="stop_scan">ZATRZYMAJ SKANOWANIE</string>
-    <string name="success_receive_much_file_from_pc">Odebrano więcej niż 200 plików od %1$s. Kliknij, aby wyświetlić.</string>
+    <string name="success_receive_much_file_from_pc">Odebrano więcej niż %2$d plików od %1$s. Kliknij, aby wyświetlić.</string>
     <string name="support_device_type">Wspierane urządzenia</string>
     <string name="throwing_print">Drukuj</string>
     <string name="throwing_screen">Prześlij ekran</string>
@@ -207,7 +207,6 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="close">Zamknij</string>
   <string name="error_remote_ap_working">Poproś drugą osobę o wyłączenie funkcji hotspotu</string>
   <string name="common_google_play_services_unknown_issue">%1$s ma problemy z usługami Google Play. Spróbuj ponownie.</string>
-  <string name="samsung_phone">Telefon Samsung</string>
   <string name="device_list_all">Wszystkie urządzenia</string>
   <string name="device_list_more">Więcej</string>
   <string name="transfer_to_pc_summary_new"><Data>"Najnowsza wersja aplikacji MIUI+ zainstalowana na Mi Notebookach jest kompatybilna z funkcją Mi Share. Możesz sprawdzić listę wspieranych modeli laptopów na stronie MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Jeśli Twój laptop znajduje się na niej, lecz aplikacja MIUI+ nie jest na nim zainstalowana, zaktualizuj BIOS oraz sterownik karty sieciowej Twojego laptopa i pobierz aplikację MIUI+."</Data></string>
@@ -236,7 +235,6 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="pc_xiaomi_device_model_name">Laptop Xiaomi</string>
   <string name="seize_content">Zatrzymaj udostępnianie Twojego ekranu, aby móc przesyłać elementy. Zrobić to teraz?</string>
   <string name="seize_title">Zatrzymaj udostępnianie ekranu</string>
-  <string name="lenovo_phone">Telefon Lenovo</string>
   <string name="error_msg_network_error_china">"Nie udało się połączyć z siecią. Sprawdź połączenia Wi-Fi i Bluetooth na obu urządzeniach."</string>
   <string name="error_msg_wlan_error_china">"Nie udało się połączyć. Połącz się ponownie z siecią Wi-Fi i spróbuj ponownie."</string>
   <string name="error_p2p_create_group_failure_china">"Nie udało się połączyć. Połącz się ponownie z siecią Wi-Fi na obu urządzeniach i spróbuj ponownie."</string>
