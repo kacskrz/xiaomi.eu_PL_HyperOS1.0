@@ -1674,7 +1674,7 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
     <string name="pa_accessibility_picker_home_search">Wyszukaj widżety</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">Wybrano %1$s, rząd %2$d, numer %3$d. Dotknij dwa razy, aby rozpocząć.</string>
     <string name="pa_accessibility_picker_home_title">Dodaj widżet</string>
-    <string name="pa_accessibility_picker_home_widget_slected">Wybrano %1$s, Rozmiar: %2$s, Stan instalacji: %3$s, Rząd %4$d, Numer %5$d. Dotknij dwa razy, aby uzyskać szczegóły. Przytrzymaj, aby przenieść.</string>
+    <string name="pa_accessibility_picker_home_widget_slected">Wybrano %1$s, Rozmiar: %2$s, Stan instalacji: %3$s. Dotknij dwa razy, aby uzyskać szczegóły. Przytrzymaj, aby przenieść.</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Wybrano %1$s, rząd %2$d, numer %3$d. Dotknij dwa razy, aby wyświetlić szczegóły.</string>
     <string name="pa_get_installed_app_permission_description">W celu instalowania aplikacji i dodawania widżetów</string>
     <string name="pa_pad_privacy_text">Widżety pulpitu</string>

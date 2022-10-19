@@ -177,4 +177,9 @@
         <item quantity="one">Zaznaczono %d element</item>
         <item quantity="few">Zaznaczono %d elementy</item>
     </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">Zapłać %1$s Mi Coinów</item>
+        <item quantity="few">Zapłać %1$s Mi Coiny</item>
+        <item quantity="one">Zapłać %1$s Mi Coin</item>
+    </plurals>
 </resources>

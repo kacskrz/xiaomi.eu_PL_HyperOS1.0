@@ -1569,4 +1569,7 @@ Dotknij, aby go wyłączyć."</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"Używasz obecnie supertapety. Jeśli wybierzesz nową tapetę, zostanie ona zastosowana zarówno na pulpicie, jak i Ekranie blokady. Zastosować?"</string>
     <string name="personalize_second_space_not_support_buy_widget">"Nie można kupić widżetów w Drugiej przestrzeni"</string>
     <string name="use_now">Dodaj</string>
+    <string name="component_title_widget_suit">Widżety</string>
+    <string name="paying">Zamawianie…</string>
+    <string name="search_view_description_clear">Wyczyść wyszukiwanie</string>
 </resources>

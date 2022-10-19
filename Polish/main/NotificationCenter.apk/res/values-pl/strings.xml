@@ -204,4 +204,6 @@ Zgłoś ten problem >"</string>
     <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
     <string name="miuix_indexer_collect">Kolekcje</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
+    <string name="disable_description_content">"Powiadomienia to aplikacja systemowa. Jeśli ją wyłączysz, nie będzie można zarządzać powiadomieniami aplikacji. Wyłączyć mimo to?"</string>
+    <string name="disable_description_title">Wyłączyć aplikację systemową?</string>
 </resources>
