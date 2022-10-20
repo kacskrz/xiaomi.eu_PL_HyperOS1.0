@@ -901,7 +901,7 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="mi_drive_title">Mi Drive</string>
   <string name="special_func_title">Specjalne funkcje</string>
   <string name="storage_upgrade_card_summary">Uzyskaj więcej miejsca w Chmurze</string>
-  <string name="storage_upgrade_card_title">Ulepsz swój plan</string>
+  <string name="storage_upgrade_card_title">Ulepsz</string>
   <string name="help_and_feedback">Pomoc i opinie</string>
   <string name="micloud_find_device_guide_desc_pad">Jeśli zgubiłeś urządzenie, zaloguj się na stronie &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> na innym urządzeniu, aby je zlokalizować, zdalnie zablokować bądź wymazać z niego dane. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Zobacz szczegóły&lt;/a>.</string>
   <string name="micloud_find_device_guide_desc_phone">Jeśli zgubiłeś urządzenie, zaloguj się na stronie &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> na innym urządzeniu, aby je zlokalizować, zdalnie zablokować bądź wymazać z niego dane. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Zobacz szczegóły&lt;/a>.</string>  

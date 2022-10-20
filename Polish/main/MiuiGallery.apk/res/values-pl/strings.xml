@@ -155,7 +155,6 @@
   <string name="baby_album_change_background">Zmień zdjęcie w tle</string>
   <string name="baby_album_needs_auto_backup_tip">Wymagana jest synchronizacja</string>
   <string name="baby_album_new_photo_remind">W albumie dziecka są nowe zdjęcia.</string>
-  <string name="baby_album_setting_title">Dane o dziecku</string>
   <string name="baby_album_settings">Ustawienia albumu Dzieci</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
 %3$s %4$s udostępnił Tobie album %5$s"</string>
@@ -171,7 +170,6 @@
   <string name="baby_name_cannot_start_with">"Imię nie może rozpocząć się od '%s'"</string>
   <string name="baby_name_contain_invalidate_char">"Imię nie może zawierać '%s'"</string>
   <string name="baby_name_reserved">To imię już jest przyporządkowane do innego albumu</string>
-  <string name="baby_nick_name">Imię dziecka</string>
   <string name="baby_sexy">Płeć</string>
   <string name="baby_suffix">dziecko</string>
   <string name="back">Wstecz</string>

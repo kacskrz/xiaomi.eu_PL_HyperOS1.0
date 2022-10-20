@@ -303,4 +303,23 @@
         <item quantity="few">Usunąć %1$d foldery?</item>
         <item quantity="one">Usunąć %1$d folder?</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="one">"Usunąć %1$d plik ze wszystkich urządzeń oraz Chmury? Pliki z Mi Drive'a mogą zostać przywrócone z poziomu menu ostatnio usuniętych elementów."</item>
+        <item quantity="few">"Usunąć %1$d pliki ze wszystkich urządzeń oraz Chmury? Pliki z Mi Drive'a mogą zostać przywrócone z poziomu menu ostatnio usuniętych elementów."</item>
+        <item quantity="other">"Usunąć %1$d plików ze wszystkich urządzeń oraz Chmury? Pliki z Mi Drive'a mogą zostać przywrócone z poziomu menu ostatnio usuniętych elementów."</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">"Nie udało się zsynchronizować %1$s plików"</item>
+        <item quantity="one">"Nie udało się zsynchronizować %1$s pliku"</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"Zsynchronizowano %1$s plików | "</item>
+        <item quantity="few">"Zsynchronizowano %1$s pliki | "</item>
+        <item quantity="one">"Zsynchronizowano %1$s plik | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Oczekiwanie na połączenie z siecią. Pozostało %1$s plików.</item>
+        <item quantity="few">Oczekiwanie na połączenie z siecią. Pozostały %1$s pliki.</item>
+        <item quantity="one">Oczekiwanie na połączenie z siecią. Pozostał %1$s plik.</item>
+    </plurals>
 </resources>
