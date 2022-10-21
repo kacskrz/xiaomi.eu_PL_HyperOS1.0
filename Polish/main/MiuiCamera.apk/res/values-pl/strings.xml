@@ -2192,4 +2192,7 @@ Możesz użyć poniższych przycisków, aby zaimportować tekst, wyświetlić po
   <string name="vlog_pro_workspace_video_delete">Usuń</string>
   <string name="vlog_pro_workspace_video_rename">Zmień nazwę</string>
   <string name="cta_mimoji_perm_type">Uprawnienia obowiązkowe (używane przez podstawowe funkcje i usługi aplikacji)</string>
+  <string name="beauty_fx_makeup">Makijaż</string>
+  <string name="beauty_mo_pr">Tekstury</string>
+  <string name="beauty_sm_texture">Skóra</string>
 </resources>

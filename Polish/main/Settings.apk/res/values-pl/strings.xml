@@ -2740,8 +2740,8 @@ Nigdzie nie było widać ani koni, ani żadnych innych zwierząt. Do transportu 
   <string name="forget">Zapomnij</string>
   <string name="forget_password_button_text">Zapomniałem hasła</string>
   <string name="forget_password_dialog_button_text">Wstecz</string>
-  <string name="forget_password_dialog_content_four">2. Wybierz [Wipe] i przesuń suwak na dole, a następnie kliknij przycisk [Reboot System].</string>
-  <string name="forget_password_dialog_content_one">&lt;Data&gt;"Jeśli zapomniałeś hasła, nie będziesz w stanie go przywrócić. Możesz jednak je zresetować po &amp;lt;font color=#ec2700&amp;gt;wymazaniu wszystkich danych na urządzeniu&amp;lt;/font&amp;gt; (nie dotyczy pamięci wewnętrznej, lecz zrób kopię danych przed wykonaniem tego zabiegu)."&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_four">2. Pojawi się prośba o wpisanie hasła Ekranu blokady. Dotknij strzałki na dole ekranu, potem wybierz [Wipe] i przesuń suwak na dole, a następnie kliknij przycisk [Reboot System].</string>
+  <string name="forget_password_dialog_content_one"><Data>"Jeśli zapomniałeś hasła, nie będziesz w stanie go przywrócić. Możesz je jednak zresetować, co wiąże się  &lt;font color=#ec2700>z wymazaniem wszystkich danych z tego urządzenia&lt;/font> (w tym zdjęć czy kontaktów). Wykonaj kopię zapasową tych plików."</Data></string>
   <string name="forget_password_dialog_content_three">1. Wyłącz urządzenie. Przytrzymaj przyciski [Power] i [Volume+] jednocześnie i trzymaj je, dopóki telefon nie uruchomi się do trybu Recovery.</string>
   <string name="forget_password_dialog_content_two">Postępuj zgodnie z tymi krokami, aby wymazać dane:</string>
   <string name="forget_password_dialog_title">Wyczyść dane</string>
