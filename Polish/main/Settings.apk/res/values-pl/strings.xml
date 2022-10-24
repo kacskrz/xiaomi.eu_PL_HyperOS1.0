@@ -9999,7 +9999,6 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="external_ram_remind_toast">Zaczyna brakować miejsca w pamięci. Rozszerzenie pamięci zostało wyłączone.</string>
     <string name="miheadset_hd_audio_title">Dźwięk HD</string>
     <string name="gd_setting_title">Pasek boczny</string>
-    <string name="safe_install_mode_settings">Tryb bezpieczny</string>
     <string name="miheadset_hd_audio_summary">Odtwarzaj dźwięk w wysokiej jakości (%1$d-bit/%2$d kHz)</string>
     <string name="dns_select_dialog_title">Wybierz tryb prywatnego DNS</string>
     <string name="left_shoulder_key">Lewy</string>
@@ -10745,7 +10744,7 @@ Po usunięciu tych danych będziesz potrzebować kodu PIN, wzoru lub hasła do o
     <string name="zen_mode_from_some">Niektóre osoby lub rozmowy</string>
     <string name="zen_mode_people_footer">Nawet jeśli aplikacje służące do dzwonienia lub wysyłania wiadomości nie będą mogły wysyłać Ci powiadomień, osoby, które tutaj wybierzesz, będą mogły się z Tobą skontaktować za pomocą tych aplikacji</string>
     <string name="miheadset_open_closeAnc">Redukcja szumów wł./wył.</string>
-    <string name="bt_always_show_icon">Zawsze wyświetlaj ikonę na pasku statusu</string>
+    <string name="bt_always_show_icon">Nie wyświetlaj ikony Bluetooth na pasku statusu</string>
     <string name="accessibility_text_reading_reset_message">Rozmiar wyświetlacza i ustawienia tekstu zostały zresetowane</string>
     <string name="accessibility_vibration_settings_state_off">Wyłączono</string>
     <string name="accessibility_vibration_settings_state_on">Włączono</string>
@@ -10863,4 +10862,5 @@ Aby używać przypinania aplikacji: \u0009
     <string name="headset_find_right_tip">Wygląda na to, że prawa słuchawka jest w zestawie lub uchu</string>
     <string name="miheadset_connect_device_hfp">Podłącz słuchawki i upewnij się, że zezwolono na odtwarzanie dźwięku dla połączeń głosowych</string>
     <string name="miheadset_firmware_version_update">Aktualizuj oprogramowanie</string>
+    <string name="bt_always_show_icon_summary">Wyświetlaj ikonę Bluetooth tylko w Panelu powiadomień i Centrum funkcji</string>
 </resources>
