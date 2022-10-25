@@ -1663,4 +1663,8 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="presentation_private">Numer prywatny</string>
   <string name="presentation_unknown">Nieznany numer</string>
   <string name="view_more_call_logs">Pokaż więcej</string>
+  <string name="notification_missedCallTitle">Nieodebrany telefon</string>
+  <string name="notification_missedCall_call_back">Oddzwoń</string>
+  <string name="notification_missedCall_message">Wyślij SMS-a</string>
+  <string name="notification_missedCallsTitle">Nieodebrane połączenia</string>
 </resources>

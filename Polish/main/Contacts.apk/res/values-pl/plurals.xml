@@ -209,4 +209,9 @@
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d nieodebranych połączeń</item>
+        <item quantity="one">%d nieodebrane połączenie</item>
+        <item quantity="few">%d nieodebrane połączenia</item>
+    </plurals>
 </resources>
