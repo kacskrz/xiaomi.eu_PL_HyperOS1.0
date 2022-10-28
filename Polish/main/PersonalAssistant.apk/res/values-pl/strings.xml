@@ -1720,8 +1720,8 @@ Zajrzyj tu wkrótce!"</string>
     <string name="pa_open_personal_assistant_dialog_title">Wyłączyć Asystenta MIUI?</string>
     <string name="pa_setting_simplify_title_bar">Asystent MIUI</string>
     <string name="pa_accessibility_picker_bigBanner_widget_collection">Kolekcje widżetów</string>
-    <string name="pa_accessibility_picker_home_maml_slected">Selected: %1$s. Size: %2$s. Press twice to view details page. Press twice and hold to drag.</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Installation status: %3$s. The \"Switch\" button is below. Press twice to switch.</string>
+    <string name="pa_accessibility_picker_home_maml_slected">Wybrano: %1$s. Rozmiar: %2$s. Dotknij dwa razy, aby wyświetlić szczegóły. Dotknij dwa razy i przytrzymaj, aby przeciągnąć.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Stan instalacji: %3$s. Przycisk \"Zmień\" jest poniżej. Dotknij dwa razy, aby zmienić.</string>
     <string name="pa_accessibility_picker_status_installed">Zainstalowano</string>
     <string name="pa_accessibility_picker_status_uninstalled">Nie zainstalowano</string>
     <string name="pa_accessibility_picker_status_unkonw">Nieznany</string>
