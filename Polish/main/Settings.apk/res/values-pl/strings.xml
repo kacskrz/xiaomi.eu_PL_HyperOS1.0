@@ -8818,7 +8818,7 @@ Funkcja działa tylko, gdy jako sposób nawigacji po systemie ustawiono gesty."<
   <string name="upload_debug_log_detail">"Pomóż poprawić wrażenia z korzystania z MIUI poprzez automatyczne wysyłanie do Xiaomi informacji diagnostycznych oraz danych dot. urządzenia i korzystania z aplikacji. Pomoże to poprawić żywotność baterii, stabilność MIUI i aplikacji itp.
 Wysłane dane będą zawierać ogólne informacje o urządzeniu i korzystaniu z niego (np. poziom naładowania baterii, aktywność systemu i aplikacji, błędy). Dane zostaną wykorzystane do poprawiania urządzeń bazujących na nakładce MIUI.
 Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania informacji niezbędnych do działania podstawowych usług."</string>
-  <string name="screen_timeout_subtitle">Wyświetlanie statycznych elementów przez dłuższy czas może spowodować, że kolory będą nierówne</string>
+  <string name="screen_timeout_subtitle">Wyświetlanie statycznych elementów przez dłuższy czas może spowodować, że kolory będą nierównomierne</string>
   <string name="switch_power_sound">Odtwarzaj dźwięk po podłączeniu ładowarki</string>
   <string name="time_floating_window">Pływający zegar</string>
   <string name="time_floating_window_summary">Wyświetlaj zegar w pływającym oknie nad innymi aplikacjami</string>

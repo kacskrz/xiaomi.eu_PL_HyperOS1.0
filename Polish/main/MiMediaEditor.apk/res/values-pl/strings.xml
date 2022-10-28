@@ -1783,4 +1783,5 @@
      <string name="vlog_pro_not_support">"Ta rozdzielczość nie jest wspierana"</string>
      <string name="vlog_save_max_4k">Najwyższa wspierana rozdzielczość przy zapisywaniu elementów to 4K</string>
      <string name="vlog_saving_no_edit">Nie zamykaj tego menu w trakcie zapisywania elementów…</string>
+     <string name="photo_editor_gallery_frame_m16_only">Wspierane tylko dla zdjęć wykonanych serią Note 12 Pro</string>
 </resources>

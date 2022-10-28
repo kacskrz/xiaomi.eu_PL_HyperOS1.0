@@ -456,7 +456,7 @@
   <string name="app_permission_use_title">Uprawnienia</string>
   <string name="app_running_tip_dialog_negative">Anuluj</string>
   <string name="app_running_tip_dialog_positive">Wyjdź</string>
-  <string name="app_running_tip_dialog_text">Wygląda na to, że ta aplikacja działa w tle. Możesz z niej wyjść, aby przyspieszyć pracę urządzenia i zmniejszyć zużycie energii.</string>
+  <string name="app_running_tip_dialog_text">Wygląda na to, że ta aplikacja działa w tle. Możesz z niej wyjść, aby przyspieszyć pracę urządzenia i zmniejszyć użycie energii.</string>
   <string name="app_running_tip_dialog_title">Wyjdź z aplikacji %1$s</string>
   <string name="app_running_tip_uninstall">Odinstaluj tą aplikację</string>
   <string name="app_statusbar_audio_now">Nagrywanie dźwięku</string>
@@ -831,7 +831,7 @@
   <string name="cta_dialog_negative">Wyjdź</string>
   <string name="cta_dialog_positive">Zgoda</string>
   <string name="cta_dialog_title">Łączność z siecią</string>
-  <string name="cta_main_purpose">Witaj w Panelu sterowania! Możesz użyć tej aplikacji oraz jej modułów (np. komponentów bezpieczeństwa czy usług systemowych MIUI), aby zwolnić miejsce, skanować urządzenie w poszukiwaniu wirusów, kontrolować zużycie baterii, optymalizować gry, zarządzać aplikacjami i nie tylko.</string>
+  <string name="cta_main_purpose">Witaj w Panelu sterowania! Możesz użyć tej aplikacji oraz jej modułów (np. komponentów bezpieczeństwa czy usług systemowych MIUI), aby zwolnić miejsce, skanować urządzenie w poszukiwaniu wirusów, kontrolować użycie baterii, optymalizować gry, zarządzać aplikacjami i nie tylko.</string>
   <string name="cta_settings">Zezwól na łączność z siecią i dostęp do lokalizacji</string>
   <string name="current_network_state_not_need_diagnose">Sieć działa poprawnie</string>
   <string name="customize_limit_pkg">%s (własne)</string>
@@ -1737,7 +1737,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_summary_garbage_cleanup_new">%d%% zajętej przestrzeni</string>
   <string name="menu_summary_networkassistants">Zarządzaj planem danych</string>
   <string name="menu_summary_networkassistants_2">Ponad limit</string>
-  <string name="menu_summary_networkassistants_3">Zużycie danych w normie</string>
+  <string name="menu_summary_networkassistants_3">użycie danych w normie</string>
   <string name="menu_summary_networkassistants_4">Kończy się pakiet danych</string>
   <string name="menu_summary_power_manager">Oszczędzanie baterii</string>
   <string name="menu_summary_power_manager_1">Bateria naładowana</string>
@@ -1859,7 +1859,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="note_preference_delete">Tryb w użyciu. Nie może być usunięty</string>
   <string name="note_sms_none">Brak wiadomości do edycji</string>
   <string name="notification_battery_consume_abnormal_summary">Użyto %2$s baterii w ciągu ostatnich %1$d minut</string>
-  <string name="notification_battery_consume_abnormal_title">Wysokie zużycie energii</string>
+  <string name="notification_battery_consume_abnormal_title">Wysokie użycie energii</string>
   <string name="notification_battery_over_heat_summary">Sprawdź, co powoduje wzrost temperatury i usuń problem</string>
   <string name="notification_battery_over_heat_title">Aktualna temperatura %d℃</string>
   <string name="notification_battery_scan_consume_abnormal_title_set">%s drenuje baterię</string>
@@ -2058,7 +2058,7 @@ Jego aktywność skraca żywotność baterii."</string>
   <string name="path_networkassistant_4">Systemowe/Panel Sterowania/Monitor danych/Diagnozuj sieć</string>
   <string name="path_payment_security">Systemowe/Panel Sterowania/Bezpieczeństwo płatności</string>
   <string name="path_permcenter">Systemowe/Panel Sterowania/Uprawnienia</string>
-  <string name="path_powercenter">Systemowe/Panel Sterowania/Zużycie baterii</string>
+  <string name="path_powercenter">Systemowe/Panel Sterowania/użycie baterii</string>
   <string name="path_powercenter_powerrank">Bateria i wydajność/Użycie baterii</string>
   <string name="path_securitycenter">Systemowe/Panel Sterowania</string>
   <string name="path_securitycenter_settings">Systemowe/Panel Sterowania</string>
@@ -2090,13 +2090,13 @@ Jego aktywność skraca żywotność baterii."</string>
   <string name="pc_main_sub_battery_text_hour_minute">Pozostało %1$s godz. %2$s min</string>
   <string name="pc_search_keywords_battery">Bateria</string>
   <string name="pc_search_keywords_battery_save">Oszczędzanie baterii</string>
-  <string name="pc_search_keywords_battery_use">Zużycie baterii</string>
+  <string name="pc_search_keywords_battery_use">użycie baterii</string>
   <string name="pc_search_keywords_capacity">Pojemność baterii</string>
   <string name="pc_search_keywords_property">Wydajność</string>
   <string name="pc_statistics_battery_last_hour_minute">Pozostało %1$d godz. %2$d min</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$d godz. %2$d min od ostatniego naładowania</string>
   <string name="pc_statistics_battery_use_summary">%s od ostatniego naładowania</string>
-  <string name="pc_statistics_battery_use_title">Zużycie baterii</string>
+  <string name="pc_statistics_battery_use_title">użycie baterii</string>
   <string name="pc_to_phone_install">Zablokowano %s instalacji przez USB</string>
   <string name="per_month_pkg_traffic_settings">Limit miesięcznej transmisji</string>
   <string name="percentage">%d%%</string>
@@ -2308,7 +2308,7 @@ Jego aktywność skraca żywotność baterii."</string>
   <string name="power_setting_background_app_save_summary">Ogranicz aktywność aplikacji w tle bez wpływu na funkcjonalność</string>
   <string name="power_setting_scenario_policies_summary">Rozpoznawaj plany, aby automatycznie przełączać się pomiędzy trybami oszczędzania baterii</string>
   <string name="power_setting_warm_configure">Kontrola temperatury</string>
-  <string name="power_setting_warm_performance_tip">Plany wymagające wysokiego zużycia energii zwiększą temperaturę urządzenia powyżej poziomów domyślnego trybu kontroli temperatury.</string>
+  <string name="power_setting_warm_performance_tip">Plany wymagające wysokiego użycia energii zwiększą temperaturę urządzenia powyżej poziomów domyślnego trybu kontroli temperatury.</string>
   <string name="power_setting_wireless_reverse_charging_summary">Ładuj kompatybilne urządzenia bezprzewodowo</string>
   <string name="power_setting_wireless_reverse_charging_title">Bezprzewodowe ładowanie zwrotne</string>
   <string name="power_settings_category_title">Wskaźnik baterii</string>
@@ -2329,8 +2329,8 @@ Jego aktywność skraca żywotność baterii."</string>
   <string name="pref_adjust_data_usage_value">Zmieniono</string>
   <string name="pref_adjust_traffic_data">Dostosuj użycie danych</string>
   <string name="pref_allow_connect_network_title">Przesył danych podczas roamingu</string>
-  <string name="pref_auto_adjust_settings">Ustawienia automatycznego dostosowania statystk zużycia danych</string>
-  <string name="pref_auto_adjust_traffic">Automatycznie dostosuj statystki zużycia danych</string>
+  <string name="pref_auto_adjust_settings">Ustawienia automatycznego dostosowania statystk użycia danych</string>
+  <string name="pref_auto_adjust_traffic">Automatycznie dostosuj statystki użycia danych</string>
   <string name="pref_automatic_adjust">Statystyki synchronizacji</string>
   <string name="pref_avaible_traffic">Plan taryfowy</string>
   <string name="pref_bg_network_title">Łączność w tle</string>
@@ -2431,7 +2431,7 @@ Jego aktywność skraca żywotność baterii."</string>
   <string name="privacy_description_camera">Aplikacja %1s używa aparatu w tle. Możesz użyć przełącznika poniżej, aby ograniczyć tą aktywność.</string>
   <string name="privacy_description_camera_mic">Aplikacja %1s używa aparatu i mikrofonu w tle. Możesz użyć przełącznika poniżej, aby ograniczyć tą aktywność.</string>
   <string name="privacy_description_mic">Aplikacja %1s używa mikrofonu w tle. Możesz użyć przełącznika poniżej, aby ograniczyć tą aktywność.</string>
-  <string name="privacy_dialog_message">Po podłączeniu do internetu, ta wiadomość wraz z informacją operatora zostanie zaszyfrowana i wysłana na serwery Xiaomi, aby pomóc ulepszyć monitorowanie zużycia danych.</string>
+  <string name="privacy_dialog_message">Po podłączeniu do internetu, ta wiadomość wraz z informacją operatora zostanie zaszyfrowana i wysłana na serwery Xiaomi, aby pomóc ulepszyć monitorowanie użycia danych.</string>
   <string name="privacy_mode_dialog_title">Gość</string>
   <string name="privacy_notification_subtitle">Kliknij, aby zarządzać uprawnieniami</string>
   <string name="privacy_notification_title_camera">Aplikacja %1s używa aparatu w tle</string>
@@ -3250,7 +3250,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="vtb_func_desc">O tej funkcji</string>
   <string name="vtb_func_display_style_desc1">"Wybrane efekty nie zostaną zastosowane do filmów z HDR na wybranych urządzeniach."</string>
   <string name="vtb_func_display_style_desc2">"Te efekty nie mogą zostać zastosowane do zrzutów ekranu."</string>
-  <string name="vtb_func_frc_desc0">Ta funkcja ogranicza rozmycie i dodaje detale na poruszających się obiektach. Wymaga ona większego zużycia energii.</string>
+  <string name="vtb_func_frc_desc0">Ta funkcja ogranicza rozmycie i dodaje detale na poruszających się obiektach. Wymaga ona większego użycia energii.</string>
   <string name="vtb_func_frc_desc1">"Funkcja nie działa w określonych warunkach:"</string>
   <string name="vtb_func_frc_desc2">Gdy rozdzielczość jest wyższa niż 1080p</string>
   <string name="vtb_func_frc_desc3">Gdy częstotliwość odświeżania jest wyższa niż 30 kl./s</string>
@@ -3318,8 +3318,8 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="extreme_power_save_mode_card_summary">Włącz Ekstremalne oszczędzanie w celu zachowania energii, gdy bateria jest słaba.</string>
   <string name="handle_title_abnormal">Drenujące baterię</string>
   <string name="handle_title_app">Aplikacje</string>
-  <string name="handle_title_details">Szczegóły zużycia baterii</string>
-  <string name="handle_title_system">Zużycie baterii przez system</string>
+  <string name="handle_title_details">Szczegóły użycia baterii</string>
+  <string name="handle_title_system">użycie baterii przez system</string>
   <string name="hide_mode_result_summary_text">Utwórz własne ustawienia Oszczędzania baterii dla każdej aplikacji</string>
   <string name="pc_main_activity_back">Wstecz</string>
   <string name="pc_settings_title">Ustawienia baterii</string>
@@ -3334,7 +3334,7 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="power_center_scan_item_title_abnormal_apps">Aplikacje nadmiernie zużywające energię</string>
   <string name="power_center_scan_item_title_auto_invoke">Uruchamianie łańcuchowe</string>
   <string name="power_center_scan_item_title_auto_start">Autostart</string>
-  <string name="power_center_scan_item_title_battery_details">Szczegóły zużycia baterii</string>
+  <string name="power_center_scan_item_title_battery_details">Szczegóły użycia baterii</string>
   <string name="power_center_scan_item_title_brightness">Ustaw jasność ekranu</string>
   <string name="power_center_scan_item_title_clean_memory">Wyczyść pamięć</string>
   <string name="power_center_scan_item_title_hide">Zarządzaj użyciem baterii</string>
@@ -3395,11 +3395,11 @@ Your carrier's data usage accounting shows you have %1$s of peak usage remaining
   <string name="not_set">Dotknij, aby ustawić</string>
   <string name="optional_permissions">Opcjonalne uprawnienia</string>
   <string name="optional_permissions_desc">"Te uprawnienia są wymagane, gdy korzystasz z dodatkowych funkcji."</string>
-  <string name="pc_battery_history_consumption_percent_title">Procent zużycia energii</string>
+  <string name="pc_battery_history_consumption_percent_title">Procent użycia energii</string>
   <string name="pc_battery_history_idletime_title">Tryb czuwania</string>
-  <string name="pc_battery_history_item_chart">Wykres zużycia energii</string>
-  <string name="pc_battery_history_item_histogram">Szczególy zużycia energii</string>
-  <string name="pc_battery_history_total_consumption_title">Łączne zużycie energii</string>
+  <string name="pc_battery_history_item_chart">Wykres użycia energii</string>
+  <string name="pc_battery_history_item_histogram">Szczególy użycia energii</string>
+  <string name="pc_battery_history_total_consumption_title">Łączne użycie energii</string>
   <string name="pc_battery_history_usetime_title">Aktywne użytkowanie</string>
   <string name="perm_intercept_content">Nadać tej aplikacji następujące uprawnienia: %1s?</string>
   <string name="perm_intercept_notification_title">Zezwolenie %1s na używanie powiadomień pozwoli tej aplikacji wykonać następujące działania:</string>
@@ -3708,8 +3708,8 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="gb_gpu_driver_update_app">Zaktualizuj</string>
   <string name="gb_gpu_driver_update_app_tips">Wersja jest aktualna</string>
   <string name="vtb_function_video_translation">Tłumaczenie na żywo</string>
-  <string name="network_traffic_warning_text">"MIUI nie może tutaj obliczyć statystyk zużycia danych dla poszczególnych aplikacji systemowych. W przypadku aplikacji korzystającej z danych mobilnych będzie można zobaczyć informacje o wykorzystaniu danych w szczegółach aplikacji."</string>
-  <string name="network_traffic_warning_title">Zużycie danych przez aplikacje systemowe</string>
+  <string name="network_traffic_warning_text">"MIUI nie może tutaj obliczyć statystyk użycia danych dla poszczególnych aplikacji systemowych. W przypadku aplikacji korzystającej z danych mobilnych będzie można zobaczyć informacje o wykorzystaniu danych w szczegółach aplikacji."</string>
+  <string name="network_traffic_warning_title">użycie danych przez aplikacje systemowe</string>
   <string name="activity_title_risk_app_install_manager">Aplikacje z potencjalnym ryzykiem</string>
   <string name="risk_app_install_agree_button">Ufaj tej aplikacji</string>
   <string name="risk_app_install_agree_checkbox">"Zrozumiałem, chcę ponieść ryzyko."</string>
@@ -3803,7 +3803,7 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="set_location">Ustaw lokalizację</string>
   <string name="set_package_tips">"Xiaomi wyśle darmowy SMS do Twojego operatora w celu sprawdzenia Twojego planu danych. Dostarczone przez Ciebie informacje zostaną zaszyfrowane i wysłane na serwery Xiaomi w celu ich przetworzenia."</string>
   <string name="set_package_tips_detail">"Informacje wysłane na serwery Xiaomi uwzględniają szczegóły dot. operatora, a także Twój numer telefonu, IMEI oraz ID konta Xiaomi."</string>
-  <string name="set_traffic_tips">Ustaw swój plan danych, aby zarządzać zużyciem danych mobilnych i uniknąć dodatkowych opłat od operatora</string>
+  <string name="set_traffic_tips">Ustaw swój plan danych, aby zarządzać użyciem danych mobilnych i uniknąć dodatkowych opłat od operatora</string>
   <string name="traffic_calculation">Użyj cyklu dziennego</string>
   <string name="traffic_limit_input">Limit danych (obowiązkowy)</string>
   <string name="unknown_package">Nie wiesz, jaki jest Twój plan?</string>
@@ -3853,7 +3853,7 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="permission_instruction_read_write_calendar">Te uprawnienie zezwala aplikacjom na dostęp do Twojego kalendarza. Mogą one również odczytywać, dodawać, usuwać, edytować, udostępniać i zapisywać wydarzenia w kalendarzu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu wysłania wiadomości pochodzących rzekomo od Ciebie lub edytowania wydarzeń z kalendarza bez Twojej zgody.</string>
   <string name="permission_instruction_receive_mms">>Te uprawnienie zezwala aplikacjom na odczyt wszystkich MMS-ów znajdujących się na urządzeniu bądź karcie SIM. Mogą one zawierać m.in. hasła, kody jednorazowe, dane dot. konta w banku czy inne osobiste dane.</string>
   <string name="permission_instruction_record_audio">"Te uprawnienie zezwala aplikacjom na korzystanie z mikrofonu w celu nagrania dźwięku. Pamiętaj jednak, że to uprawnienie zezwala aplikacjom na nagranie wszystkiego, co dzieje się w Twoim otoczeniu, włącznie z Twoimi rozmowami z innymi osobami. Najlepszą opcją jest zezwolenie aplikacjom na korzystanie z tego uprawnienia wyłącznie wtedy, gdy ich rzeczywiście używasz."</string>
-  <string name="permission_instruction_running_background">Te uprawnienie zezwala aplikacjom na działanie w tle. Aplikacje mogą wtedy gromadzić dane i dostarczać swoje usługi. Zwiększa to zużycie energii.</string>
+  <string name="permission_instruction_running_background">Te uprawnienie zezwala aplikacjom na działanie w tle. Aplikacje mogą wtedy gromadzić dane i dostarczać swoje usługi. Zwiększa to użycie energii.</string>
   <string name="permission_instruction_running_exceed_data">Te uprawnienie zezwala aplikacjom na zignorowanie limitów dot. użycia danych mobilnych.</string>
   <string name="permission_instruction_send_mms">Te uprawnienie zezwala aplikacjom na wysyłanie MMS-ów, co może generować dodatkowe opłaty od operatora. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu wysłania płatnych wiadomości bez Twojej zgody.</string>
   <string name="permission_instruction_send_payment_sms">Te uprawnienie zezwala aplikacjom na wysyłanie płatnych SMS-ów.</string>
@@ -3956,7 +3956,7 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
   <string name="network_disable_dialog_btn_text">Rozumiem</string>
   <string name="network_disable_dialog_content">Urządzenie musi połączyć się z siecią, aby móc wycofać zgodę. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
   <string name="network_disable_dialog_title">"Nie można połączyć się z siecią"</string>
-  <string name="privacy_dialog_content_part1">Witaj w Panelu sterowania! Sprawdza on Twoje urządzenie pod kątem śmieci i wirusów, a także pozwala na zarządzanie aplikacjami, kontrolowanie zużycia danych przez nie, blokowanie połączeń oraz wiadomości i wiele innych rzeczy.</string>
+  <string name="privacy_dialog_content_part1">Witaj w Panelu sterowania! Sprawdza on Twoje urządzenie pod kątem śmieci i wirusów, a także pozwala na zarządzanie aplikacjami, kontrolowanie użycia danych przez nie, blokowanie połączeń oraz wiadomości i wiele innych rzeczy.</string>
   <string name="privacy_dialog_content_part2"><Data>Aplikacja musi gromadzić niezbędne dane o Tobie, aby dostarczać Ci jej usługi i móc je ulepszać. Możesz dowiedzieć się, jak Xiaomi przetwarza gromadzone informacje, z &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>. Możesz cofnąć swoją zgodę na jej warunki w Ustawieniach w dowolnym momencie.</Data></string>
   <string name="privacy_dialog_content_part3"><Data>"Przeczytaj i zaakceptuj warunki &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> przed skorzystaniem z Panelu sterowania. Jeśli nie zgodzisz się na użycie wspomnianych usług, nie będzie można korzystać z niektórych funkcji aplikacji. Jej podstawowa funkcjonalność nadal będzie dostępna."</Data></string>
   <string name="privacy_dialog_revoking">Wycofywanie zgody…</string>
@@ -4118,21 +4118,21 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="abnormal_consume_disable_autostart">Ogranicz autostart</string>
     <string name="abnormal_consume_disable_autostart_toast">Pomyślnie ograniczono autostart</string>
     <string name="abnormal_consume_set_hidemode">Użyj Oszczędzania baterii dla tej aplikacji</string>
-    <string name="abnormal_consume_type_cpu">Wysokie zużycie procesora</string>
+    <string name="abnormal_consume_type_cpu">Wysokie użycie procesora</string>
     <string name="abnormal_consume_type_wakelock">"System nie może przejść w tryb uśpienia"</string>
     <string name="notification_abnormal_check_button">Zobacz</string>
     <string name="notification_abnormal_check_now_button">Zobacz</string>
     <string name="notification_abnormal_consume_app_title">%s drenuje baterię</string>
     <string name="notification_abnormal_consume_cpu">Wątki procesora są wykorzystywane w tle</string>
     <string name="notification_abnormal_consume_wakelock">System jest wybudzony w tle</string>
-    <string name="notification_power_consume_issue_summary">Wysokie zużycie energii</string>
+    <string name="notification_power_consume_issue_summary">Wysokie użycie energii</string>
     <string name="notification_power_consume_suggest_summary">Napraw problemy, aby zaoszczędzić baterię</string>
     <string name="pc_battery_history_battery_software_menu_item">System</string>
     <string name="pc_battery_history_consume_all_menu_item">Wszystko</string>
     <string name="pc_battery_history_consume_hardware_menu_item">Sprzęt</string>
-    <string name="power_center_abnormal_consume_analysis">Anormalności w zużyciu energii</string>
+    <string name="power_center_abnormal_consume_analysis">Anormalności w użyciu energii</string>
     <string name="power_center_battery_all">Wszystko</string>
-    <string name="power_center_battery_app_detail">Zużycie baterii przez aplikację</string>
+    <string name="power_center_battery_app_detail">użycie baterii przez aplikację</string>
     <string name="power_center_battery_charge_night">Zaoszczędź baterię w trakcie ładowania w nocy</string>
     <string name="power_center_battery_charge_times">Ładowano dzisiaj</string>
     <string name="power_center_battery_chargefull_time">Do pełnego naładowania</string>
@@ -4145,10 +4145,10 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="power_center_battery_status">Kondycja baterii</string>
     <string name="power_center_battery_temperature">Temperatura</string>
     <string name="power_center_battery_used_time">Na baterii</string>
-    <string name="power_center_batteryrank_all">Pełne zużycie baterii</string>
-    <string name="power_center_batteryrank_hardware">Zużycie baterii przez sprzęt %s</string>
-    <string name="power_center_batteryrank_software">Zużycie baterii przez system %s</string>
-    <string name="power_center_batteryscan_normal">Brak problemów z zużyciem baterii. Zobacz rezultaty.</string>
+    <string name="power_center_batteryrank_all">Pełne użycie baterii</string>
+    <string name="power_center_batteryrank_hardware">użycie baterii przez sprzęt %s</string>
+    <string name="power_center_batteryrank_software">użycie baterii przez system %s</string>
+    <string name="power_center_batteryscan_normal">Brak problemów z użyciem baterii. Zobacz rezultaty.</string>
     <string name="power_center_charge_status">Ładowanie</string>
     <string name="power_center_consume_fast">Drenowanie baterii</string>
     <string name="power_center_list_item_haptic_feedback_summary">"Gestom oraz przyciskom nie będzie towarzyszyć wibracja"</string>
@@ -4194,8 +4194,8 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="power_optimize_set_lockscreen_time_holder">Blokuj urządzenie po %d sek. nieaktywności</string>
     <string name="special_perm_above_msg">Zezwól aplikacjom na wyświetlanie elementów nad innymi aplikacjami</string>
     <string name="special_perm_above_title">Wyświetlaj elementy nad innymi aplikacjami</string>
-    <string name="special_perm_allow_running_msg">Zezwól aplikacjom na ignorowanie limitów zużycia danych mobilnych</string>
-    <string name="special_perm_allow_running_title">Ignoruj limity zużycia danych</string>
+    <string name="special_perm_allow_running_msg">Zezwól aplikacjom na ignorowanie limitów użycia danych mobilnych</string>
+    <string name="special_perm_allow_running_title">Ignoruj limity użycia danych</string>
     <string name="special_perm_app_msg">Zezwól aplikacjom na określanie, czy powinny być one używane tylko jako aplikacje służbowe</string>
     <string name="special_perm_app_title">Powiąż aplikacje służbowe z osobistymi</string>
     <string name="special_perm_control_notice_msg">Zezwól aplikacjom na odczyt i kontrolowanie powiadomień</string>
@@ -4253,8 +4253,8 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="special_perm_note_title">Wysyłanie płatnych SMS-ów</string>
     <string name="special_perm_notice_msg">Zezwól aplikacjonm na dynamiczne zarządzanie powiadomieniami</string>
     <string name="special_perm_notice_title">Zarządzanie powiadomieniami</string>
-    <string name="special_perm_power_msg">Zezwól aplikacjom na optymalizację zużycia baterii w tle</string>
-    <string name="special_perm_power_title">Optymalizacja zużycia baterii</string>
+    <string name="special_perm_power_msg">Zezwól aplikacjom na optymalizację użycia baterii w tle</string>
+    <string name="special_perm_power_title">Optymalizacja użycia baterii</string>
     <string name="special_perm_virtual_msg">Zezwól aplikacjom na zarządzanie Twoim wirtualnym identyfikatorem</string>
     <string name="special_perm_virtual_title">Zarządzanie wirtualnym identyfikatorem</string>
     <string name="special_perm_vr_msg">Zezwól aplikacjom na używanie asystenta wirtualnej rzeczywistości</string>
@@ -4341,7 +4341,7 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="vb_video_super_division">Skaluj rozdzielczość</string>
     <string name="vb_video_super_division_desc">"Skaluj rozdzielczość w górę automatycznie, gdy jest ona niższa bądź równa 720p.
 
-Funkcja zwiększa zużycie energii.
+Funkcja zwiększa użycie energii.
 
 Nie działa ona z interpolowaniem obrazu.
 Włączenie jednej z funkcji wyłączy wszystkie inne."</string>
@@ -4396,7 +4396,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="vb_video_effects_dolby_headset">" (tylko słuchawki)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos wł.</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Szersze stereo</string>
-    <string name="view_traffic_details">Wyświetl statystyki zużycia danych</string>
+    <string name="view_traffic_details">Wyświetl statystyki użycia danych</string>
     <string name="battery_low_percent_format_save_mode_closed_new_version">Poziom baterii jest niski. Naładuj urządzenie.</string>
     <string name="battery_low_percent_format_save_mode_open_new_version">Włącz Oszczędzanie baterii, aby zyskać %s.</string>
     <string name="exo_controls_cc_disabled_description">Włącz napisy</string>
@@ -4496,7 +4496,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="app_behavior_record_setting_show_system_title">Wyświetlaj zachowania usług systemowych</string>
     <string name="app_behavior_record_setting_title">Rekordy zachowań aplikacji</string>
     <string name="cetus_invisible_mode_warn_open">Tryb incognito zawiesza uprawnienia dot. mikrofonu, aparatu i lokalizacji dla wszystkich aplikacji. Włączyć ten tryb teraz?</string>
-    <string name="network_assistant_privacy">Aby śledzić zużycie danych przez aplikację, Xiaomi gromadzi informacje takie jak nazwy pakietów, zużycie danych przez Wi-Fi i dane komórkowe, szczytowe i pozaszczytowe zużycie danych oraz czas włączania i wyłączania Wi-Fi oraz danych mobilnych. Te dane są gromadzone lokalnie na urządzeniu.</string>
+    <string name="network_assistant_privacy">Aby śledzić użycie danych przez aplikację, Xiaomi gromadzi informacje takie jak nazwy pakietów, użycie danych przez Wi-Fi i dane komórkowe, szczytowe i pozaszczytowe użycie danych oraz czas włączania i wyłączania Wi-Fi oraz danych mobilnych. Te dane są gromadzone lokalnie na urządzeniu.</string>
     <string name="privacy_global_guide_permission_guide_text">"Otrzymasz alert w pasku statusu, gdy aplikacje nagrywają dźwięk lub używają aparatu. Aby dowiedzieć się, jaka aplikacja korzysta z tych uprawnień, dotknij alert."</string>
     <string name="privacy_hide_other_permissions">Ukryj inne uprawnienia</string>
     <string name="privacy_show_other_permissions">Pokaż inne uprawnienia</string>
@@ -4569,7 +4569,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="pc_hidemode_performance">Wydajność</string>
     <string name="pc_hidemode_performance_title">Tryb wydajności</string>
     <string name="pc_hidemode_power_save">Bateria</string>
-    <string name="pc_performance_mode_dialog_summary">W Trybie wydajności Twoje urządzenie będzie mogło działać przez %s. Zwiększa on jednak zużycie energii i może powodować przegrzewanie się urządzenia.</string>
+    <string name="pc_performance_mode_dialog_summary">W Trybie wydajności Twoje urządzenie będzie mogło działać przez %s. Zwiększa on jednak użycie energii i może powodować przegrzewanie się urządzenia.</string>
     <string name="pc_performance_mode_dialog_title">Tryb wydajności</string>
     <string name="app_predict_dialog_button">Dodaj na pulpit</string>
     <string name="app_predict_dialog_message">SI zasugeruje aplikacje, które w danej chwili potrzebujesz</string>
@@ -4665,8 +4665,8 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gtb_setting_item_title_brightness">Automatycznie obniżaj jasność ekranu</string>
     <string name="pc_hidemode_normal_title">Zbalansowane</string>
     <string name="applock_numeric_pwd_type_line">Łącznie cyfr w haśle: %1$d. Wprowadzono: %2$d.</string>
-    <string name="pc_performance_mode_dialog_summary2">Powinna się poprawić wydajność urządzenia. Spowoduje to jednak zwiększenie zużycia baterii i może doprowadzić do przegrzewania się urządzenia. Włączyć mimo to?</string>
-    <string name="pc_performance_mode_noti_summary">Tryb wydajności może zwiększyć zużycie baterii i prowadzić do problemów z przegrzewaniem się</string>
+    <string name="pc_performance_mode_dialog_summary2">Powinna się poprawić wydajność urządzenia. Spowoduje to jednak zwiększenie użycia baterii i może doprowadzić do przegrzewania się urządzenia. Włączyć mimo to?</string>
+    <string name="pc_performance_mode_noti_summary">Tryb wydajności może zwiększyć użycie baterii i prowadzić do problemów z przegrzewaniem się</string>
     <string name="pc_performance_mode_noti_title">Poprawiona wydajność urządzenia</string>
     <string name="pp_anti_track_summary">"Nie zezwalaj na śledzenie Twojej aktywności"</string>
     <string name="pp_antitrack_detail">Aplikacje mogą śledzić Twoje działania poprzez osobiste identyfikatory, informacje o lokalizacji i inne typy informacji udostępnianych im. Śledzenie aktywności w różnych aplikacjach i na stronach internetowych pozwala im na personalizowanie reklam i rekomendowanie treści odpowiednich dla Ciebie.</string>
@@ -4825,7 +4825,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gb_performance_high">Wydajność</string>
     <string name="gb_performance_mode">Tryb gry</string>
     <string name="gb_performance_tips">"Tryb wydajności polepsza grafikę,
-ale zwiększa zużycie baterii i umożliwia przegrzewanie się urządzenia"</string>
+ale zwiększa użycie baterii i umożliwia przegrzewanie się urządzenia"</string>
     <string name="gb_turbo_collimator_subtitle">Ułatw sobie celowanie</string>
     <string name="gb_turbo_macro_subtitle">Automatyzuj działania</string>
     <string name="gb_turbo_new_flag">NOWE</string>
@@ -5235,12 +5235,12 @@ Wycofać zgodę?"</string>
     <string name="gd_splite_screen_tips">"Dzielony ekran nie wspiera pływających okien"</string>
     <string name="pc_battery_chart_loading">Chwileczkę…</string>
     <string name="vb_video_effects_3d_summary_headset">Zwiększenie poczucia immersji i otoczki podczas słuchania dźwięku w słuchawkach</string>
-    <string name="compatible_dialog_content">"Ta aplikacja nie jest w pełni kompatybilna z architekturą 64-bitową. W trakcie korzystania z niej możesz doświadczać problemów z wydajnością i zwiększonym zużyciem energii."</string>
+    <string name="compatible_dialog_content">"Ta aplikacja nie jest w pełni kompatybilna z architekturą 64-bitową. W trakcie korzystania z niej możesz doświadczać problemów z wydajnością i zwiększonym użyciem energii."</string>
     <string name="compatible_dialog_more_info">Dowiedz się więcej</string>
     <string name="compatible_dialog_title">Uwaga</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Blokuj usługi związane z łącznością na drugiej karcie SIM w trakcie grania, aby zapewnić stabilne połączenie i uniknąć przełączania się pomiędzy sieciami. Gdy skończysz grać, druga karta SIM zostanie odblokowana.</string>
     <string name="gtb_setting_item_title_disable_ndds_sim">Blokuj drugą kartę SIM</string>
-    <string name="power_center_speed_mode_dialog_text">Tryb prędkości przyspiesza wydajność urządzenia, zwiększając zużycie energii i pozwalając na jego przegrzewanie się. Unikaj korzystania z tego trybu przez dłuższy czas.</string>
+    <string name="power_center_speed_mode_dialog_text">Tryb prędkości przyspiesza wydajność urządzenia, zwiększając użycie energii i pozwalając na jego przegrzewanie się. Unikaj korzystania z tego trybu przez dłuższy czas.</string>
     <string name="power_center_speed_mode_dialog_title">Tryb prędkości</string>
     <string name="power_center_speed_mode_dialog_warning">Tryb prędkości zostanie automatycznie wyłączony, gdy poziom baterii będzie niższy niż %s.</string>
     <string name="power_center_speed_mode_enter_noti_btn_text">Wyłącz</string>
@@ -5254,7 +5254,7 @@ Wycofać zgodę?"</string>
     <string name="power_center_speed_mode_progress_free_game_limit">Popraw wydajność grafiki</string>
     <string name="power_center_speed_mode_progress_free_processor_performance">Przyspiesz działanie procesora</string>
     <string name="power_center_speed_mode_progress_max_refresh_rate">Zwiększ częstotliwość odświeżania</string>
-    <string name="power_center_speed_mode_summary">Przedkładanie wydajności nad zużycie energii i kontrolę temperatury</string>
+    <string name="power_center_speed_mode_summary">Przedkładanie wydajności nad użycie energii i kontrolę temperatury</string>
     <string name="power_center_speed_mode_title">Tryb prędkości</string>
     <string name="power_center_speed_mode_toast_open_fail">"Nie można włączyć Trybu prędkości, gdy poziom baterii jest niższy niż %s"</string>
     <string name="power_center_speed_mode_toast_text">Włączono Tryb prędkości</string>
@@ -5276,7 +5276,7 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="st_title_keywords_list">Lista słów kluczowych</string>
     <string name="gamebox_bullet_chat">Komentarze na ekranie</string>
     <string name="gb_dialog_record_way_manual_desc" formatted="false">Ręcznie zarejestruj wideo z rozgrywki trwające od %d do %d sekund.</string>
-    <string name="gb_dialog_record_way_setting_tip_one">Zwiększone zużycie energii i lagowanie</string>
+    <string name="gb_dialog_record_way_setting_tip_one">Zwiększone użycie energii i lagowanie</string>
     <string name="gb_dialog_record_way_setting_tip_title">Ta funkcja może powodować następujące problemy:</string>
     <string name="gb_dialog_record_way_setting_tip_two">Konflikty z innymi aplikacjami nagrywającymi ekran</string>
     <string name="gb_game_video_save_tip">Pomyślnie zapisano</string>
@@ -5316,7 +5316,7 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gtb_memory_clean">Wyczyść pamięć</string>
     <string name="gtb_mode_normal">Normalny</string>
     <string name="gtb_mode_performance">Wydajność</string>
-    <string name="gtb_open_performance_mode_tip">Tryb wydajności poprawi wrażenia z grania, ale zwiększy zużycie energii i spowoduje nagrzewanie się urządzenia.</string>
+    <string name="gtb_open_performance_mode_tip">Tryb wydajności poprawi wrażenia z grania, ale zwiększy użycie energii i spowoduje nagrzewanie się urządzenia.</string>
     <string name="gtb_phone_accelerate">Przyspiesz pracę</string>
     <string name="gtb_realtime_performance_monitoring">Monitoruj wydajność</string>
     <string name="gtb_screenrecord">Nagraj</string>
@@ -5352,7 +5352,7 @@ Twoje urządzenie działa teraz %s szybciej."</string>
     <string name="click_to_set_personalized_reminder">Ustaw ostrzeżenia</string>
     <string name="click_to_set_traffic">Dotknij, aby ustawić</string>
     <string name="confirm_close">Wyłącz</string>
-    <string name="daily_package_reminder_character">Ustaw dzienny limit zużycia danych, aby otrzymać ostrzeżenie w razie jego przekroczenia.</string>
+    <string name="daily_package_reminder_character">Ustaw dzienny limit użycia danych, aby otrzymać ostrzeżenie w razie jego przekroczenia.</string>
     <string name="daily_remind_warning_text_tips">Ostrzeż, gdy przekroczę limit</string>
     <string name="daily_reminder_warning">Dzienny limit danych</string>
     <string name="daily_reminder_warning_necessary">Dzienny limit danych (wymagane)</string>
@@ -5383,16 +5383,16 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="main_daily_card_guide_dialog_summary_new">Wspierane są dzienne, miesięczne i nielimitowane plany danych. Ustawić typ planu?</string>
     <string name="main_daily_card_guide_dialog_title_new">Ustaw typ planu danych</string>
     <string name="month_fix_remind_warning_text_tips">Ostrzegaj, gdy zostanie wykorzystana stała miesięczna ilość danych</string>
-    <string name="month_package_reminder_character">"Używanie ostrzeżeń dot. zużycia danych dla nielimitowanych planów danych nadal wymaga ustawienia limitu danych. Otrzymasz ostrzeżenie, gdy zostanie on przekroczony."</string>
+    <string name="month_package_reminder_character">"Używanie ostrzeżeń dot. użycia danych dla nielimitowanych planów danych nadal wymaga ustawienia limitu danych. Otrzymasz ostrzeżenie, gdy zostanie on przekroczony."</string>
     <string name="month_reminder_warning">Miesięczny limit danych</string>
     <string name="month_reminder_warning_necessary">Miesięczny limit danych (wymagane)</string>
-    <string name="no_sim_card_by_tips">Aby móc ustawić stan konta i ostrzeżenia dot. zużycia danych, włóż kartę SIM.</string>
+    <string name="no_sim_card_by_tips">Aby móc ustawić stan konta i ostrzeżenia dot. użycia danych, włóż kartę SIM.</string>
     <string name="normal_package_usage_summary" formatted="false">%2s z %1s (%3s)</string>
     <string name="not_closed">Nie wyłączaj</string>
     <string name="notification_bar">Powiadomienie</string>
     <string name="open_wlan_title">Zezwól tej aplikacji na włączanie i wyłączanie Wi-Fi</string>
     <string name="operator_location_settings">Ustaw operatora i lokalizację</string>
-    <string name="operator_location_settings_message">"Nie udało się rozpoznać Twojego operatora i lokalizacji. Nie można ustawić teraz stanu konta i ostrzeżeń dot. zużycia danych."</string>
+    <string name="operator_location_settings_message">"Nie udało się rozpoznać Twojego operatora i lokalizacji. Nie można ustawić teraz stanu konta i ostrzeżeń dot. użycia danych."</string>
     <string name="privacy_flares_behavior_recent">Zachowania aplikacji</string>
     <string name="privacy_flares_capsule_current">%1s | Teraz</string>
     <string name="privacy_flares_capsule_recent">%1s | Ostatnio</string>
@@ -5433,13 +5433,13 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="storage_system_memory_expansion">Rozszerzenie pamięci</string>
     <string name="storage_system_memory_expansion_tip">Zwiększ ilość pamięci RAM, zajmując pamięć wewnętrzną</string>
     <string name="storage_system_other_tip">Dane niezbędne do działania systemu (rozmiar może się zmieniać z czasem)</string>
-    <string name="tips_by_auto_close">Aby móc ustawić stan konta i ostrzeżenia dot. zużycia danych, musisz automatycznie synchronizować statystyki operatora. Włączyć synchronizację?</string>
-    <string name="tips_by_reminder_function">"Jeśli wyłączysz synchronizację, nie będzie można otrzymywać stanu konta i ostrzeżeń dot. zużycia danych."</string>
+    <string name="tips_by_auto_close">Aby móc ustawić stan konta i ostrzeżenia dot. użycia danych, musisz automatycznie synchronizować statystyki operatora. Włączyć synchronizację?</string>
+    <string name="tips_by_reminder_function">"Jeśli wyłączysz synchronizację, nie będzie można otrzymywać stanu konta i ostrzeżeń dot. użycia danych."</string>
     <string name="traffic_advanced_settings">Zaawansowane ustawienia dot. danych</string>
     <string name="traffic_alarm">Ustaw alarm</string>
-    <string name="traffic_remind">Ostrzeżenie dot. zużycia danych</string>
-    <string name="traffic_remind_switch">Ostrzeżenie dot. zużycia danych</string>
-    <string name="traffic_reminder_settings">Ustaw ostrzeżenie dot. zużycia danych</string>
+    <string name="traffic_remind">Ostrzeżenie dot. użycia danych</string>
+    <string name="traffic_remind_switch">Ostrzeżenie dot. użycia danych</string>
+    <string name="traffic_reminder_settings">Ustaw ostrzeżenie dot. użycia danych</string>
     <string name="turn_off_auto_correction">Wyłączanie autom. synchronizacji</string>
     <string name="unknown_operator">"Możesz zadzwonić na numer %2$s, aby potwierdzić szczegóły planu u operatora %1$s."</string>
     <string name="ew_sleep_mode_alert_content">"Aby upewnić się, że możesz otrzymywać ostrzeżenia przed trzęsieniem ziemi, MIUI wyłączy Tryb nocny. Gdy będziesz spać, aplikacje funkcjonujące w tle, a także NFC, Bluetooth, GPS, dane mobilne i Wi-Fi będą działać normalnie. Włączyć ostrzeżenia?"</string>
@@ -5545,7 +5545,7 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="na_open_at_once">Włącz</string>
     <string name="na_query_and_correction">Sprawdź i skalibruj stan konta</string>
     <string name="na_query_and_correction_msg">"Możesz sprawdzić i skalibrować stan swojego konta oraz statystyki dot. danych mobilnych, wysyłając bezpłatny, szyfrowany SMS do swojego operatora. Nie będzie on przechowywany ani wyświetlany w aplikacji SMS.
-Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\" w każdej chwili."</string>
+Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\" w każdej chwili."</string>
     <string name="gb_performace_guide_disable_desc"><Data>"Nie można włączyć trybu zbalansowanego, gdy włączony jest systemowy Tryb wydajności. Możesz zmienić ustawienia baterii w Panelu sterowania.&lt;br>&lt;a href=\"#\">Otwórz Panel sterowania&lt;/a>"</Data></string>
     <string name="bubble_app_empty_page">"Nie znaleziono aplikacji obsługujących dymki powiadomień"</string>
     <string name="gb_performace_switch_toast">Włączono Tryb wydajności. Urządzenie może się nagrzewać i zużywać więcej energii.</string>
@@ -5611,7 +5611,7 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\
     <string name="gb_predownload_message_new">Automatycznie aktualizuj kompatybilne gry, gdy nie używasz urządzenia</string>
     <string name="over_package_reminder_type">Po wykorzystaniu planu danych</string>
     <string name="reach_warning_reminder_type">Gdy osiągnięto limit danych</string>
-    <string name="reminder_click_to_close_tips">Możesz włączać i wyłączać ostrzeżenia dot. zużycia danych w Panelu sterowania > Użycie danych > Ustawienia.</string>
+    <string name="reminder_click_to_close_tips">Możesz włączać i wyłączać ostrzeżenia dot. użycia danych w Panelu sterowania > Użycie danych > Ustawienia.</string>
     <string name="HIPS_Perm_External_READ_FILES">Dostęp do plików i dokumentów</string>
     <string name="HIPS_Perm_External_READ_FILES_Desc">Dostęp do plików i dokumentów znajdujących się na tym urządzeniu</string>
     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Dostęp do plików audio</string>

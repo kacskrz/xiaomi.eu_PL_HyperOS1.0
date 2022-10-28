@@ -1719,4 +1719,20 @@ Zajrzyj tu wkrótce!"</string>
     <string name="pa_open_personal_assistant_dialog_desc">"Jeśli wyłączysz Asystenta MIUI, nie będzie można używać widżetów lub uzyskiwać dostępu do nich za pomocą gestu przesunięcia w prawo na pulpicie. Wyłączyć?"</string>
     <string name="pa_open_personal_assistant_dialog_title">Wyłączyć Asystenta MIUI?</string>
     <string name="pa_setting_simplify_title_bar">Asystent MIUI</string>
+    <string name="pa_accessibility_picker_bigBanner_widget_collection">Kolekcje widżetów</string>
+    <string name="pa_accessibility_picker_home_maml_slected">Selected: %1$s. Size: %2$s. Press twice to view details page. Press twice and hold to drag.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Installation status: %3$s. The \"Switch\" button is below. Press twice to switch.</string>
+    <string name="pa_accessibility_picker_status_installed">Zainstalowano</string>
+    <string name="pa_accessibility_picker_status_uninstalled">Nie zainstalowano</string>
+    <string name="pa_accessibility_picker_status_unkonw">Nieznany</string>
+    <string name="pa_accessibility_picker_status_upgraded">Oczekuje na aktualizację</string>
+    <string name="pa_accessibility_widget_slected_status">Wybrano: %1$s. Stan instalacji: %2$s.</string>
+    <string name="pa_setting_privacy_revoke_cta_negative">Możesz wycofać zgodę w 10 sekund</string>
+    <string name="pa_world_cup_widget_authority_tip">Nadaj uprawnienia, aby móc wyświetlać informacje o meczach Mistrzostw Świata FIFA.</string>
+    <string name="pa_world_cup_widget_authorize">Nadaj</string>
+    <string name="pa_world_cup_widget_operation_fail_toast">"Nie udało się ukończyć akcji. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
+    <string name="pa_world_cup_widget_request_error_tip">Wystąpił błąd sieci</string>
+    <string name="pa_world_cup_widget_request_retry">Spróbuj ponownie</string>
+    <string name="pa_world_cup_widget_reserve_success_toast">"Otrzymasz przypomnienie przed rozpoczęciem meczu"</string>
+    <string name="pa_world_cup_widget_title">Mistrzostwa Świata FIFA</string>
 </resources>
