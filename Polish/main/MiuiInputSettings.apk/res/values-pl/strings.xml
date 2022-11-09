@@ -550,6 +550,7 @@ Kliknij dwukrotnie, aby otworzyć Ostatnie aplikacje."</string>
     <string name="google_assistant_guide_cancel">Anuluj</string>
     <string name="google_assistant_guide_message">Możesz przytrzymać przycisk Zasilania przez %s sekund, aby uruchomić Asystenta Google. Ustawić ten skrót?</string>
     <string name="google_assistant_guide_ok">Ustaw</string>
-    <string name="google_assistant_guide_tip">*Aby otworzyć menu wyłączania urządzenia, przytrzymaj przycisk Zasilania %s sekund.</string>
+    <string name="google_assistant_guide_tip">*Aby otworzyć menu wyłączania urządzenia, przytrzymaj przycisk Zasilania przez %s sekund.</string>
     <string name="google_assistant_guide_title">Asystent Google</string>
+    <string name="none">Brak</string>
 </resources>

@@ -806,4 +806,5 @@ na swoim iPhonie"</string>
   <string name="apple_install_skip">Pomiń</string>
   <string name="apple_install_sub_title">Wybrane aplikacje zostaną pobrane z GetApps</string>
   <string name="apple_install_title">Aplikacje ze starego urządzenia</string>
+  <string name="dialog_forbidden_use_tips">"Wersja systemu, której używasz, jest nieaktualna. Zaktualizuj urządzenie, aby móc używać Przenoszenia danych."</string>
 </resources>

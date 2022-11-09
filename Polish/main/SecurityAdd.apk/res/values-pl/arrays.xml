@@ -21,4 +21,12 @@
         <item>Wysoka</item>
         <item>Najwyższa</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Zbalansowana</item>
+        <item>Wysoka jakość</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Zbalansowana</item>
+        <item>Domyślna</item>
+    </string-array>
 </resources>

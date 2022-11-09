@@ -318,7 +318,7 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="miplay_accessibility_prev">Poprzedni utwór</string>
     <string name="miplay_accessibility_seekbar">Pasek postępu</string>
     <string name="miplay_accessibility_volume">Głośność</string>
-    <string name="miplay_detail_divider_title">Telewizja i głośniki</string>
+    <string name="miplay_detail_divider_title">Głośniki</string>
     <string name="miplay_detail_header_no_song">Brak historii odtwarzania</string>
     <string name="miplay_device_full_name">%2$s z %1$s</string>
     <string name="miplay_headset_lc3_hint">Wyłącz LC3, aby móc przełączyć wyjście audio na to urządzenie</string>
@@ -547,4 +547,13 @@ upewnij się, że pakiet zawiera najnowsze wersje wszystkich aplikacji."</string
     <string name="global_privacy_screencast">Podczas nagrywania lub projekcji usługa udostępniająca tę funkcję może przechwytywać wszelkie poufne informacje wyświetlane na ekranie lub odtwarzane z urządzenia, w tym informacje poufne takie jak dźwięk, hasła, informacje o płatnościach, zdjęcia i wiadomości.</string>
     <string name="privacy_permission_screencast">Dostęp do informacji na ekranie</string>
     <string name="privacy_permission_screencast_desc">Podczas nagrywania lub projekcji usługa udostępniająca tę funkcję może przechwytywać wszelkie poufne informacje wyświetlane na ekranie lub odtwarzane z urządzenia, w tym informacje poufne takie jak dźwięk, hasła, informacje o płatnościach, zdjęcia i wiadomości</string>
+    <string name="err_toast_msg_try_switch_network">Połącz urządzenie mobilne i komputer do tej samej sieci Wi-Fi</string>
+    <string name="err_toast_msg_upgrade_pc_version">Zaktualizuj MIUI+ na komputerze, aby móc skorzystać z tej funkcji</string>
+    <string name="privacy_permission_read_write_mobile_phone_storage">Dostęp i zapis elementów w pamięci</string>
+    <string name="privacy_permission_read_write_mobile_phone_storage_desc">W celu uzyskiwania dostępu i zapisywania zdjęć oraz plików na urządzeniu</string>
+    <string name="privacy_permission_sound_recording">Nagrywanie dźwięku</string>
+    <string name="privacy_permission_sound_recording_desc">W celu wykonywania połączeń głosowych lub nagrywania dźwięku</string>
+    <string name="upgrade_phone_device_tip">*Aktualizacje dostarczane przez telefon Xiaomi</string>
+    <string name="upgrade_ver_can_upgrade_1to2s">Aktualizacja z wersji %1$s do %2$s</string>
+    <string name="upgrade_ver_latest1s">Obecna wersja (%1$s) jest aktualna</string>
 </resources>
