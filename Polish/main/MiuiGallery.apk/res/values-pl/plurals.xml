@@ -761,4 +761,30 @@
         <item quantity="other">"Nie udało się zsynchronizować %d elementów. Właściciel tego albumu nie ma już miejsca w Chmurze."</item>
         <item quantity="one">"Nie udało się zsynchronizować %d elementu. Właściciel tego albumu nie ma już miejsca w Chmurze."</item>
     </plurals>
+    <plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d elementu</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="few">%1$d elementy</item>
+        <item quantity="many">%1$d elementów</item>
+    </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">Nie udało się przesłać %1$d elementu</item>
+        <item quantity="one">Nie udało się przesłać %1$d elementu</item>
+        <item quantity="few">Nie udało się przesłać %1$d elementów</item>
+        <item quantity="many">Nie udało się przesłać %1$d elementów</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">Nie udało się przesłać %1$d elementu. Odwiedź i.mi.com, aby je pobrać.</item>
+        <item quantity="one">Nie udało się przesłać %1$d elementu. Odwiedź i.mi.com, aby go pobrać.</item>
+        <item quantity="few">Nie udało się przesłać %1$d elementów. Odwiedź i.mi.com, aby je pobrać.</item>
+        <item quantity="many">Nie udało się przesłać %1$d elementów. Odwiedź i.mi.com, aby je pobrać.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Elementy mogą być tu przechowywane przez %1$s dni. Dotknij, aby przedłużyć ten czas.</item>
+        <item quantity="one">Elementy mogą być tu przechowywane przez %1$s dzień. Dotknij, aby przedłużyć ten czas.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Usunięte elementy są przechowywane w chmurze przez %1$d dni</item>
+        <item quantity="one">Usunięte elementy są przechowywane w chmurze przez %1$d dzień</item>
+    </plurals>
 </resources>
