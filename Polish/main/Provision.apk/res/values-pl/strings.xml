@@ -466,4 +466,9 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="is_prepare_install_go">Przygotowywanie…</string>
     <string name="location_introduction_qcom">Usługi lokalizacji wykorzystują pozycjonowanie do dostarczania usług specyficznych dla danej lokalizacji. Gdy są one wykorzystywane przez Twoje urządzenie, moduł QCC połączy się z siecią, aby przyspieszyć proces pozycjonowania.</string>
     <string name="create_shortcut">Skrót na pulpicie</string>
+    <string name="sim_card_detection_info_sb">"Zanim przejdziesz dalej, włóż kartę SIM. Jeśli utworzysz konto bez karty SIM, funkcje Znajdź urządzenie oraz funkcjonalność związana z synchronizacją nie będą w pełni dostępne. To urządzenie obsługuje standard eSIM. "</string>
+    <string name="sim_card_detection_info_sb_esim">Dotknij, aby aktywować eSIM.</string>
+    <string name="sim_card_detection_sb_esim">Aktywuj eSIM</string>
+    <string name="sim_card_detection_sb_nonactivated">Nie aktywowano</string>
+    <string name="multisim_settings_sb_title">Wykryto %d kartę SIM</string>
 </resources>
