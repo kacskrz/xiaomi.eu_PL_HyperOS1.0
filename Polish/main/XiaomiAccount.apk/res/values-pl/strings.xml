@@ -849,4 +849,9 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="family_service_not_open">Zaproś członków</string>
   <string name="mi_account">Moje konto</string>
   <string name="xiaomi_cloud_service">Chmura Xiaomi</string>
+  <string name="qrcode_login_entry_text"><Data>Już zalogowano się na innym urządzeniu? Użyj &lt;a href=>szybkiego logowania&lt;/a></Data></string>
+  <string name="qrcode_login_load_refresh"><Data>Ten kod QR wygasł. Dotknij, aby &lt;a href=>odświeżyć&lt;/a>.</Data></string>
+  <string name="qrcode_login_load_retry"><Data>"Nie udało się zalogować. &lt;a href=>Spróbuj ponownie&lt;/a>."</Data></string>
+  <string name="qrcode_login_message">"Zeskanuj aplikacją Skaner, Mi Home lub inną z portfolio Xiaomi, aby się zalogować"</string>
+  <string name="qrcode_login_title">Zeskanuj, aby się zalogować</string>
 </resources>

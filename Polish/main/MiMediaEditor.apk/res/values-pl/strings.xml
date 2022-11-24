@@ -1784,4 +1784,8 @@
      <string name="vlog_save_max_4k">Najwyższa wspierana rozdzielczość przy zapisywaniu elementów to 4K</string>
      <string name="vlog_saving_no_edit">Nie zamykaj tego menu w trakcie zapisywania elementów…</string>
      <string name="photo_editor_gallery_frame_m16_only">Wspierane tylko dla zdjęć wykonanych serią Note 12 Pro</string>
+     <string name="filter_popular_akita">Żniwa</string>
+     <string name="filter_popular_warm_orange">Dynia</string>
+     <string name="filter_talkback_filter_seekbar">Efekt renderowania</string>
+     <string name="video_post_cut_auto">Efekty będą obecne w pierwszych %1$d minutach filmu</string>
 </resources>

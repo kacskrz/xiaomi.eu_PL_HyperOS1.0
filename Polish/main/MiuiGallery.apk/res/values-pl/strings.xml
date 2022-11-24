@@ -3587,4 +3587,10 @@ Wyślij ten kod do administratora."</string>
   <string name="update_GP_app_btn_update">Aktualizuj</string>
   <string name="update_GP_app_msg">Musisz zaktualizować Zdjęcia Google, aby włączyć tworzenie kopii zapasowych. Wróć na tę stronę po wykonaniu tej czynności.</string>
   <string name="update_GP_app_title">Aktualizuj Zdjęcia Google</string>
+  <string name="stop_use_secret_cancel">Nie teraz</string>
+  <string name="stop_use_secret_msg">"Twoje zdjęcia i filmy nie są już synchronizowane z Chmurą Xiaomi. Nie będzie można również korzystać z prywatnego albumu, gdyż opiera się on na szyfrowaniu w chmurze.
+Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze strony i.mi.com. Później elementy, które nadal znajdują się w Chmurze Xiaomi, zostaną permanentnie usunięte.
+%2$s"</string>
+  <string name="stop_use_secret_ok">Przenieś elementy</string>
+  <string name="stop_use_secret_title">Prywatny album nie jest już dostępny</string>
 </resources>
