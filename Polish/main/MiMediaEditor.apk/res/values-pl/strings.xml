@@ -1788,4 +1788,6 @@
      <string name="filter_popular_warm_orange">Dynia</string>
      <string name="filter_talkback_filter_seekbar">Efekt renderowania</string>
      <string name="video_post_cut_auto">Efekty będą obecne w pierwszych %1$d minutach filmu</string>
+     <string name="photo_editor_gallery_frame_device_only">Ta funkcja może być używana tylko ze zdjęciami wykonanymi tym urządzeniem</string>
+     <string name="photo_editor_gallery_frame_no_exif">"Nie udało się rozpoznać metadanych obrazu"</string>
 </resources>

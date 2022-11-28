@@ -1457,4 +1457,5 @@ do Listy blokowanych"</string>
     <string name="button_copy">Kopiuj</string>
     <string name="mms_main_purpose_new">Aby dostarczać Ci podstawowe usługi, aplikacja musi się łączyć z Internetem. Xiaomi zaleca również włączenie usług Wiadomości w Chmurze oraz Inteligentne wiadomości.</string>
     <string name="system_permission_declare_exit">Wyjdź</string>
+    <string name="wait_for_sp_mark_as_read">Chwileczkę…</string>
 </resources>

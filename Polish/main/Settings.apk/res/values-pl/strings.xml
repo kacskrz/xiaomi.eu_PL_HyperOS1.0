@@ -10863,4 +10863,10 @@ Aby używać przypinania aplikacji: \u0009
     <string name="miheadset_connect_device_hfp">Podłącz słuchawki i upewnij się, że zezwolono na odtwarzanie dźwięku dla połączeń głosowych</string>
     <string name="miheadset_firmware_version_update">Aktualizuj oprogramowanie</string>
     <string name="bt_always_show_icon_summary">Wyświetlaj ikonę Bluetooth tylko w Panelu powiadomień i Centrum funkcji</string>
+    <string name="automatic_brightness_close_for_virtual_light_sensor">Aby móc automatycznie zmieniać jasność, wyłącz Odblokowanie twarzą</string>
+    <string name="dark_mode_display_enable_summary">Włącz interfejs, który używa mało światła i wyświetla głównie ciemne elementy</string>
+    <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">Anuluj</string>
+    <string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">"Dla lepszych rezultatów nie zezwalaj urządzeniu na automatyczną zmianę jasności, gdy używasz Odblokowania twarzą"</string>
+    <string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Odblokowanie twarzą</string>
+    <string name="miui_face_unlock_open_toast_for_sensor_light_virtual">"Jasność nie będzie dostosowywana automatycznie"</string>
 </resources>
