@@ -807,4 +807,26 @@ na swoim iPhonie"</string>
   <string name="apple_install_sub_title">Wybrane aplikacje zostaną pobrane z GetApps</string>
   <string name="apple_install_title">Aplikacje ze starego urządzenia</string>
   <string name="dialog_forbidden_use_tips">"Wersja systemu, której używasz, jest nieaktualna. Zaktualizuj urządzenie, aby móc używać Przenoszenia danych."</string>
+  <string name="android_id">Android ID</string>
+  <string name="android_id_usage">W celu rozpoznawania wersji aplikacji oraz kompatybilności między starym i nowym urządzeniem</string>
+  <string name="android_oaid">OAID</string>
+  <string name="collect_content">Zgromadzona zgoda</string>
+  <string name="collect_situation">Stan gromadzenia treści</string>
+  <string name="collected">Zgromadzono</string>
+  <string name="not_support">Niewspierane</string>
+  <string name="oaid_usage">W celu zapewnienia bezpieczeństwa przesyłanych elementów</string>
+  <string name="option_personal_info_list">Gromadzenie danych osobistych</string>
+  <string name="option_privacy_settings">Prywatność</string>
+  <string name="option_third_party_shared_info_instruction">Udostępnianie danych firmom trzecim</string>
+  <string name="option_user_agreement">Umowa użytkownika</string>
+  <string name="option_user_device_info">Informacje o urządzeniu</string>
+  <string name="recent_one_year">Ostatni rok</string>
+  <string name="recent_seven_days">Ostatni tydzień</string>
+  <string name="recent_thirty_days">Ostatni miesiąc</string>
+  <string name="ssid_name">SSID/nazwa sieci Wi-Fi</string>
+  <string name="uncollected">Nie zgromadzono</string>
+  <string name="use_purpose">Cel korzystania</string>
+  <string name="use_purpose_description">"Łączenie się z hotspotem nowego urządzenia"</string>
+  <string name="use_scene">Scenariusz użytkowania</string>
+  <string name="use_scene_description">W celu przesyłania elementów ze starego na nowe urządzenie</string>
 </resources>
