@@ -10869,4 +10869,5 @@ Aby używać przypinania aplikacji: \u0009
     <string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">"Dla lepszych rezultatów nie zezwalaj urządzeniu na automatyczną zmianę jasności, gdy używasz Odblokowania twarzą"</string>
     <string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Odblokowanie twarzą</string>
     <string name="miui_face_unlock_open_toast_for_sensor_light_virtual">"Jasność nie będzie dostosowywana automatycznie"</string>
+    <string name="legacy_power_menu">Stare menu zasilania</string>
 </resources>
