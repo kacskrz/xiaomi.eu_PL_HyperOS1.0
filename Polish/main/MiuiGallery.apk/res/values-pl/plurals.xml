@@ -787,4 +787,9 @@
         <item quantity="other">Usunięte elementy są przechowywane w chmurze przez %1$d dni</item>
         <item quantity="one">Usunięte elementy są przechowywane w chmurze przez %1$d dzień</item>
     </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="one">%1$d ekran</item>
+        <item quantity="few">%1$d ekrany</item>
+        <item quantity="other">%1$d ekranów</item>
+    </plurals>
 </resources>

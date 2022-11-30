@@ -3286,7 +3286,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
   <string name="share_album_home_pref_operation_manage">Zarządzaj</string>
   <string name="share_album_home_pref_operation_open">Włącz</string>
   <string name="share_album_home_pref_unshare_nonOwner_summary">Nieudostępnione</string>
-  <string name="share_album_home_text_tip">Ten album będzie odtwarzany jako pokaz slajdów na ekranach dostępnych dla członków Twojej grupy rodzinnej</string>
+  <string name="share_album_home_text_tip">Ten album zostanie udostępniony Twojej grupie rodzinnej, a także będzie odtwarzany jako pokaz slajdów na ekranach dostępnych dla jej członków.</string>
   <string name="share_album_invite_send_failed">"Nie udało się wysłać zaproszenia. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
   <string name="share_album_invite_send_success">Wysłano zaproszenie</string>
   <string name="share_album_manage">Zarządzaj udostępnianymi elementami</string>
@@ -3593,4 +3593,13 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
 %2$s"</string>
   <string name="stop_use_secret_ok">Przenieś elementy</string>
   <string name="stop_use_secret_title">Prywatny album nie jest już dostępny</string>
+  <string name="equivalent_focal_length">(Odpowiednik ogniskowej %dmm)</string>
+  <string name="error_check_network_later">Sprawdź swoje ustawienia sieci i spróbuj ponownie</string>
+  <string name="error_create_share_album_fail_default">"Nie udało się utworzyć ze względu na nieznany błąd"</string>
+  <string name="hdr_show_hint">Dostosuj wyświetlanie, aby pokazać więcej szczegółów w cieniach i podświetleniach w elementach o wysokim zakresie dynamicznym</string>
+  <string name="hdr_show_title">Pokaż HDR</string>
+  <string name="privacy_share_album_confirm">Warunki użytkowania</string>
+  <string name="privacy_share_album_confirm_detail">Udostępniane albumy są dostarczane przez Chmurę Xiaomi. Zanim z nich skorzystasz, przeczytaj i zaakceptuj warunki &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Umowy użytkownika>&lt;/a>&lt;/font> oraz &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Polityki prywatności&lt;/a>&lt;/font>.</string>
+  <string name="share_album_home_switch_family">Włącz</string>
+  <string name="sort_and_showmode">Sortuj i wyświetlaj</string>
 </resources>

@@ -1712,7 +1712,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_item_notification_title">Pokaż na pasku powiadomień</string>
   <string name="menu_item_settings_title">Ustawienia</string>
   <string name="menu_item_shortcut_summary">Dodaj na pulpit wybrane moduły Panelu Sterowania</string>
-  <string name="menu_item_shortcut_title">Dodaj skróty</string>
+  <string name="menu_item_shortcut_title">Skróty do funkcji</string>
   <string name="menu_item_uninstall">Odinstaluj</string>
   <string name="menu_item_virus_cloud_scan_summary">Użyj definicji wirusów z sieci</string>
   <string name="menu_item_virus_cloud_scan_title">Definicje online</string>
@@ -5643,7 +5643,7 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="gb_beauty_light">Światło wypełniające</string>
     <string name="gb_beauty_nature_light">Naturalne</string>
     <string name="gb_beauty_warm_light">Ciepłe</string>
-    <string name="manual_item_create_icon_title">Skrót na pulpicie</string>
+    <string name="manual_item_create_icon_title">Skrót Panelu sterowania</string>
     <string name="power_center_battery_duration_screen_on">Pozostały czas na ekranie</string>
     <string name="power_center_dialog_msg_title_screen_on">"Jeśli włączysz tę funkcję, uzyskasz %1$s czasu na ekranie. Oto środki, które pozwolą zaoszczędzić baterię:"</string>
     <string name="power_main_battery_last_hour_minute_screen_on">Pozostało %1$s %2$s czasu na ekranie</string>
@@ -5669,8 +5669,8 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="beauty_portrait_center_desc">Automatycznie rozpoznawaj i wycentruj twarze w rozmowach wideo i spotkaniach. Niektóre aplikacje nie wspierają tej funkcji.</string>
     <string name="dialog_msg_delete_icon_content_pad">Panel sterowania umożliwia Ci usunięcie śmieci z urządzenia, odnalezienie i neutralizację wirusów, oszczędzanie baterii, zarządzanie uprawnień i wiele innych rzeczy.</string>
     <string name="dialog_msg_delete_icon_content_phone">Panel sterowania umożliwia Ci usunięcie śmieci z urządzenia, odnalezienie i neutralizację wirusów, oszczędzanie baterii, zarządzanie uprawnień i wiele innych rzeczy.</string>
-    <string name="dialog_msg_delete_icon_title_pad">Usunąć ten skrót z pulpitu?</string>
-    <string name="dialog_msg_delete_icon_title_phone">Usunąć ten skrót z pulpitu?</string>
+    <string name="dialog_msg_delete_icon_title_pad">Usunąć skrót Panelu sterowania z pulpitu?</string>
+    <string name="dialog_msg_delete_icon_title_phone">Usunąć skrót Panelu sterowania z pulpitu?</string>
     <string name="pc_xiaoai_create_auto_task">Nowe zadanie od Mi SI</string>
     <string name="eletric_no_grant_dialog_message_for_phone">Nadaj wymagane uprawnienia, aby móc rozpoznawać nieznane numery telefonów.</string>
     <string name="eletric_no_grant_dialog_negative_button">Anuluj</string>
@@ -5729,4 +5729,16 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="terminal_privacy_summary">Przetwarzanie osobistych danych na tym urządzeniu</string>
     <string name="gb_barrage_dnd_conflict_toast">Aby używać komentarzy ekranowych, wyłącz tryb Nie przeszkadzać</string>
     <string name="gb_dnd_barrage_conflict_toast">"Nie będzie można używać komentarzy ekranowych, gdy włączony jest tryb Nie przeszkadzać"</string>
+    <string name="pc_emergency_call">Poł. alarmowe</string>
+    <string name="pc_high_temp_protection_noti_bt_text">OK</string>
+    <string name="pc_high_temp_protection_noti_summary">"Nie można korzystać teraz z hotspotów, danych mobilnych i usług lokalizacji"</string>
+    <string name="pc_high_temp_protection_noti_tile">Twoje urządzenie jest przegrzane</string>
+    <string name="pc_temperature_too_high">Urządzenie przegrzane</string>
+    <string name="pc_wait_device_cools_down">Poczekaj, aż urządzenie się schłodzi, aby móc korzystać z tej funkcji.</string>
+    <string name="permission_instruction_shake">"To uprawnienie umożliwia aplikacjom śledzenie orientacji i ruchu urządzenia (np. potrząsania, przechylania czy obracania)"</string>
+    <string name="power_settings_firmware_update_title">Aktualizacje oprogramowania</string>
+    <string name="storage_system_other_tip_new">Włącznie z pamięcią niezbędną do działania i aktualizacji systemu. Rozmiar tej partycji będzie się zmieniać w zalezności od stanu systemu.</string>
+    <string name="vb_video_effects_immersion_sound">Dźwięk przestrzenny</string>
+    <string name="vb_video_effects_immersion_sound_summary">Doświadcz immersji i poczucia przestrzeni, gdy w słuchawkach odtwarzany jest obsługiwany dźwięk</string>
+    <string name="vb_video_effects_spatial_summary_new">Doświadcz zwiększonego poczucia przestrzeni i kierunku w wspieranych filmach i utworach oraz dostosowuj dźwięk przestrzenny w oparciu o ruchy głowy</string>
 </resources>
