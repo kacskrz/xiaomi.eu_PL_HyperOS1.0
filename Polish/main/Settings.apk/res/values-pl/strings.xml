@@ -9969,7 +9969,7 @@ Naciśnij jednocześnie przyciski zasilania i zwiększania głośności."</strin
     <string name="se_route_default">Wybierz automatycznie</string>
     <string name="blank_screen_no_record">Nie ma jeszcze rekordów</string>
     <string name="bluetooth_version">Wersja Bluetooth</string>
-    <string name="bluetooth_version_message">Aktualiuj</string>
+    <string name="bluetooth_version_message">Aktualizuj</string>
     <string name="face_data_suggesstion_first_cn">"Aby móc używać Odblokowania twarzą, Xiaomi musi gromadzić dane twarzy na urządzeniu. Nie będą one nigdzie wysyłane. Aby je usunąć, wyszukaj Odblokowanie twarzą w Ustawieniach, a następnie wybierz opcję Odblokowanie twarzą > Dane twarzy."</string>
     <string name="finger_add_user_info_dialog_cancel">Anuluj</string>
     <string name="finger_add_user_info_dialog_message">"Aby móc używać odblokowania odciskiem palca i dokonywać nim płatności, Xiaomi musi gromadzić odcisk palca na urządzeniu. Nie będzie on nigdzie wysyłany. Aby go usunąć, wyszukaj \"Odblokowanie odciskiem palca\" w Ustawieniach, a następnie wybierz opcję Odblokowanie odciskiem palca > Odcisk palca. Jeśli nie zgodzisz się na gromadzenie odcisku palca na urządzeniu, nie będzie można korzystać z tej funkcji."</string>
