@@ -3602,4 +3602,8 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="privacy_share_album_confirm_detail">Udostępniane albumy są dostarczane przez Chmurę Xiaomi. Zanim z nich skorzystasz, przeczytaj i zaakceptuj warunki &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Umowy użytkownika>&lt;/a>&lt;/font> oraz &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Polityki prywatności&lt;/a>&lt;/font>.</string>
   <string name="share_album_home_switch_family">Włącz</string>
   <string name="sort_and_showmode">Sortuj i wyświetlaj</string>
+  <string name="annual_speci_year_title">Powrót do %d</string>
+  <string name="secret_album_password_first_use_with_sms_msg">Użyte zostanie hasło Ochrony prywatności. Chroni ono SMS-y, zdjęcia, notatki i ukryte foldery.</string>
+  <string name="secret_album_password_update_with_sms_dialog_msg">Hasło Ochrony prywatności chroni SMS-y, zdjęcia, notatki i ukryte foldery.</string>
+  <string name="secret_album_set_pc_password_with_sms_dialog_msg">Użyte zostanie hasło Ochrony prywatności. Chroni ono SMS-y, zdjęcia, notatki i ukryte foldery.</string>
 </resources>
