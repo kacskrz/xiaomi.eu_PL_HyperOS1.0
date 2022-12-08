@@ -703,4 +703,8 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="install_package_error">"Ta aplikacja nie jest kompatybilna z Twoim systemem"</string>
     <string name="install_package_error_des">Skontaktuj się z twórcą aplikacji lub zainstaluj jej kompatybilną wersję ze sklepu z aplikacjami.</string>
     <string name="cancel_update">"Nie aktualizuj"</string>
+    <string name="pa_picker_detail_download_app_dialog_message_install_prefix">Instaluj</string>
+    <string name="pa_picker_detail_download_app_dialog_message_install_suffix">Dodano</string>
+    <string name="pa_picker_detail_download_app_dialog_message_upgrade_prefix">Aktualizuj</string>
+    <string name="update_start">Aktualizuj</string>
 </resources>
