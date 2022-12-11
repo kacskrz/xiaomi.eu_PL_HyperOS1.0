@@ -3593,7 +3593,7 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
 %2$s"</string>
   <string name="stop_use_secret_ok">Przenieś elementy</string>
   <string name="stop_use_secret_title">Prywatny album nie jest już dostępny</string>
-  <string name="equivalent_focal_length">(Odpowiednik ogniskowej %s mm)</string>
+  <string name="equivalent_focal_length">(Odpowiednik ogniskowej %d mm)</string>
   <string name="error_check_network_later">Sprawdź swoje ustawienia sieci i spróbuj ponownie</string>
   <string name="error_create_share_album_fail_default">"Nie udało się utworzyć ze względu na nieznany błąd"</string>
   <string name="hdr_show_hint">Dostosuj wyświetlanie, aby pokazać więcej szczegółów w cieniach i podświetleniach w elementach o wysokim zakresie dynamicznym</string>
