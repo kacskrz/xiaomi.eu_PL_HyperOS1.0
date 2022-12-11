@@ -907,4 +907,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="permission_photos_desc_pad">W celu dodawania obrazów do notatek</string>
   <string name="send_notifications_for_reminder">W celu wysyłania przypomnień</string>
   <string name="toast_refuse_to_use_photos_in_excerpt">Zezwól tej aplikacji na dostęp do swoich zdjęć, aby móc je dodawać do notatek</string>
+  <string name="app_widget_name_create_note">Utwórz notatki</string>
+  <string name="app_widget_name_create_todo">Utwórz zadania</string>
+  <string name="app_widget_name_fast_entry">Skróty</string>
 </resources>

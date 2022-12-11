@@ -10881,4 +10881,6 @@ Aby używać przypinania aplikacji: \u0009
     <string name="network_auto_switch">Przełączaj się między sieciami</string>
     <string name="network_auto_switch_summery">"Przełącz się na dane mobilne, gdy sygnał sieci Wi-Fi jest kiepski lub sieć nie jest dostępna"</string>
     <string name="solid_text">Wykorzystuje dotykowe sprzężenie zwrotne o niskiej częstotliwości i odpowiednie przejścia wizualne, aby stworzyć solidne, mocne wrażenia z gestów.</string>
+    <string name="wifi_saved_access_point">Zapisane sieci</string>
+    <string name="multi_network_acceleration_summery">Łącz się z wieloma sieciami Wi-Fi w tym samym czasie, aby zwiększyć prędkość</string>
 </resources>
