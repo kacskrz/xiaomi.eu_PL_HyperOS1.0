@@ -111,7 +111,7 @@
   <string name="allowed">Przyznano</string>
   <string name="get_location">Dostęp do lokalizacji</string>
   <string name="new_cta_v2_app_purpose">Pokazywanie kierunków, koordynatów, ciśnienia atmosferycznego i obecnej wysokości</string>
-  <string name="new_permission_camera_desc">W celu kalibracji</string>
+  <string name="new_permission_camera_desc">W celu pokazywania podglądu</string>
   <string name="new_permission_location_desc">W celu wyświetlania koordynatów</string>
   <string name="not_allowed">Nie przyznano</string>
   <string name="open_camera">Dostęp do aparatu</string>

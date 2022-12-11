@@ -586,4 +586,7 @@ z przedniego aparatu"</string>
   <string name="rescuepartyplus_config_reset_context">Niektóre dane mogły zostać wyczyszczone. Dotknij, aby zobaczyć szczegóły.</string>
   <string name="rescuepartyplus_config_reset_title">Ukończono naprawę systemu</string>
   <string name="wallpaper_group_macaron_title">Makaroniki</string>
+  <string name="wallpaper_group_curves_title">Krzywe</string>
+  <string name="wallpaper_group_light_cycles_title">Neonowe okręgi</string>
+  <string name="wallpaper_group_petros_koublis_title">Marzenia</string>
 </resources>

@@ -471,4 +471,37 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="sim_card_detection_sb_esim">Aktywuj eSIM</string>
     <string name="sim_card_detection_sb_nonactivated">Nie aktywowano</string>
     <string name="multisim_settings_sb_title">Wykryto %d kartę SIM</string>
+    <string name="check_box_label"><Data>""Włączając tę funkcję, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności Usług łączności Xiaomi&lt;/a >."</Data></string>
+    <string name="interconnection_service_summary">"Usługi łączności Xiaomi umożliwiają bezprzewodową interakcję Twoich urządzeń z innymi. Obejmują one Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share i przesyłanie ekranu.
+Aby mogły one działać normalnie, muszą się łączyć z Internetem i wymagają następujących uprawnień:
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Włączanie i wyłączanie Wi-Fi
+\u0009\u0009W celu przesyłania elementów przez sieć Wi-Fi
+\u0009\u0009Nagrywanie dźwięku
+\u0009\u0009W celu przesyłania strumienia dźwięku do połączonych urządzeń w trakcie projekcji lub klonowania ekranu
+\u0009\u0009Dostęp do pamięci
+\u0009\u0009W celu przesyłania i otrzymywania plików bezprzewodowo
+\u0009\u0009Mi Share:
+\u0009\u0009Dostęp i zapis plików i zdjęć na urządzeniu
+\u0009\u0009W celu przesyłania i otrzymywania plików bezprzewodowo
+\u0009\u0009Dostęp do lokalizacji
+\u0009\u0009W celu przesyłania elementów do urządzeń w pobliżu przez sieć Wi-Fi i Bluetooth
+\u0009\u0009Włączanie i wyłączanie Bluetooth
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu
+\u0009\u0009Włączanie i wyłączanie Wi-Fi
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania plików bezprzewodowo
+\u0009\u0009Łączenie z urządzeniami w pobliżu
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu i łączenia się z nimi
+\u0009\u0009Projekcja:
+\u0009\u0009Włączanie i wyłączanie Bluetooth
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu
+\u0009\u0009Włączanie i wyłączanie Wi-Fi
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu
+\u0009\u0009Dostęp do lokalizacji
+\u0009\u0009W celu uzyskiwania informacji o urządzeniach w pobliżu
+\u0009\u0009Nagrywanie dźwięku
+\u0009\u0009W celu przesyłania strumienia dźwięku do połączonych urządzeń w trakcie projekcji
+Jeśli nie nadasz tych uprawnień, nie będzie można używać tych usług.
+Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszystkich modelach lub wersjach systemu. Aby określić kompatybilność z Twoim urządzeniem, wejdź na stronę MIUI (www.miui.com)."</string>
+    <string name="interconnection_service_title">Usługi łączności Xiaomi</string>
 </resources>

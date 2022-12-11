@@ -10870,4 +10870,15 @@ Aby używać przypinania aplikacji: \u0009
     <string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Odblokowanie twarzą</string>
     <string name="miui_face_unlock_open_toast_for_sensor_light_virtual">"Jasność nie będzie dostosowywana automatycznie"</string>
     <string name="legacy_power_menu">Stare menu zasilania</string>
+    <string name="complete_parameters_new">Szczegółowe dane i specyfikacja</string>
+    <string name="data_acceleration_summery">Użyj Wi-Fi i danych mobilnych do zwiększenia prędkości, gdy zasięg sieci Wi-Fi jest kiepski</string>
+    <string name="enable_snpn">Włącz SNPN</string>
+    <string name="haptic_descripthion_for_max_level">Silna</string>
+    <string name="haptic_descripthion_for_middle_level">Domyślna</string>
+    <string name="haptic_descripthion_for_min_level">Słaba</string>
+    <string name="immersive_audio_sources">Dźwięk przestrzenny</string>
+    <string name="network_acceleration">Akceleracja sieci</string>
+    <string name="network_auto_switch">Przełączaj się między sieciami</string>
+    <string name="network_auto_switch_summery">"Przełącz się na dane mobilne, gdy sygnał sieci Wi-Fi jest kiepski lub sieć nie jest dostępna"</string>
+    <string name="solid_text">Wykorzystuje dotykowe sprzężenie zwrotne o niskiej częstotliwości i odpowiednie przejścia wizualne, aby stworzyć solidne, mocne wrażenia z gestów.</string>
 </resources>

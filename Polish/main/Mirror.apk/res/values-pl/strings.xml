@@ -456,4 +456,9 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="call_error_notify_content">Możesz wrócić z powrotem na ekran telefonu, aby kontynuować rozmowę</string>
     <string name="call_error_notify_title">Niestabilne połączenie z siecią</string>
     <string name="toast_calling_warning">Zakończ trwające połączenie i spróbuj ponownie</string>
+    <string name="file_transferring">Poczekaj, aż trwające transfery się zakończą i spróbuj ponownie</string>
+    <string name="notify_connected_message_pad">Kontynuuj to, co robiłeś na komputerze lub użyj tego urządzenia jako rozszerzony ekran</string>
+    <string name="scanner_lower_version_toast">Zaktualizuj MIUI+ na komputerze, aby się połączyć</string>
+    <string name="worker_authorization_message">Po nawiązaniu połączenia możesz użyć komputera do zarządzania elementami na urządzeniu.</string>
+    <string name="worker_connect_fail_message">Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
 </resources>

@@ -1572,4 +1572,24 @@ Dotknij, aby go wyłączyć."</string>
     <string name="component_title_widget_suit">Widżety</string>
     <string name="paying">Zamawianie…</string>
     <string name="search_view_description_clear">Wyczyść wyszukiwanie</string>
+    <string name="has_mamual_hide_large_icons">Pomyślnie ukryto Superikony</string>
+    <string name="hide_mamual_hide_large_icons">"Nie wyświetlaj ukrytych Superikon"</string>
+    <string name="large_icon_apply_fail_for_in_dock">"Nie można użyć Superikon dla aplikacji w doku"</string>
+    <string name="large_icon_apply_fail_for_in_folder">"Nie można użyć Superikon dla aplikacji w folderach"</string>
+    <string name="large_icon_apply_fail_for_in_oldmode">"Superikony nie są dostępne w Trybie Lite"</string>
+    <string name="large_icon_apply_fail_for_not_in_launcher">"Nie można użyć Superikon dla aplikacji nieznajdujących się na pulpicie"</string>
+    <string name="large_icon_detail_title">%s Superikon</string>
+    <string name="large_icon_no_more">Nic tu nie ma</string>
+    <string name="large_icon_no_network">"Nie udało się połączyć z siecią"</string>
+    <string name="large_icon_not_support">"Nie można ustawić ikon dla %s"</string>
+    <string name="large_icon_official">Oficjalna</string>
+    <string name="large_icon_picker_haven">Dostępne ikony</string>
+    <string name="large_icon_picker_more">Więcej</string>
+    <string name="large_icon_picker_size">Rozmiar ikony</string>
+    <string name="large_icon_to_find_more">Wyświetl więcej</string>
+    <string name="large_icon_warning_install">Instaluj</string>
+    <string name="large_icon_warning_not_install">Instalacja %s</string>
+    <string name="large_icon_warning_not_install_msg">Aby móc użyć Superikony, zainstaluj %s. Zrobić to teraz?</string>
+    <string name="show_mamual_hide_large_icons">Pokaż ukryte Superikony</string>
+    <string name="theme_component_title_large_icon">Superikony</string>
 </resources>

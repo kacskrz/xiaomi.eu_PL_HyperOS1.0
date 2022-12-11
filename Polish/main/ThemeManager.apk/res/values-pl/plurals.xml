@@ -182,4 +182,16 @@
         <item quantity="few">Zapłać %1$s Mi Coiny</item>
         <item quantity="one">Zapłać %1$s Mi Coin</item>
     </plurals>
+    <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">Dostępna aktualizacja %1$d superikon</item>
+        <item quantity="one">Dostępna aktualizacja %1$d superikony</item>
+    </plurals>
+    <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Aktualizowanie %1$d superikony</item>
+        <item quantity="one">Aktualizowanie %1$d superikony</item>
+    </plurals>
+    <plurals name="resource_mibi_per_set">
+        <item quantity="other">%1$s Mi Kredytów/zestaw</item>
+        <item quantity="one">%1$s Mi Kredyt/zestaw</item>
+    </plurals>
 </resources>

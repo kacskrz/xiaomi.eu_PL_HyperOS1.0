@@ -981,4 +981,5 @@ Zwiększone bezpieczeństwo."</string>
   <string name="toast_split_app_unsupported">"Ta aplikacja nie wspiera Dzielonego ekranu"</string>
   <string name="toast_split_select_app">Dotknij aplikacji, aby użyć Dzielonego ekranu</string>
   <string name="miui_widget_toast_for_not_support_by_pa">"Asystent MIUI nie wspiera widżetów o takim rozmiarze"</string>
+  <string name="app_set_icon">Ustaw ikonę</string>
 </resources>

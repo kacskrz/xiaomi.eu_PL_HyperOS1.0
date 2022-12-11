@@ -5483,7 +5483,7 @@ Wsparcie techniczne Xiaomi i ICL"</string>
     <string name="gb_predownload_noti_title">Pomyślnie zaktualizowano %s w tle</string>
     <string name="gb_predownload_title">Aktualizacje w tle</string>
     <string name="gb_smart_battery_surplus_new">Pozostało %1$s %2$s</string>
-    <string name="antivirus_antidefraud_risk_desc">Ta aplikacja została określona przez Narodowe Centrum Ochrony Przed Oszustwami jako oszustwo. Aby uniknąć możliwych zagrożeń, odinstaluj ją.</string>
+    <string name="antivirus_antidefraud_risk_desc">Ta aplikacja może być używana do oszustw finansowych. Aby uniknąć możliwych zagrożeń, odinstaluj ją.</string>
     <string name="antivirus_antidefraud_risk_type">Oszustwo finansowe</string>
     <string name="antivirus_antidefraud_risk_type_label">Oszustwo finansowe i zagrożenia bezpieczeństwa</string>
     <string name="antivirus_detect_apps_dialog_cancel">OK</string>
@@ -5719,12 +5719,12 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="terminal_privacy_ability_others">Inne mechanizmy</string>
     <string name="terminal_privacy_ability_others_summary">Udostępnianie ekranu, testowanie środowiska płatności, rozpoznawanie odcisku palca i twarzy</string>
     <string name="terminal_privacy_ability_suggest">Rekomendacje</string>
-    <string name="terminal_privacy_ability_suggest_summary">Zalecenia i sugestie z aplikacji Pliki i paska bocznego</string>
+    <string name="terminal_privacy_ability_suggest_summary">Zalecenia i sugestie z folderów na pulpicie i paska bocznego</string>
     <string name="terminal_privacy_ability_summary">*Funkcje i mechanizmy ochrony prywatności mogą się różnić w zależności od modelu</string>
     <string name="terminal_privacy_ability_txt">Tekst</string>
     <string name="terminal_privacy_ability_txt_summary">Edycja tekstu, inteligentne napisy, wiadomości i wspólny schowek</string>
     <string name="terminal_privacy_ability_voice">Rozpoznawanie głosu</string>
-    <string name="terminal_privacy_ability_voice_summary">Komendy Asystenta Google i inteligentne napisy</string>
+    <string name="terminal_privacy_ability_voice_summary">Komendy głosowe i inteligentne napisy</string>
     <string name="terminal_privacy_instruction">Ochrona prywatności na urządzeniu to funkcje, które sprawiają, że Twoje osobiste dane są przechowywane na tym urządzeniu, a nie przesyłane do chmury</string>
     <string name="terminal_privacy_summary">Przetwarzanie osobistych danych na tym urządzeniu</string>
     <string name="gb_barrage_dnd_conflict_toast">Aby używać komentarzy ekranowych, wyłącz tryb Nie przeszkadzać</string>
@@ -5741,4 +5741,5 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="vb_video_effects_immersion_sound">Dźwięk przestrzenny</string>
     <string name="vb_video_effects_immersion_sound_summary">Doświadcz immersji i poczucia przestrzeni, gdy w słuchawkach odtwarzany jest obsługiwany dźwięk</string>
     <string name="vb_video_effects_spatial_summary_new">Doświadcz zwiększonego poczucia przestrzeni i kierunku w wspieranych filmach i utworach oraz dostosowuj dźwięk przestrzenny w oparciu o ruchy głowy</string>
+    <string name="pc_high_temp_protection_noti_summary2">"Nie można używać teraz hotspotów"</string>
 </resources>

@@ -1926,4 +1926,12 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Dotknięcie</item>
         <item>Bezp. dotknięcie</item>
     </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>Wyraziste</item>
+        <item>Podstawowe</item>
+    </string-array>
+    <string-array name="wifi_hidden_gbk_entries">
+        <item>Nie</item>
+        <item>Tak</item>
+    </string-array>
 </resources>
