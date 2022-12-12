@@ -10883,4 +10883,6 @@ Aby używać przypinania aplikacji: \u0009
     <string name="solid_text">Wykorzystuje dotykowe sprzężenie zwrotne o niskiej częstotliwości i odpowiednie przejścia wizualne, aby stworzyć solidne, mocne wrażenia z gestów.</string>
     <string name="wifi_saved_access_point">Zapisane sieci</string>
     <string name="multi_network_acceleration_summery">Łącz się z wieloma sieciami Wi-Fi w tym samym czasie, aby zwiększyć prędkość</string>
+    <string name="enable_crbt_pref_summary">"Nie wyświetlaj wideo profilowych w przychodzących połączeniach w trakcie testowania"</string>
+    <string name="enable_crbt_pref_title">Wyłącz wideo profilowe w połączeniach przychodzących</string>
 </resources>

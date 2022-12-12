@@ -982,4 +982,8 @@ Zwiększone bezpieczeństwo."</string>
   <string name="toast_split_select_app">Dotknij aplikacji, aby użyć Dzielonego ekranu</string>
   <string name="miui_widget_toast_for_not_support_by_pa">"Asystent MIUI nie wspiera widżetów o takim rozmiarze"</string>
   <string name="app_set_icon">Ustaw ikonę</string>
+  <string name="app_edit_icon">Edytuj ikonę</string>
+  <string name="dock_and_folder_not_edit_icon_tip">Aby zedytować, usuń aplikację z doku i folderu</string>
+  <string name="dock_not_edit_icon_tip">Aby zedytować, usuń aplikację z doku</string>
+  <string name="folder_not_edit_icon_tip">Aby zedytować, usuń aplikację z folderu</string>
 </resources>

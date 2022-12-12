@@ -1592,4 +1592,11 @@ Dotknij, aby go wyłączyć."</string>
     <string name="large_icon_warning_not_install_msg">Aby móc użyć Superikony, zainstaluj %s. Zrobić to teraz?</string>
     <string name="show_mamual_hide_large_icons">Pokaż ukryte Superikony</string>
     <string name="theme_component_title_large_icon">Superikony</string>
+    <string name="dynamic_large_icon_not_support_current_type">"%s nie jest wspierana dla tej dynamicznej ikony"</string>
+    <string name="large_icon_detail_warning_dialog_btn_keep">Superikony</string>
+    <string name="large_icon_detail_warning_dialog_btn_not_keep">Domyślne</string>
+    <string name="large_icon_detail_warning_dialog_msg">"Niektóre aplikacje używają Superikon. Chcesz je pozostawić czy przywrócić ich domyślną formę?"</string>
+    <string name="large_icon_detail_warning_dialog_title">Ustawienia Superikon</string>
+    <string name="large_icon_not_support_current_type">"%s nie jest wspierana dla tej ikony"</string>
+    <string name="large_icon_theme">Motywy</string>
 </resources>

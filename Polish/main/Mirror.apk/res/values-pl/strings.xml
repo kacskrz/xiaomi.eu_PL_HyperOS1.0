@@ -181,12 +181,10 @@
      <string name="wednesday">Środa</string>
      <string name="wednesday_short">Śr</string>
      <string name="wednesday_shortest">Śr</string>
-    <string name="worker_authorization_message">Po połączeniu się użyj ikony MIUI+ na komputerze, aby zarządzać elementami z telefonu.</string>
     <string name="worker_authorization_title">Połączyć teraz?</string>
     <string name="worker_authorized">%1$s zaakceptował Twoje żądanie</string>
     <string name="worker_connect_cancel_tips">Anuluj</string>
     <string name="worker_connect_fail_btn_retry">Spróbuj ponownie</string>
-    <string name="worker_connect_fail_message">Wystąpił błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="worker_connect_fail_title">"Nie udało się połączyć"</string>
     <string name="worker_connect_help">Pomoc</string>
     <string name="worker_connecting_message">Łączenie…</string>

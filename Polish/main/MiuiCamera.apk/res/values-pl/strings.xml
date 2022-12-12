@@ -2226,4 +2226,24 @@ Możesz użyć poniższych przycisków, aby zaimportować tekst, wyświetlić po
   <string name="ultra_pixel_capture_process_hint">Przetwarzanie wykonanego zdjęcia…</string>
   <string name="ultra_pixel_capture_process_tip">Przetwarzanie zdjęcia…</string>
   <string name="ultra_pixel_pro_xxxm_message">"Ta funkcja umożliwia poprawę szczegółowości zdjęcia. Gdy jest ona włączona, przetwarzanie zdjęć może potrwać dłużej niż zwykle."</string>
+  <string name="accessibility_doc4_content_page_close_btn">Zamknij stronę rozpoznawania tekstu</string>
+  <string name="accessibility_doc4_entrance_tip">Wykryto tekst. Dotknij, aby go rozpoznać.</string>
+  <string name="accessibility_mimoji_split_screen">Dzielony ekran</string>
+  <string name="cv_lens_humanities">Dokumentalny</string>
+  <string name="cv_lens_none">Domyślny</string>
+  <string name="cv_lens_portrait">Portret</string>
+  <string name="lunch_permission_not_ask_again_msg1">Dotknij przycisku \"Ustawienia\" i nadaj wymagane uprawnienia (%1$s), aby móc używać powiązanych funkcji.</string>
+  <string name="lunch_permission_not_ask_again_msg2">Dotknij przycisku \"Ustawienia\" i nadaj wymagane uprawnienia (%1$s, %2$s), aby móc używać powiązanych funkcji.</string>
+  <string name="lunch_permission_not_ask_again_msg3">Dotknij przycisku \"Ustawienia\" i nadaj wymagane uprawnienia (%1$s, %2$s, %3$s), aby móc używać powiązanych funkcji.</string>
+  <string name="lunch_permission_not_ask_again_msg4">Dotknij przycisku \"Ustawienia\" i nadaj wymagane uprawnienia (%1$s, %2$s, %3$s, %4$s), aby móc używać powiązanych funkcji.</string>
+  <string name="lunch_phone_permission_content">Informacje o urządzeniu</string>
+  <string name="lunch_phone_permission_des">W celu wykrywania połączeń w trakcie nagrywania filmów i usuwania dźwięku połączenia z nagrania</string>
+  <string name="lunch_storge_permission_content">Dostęp do pamięci</string>
+  <string name="msg_bubble_doc4_first_use">Dotknij, aby rozpoznać tekst</string>
+  <string name="msg_toast_doc4_text_not_found">"Nie udało się wykryć tekstu"</string>
+  <string name="summary_pref_camera_doc4">Skieruj aparat na tekst (chiński lub angielski), aby go rozpoznać</string>
+  <string name="title_doc4_recognize_page_hint">Przeciągnij lub dotknij, aby wybrać obszar tekstu</string>
+  <string name="title_item_context_menu_doc4_copy_done">Pomyślnie skopiowano</string>
+  <string name="title_pref_camera_doc4">Rozpoznaj tekst</string>
+  <string name="widget_camera_lens_75mm_description">Siedemdziesiąt pięć milimetrów</string>
 </resources>
