@@ -832,4 +832,6 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="query_quota_exception">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="query_quota_searching">Chwileczkę…</string>
   <string name="reminder_card_title">Uwaga</string>
+  <string name="talkback_close">Zamknij</string>
+  <string name="talkback_close_open_picture">Anuluj</string>
 </resources>

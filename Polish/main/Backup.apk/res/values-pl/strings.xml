@@ -968,4 +968,24 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="category_message_contacts">SMS-y i Kontakty</string>
   <string name="permission_read_write_sys_app1">Aby móc wykonać kopię zapasową lub przywrócić SMS-y i kontakty, zezwól tej funkcji na dostęp do nich.</string>
   <string name="permission_read_write_sys_app2">Aby móc wykonać kopię zapasową lub przywrócić kontakty, zezwól tej funkcji na dostęp do nich.</string>
+  <string name="broken_screen_rescue_service">Kopie zapasowe z uszkodzonym ekranem</string>
+  <string name="broken_screen_rescue_service_content">"Ta funkcja umożliwia wykonanie kopii zapasowej elementów za pomocą kabla USB, gdy ekran urządzenia jest uszkodzony lub nie reaguje na dotknięcia. Aby móc wykonać kopię zapasową w taki sposób, trzeba włączyć tę funkcję, gdy ekran działa poprawnie."</string>
+  <string name="broken_screen_rescue_service_disable">Wyłącz kopie zapasowe z uszkodzonym ekranem</string>
+  <string name="broken_screen_rescue_service_enable">Włącz kopie zapasowe z uszkodzonym ekranem</string>
+  <string name="broken_screen_rescue_service_learn_subcontent1">Poproś osobę z Twoich kontaktów o wysłanie SMS-a w następującym formacie: *#*#EKRANBLOKADY#*#* (zamiast EKRANBLOKADY wpisać należy swoje hasło Ekranu blokady).</string>
+  <string name="broken_screen_rescue_service_learn_subcontent2">Gdy SMS zostanie wysłany, podłącz urządzenie do komputera za pomocą kabla USB, aby rozpocząć kopiowanie elementów.</string>
+  <string name="broken_screen_rescue_service_learn_subtitle1">Aktywuj tę funkcję</string>
+  <string name="broken_screen_rescue_service_learn_subtitle2">Skopiuj elementy</string>
+  <string name="broken_screen_rescue_service_learn_title">Jak używać tej funkcji</string>
+  <string name="broken_screen_rescue_service_tips_1">"%1$d. Jeśli Twoja blokada ekranu to %2$d, wiadomość powinna wyglądać tak: *#*#%3$d#*#*. Jeśli używasz hasła zawierającego litery i cyfry, poproś inną osobę o uwzględnienie wszystkich znaków tego hasła w SMS-ie (nie można niczego pominąć)."</string>
+  <string name="broken_screen_rescue_service_tips_2">"%1$d. Jeśli używasz wzoru, może on być reprezentowany w SMS-ie przez cyfry. Kropka w lewym górnym rogu to %2$d. Numeracja odbywa się od lewej do prawej, wiersz po wierszu, i kończy się w prawym dolnym rogu cyfrą %3$d."</string>
+  <string name="broken_screen_rescue_service_tips_3">"%1$d. Jeśli nie używasz blokady ekranu, użyj w SMS-ie frazy \"nopassword\"."</string>
+  <string name="broken_screen_rescue_service_tips_4">"%1$d. Na aktywację tej funkcji będziesz mieć tylko %2$d prób. Upewnij się, że SMS wysyłany przez inną osobę jest prawidłowy i znajduje się ona w Twoich kontaktach."</string>
+  <string name="broken_screen_rescue_service_tips_5">%1$d. Xiaomi zaleca korzystanie z tej funkcji w obecności pracownika wsparcia technicznego firmy.</string>
+  <string name="broken_screen_rescue_service_tips_6">"%1$d. Jeśli nie możesz wykonać kopii zapasowej na komputerze, możesz się dowiedzieć, jak rozwiązać ten problem z centrum pomocy Xiaomi."</string>
+  <string name="broken_screen_rescue_service_tips_title">Wskazówki</string>
+  <string name="broken_screen_rescue_service_turn_off">Wyłącz</string>
+  <string name="broken_screen_rescue_service_turn_off_confirm">Wyłączyć kopie zapasowe z uszkodzonym ekranem?</string>
+  <string name="broken_screen_rescue_service_turn_on">Włącz</string>
+  <string name="broken_screen_rescue_service_turn_on_confirm">Włączyć kopie zapasowe z uszkodzonym ekranem?</string>
 </resources>

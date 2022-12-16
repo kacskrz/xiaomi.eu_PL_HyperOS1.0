@@ -829,4 +829,20 @@ na swoim iPhonie"</string>
   <string name="use_purpose_description">"Łączenie się z hotspotem nowego urządzenia"</string>
   <string name="use_scene">Scenariusz użytkowania</string>
   <string name="use_scene_description">W celu przesyłania elementów ze starego na nowe urządzenie</string>
+  <string name="league_acquire_accept">Zgadzam się</string>
+  <string name="league_acquire_message1">Aby przenieść aplikacje firm trzecich i ich dane z tego urządzenia na nowe urządzenie %s, wymagane są następujące uprawnienia:</string>
+  <string name="league_acquire_message2">Zezwól Przenoszeniu danych na dostep do danych aplikacji firm trzecich</string>
+  <string name="league_acquire_message3">To jednorazowe uprawnienie używane wyłącznie do przenoszenia danych. Po zakończeniu procesu aplikacja Przenoszenie danych przestanie korzystać z tego uprawnienia.</string>
+  <string name="league_acquire_message4">"Jeśli nie nadasz tego uprawnienia, nie będzie można przenieść aplikacji firm trzecich i ich danych."</string>
+  <string name="league_acquire_refuse">"Nie zgadzam się"</string>
+  <string name="league_acquire_title">Wymagane uprawnienia</string>
+  <string name="league_check_service_content">"Przenoszenie danych dostarcza usługi transferu danych dla %s i nie jest dostępne w tym momencie."</string>
+  <string name="league_check_service_title">Transfer za pomocą %s</string>
+  <string name="league_client_acquire">Otwórz %s</string>
+  <string name="league_client_hint_text">The Cloning Alliance może pomóc przenieść dane aplikacji firm trzecich. Dotknij \"%s\", aby przejść dalej lub \"Nie teraz\", aby kontynuować bez przenoszenia aplikacji firm trzecich i ich danych.</string>
+  <string name="league_client_install">Zainstaluj %s</string>
+  <string name="league_client_title">Transfer z Przenoszeniem danych</string>
+  <string name="league_client_traditional">Nie teraz</string>
+  <string name="league_client_update">Aktualizuj %s</string>
+  <string name="request_permission">Zezwól</string>
 </resources>

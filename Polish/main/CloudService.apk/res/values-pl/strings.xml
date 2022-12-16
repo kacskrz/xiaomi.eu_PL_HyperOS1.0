@@ -1142,7 +1142,7 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="noti_quota_button_text">Ulepsz</string>
   <string name="noti_quota_full_sum">Ulepsz swój plan Chmury, aby kontynuować synchronizację.</string>
   <string name="noti_quota_full_sum_without_button">Uzyskaj więcej przestrzeni, aby kontynuować synchronizację.</string>
-  <string name="noti_quota_full_title">Brak miejsca w Chmurze</string>
+  <string name="noti_quota_full_title">&lt;font color=#F22424>Brak miejsca&lt;/font> w Chmurze</string>
   <string name="noti_quota_full_title_without_button">Brak miejsca w Chmurze</string>
   <string name="noti_quota_low_sum">Ulepsz swój plan Chmury, aby kontynuować synchronizację.</string>
   <string name="noti_quota_low_sum_without_button">Uzyskaj więcej przestrzeni, aby kontynuować synchronizację.</string>
@@ -1216,7 +1216,7 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="privacy_runtime_perm_call_log_title">Dostęp i edycja rejestru połączeń</string>
   <string name="privacy_runtime_perm_contacts_desc">W celu synchronizacji kontaktów</string>
   <string name="privacy_runtime_perm_contacts_title">Dostęp i edycja kontaktów</string>
-  <string name="privacy_runtime_perm_external_storage_desc">W celu synchronizacji zdjęć kontaktów i załączników do SMS-ów</string>
+  <string name="privacy_runtime_perm_external_storage_desc">W celu synchronizacji zdjęć kontaktów</string>
   <string name="privacy_runtime_perm_external_storage_title">Dostęp do pamięci</string>
   <string name="privacy_runtime_perm_phone_state_desc">W celu uzyskania numeru telefonu i informacji o stanie urządzenia</string>
   <string name="privacy_runtime_perm_phone_state_title">Dostęp do informacji o urządzeniu</string>
@@ -1245,4 +1245,15 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="gallery_service_termination_more_info">Aby dowiedzieć się więcej, zobacz \"%s\"</string>
   <string name="menu_migrate_to_google_photos">Przenieś dane do Zdjęć Google</string>
   <string name="start_transfer_gallery_data">Przenieś dane</string>
+  <string name="cloud_manage_storage_text">Zarządzaj przestrzenią Chmury</string>
+  <string name="cloud_storage_almost_full_upgrade_text">Brakuje miejsca. Synchronizacja zdjęć może nie działać.</string>
+  <string name="cloud_storage_common_functions_text">Często używane</string>
+  <string name="cloud_storage_full_upgrade_default_text">"Brak miejsca. Nie zsynchronizowano zdjęć."</string>
+  <string name="cloud_storage_sufficient_text">Ulepsz, aby uzyskać do %d TB pamięci</string>
+  <string name="cloud_storage_upgrade_text">Ulepsz</string>
+  <string name="cloud_storage_upgrade_text_now">Ulepsz</string>
+  <string name="cloud_storage_zero_upgrade_button_text_now">Ulepsz za darmo</string>
+  <string name="customize_notification_btn_text">Ulepsz</string>
+  <string name="default_noti_quota_full_title">Brak miejsca w Chmurze</string>
+  <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Pozostało mniej niż &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> miejsca w Chmurze</string>
 </resources>

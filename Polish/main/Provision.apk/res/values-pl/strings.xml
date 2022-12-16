@@ -504,4 +504,10 @@ Aby mogły one działać normalnie, muszą się łączyć z Internetem i wymagaj
 Jeśli nie nadasz tych uprawnień, nie będzie można używać tych usług.
 Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszystkich modelach lub wersjach systemu. Aby określić kompatybilność z Twoim urządzeniem, wejdź na stronę MIUI (www.miui.com)."</string>
     <string name="interconnection_service_title">Usługi łączności Xiaomi</string>
+    <string name="carousel_cookies_content"><Data>Gdy dotkniesz obrazów i historii w Tapetach Blokady, ich pełne wersje zostaną otwarte w Twojej przeglądarce. Zaufany dostawca treści Xiaomi może na tej podstawie rekomendować dodatkową zawartość dopasowaną do Twoich zainteresowań. Jeśli aktywujesz tę funkcję, będzie on umieszczać pliki cookie w Twojej przeglądarce zgodnie z  &lt;a href=\"%1$s\">Polityką plików cookie&lt;/a>. Jeśli nie zgadzasz się na ciasteczka, Tapety Blokady nadal będą działać, lecz ich treść i rekomendacje mogą nie być dopasowane do Ciebie. Możesz zmienić swoje preferencje w Ustawieniach.</Data></string>
+    <string name="carousel_cookies_subtitle">Pliki cookie umożliwiają personalizację Twojego ekranu blokady.</string>
+    <string name="carousel_cookies_title">Spersonalizowana treść i pliki cookie</string>
+    <string name="carousel_privacy"><Data>"Przed skorzystaniem z Tapet Blokady przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> i &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> firmy trzeciej - zaufanego dostawcy usługi Xiaomi."</Data></string>
+    <string name="carousel_setting">Skonfiguruj swój Ekran blokady</string>
+    <string name="carousel_setting_sub">Tapety Blokady będą wyświetlać Ci świeże historie po każdym odblokowaniu urządzenia</string>
 </resources>

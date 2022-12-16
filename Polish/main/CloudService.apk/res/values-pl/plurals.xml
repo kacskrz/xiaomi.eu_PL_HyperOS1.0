@@ -234,4 +234,16 @@
         <item quantity="other">"Nie udało się zsynchronizować %s elementów"</item>
         <item quantity="one">"Nie udało się zsynchronizować %s elementu"</item>
     </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">"Brakuje miejsca. Nie zsynchronizowano %d zdjęć."</item>
+        <item quantity="one">"Brakuje miejsca. Nie zsynchronizowano %d zdjęcia."</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">"Nie zsynchronizowano &lt;font color=#F22424>%s elementów&lt;/font>"</item>
+        <item quantity="one">"Nie zsynchronizowano &lt;font color=#F22424>%s elementu&lt;/font>"</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">"Skończyło się miejsce. Nie zsynchronizowano &lt;font color=#F22424>%d aplikacji&lt;/font>"</item>
+        <item quantity="one">"Skończyło się miejsce. Nie zsynchronizowano &lt;font color=#F22424>%d aplikacji&lt;/font>"</item>
+    </plurals>
 </resources>

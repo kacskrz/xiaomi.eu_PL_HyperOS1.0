@@ -585,4 +585,6 @@ d MMM"</string>
 d.MM."</string>
   <string name="miui_lock_screen_large_date_12">"EEE
 d.MM."</string>
+  <string name="force_start_permission_desc">"Zezwól na normalne działanie alarmów nawet po zamknięciu aplikacji"</string>
+  <string name="force_start_permission_title">Autostart</string>
 </resources>

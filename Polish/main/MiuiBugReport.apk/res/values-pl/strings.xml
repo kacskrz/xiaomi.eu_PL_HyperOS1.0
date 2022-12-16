@@ -1019,4 +1019,5 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
   <string name="net_diag_toast_wifi_disconnected_china">Aby przetestować sieć, połącz się z Wi-Fi.</string>
   <string name="feedback_account_inconsistent_login_hint">Wygląda na to, że zmieniono konto. Zaloguj się na poprzednio używane konto Xiaomi.</string>
   <string name="feedback_account_login_hint">Najpierw zaloguj się na swoje konto Xiaomi</string>
+  <string name="login_out">Wyloguj się</string>
 </resources>

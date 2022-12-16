@@ -255,4 +255,12 @@
     <string name="grant_permission_remind_title">Wymagane uprawnienia</string>
     <string name="grant_permission_storage">Zezwól tej aplikacji na dostęp do pamięci.</string>
     <string name="grant_permission_text">Edytor Galerii wymaga do poprawnego działania następującego uprawnienia: %s. Dotknij przycisku \"Ustawienia\", aby je nadać.</string>
+    <string name="saf_operation_guide_1">"Edytor Galerii wymaga Twojego pozwolenia w celu ochrony i zarządzania Twoimi danymi. "</string>
+    <string name="saf_operation_guide_2">Aby nadać uprawnienie, dotknij opcji \"%1$s\", a następnie wybierz \"%2$s\".</string>
+    <string name="saf_operation_guide_param1">Dalej</string>
+    <string name="saf_operation_guide_param2">Dostęp do tego folderu</string>
+    <string name="saf_requester_cancel">Anuluj</string>
+    <string name="saf_requester_title">Zezwól Edytorowi Galerii na dostęp do \"%s\"</string>
+    <string name="saf_secret_album">Prywatny album</string>
+    <string name="saf_secret_album_guide">Ta aplikacja wymaga uprawnień do wyświetlania elementów z Twojego prywatnego albumu.</string>
 </resources>

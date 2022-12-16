@@ -272,12 +272,12 @@
   <string name="video_crbt_title">Odtwarzanie wideo profilowego…</string>
   <string name="video_switch_to_voice_call_prompt">Przełącz na głos</string>
   <string name="voicemail">Poczta głosowa</string>
-  <string name="volte_call">Połączenie VoLTE</string>
+  <!--<string name="volte_call">Połączenie VoLTE</string>-->
   <string name="volume_boost_text">Pomyślnie zwiększono głośność</string>
   <string name="wait_prompt_str">"Wysłać poniższe tony?
 "</string>
   <string name="waiting_close_airplane_mode">Proszę czekać...</string>
-  <string name="wifi_call">Połączenie VoWiFi</string>
+ <!-- <string name="wifi_call">Połączenie VoWiFi</string> -->
   <string name="video_call_downgrade_insufficient_bandwidth">Niewystarczająca przepustowość. Przełączanie na rozmowę głosową.</string>
   <string name="ai_mode_auto">Automatycznie</string>
   <string name="ai_mode_manual">Ręcznie</string>
