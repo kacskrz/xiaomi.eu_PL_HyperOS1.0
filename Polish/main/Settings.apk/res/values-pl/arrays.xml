@@ -195,11 +195,6 @@
         <item>TTLS</item>
         <item>PWD</item>
     </string-array>
-    <string-array name="wifi_peap_phase2_entries">
-        <item>Brak</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Brak</item>
         <item>PAP</item>
@@ -244,6 +239,7 @@
         <item>1xRTT</item>
         <item>IS95B</item>
         <item>IS95A</item>
+        <item>NR</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>None</item>
@@ -650,12 +646,15 @@
         <item>Maksymalnie 4 procesy</item>
     </string-array>
     <string-array name="vpn_types_long">
-        <item>Sieć VPN wykorzystująca protokół PPTP</item>
-        <item>Sieć VPN wykorzystująca protokół L2TP/IPSec z kluczami wspólnymi</item>
-        <item>Sieć VPN wykorzystująca protokół L2TP/IPSec z certyfikatami</item>
-        <item>Sieć VPN wykorzystująca protokół IPSec z kluczami wspólnymi i uwierzytelnianiem Xauth</item>
-        <item>Sieć VPN wykorzystująca protokół IPSec z certyfikatami i uwierzytelnianiem Xauth</item>
-        <item>Sieć VPN wykorzystująca protokół IPSec z certyfikatami i uwierzytelnianiem hybrydowym</item>
+        <item>"Sieć VPN wykorzystująca protokół PPTP"</item>
+        <item>"Sieć VPN wykorzystująca protokół L2TP/IPSec z kluczami wspólnymi"</item>
+        <item>"Sieć VPN wykorzystująca protokół L2TP/IPSec z certyfikatami"</item>
+        <item>"Sieć VPN wykorzystująca protokół IPSec z kluczami wspólnymi i uwierzytelnianiem Xauth"</item>
+        <item>"Sieć VPN wykorzystująca protokół IPSec z certyfikatami i uwierzytelnianiem Xauth"</item>
+        <item>"Sieć VPN wykorzystująca protokół IPSec z certyfikatami i uwierzytelnianiem hybrydowym"</item>
+        <item>"Sieć VPN IKEv2/IPSec z certyfikatami i uwierzytelnianiem przy pomocy nazwy użytkownika oraz hasła"</item>
+        <item>"Sieć VPN IKEv2/IPSec z kluczami PSK"</item>
+        <item>"Sieć VPN IKEv2/IPSec z certyfikatami"</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Rozłączono</item>
@@ -859,19 +858,6 @@
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>Nośnik USB otworzy się automatycznie na komputerze po podłączeniu.</item>
         <item></item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_xp">
-        <item>Zainstaluj narzędzia: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
-        <item>Utwórz katalog: mkdir /media/mtp</item>
-        <item>Confirm user group permissions in the current fuse user group</item>
-        <item>Zaloguj się ponownie</item>
-        <item>Access mounted device: mtpfs /media/mtp via File Manager; same as local folder.</item>
-        <item>"Odinstaluj urządzenie: fusermount -u /media/mtp
-Uwaga: Tylko dla Ubuntu 8.04!"</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_linux">
-        <item>Zainstaluj najnowszą wersję swojej dystrybucji</item>
-        <item>Np. w Ubuntu 13.04 lub nowszym tryb MTP jest obsługiwany domyślnie</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Ciepłe</item>
@@ -1384,9 +1370,8 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Przejście do Ustawień</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>Automatyczne (na podstawie pory dnia)</item>
-        <item>Zawsze włączone</item>
-        <item>Zawsze wyłączone</item>
+        <item>Ciemny</item>
+        <item>Jasny</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Nie</item>
@@ -1426,8 +1411,9 @@ Uwaga: Tylko dla Ubuntu 8.04!"</item>
         <item>Starsze niż 90 dni</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (domyślne)</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.5 (domyślne)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="color_mode_descriptions">

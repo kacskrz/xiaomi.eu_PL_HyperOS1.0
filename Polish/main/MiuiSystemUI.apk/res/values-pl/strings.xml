@@ -338,7 +338,7 @@
   <string name="battery_info_status_unknown">Nieznane</string>
   <string name="battery_low_button_not_open_power_save">Nie teraz</string>
   <string name="battery_low_button_open_power_save">Oszczędzanie baterii</string>
-  <string name="battery_low_percent_format">Pozostało %d%%</string>
+  <string name="battery_low_percent_format">Pozostało %s</string>
   <string name="battery_low_percent_format_save_mode_closed">Pozostało mniej niż %d%% baterii. Naładuj urządzenie.</string>
   <string name="battery_low_percent_format_save_mode_open">Pozostało mniej niż %d%% baterii. Włącz Oszczędzanie baterii.</string>
   <string name="battery_low_percent_format_saver_started">Pozostało %s. Oszczędzanie baterii jest włączone.</string>
@@ -1322,7 +1322,7 @@ Aby dowiedzieć się więcej, skontaktuj się z administratorem.
   <string name="notch_sos_status_bar_title">SOS</string>
   <string name="notch_status_bar_date_format_12">EE, d MMMM</string>
   <string name="notification_all_categories">Wszystkie kategorie</string>
-  <string name="notification_app_settings">Dostosuj: %1$s</string>
+  <string name="notification_app_settings">Dostosuj</string>
   <string name="notification_channel_alerts">Alerty</string>
   <string name="notification_channel_battery">Bateria</string>
   <string name="notification_channel_controls_closed_accessibility">Sterowanie powiadomieniami aplikacji %1$s zamknięte</string>
@@ -2926,7 +2926,7 @@ Jeśli nie włączysz tych uprawnień, istniejące alarmy i zaplanowane wydarzen
     <string name="material_timepicker_text_input_mode_description">Aby wprowadzić czas, włącz tryb wprowadzania tekstu.</string>
     <string name="media_output_dialog_add_output">Dodaj urządzenia wyjściowe</string>
     <string name="media_output_dialog_connect_failed">Nie udało się połączyć. Spróbuj ponownie.</string>
-    <string name="media_output_dialog_disconnected">%1$s (rozłączono)</string>
+    <string name="media_output_dialog_disconnected">(rozłączono)</string>
     <string name="media_output_dialog_group">Grupa</string>
     <string name="media_output_dialog_multiple_devices">Wybrane urządzenia: %1$d</string>
     <string name="media_output_dialog_pairing_new">Sparuj nowe urządzenie</string>

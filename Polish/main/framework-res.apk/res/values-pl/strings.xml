@@ -52,12 +52,7 @@
   <string name="accessibility_magnification_chooser_text">Powiększenie</string>
   <string name="accessibility_shortcut_disabling_service">Skrót ułatwień dostępu wyłączył usługę %1$s</string>
   <string name="accessibility_shortcut_enabling_service">Skrót ułatwień dostępu wyłączył usługę %1$s</string>
-  <string name="accessibility_shortcut_toogle_warning">"Gdy skrót jest włączony, jednoczesne naciśnięcie przez trzy sekundy obu klawiszy sterowania głośnością uruchomi funkcję ułatwień dostępu.
-
-Bieżąca funkcja ułatwień dostępu:
-%1$s
-
-Funkcję możesz zmienić, wybierając Ustawienia &gt; Ułatwienia dostępu."</string>
+  <string name="accessibility_shortcut_toogle_warning">"Gdy skrót jest włączony, jednoczesne naciskanie przez trzy sekundy obu przycisków głośności uruchamia funkcję ułatwień dostępu."</string>
   <string name="accessibility_shortcut_warning_dialog_title">Użyć skrótu do ułatwień dostępu?</string>
   <string name="action_bar_home_description">Przejdź do strony głównej</string>
   <string name="action_bar_home_description_format">%1$s, %2$s</string>

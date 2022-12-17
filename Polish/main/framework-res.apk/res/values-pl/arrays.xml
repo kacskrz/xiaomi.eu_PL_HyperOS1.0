@@ -43,10 +43,6 @@
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Wystąp o rejestrację połączeń Wi-Fi u operatora: %1$s</item>
     </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>Połączenia przez Wi-Fi (%s)</item>
-    </string-array>
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>Dom</item>

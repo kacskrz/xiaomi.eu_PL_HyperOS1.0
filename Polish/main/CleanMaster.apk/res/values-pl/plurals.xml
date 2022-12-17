@@ -34,12 +34,12 @@
         <item quantity="other">Pobrane przez %1$d osób</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d wyświetleń</item>
-        <item quantity="zero">%1$d wyświetleń</item>
-        <item quantity="one">%1$d wyświetleń</item>
-        <item quantity="two">%1$d wyświetleń</item>
-        <item quantity="few">%1$d wyświetleń</item>
-        <item quantity="many">%1$d wyświetleń</item>
+        <item quantity="other">%1$s wyświetleń</item>
+        <item quantity="zero">%1$s wyświetleń</item>
+        <item quantity="one">%1$s wyświetleń</item>
+        <item quantity="two">%1$s wyświetleń</item>
+        <item quantity="few">%1$s wyświetleń</item>
+        <item quantity="many">%1$s wyświetleń</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grup</item>

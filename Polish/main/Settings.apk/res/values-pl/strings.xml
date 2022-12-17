@@ -812,8 +812,8 @@ Kopie zapasowe są gromadzone w Chmurze Xiaomi i można do nich uzyskać dostęp
   <string name="battery_saver_desc_turn_on_auto_pct">Włącz automatycznie przy %1$s baterii</string>
   <string name="battery_saver_master_switch_title">Użyj oszczędzania baterii</string>
   <string name="battery_saver_off_scheduled_summary">Będzie włączone o %1$s</string>
-  <string name="battery_saver_off_summary">Wył. / %1$s</string>
-  <string name="battery_saver_on_summary">Wł. / %1$s</string>
+  <string name="battery_saver_off_summary">Wył.</string>
+  <string name="battery_saver_on_summary">Wł.</string>
   <string name="battery_saver_seekbar_title">O %1$s</string>
   <string name="battery_saver_seekbar_title_placeholder">Włącz</string>
   <string name="battery_saver_turn_on_automatically_never">Nigdy</string>
@@ -845,9 +845,9 @@ Kopie zapasowe są gromadzone w Chmurze Xiaomi i można do nich uzyskać dostęp
   <string name="battery_sugg_wifi">Wyłącz Wi-Fi, gdy sieć nie jest używana lub jest niedostępna</string>
   <string name="battery_suggestion_title">"Popraw życie baterii"</string>
   <string name="battery_summary">Użycie od ostatniego pełnego naładowania: %1$s</string>
-  <string name="battery_tip_dialog_message">"Twój telefon był używany częściej niż zwykle. Bateria może wyczerpać się szybciej, niż się spodziewano.
+  <string name="battery_tip_dialog_message">"Używasz telefonu intensywniej niż zwykle, więc bateria może rozładować się szybciej.
 
-To najczęstsze %1$d aplikacje używane od momentu pełnego naładowania:"</string>
+Aplikacje, które najbardziej zużywają baterię:"</string>
   <string name="battery_tip_dialog_summary_message">"Twoje aplikacje używają normalnej ilości baterii. Jeśli aplikacje zużywają zbyt dużo energii, telefon zasugeruje działania, które możesz podjąć.
 
 Zawsze możesz włączyć Oszczędzanie baterii, jeśli masz mało baterii."</string>
@@ -1310,9 +1310,9 @@ Możesz wyłączyć tę funkcję w Ustawienia > Bluetooth > Sparowane urządzeni
   <string name="calendar_sound_dialog_title">Wybierz dźwięk kalendarza</string>
   <string name="calendar_sound_title">Dźwięk kalendarza</string>
   <string name="call_example_name">Nazwa</string>
-  <string name="call_records_summary_1">%1$d:%2$d | %3$d sekund</string>
-  <string name="call_records_summary_2">%1$d | %2$d min %3$d s</string>
-  <string name="call_records_summary_3">%1$d | %2$d min %3$d s</string>
+  <string name="call_records_summary_1">9:35 | 26 sekund</string>
+  <string name="call_records_summary_2">16 sierpnia | 1 min 16 s</string>
+  <string name="call_records_summary_3">16 sierpnia | 2 min 24 s</string>
   <string name="call_manager_enable_summary">Zezwalaj tej usłudze na zarządzanie sposobem wykonywania połączeń.</string>
   <string name="call_manager_enable_title">Włącz menedżera połączeń</string>
   <string name="call_manager_title">Menedżer połączeń</string>
@@ -1562,7 +1562,7 @@ Możesz wyłączyć tę funkcję w Ustawienia > Bluetooth > Sparowane urządzeni
   <string name="condition_turn_on">Wł.</string>
   <string name="condition_work_summary">Aplikacje, synchronizacja w tle i inne funkcje związane z profilem do pracy są wyłączone.</string>
   <string name="condition_work_title">Profil do pracy jest wyłączony</string>
-  <string name="condition_zen_title">Włączono tryb Nie przeszkadzać (%1$s)</string>
+  <string name="condition_zen_title">Włączono tryb Nie przeszkadzać</string>
   <string name="config_charging_function_name">ładowanie</string>
   <string name="config_list_label">Skonfigurowane sieci</string>
   <string name="configure">Skonfiguruj</string>
@@ -7079,7 +7079,7 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="use_system_language_to_select_input_method_subtypes">Użyj języka systemu</string>
   <string name="use_this_wlan">Użyj tej sieci Wi-Fi</string>
   <string name="user_account_title">Konto na materiały</string>
-  <string name="user_add_max_count">Możesz dodać maksymalnie %1$d użytkowników</string>
+  <string name="user_add_max_count">Nie możesz dodać więcej użytkowników. Aby dodać nowego użytkownika, usuń któregoś z obecnych.</string>
   <string name="user_add_on_lockscreen_menu">Dodawaj użytk. przy blokadzie</string>
   <string name="user_add_on_lockscreen_menu_summary">gdy urządzenie jest zablokowane</string>
   <string name="user_add_profile_item_summary">Możesz ograniczyć dostęp do aplikacji i zawartości z poziomu swojego konta</string>
@@ -7363,7 +7363,7 @@ Każdy użytkownik może aktualizować aplikacje wszystkich innych użytkownikó
   <string name="vpn_turn_on">Włącz</string>
   <string name="vpn_type">Typ</string>
   <string name="vpn_username">Nazwa użytkownika</string>
-  <string name="vpn_version">Wersja %s</string>
+  <string name="vpn_version">Wersja</string>
   <string name="vr_listener_security_warning_summary">%1$s może działać, gdy korzystasz z aplikacji w trybie rzeczywistości wirtualnej.</string>
   <string name="vr_listener_security_warning_title">Zezwalasz usłudze %1$s na dostęp do usługi rzeczywistości wirtualnej?</string>
   <string name="vr_listeners_title">Usługi pomocnicze rzeczywistości wirtualnej</string>
@@ -9241,7 +9241,7 @@ Gdy urządzenia będą połączone, %2$s będzie otrzymywać wszystkie rozmowy p
     <string name="choose_sim_activating">Aktywuję…</string>
     <string name="choose_sim_could_not_activate">Nie udało się aktywować</string>
     <string name="choose_sim_item_summary_unknown">Nieznany numer</string>
-    <string name="choose_sim_text">Na tym urządzeniu dostępne jest %1$d numerów, ale nie można używać wielu numerów jednocześnie</string>
+    <string name="choose_sim_text">{count,plural, =1{Na tym urządzeniu dostępny jest 1 numer, ale nie można używać wielu numerów jednocześnie}=2{Na tym urządzeniu dostępne są 2 numery, ale nie można używać wielu numerów jednocześnie}few{Na tym urządzeniu dostępne są # numery, ale nie można używać wielu numerów jednocześnie}many{Na tym urządzeniu dostępnych jest # numerów, ale nie można używać wielu numerów jednocześnie}other{Na tym urządzeniu dostępne jest # numeru, ale nie można używać wielu numerów jednocześnie}}</string>
     <string name="choose_sim_title">Wybierz numer, który ma być używany</string>
     <string name="clear">Wyczyść</string>
     <string name="connected_device_see_all_summary">Zostanie włączony Bluetooth</string>

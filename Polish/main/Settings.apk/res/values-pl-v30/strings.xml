@@ -387,7 +387,6 @@
   <string name="no_5g_in_dsds_text">Gdy używasz 2 kart SIM, telefon jest ograniczony do transmisji 4G. &lt;annotation id=\"url\"&gt;Więcej informacji&lt;/annotation&gt;</string>
   <string name="notification_access_detail_switch">Zezwalaj na dostęp do powiadomień</string>
   <string name="notification_app_switch_label">All %1$s notifications</string>
-  <string name="notification_assistant_security_warning_summary">Aplikacja %1$s będzie mogła czytać wszystkie powiadomienia, w tym dane osobowe takie jak nazwy kontaktów i treść otrzymywanych wiadomości. Będzie też mogła odrzucać powiadomienia lub używać zawartych w nich przycisków czynności, włączając w to odbieranie połączeń telefonicznych. \n\nDodatkowo aplikacja będzie mogła włączać i wyłączać tryb Nie przeszkadzać oraz zmieniać powiązane ustawienia.</string>
   <string name="notification_badging_title">Plakietka z powiadomieniem na ikonie aplikacji</string>
   <string name="notification_channel_summary_priority">Wyświetla się jako dymek u góry sekcji rozmów.</string>
   <string name="notification_channels">Kategorie</string>

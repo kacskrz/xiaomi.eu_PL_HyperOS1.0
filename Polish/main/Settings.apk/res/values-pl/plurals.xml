@@ -81,12 +81,16 @@
         <item quantity="one">Bardzo krótkie opóźnienie (%1$d ms)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Krótkie opóźnienie (%1$d ms)</item>
-        <item quantity="one">Krótkie opóźnienie (%1$d ms)</item>
+      <item quantity="few">Krótkie (%1$s sekundy)</item>
+      <item quantity="many">Krótkie (%1$s sekund)</item>
+      <item quantity="other">Krótkie (%1$s sekundy)</item>
+      <item quantity="one">Krótkie (%1$s sekunda)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Długie opóźnienie (%1$d ms)</item>
-        <item quantity="one">Długie opóźnienie (%1$d ms)</item>
+      <item quantity="few">Długie (%1$s sekundy)</item>
+      <item quantity="many">Długie (%1$s sekund)</item>
+      <item quantity="other">Długie (%1$s sekundy)</item>
+      <item quantity="one">Długie (%1$s sekunda)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
         <item quantity="other">Bardzo długie opóźnienie (%1$d ms)</item>
