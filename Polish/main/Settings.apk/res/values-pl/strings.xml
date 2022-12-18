@@ -10885,4 +10885,6 @@ Aby używać przypinania aplikacji: \u0009
     <string name="multi_network_acceleration_summery">Łącz się z wieloma sieciami Wi-Fi w tym samym czasie, aby zwiększyć prędkość</string>
     <string name="enable_crbt_pref_summary">"Nie wyświetlaj wideo profilowych w przychodzących połączeniach w trakcie testowania"</string>
     <string name="enable_crbt_pref_title">Wyłącz wideo profilowe w połączeniach przychodzących</string>
+    <string name="privacy_dashboard_title">Prywatność</string>
+    <string name="wifi_privacy_settings">Prywatność</string>
 </resources>

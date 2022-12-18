@@ -556,4 +556,5 @@ upewnij się, że pakiet zawiera najnowsze wersje wszystkich aplikacji."</string
     <string name="upgrade_phone_device_tip">*Aktualizacje dostarczane przez telefon Xiaomi</string>
     <string name="upgrade_ver_can_upgrade_1to2s">Aktualizacja z wersji %1$s do %2$s</string>
     <string name="upgrade_ver_latest1s">Obecna wersja (%1$s) jest aktualna</string>
+    <string name="headset_circulate_connect_success">połączono</string>
 </resources>
