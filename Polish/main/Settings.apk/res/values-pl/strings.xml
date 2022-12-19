@@ -10891,4 +10891,6 @@ Aby używać przypinania aplikacji: \u0009
     <string name="accessibility_ring_vibration_title">Wibracja przy dzwonku</string>
     <string name="freeform_guide_vedio_description">Dotknij aplikacji na Pasku bocznym, aby otworzyć ją w pływającym oknie</string>
     <string name="zone_auto_title">Automatycznie ustaw strefę czasową</string>
+    <string name="module_license_title">Licencje aktualizacji systemowej Google Play</string>
+    <string name="wifi_hidden_network">Ukryta sieć</string>
 </resources>
