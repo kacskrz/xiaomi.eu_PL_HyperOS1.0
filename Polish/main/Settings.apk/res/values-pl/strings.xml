@@ -10037,7 +10037,8 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="zone_time_type_dst">Zmiana czasu na letni</string>
     <string name="zone_time_type_standard">Czas standardowy</string>
     <string name="speed_mode">Tryb prędkości</string>
-    <string name="speed_mode_summary">Przedkładanie wydajności nad zużycie energii i kontrolę temperatury</string>    <string name="freeform_guide_multi_window">Wielozadaniowość</string>
+    <string name="speed_mode_summary">Przedkładanie wydajności nad zużycie energii i kontrolę temperatury</string>    
+    <string name="freeform_guide_multi_window">Wielozadaniowość</string>
     <string name="freeform_vedio_description_pad">Przeciągaj elementy poza dok, aby otwierać pływające okna</string>
     <string name="security_check_progress_dialog_message">Sprawdzanie bezpieczeństwa…</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Przeciągnij róg, aby zminializować aplikację</string>
@@ -10887,4 +10888,7 @@ Aby używać przypinania aplikacji: \u0009
     <string name="enable_crbt_pref_title">Wyłącz wideo profilowe w połączeniach przychodzących</string>
     <string name="privacy_dashboard_title">Prywatność</string>
     <string name="wifi_privacy_settings">Prywatność</string>
+    <string name="accessibility_ring_vibration_title">Wibracja przy dzwonku</string>
+    <string name="freeform_guide_vedio_description">Dotknij aplikacji na Pasku bocznym, aby otworzyć ją w pływającym oknie</string>
+    <string name="zone_auto_title">Automatycznie ustaw strefę czasową</string>
 </resources>
