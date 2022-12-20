@@ -283,7 +283,7 @@
   <string name="select_account_prompt">Włącz synchronizację notatek</string>
   <string name="set_alarm_description">Ustaw alarm</string>
   <string name="setting_other">Pozostałe</string>
-  <string name="setting_privacy">Polityka Prywatności</string>
+  <string name="setting_privacy">Polityka prywatności</string>
   <string name="snippet_audio_stub">Notka głosowa</string>
   <string name="snippet_image_stub">[Obraz]</string>
   <string name="snippet_image_template">[%1$s]</string>

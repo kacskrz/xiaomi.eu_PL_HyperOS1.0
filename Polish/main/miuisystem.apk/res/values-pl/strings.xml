@@ -48,7 +48,7 @@
   <string name="cta_button_continue">Zgadzam się</string>
   <string name="cta_button_quit">Wyjdź</string>
   <string name="cta_check_reminder">"Nie pokazuj ponownie"</string>
-  <string name="cta_message_license">Korzystając z funkcji zgadzasz się na Warunki Usług i Politykę Prywatności.</string>
+  <string name="cta_message_license">Korzystając z funkcji zgadzasz się na Warunki Usług i Politykę prywatności.</string>
   <string name="cta_message_permission">Aplikacja wymaga %2$s, aby działać normalnie.</string>
   <string name="cta_permission_and">" i "</string>
   <string name="cta_permission_delimiter">, </string>

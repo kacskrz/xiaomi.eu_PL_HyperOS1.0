@@ -1190,7 +1190,7 @@ Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić 
   <string name="unknow_error">Nieznany błąd</string>
   <string name="user_agree">Zgoda</string>
   <string name="user_agreement2">Warunki Użytkowania</string>
-  <string name="user_agreement4">Polityka Prywatności</string>
+  <string name="user_agreement4">Polityka prywatności</string>
   <string name="user_define_watermark_cancel">Anuluj</string>
   <string name="user_define_watermark_save">Zapisz</string>
   <string name="user_notice_identify_summary_format">Przed użyciem Aparatu musisz zaakceptować warunki <a href="http://www.miui.com/res/doc/eula.html?lang=pl_PL">Umowy użytkownika</a> i <a href="http://www.miui.com/res/doc/privacy.html?lang=pl_PL">Polityki prywatności</a> Xiaomi. Aplikacja wymaga także dostępu do Internetu. Wyrażasz zgodę?</string>

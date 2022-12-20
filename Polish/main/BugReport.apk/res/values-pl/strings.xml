@@ -431,7 +431,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_phone_num_hint_text">Numer telefonu</string>
   <string name="passport_phone_ticket_login">Zaloguj się z SMS</string>
   <string name="passport_prev">Wstecz</string>
-  <string name="passport_privacy_policy">Polityka Prywatności</string>
+  <string name="passport_privacy_policy">Polityka prywatności</string>
   <string name="passport_pwd_generate_failure">Nie udało się wygenerować hasła</string>
   <string name="passport_pwd_generating">Generowanie…</string>
   <string name="passport_querying_phone_info">Sprawdzanie informacji…</string>
@@ -512,7 +512,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="passport_user_agreement_p1">Zgadzam się z </string>
   <string name="passport_user_agreement_p2">Umową Użytkownika</string>
   <string name="passport_user_agreement_p3"> i </string>
-  <string name="passport_user_agreement_p4">Polityką Prywatności</string>
+  <string name="passport_user_agreement_p4">Polityką prywatności</string>
   <string name="passport_user_id_notice">ID konta Xiaomi: %s.</string>
   <string name="passport_vcode_notification_title">Weryfikacja nie została ukończona</string>
   <string name="passport_vcode_prompt_long">Wpisz kod weryfikacyjny</string>

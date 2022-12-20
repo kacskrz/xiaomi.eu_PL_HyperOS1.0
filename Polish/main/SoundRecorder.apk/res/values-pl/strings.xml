@@ -173,7 +173,7 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="preference_silent_mode">Wycisz dzwonek przy nagrywaniu</string>
   <string name="preference_status_bar_indicator_prompt">Pokazuj niebieski wskaźnik na ekranie blokady podczas nagrywania</string>
   <string name="preference_tip_rename">Pokazuj pytanie o zmianę nazwy nagrania</string>
-  <string name="privacy_policy_title">Polityka Prywatności</string>
+  <string name="privacy_policy_title">Polityka prywatności</string>
   <string name="recognition_button_add_to_queue">Dodaj do kolejki</string>
   <string name="recognition_button_cancel">Nie teraz</string>
   <string name="recognition_button_start">Transkrybuj</string>

@@ -474,7 +474,7 @@ Ta wiadomość może być niechciana."</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">"Nie można aktywować Wiadomości w Chmurze"</string>
   <string name="mx_and_voip_enable">Wiadomości w Chmurze</string>
   <string name="mx_and_voip_enable_popup_msg">"Wysyłaj wiadomości SMS i dzwoń za darmo do innych użytkowników MIUI."</string>
-  <string name="mx_and_voip_enable_popup_msg2">Polityka Prywatności</string>
+  <string name="mx_and_voip_enable_popup_msg2">Polityka prywatności</string>
   <string name="mx_auto_resend_mms">Wyślij jako MMS</string>
   <string name="mx_auto_resend_mms_summary">"Wysyłaj jako MMS korzystając z danych mobilnych gdy nie ma połączenia z Wi-Fi"</string>
   <string name="mx_auto_resend_sms">Wyślij jako SMS</string>
@@ -487,7 +487,7 @@ Ta wiadomość może być niechciana."</string>
   <string name="mx_dspt_listview">Wysyłaj za darmo wiadomości przez Internet do innych urządzeń MIUI</string>
   <string name="mx_dspt_provision">Wysyłaj wiadomości przez internet pomiędzy telefonami z MIUI bez ponoszenia kosztów za wysłanie SMS. Do aktywacji usługi wymagane jest wysłanie wiadomości SMS.</string>
   <string name="mx_dspt_provision_ex">"Wysyłaj wiadomości przez internet pomiędzy telefonami z MIUI bez ponoszenia kosztów za wysłanie SMS."</string>
-  <string name="mx_dspt_provision_ex2">Polityka Prywatności</string>
+  <string name="mx_dspt_provision_ex2">Polityka prywatności</string>
   <string name="mx_enable">Wiadomości w Chmurze</string>
   <string name="mx_enable_ex">Wiadomości w Chmurze i VoIP</string>
   <string name="mx_enable_popup_msg">Wiadomości w Chmurze umożliwiają wysyłanie SMS do użytkowników MIUI za darmo.</string>
@@ -1071,8 +1071,8 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
   <string name="user_agreement1">Read the applicable terms carefully before you install additional software or use this product.</string>
   <string name="user_agreement2">" Umowa Użytkownika"</string>
   <string name="user_agreement3">" i "</string>
-  <string name="user_agreement4">Polityka Prywatności</string>
-  <string name="user_agreement5">Dotykając OK, zgadzasz się na Warunki Użytkowania oraz Politykę Prywatności.</string>
+  <string name="user_agreement4">Polityka prywatności</string>
+  <string name="user_agreement5">Dotykając OK, zgadzasz się na Warunki Użytkowania oraz Politykę prywatności.</string>
   <string name="user_term">Umowa użytkownika</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>

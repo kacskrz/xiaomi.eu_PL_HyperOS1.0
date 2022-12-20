@@ -976,7 +976,7 @@ Aby dodać kontakty do ulubionych:
   <string name="preference_others">Inne</string>
   <string name="preference_phone">Telefon</string>
   <string name="preference_phone_more_title">Opcje połączeń</string>
-  <string name="preference_privacy_policy_title">Polityka Prywatności</string>
+  <string name="preference_privacy_policy_title">Polityka prywatności</string>
   <string name="preference_remove_duplicate">Połącz powtórzone</string>
   <string name="preference_show_firewall_calllog">Pokaż blokowane numery w historii połączeń</string>
   <string name="preference_show_yellowpage_tab_description">Książka telefoniczna może nie działać poprawnie, gdy ta funkcja jest wyłączona.</string>

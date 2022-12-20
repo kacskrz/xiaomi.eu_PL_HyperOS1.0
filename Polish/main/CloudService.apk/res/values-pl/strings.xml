@@ -125,7 +125,7 @@ Ostatnia kopia: %2$s"</string>
   <string name="find_device_error_server">Błąd serwera</string>
   <string name="find_device_error_unknown">Nieznany błąd</string>
   <string name="find_device_gdpr_prompt">Włączając Lokalizację urządzenia, zgadzasz się na warunki <u><a href="app://com.miui.cloudservice.gdpr.license">Polityki prywatności</a></u> Xiaomi.</string>
-  <string name="find_device_gdpr_prompt_policy_doc_name">\"Polityka Prywatności\"</string>
+  <string name="find_device_gdpr_prompt_policy_doc_name">\"Polityka prywatności\"</string>
   <string name="find_device_notice_p1">Odwiedź</string>
   <string name="find_device_notice_p3">"aby zlokalizować, zablokować lub zresetować telefon.
 W przypadku zmiany kart SIM zostanie wysłany SMS w celu reaktywacji usługi."</string>
@@ -498,8 +498,8 @@ Usuń wtedy starsze pliki lub kup dodatkową przestrzeń na dysku."</string>
   <string name="micloud_privacy_cloud_off">Synchr. Wył.</string>
   <string name="micloud_privacy_cloud_sync">Włącz Chmurę</string>
   <string name="micloud_privacy_explanation">Włącza usługi w Chmurze po udzieleniu autoryzacji</string>
-  <string name="micloud_privacy_licence_agreed">Zgoda z Polityką Prywatności.</string>
-  <string name="micloud_privacy_licence_privacy_policy">Polityka Prywatności</string>
+  <string name="micloud_privacy_licence_agreed">Zgoda z Polityką prywatności.</string>
+  <string name="micloud_privacy_licence_privacy_policy">Polityka prywatności</string>
   <string name="micloud_privacy_more">Więcej</string>
   <string name="micloud_privacy_progress_content">Udzielanie autoryzacji…</string>
   <string name="micloud_privacy_warning_button">Wstecz</string>
@@ -604,7 +604,7 @@ Funkcja ta przesyła zaszyfrowane numery ID urządzenia do serwerów Xiaomi."</s
 
 Funkcja szyfruje i przesyła numer ID urządzenia na serwery Xiaomi."</string>
   <string name="mx_dspt_provision_with_voip">Dzwoń do innych użytkowników MIUI za darmo wykorzystując Internet. Możesz zawsze wyłączyć tę funkcję w Ustawieniach. Usługa VoIP jest obsługiwana przez Weihui. Sprawdź politykę prywatności Weihui</string>
-  <string name="mx_dspt_provision_with_voip2">Polityka Prywatności</string>
+  <string name="mx_dspt_provision_with_voip2">Polityka prywatności</string>
   <string name="mx_sub_dspt_provision">Wiadomości w chmurze</string>
   <string name="mx_sub_dspt_provision_with_voip">Dzwonienie przez internet</string>
   <string name="mx_voip_dspt">MIUI VoIP</string>
@@ -719,7 +719,7 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="privacy_doc_finddevice_phone">"Witaj w usłudze Znajdź urządzenie! Możesz jej użyć do lokalizacji urządzenia, jego zablokowania bądź wymazania z niego danych w razie jego zagubienia. Możesz wejść na stronę &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>, aby dokonać tych czynności z poziomu przeglądarki.&lt;br />&lt;br />Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi przepisami i politykami prywatności.&lt;br />Usługa Znajdź urządzenie, w celu poprawnego działania, wymaga połączenia z Internetem oraz odpowiednich uprawnień w celu gromadzenia Twoich danych:&lt;br />• Lokalizacja:&lt;br />w celu lokalizacji urządzenia i przełączania go w tryb zgubienia&lt;br />Jeśli nie zgodzisz się na nadanie tych uprawnień, nie będziesz mógł używać tych usług. Możesz włączyć bądź wyłączyć tę usługę w dowolnym momencie w Ustawieniach.&lt;br />Przeczytaj i zaakceptuj &lt;a href=%1$s>&lt;u>Umowę użytkownika&lt;/u>&lt;/a> oraz &lt;a href=%2$s>&lt;u>Politykę prywatności&lt;/u>&lt;/a> przed użyciem funkcji Znajdź urządzenie.&lt;br />"</string>
   <string name="privacy_doc_finddevice_with_telephony_feature_pad">"Witaj w usłudze Znajdź urządzenie! Możesz jej użyć do lokalizacji urządzenia, jego zablokowania bądź wymazania z niego danych w razie jego zagubienia. Możesz wejść na stronę &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>, aby dokonać tych czynności z poziomu przeglądarki.&lt;br />&lt;br />Do aktywacji usługi niezbędne może być wysłanie wiadomości SMS, za którą Twój operator może obciążyć Cię opłatą (w zależności od Twojej taryfy). Jeśli przełączysz karty SIM, telefon może wysłać taką wiadomość automatycznie w celu reaktywacji usługi.&lt;br />&lt;br />Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi przepisami i politykami prywatności.&lt;br />Usługa Znajdź urządzenie, w celu poprawnego działania, wymaga połączenia z Internetem oraz odpowiednich uprawnień w celu gromadzenia Twoich danych:&lt;br />• Dostęp do informacji o urządzeniu:&lt;br />w celu rozpoznawania urządzenia&lt;br />• Lokalizacja:&lt;br />w celu lokalizacji urządzenia i przełączania go w tryb zagubiony&lt;br />Jeśli nie zgodzisz się na nadanie tych uprawnień, nie będziesz mógł używać tych usług. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach.&lt;br />Przeczytaj i zaakceptuj &lt;a href=%1$s>&lt;u>Umowę użytkownika&lt;/u>&lt;/a> oraz &lt;a href=%2$s>&lt;u>Politykę prywatności&lt;/u>&lt;/a> przed użyciem funkcji Znajdź urządzenie.&lt;br />"</string>
   <string name="privacy_doc_finddevice_with_telephony_feature_phone">"Witaj w usłudze Znajdź urządzenie! Możesz jej użyć do lokalizacji urządzenia, jego zablokowania bądź wymazania z niego danych w razie jego zagubienia. Możesz wejść na stronę &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>, aby dokonać tych czynności z poziomu przeglądarki.&lt;br />&lt;br />Do aktywacji usługi niezbędne może być wysłanie wiadomości SMS, za którą Twój operator może obciążyć Cię opłatą (w zależności od Twojej taryfy). Jeśli przełączysz karty SIM, telefon może wysłać taką wiadomość automatycznie w celu reaktywacji usługi.&lt;br />&lt;br />Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi przepisami i politykami prywatności.&lt;br />Usługa Znajdź urządzenie, w celu poprawnego działania, wymaga połączenia z Internetem oraz odpowiednich uprawnień w celu gromadzenia Twoich danych:&lt;br />• Dostęp do informacji o urządzeniu:&lt;br />w celu rozpoznawania urządzenia&lt;br />• Lokalizacja:&lt;br />w celu lokalizacji urządzenia i przełączania go w tryb zagubiony&lt;br />Jeśli nie zgodzisz się na nadanie tych uprawnień, nie będziesz mógł używać tych usług. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach.&lt;br />Przeczytaj i zaakceptuj &lt;a href=%1$s>&lt;u>Umowę użytkownika&lt;/u>&lt;/a> oraz &lt;a href=%2$s>&lt;u>Politykę prywatności&lt;/u>&lt;/a> przed użyciem funkcji Znajdź urządzenie.&lt;br />"</string>
-  <string name="privacy_policy">Polityka Prywatności</string>
+  <string name="privacy_policy">Polityka prywatności</string>
   <string name="provision_sync_items_loading">Przygotowanie do synchronizacji</string>
   <string name="reading_status">Wczytywanie…</string>
   <string name="reading_status_failure">"Nie można wczytać statusu."</string>
@@ -831,7 +831,7 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="user_agreement_p8">.</string>
   <string name="user_agreement_title">"Warunki Użytkowania Chmury Xiaomi"</string>
   <string name="user_detail_agreement">Warunki Użytkowania</string>
-  <string name="user_detail_privacy_policy">Polityka Prywatności</string>
+  <string name="user_detail_privacy_policy">Polityka prywatności</string>
   <string name="user_storage_info_available_text_prefix">Dostępne %s</string>
   <string name="vcode">Kod weryfikacyjny</string>
   <string name="verify">Weryfikuj</string>

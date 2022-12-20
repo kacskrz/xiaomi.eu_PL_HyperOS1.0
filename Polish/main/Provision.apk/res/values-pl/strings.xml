@@ -6,7 +6,7 @@
   <string name="accessibility_enabled">Ułatwienia dostępu włączone.</string>
   <string name="agree">Zgadzam się</string>
   <string name="agree_and_next">Zgadzam się</string>
-  <string name="agree_terms">"Przeczytałem i zgadzam się z Warunkami Usług i Polityką Prywatności"</string>
+  <string name="agree_terms">"Przeczytałem i zgadzam się z Warunkami Usług i Polityką prywatności"</string>
   <string name="agree_terms_input_method_facemoji">"Przeczytałem i zgadzam się z Polityką prywatności Facemoji."</string>
   <string name="agree_terms_input_method_kika">"Przeczytałem i zgadzam się z Polityką prywatności Kika."</string>
   <string name="ai_button_desc">Przycisk SI pozwala Ci wywołać Asystenta Google.</string>
@@ -67,8 +67,8 @@
   <string name="framework_introduction">Framework Usług Xiaomi pozwala Ci na korzystanie z konta Xiaomi, Mi Push, Mi Stats oraz MIUI BI.</string>
   <string name="framwork_base_service">Aby dostarczać Ci te usługi, Framework Usług Xiaomi (Konto Xiaomi, Mi Push, Mi Stats, MIUI BI) wymaga połączenia z Internetem, a także dostępu do Twojego numeru telefonu, lokalizacji, numerów IMEI i IMSI, a także zezwolenia na korzystanie z powiadomień push na Twoim urządzeniu.</string>
   <string name="google_service_introduction">Aby móc działać normalnie, sklep Google Play wymaga połączenia z Internetem, a także dostępu do Twojej lokalizacji, możliwości wysyłania SMS-ów i MMS-ów, nagrywania dźwięku, wykonywania połączeń, dostępu do wydarzeń z kalendarza, historii rozmów, sensorów, pamięci, aparatu, informacji o urządzeniu oraz kontach. </string>
-  <string name="ime_privacy_policy">Polityka Prywatności wybranej klawiatury</string>
-  <string name="ime_privacy_policy_no_network">"Nie można połączyć się z siecią. Wyświetl Politykę Prywatności z %s."</string>
+  <string name="ime_privacy_policy">Polityka prywatności wybranej klawiatury</string>
+  <string name="ime_privacy_policy_no_network">"Nie można połączyć się z siecią. Wyświetl Politykę prywatności z %s."</string>
   <string name="input_method_category">"Wybierz domyślną klawiaturę do wprowadzania tekstu.
 Później będziesz mógł zainstalować inne klawiatury z Google Play."</string>
   <string name="input_method_setting">Wybierz domyślną klawiaturę</string>
@@ -83,7 +83,7 @@ Później będziesz mógł zainstalować inne klawiatury z Google Play."</string
   <string name="lockscreen_introduction">Tapety ekranu blokady dostarczają codziennie nowe tapety na Twój ekran blokady.</string>
   <string name="mint_keyboard_oobe_checkbox">"Przeczytałem i akceptuję warunki Polityki prywatności Mint Keyboard"</string>
   <string name="mint_keyboard_oobe_terms">Polityka prywatności Mint Keyboard</string>
-  <string name="miui_privacy_policy_no_network">Brak połączenia z siecią. Przeczytaj Politykę Prywatności na %s.</string>
+  <string name="miui_privacy_policy_no_network">Brak połączenia z siecią. Przeczytaj Politykę prywatności na %s.</string>
   <string name="miui_terms_no_network">Brak połączenia z siecią. Przeczytaj Warunki Użytkowania na %s.</string>
   <string name="multisim_settings_category">Opcje kart SIM</string>
   <string name="multisim_settings_title">Wykryto 2 karty SIM</string>
@@ -160,7 +160,7 @@ Później będziesz mógł zainstalować inne klawiatury z Google Play."</string
   <string name="poco_launcher_user_agreement">Umowa użytkownika POCO Launcher</string>
   <string name="pref_title_data_slot">Preferowana karta SIM (internet)</string>
   <string name="pref_title_voice_slot">Preferowana karta SIM (rozmowy)</string>
-  <string name="privacy_policy">Polityka Prywatności</string>
+  <string name="privacy_policy">Polityka prywatności</string>
   <string name="protect_persoanl_info_statement">Xiaomi chroni Twoje osobiste informacje w zgodzie z odpowiednimi przepisami, regulacjami i politykami prywatności.</string>
   <string name="provision_inputmethod_policy_description"><Data>Wyświetl &lt;a href=%1$s>Politykę prywatności&lt;/a > wybranej klawiatury.</Data></string>
   <string name="provision_inputmethod_policy_description1"/>

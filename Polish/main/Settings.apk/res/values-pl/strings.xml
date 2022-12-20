@@ -3185,7 +3185,7 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="keyguard_double_tap_to_sleep_title">Kliknij dwukrotnie, aby uśpić ekran</string>
   <string name="keyguard_notification_status_title">Gdy ekran jest wyłączony i przyjdzie powiadomienie</string>
   <string name="keyguard_security_setting_others">Pozostałe</string>
-  <string name="keyguard_security_setting_privacy_policy">Polityka Prywatności</string>
+  <string name="keyguard_security_setting_privacy_policy">Polityka prywatności</string>
   <string name="keyguard_vertical_clock_title">Pionowy zegar</string>
   <string name="keywords_accounts">konto</string>
   <string name="keywords_airplane">Tryb samolotowy;Samolot;Lot;Tryb lotu;W samolocie</string>
@@ -4803,7 +4803,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="privacy_authorize_dialog_exit">Wyjście</string>
   <string name="privacy_authorize_dialog_message">Aplikacja wymaga dostępu do sieci, aby działać normalnie. Zgoda?</string>
   <string name="privacy_authorize_network_error">Połącz z siecią i spróbuj ponownie.</string>
-  <string name="privacy_authorize_privacy_policy">Politykę Prywatności</string>
+  <string name="privacy_authorize_privacy_policy">Politykę prywatności</string>
   <string name="privacy_authorize_revoke">Odwołaj</string>
   <string name="privacy_authorize_revoke_dialog_msg">Po odwołaniu autoryzacji aplikacja przestanie zbierać dane, które zostaną usunięte z serwerów online. Aplikacja może nie działać właściwie. Odwołać autoryzację mimo to?</string>
   <string name="privacy_authorize_revoke_dialog_title">Odwoływanie autoryzacji</string>
@@ -5528,7 +5528,7 @@ Aby używać przypinania aplikacji: \u0009
   <string name="search_pref_edge_handgrip">Krawędzie</string>
   <string name="search_pref_volume_wake_title">Obudź za pomocą przycisku głośności;przycisk głośności</string>
   <string name="search_preferred_network_type_title">Preferowany typ sieci;Preferowana sieć;Typ sieci</string>
-  <string name="search_privacy_policy">Polityka Prywatności</string>
+  <string name="search_privacy_policy">Polityka prywatności</string>
   <string name="search_privacy_settings">Kopia zapasowa i reset;Kopia zapasowa;reset; tworzenie kopii zapasowej</string>
   <string name="search_radio_controls_title">Więcej;Bezprzewodowy</string>
   <string name="search_recents_queries_label">Niedawno wyszukiwane hasła</string>

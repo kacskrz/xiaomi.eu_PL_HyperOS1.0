@@ -844,7 +844,7 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="theme_user_agreement_content1">"Zapoznaj się z: "</string>
   <string name="theme_user_agreement_content2">"Umową Użytkownika"</string>
   <string name="theme_user_agreement_content3">" i "</string>
-  <string name="theme_user_agreement_content4">"Polityką Prywatności."</string>
+  <string name="theme_user_agreement_content4">"Polityką prywatności."</string>
   <string name="theme_user_agreement_content5">" Aplikacja wymaga połączenia z siecią."</string>
   <string name="theme_user_agreement_exit">Wyjdź</string>
   <string name="theme_user_agreement_remind_again">Zezwalaj na dostęp do sieci</string>

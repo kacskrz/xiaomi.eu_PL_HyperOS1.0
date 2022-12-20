@@ -32,7 +32,7 @@
     <string name="about_cancle">Anuluj</string>
     <string name="about_comment_go">Oceń nas</string>
     <string name="about_common_confirm">OK</string>
-    <string name="about_common_user_privacy_agreement">Polityka Prywatności</string>
+    <string name="about_common_user_privacy_agreement">Polityka prywatności</string>
     <string name="about_current_version">Wersja: %1$s</string>
     <string name="about_dialog_open_concise_theme_desc">Twoja postać profilowa zostanie ukryta w aplikacji.</string>
     <string name="about_dialog_open_vitality_theme_desc">Dotknij opcję Zdrowie w aplikacji, aby wyświetlić postać profilową</string>
@@ -55,27 +55,27 @@
     <string name="about_privacy_participate_improvement_plan">Dołącz do Programu zadowolenia użytkownika</string>
     <string name="about_privacy_revoke_account_confirm">Unieważnić autoryzację?</string>
     <string name="about_privacy_revoke_account_des">Unieważnij autoryzację</string>
-    <string name="about_privacy_revoke_account_ok">Po uniewanieniu autoryzacji konto aktualnie zalogowane na urządzeniu zostanie usunięte, a powiązane dane zapisane wcześniej na serwerze zostaną wyczyszczone. Zapoznaj się z punktem o Cofnięciu zgody w naszej Polityce Prywatności, aby usunąć dane ze sparowanego urządzenia. Jeśli korzystasz z monitora aktywności, przywrócenie ustawień fabrycznych wyczyści wszystkie dane znajdujące się na nim. Nie będzie możliwości cofnięcia tej akcji. Będzie wymagane ponowne zaakceptowanie naszej Polityki Prywatności i sparowanie swojego urządzenia, jeśli zdecydujesz się do nas wrócić.</string>
-    <string name="about_privacy_revoke_account_tips">"Po cofnięciu zgody na naszą Politykę Prywatności przestaniemy gromadzić Twoje dane osobowe, a konto aktualnie zalogowane na telefonie zostanie wylogowane. Zgromadzone i przechowywane dane osobowe zostaną usunięte w określonym czasie zgodnie z obowiązującymi przepisami prawa. Aby usunąć dane aplikacji z telefonu, usuń aplikację z telefonu lub wyczyść dane aplikacji w Ustawieniach. 
-1. Konto aktualnie zalogowane na sparowanym urządzeniu zostanie usunięte, a powiązane z nim dane zapisane wcześniej na serwerze zostaną wyczyszczone. Możesz wyczyścić dane zapisane na sparowanym urządzeniu (np. dane dotyczące snu, kroki) przywracając ustawienia fabryczne. Aby uzyskać więcej informacji, zobacz Wycofanie zgody w naszej Polityce Prywatności. 
+    <string name="about_privacy_revoke_account_ok">Po uniewanieniu autoryzacji konto aktualnie zalogowane na urządzeniu zostanie usunięte, a powiązane dane zapisane wcześniej na serwerze zostaną wyczyszczone. Zapoznaj się z punktem o Cofnięciu zgody w naszej Polityce prywatności, aby usunąć dane ze sparowanego urządzenia. Jeśli korzystasz z monitora aktywności, przywrócenie ustawień fabrycznych wyczyści wszystkie dane znajdujące się na nim. Nie będzie możliwości cofnięcia tej akcji. Będzie wymagane ponowne zaakceptowanie naszej Polityki prywatności i sparowanie swojego urządzenia, jeśli zdecydujesz się do nas wrócić.</string>
+    <string name="about_privacy_revoke_account_tips">"Po cofnięciu zgody na naszą Politykę prywatności przestaniemy gromadzić Twoje dane osobowe, a konto aktualnie zalogowane na telefonie zostanie wylogowane. Zgromadzone i przechowywane dane osobowe zostaną usunięte w określonym czasie zgodnie z obowiązującymi przepisami prawa. Aby usunąć dane aplikacji z telefonu, usuń aplikację z telefonu lub wyczyść dane aplikacji w Ustawieniach. 
+1. Konto aktualnie zalogowane na sparowanym urządzeniu zostanie usunięte, a powiązane z nim dane zapisane wcześniej na serwerze zostaną wyczyszczone. Możesz wyczyścić dane zapisane na sparowanym urządzeniu (np. dane dotyczące snu, kroki) przywracając ustawienia fabryczne. Aby uzyskać więcej informacji, zobacz Wycofanie zgody w naszej Polityce prywatności. 
 Jeśli zmienisz zdanie, odzyskanie powyższych danych może nie być możliwe. Aby korzystać ze swoich urządzeń, będziesz musiał ponownie je sparować. 
  
 2. Utracisz wszystkie dane i zawartość Mi Fitness. Nie będziesz mógł już przeglądać historii treningów i wskaźników zdrowia w aplikacji. 
 Możesz wyczyścić dane z pamięci podręcznej Mi Fitness i zmienić uprawnienia, do których aplikacja ma dostęp w Ustawieniach telefonu w dowolnym momencie. 
  
-Jeśli zmienisz zdanie, przed skorzystaniem z naszych usług musisz zaakceptować Politykę Prywatności i Umowę Użytkownika. 
+Jeśli zmienisz zdanie, przed skorzystaniem z naszych usług musisz zaakceptować Politykę prywatności i Umowę Użytkownika. 
  
 Powiązane dane zostaną usunięte w ciągu 15 dni."</string>
     <string name="about_privacy_revoke_confirm">Cofnięcie zgody</string>
-    <string name="about_privacy_revoke_confirm_desc">"Po cofnięciu zgody na naszą Politykę Prywatności przestaniemy gromadzić Twoje dane osobowe, a konto aktualnie zalogowane na telefonie zostanie wylogowane. Zgromadzone i przechowywane dane osobowe zostaną usunięte w określonym czasie zgodnie z obowiązującymi przepisami prawa. Aby usunąć dane aplikacji z telefonu, usuń aplikację z telefonu lub wyczyść dane aplikacji w Ustawieniach. 
-1. Konto aktualnie zalogowane na sparowanym urządzeniu zostanie usunięte, a powiązane z nim dane zapisane wcześniej na serwerze zostaną wyczyszczone. Możesz wyczyścić dane zapisane na sparowanym urządzeniu (np. dane dotyczące snu, kroki) przywracając ustawienia fabryczne. Aby uzyskać więcej informacji, zobacz Wycofanie zgody w naszej Polityce Prywatności. 
+    <string name="about_privacy_revoke_confirm_desc">"Po cofnięciu zgody na naszą Politykę prywatności przestaniemy gromadzić Twoje dane osobowe, a konto aktualnie zalogowane na telefonie zostanie wylogowane. Zgromadzone i przechowywane dane osobowe zostaną usunięte w określonym czasie zgodnie z obowiązującymi przepisami prawa. Aby usunąć dane aplikacji z telefonu, usuń aplikację z telefonu lub wyczyść dane aplikacji w Ustawieniach. 
+1. Konto aktualnie zalogowane na sparowanym urządzeniu zostanie usunięte, a powiązane z nim dane zapisane wcześniej na serwerze zostaną wyczyszczone. Możesz wyczyścić dane zapisane na sparowanym urządzeniu (np. dane dotyczące snu, kroki) przywracając ustawienia fabryczne. Aby uzyskać więcej informacji, zobacz Wycofanie zgody w naszej Polityce prywatności. 
 Jeśli zmienisz zdanie, odzyskanie powyższych danych może nie być możliwe. Aby korzystać ze swoich urządzeń, będziesz musiał ponownie je sparować. 
  
 2. Utracisz wszystkie dane i zawartość Mi Fitness. Nie będziesz mógł już przeglądać historii treningów i wskaźników zdrowia w aplikacji. 
 Możesz wyczyścić dane z pamięci podręcznej Mi Fitness i zmienić uprawnienia, do których aplikacja ma dostęp w Ustawieniach telefonu w dowolnym momencie. 
  
-Jeśli zmienisz zdanie, przed skorzystaniem z naszych usług musisz zaakceptować Politykę Prywatności i Umowę Użytkownika."</string>
-    <string name="about_privacy_revoke_des">Wycofaj zgodę na naszą Politykę Prywatności i usuń na stałe swoje dane</string>
+Jeśli zmienisz zdanie, przed skorzystaniem z naszych usług musisz zaakceptować Politykę prywatności i Umowę Użytkownika."</string>
+    <string name="about_privacy_revoke_des">Wycofaj zgodę na naszą Politykę prywatności i usuń na stałe swoje dane</string>
     <string name="about_privacy_revoke_recall">Cofnij</string>
     <string name="about_privacy_risk_dialog_negative_text">Anuluj</string>
     <string name="about_privacy_risk_dialog_positive_text">Kontynuuj</string>
@@ -98,7 +98,7 @@ Jeśli zmienisz zdanie, przed skorzystaniem z naszych usług musisz zaakceptowa�
     <string name="about_setting_newmsg_notify_opened_desc">Otrzymuj powiadomienia z tej aplikacji</string>
     <string name="about_setting_not_upload_gps">Wstrzymaj przesyłanie lokalizacji</string>
     <string name="about_setting_not_upload_gps_detail">Wstrzymaj przesyłanie danych o lokalizacji do chmury. Możesz mieć problemy z synchronizacją statystyk tras między aplikacjami i doświadczyć utraty danych trasy.</string>
-    <string name="about_setting_privacy_detail">Polityka Prywatności</string>
+    <string name="about_setting_privacy_detail">Polityka prywatności</string>
     <string name="about_setting_privacy_revoke">Cofnięcie zgody</string>
     <string name="about_setting_region">Region</string>
     <string name="about_sport_health">Mi Fitness</string>
@@ -611,7 +611,7 @@ Jeśli zmienisz zdanie, przed skorzystaniem z naszych usług musisz zaakceptowa�
     <string name="device_permission_not_agree_tips">Nie będziesz w stanie korzystać z tej usługi, dopóki nie przyznasz wymaganych uprawnień. Nie przyznanie uprawnień nie wpłynie jednak na użytkowanie innych usług. Możesz w każdej chwili ograniczyć uprawnienia w Ustawieniach.</string>
     <string name="device_photograph_setting">Aparat</string>
     <string name="device_please_to_connect">Połącz z urządzeniem</string>
-    <string name="device_privacy_message">&lt;Data>Przeczytałem i akceptuję &lt;a href=\"%1$s\">Politykę Prywatności&lt;/a>.&lt;/Data></string>
+    <string name="device_privacy_message">&lt;Data>Przeczytałem i akceptuję &lt;a href=\"%1$s\">Politykę prywatności&lt;/a>.&lt;/Data></string>
     <string name="device_rebind_fail_alert">Rozłącz urządzenie i spróbuj ponownie.</string>
     <string name="device_rebind_fail_message">Rozłącz urządzenie i spróbuj ponownie.</string>
     <string name="device_rebind_fail_title">Nie udało się dodać</string>
@@ -824,7 +824,7 @@ Włączenie tej funkcji wpłynie na żywotność baterii. Kontynuować mimo to?"
     <string name="device_settings_device_app_sort">Sortuj aplikacje</string>
     <string name="device_settings_device_info_model">Model</string>
     <string name="device_settings_device_mac">Adres MAC</string>
-    <string name="device_settings_device_privacy_policy">Polityka Prywatności</string>
+    <string name="device_settings_device_privacy_policy">Polityka prywatności</string>
     <string name="device_settings_device_serial_number">Nr seryjny</string>
     <string name="device_settings_device_user_agreement">Umowa Użytkownika</string>
     <string name="device_settings_device_version">Wersja</string>
@@ -976,8 +976,8 @@ aby rozparować telefon i opaskę"</string>
     <string name="device_settings_reminder_today_items">Dzisiaj: %1$s</string>
     <string name="device_settings_reminder_tomorrow_items">Jutro: %1$s</string>
     <string name="device_settings_revoke_authorization">Unieważnij autoryzację</string>
-    <string name="device_settings_revoke_authorization_dialog_content">Kontynuacja oznacza wycofanie zgody na naszą Politykę Prywatności. Obecnie zalogowane konto na Twoim sparowanym urządzeniu zostanie usunięte. Usuń usługi Mi Fitness, aby wyczyścić wszystkie dane przechowywane w aplikacji. Zapoznaj się z podpunktem o Cofnięciu zgody w naszej Polityce Prywatności, aby usunąć dane ze sparowanego urządzenia. Jeśli używasz monitora aktywności, przywrócenie ustawień fabrycznych wyczyści wszystkie dane znajdujące się na nim. Nie będziesz mógł cofnąć tej akcji. Będzie wymagane ponowne wyrażenie zgody na naszą Politykę Prywatności i sparowanie swojego urządzenia, jeśli zdecydujesz się do nas wrócić.</string>
-    <string name="device_settings_revoke_authorization_dialog_content_oversea">"Po cofnięciu autoryzacji konto aktualnie zalogowane na urządzeniu zostanie usunięte, a powiązane dane zapisane wcześniej na serwerze zostaną wyczyszczone. Zapoznaj się z punktem o Cofnięciu zgody w naszej Polityce Prywatności, aby usunąć dane ze sparowanego urządzenia. Jeśli korzystasz z monitora aktywności, przywrócenie ustawień fabrycznych wyczyści wszystkie dane znajdujące się na nim. Nie będzie możliwości cofnięcia tej akcji. Będzie wymagane ponowne zaakceptowanie naszej Polityki Prywatności i sparowanie swojego urządzenia, jeśli zdecydujesz się do nas wrócić.
+    <string name="device_settings_revoke_authorization_dialog_content">Kontynuacja oznacza wycofanie zgody na naszą Politykę prywatności. Obecnie zalogowane konto na Twoim sparowanym urządzeniu zostanie usunięte. Usuń usługi Mi Fitness, aby wyczyścić wszystkie dane przechowywane w aplikacji. Zapoznaj się z podpunktem o Cofnięciu zgody w naszej Polityce prywatności, aby usunąć dane ze sparowanego urządzenia. Jeśli używasz monitora aktywności, przywrócenie ustawień fabrycznych wyczyści wszystkie dane znajdujące się na nim. Nie będziesz mógł cofnąć tej akcji. Będzie wymagane ponowne wyrażenie zgody na naszą Politykę prywatności i sparowanie swojego urządzenia, jeśli zdecydujesz się do nas wrócić.</string>
+    <string name="device_settings_revoke_authorization_dialog_content_oversea">"Po cofnięciu autoryzacji konto aktualnie zalogowane na urządzeniu zostanie usunięte, a powiązane dane zapisane wcześniej na serwerze zostaną wyczyszczone. Zapoznaj się z punktem o Cofnięciu zgody w naszej Polityce prywatności, aby usunąć dane ze sparowanego urządzenia. Jeśli korzystasz z monitora aktywności, przywrócenie ustawień fabrycznych wyczyści wszystkie dane znajdujące się na nim. Nie będzie możliwości cofnięcia tej akcji. Będzie wymagane ponowne zaakceptowanie naszej Polityki prywatności i sparowanie swojego urządzenia, jeśli zdecydujesz się do nas wrócić.
 Dane powiązanego urządzenia zostaną usunięte w ciągu 7 dni."</string>
     <string name="device_settings_revoke_authorization_dialog_title">Uwaga</string>
     <string name="device_settings_revoke_authorization_dialog_title_oversea">Unieważnić autoryzację?</string>
@@ -2444,7 +2444,7 @@ Zacznij od początku."</string>
     <string name="login_privacy_add_experience_tips">&lt;Data>Dołącz do &lt;a href=\"%1$s\">Programu Zadowolenia Użytkownika&lt;/a>, aby pomóc ulepszyć nasze produkty i usługi udostępniając nam swoje statystyki.&lt;/Data></string>
     <string name="login_privacy_add_experience_tips_korea">&lt;Data>Dołącz do &lt;a href=\"%1$s\">Programu Zadowolenia Użytkownika&lt;/a>, aby pomóc ulepszyć nasze produkty i usługi udostępniając nam swoje statystyki (opcjonalne).&lt;/Data></string>
     <string name="login_privacy_agree_all">Zgadzam się na wszystko</string>
-    <string name="login_privacy_agree_protocol_and_policy">&lt;Data>Przeczytaj i zaakceptuj naszą &lt;a href=\"%1$s\">Umowę użytkownika&lt;/a> i &lt;a href=\"%2$s\">Politykę Prywatności&lt;/a>.&lt;/Data></string>
+    <string name="login_privacy_agree_protocol_and_policy">&lt;Data>Przeczytaj i zaakceptuj naszą &lt;a href=\"%1$s\">Umowę użytkownika&lt;/a> i &lt;a href=\"%2$s\">Politykę prywatności&lt;/a>.&lt;/Data></string>
     <string name="login_privacy_agree_tips">Możesz w każdej chwili dostosować swoje preferencje uprawnień w Ustawieniach.</string>
     <string name="login_privacy_agree_to_terms_kr">Warunki użytkowania</string>
     <string name="login_privacy_common_agree">Zgadzam się</string>
@@ -2456,8 +2456,8 @@ Zacznij od początku."</string>
     <string name="login_privacy_rights_des">Witamy w Mi Fitness. Możesz używać tej aplikacji do zarządzania urządzeniami, śledzenia swoich treningów i wyświetlania danych fitness. Będziemy chronić Twoje dane osobowe zgodnie z odpowiednimi przepisami prawa, regulacjami i polityką prywatności. Aplikacja wymaga połączenia z internetem, aby działać poprawnie.</string>
     <string name="login_privacy_rights_kr_des">Witamy w Mi Fitness. Możesz używać tej aplikacji do zarządzania urządzeniami, śledzenia swoich treningów i wyświetlania danych fitness. Będziemy chronić Twoje dane osobowe zgodnie z odpowiednimi przepisami prawa, regulacjami i polityką prywatności.</string>
     <string name="login_privacy_rights_statement">Warunki użytkowania</string>
-    <string name="login_privacy_update_tips">&lt;Data>Nasza &lt;a href=\"%1$s\">Polityka Prywatności&lt;/a> została zaktualizowana. Aby w pełni zrozumieć swoje prawa, a także w jaki sposób przetwarzamy Twoje dane, przeczytaj i zaakceptuj nową Politykę Prywatności, zanim przejdziesz dalej.&lt;/Data></string>
-    <string name="login_privacy_update_title">Zaktualizowana Polityka Prywatności</string>
+    <string name="login_privacy_update_tips">&lt;Data>Nasza &lt;a href=\"%1$s\">Polityka prywatności&lt;/a> została zaktualizowana. Aby w pełni zrozumieć swoje prawa, a także w jaki sposób przetwarzamy Twoje dane, przeczytaj i zaakceptuj nową Politykę prywatności, zanim przejdziesz dalej.&lt;/Data></string>
+    <string name="login_privacy_update_title">Zaktualizowana Polityka prywatności</string>
     <string name="login_record_title">Nagrywanie dźwięku</string>
     <string name="login_record_title_des">Do nagrywania chrapania i mówienia podczas analizowania cyklów snów</string>
     <string name="login_region_auto_getting">Lokalizowanie…</string>
@@ -2784,7 +2784,7 @@ Zdobądź tę nagrodę"</string>
     <string name="nfc_master_translations_empty">Brak danych</string>
     <string name="nfc_mastercard_add_number_dialog_msg">Zajmuje to około 2 minut.</string>
     <string name="nfc_mi_pay_not_support">Ta funkcja jest obsługiwana tylko w telefonach z systemem Android 6.0 lub nowszym</string>
-    <string name="nfc_mi_pay_proto_new">&lt;Data>Przeczytałem i zaakceptowałem &lt;a href=\"%1$s\">Politykę Prywatności %2$s &lt;/a>.&lt;/Data></string>
+    <string name="nfc_mi_pay_proto_new">&lt;Data>Przeczytałem i zaakceptowałem &lt;a href=\"%1$s\">Politykę prywatności %2$s &lt;/a>.&lt;/Data></string>
     <string name="nfc_mi_pay_user_proto_master_new">&lt;Data>Przeczytałem i zgadzam się z &lt;a href=\"%1$s\">%2$s Polityką prywatności &lt;/a> i &lt;a href=\"%3$s\">%4$s Warunkami użytkowania&lt;/a>.&lt;/Data></string>
     <string name="nfc_mi_pay_user_proto_privacy">Polityka prywatności</string>
     <string name="nfc_mi_pay_user_proto_user">Umowa użytkownika</string>
@@ -3296,7 +3296,7 @@ Ten krok jest wymagany, aby zapłacić urządzeniem."</string>
     <string name="sport_placement_suggestions">Gdzie umieścić telefon?</string>
     <string name="sport_position_fun">Lokalizacja jest wyłączona</string>
     <string name="sport_press_gym_button">Press the button</string>
-    <string name="sport_privacy_agreement">Polityka Prywatności</string>
+    <string name="sport_privacy_agreement">Polityka prywatności</string>
     <string name="sport_privacy_risk_dialog_negative_text">Anuluj</string>
     <string name="sport_rate_dist_aerobic_new">Aerobowa</string>
     <string name="sport_rate_dist_anaerobic_new">Anaerobowa</string>
@@ -3310,7 +3310,7 @@ Ten krok jest wymagany, aby zapłacić urządzeniem."</string>
     <string name="sport_recommended_use">Zalecane</string>
     <string name="sport_reconnect">Łączenie…</string>
     <string name="sport_reject">Odmów</string>
-    <string name="sport_revoke_authorization_dialog_content">Kontynuacja oznacza wycofanie zgody na naszą Politykę Prywatności. Obecnie zalogowane konto na Twoim sparowanym urządzeniu zostanie usunięte. Usuń usługi Mi Fitness, aby wyczyścić wszystkie dane przechowywane w aplikacji. Zapoznaj się z podpunktem o Cofnięciu zgody w naszej Polityce Prywatności, aby usunąć dane ze sparowanego urządzenia. Jeśli używasz monitora aktywności, przywrócenie ustawień fabrycznych wyczyści wszystkie dane znajdujące się na nim. Nie będziesz mógł cofnąć tej akcji. Będzie wymagane ponowne wyrażenie zgody na naszą Politykę Prywatności i sparowanie swojego urządzenia, jeśli zdecydujesz się do nas wrócić.</string>
+    <string name="sport_revoke_authorization_dialog_content">Kontynuacja oznacza wycofanie zgody na naszą Politykę prywatności. Obecnie zalogowane konto na Twoim sparowanym urządzeniu zostanie usunięte. Usuń usługi Mi Fitness, aby wyczyścić wszystkie dane przechowywane w aplikacji. Zapoznaj się z podpunktem o Cofnięciu zgody w naszej Polityce prywatności, aby usunąć dane ze sparowanego urządzenia. Jeśli używasz monitora aktywności, przywrócenie ustawień fabrycznych wyczyści wszystkie dane znajdujące się na nim. Nie będziesz mógł cofnąć tej akcji. Będzie wymagane ponowne wyrażenie zgody na naszą Politykę prywatności i sparowanie swojego urządzenia, jeśli zdecydujesz się do nas wrócić.</string>
     <string name="sport_revoke_authorization_dialog_title">Uwaga</string>
     <string name="sport_revoke_authorization_ensure_revoke">Kontynuuj</string>
     <string name="sport_run_distance">Dystans</string>
@@ -3327,7 +3327,7 @@ Ten krok jest wymagany, aby zapłacić urządzeniem."</string>
     <string name="sport_setting_check_update">Zaktualizuj</string>
     <string name="sport_setting_hert_rate_remind_desc">Aby korzystać z tej funkcji, włącz Ciągłe monitorowanie.</string>
     <string name="sport_setting_hert_rate_remind_tip">Alerty o tętnie</string>
-    <string name="sport_setting_privacy_detail">Polityka Prywatności</string>
+    <string name="sport_setting_privacy_detail">Polityka prywatności</string>
     <string name="sport_setting_privacy_revoke">Cofnięcie zgody</string>
     <string name="sport_speed_remind_detail">Prędkość</string>
     <string name="sport_speed_remind_detail_alert">Alert o szybkości</string>

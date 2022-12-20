@@ -275,7 +275,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="privacy_policy">Polityka prywatności</string>
   <string name="privacy_revoke_failed">"Nie można odwołać autoryzacji. Spróbuj ponownie później."</string>
   <string name="privacy_revoke_success">Pomyślnie odwołano autoryzację</string>
-  <string name="privacy_settings">Polityka Prywatności</string>
+  <string name="privacy_settings">Polityka prywatności</string>
   <string name="pull_fresh_updated">Pomyślnie zaktualizowano</string>
   <string name="pull_fresh_updating">Aktualizacja...</string>
   <string name="q_version_location_provider_btn_text">Włącz dostęp do lokalizacji i popraw jej dokładność</string>

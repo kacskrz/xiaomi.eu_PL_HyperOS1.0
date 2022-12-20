@@ -67,7 +67,7 @@ Wpisz numer powiązany z nową kartą SIM aby aktywować ponownie %s"</string>
   <string name="activate_popup_desc_register_account_intl">Utworzenie twojego konta Xiaomi może wymagać wysłania międzynarodowego SMS. Twój operator naliczy opłatę za tę wiadomość.</string>
   <string name="activate_popup_desc_sim_card">Zostanie wysłany SMS w celu rejestracji %s. Operator może naliczyć opłatę.</string>
   <string name="activate_popup_desc_sim_card_downlink">Aby aktywować %s, wpisz numer telefonu</string>
-  <string name="activate_popup_desc_voip_privacy">Polityka Prywatności</string>
+  <string name="activate_popup_desc_voip_privacy">Polityka prywatności</string>
   <string name="activate_popup_desc_voip_privacy_prefix">"Usługa VoIP należy do Weihui."</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">"Nie udało się znaleźć numeru"</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">"Nie można wysłać wiadomości"</string>

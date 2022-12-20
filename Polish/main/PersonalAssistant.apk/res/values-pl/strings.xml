@@ -196,9 +196,9 @@
   <string name="cta_dialog_text1">"Aby skorzystać z Asystenta, zapoznaj się z: "</string>
   <string name="cta_dialog_text2">\"Umowa Użytkownika\"</string>
   <string name="cta_dialog_text3">" oraz "</string>
-  <string name="cta_dialog_text4">\"Polityka Prywatności\".</string>
+  <string name="cta_dialog_text4">\"Polityka prywatności\".</string>
   <string name="cta_dialog_text5">" Usługa wymaga połączenia z internetem i dostępu do usługi lokalizacyjnej. Zgadzasz się na powyższe?"</string>
-  <string name="cta_dialog_text_all">Aby korzystać z Asystenta musisz zgodzić się na %1$s\"Umowa Użytkownika\" %2$s i %3$s \"Polityka Prywatności\" %4$s. Usługa wymaga także dostępu do sieci i lokalizacji urządzenia.</string>
+  <string name="cta_dialog_text_all">Aby korzystać z Asystenta musisz zgodzić się na %1$s\"Umowa Użytkownika\" %2$s i %3$s \"Polityka prywatności\" %4$s. Usługa wymaga także dostępu do sieci i lokalizacji urządzenia.</string>
   <string name="cta_dialog_title">Warunki Użytkowania</string>
   <string name="cta_dialog_miot_text_all">W celu poprawnego działania Mi Home może potrzebować informacji o Twojej sieci, lokalizacji, uprawnień do włączania Bluetooth, używania Twoich danych komórkowych, mikrofonu i kontaktów. Potwierdzić?</string> 
   <string name="cta_negative">Zamknij</string>

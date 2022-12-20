@@ -840,7 +840,7 @@
   <string name="app_drawer_tip_title">Zastąpiliśmy Źródło treści Szufladą aplikacji.</string>
   <string name="app_install_state">Zainstalowano</string>
   <string name="branch_feature_description">Oprócz aplikacji, Szybkie wyszukiwanie może wyszukiwać treści w aplikacji oraz elementy online.</string>
-  <string name="branch_guide_attention">Korzystanie z rozszerzonego wyszukiwania wymaga udostępniania żądań wyszukiwania, identyfikatora Google Ads i adresu IP firmie Branch Metrics Inc. Przeczytaj i zaakceptuj Warunki użytkowania Discovery i Politykę Prywatności Branch Discovery przed skorzystaniem z tej funkcji. </string>
+  <string name="branch_guide_attention">Korzystanie z rozszerzonego wyszukiwania wymaga udostępniania żądań wyszukiwania, identyfikatora Google Ads i adresu IP firmie Branch Metrics Inc. Przeczytaj i zaakceptuj Warunki użytkowania Discovery i Politykę prywatności Branch Discovery przed skorzystaniem z tej funkcji. </string>
   <string name="branch_guide_description_one">Wszystkie Twoje aplikacje umieszczone zostaną w Szufladzie aplikacji. Twój pulpit będzie schludny i uporządkowany.</string>
   <string name="branch_guide_description_three">Dzięki wbudowanej wyszukiwarce w mgnieniu oka znajdziesz wszystko, czego potrzebujesz!</string>
   <string name="branch_guide_description_two">Szuflada aplikacji automatycznie klasyfikuje aplikacje.</string>
@@ -853,9 +853,9 @@
   <string name="branch_guide_type_one_desc">Zarządzaj swoimi aplikacjami za pomocą Szuflady aplikacji</string>
   <string name="branch_guide_type_one_main">Przechowuj swoje aplikacje w Szufladzie aplikacji, aby uporządkować swój pulpit.</string>
   <string name="branch_new_feature">Nowa funkcja</string>
-  <string name="branch_privacy_policy">Polityka Prywatności</string>
+  <string name="branch_privacy_policy">Polityka prywatności</string>
   <string name="branch_search_guide_description">Nasze wyniki wyszukiwania są teraz znacznie bardziej szczegółowe</string>
-  <string name="branch_search_guide_privacy">Ta usługa jest obsługiwana przez Branch Metrics Inc. Informacje o Twojej lokalizacji, wyszukiwane hasła i identyfikator Google Ads zostaną udostępnione Branch. Przeczytaj i zaakceptuj Warunki Użytkowania i Politykę Prywatności przed skorzystaniem z tej usługi.</string>
+  <string name="branch_search_guide_privacy">Ta usługa jest obsługiwana przez Branch Metrics Inc. Informacje o Twojej lokalizacji, wyszukiwane hasła i identyfikator Google Ads zostaną udostępnione Branch. Przeczytaj i zaakceptuj Warunki Użytkowania i Politykę prywatności przed skorzystaniem z tej usługi.</string>
   <string name="branch_search_guide_title">Znajdź to, czego szukasz w swoich ulubionych aplikacjach</string>
   <string name="branch_terms_condition">Warunkami użytkowania</string>
   <string name="branch_tip_title">Dzięki funkcji Szybkie wyszukiwanie w mgnieniu oka znajdziesz wszystko, czego potrzebujesz.</string>
@@ -888,13 +888,13 @@
   <string name="request_permission_title">Wymagane uprawnienia</string>
   <string name="search_bar_hint_content">Wyszukaj aplikacje i ich zawartość</string>
   <string name="search_guide_btn">Rozumiem</string>
-  <string name="service_double_attention">Ulepszone funkcje wyszukiwania są dostarczane przez Branch Metrics Inc. Aby ta funkcja działała, musimy udostępniać Twoje żądania wyszukiwania, identyfikator Google Ads i adres IP firmie Branch Metrics Inc. Przeczytaj i zaakceptuj Warunki użytkowania Discovery i Politykę Prywatności Branch Discovery przed skorzystaniem z tej funkcji.</string>
+  <string name="service_double_attention">Ulepszone funkcje wyszukiwania są dostarczane przez Branch Metrics Inc. Aby ta funkcja działała, musimy udostępniać Twoje żądania wyszukiwania, identyfikator Google Ads i adres IP firmie Branch Metrics Inc. Przeczytaj i zaakceptuj Warunki użytkowania Discovery i Politykę prywatności Branch Discovery przed skorzystaniem z tej funkcji.</string>
   <string name="suggestions">Sugestie</string>
   <string name="switch_on_button">Włącz</string>
   <string name="term_of_service">Warunki użytkowania</string>
-  <string name="terms_of_services_one">Witamy w Szufladzie aplikacji i Szybkim wyszukiwaniu. Szybkie wyszukiwanie umożliwia szybsze znajdowanie aplikacji, treści w aplikacji i elementów online. Przeczytaj i zaakceptuj Politykę Prywatności Xiaomi przed skorzystaniem z tej funkcji.</string>
+  <string name="terms_of_services_one">Witamy w Szufladzie aplikacji i Szybkim wyszukiwaniu. Szybkie wyszukiwanie umożliwia szybsze znajdowanie aplikacji, treści w aplikacji i elementów online. Przeczytaj i zaakceptuj Politykę prywatności Xiaomi przed skorzystaniem z tej funkcji.</string>
   <string name="terms_of_services_three">Możesz wyłączyć tę funkcję w Ustawieniach.</string>
-  <string name="terms_of_services_two">Korzystanie z rozszerzonego wyszukiwania wymaga udostępnienia niezbędnych danych osobowych, w tym wyszukiwanych haseł, identyfikatora reklamowego Google i adresu IP, firmie Branch Metrics Inc. Firma ta przetwarza dane osobowe zgodnie z Polityką Prywatności Branch Discovery. Przeczytaj i zaakceptuj Warunki użytkownika końcowego Discovery i Warunki użytkowania oraz Politykę Prywatności Branch Discovery przed skorzystaniem z tej funkcji.</string>
+  <string name="terms_of_services_two">Korzystanie z rozszerzonego wyszukiwania wymaga udostępnienia niezbędnych danych osobowych, w tym wyszukiwanych haseł, identyfikatora reklamowego Google i adresu IP, firmie Branch Metrics Inc. Firma ta przetwarza dane osobowe zgodnie z Polityką prywatności Branch Discovery. Przeczytaj i zaakceptuj Warunki użytkownika końcowego Discovery i Warunki użytkowania oraz Politykę prywatności Branch Discovery przed skorzystaniem z tej funkcji.</string>
   <string name="uni_search_permission_content">Włącz funkcje wyszukiwania online. (Usługi wyszukiwania są świadczone przez Branch.)</string>
   <string name="uni_search_permission_msg">Zezwól POCO Launcher na dostęp do lokalizacji i kontaktów, aby poprawić wyniki wyszukiwania.</string>
   <string name="uni_search_permission_title">Usprawnione wyszukiwanie</string>

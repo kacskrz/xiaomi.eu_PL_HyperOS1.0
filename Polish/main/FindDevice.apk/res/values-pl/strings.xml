@@ -54,7 +54,7 @@
   <string name="stop_on_empty_password">"Hasło nie może być puste"</string>
   <string name="sys_notification_async_open_failed_content">Spróbuj ponownie lub zakończ.</string>
   <string name="sys_notification_async_open_failed_title">"Nie można włączyć Lokalizacji urządzenia"</string>
-  <string name="sys_notification_async_verify_content">Po aktualizacji naszej Polityki Prywatności Lokalizacja urządzenia musi zostać aktywowana ponownie</string>
+  <string name="sys_notification_async_verify_content">Po aktualizacji naszej Polityki prywatności Lokalizacja urządzenia musi zostać aktywowana ponownie</string>
   <string name="sys_notification_async_verify_title">Reaktywacja Lokalizacji urządzenia</string>
   <string name="time_correction_failure">"Nie można dostosować czasu (%s)"</string>
   <string name="time_correction_success">Czas poprawiony</string>

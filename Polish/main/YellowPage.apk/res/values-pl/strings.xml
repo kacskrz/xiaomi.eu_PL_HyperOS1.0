@@ -161,7 +161,7 @@ Check your tracking number."</string>
   <string name="upload_and_verify_fraud_num_on">Share blocked telemarketer info</string>
   <string name="uploads_disabled">File uploads are disabled</string>
   <string name="user_agreement2">" Warunki Usług"</string>
-  <string name="user_agreement4">Polityka Prywatności</string>
+  <string name="user_agreement4">Polityka prywatności</string>
   <string name="user_notice_identify_summary_format">"Do blokowania niechcianych numerów funkcja wykorzystuje bazę danych MIUI podczas połączenia z Wi-Fi. Korzystając z funkcji zgadzasz się na %1$s i %2$s."</string>
   <string name="user_notice_identify_summary_format_cta">"Do blokowania niechcianych numerów funkcja wykorzystuje bazę danych MIUI podczas połączenia z Wi-Fi. Korzystając z funkcji zgadzasz się na %1$s i %2$s."</string>
   <string name="user_notice_title">Uwaga</string>

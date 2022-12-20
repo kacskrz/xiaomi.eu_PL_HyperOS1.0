@@ -1136,7 +1136,7 @@
      <string name="unrecognized_model">Nieznane urządzenie</string>
      <string name="user_agree">Zgoda</string>
      <string name="user_agreement2">" Warunki Usługi"</string>
-     <string name="user_agreement4">Polityka Prywatności</string>
+     <string name="user_agreement4">Polityka prywatności</string>
      <string name="user_notice_identify_summary_format">"Korzystając z aplikacji, zgadzasz się na &lt;a href=\"%1$s\">\"Warunki użytkowania\"&lt;/a> i &lt;a href=\"%2$s\">\"Politykę prywatności\"&lt;/a> Xiaomi."</string>
      <string name="user_notice_title">Uwaga</string>
      <string name="v7_preference_off">OFF</string>
