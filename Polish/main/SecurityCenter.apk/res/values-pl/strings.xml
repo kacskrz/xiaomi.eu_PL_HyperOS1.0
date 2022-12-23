@@ -214,7 +214,7 @@
   <string name="app_behavior_monitor_tips_if_trust">Jeśli ufasz tej aplikacji, możesz wyłączyć powiadomienia o wykonywanych przez nią wrażliwych akcjach</string>
   <string name="app_behavior_monitor_tips_key">Powiadomienia o wrażliwych akcjach</string>
   <string name="app_behavior_monitor_tips_summary">Możesz otrzymywać powiadomienia, kiedy aplikacje nagrywają dźwięk, uzyskują Twoją lokalizację lub wykonują inne wrażliwe akcje w tle.</string>
-  <string name="app_behavior_no_recorder">"Nie znaleziono rezultatów"</string>
+  <string name="app_behavior_no_recorder">"Brak elementów"</string>
   <string name="app_behavior_notification_audio_now_one">Aplikacja %1s nagrywa dźwięk</string>
   <string name="app_behavior_notification_audio_now_two" formatted="false">Aplikacje %1s oraz %2s nagrywają dźwięk</string>
   <string name="app_behavior_notification_camera_one">Aplikacja %1s korzysta z Aparatu</string>
@@ -5224,7 +5224,7 @@ Wycofać zgodę?"</string>
     <string name="power_center_surface_temp_higher">Ciepła</string>
     <string name="power_center_surface_temp_low">Zimna</string>
     <string name="power_center_surface_temp_lower">Chłodna</string>
-    <string name="power_center_surface_temp_normal">Normalna</string>
+    <string name="power_center_surface_temp_normal">OK</string>
     <string name="power_rank_surface_flinger">Renderowanie</string>
     <string name="power_rank_system">System Android</string>
     <string name="system_anti_fraud_dialog_confirm_btn_txt">Rozumiem</string>
@@ -5742,4 +5742,16 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="vb_video_effects_immersion_sound_summary">Doświadcz immersji i poczucia przestrzeni, gdy w słuchawkach odtwarzany jest obsługiwany dźwięk</string>
     <string name="vb_video_effects_spatial_summary_new">Doświadcz zwiększonego poczucia przestrzeni i kierunku w wspieranych filmach i utworach oraz dostosowuj dźwięk przestrzenny w oparciu o ruchy głowy</string>
     <string name="pc_high_temp_protection_noti_summary2">"Nie można używać teraz hotspotów"</string>
+    <string name="app_behavior_record_cancel">Anuluj</string>
+    <string name="app_behavior_record_close">Wyłącz</string>
+    <string name="app_behavior_record_close_title">Wyłącz</string>
+    <string name="app_behavior_record_hide_system">Ukryj aplikacje systemowe</string>
+    <string name="app_behavior_record_open">Włącz</string>
+    <string name="app_behavior_record_open_content_text">Dane dot. zachowań aplikacji pokazują to, co robią Twoje aplikacje, pomagając Ci uniknąć zagrożeń bezpieczeństwa.</string>
+    <string name="app_behavior_record_show_system">Pokaż aplikacje systemowe</string>
+    <string name="global_dock_guide_desc_with_split_screen">"· Dotknij aplikacji na pasku bocznym, aby otworzyć ją w pływającym oknie.
+· Przeciągnij aplikację na środek ekranu, aby otworzyć ją w pływającym oknie lub do krawędzi, aby użyć Dzielenia ekranu.
+· Przytrzymaj pasek, aby przenieść okno."</string>
+    <string name="global_dock_guide_desc_without_split_screen">"· Dotknij aplikacji na pasku bocznym, aby otworzyć ją w pływającym oknie.
+· Przytrzymaj pasek, aby przenieść okno."</string>
 </resources>

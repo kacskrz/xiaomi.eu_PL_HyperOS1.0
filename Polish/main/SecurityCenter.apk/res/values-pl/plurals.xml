@@ -1221,4 +1221,8 @@ Zrób sobie przerwę!"</item>
         <item quantity="other">Twoje członkostwo Game Turbo wygaśnie za %d dni. Odnów je teraz, aby cieszyć się grą.</item>
         <item quantity="one">Twoje członkostwo Game Turbo wygaśnie za %d dzień. Odnów je teraz, aby cieszyć się grą.</item>
     </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="one">Dane dot. zachowań aplikacji są przechowywane na tym urządzeniu już przez %d dzień. Jeśli wyłączysz tę funkcję, nowe rekordy nie będą już się pojawiać, a stare zostaną usunięte. Wyłączyć?</item>
+        <item quantity="other">Dane dot. zachowań aplikacji są przechowywane na tym urządzeniu od %d dni. Jeśli wyłączysz tę funkcję, nowe rekordy nie będą już się pojawiać, a stare zostaną usunięte. Wyłączyć?</item>
+    </plurals>
 </resources>
