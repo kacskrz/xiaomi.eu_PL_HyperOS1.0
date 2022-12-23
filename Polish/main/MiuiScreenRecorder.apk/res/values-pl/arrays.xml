@@ -36,4 +36,10 @@
         <item>Pamięć wewnętrzna</item>
         <item>Karta SD</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>Brak</item>
+        <item>Mikrofon</item>
+        <item>System</item>
+        <item>Oba</item>
+    </string-array>
 </resources>

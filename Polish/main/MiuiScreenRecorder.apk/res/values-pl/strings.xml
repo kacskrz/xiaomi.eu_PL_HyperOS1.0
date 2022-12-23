@@ -168,4 +168,5 @@ Dotknij, aby je zobaczyć."</string>
   <string name="invisible_mode_error_tip">"Jesteś w trybie incognito. Nie możesz nagrywać dźwięku."</string>
   <string name="app_notification_record_saved">"Zapisano nagranie.
 Dotknij, aby je zobaczyć."</string>
+  <string name="record_time_too_short">Nagrany film jest za krótki</string>
 </resources>

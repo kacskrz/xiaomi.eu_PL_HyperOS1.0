@@ -459,4 +459,42 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="scanner_lower_version_toast">Zaktualizuj MIUI+ na komputerze, aby się połączyć</string>
     <string name="worker_authorization_message">Po nawiązaniu połączenia możesz użyć komputera do zarządzania elementami na urządzeniu.</string>
     <string name="worker_connect_fail_message">Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+    <string name="cast_mcc_tips_message_china">Aby uniknąć opóźnień przy korzystaniu z MIUI+, połącz oba urządzenia z tą samą siecią Wi-Fi.</string>
+    <string name="cast_mcc_tips_title_china">Zmień ustawienia Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_subtitle_china">Do przesyłania elementów i łączenia urządzeń przez Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_title_china">Włączanie i wyłączanie Wi-Fi</string>
+    <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ pozwala Ci na bezproblemowe przełączanie się między urządzeniami, gdy chcesz zedytować zdjęcia wykonane telefonem na swoim tablecie. Włączyć Wi-Fi, aby skorzystać z handoff?</string>
+    <string name="global_cta_agree">Zgadzam się</string>
+    <string name="global_cta_desc">Witaj w %s! Aplikacja dostarcza następujące usługi:</string>
+    <string name="global_cta_exit">"Nie zgadzam się"</string>
+    <string name="global_cta_feature_connect">Łączenie telefonów i tabletów za pomocą Twojego konta Xiaomi</string>
+    <string name="global_cta_feature_control">Wyświetlanie i korzystanie z aplikacji ze smartfona na Twoim tablecie</string>
+    <string name="global_cta_user_agreement">Przed skorzystaniem z %1$s przeczytaj i zaakceptuj warunki &lt;txt href=\"%2$s\">Umowy użytkownika&lt;/txt> i &lt;txt href=\"%3$s\">Polityki prywatności&lt;/txt>.</string>
+    <string name="loading_view_load_timeout_sub_china">"Upewnij się, że na obu urządzeniach włączono Wi-Fi i znajdują się one blisko siebie.
+Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
+    <string name="login_xiaomi_account_cancel">Anuluj</string>
+    <string name="login_xiaomi_account_goto_login">Zaloguj się</string>
+    <string name="login_xiaomi_account_summary_pad">Aby móc łączyć się z innymi telefonami, użyj tego samego konta Xiaomi na obu urządzeniach. Zalogować się?</string>
+    <string name="login_xiaomi_account_summary_phone">Aby móc łączyć się z innymi tabletami, użyj tego samego konta Xiaomi na obu urządzeniach. Zalogować się?</string>
+    <string name="login_xiaomi_account_title">Zaloguj się na konto Xiaomi</string>
+    <string name="notification_state_cancel">Rozłącz</string>
+    <string name="notification_state_content">"To urządzenie jest połączone z komputerem %1$s. Teraz możesz udostępniać myszki i klawiatury, pliki oraz obrazy."</string>
+    <string name="notification_state_title">Pomyślnie połączono</string>
+    <string name="pad_pc_share_introduction_summary">"Użyj myszki i klawiatury z komputera na tablecie"</string>
+    <string name="pad_pc_share_introduction_title">Urządzenia wejściowe</string>
+    <string name="privacy_describe_change_wifi_state_china">W celu łączenia się z urządzeniami i przesyłania plików za pomocą Wi-Fi</string>
+    <string name="share_pc_abort_dialog_message">Upewnij się, że na obu urządzeniach są włączone Bluetooth i Wi-Fi, a następnie zacznij sesję ponownie na komputerze.</string>
+    <string name="share_pc_abort_dialog_message_china">Upewnij się, że na obu urządzeniach są włączone Bluetooth i Wi-Fi, a następnie zacznij sesję ponownie na komputerze.</string>
+    <string name="share_pc_abort_dialog_ok">OK</string>
+    <string name="share_pc_abort_dialog_title">Połączenie przerwane</string>
+    <string name="share_pc_file_transfer_finish">Pomyślnie przesłano</string>
+    <string name="share_pc_folder_error_dialog_message">"Przeciąganie folderów w celu ich przesłania nie jest obecnie wspierane."</string>
+    <string name="share_pc_folder_error_dialog_ok">OK</string>
+    <string name="share_pc_folder_error_dialog_title">"Nie udało się wysłać"</string>
+    <string name="share_pc_folder_multi_error_dialog_message">"Pomyślnie przesłano wybrane pliki. Przesyłanie folderów nie jest obecnie wspierane."</string>
+    <string name="share_pc_folder_multi_error_dialog_ok">OK</string>
+    <string name="share_pc_folder_multi_error_dialog_title">"Nie udało się przesłać wszystkich elementów"</string>
+    <string name="switch_wlan_failed_desc_china">"Nie udało się automatycznie połączyć z tą siecią Wi-Fi. Spróbuj to zrobić ręcznie w Ustawieniach."</string>
+    <string name="switch_wlan_tips_china">Połącz się z tą samą siecią</string>
+    <string name="switch_wlan_tips_desc_china">Aby uzyskać lepsze efekty, możesz się połączyć z tą samą siecią Wi-Fi co inne urządzenie. Zrobić to teraz?</string>
 </resources>
