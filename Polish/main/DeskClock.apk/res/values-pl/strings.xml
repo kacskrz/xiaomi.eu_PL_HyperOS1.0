@@ -587,4 +587,25 @@ d.MM."</string>
 d.MM."</string>
   <string name="force_start_permission_desc">"Zezwól na normalne działanie alarmów nawet po zamknięciu aplikacji"</string>
   <string name="force_start_permission_title">Autostart</string>
+  <string name="wednesday">Środa</string>
+  <string name="wednesday_short">Śr</string>
+  <string name="wednesday_shortest">Śr</string>
+  <string name="tuesday">Wtorek</string>
+  <string name="tuesday_short">Wt</string>
+  <string name="tuesday_shortest">W</string>
+  <string name="sunday">Niedziela</string>
+  <string name="sunday_short">Ndz</string>
+  <string name="sunday_shortest">Nd</string>
+  <string name="thursday">Czwartek</string>
+  <string name="thursday_short">Czw</string>
+  <string name="thursday_shortest">Cz</string>
+  <string name="saturday">Sobota</string>
+  <string name="saturday_short">Sob</string>
+  <string name="saturday_shortest">Sob</string>
+  <string name="monday">Poniedziałek</string>
+  <string name="monday_short">Pon</string>
+  <string name="monday_shortest">Pon</string>
+  <string name="friday">Piątek</string>
+  <string name="friday_short">Pt</string>
+  <string name="friday_shortest">Pt</string>
 </resources>
