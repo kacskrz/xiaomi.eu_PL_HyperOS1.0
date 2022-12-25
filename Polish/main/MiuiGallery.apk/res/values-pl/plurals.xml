@@ -792,4 +792,9 @@
         <item quantity="few">%1$d ekrany</item>
         <item quantity="other">%1$d ekranów</item>
     </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d plików</item>
+        <item quantity="one">%1$d plik</item>
+        <item quantity="few">%1$d pliki</item>
+    </plurals>
 </resources>

@@ -910,4 +910,17 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="app_widget_name_create_note">Utwórz notatki</string>
   <string name="app_widget_name_create_todo">Utwórz zadania</string>
   <string name="app_widget_name_fast_entry">Skróty</string>
+  <string name="doodle_action_enter_immersion_mode">Przełącz na tryb sferyczny</string>
+  <string name="doodle_action_exit_immersion_mode">Wyłączono tryb sferyczny</string>
+  <string name="doodle_action_hide_tool_panel">Ukryj narzędzia</string>
+  <string name="doodle_action_show_tool_panel">Pokaż narzędzia</string>
+  <string name="doodle_brush_config_alpha">Przezroczystość kresek</string>
+  <string name="doodle_brush_config_width_level">Szerokość kresek</string>
+  <string name="doodle_brush_markpen">Marker</string>
+  <string name="doodle_brush_pen">Długopis</string>
+  <string name="doodle_brush_pencil">Ołówek</string>
+  <string name="doodle_brush_watercolor">Długopis akwarelowy</string>
+  <string name="permission_data_shared_desc">Oświadczenie o udostępnianiu danych stronom trzecim Notatek</string>
+  <string name="todo_custom_remind_tag_pattern_with_md">dd.MM. HH:mm</string>
+  <string name="todo_custom_remind_tag_pattern_with_ymd">dd.MM.yyyy HH:mm</string>
 </resources>

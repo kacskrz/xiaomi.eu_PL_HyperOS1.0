@@ -274,4 +274,12 @@
         <item quantity="few">%d srebrne medale</item>
         <item quantity="other">%d srebrnych medali</item>
     </plurals>
+    <plurals name="pa_base_time_hour_ago">
+        <item quantity="other">%d godz. temu</item>
+    </plurals>
+    <plurals name="pa_base_time_minute_ago">
+        <item quantity="other">%d minut temu</item>
+        <item quantity="one">%d minutę temu</item>
+        <item quantity="few">%d minuty temu</item>
+    </plurals>
 </resources>

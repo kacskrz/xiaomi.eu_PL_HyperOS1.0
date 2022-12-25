@@ -1735,4 +1735,20 @@ Zajrzyj tu wkrótce!"</string>
     <string name="pa_world_cup_widget_request_retry">Spróbuj ponownie</string>
     <string name="pa_world_cup_widget_reserve_success_toast">"Otrzymasz przypomnienie przed rozpoczęciem meczu"</string>
     <string name="pa_world_cup_widget_title">Mistrzostwa Świata FIFA</string>
+    <string name="pa_base_time_just_now">Teraz</string>
+    <string name="pa_base_time_month">dd.MM.</string>
+    <string name="pa_base_time_year">dd.MM.yyyy</string>
+    <string name="pa_base_year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>
+    <string name="pa_base_yesterday">Wczoraj</string>
+    <string name="pa_disclaimer_content">Ta funkcja jest dostarczana przez %1$s. %1$s będzie ponosić pełną odpowiedzialność za dostarczane usługi. Jeśli masz jakieś pytania, skontaktuj się z %1$s.</string>
+    <string name="pa_disclaimer_title">Informacja</string>
+    <string name="pa_login_before_use">Najpierw się zaloguj</string>
+    <string name="pa_login_dialog_negative">Nie, dziękuję</string>
+    <string name="pa_login_dialog_positive">Zaloguj się</string>
+    <string name="pa_login_ok">Zaloguj się</string>
+    <string name="pa_more">Więcej</string>
+    <string name="pa_scan">Skanuj</string>
+    <string name="pa_scan_app">Skaner</string>
+    <string name="pa_search_hint">Szukaj</string>
+    <string name="pa_setting">Ustawienia</string>
 </resources>

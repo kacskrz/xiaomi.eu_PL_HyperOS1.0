@@ -383,4 +383,27 @@
   <string name="gb_webwindow_schemedialog_title">Otworzyć aplikację Gry?</string>
   <string name="power_center_battery_duration_screen_on">Pozostały czas na ekranie</string>
   <string name="power_main_battery_last_hour_minute_screen_on">Pozostało %1$s %2$s czasu na ekranie</string>
+  <string name="ew_detail_earthquake_center_title">Epicentrum</string>
+  <string name="ew_detail_earthquake_feel_little">Lekkie drżenie</string>
+  <string name="ew_detail_earthquake_feel_max">Bardzo mocne</string>
+  <string name="ew_detail_earthquake_feel_middle">Mocne</string>
+  <string name="ew_detail_earthquake_feel_none">Niewyczuwalne</string>
+  <string name="ew_detail_earthquake_feel_normal">Umiarkowane</string>
+  <string name="ew_detail_earthquake_feel_title">Szacowana intensywność</string>
+  <string name="ew_detail_earthquake_level_title">Szacowana wielkość</string>
+  <string name="ew_detail_receive_alert_from">Dane dostarczone przez Chengdu Hi-tech Disaster Reduction Institute</string>
+  <string name="ew_detail_receive_distance_message2">%s km. (Epicentrum jest daleko od Ciebie. Możesz nie poczuć trzęsienia ziemi.)</string>
+  <string name="ew_detail_receive_distance_title">Odległość do epicentrum</string>
+  <string name="ew_detail_receive_location_title">Lokalizacja</string>
+  <string name="ew_detail_receive_time_title">Czas rozpoczęcia</string>
+  <string name="ew_detail_receive_warn_time_title">Czas do rozpoczęcia</string>
+  <string name="ew_save_title">Zapisz</string>
+  <string name="ew_share_logo_title">Ostrzeżenie o trzęsieniu ziemi</string>
+  <string name="ew_share_save_tips">Zapisano do %s</string>
+  <string name="ew_share_title">Udostępnij</string>
+  <string name="ew_title_back">Wróć</string>
+  <string name="ew_warning_detail">Szczegóły ostrzeżenia</string>
+  <string name="gdpr_msg">&lt;Data>Aby móc korzystać z podstawowych funkcji Panelu sterowania, należy wyrazić zgodę na gromadzenie, przetwarzanie i wykorzystywanie przez Xiaomi danych osobowych użytkownika, w tym informacji o sposobach korzystania z funkcji Panelu sterowania (np. statystyki korzystania z danych mobilnych, informacje o złośliwym oprogramowaniu, jak również podstawowe informacje na temat urządzenia) oraz innych informacji określonych w &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Polityce prywatności&lt;/a>.&lt;/Data></string>
+  <string name="superpower_settings_launcher">Ultraoszczędzanie baterii</string>
+  <string name="superpower_toast_app_select_full">Do często używanych aplikacji możesz dodać maks. 6 elementów</string>
 </resources>

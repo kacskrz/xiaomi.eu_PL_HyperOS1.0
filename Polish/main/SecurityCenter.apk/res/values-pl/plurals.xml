@@ -1225,4 +1225,29 @@ Zrób sobie przerwę!"</item>
         <item quantity="one">Dane dot. zachowań aplikacji są przechowywane na tym urządzeniu już przez %d dzień. Jeśli wyłączysz tę funkcję, nowe rekordy nie będą już się pojawiać, a stare zostaną usunięte. Wyłączyć?</item>
         <item quantity="other">Dane dot. zachowań aplikacji są przechowywane na tym urządzeniu od %d dni. Jeśli wyłączysz tę funkcję, nowe rekordy nie będą już się pojawiać, a stare zostaną usunięte. Wyłączyć?</item>
     </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"Wykorzystano już %s dziennego zużycia danych.
+
+Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkowe opłaty."</item>
+        <item quantity="one">"Wykorzystano już %s dziennego zużycia danych.
+
+Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkowe opłaty."</item>
+        <item quantity="few">"Wykorzystano już %s dziennego zużycia danych.
+
+Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkowe opłaty."</item>
+        <item quantity="many">"Wykorzystano już %s dziennego zużycia danych.
+
+Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkowe opłaty."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">Wykorzystano już %s dziennego zużycia danych.</item>
+        <item quantity="one">Wykorzystano już %s dziennego zużycia danych.</item>
+        <item quantity="few">Wykorzystano już %s dziennego zużycia danych.</item>
+        <item quantity="many">Wykorzystano już %s dziennego zużycia danych.</item>
+    </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d wyjątków</item>
+        <item quantity="one">%d wyjątek</item>
+        <item quantity="few">%d wyjątki</item>
+    </plurals>
 </resources>

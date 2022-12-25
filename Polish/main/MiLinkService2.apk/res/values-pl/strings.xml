@@ -557,4 +557,25 @@ upewnij się, że pakiet zawiera najnowsze wersje wszystkich aplikacji."</string
     <string name="upgrade_ver_can_upgrade_1to2s">Aktualizacja z wersji %1$s do %2$s</string>
     <string name="upgrade_ver_latest1s">Obecna wersja (%1$s) jest aktualna</string>
     <string name="headset_circulate_connect_success">połączono</string>
+    <string name="circulate_card_sticker_remote_control_keyboard">Klawiatura</string>
+    <string name="circulate_device_type_name_phone">Telefon</string>
+    <string name="circulate_headset_back_to_box_desc_err_308">Aby móc przesyłać strumień między urządzeniami, sparuj słuchawki z telewizorem.</string>
+    <string name="circulate_headset_back_to_box_desc_tv">"1. Umieść obie słuchawki w etui.
+2. Przytrzymaj przycisk znajdujący się na etui.
+3. Otwórz listę dostępnych urządzeń Bluetooth na swoim telewizorze i potwierdź parowanie."</string>
+    <string name="circulate_headset_back_to_box_title_err_308">Sparuj swoje słuchawki</string>
+    <string name="circulate_headset_back_to_box_title_tv">Sparuj swoje słuchawki</string>
+    <string name="circulate_headset_error_account_not_match">"Upewnij się, że na obu urządzeniach używasz tego samego konta Xiaomi"</string>
+    <string name="circulate_headset_error_acquired_by_other_host">Używane przez inne urządzenie. Spróbuj ponownie później.</string>
+    <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Włącz Bluetooth na telewizorze
+i zaloguj się na swoje konto Xiaomi"</string>
+    <string name="circulate_headset_error_self_upgrade">"Nie udało się ukończyć tej akcji. Zaktualizuj Mi Smart Hub."</string>
+    <string name="connect_device_fail">"Nie udało się połączyć z urządzeniem"</string>
+    <string name="device_desc_trust">Zaufane urządzenia</string>
+    <string name="dialog_nfc_cast_wifi_off">Włącz Wi-Fi, aby móc użyć projekcji za pomocą NFC. Zrobić to teraz?</string>
+    <string name="err_toast_msg_mirror_and_bluetooth_support_only">"Nie można przesłać strumienia audio"</string>
+    <string name="err_toast_msg_not_support_audio_protocol">"Nie można przesłać strumienia audio na to urządzenie"</string>
+    <string name="err_toast_msg_not_support_video_protocol">"To urządzenie nie wspiera MIUI+"</string>
+    <string name="toast_nfc_dont_move">"Nie przesuwaj telefonu"</string>
+    <string name="toast_turn_off_hotspot_before_cast">Wyłącz hotspot przed rozpoczęciem projekcji</string>
 </resources>

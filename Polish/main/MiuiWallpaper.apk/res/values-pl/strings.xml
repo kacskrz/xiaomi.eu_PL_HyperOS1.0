@@ -119,4 +119,26 @@ dd.M"</string>
     <string name="weather_title">Pogoda</string>
     <string name="download_button">Pobierz</string>
     <string name="miui_clock_city_name_second">Drugi zegar</string>
+    <string name="earth_position_content_0">Park przyrodniczy Cape Kamenjak w Chorwacji jest domem dla prawdopodobnie najbardziej zapierających dech w piersiach widoków wzdłuż wybrzeża Morza Śródziemnego. Imponujące formacje geologiczne zamieniają to miejsce w raj dla nurków. Każdego lata olśniewające słońce i ciepłe wody Morza Śródziemnego przyciągają niezliczoną ilość entuzjastów aktywnego wypoczynku.</string>
+    <string name="earth_position_content_1">"Tarasowe pola są wynikiem działalności człowieka, ale służą również jako wyjątkowe miejsce przyrodnicze.
+W Chinach tarasy ryżowe znajdują się głównie na południe od rzeki Jangcy, gdzie występują powszechne deszcze, a pasma górskie są obfite. Tarasy Longji istnieją już od ponad 700 lat, a w pobliskich wioskach znajduje się sporo zabytków."</string>
+    <string name="earth_position_content_2">Ilulissat znajduje się w zachodniej Grenlandii, 200 kilometrów na północ od koła podbiegunowego. Przepiękny 56-kilometrowy lodowiec Ilulissat znajduje się tuż obok lodowca Jakobshavn Isbræ. Będąc największym lodowcem na półkuli północnej, produkuje 2 miliardy ton gór lodowych rocznie. Po krótkim kursie na północ, skręcają na południe i wpływają do Oceanu Atlantyckiego.</string>
+    <string name="earth_position_content_3">Nawajo to jedna z najpiękniejszych plaż na wybrzeżu Zakynthos na greckich wyspach Jońskich. Mówi się, że jest to dom słynnego wraku statku, dlatego plaża nazywana jest również „Zatoczką Przemytników”.</string>
+    <string name="earth_position_content_4">Dolomity to pasmo górskie położone w północno-wschodnich Włoszech. Góra Seceda to naprawdę jedno z najbardziej malowniczych miejsc.</string>
+    <string name="earth_position_title_0">"Chorwacja
+Cape Kamenjak"</string>
+    <string name="earth_position_title_1">"Guangxi, China
+Longji Pola Tarasowe"</string>
+    <string name="earth_position_title_2">"Grenlandia
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Grecja
+Plaża Nawajo"</string>
+    <string name="earth_position_title_4">"Włochy
+Dolomity"</string>
+    <string name="mars_position_content_3">"Zdjęcie zrobione, gdy łazik Curiosity zwiedza Wzgórza Pahrump w Kraterze Wichury na Marsie. W regionie tym znajdują się skały osadowe, które według naukowców powstały w obecności wody, a ciemne obszary to piasek.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_4">"Bahram Vallis jest jednopienną doliną rzeczną, w niektórych miejscach z przegrodami. Obecność opływowych elementów erozyjnych na jej dnie świadczy o tym, że w jej powstawaniu uczestniczyła ciecz.
+
+NASA/JPL/University of Arizona"</string>
 </resources>

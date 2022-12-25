@@ -3606,4 +3606,13 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="secret_album_password_first_use_with_sms_msg">Użyte zostanie hasło Ochrony prywatności. Chroni ono SMS-y, zdjęcia, notatki i ukryte foldery.</string>
   <string name="secret_album_password_update_with_sms_dialog_msg">Hasło Ochrony prywatności chroni SMS-y, zdjęcia, notatki i ukryte foldery.</string>
   <string name="secret_album_set_pc_password_with_sms_dialog_msg">Użyte zostanie hasło Ochrony prywatności. Chroni ono SMS-y, zdjęcia, notatki i ukryte foldery.</string>
+  <string name="global_pad">Mój tablet</string>
+  <string name="global_pc">Mój laptop</string>
+  <string name="global_phone">Mój telefon</string>
+  <string name="hdr_switch_show_hint">Użyj HDR, aby pokazać więcej szczegółów w wyróżnieniach i cieniach show more detail in highlights and shadows</string>
+  <string name="hdr_switch_show_title">Wyświetlaj HDR</string>
+  <string name="miplay_circulate_failed">"Nie udało się przesłać strumienia. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
+  <string name="miplay_circulating_msg">Przesyłanie strumienia…</string>
+  <string name="remove_hidden_status_success">Usunięto %s z ukrytych albumów</string>
+  <string name="vlog_mi_clip_cn">Edytor filmów</string>
 </resources>

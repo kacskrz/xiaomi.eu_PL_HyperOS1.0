@@ -1599,4 +1599,7 @@ Dotknij, aby go wyłączyć."</string>
     <string name="large_icon_detail_warning_dialog_title">Ustawienia Superikon</string>
     <string name="large_icon_not_support_current_type">"%s nie jest wspierana dla tej ikony"</string>
     <string name="large_icon_theme">Motywy</string>
+    <string name="apply_not_support_in_second_space">"Nie można zastosować tego elementu w Drugiej przestrzeni"</string>
+    <string name="can_not_apply_pc_video">"Tryb PC nie wspiera żywych tapet"</string>
+    <string name="system_cta_all_purpose_fold">Witaj w Tapetach i personalizacji! Możesz użyć tej aplikacji do zarządzania swoimi motywami Ekranu zawsze włączonego, tapetami, dzwonkami i czcionkami.</string>
 </resources>

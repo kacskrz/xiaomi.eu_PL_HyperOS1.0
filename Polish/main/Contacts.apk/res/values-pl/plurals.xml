@@ -214,4 +214,19 @@
         <item quantity="one">%d nieodebrane połączenie</item>
         <item quantity="few">%d nieodebrane połączenia</item>
     </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d numerów</item>
+        <item quantity="one">%d numer</item>
+        <item quantity="few">%d numery</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Usunąć %d numerów?</item>
+        <item quantity="one">Usunąć %d numer?</item>
+        <item quantity="few">Usunąć %d numery?</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s wyników</item>
+        <item quantity="one">%s wynik</item>
+        <item quantity="few">%s wyniki</item>
+    </plurals>
 </resources>

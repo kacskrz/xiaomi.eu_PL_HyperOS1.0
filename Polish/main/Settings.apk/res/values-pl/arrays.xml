@@ -1924,4 +1924,74 @@
         <item>Użyj losowaego MAC</item>
         <item>Użyj MAC urządzenia</item>
     </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>Wyłącz</item>
+        <item>Debuguj</item>
+        <item>Szczegółowe</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Domyślna)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Wyłączone</item>
+        <item>Filtrowane</item>
+        <item>Włączone</item>
+        <item>Filtrowane nagłówki</item>
+        <item>Filtrowane pakiety mediów</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_summaries">
+        <item>Bardzo mały rozmiar tekstu</item>
+        <item>Mały rozmiar tekstu</item>
+        <item>Domyślny rozmiar tekstu</item>
+        <item>Duży rozmiar tekstu</item>
+        <item>Bardzo duży rozmiar tekstu</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Tylko domowe</item>
+        <item>Automatycznie</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Preferowany GSM/WCDMA</item>
+        <item>Tylko GSM</item>
+        <item>Tylko WCDMA</item>
+        <item>Automatyczny GSM/WCDMA</item>
+        <item>Automatyczny CDMA/EvDo</item>
+        <item>CDMA bez EvDo</item>
+        <item>Tylko EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>Tylko TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Tylko NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>Globalne</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Ładowanie</item>
+        <item>Uśpienie</item>
+        <item>Tryb oszczędzania energii</item>
+        <item>Stan procesu</item>
+    </string-array>
 </resources>

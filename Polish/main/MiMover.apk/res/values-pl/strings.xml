@@ -845,4 +845,8 @@ na swoim iPhonie"</string>
   <string name="league_client_traditional">Nie teraz</string>
   <string name="league_client_update">Aktualizuj %s</string>
   <string name="request_permission">Zezwól</string>
+  <string name="close_vpn_summary">Wygląda na to, że Twoje urządzenie jest połączone z VPN. Wyłącz VPN, aby móc się łączyć z innymi urządzeniami.</string>
+  <string name="close_vpn_title">Wyłącz VPN</string>
+  <string name="dialog_request_permission_message_provision_link">W tym samym czasie, aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach których Xiaomi używa Twoich danych, przeczytaj i zaakceptuj warunki %1$s oraz %2$s.</string>
+  <string name="need_location_permission_title">Wymagane uprawnienia</string>
 </resources>

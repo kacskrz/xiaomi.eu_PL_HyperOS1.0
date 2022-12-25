@@ -2246,4 +2246,5 @@ Możesz użyć poniższych przycisków, aby zaimportować tekst, wyświetlić po
   <string name="title_item_context_menu_doc4_copy_done">Pomyślnie skopiowano</string>
   <string name="title_pref_camera_doc4">Rozpoznaj tekst</string>
   <string name="widget_camera_lens_75mm_description">Siedemdziesiąt pięć milimetrów</string>
+  <string name="pref_hdr10plus_video_mode_description">Zoptymalizuj kolory i dostosuj kontrast w filmach 4K i 8K. Funkcja działa tylko na urządzeniach kompatybilnych z HDR10+.</string>
 </resources>
