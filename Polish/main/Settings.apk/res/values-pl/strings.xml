@@ -11558,7 +11558,6 @@ Pomaga to chronić dane na zgubionych lub skradzionych urządzeniach. Wymagać k
     <string name="left_edge">Lewa krawędź</string>
     <string name="legacy_navigation_summary">Przyciski u dołu ekranu umożliwiają przechodzenie wstecz, otwieranie ekranu głównego i przełączanie aplikacji.</string>
     <string name="legacy_navigation_title">Nawigacja przy użyciu 3 przycisków</string>
-    <string name="link_speed">%1$d Mb/s</string>
     <string name="live_caption_summary">Automatycznie wyświetlaj napisy do multimediów</string>
     <string name="live_caption_title">Napisy na żywo</string>
     <string name="load_networks_progress">Wyszukuję…</string>
@@ -12381,7 +12380,6 @@ Zezwolić na to wszystkim aplikacjom, które chcą wykonywać skanowanie?"</stri
     <string name="zen_interruption_level_priority">Tylko priorytet</string>
     <string name="zen_mode_add">Dodaj</string>
     <string name="zen_mode_add_event_rule">Dodaj harmonogram oparty na wydarzeniu</string>
-    <string name="zen_mode_add_rule">Dodaj więcej</string>
     <string name="zen_mode_alarms_list">alarmy</string>
     <string name="zen_mode_alarms_list_first">Alarmy</string>
     <string name="zen_mode_alarms_summary">Liczniki czasu, alarmy, systemy zabezpieczeń i inne aplikacje</string>

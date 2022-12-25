@@ -2063,7 +2063,6 @@ Aktywować eSIM?"</string>
   <string name="sim_select_dialog_title">Wybierz kartę SIM</string>
   <string name="speed_limit_card_toast">"Wykorzystano już limit danych z pełną prędkością. Prędkość połączenia będzie teraz zmniejszona."</string>
     <string name="advanced_options_title">Zaawansowane</string>
-    <string name="alert_dialog_in_ecm_call">Wybrana akcja jest niedostępna przy nawiązanym połączeniu alarmowym.</string>
     <string name="allow">Przyznano</string>
     <string name="already_auto">Wybór automatyczny jest już włączony.</string>
     <string name="ambulance_type_description">Karetka pogotowia</string>

@@ -3534,7 +3534,6 @@ d MMMM"</string>
     <string name="power_suggestion_battery_run_out">Bateria może się wyczerpać do %1$s</string>
     <string name="preference_copied">Skopiowano „%1$s” do schowka.</string>
     <string name="private_dns_broken">Brak dostępu do prywatnego serwera DNS</string>
-    <string name="process_kernel_label">System operacyjny Android</string>
     <string name="profile_connect_timeout_subtext">Problem z połączeniem. Wyłącz i ponownie włącz urządzenie</string>
     <string name="profile_info_settings_title">Informacje o profilu</string>
     <string name="quick_settings_flashlight_camera_in_use">Aparat w użyciu</string>
