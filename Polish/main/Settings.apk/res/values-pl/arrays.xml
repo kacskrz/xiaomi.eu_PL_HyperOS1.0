@@ -1921,7 +1921,7 @@
         <item>Tak</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>Użyj losowaego MAC</item>
+        <item>Użyj losowanego MAC</item>
         <item>Użyj MAC urządzenia</item>
     </string-array>
     <string-array name="autofill_logging_level_entries">
