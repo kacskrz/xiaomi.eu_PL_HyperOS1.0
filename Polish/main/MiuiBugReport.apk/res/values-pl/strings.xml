@@ -917,10 +917,10 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
   <string name="skip_query_account">Pomiń</string>
   <string name="system_error_info">System jest zajęty. Zaczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="unknown_error_info">Nieznany błąd</string>
-  <string name="user_agreement_hint_3rd_app"><Data>"Potwierdzam, że przeczytano i zapoznano się z warunkami &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>, a także &lt;a href=\"%3$s\">Umową użytkownika&lt;/a> oraz &lt;a href=\"%4$s\">Polityką prywatności&lt;/a> Konta Xiaomi."</Data></string>
-  <string name="user_agreement_hint_default"><Data>"Potwierdzam, że przeczytano i zapoznano się z warunkami &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Konta Xiaomi."</Data></string>
-  <string name="user_agreement_hint_default_1"><Data>Potwierdzam, że przeczytano i zaakceptowano warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności.&lt;/a></Data></string>
-  <string name="user_agreement_hint_default_extra"><Data>"Potwierdzam, że przeczytano i zapoznano się z warunkami &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności.&lt;/a> Przy pierwszym logowaniu zostanie utworzone konto Xiaomi."</Data></string>
+  <string name="user_agreement_hint_3rd_app"><Data>"Potwierdzam, że przeczytano i zapoznano się z warunkami &lt;a href=%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%2$s>Polityki prywatności&lt;/a>, a także &lt;a href=%3$s>Umową użytkownika&lt;/a> oraz &lt;a href=%4$s>Polityką prywatności&lt;/a> Konta Xiaomi."</Data></string>
+  <string name="user_agreement_hint_default"><Data>"Potwierdzam, że przeczytano i zapoznano się z warunkami &lt;a href=%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%2$s>Polityki prywatności&lt;/a> Konta Xiaomi."</Data></string>
+  <string name="user_agreement_hint_default_1"><Data>Potwierdzam, że przeczytano i zaakceptowano warunki &lt;a href=%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%2$s>Polityki prywatności.&lt;/a></Data></string>
+  <string name="user_agreement_hint_default_extra"><Data>"Potwierdzam, że przeczytano i zapoznano się z warunkami &lt;a href=%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%2$s>Polityki prywatności.&lt;/a> Przy pierwszym logowaniu zostanie utworzone konto Xiaomi."</Data></string>
   <string name="user_agreement_hint_first_login">Stworzymy automatycznie konto, jeśli używasz swojego numeru telefonu po raz pierwszy.</string>
   <string name="user_agreement_protocal_dialog_hint_default"><Data>"Potwierdzam, że przeczytano i zapoznano się z warunkami &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>, a także &lt;a href=\"%3$s\">Umową użytkownika&lt;/a> oraz &lt;a href=\"%4$s\">Polityką prywatności&lt;/a> Konta Xiaomi.</Data></string>
   <string name="user_name_phone_number">Numer telefonu</string>
@@ -1020,4 +1020,5 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
   <string name="feedback_account_inconsistent_login_hint">Wygląda na to, że zmieniono konto. Zaloguj się na poprzednio używane konto Xiaomi.</string>
   <string name="feedback_account_login_hint">Najpierw zaloguj się na swoje konto Xiaomi</string>
   <string name="login_out">Wyloguj się</string>
+  <string name="passport_vcode_what_app_send_prompt">Twój kod weryfikacyjny WhatsApp zostanie wysłany na zapasowy numer telefonu (&lt;font color=#1F93FF>%s&lt;/font>).</string>
 </resources>

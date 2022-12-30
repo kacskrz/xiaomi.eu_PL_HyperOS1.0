@@ -510,4 +510,6 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
     <string name="carousel_privacy"><Data>"Przed skorzystaniem z Tapet Blokady przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> i &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> firmy trzeciej - zaufanego dostawcy usługi Xiaomi."</Data></string>
     <string name="carousel_setting">Skonfiguruj swój Ekran blokady</string>
     <string name="carousel_setting_sub">Tapety Blokady będą wyświetlać Ci świeże historie po każdym odblokowaniu urządzenia</string>
+    <string name="congratulation_pre_label">Chwileczkę…</string>
+    <string name="congratulation_pre_title">Przygotowywanie systemu…</string>
 </resources>

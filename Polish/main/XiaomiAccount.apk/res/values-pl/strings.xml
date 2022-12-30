@@ -854,4 +854,12 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="qrcode_login_load_retry"><Data>"Nie udało się zalogować. &lt;a href=>Spróbuj ponownie&lt;/a>."</Data></string>
   <string name="qrcode_login_message">"Zeskanuj aplikacją Skaner, Mi Home lub inną z portfolio Xiaomi, aby się zalogować"</string>
   <string name="qrcode_login_title">Zeskanuj, aby się zalogować</string>
+  <string name="confirm_bundled_phone_dialog_confirm">Potwierdź</string>
+  <string name="confirm_bundled_phone_dialog_confirm_timer">Potwierdź (%ds)</string>
+  <string name="current_account_can_use_pwd_login">Wprowadź hasło, aby się zalogować</string>
+  <string name="keep_phone_ticket_login">Zaloguj się kodem weryfikacyjnym</string>
+  <string name="messenger_send_button_text">Wyślij</string>
+  <string name="phone_ticket_login">Zaloguj się kodem weryfikacyjnym</string>
+  <string name="phone_ticket_register">Utwórz konto numerem telefonu</string>
+  <string name="use_google_account_login">Zaloguj się za pomocą Google</string>
 </resources>
