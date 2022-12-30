@@ -486,4 +486,7 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="perm_educate_post_notification">Powiadomieniom mogą towarzyszyć dźwięk i wibracja, gdy pojawiają się one w Panelu powiadomień i na ikonach pulpitu. Możesz zmienić swoje preferencje dot. powiadomień w Ustawieniach.</string>
   <string name="carwith_grant_permission_tips_when_lock">Najpierw odblokuj telefon</string>
   <string name="permdesc_read_phone_numbers">Zezwolić %1$s na odczyt numerów telefonów z tego urządzenia?</string>
+  <string name="deny_fine_keep_blur_location">Przybliżona lokalizacja</string>
+  <string name="tilte_request_coarse_location">Zezwolić %1$s na dostęp do przybliżonej lokalizacji?</string>
+  <string name="tilte_request_fine_location">Zezwolić %1$s na dostęp do dokładnej lokalizacji czy udzielić jej jedynie danych o przybliżonej lokalizacji?</string>
 </resources>

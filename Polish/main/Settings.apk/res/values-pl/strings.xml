@@ -12527,4 +12527,7 @@ Po wyłączeniu trybu Nie przeszkadzać możesz zobaczyć wszystkie powiadomieni
     <string name="zen_sound_footer">Gdy włączysz tryb Nie przeszkadzać, sygnalizowanie dźwiękiem i wibracjami będzie wyciszone. Wyciszenie nie będzie dotyczyło elementów, na które zezwolisz powyżej.</string>
     <string name="zen_suggestion_summary">Wstrzymaj powiadomienia, by Cię nie rozpraszały</string>
     <string name="zen_suggestion_title">Zmień ustawienia trybu Nie przeszkadzać</string>
+    <string name="bluetooth_inband_ringing">Zezwól na dzwonki w słuchawkach</string>
+    <string name="bluetooth_inband_ringing_summary">Zezwól na odtwarzanie dzwonków telefonu w słuchawkach Bluetooth. Z funkcji można korzystać tylko wtedy, gdy z telefonem połączone jest jedno urządzenie. Może ona być niekompatybilna z niektórymi urządzeniami.</string>
+    <string name="wifi_tether_high_temperature_toast">Funkcja jest chwilowo niedostępna ze względu na zbyt wysoką temperaturę</string>
 </resources>

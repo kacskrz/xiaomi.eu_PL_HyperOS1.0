@@ -988,4 +988,5 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="broken_screen_rescue_service_turn_off_confirm">Wyłączyć kopie zapasowe z uszkodzonym ekranem?</string>
   <string name="broken_screen_rescue_service_turn_on">Włącz</string>
   <string name="broken_screen_rescue_service_turn_on_confirm">Włączyć kopie zapasowe z uszkodzonym ekranem?</string>
+  <string name="backup_for_broken_screen">Kopie zapasowe z uszkodzonym ekranem</string>
 </resources>

@@ -592,4 +592,12 @@ z przedniego aparatu"</string>
   <string name="wallpaper_group_glassy_light_title">Warstwy ze szkła</string>
   <string name="wallpaper_group_shadow_geometry_title">Geometria cieni</string>
   <string name="notification_channel_hotspot">Powiadomienie o hotspocie</string>
+  <string name="freeform_guide_tip_dock">Przeciągnij aplikację na środek ekranu, aby otworzyć ją w pływającym oknie</string>
+  <string name="freeform_guide_tip_down">Aby zamknąć pływające okno, przytrzymaj pasek akcji i przesuń go w górę</string>
+  <string name="freeform_guide_tip_drag">Aby zmienić rozmiar okna, przytrzymaj jego róg i przeciągnij</string>
+  <string name="freeform_guide_tip_notification">Aby otworzyć pływające okno, przytrzymaj pasek akcji i przesuń go w dół</string>
+  <string name="freeform_guide_tip_pin">Aby zminimalizować okno, przytrzymaj pasek akcji i przeciągnij okno do krawędzi ekranu</string>
+  <string name="freeform_guide_tip_pin_up">Przeciągnij zminimalizowane okno, aby je powiększyć</string>
+  <string name="freeform_guide_tip_sidebar">Przesuń palcem na zewnątrz, aby otworzyć pasek boczny</string>
+  <string name="freeform_guide_tip_top">Aby przesunąć okno, przytrzymaj pasek akcji, a następnie przeciągnij okno</string>
 </resources>
