@@ -82,7 +82,7 @@
   <string name="db_downgrade_clear_date_reminder">"Zmiana wersji MIUI wymaga wyczyszczenia danych aplikacji Notatki. Przed wykonaniem tej czynności upewnij się, że masz wykonaną kopię notatek w chmurze Xiaomi."</string>
   <string name="default_folder_name">Notatki</string>
   <string name="delete_folder_dialog_tile">Usuń katalog</string>
-  <string name="dialog_privacy_revoke_tips">"APo odwołaniu autoryzacji aplikacja przestanie zbierać dane, które zostaną usunięte z serwerów online. Aplikacja może nie działać właściwie. Odwołać autoryzację mimo to? Aby zapewnić bezpieczeństwo konta zaloguj się do i.mi.com przed odwołaniem autoryzacji."</string>
+  <string name="dialog_privacy_revoke_tips">"Po odwołaniu autoryzacji aplikacja przestanie zbierać dane, które zostaną usunięte z serwerów online. Aplikacja może nie działać właściwie. Odwołać autoryzację mimo to? Aby zapewnić bezpieczeństwo konta zaloguj się do i.mi.com przed odwołaniem autoryzacji."</string>
   <string name="dialog_share_as_pic">Jako zdjęcie</string>
   <string name="dialog_share_as_text">Jako tekst</string>
   <string name="dialog_share_title">Udostępnij notatkę</string>
