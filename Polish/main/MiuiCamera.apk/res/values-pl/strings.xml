@@ -2227,7 +2227,7 @@ Możesz użyć poniższych przycisków, aby zaimportować tekst, wyświetlić po
   <string name="ultra_pixel_capture_process_tip">Przetwarzanie zdjęcia…</string>
   <string name="ultra_pixel_pro_xxxm_message">"Ta funkcja umożliwia poprawę szczegółowości zdjęcia. Gdy jest ona włączona, przetwarzanie zdjęć może potrwać dłużej niż zwykle."</string>
   <string name="accessibility_doc4_content_page_close_btn">Zamknij stronę rozpoznawania tekstu</string>
-  <string name="accessibility_doc4_entrance_tip">Wykryto tekst. Dotknij, aby go rozpoznać.</string>
+  <string name="accessibility_doc4_entrance_tip">Rozpoznaj tekst</string>
   <string name="accessibility_mimoji_split_screen">Dzielony ekran</string>
   <string name="cv_lens_humanities">Dokumentalny</string>
   <string name="cv_lens_none">Domyślny</string>
@@ -2247,4 +2247,5 @@ Możesz użyć poniższych przycisków, aby zaimportować tekst, wyświetlić po
   <string name="title_pref_camera_doc4">Rozpoznaj tekst</string>
   <string name="widget_camera_lens_75mm_description">Siedemdziesiąt pięć milimetrów</string>
   <string name="pref_hdr10plus_video_mode_description">Zoptymalizuj kolory i dostosuj kontrast w filmach 4K i 8K. Funkcja działa tylko na urządzeniach kompatybilnych z HDR10+.</string>
+  <string name="msg_toast_doc4_recognition_failed">Wystąpił błąd. Spróbuj ponownie.</string>
 </resources>

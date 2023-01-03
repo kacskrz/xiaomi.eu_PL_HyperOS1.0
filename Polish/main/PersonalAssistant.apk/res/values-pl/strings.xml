@@ -1670,12 +1670,17 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
     <string name="pa_picker_detail_maml_downloading">Pobieranie elementów…</string>
     <string name="pa_picker_detail_vp2_indicator">Wybrano stronę %1$d z %2$d</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Wyświetl listę wspieranych widżetów</string>
-    <string name="pa_accessibility_picker_home_bigBanner_slected">Wybrano %1$s, rząd %2$d, numer %3$d. Dotknij dwa razy, aby rozpocząć.</string>
+    <string name="pa_accessibility_picker_home_bigBanner_slected">"%1$s.
+Dotknij dwa razy, aby rozpocząć."</string>
     <string name="pa_accessibility_picker_home_search">Wyszukaj widżety</string>
-    <string name="pa_accessibility_picker_home_smallBanner_slected">Wybrano %1$s, rząd %2$d, numer %3$d. Dotknij dwa razy, aby rozpocząć.</string>
+    <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s.
+Dotknij dwa razy, aby rozpocząć."</string>
     <string name="pa_accessibility_picker_home_title">Dodaj widżet</string>
-    <string name="pa_accessibility_picker_home_widget_slected">Wybrano %1$s, Rozmiar: %2$s, Stan instalacji: %3$s. Dotknij dwa razy, aby uzyskać szczegóły. Przytrzymaj, aby przenieść.</string>
-    <string name="pa_accessibility_picker_home_widget_with_add_slected">Wybrano %1$s, rząd %2$d, numer %3$d. Dotknij dwa razy, aby wyświetlić szczegóły.</string>
+    <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Stan instalacji: %3$s,
+dotknij dwa razy, aby uzyskać szczegóły,
+dotknij dwa razy i przytrzymaj, aby przenieść."</string>
+    <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, rząd %2$d, numer %3$d.
+Dotknij dwa razy, aby wyświetlić szczegóły."</string>
     <string name="pa_get_installed_app_permission_description">W celu instalowania aplikacji i dodawania widżetów</string>
     <string name="pa_pad_privacy_text">Widżety pulpitu</string>
     <string name="pa_pad_setting_privacy_logout_summary">Anuluj usługi Widżetów pulpitu</string>
@@ -1702,7 +1707,7 @@ Zajrzyj tu wkrótce!"</string>
     <string name="pa_picker_search_result_type_suit">Zestawy widżetów</string>
     <string name="pa_picker_search_result_type_widget">Widżety</string>
     <string name="pa_picker_tab_title_category">Kategorie</string>
-    <string name="pa_picker_tab_title_recommend">Zalecane</string>
+    <string name="pa_picker_tab_title_recommend">Wyróżnione</string>
     <string name="pa_widget_menu_replace">Zmień</string>
     <string name="pa_widget_need_download_permission">Uprawnienia</string>
     <string name="pa_widget_need_download_privacy">Prywatność</string>
@@ -1711,7 +1716,7 @@ Zajrzyj tu wkrótce!"</string>
     <string name="pa_accessibility_picker_app_group_list_item">Widżet %1$s z %2$d</string>
     <string name="pa_accessibility_picker_home_widget_replace">Wybrano %s. Zmienianie widżetów.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widżet: %s. Dotknij dwukrotnie przycisku poniżej niego, aby zastąpić go innym widżetem.</string>
-    <string name="pa_filter_accessibility_filter_item">Wybrano %s. Dotknij dwukrotnie, aby filtrować inne wybory.</string>
+    <string name="pa_filter_accessibility_filter_item">%s. Dotknij dwukrotnie, aby filtrować inne wybory.</string>
     <string name="pa_filter_accessibility_filter_popup_item_selected">Dotknij dwukrotnie, aby wybrać %s.</string>
     <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Dotknij dwukrotnie, aby wybrać.</string>
     <string name="pa_accessibility_picker_search_clear">Wyczyść tekst</string>
@@ -1720,13 +1725,15 @@ Zajrzyj tu wkrótce!"</string>
     <string name="pa_open_personal_assistant_dialog_title">Wyłączyć Asystenta MIUI?</string>
     <string name="pa_setting_simplify_title_bar">Asystent MIUI</string>
     <string name="pa_accessibility_picker_bigBanner_widget_collection">Kolekcje widżetów</string>
-    <string name="pa_accessibility_picker_home_maml_slected">Wybrano: %1$s. Rozmiar: %2$s. Dotknij dwa razy, aby wyświetlić szczegóły. Dotknij dwa razy i przytrzymaj, aby przeciągnąć.</string>
+    <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s.
+Dotknij dwa razy, aby wyświetlić szczegóły.
+Dotknij dwa razy i przytrzymaj, aby przeciągnąć."</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Stan instalacji: %3$s. Przycisk \"Zmień\" jest poniżej. Dotknij dwa razy, aby zmienić.</string>
     <string name="pa_accessibility_picker_status_installed">Zainstalowano</string>
     <string name="pa_accessibility_picker_status_uninstalled">Nie zainstalowano</string>
     <string name="pa_accessibility_picker_status_unkonw">Nieznany</string>
     <string name="pa_accessibility_picker_status_upgraded">Oczekuje na aktualizację</string>
-    <string name="pa_accessibility_widget_slected_status">Wybrano: %1$s. Stan instalacji: %2$s.</string>
+    <string name="pa_accessibility_widget_slected_status">%1$s. Stan instalacji: %2$s.</string>
     <string name="pa_setting_privacy_revoke_cta_negative">Możesz wycofać zgodę w 10 sekund</string>
     <string name="pa_world_cup_widget_authority_tip">Nadaj uprawnienia, aby móc wyświetlać informacje o meczach Mistrzostw Świata FIFA.</string>
     <string name="pa_world_cup_widget_authorize">Nadaj</string>
@@ -1751,4 +1758,11 @@ Zajrzyj tu wkrótce!"</string>
     <string name="pa_scan_app">Skaner</string>
     <string name="pa_search_hint">Szukaj</string>
     <string name="pa_setting">Ustawienia</string>
+    <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, stan instalacji: %3$s.
+Dotknij dwa razy, aby zobaczyć szczegóły."</string>
+    <string name="pa_accessibility_picker_order_list_to_theme">Otwórz Motywy</string>
+    <string name="pa_picker_purchase_order">Zakupione</string>
+    <string name="pa_picker_tab_title_fun">Odkryj</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_summary">Uzyskuj rekomendacje widżetów w oparciu o Twoje zainteresowania</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_title">Spersonalizowane rekomendacje</string>
 </resources>
