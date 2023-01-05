@@ -426,7 +426,7 @@
   <string name="delete_from_album_no_account">z albumu \"%s\"</string>
   <string name="delete_from_all_devices">ze wszystkich urządzeń</string>
   <string name="delete_from_all_devices_and_cloud">ze wszystkich urządzeń i z Chmury</string>
-  <string name="delete_from_cloud">usuń też z albumu w Chmurze</string>
+  <string name="delete_from_cloud">Usuń także z Chmury</string>
   <string name="delete_from_devices">usuń ze wszystkich zsynchronizowanych urządzeń</string>
   <string name="delete_from_devices_album">ze wszystkich urządzeń, na których ten album został zsynchronizowany</string>
   <string name="delete_from_homepage_album">z albumów na stronie głównej</string>
@@ -3615,4 +3615,24 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="miplay_circulating_msg">Przesyłanie strumienia…</string>
   <string name="remove_hidden_status_success">Usunięto %s z ukrytych albumów</string>
   <string name="vlog_mi_clip_cn">Edytor filmów</string>
+  <string name="delete_media_for_cloud">Wybrane elementy zostaną usunięte z Chmury i wszystkich zsynchronizowanych urządzeń, a następnie przeniesione do Ostatnio usuniętych elementów.</string>
+  <string name="first_delete_media_for_cloud">Wybrane elementy zostaną usunięte z Chmury i wszystkich zsynchronizowanych urządzeń, a następnie przeniesione do Ostatnio usuniętych elementów. Jeśli nie posiadasz planu Chmury, zostaną one permanentnie usunięte po %d dniach. Usunąć?</string>
+  <string name="permission_post_notification_desc">W celu wysyłania powiadomień o udostępnianych albumach i aktualizowaniu statusu synchronizacji</string>
+  <string name="permission_read_media_images_desc">W celu uzyskiwania dostępu do zdjęć i plików oraz ich zapisywania w trakcie korzystania z Galerii</string>
+  <string name="share_album_risk_control_invalid_name">"Nie można użyć tej nazwy albumu. Wybierz inną nazwę i spróbuj ponownie."</string>
+  <string name="share_album_risk_control_tip_off">Zgłoś</string>
+  <string name="share_album_risk_control_tip_off_cate">Typ treści</string>
+  <string name="share_album_risk_control_tip_off_cate_illegal">Nielegalna</string>
+  <string name="share_album_risk_control_tip_off_cate_other">Inna</string>
+  <string name="share_album_risk_control_tip_off_cate_political">Polityczna</string>
+  <string name="share_album_risk_control_tip_off_cate_sex">Seks</string>
+  <string name="share_album_risk_control_tip_off_cate_violence">Przemoc</string>
+  <string name="share_album_risk_control_tip_off_dialog_message">Jeśli zgłosisz treść udostępnianego albumu, będzie mogła go oglądać tylko osoba, która przesłała tę zawartość. Zgłosić?</string>
+  <string name="share_album_risk_control_tip_off_dialog_title">Zgłoś</string>
+  <string name="share_album_risk_control_tip_off_select">Wybierz typ treści</string>
+  <string name="share_album_risk_control_tip_off_success">Pomyślnie zgłoszono</string>
+  <string name="share_album_risk_control_too_many_albums">"Nie można utworzyć więcej udostępnianych albumów"</string>
+  <string name="share_album_risk_control_too_many_sharers_accept">"Nie można dodać więcej członków"</string>
+  <string name="share_album_risk_control_too_many_sharers_invite">"Nie można zaprosić więcej członków"</string>
+  <string name="trash_purge_all_media">"Permanentnie usunąć wszystkie elementy z Chmury i zsynchronizowanych urządzeń? Nie można cofnąć tej czynności."</string>
 </resources>

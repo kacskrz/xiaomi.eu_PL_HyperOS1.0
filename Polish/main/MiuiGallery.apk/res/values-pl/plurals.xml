@@ -797,4 +797,14 @@
         <item quantity="one">%1$d plik</item>
         <item quantity="few">%1$d pliki</item>
     </plurals>
+    <plurals name="delete_brust_title">
+        <item quantity="one">Usunąć %d zdjęcie seryjne?</item>
+        <item quantity="few">Usunąć %d zdjęcia seryjne?</item>
+        <item quantity="other">Usunąć %d zdjęć seryjnych?</item>
+    </plurals>
+    <plurals name="delete_media_title">
+        <item quantity="one">Usunąć %d element?</item>
+        <item quantity="few">Usunąć %d elementy?</item>
+        <item quantity="other">Usunąć %d elementów?</item>
+    </plurals>
 </resources>
