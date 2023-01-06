@@ -489,4 +489,7 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="deny_fine_keep_blur_location">Przybliżona lokalizacja</string>
   <string name="tilte_request_coarse_location">Zezwolić %1$s na dostęp do przybliżonej lokalizacji?</string>
   <string name="tilte_request_fine_location">Zezwolić %1$s na dostęp do dokładnej lokalizacji czy udzielić jej jedynie danych o przybliżonej lokalizacji?</string>
+  <string name="HIPS_Perm_operator_shake">Dostęp do danych z akcelerometra</string>
+  <string name="HIPS_Perm_operator_shake_Desc">Dane z akcelerometra są wykorzystywane do śledzenia orientacji i ruchu (np. potrząsania, przechylania czy obracania)</string>
+  <string name="permdesc_shake">Zezwolić %1$s na dostęp do danych z akcelerometra?</string>
 </resources>

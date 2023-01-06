@@ -297,4 +297,12 @@
     <string name="public_thumbnail_title">Podgląd</string>
     <string name="public_sensor_ratation_land_tip">Orient. pozioma</string>
     <string name="public_sensor_ratation_port_tip">Orient. pionowa</string>
+    <string name="public_display_privacy_policy">Wyświetl Politykę prywatności</string>
+    <string name="public_loadDocumentError">"Plik nie istnieje lub nie można go otworzyć"</string>
+    <string name="public_privacy_update">&lt;Data>Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach których wykorzystujemy Twoje dane, przeczytaj i zaakceptuj warunki nowej wersji &lt;a href=\"%s\">Polityki prywatności&lt;/a>.&lt;/Data></string>
+    <string name="public_revoke">Wycofaj %s</string>
+    <string name="public_revoke_privacy_content">"Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Przeglądarki dokumentów Mi (od WPS). Xiaomi zaprzestanie gromadzenia Twoich danych, a informacje już zgromadzone zostaną usunięte w czasie określonym lokalnymi przepisami i regulacjami, chyba że ustalono inaczej. Wycofanie zgody zostanie potraktowane jako odmowa akceptacji warunków świadczenia usług dostarczanych przez Przeglądarkę dokumentów Mi."</string>
+    <string name="public_revoke_privacy_desc">Wycofaj zgodę na warunki Polityki prywatności Przeglądarki dokumentów Mi</string>
+    <string name="public_revoke_privacy_title">Wycofaj zgodę</string>
+    <string name="public_share">Udostępnij</string>
 </resources>

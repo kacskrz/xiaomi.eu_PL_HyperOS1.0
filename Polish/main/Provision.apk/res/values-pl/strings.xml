@@ -512,4 +512,5 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
     <string name="carousel_setting_sub">Tapety Blokady będą wyświetlać Ci świeże historie po każdym odblokowaniu urządzenia</string>
     <string name="congratulation_pre_label">Chwileczkę…</string>
     <string name="congratulation_pre_title">Przygotowywanie systemu…</string>
+    <string name="miui14_start_up_slogan">Sprawna. Stabilna. Żywa.</string>
 </resources>
