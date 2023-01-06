@@ -539,7 +539,6 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="app_detail_other_publish">Twórca: %1$s</string>
     <string name="app_detail_other_update_time">Zaktualizowano: %1$s</string>
     <string name="app_detail_other_version">Wersja : %1$s</string>
-    <string name="app_installing_not_allow">"Nie zezwolono aplikacji %1$s na instalację aplikacji. Można to zmienić w Ustawieniach."</string>
     <string name="app_installing_toast">Poczekaj, aż wszystkie trwające instalacje zostaną zakończone i spróbuj ponownie</string>
     <string name="dialog_account_authorize_msg">Aplikacja \"%1$s\" próbuje zainstalować aplikację \"%2$s\". Aby kontynuować, zweryfikuj swoją tożsamość.</string>
     <string name="do_not_show_again">"Nie pokazuj ponownie"</string>
@@ -600,7 +599,6 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="login_to_install">Zaloguj się, aby zainstalować</string>
     <string name="login_to_install_des">Zaloguj się na swoje konto Xiaomi, aby kontynuować instalację. Możesz także zmienić swoje preferencje dot. instalacji aplikacju w Ustawieniach > Instalacja ryzykownych aplikacji.</string>
     <string name="login_xiaomi_account">Zaloguj się</string>
-    <string name="no_set_lock_screen_tip">Ustaw blokadę ekranu i dodaj swój odcisk palca przed wybraniem tej metody autoryzacji.</string>
     <string name="open_install_authorization">Wymagaj uwierzytelnienia przed instalacją ryzykownych aplikacji</string>
     <string name="risk_app_install_authorization">Instalacja ryzykownych aplikacji</string>
     <string name="risk_close_tip">Wyłącz autoryzację</string>
@@ -679,7 +677,6 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="security_mode_off_suggestion_msg">Zalecane</string>
     <string name="security_mode_on_suggestion_msg">Wł.</string>
     <string name="settings_security_mode_recent_install_app">Ostatnio zainstalowano: %1$s</string>
-    <string name="settings_security_mode_service_list_title_off_msg">Tryb bezpieczny zapewnia te funkcje</string>
     <string name="settings_security_mode_service_list_title_on_msg">Tryb bezpieczny zapewnia te funkcje</string>
     <string name="settings_security_mode_service_msg_1">Sprawdzanie aplikacji z nieznanych źródeł przed ich instalacją</string>
     <string name="settings_security_mode_service_msg_2">Kontrola i ograniczanie szkodliwych aktywności aplikacji</string>
@@ -877,7 +874,6 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="install_source_no_credible">Źródło niegodne zaufania</string>
     <string name="lock_screen_authrioze_subtitle_password">Autoryzuj blokadą ekranu</string>
     <string name="mi_protected_duty">Twoje bezpieczeństwo to nasz priorytet</string>
-    <string name="no_install_permission_tip">"%1$s nie ma uprawnienia do instalacji elementów"</string>
     <string name="no_set_lock_screen_tip">"Jeśli nie ustawiono jeszcze hasła Ekranu blokady, odcisku palca lub Odblokowania twarzą, możesz to zrobić w Ustawieniach."</string>
     <string name="open_pure_mode_continue_install">Kontynuuj</string>
     <string name="prohibit_isntall">Dodaj do czarnej listy</string>
