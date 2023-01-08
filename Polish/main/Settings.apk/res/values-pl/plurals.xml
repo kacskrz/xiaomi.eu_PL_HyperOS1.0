@@ -866,16 +866,16 @@ Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się z administrat
         <item quantity="many">%d powiadomień</item>
     </plurals>
     <plurals name="notifications_sent_daily">
-        <item quantity="other">~%,d powiadomienia dziennie</item>
+        <item quantity="other">~%d powiadomienia dziennie</item>
         <item quantity="one">~%d powiadomienie dziennie</item>
-        <item quantity="few">~%,d powiadomienia dziennie</item>
-        <item quantity="many">~%,d powiadomień dziennie</item>
+        <item quantity="few">~%d powiadomienia dziennie</item>
+        <item quantity="many">~%d powiadomień dziennie</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
-        <item quantity="other">~%,d powiadomienia tygodniowo</item>
+        <item quantity="other">~%d powiadomienia tygodniowo</item>
         <item quantity="one">~%d powiadomienie tygodniowo</item>
-        <item quantity="few">~%,d powiadomienia tygodniowo</item>
-        <item quantity="many">~%,d powiadomień tygodniowo</item>
+        <item quantity="few">~%d powiadomienia tygodniowo</item>
+        <item quantity="many">~%d powiadomień tygodniowo</item>
     </plurals>
     <plurals name="permission_bar_chart_label">
         <item quantity="other">%s aplikacji</item>
