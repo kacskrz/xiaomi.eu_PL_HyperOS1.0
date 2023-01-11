@@ -1765,4 +1765,5 @@ Dotknij dwa razy, aby zobaczyć szczegóły."</string>
     <string name="pa_picker_tab_title_fun">Odkryj</string>
     <string name="pa_setting_personalized_recommenddation_swicth_summary">Uzyskuj rekomendacje widżetów w oparciu o Twoje zainteresowania</string>
     <string name="pa_setting_personalized_recommenddation_swicth_title">Spersonalizowane rekomendacje</string>
+    <string name="pa_sports_jump_error">"Nie udało się otworzyć strony z powodu błędu."</string>
 </resources>
