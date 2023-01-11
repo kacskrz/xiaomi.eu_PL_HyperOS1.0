@@ -248,4 +248,9 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="error_p2p_recv_connect_timeout">"Nie udało się połączyć. Połącz się ponownie z siecią Wi-Fi na obu urządzeniach i spróbuj ponownie."</string>
   <string name="tips_p2p_support_use5g">Dla lepszych rezultatów wykorzystaj sieć Wi-Fi 5 GHz.</string>
   <string name="wait_remote_receive_tips">"Upewnij się, że ekrany obu urządzeń, a także Wi-Fi i Bluetooth na nich, są włączone."</string>
+  <string name="sub_title_mishare_switch">Ta funkcja wyłączy się automatycznie po %d minutach</string>
+  <string name="toast_auto_close_in_minutes">Mi Share wyłączy się po %d minutach</string>
+  <string name="toast_transfering">Przesyłanie elementów. Spróbuj ponownie później.</string>
+  <string name="transfer_to_phone_summary_new">Włącz Mi Share w Centrum funkcji, aby móc łatwo wysyłać i odbierać elementy. Po włączeniu tej funkcji możesz udostępniać elementy urządzeniom w pobliżu przez %d minut. Po tym czasie funkcja się wyłączy.</string>
+  <string name="transfer_to_summary_new">Włącz Mi Share w Centrum funkcji, aby móc łatwo wysyłać i odbierać elementy. Po włączeniu tej funkcji możesz udostępniać elementy urządzeniom w pobliżu przez %d minut. Po tym czasie funkcja się wyłączy.</string>
 </resources>
