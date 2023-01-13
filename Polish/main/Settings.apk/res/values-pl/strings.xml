@@ -12530,4 +12530,5 @@ Po wyłączeniu trybu Nie przeszkadzać możesz zobaczyć wszystkie powiadomieni
     <string name="bluetooth_inband_ringing">Zezwól na dzwonki w słuchawkach</string>
     <string name="bluetooth_inband_ringing_summary">Zezwól na odtwarzanie dzwonków telefonu w słuchawkach Bluetooth. Z funkcji można korzystać tylko wtedy, gdy z telefonem połączone jest jedno urządzenie. Może ona być niekompatybilna z niektórymi urządzeniami.</string>
     <string name="wifi_tether_high_temperature_toast">Funkcja jest chwilowo niedostępna ze względu na zbyt wysoką temperaturę</string>
+    <string name="embedded_window_guide_text">Gdy treść jest wyświetlana poziomo, aplikacje będą wyświetlane równolegle do siebie. Gdy ta funkcja jest wyłączona, aplikacje będą wyśrodkowane.</string>
 </resources>

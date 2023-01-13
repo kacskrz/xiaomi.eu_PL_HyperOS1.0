@@ -2096,16 +2096,16 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="camcorder_tip_isp_super_night_video_max_video_duration">Możesz nagrać wideo o długości maks. %d minut</string>
   <string name="close_flash_toast">"Nie można skorzystać z lampy błyskowej ze względu na niski poziom baterii"</string>
   <string name="cv_lens_black_white">Czarno-biały</string>
-  <string name="cv_lens_msg">Wykonuj zachwycające zdjęcia obiektywami Pro</string>
+  <string name="cv_lens_msg">Wykonuj zachwycające zdjęcia systemem Master‑lens</string>
   <string name="cv_lens_rotary_focus">Wirujący bokeh</string>
   <string name="cv_lens_soft_focus">Nieostrość</string>
-  <string name="cv_lens_title">Obiektywy Pro</string>
+  <string name="cv_lens_title">System Master‑lens</string>
   <string name="cvtype_btn_select">Użyj \"%1$s\"</string>
   <string name="cvtype_hint_title">Wybierz styl</string>
   <string name="cvtype_item_title1">Naturalny i realistyczny</string>
   <string name="cvtype_item_title2">Świeży i żywy</string>
   <string name="film_video_f">Podróż w czasie</string>
-  <string name="guide_pop_window_msg_cv_lens">Dotknij, aby wypróbować obiektywy Pro</string>
+  <string name="guide_pop_window_msg_cv_lens">Dotknij, aby wypróbować system Master-lens</string>
   <string name="low_battery_to_save_video">Wygląda na to, że poziom baterii Twojego urządzenia jest za niski. Zatrzymaj nagrywanie i zapisz film, zanim urządzenie się wyłączy.</string>
   <string name="pref_camera_heic_image_format_description_global">Format plików graficznych o wysokiej wydajności oszczędza miejsce w pamięci, ale nie jest obsługiwany przez niektóre aplikacje innych firm. W zdjęciach wykonanych w tym formacie nie można usunąć znaków wodnych.</string>
   <string name="pref_camera_suspend_shutter_button_summary">Przeciągnij przycisk migawki w górę, aby stworzyć dodatkową, pływającą migawkę</string>
@@ -2125,7 +2125,7 @@ Nagrywanie dwoma telefonami umożliwia połączenie się z innym urządzeniem w 
   <string name="widget_camera_lens_90mm_description">Dziewięćdziesiąt milimetrów</string>
   <string name="widget_camera_lens_description">Eksperymentuj z ogniskową</string>
   <string name="widget_camera_lens_none_description">50-milimetrowy obiekt do portretów</string>
-  <string name="widget_camera_lens_talk_back">Obiektywy Pro</string>
+  <string name="widget_camera_lens_talk_back">System Master-lens</string>
   <string name="accessibility_beauty_compare">Wyświetlaj obrazy z i bez Upiększania</string>
   <string name="camera_newcta_storage_message_1">Do przechowywania i wyświetlania obrazków, filmów i plików</string>
   <string name="moiton_detection_960_fps_video_tip" formatted="false">Filmy %1d kl./s mogą trwać maks. %2d sekund</string>
@@ -2197,7 +2197,7 @@ Możesz użyć poniższych przycisków, aby zaimportować tekst, wyświetlić po
   <string name="beauty_sm_texture">Skóra</string>
   <string name="accessibility_auto_night_tip_off">Autom. tryb nocny wył.</string>
   <string name="accessibility_auto_night_tip_on">Autom. tryb nocny wł.</string>
-  <string name="accessibility_cv_lens_panel_on">Otwórz panel obiektywów Pro</string>
+  <string name="accessibility_cv_lens_panel_on">Otwórz panel systemu Master‑lens</string>
   <string name="accessibility_doc4_content_page_all_text_report_format">Rozpoznany tekst: %s</string>
   <string name="accessibility_doc4_content_page_selected_text_format">Wybrany tekst: %s</string>
   <string name="accessibility_doc4_content_page_unselected_report">Dotknij, aby wybrać tekst</string>
@@ -2248,4 +2248,16 @@ Możesz użyć poniższych przycisków, aby zaimportować tekst, wyświetlić po
   <string name="widget_camera_lens_75mm_description">Siedemdziesiąt pięć milimetrów</string>
   <string name="pref_hdr10plus_video_mode_description">Zoptymalizuj kolory i dostosuj kontrast w filmach 4K i 8K. Funkcja działa tylko na urządzeniach kompatybilnych z HDR10+.</string>
   <string name="msg_toast_doc4_recognition_failed">Wystąpił błąd. Spróbuj ponownie.</string>
+  <string name="accessibility_aperture_panel_on">Otwórz panel przysłony</string>
+  <string name="mimoji_bg_center">Rozdroże</string>
+  <string name="mimoji_bg_classroom">Sala lekcyjna</string>
+  <string name="mimoji_bg_diagonal">Zbocze</string>
+  <string name="mimoji_bg_forest">Las</string>
+  <string name="mimoji_bg_garden">Ogród</string>
+  <string name="mimoji_bg_indoor">Studio</string>
+  <string name="mimoji_bg_station">Dworzec kolejowy</string>
+  <string name="mimoji_bg_wall">Pałac</string>
+  <string name="module_name_microfilm">Krótki film</string>
+  <string name="settings_camera_lens_auto_switch_description">Automatycznie przełączaj się między głównym obiektywem a teleobiektywem w zależności od odległości i jasności</string>
+  <string name="settings_camera_lens_auto_switch_title">Automatyczna zmiana obiektywu</string>
 </resources>
