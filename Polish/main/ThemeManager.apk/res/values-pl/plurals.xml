@@ -187,7 +187,7 @@
         <item quantity="one">Dostępna aktualizacja %1$d superikony</item>
     </plurals>
     <plurals name="large_icon_batch_updating_text">
-        <item quantity="other">Aktualizowanie %1$d superikony</item>
+        <item quantity="other">Aktualizowanie %1$d superikon</item>
         <item quantity="one">Aktualizowanie %1$d superikony</item>
     </plurals>
     <plurals name="resource_mibi_per_set">
