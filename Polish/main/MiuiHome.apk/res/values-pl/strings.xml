@@ -986,4 +986,5 @@ Zwiększone bezpieczeństwo."</string>
   <string name="dock_and_folder_not_edit_icon_tip">Aby zedytować, usuń aplikację z doku i folderu</string>
   <string name="dock_not_edit_icon_tip">Aby zedytować, usuń aplikację z doku</string>
   <string name="folder_not_edit_icon_tip">Aby zedytować, usuń aplikację z folderu</string>
+  <string name="switch_mode_tip">Chwileczkę…</string>
 </resources>

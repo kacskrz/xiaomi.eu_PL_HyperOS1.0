@@ -497,4 +497,6 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="switch_wlan_failed_desc_china">"Nie udało się automatycznie połączyć z tą siecią Wi-Fi. Spróbuj to zrobić ręcznie w Ustawieniach."</string>
     <string name="switch_wlan_tips_china">Połącz się z tą samą siecią</string>
     <string name="switch_wlan_tips_desc_china">Aby uzyskać lepsze efekty, możesz się połączyć z tą samą siecią Wi-Fi co inne urządzenie. Zrobić to teraz?</string>
+    <string name="pc_settings_current_device_tip">Automatycznie łącz się z komputerem, na którym jest otwarta aplikacja MIUI+ i jest on zalogowany na to samo konto Xiaomi</string>
+    <string name="settings_pc_handoff_title">Łączenie z komputerem</string>
 </resources>

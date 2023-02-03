@@ -608,4 +608,30 @@ d.MM."</string>
   <string name="friday">Piątek</string>
   <string name="friday_short">Pt</string>
   <string name="friday_shortest">Pt</string>
+  <string name="alarm_in_furture_new">Alarm za mniej niż %d minutę</string>
+  <string name="alarm_set_new">Alarm włączy się za %d minutę.</string>
+  <string name="auto_silence_entries1">Nigdy</string>
+  <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> minuta</string>
+  <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> minut</string>
+  <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> minut</string>
+  <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> minut</string>
+  <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> minut</string>
+  <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> minut</string>
+  <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> minut</string>
+  <string name="bedtime_sleep_time_remind_new">Przypomnienie o śnie zostanie wysłane %d minut wcześniej</string>
+  <string name="life_post_setting_open_summary_new">Zawrzyj informacje pogodowe w pierwszym alarmie wyłączonym pomiędzy %1$s a %2$s</string>
+  <string name="module_weather_ringtone_download_data_new">Alarm pogodowy wybiera odpowiedni dzwonek w zależności od aktualnej pogody. Zegar wymaga pobrania około %d MB dźwięków do prawidłowego działania tej funkcji. Pobrać teraz?</string>
+  <string name="module_weather_ringtone_download_data_privacy_new" formatted="false">&lt;Data>Alarm pogodowy wybiera różne dzwonki w zależności od aktualnej pogody. Zegar musi połączyć się z internetem, aby pobrać około &lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB dźwięków. Przed rozpoczęciem korzystania z Zegara, należy również przeczytać i zaakceptować &lt;a href=\"%1$s\">Umowę użytkownika&lt;/a> i &lt;a href=\"%2$s\">Politykę prywatności&lt;/a> Xiaomi. Zaakceptować?&lt;/Data></string>
+  <string name="module_weather_ringtone_update_data_new">Alarm pogodowy dostarczany jest teraz z muzyką w tle oraz lepszymi ogłoszeniami głosowymi. Zegar musi pobrać około %d MB dźwięków. Pobrać teraz?</string>
+  <string name="module_week_ringtone_download_data_new">Alarm naturalny odtwarza inny dzwonek w zależności od daty. Zegar wymaga pobrania około %d MB dźwięków do prawidłowego działania tej funkcji. Pobrać teraz?</string>
+  <string name="module_week_ringtone_download_data_privacy_new" formatted="false">&lt;Data>Alarm naturalny odtwarza różne dźwięki w zależności od daty. Zegar musi pobrać około &lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB dźwięków, aby działać poprawnie. Przed rozpoczęciem korzystania z Zegara, należy również przeczytać i zaakceptować naszą &lt;a href=\"%1$s\">Umowę użytkownika&lt;/a> i &lt;a href=\"%2$s\">Politykę prywatności&lt;/a>. Zaakceptować?&lt;/Data></string>
+  <string name="module_week_ringtone_update_data_new">Alarm naturalny odtwarza inny dzwonek w zależności od daty. Zegar wymaga pobrania około %d MB dźwięków do prawidłowego działania tej funkcji. Pobrać teraz?</string>
+  <string name="module_white_noise_download_data_new">Zegar wymaga pobrania plików dźwięków otoczenia dla minutnika. Do ich pobrania potrzeba około %d MB Twoich danych mobilnych. Pobrać teraz?</string>
+  <string name="module_white_noise_download_data_privacy_new" formatted="false">&lt;Data>W celu pobrania plików dźwiękowych otoczenia dla minutnika (około &lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) oraz zapewnienia spersonalizowanych usług, Zegar musi połączyć się z internetem. Przed rozpoczęciem korzystania z Zegara, należy również przeczytać i zaakceptować &lt;a href=\"%1$s\">Umowę użytkownika&lt;/a> i &lt;a href=\"%2$s\">Politykę prywatności&lt;/a> Xiaomi. Używasz teraz danych mobilnych. Zaakceptować?&lt;/Data></string>
+  <string name="notification_adv_time_entries1">O danej porze</string>
+  <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> minut przed</string>
+  <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minut przed</string>
+  <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> godzinę przed</string>
+  <string name="notification_adv_time_entries5">Brak</string>
+  <string name="sleep_duration_recommendation_new" formatted="false">Większość ludzi potrzebuje od %d do %d godzin snu w ciągu doby</string>
 </resources>
