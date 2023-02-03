@@ -492,4 +492,7 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="HIPS_Perm_operator_shake">Dostęp do danych z akcelerometra</string>
   <string name="HIPS_Perm_operator_shake_Desc">Dane z akcelerometra są wykorzystywane do śledzenia orientacji i ruchu (np. potrząsania, przechylania czy obracania)</string>
   <string name="permdesc_shake">Zezwolić %1$s na dostęp do danych z akcelerometra?</string>
+  <string name="permdesc_isolate_storage">Zezwolić %1$s na dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu?</string>
+  <string name="permgroupdesc_read_media_aural">Zezwolić %1$s na dostęp do plików audio przechowywanych na urządzeniu?</string>
+  <string name="permgroupdesc_read_media_visual">Zezwolić %1$s na dostęp do zdjęć i filmów przechowywanych na urządzeniu?</string>
 </resources>

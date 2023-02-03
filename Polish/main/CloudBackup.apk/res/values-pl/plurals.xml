@@ -145,4 +145,8 @@
         <item quantity="few">Przywrócono %d aplikacje</item>
         <item quantity="one">Przywrócono %d aplikację</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">"Od %s tygodni nie wykonywano kopii zapasowej elementów. Dotknij, aby dowiedzieć się, jak włączyć automatyczne kopie zapasowe."</item>
+        <item quantity="one">"Od %s tygodnia nie wykonywano kopii zapasowej elementów. Dotknij, aby dowiedzieć się, jak włączyć automatyczne kopie zapasowe."</item>
+    </plurals>
  </resources>

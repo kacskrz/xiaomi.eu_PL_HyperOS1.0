@@ -459,4 +459,18 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="cloud_backup_get_installed_apps_summary">W celu kopiowania i przywracania aplikacji z pulpitu</string>
   <string name="cloud_backup_get_installed_apps_title">Dostęp do listy aplikacji zainstalowanych na urządzeniu</string>
   <string name="cta_dialog_permission_description_get_installed_apps">W celu kopiowania i przywracania aplikacji</string>
+  <string name="backup_action_long_time_not_auto_backup_title">Skopiuj elementy</string>
+  <string name="dialog_auto_backup_condition_normal_content">Aby móc regularnie wykonywać automatyczne kopie wszystkich ważnych elementów, upewnij się, że masz wystarczająco dużo miejsca w chmurze, a urządzenie jest zablokowane, ma ponad  %s baterii i jest połączone z siecią Wi-Fi w ciągu nocy. Możesz także w dowolnym momencie wykonać ręczną kopię zapasową.</string>
+  <string name="dialog_auto_backup_condition_normal_content_china">Aby móc regularnie wykonywać automatyczne kopie wszystkich ważnych elementów, upewnij się, że masz wystarczająco dużo miejsca w chmurze, a urządzenie jest zablokowane, ma ponad  %s baterii i jest połączone z siecią Wi-Fi w ciągu nocy. Możesz także w dowolnym momencie wykonać ręczną kopię zapasową.</string>
+  <string name="dialog_auto_backup_condition_normal_positive">Rozumiem</string>
+  <string name="dialog_auto_backup_condition_normal_title">Skopiuj elementy</string>
+  <string name="dialog_recommend_wechat_backup_content">Możesz teraz wykonywać kopie zapasowe konwersacji WeChata i innych danych w Chmurze Xiaomi. Aby móc regularnie wykonywać automatyczne kopie wszystkich ważnych elementów, upewnij się, że masz wystarczająco dużo miejsca w chmurze, a urządzenie jest zablokowane, ma ponad  %s baterii i jest połączone z siecią Wi-Fi w ciągu nocy. Możesz także w dowolnym momencie wykonać ręczną kopię zapasową.</string>
+  <string name="dialog_recommend_wechat_backup_content_china">Możesz teraz wykonywać kopie zapasowe konwersacji WeChata i innych danych w Chmurze Xiaomi. Aby móc regularnie wykonywać automatyczne kopie wszystkich ważnych elementów, upewnij się, że masz wystarczająco dużo miejsca w chmurze, a urządzenie jest zablokowane, ma ponad  %s baterii i jest połączone z siecią Wi-Fi w ciągu nocy. Możesz także w dowolnym momencie wykonać ręczną kopię zapasową.</string>
+  <string name="dialog_recommend_wechat_backup_negative">Rozumiem</string>
+  <string name="dialog_recommend_wechat_backup_positive">Dowiedz się więcej</string>
+  <string name="dialog_recommend_wechat_backup_title">Skopiuj dane WeChata</string>
+  <string name="repeat_recommend_wechat_backup_notification_content">Możesz teraz kopiować dane WeChata. Dotknij, aby dowiedzieć się więcej.</string>
+  <string name="repeat_recommend_wechat_backup_notification_title">Skopiuj dane WeChata</string>
+  <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Skopiowano dane WeChata. Dotknij, aby dowiedzieć się więcej.</string>
+  <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Ukończono automatyczną kopię zapasową</string>
 </resources>
