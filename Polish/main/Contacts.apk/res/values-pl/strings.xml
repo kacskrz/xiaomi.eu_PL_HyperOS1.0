@@ -1667,4 +1667,7 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="notification_missedCall_call_back">Oddzwoń</string>
   <string name="notification_missedCall_message">Wyślij SMS-a</string>
   <string name="notification_missedCallsTitle">Nieodebrane połączenia</string>
+  <string name="call_limit">Ograniczenia połączeń</string>
+  <string name="call_limit_content">"Nie udało się zadzwonić do “%s”. Możesz dzwonić tylko na numery telefonów znajdujące się na Twojej liście zatwierdzonych kontaktów."</string>
+  <string name="know">Rozumiem</string>
 </resources>

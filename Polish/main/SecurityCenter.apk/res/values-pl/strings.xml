@@ -5875,4 +5875,24 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="wifi_optizition_title">Przyspieszanie prędkości Wi-Fi</string>
     <string name="wlan_booster">Optymalizacja Wi-Fi</string>
     <string name="yesterday">Wczoraj</string>
+    <string name="conversation_settings_top">"·Rozwiń pasek Narzędzi konferencyjnych w trakcie połączeń audio i wideo, aby uzyskać dostęp do jego funkcji.
+·Typ i ilość funkcji zależy od modelu urządzenia."</string>
+    <string name="conversation_sider_tips">Narzędzia konferencyjne to nowa jakość w połączeniach głosowych</string>
+    <string name="conversation_summary">Upiększanie, transkrypcja napisów i inne funkcje dot. połączeń audio i wideo</string>
+    <string name="conversation_title">Narzędzia konferencyjne</string>
+    <string name="cs_color_sense">Temperatura barwowa</string>
+    <string name="cs_func_toast_headset">Odłącz słuchawki, aby korzystać z tej funkcji</string>
+    <string name="cs_func_toast_light">Przełącz się na przedni aparat, aby korzystać z tej funkcji</string>
+    <string name="cs_func_toast_pickup">Włącz rozmowę wideo, aby korzystać z tej funkcji</string>
+    <string name="cs_pickup_multi_desc">Odbieranie dźwięku w promieniu %d stopni</string>
+    <string name="cs_pickup_multi_title">Wielu uczestników</string>
+    <string name="cs_pickup_single_desc">Odbieranie dźwięku tylko z środka ekranu</string>
+    <string name="cs_pickup_single_title">Jeden uczestnik</string>
+    <string name="cs_pickup_surround_desc">Wykorzystuje SI do redukcji szumów dla czystego, niezakłóconego dźwięku</string>
+    <string name="cs_pickup_surround_title">Redukcja szumów z mikrofonu</string>
+    <string name="cs_title_pickup">Redukcja szumów</string>
+    <string name="cs_title_smart_subtitle">Transkrypcja napisów</string>
+    <string name="cs_title_ultraclear">Tryb Ultra HD</string>
+    <string name="gd_setting_conversation">Narzędzia konferencyjne</string>
+    <string name="gd_setting_conversation_desc">Różne funkcje, których można użyć w połączeniach audio i wideo</string>
 </resources>
