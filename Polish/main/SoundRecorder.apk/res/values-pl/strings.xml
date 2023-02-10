@@ -99,7 +99,7 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="loading_more">Chwileczkę…</string>
   <string name="loading_order_list">Chwileczkę…</string>
   <string name="loading_order_list_empty">Brak zamówień.</string>
-  <string name="low_battery_error">Bateria jest bliska wyczerpaniu (pozostało 5%). Zatrzymaj i zapisz nagrywanie.</string>
+  <string name="low_battery_error">Bateria jest bliska wyczerpaniu (pozostało %s). Zatrzymaj i zapisz nagranie.</string>
   <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Niski poziom baterii</string>
   <string name="lyric_item_point_count">%1$d do %2$d</string>
@@ -182,7 +182,7 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="recognition_error_code">Kod błędu: %d</string>
   <string name="recognition_error_download_cancel">Później</string>
   <string name="recognition_error_download_fail">Nie udało się pobrać. Sprawdź połączenie z siecią i spróbuj ponownie.</string>
-  <string name="recognition_error_download_data_msg">Pobierz algorytm rozpoznawania, aby usługa była dostępna. Wymaga to około 20 MB danych komórkowych.</string>
+  <string name="recognition_error_download_data_msg">Pobierz algorytm rozpoznawania, aby usługa była dostępna. Wymaga to około %d MB danych komórkowych.</string>
   <string name="recognition_error_download_msg">Pobierz algorytm rozpoznawania, aby usługa była dostępna.</string>
   <string name="recognition_error_download_ok">Pobierz</string>
   <string name="recognition_error_download_title">Brak algorytmu rozpoznawania</string>
@@ -285,9 +285,9 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="status_bar_back">Powrót do nagrania</string>
   <string name="status_bar_recording">Nagrywanie...</string>
   <string name="status_bar_recording_pause">Nagrywanie wstrzymane</string>
-  <string name="text_btn_backward_3_seconds">3 sekundy wstecz</string>
+  <string name="text_btn_backward_3_seconds">%d sekundy wstecz</string>
   <string name="text_btn_complete">Zakończ</string>
-  <string name="text_btn_forward_3_seconds">3 sekundy naprzód</string>
+  <string name="text_btn_forward_3_seconds">%d sekundy naprzód</string>
   <string name="text_btn_list">Nagrania</string>
   <string name="text_btn_mark">Oznacz</string>
   <string name="text_btn_pause">Wstrzymaj</string>
@@ -481,4 +481,18 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">To wszystko na teraz</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
+  <string name="high_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
+  <string name="low_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
+  <string name="middle_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
+  <string name="permission_notification_description">W celu wysyłania alertów dot. nagrywania, odtwarzania i pobierania treści</string>
+  <string name="permission_notification_dialog_description">"W celu wysyłania alertów dot. obecnego statusu aplikacji"</string>
+  <string name="permission_notification_title">Wymagane uprawnienia</string>
+  <string name="record_scenes_summaries_HD">Technologia wysokiego zakresu dynamicznego umożliwia nagrywanie lepszej jakości dźwięku</string>
+  <string name="record_scenes_summaries_interview">Umieść telefon między %d osobami, aby nagrywać w najlepszej jakości</string>
+  <string name="record_scenes_summaries_music">Nagrywaj muzykę w lepszej jakości</string>
+  <string name="record_scenes_summaries_stereo_HD">Technologia wysokiego zakresu dynamicznego umożliwia nagrywanie lepszej jakości dźwięku</string>
+  <string name="record_scenes_summaries_stereo_interview">Umieść telefon między %d osobami, aby nagrywać w najlepszej jakości</string>
+  <string name="record_scenes_summaries_stereo_music">Rejestruj przez %d kanały, słuchaj dźwięku stereo w słuchawkach</string>
+  <string name="record_scenes_summaries_stereo_voice">Im bliżej źródła dźwięku znajduj się mikrofon, tym lepsza jest jakość nagrania</string>
+  <string name="record_scenes_summaries_voice">Im bliżej źródła dźwięku znajduj się mikrofon, tym lepsza jest jakość nagrania</string>
 </resources>

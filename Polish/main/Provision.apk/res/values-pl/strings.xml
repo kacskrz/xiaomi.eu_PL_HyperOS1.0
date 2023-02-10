@@ -513,4 +513,8 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
     <string name="congratulation_pre_label">Chwileczkę…</string>
     <string name="congratulation_pre_title">Przygotowywanie systemu…</string>
     <string name="miui14_start_up_slogan">Sprawna. Stabilna. Żywa.</string>
+    <string name="other_settings_alarm_assistance">Lokalizacja dla służb ratunkowych</string>
+    <string name="other_settings_alarm_assistance_privacy">Polityka prywatności</string>
+    <string name="other_settings_alarm_assistance_summary">"Możesz automatycznie wysłać informacje o swojej lokalizacji policji za pomocą SMS-a lub danych mobilnych, gdy dzwonisz na numer 110, 120, 119, or 122. Przed skorzystaniem z tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>."</string>
+    <string name="other_settings_alarm_assistance_user">Umowa użytkownika</string>
 </resources>

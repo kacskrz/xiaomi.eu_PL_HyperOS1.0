@@ -510,4 +510,5 @@ może znajdować się w oddzielnej aplikacji"</string>
   <string name="gamebooster_dialog_recover">Odnów</string>
   <string name="gamebooster_dialog_start_booster">Zacznij</string>
   <string name="second_space_setting_search_label">Ochrona prywatności/Ochrona/Funkcje Ochrony prywatności</string>
+  <string name="can_not_switch_when_green_kid_active_new">"Nie można się przełączyć na Drugą przestrzeń, gdy włączona jest Kontrola rodzicielska"</string>
 </resources>
