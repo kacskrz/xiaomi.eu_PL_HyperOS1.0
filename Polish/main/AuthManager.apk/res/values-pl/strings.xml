@@ -495,4 +495,6 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="permdesc_isolate_storage">Zezwolić %1$s na dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu?</string>
   <string name="permgroupdesc_read_media_aural">Zezwolić %1$s na dostęp do plików audio przechowywanych na urządzeniu?</string>
   <string name="permgroupdesc_read_media_visual">Zezwolić %1$s na dostęp do zdjęć i filmów przechowywanych na urządzeniu?</string>
+  <string name="HIPS_Perm_operator_wall_paper">Ustawianie tapety</string>
+  <string name="HIPS_Perm_operator_wall_paper_Desc">Zmiana tapet i domyślnych usług dot. dynamicznych tapet</string>
 </resources>

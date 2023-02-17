@@ -3584,4 +3584,8 @@ Każdy użytkownik może aktualizować aplikacje w imieniu wszystkich pozostały
     <string name="wifi_scan_throttling_summary">Zmniejsza zużycie baterii i zwiększa wydajność sieci</string>
     <string name="yesterday">Wczoraj</string>
     <string name="zen_mode_forever">Dopóki nie wyłączysz</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">OK</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Jeśli wyłączysz optymalizację MIUI i włączysz Oszczędzanie baterii, automatycznie włączy się Ciemny motyw.
+Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIUI w Ustawieniach > Opcje programisty > Optymalizacje MIUI."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Ciemny motyw</string>
 </resources>

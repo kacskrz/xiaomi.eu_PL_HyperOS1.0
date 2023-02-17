@@ -888,4 +888,6 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię nic ważnego."</stri
     <string name="search_history">Historia wyszukiwania</string>
     <string name="setting_import_events">Importuj wydarzenia</string>
     <string name="setting_show_reject_agenda">Pokaż odrzucone wydarzenia</string>
+    <string name="permission_denial">Aby korzystać z tej funkcji, nadaj uprawnienia</string>
+    <string name="premission_description_notice">W celu wysyłania powiadomień o wydarzeniach i świętach</string>
 </resources>
