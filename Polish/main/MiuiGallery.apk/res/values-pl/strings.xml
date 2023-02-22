@@ -3635,4 +3635,6 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="share_album_risk_control_too_many_sharers_accept">"Nie można dodać więcej członków"</string>
   <string name="share_album_risk_control_too_many_sharers_invite">"Nie można zaprosić więcej członków"</string>
   <string name="trash_purge_all_media">"Permanentnie usunąć wszystkie elementy z Chmury i zsynchronizowanych urządzeń? Nie można cofnąć tej czynności."</string>
+  <string name="cloud_data_size">Zdjęcia i filmy w chmurze: %1$s</string>
+  <string name="ignore_alert_dialog_title">Ignorować tę osobę?</string>
 </resources>

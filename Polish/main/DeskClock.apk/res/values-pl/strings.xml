@@ -634,4 +634,8 @@ d.MM."</string>
   <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> godzinę przed</string>
   <string name="notification_adv_time_entries5">Brak</string>
   <string name="sleep_duration_recommendation_new" formatted="false">Większość ludzi potrzebuje od %d do %d godzin snu w ciągu doby</string>
+  <string name="alarm_alert_close_entrance">Wyłącz</string>
+  <string name="alarm_permanent_alert">Dzwonienie</string>
+  <string name="notification_permission_desc">"Jeśli nie nadasz uprawnień do powiadomień, nie będziesz w stanie wyłączyć alarmów, gdy one zadzwonią. Nadać uprawnienie?"</string>
+  <string name="open_notification_permission_remind">Zezwól na powiadomienia, aby móc wyłączać alarmy</string>
 </resources>

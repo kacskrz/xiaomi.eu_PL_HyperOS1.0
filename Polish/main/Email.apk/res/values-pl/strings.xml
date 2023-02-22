@@ -1708,4 +1708,5 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
   <string name="close_tips">Wyłączenie przypomnień</string>
   <string name="folder_junk_name_en5">Spam</string>
   <string name="message_invite_calendar_download_prompt">Pobierz Kalendarz, aby móc korzystać z tej funkcji</string>
+  <string name="message_forward_has_signature_pdf">Przekazać wiadomość z podpisanymi załącznikami PDF?</string>
 </resources>
