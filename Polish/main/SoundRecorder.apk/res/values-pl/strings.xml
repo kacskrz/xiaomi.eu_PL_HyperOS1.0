@@ -495,4 +495,5 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="record_scenes_summaries_stereo_music">Rejestruj przez %d kanały, słuchaj dźwięku stereo w słuchawkach</string>
   <string name="record_scenes_summaries_stereo_voice">Im bliżej źródła dźwięku znajduj się mikrofon, tym lepsza jest jakość nagrania</string>
   <string name="record_scenes_summaries_voice">Im bliżej źródła dźwięku znajduj się mikrofon, tym lepsza jest jakość nagrania</string>
+  <string name="record_while_in_call_tip">"Nie można nagrywać dźwięku w trakcie połączenia"</string>
 </resources>

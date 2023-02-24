@@ -1250,4 +1250,26 @@ Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkow
         <item quantity="one">%d wyjątek</item>
         <item quantity="few">%d wyjątki</item>
     </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">Dodano %d aplikacji</item>
+        <item quantity="one">Dodano %d aplikację</item>
+        <item quantity="few">Dodano %d aplikacje</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s godz.</item>
+        <item quantity="one">%s godz.</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">Nie dodano %d aplikacji</item>
+        <item quantity="one">Nie dodano %d aplikacji</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Urządzenie jest rozładowane. Za %1$d sekund wejdziesz w Tryb hibernacji.</item>
+        <item quantity="few">Urządzenie jest rozładowane. Za %1$d sekundy wejdziesz w Tryb hibernacji.</item>
+        <item quantity="one">Urządzenie jest rozładowane. Za %1$d sekundę wejdziesz w Tryb hibernacji.</item>
+    </plurals>
 </resources>

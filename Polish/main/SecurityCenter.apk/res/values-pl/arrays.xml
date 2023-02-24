@@ -239,4 +239,8 @@
         <item>Używana pamięć</item>
         <item>Czas instalacji</item>
     </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Domyślnie</item>
+        <item>Wszystko</item>
+    </string-array>
 </resources>

@@ -65,8 +65,8 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="audio_duration_minutes_format">%1$d min</string>
   <string name="audio_duration_seconds_format">%1$d s</string>
   <string name="audition_ringtone">Odtwórz</string>
-  <string name="author_attention">Obserwuj</string>
-  <string name="author_attention_success">Obserwujesz</string>
+  <string name="author_attention">Śledź</string>
+  <string name="author_attention_success">Śledzisz</string>
   <string name="author_dialog_message">Czy na pewno chcesz przestać obserwować to konto?</string>
   <string name="author_dynamic">Status</string>
   <string name="author_dynamic_no_resource">"Nie znaleziono rezultatów"</string>
@@ -138,8 +138,8 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="current_version_incompatible">Ten motyw jest niekompatybilny</string>
   <string name="de_apply_icons">Ikony aplikacji</string>
   <string name="de_apply_icons_and_wallpaper">Ikony aplikacji i tapeta</string>
-  <string name="de_author_follow">Obserwuj</string>
-  <string name="de_author_following">Obserwujesz</string>
+  <string name="de_author_follow">Śledź</string>
+  <string name="de_author_following">Śledzisz</string>
   <string name="de_component_aod_author">Twórca</string>
   <string name="de_component_author">Autor</string>
   <string name="de_component_font_author">Projektant czcionek</string>

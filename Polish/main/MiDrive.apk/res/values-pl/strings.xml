@@ -839,4 +839,5 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="request_permission_content_with_phone_state">Aby móc zalogować się za pomocą konta Xiaomi, przeglądać, wysyłać, pobierać i synchronizować pliki, Mi Drive wymaga uprawnień dostępu do Twoich kont, zdjęć, plików i IMEI.</string>
   <string name="start_download">Rozpoczynanie pobierania…</string>
   <string name="start_upload">Rozpoczynanie wysyłania…</string>
+  <string name="member_menu_vipname_extend_package">Dodaj miejsce w chmurze</string>
 </resources>
