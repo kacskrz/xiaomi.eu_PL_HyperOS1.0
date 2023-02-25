@@ -1125,7 +1125,7 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
     <string name="sp_msg_entry">Usługi</string>
     <string name="toast_not_show_camera_perm_req">Aby użyć tej funkcji, zezwól aplikacji SMS na korzystanie z aparatu</string>
     <string name="toast_not_show_microphone_perm_req">Aby użyć tej funkcji, zezwól aplikacji SMS na korzystanie z mikrofonu</string>
-    <string name="toast_not_show_storage_perm_req">Aby użyć tej funkcji, zezwól aplikacji SMS na dostęp do pamięci</string>
+    <string name="toast_not_show_storage_perm_req">Aby użyć tej funkcji, niezbędne są uprawnienia. Możesz je przyznać w Ustawieniach.</string>
     <string name="ad_notification_title">Nieistotne wiadomości</string>
     <string name="pref_group_ad_mms_recognition">Grupuj reklamy</string>
     <string name="pref_summary_ad_mms_recognition">Umieść ekrany w oddzielnej karcie</string>
@@ -1393,7 +1393,7 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj jej warunki."</string>
     <string name="system_permission_perm_record_audio">W celu nagrywania dźwięku</string>
     <string name="system_permission_perm_send_sms">W celu wysyłania SMS-ów</string>
     <string name="system_permission_perm_sms">W celu wyświetlania i wysyłania wiadomości</string>
-    <string name="system_permission_perm_storage">W celu wyświetlania, wysyłania i przechowywania plików</string>
+    <string name="system_permission_perm_storage">W celu zapisywania i wysyłania załączników do SMS-ów</string>
     <string name="system_permission_perm_takephoto">W celu robienia zdjęć i filmów</string>
     <string name="system_permission_perm_write_contact">W celu tworzenia i edycji kontaktów</string>
     <string name="system_permission_perm_write_mms">Zezwól aplikacji SMS na pisanie MMS-ów</string>
@@ -1458,4 +1458,7 @@ do Listy blokowanych"</string>
     <string name="mms_main_purpose_new">Aby dostarczać Ci podstawowe usługi, aplikacja musi się łączyć z Internetem. Xiaomi zaleca również włączenie usług Wiadomości w Chmurze oraz Inteligentne wiadomości.</string>
     <string name="system_permission_declare_exit">Wyjdź</string>
     <string name="wait_for_sp_mark_as_read">Chwileczkę…</string>
+    <string name="pref_title_perm_read_audio">Dostęp do plików audio</string>
+    <string name="pref_title_perm_read_files">Dostęp do plików i dokumentów</string>
+    <string name="pref_title_perm_read_images_video">Dostęp do zdjęć i filmów</string>
 </resources>

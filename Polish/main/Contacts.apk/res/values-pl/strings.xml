@@ -1670,4 +1670,6 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="call_limit">Ograniczenia połączeń</string>
   <string name="call_limit_content">"Nie udało się zadzwonić do “%s”. Możesz dzwonić tylko na numery telefonów znajdujące się na Twojej liście zatwierdzonych kontaktów."</string>
   <string name="know">Rozumiem</string>
+  <string name="scan_not_installed_china">Najpierw zainstaluj Skaner</string>
+  <string name="scan_not_installed_global">Najpierw zainstaluj Skaner</string>
 </resources>
