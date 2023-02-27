@@ -362,7 +362,7 @@
   <string name="collage_poster_global_tea_text">Herbata</string>
   <string name="collage_ratio_text">Proporcje</string>
   <string name="collage_rotate">Obróć</string>
-  <string name="collage_select_image_range">Kolaże mogą składać się z 1 do 6 zdjęć</string>
+  <string name="collage_select_image_range">Kolaże mogą składać się z %1$d do %2$d zdjęć</string>
   <string name="collage_title_layout">Układ</string>
   <string name="collage_title_poster">Plakat</string>
   <string name="collage_title_stitching">Rolka</string>
@@ -2685,8 +2685,8 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="photo_editor_talkback_beautity_applied">Autom. upiększanie wł.</string>
     <string name="photo_editor_talkback_beautity_unapplied">Autom. upiększanie wył.</string>
     <string name="photo_editor_talkback_crop_reset">Resetuj</string>
-    <string name="photo_editor_talkback_crop_right_rotate">Obróć o 90 stopni</string>
-    <string name="photo_editor_talkback_crop_scale_default_value">Domyślna wartość przed obróceniem to 0 stopni</string>
+    <string name="photo_editor_talkback_crop_right_rotate">Obróć o %d stopni</string>
+    <string name="photo_editor_talkback_crop_scale_default_value">Domyślna wartość przed obróceniem to %d stopni</string>
     <string name="photo_editor_talkback_crop_scale_value">Obróć o %d stopni</string>
     <string name="photo_editor_talkback_crop_view">Przytnij obraz</string>
     <string name="photo_editor_talkback_seekbar">Efekt renderowania</string>
@@ -2735,13 +2735,13 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="talkback_story_album_playicon">Odtwórz to wspomnienie</string>
     <string name="talkback_video_with_time">Film, %s</string>
     <string name="talkback_video_with_time_and_location">Film, %1$s, %2$s</string>
-    <string name="text_item_type_talkback_bubble_arrow1">Strzałka 1</string>
-    <string name="text_item_type_talkback_bubble_arrow2">Strzałka 2</string>
+    <string name="text_item_type_talkback_bubble_arrow1">Strzałka %d</string>
+    <string name="text_item_type_talkback_bubble_arrow2">Strzałka %d</string>
     <string name="text_item_type_talkback_bubble_circular">Chmurka</string>
     <string name="text_item_type_talkback_bubble_none">Pole tekstowe</string>
     <string name="text_item_type_talkback_bubble_oval">Owalna chmurka</string>
-    <string name="text_item_type_talkback_bubble_rectangle">Kwadratowa chmurka 1</string>
-    <string name="text_item_type_talkback_bubble_rectangle2">Kwadratowa chmurka 2</string>
+    <string name="text_item_type_talkback_bubble_rectangle">Kwadratowa chmurka %d</string>
+    <string name="text_item_type_talkback_bubble_rectangle2">Kwadratowa chmurka %d</string>
     <string name="text_item_type_talkback_bubble_signature">Podpis</string>
     <string name="text_item_type_talkback_bubble_watermark_1">Zawsze wierz, że zdarzy się coś wspaniałego</string>
     <string name="text_item_type_talkback_bubble_watermark_2">Idealne wakacje 1</string>
@@ -2762,11 +2762,11 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="text_item_type_talkback_city_suzhou">Suzhou</string>
     <string name="text_item_type_talkback_city_tianjin">Tianjin</string>
     <string name="text_item_type_talkback_city_wuhan">Wuhan</string>
-    <string name="text_item_type_talkback_festival_chaojieyueliang2">Superksiężyc 2</string>
+    <string name="text_item_type_talkback_festival_chaojieyueliang2">Superksiężyc %d</string>
     <string name="text_item_type_talkback_festival_chaojiyueliang">Superksiężyc</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang3">Superksiężyc 3</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang4">Superksiężyc 4</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang5">Superksiężyc 5</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang3">Superksiężyc %d</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang4">Superksiężyc %d</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang5">Superksiężyc %d</string>
     <string name="text_item_type_talkback_festival_chunjie">Święto Chińskiego Nowego Roku</string>
     <string name="text_item_type_talkback_festival_chuxi">Chiński Nowy Rok</string>
     <string name="text_item_type_talkback_festival_ertongjie">"Dzień Dziecka"</string>
@@ -3637,4 +3637,15 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="trash_purge_all_media">"Permanentnie usunąć wszystkie elementy z Chmury i zsynchronizowanych urządzeń? Nie można cofnąć tej czynności."</string>
   <string name="cloud_data_size">Zdjęcia i filmy w chmurze: %1$s</string>
   <string name="ignore_alert_dialog_title">Ignorować tę osobę?</string>
+  <string name="cleaner_subtitle_slim_space_prefix">Zajęte %1$s %2$s</string>
+  <string name="slim_auto_backup_cloud_confirm_detail">Włącz synchronizację z chmurą, aby wysyłać do niej zdjęcia i filmy z urządzenia.</string>
+  <string name="slim_auto_backup_cloud_confirm_title">Synchronizacja z chmurą</string>
+  <string name="slim_finish_upgrade_tip"><Data>Ulepsz plan chmury, aby synchronizować z nią więcej elementów. Aby zrobić to teraz, &lt;a href=\"%1$s\">wejdź tutaj&lt;/a>.</Data></string>
+  <string name="slim_function_summery_first">Zachowaj skompresowane zdjęcia na urządzeniu i zapisz ich oryginalną wersję w chmurze</string>
+  <string name="slim_function_summery_second">Pliki utworzone w ciągu ostatnich %d dni będą zapisane na urządzeniu</string>
+  <string name="slim_subtitle_slim_space_prefix">Zwolnij %1$s %2$s</string>
+  <string name="slim_subtitle_sync_off_no_slimdata">Włącz synchronizację z chmurą, aby oszacować ilość zwolnionej przestrzeni</string>
+  <string name="slim_subtitle_sync_on_no_slimdata">Synchronizacja. Spróbuj później.</string>
+  <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Ulepsz plan chmury, aby zsynchronizować więcej elementów</string>
+  <string name="slim_upgrade_button">Ulepsz</string>
 </resources>

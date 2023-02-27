@@ -1053,4 +1053,12 @@ Spróbuj przenieść pliki ze swojego urządzenia do Mi Drive'a."</string>
     <string name="install_media_editor_button_text">Pobierz</string>
     <string name="install_media_editor_message">Aby móc edytować elementy, pobierz wtyczkę. Zrobić to teraz?</string>
     <string name="install_media_editor_title">Wymagana wtyczka</string>
+    <string name="cloud_empty_hint_text_pad">"Nic tu nie ma.
+Spróbuj przenieść pliki z urządzenia do Mi Drive."</string>
+    <string name="extend_service_setting">Dodatkowe usługi</string>
+    <string name="extend_service_summary">"Jeśli wyłączysz tę usługę, nie będzie można korzystać z funkcji Mi Drive"</string>
+    <string name="extend_service_title">Zarządzaj plikami Mi Drive</string>
+    <string name="stop_extend_service_dialog_confirm">Wyłącz</string>
+    <string name="stop_extend_service_dialog_summary">"Jeśli wyłączysz tę funkcję, nie będzie można zarządzać plikami przechowywanymi w usłudze Mi Drive. Wyłączyć mimo to?"</string>
+    <string name="stop_extend_service_dialog_tilte">Dodatkowe usługi</string>
 </resources>
