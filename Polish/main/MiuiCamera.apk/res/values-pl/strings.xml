@@ -2260,4 +2260,8 @@ Możesz użyć poniższych przycisków, aby zaimportować tekst, wyświetlić po
   <string name="module_name_microfilm">Krótki film</string>
   <string name="settings_camera_lens_auto_switch_description">Automatycznie przełączaj się między głównym obiektywem a teleobiektywem w zależności od odległości i jasności</string>
   <string name="settings_camera_lens_auto_switch_title">Automatyczna zmiana obiektywu</string>
+  <string name="download_hint_check_on_wifi">"Masz połączenie z siecią Wi-Fi. Pobrać plik o wielkości %1$s MB?"</string>
+  <string name="download_hint_check_on_wifi_cn">"Masz połączenie z siecią Wi-Fi. Pobrać plik o wielkości %1$s MB?"</string>
+  <string name="download_hint_check_on_wifi_remind">"Nie przypominaj ponownie"</string>
+  <string name="download_hint_check_on_wifi_remind_cn">"Nie przypominaj ponownie"</string>
 </resources>
