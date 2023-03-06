@@ -475,7 +475,7 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="rename_file_select_error">"Nie można zmienić nazwy kilku elementów na raz"</string>
   <string name="rename_success">Pomyślnie zmieniono nazwę</string>
   <string name="request_permission_confirm">Rozumiem</string>
-  <string name="request_permission_content">Mi Drive wymaga dostępu do kont na tym urządzeniu, aby móc użyć Twojego konta Xiaomi do zalogowania się. Uprawnienie dostępu do plików i ich zapisywania na urządzeniu pozwoli aplikacji Mi Drive na podgląd, wysyłanie, pobieranie i synchronizację elementów.</string>
+  <string name="request_permission_content">Mi Drive wymaga uprawnień dostępu do kont, zdjęć i plików na urządzeniu, a także wysyłania powiadomień. Będą one wykorzystywane do szybkiego logowania się na konto Xiaomi, a także do podglądania, wysyłania, pobierania i synchronizacji elementów.</string>
   <string name="request_permission_title">Wymagane uprawnienia</string>
   <string name="resend_active_email">Wyślij ponownie</string>
   <string name="resend_email_reach_limit_message">Zażądałeś zbyt wielu e-maili weryfikacyjnych. Sprawdź, czy e-mail weryfikacyjny nie trafił do folderu Spam.</string>
@@ -840,4 +840,21 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="start_download">Rozpoczynanie pobierania…</string>
   <string name="start_upload">Rozpoczynanie wysyłania…</string>
   <string name="member_menu_vipname_extend_package">Dodaj miejsce w chmurze</string>
+  <string name="request_permission_account_state">W celu szybkiego logowania się na konto Xiaomi</string>
+  <string name="request_permission_external_storage">Dostęp do pamięci urządzenia</string>
+  <string name="request_permission_external_storage_desc">W celu podglądania, wysyłania, pobierania i synchronizacji elementów</string>
+  <string name="request_permission_manual_authorized">Ustawienia</string>
+  <string name="request_permission_manual_desc">Do korzystania z niektórych funkcji wymagane jest stosowne uprawnienie: %s. Możesz je przyznać w Ustawieniach.</string>
+  <string name="request_permission_manual_title">Wymagane uprawnienia</string>
+  <string name="request_permission_manual_unauthorized">Anuluj</string>
+  <string name="request_permission_post_notification">Powiadomienia</string>
+  <string name="request_permission_post_notification_desc">W celu wysyłania powiadomień dot. wysyłań i pobierań elementów z Mi Drive</string>
+  <string name="request_permission_read_media_audio">Dostęp do plików audio</string>
+  <string name="request_permission_read_media_audio_desc">W celu podglądania, wysyłania, pobierania i synchronizacji plików audio</string>
+  <string name="request_permission_read_media_aural">W celu podglądania, wysyłania, pobierania i synchronizacji plików audio</string>
+  <string name="request_permission_read_media_image">Dostęp do zdjęć</string>
+  <string name="request_permission_read_media_image_desc">W celu podglądania, wysyłania, pobierania i synchronizacji zdjęć</string>
+  <string name="request_permission_read_media_video">Dostęp do filmów</string>
+  <string name="request_permission_read_media_video_desc">W celu podglądania, wysyłania, pobierania i synchronizacji filmów</string>
+  <string name="request_permission_read_media_visual">W celu podglądania, wysyłania, pobierania i synchronizacji zdjęć i filmów</string>
 </resources>

@@ -1087,7 +1087,7 @@
   <string name="origin_video_name">wideo</string>
   <string name="other_album">Inne albumy</string>
   <string name="other_album_operation_move_to_rubbish_albums">Przenieś do zbędnych albumów</string>
-  <string name="other_album_operation_remove_from_other_albums">Usuń z zbędnych albumów</string>
+  <string name="other_album_operation_remove_from_other_albums">Usuń z Innych albumów</string>
   <string name="other_settings">Dodatkowe ustawienia</string>
   <string name="owner_album_subtitle">Udostępniany z %1$s użytkownikami</string>
   <string name="pc_device_model_name">Komputer</string>
@@ -1295,7 +1295,7 @@
   <string name="remove_from_album_title">Usuń z tego albumu</string>
   <string name="remove_from_current_album">Usuń z tego albumu</string>
   <string name="remove_from_favorites_failed">"Nie można usunąć z ulubionych"</string>
-  <string name="remove_from_other_albums_tip">Przenieść ten album z Pozostałych?</string>
+  <string name="remove_from_other_albums_tip">Usunąć ten album z Innych albumów?</string>
   <string name="remove_from_secret_fail">Usuwanie z prywatnego albumu nieudane</string>
   <string name="remove_from_secret_failed_with_reason">"Nie można usunąć z prywatnego albumu. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s elementów nie może być usuniętych. %1$s."</string>
@@ -1462,8 +1462,8 @@
   <string name="show_cloud_albumlist_summary">Nowe elementy z wybranych albumów nie będą przesyłane do Chmury po wyłączeniu synchronizacji.</string>
   <string name="show_hidden_album_summary">Pokaż i zarządzaj ukrytymi albumami</string>
   <string name="show_hidden_album_title">Pokaż ukryte albumy</string>
-  <string name="show_in_other_albums_disable_toast_long_press_menu">Pomyślnie przeniesiono</string>
-  <string name="show_in_other_albums_enable_toast_long_press_menu">Pomyślnie przeniesiono</string>
+  <string name="show_in_other_albums_disable_toast_long_press_menu">Pomyślnie usunięto. Możesz zobaczyć ten element w Albumach.</string>
+  <string name="show_in_other_albums_enable_toast_long_press_menu">Pomyślnie przeniesiono. Możesz zobaczyć ten element w Innych albumach.</string>
   <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Pomyślnie przeniesiono do kosza</string>
   <string name="similar_keep_clear">Zachowaj najlepsze ujęcie</string>
   <string name="sky_dynamic">Dynamiczne</string>
@@ -3599,7 +3599,7 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="hdr_show_hint">Dostosuj wyświetlanie, aby pokazać więcej szczegółów w cieniach i podświetleniach w elementach o wysokim zakresie dynamicznym</string>
   <string name="hdr_show_title">Pokaż HDR</string>
   <string name="privacy_share_album_confirm">Warunki użytkowania</string>
-  <string name="privacy_share_album_confirm_detail">Udostępniane albumy są dostarczane przez Chmurę Xiaomi. Zanim z nich skorzystasz, przeczytaj i zaakceptuj warunki &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Umowy użytkownika>&lt;/a>&lt;/font> oraz &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Polityki prywatności&lt;/a>&lt;/font>.</string>
+  <string name="privacy_share_album_confirm_detail">Udostępniane albumy są dostarczane przez Chmurę Xiaomi. Zanim z nich skorzystasz, przeczytaj i zaakceptuj warunki &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Polityki prywatności&lt;/a>&lt;/font>.</string>
   <string name="share_album_home_switch_family">Włącz</string>
   <string name="sort_and_showmode">Sortuj i wyświetlaj</string>
   <string name="annual_speci_year_title">Powrót do %d</string>
