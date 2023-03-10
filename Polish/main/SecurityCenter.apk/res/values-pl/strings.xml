@@ -5907,7 +5907,7 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="pc_extreme_mode_exit_risk_title">Uwaga</string>
     <string name="pc_extreme_mode_exit_risk_title_summary">Twoje urządzenie jest rozładowane. Jeśli wyjdziesz z Trybu hibernacji, zostanie ono wyłączone.</string>
     <string name="pc_extreme_mode_exiting">Wychodzenie z Trybu hibernacji…</string>
-    <string name="pc_extreme_mode_find_charger">Naładuj urządzenie tak szybko, jak to możliwe.</string>
+    <string name="pc_extreme_mode_find_charger">Naładuj urządzenie jak najszybciej.</string>
     <string name="pc_extreme_mode_runtime">Tryb hibernacji jest włączony od %1$s %2$s.</string>
     <string name="pc_extreme_mode_title">Tryb hibernacji</string>
     <string name="pc_going_to_exit_extreme_mode">Wyjście z Trybu hibernacji</string>

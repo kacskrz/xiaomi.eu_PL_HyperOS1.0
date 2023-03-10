@@ -529,7 +529,7 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="wechat_app_send_fail">"Nie udało się wysłać aplikacji WeChat"</string>
     <string name="dialog_request_permission_message">"Witaj w Przenoszeniu danych! Możesz użyć tej aplikacji do przenoszenia danych ze swojego starego urządzenia na nowe. Dane będą przenoszone wyłącznie pomiędzy tymi urządzeniami i nie będą wysyłane na serwery Xiaomi. Aplikacja wymaga połączenia z Internetem i następujących uprawnień do poprawnego działania:"</string>
     <string name="dialog_request_permission_message_extra">"Jeśli nie zgodzisz się na nadanie tychże uprawnień, nie będziesz mógł korzystać z tej aplikacji. Możesz odinstalować aplikację bądź się z niej wylogować w każdym momencie."</string>
-    <string name="dialog_request_permission_message_link" formatted="false"><Data>"Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności&lt;/a> Xiaomi."</Data></string>
+    <string name="dialog_request_permission_message_link" formatted="false"><Data>"Zezwól aplikacji na łączenie się z Internetem i nadaj niezbędne uprawnienia wymienione powyżej. Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności&lt;/a> Xiaomi."</Data></string>
     <string name="perm_write_settings">Zmiana ustawień systemu</string>
     <string name="permission_calender_summary">W celu przenoszenia wydarzeń ze starego urządzenia na nowe </string>
     <string name="permission_calender_title">Dostęp do kalendarza</string>
@@ -847,6 +847,6 @@ na swoim iPhonie"</string>
   <string name="request_permission">Zezwól</string>
   <string name="close_vpn_summary">Wygląda na to, że Twoje urządzenie jest połączone z VPN. Wyłącz VPN, aby móc się łączyć z innymi urządzeniami.</string>
   <string name="close_vpn_title">Wyłącz VPN</string>
-  <string name="dialog_request_permission_message_provision_link">W tym samym czasie, aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach których Xiaomi używa Twoich danych, przeczytaj i zaakceptuj warunki %1$s oraz %2$s.</string>
+  <string name="dialog_request_permission_message_provision_link">Zezwól aplikacji na łączenie się z Internetem i nadaj niezbędne uprawnienia wymienione powyżej. Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki %1$s oraz %2$s.</string>
   <string name="need_location_permission_title">Wymagane uprawnienia</string>
 </resources>

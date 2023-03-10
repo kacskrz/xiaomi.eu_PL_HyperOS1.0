@@ -406,4 +406,18 @@
   <string name="gdpr_msg">&lt;Data>Aby móc korzystać z podstawowych funkcji Panelu sterowania, należy wyrazić zgodę na gromadzenie, przetwarzanie i wykorzystywanie przez Xiaomi danych osobowych użytkownika, w tym informacji o sposobach korzystania z funkcji Panelu sterowania (np. statystyki korzystania z danych mobilnych, informacje o złośliwym oprogramowaniu, jak również podstawowe informacje na temat urządzenia) oraz innych informacji określonych w &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Polityce prywatności&lt;/a>.&lt;/Data></string>
   <string name="superpower_settings_launcher">Ultraoszczędzanie baterii</string>
   <string name="superpower_toast_app_select_full">Do często używanych aplikacji możesz dodać maks. 6 elementów</string>
+  <string name="network_error">Wystąpił błąd sieci.</string>
+  <string name="page_load_failed">"Nie można otworzyć strony"</string>
+  <string name="pc_entered_extreme_mode">Włączono Tryb hibernacji</string>
+  <string name="pc_entered_extreme_mode_summary">"Twoje urządzenie jest rozładowane i weszło w Tryb hibernacji. Aplikacje będą działać w tle i nie będą wysyłać powiadomień."</string>
+  <string name="pc_extreme_exit_and_power_off">Wyjdź</string>
+  <string name="pc_extreme_mode_bg_toast">"W Trybie hibernacji aplikacje będą działać w tle i nie będą wysyłać powiadomień"</string>
+  <string name="pc_extreme_mode_exit_risk_title">Uwaga</string>
+  <string name="pc_extreme_mode_exit_risk_title_summary">Twoje urządzenie jest rozładowane. Jeśli wyjdziesz z Trybu hibernacji, zostanie ono wyłączone.</string>
+  <string name="pc_extreme_mode_find_charger">Naładuj urządzenie jak najszybciej.</string>
+  <string name="pc_extreme_mode_runtime">Tryb hibernacji jest włączony od %1$s %2$s.</string>
+  <string name="pc_extreme_mode_title">Tryb hibernacji</string>
+  <string name="pc_going_to_exit_extreme_mode">Wyjście z Trybu hibernacji</string>
+  <string name="pc_going_to_exit_extreme_mode_summary">Twoje urządzenie się ładuje. Wyłączono Tryb hibernacji.</string>
+  <string name="retry_action">Spróbuj ponownie</string>
 </resources>

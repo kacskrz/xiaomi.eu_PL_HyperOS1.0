@@ -987,4 +987,9 @@ Zwiększone bezpieczeństwo."</string>
   <string name="dock_not_edit_icon_tip">Aby zedytować, usuń aplikację z doku</string>
   <string name="folder_not_edit_icon_tip">Aby zedytować, usuń aplikację z folderu</string>
   <string name="switch_mode_tip">Chwileczkę…</string>
+  <string name="global_search">Wyszukiwarka</string>
+  <string name="home_gesture_notification_and_control_center">Panel powiadomień i Centrum funkcji</string>
+  <string name="home_pull_down_know">OK</string>
+  <string name="home_pull_up_content">Możesz otworzyć wyszukiwarkę, przeciągając w dół na pulpicie.</string>
+  <string name="risk_app_report">Zgłoś tę aplikację</string>
 </resources>

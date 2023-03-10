@@ -12535,4 +12535,8 @@ Po wyłączeniu trybu Nie przeszkadzać możesz zobaczyć wszystkie powiadomieni
     <string name="dark_mode_power_save_alert_dialog_message">"Jeśli wyłączysz optymalizację MIUI i włączysz Oszczędzanie baterii, automatycznie włączy się Ciemny motyw.
 Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIUI w Ustawieniach > Opcje programisty > Optymalizacje MIUI."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Ciemny motyw</string>
+    <string name="show_alarm_icon_title">Pokaż ikonę alarmu</string>
+    <string name="show_bt_icon_title">Pokaż ikonę Bluetooth</string>
+    <string name="show_mute_icon_title">Pokaż ikonę Trybu cichego</string>
+    <string name="show_nfc_icon_title">Pokaż ikonę NFC</string>
 </resources>

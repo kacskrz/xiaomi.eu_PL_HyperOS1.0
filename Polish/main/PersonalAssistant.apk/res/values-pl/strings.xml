@@ -1565,7 +1565,8 @@ aby wyświetlać widżety."</string>
     <string name="pa_setting_privacy_revoke_positive">Rozumiem</string>
     <string name="pa_setting_privacy_third_parties">Stanowisko dot. udostępniania danych firmom trzecim</string>
     <string name="pa_setting_privacy_view_priv">Wyświetl Politykę prywatności</string>
-    <string name="pa_accessibility_home_search">Wyszukiwanie, dotknij dwa razy, aby rozpocząć</string>
+    <string name="pa_accessibility_home_search">"Wyszukiwanie,
+dotknij dwa razy, aby rozpocząć"</string>
     <string name="pa_accessibility_home_widget_drag">Przeciąganie elementu</string>
     <string name="pa_accessibility_home_widget_drag_move">Przenieś do rzędu %1$d, na pozycję %2$d</string>
     <string name="pa_accessibility_home_widget_drop_workspace">Przeniesiono do rzędu %1$d, na pozycję %2$d</string>
@@ -1715,7 +1716,8 @@ Zajrzyj tu wkrótce!"</string>
     <string name="pa_picker_search_card_filter_button_text">Wszystkie widżety</string>
     <string name="pa_accessibility_picker_app_group_list_item">Widżet %1$s z %2$d</string>
     <string name="pa_accessibility_picker_home_widget_replace">Wybrano %s. Zmienianie widżetów.</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widżet: %s. Dotknij dwukrotnie przycisku poniżej niego, aby zastąpić go innym widżetem.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s.
+Dotknij dwukrotnie przycisku poniżej niego, aby zastąpić go innym widżetem."</string>
     <string name="pa_filter_accessibility_filter_item">%s. Dotknij dwukrotnie, aby filtrować inne wybory.</string>
     <string name="pa_filter_accessibility_filter_popup_item_selected">Dotknij dwukrotnie, aby wybrać %s.</string>
     <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Dotknij dwukrotnie, aby wybrać.</string>
@@ -1728,7 +1730,8 @@ Zajrzyj tu wkrótce!"</string>
     <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s.
 Dotknij dwa razy, aby wyświetlić szczegóły.
 Dotknij dwa razy i przytrzymaj, aby przeciągnąć."</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Stan instalacji: %3$s. Przycisk \"Zmień\" jest poniżej. Dotknij dwa razy, aby zmienić.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Stan instalacji: %3$s. Przycisk \"Zmień\" jest poniżej.
+Dotknij dwa razy, aby zmienić."</string>
     <string name="pa_accessibility_picker_status_installed">Zainstalowano</string>
     <string name="pa_accessibility_picker_status_uninstalled">Nie zainstalowano</string>
     <string name="pa_accessibility_picker_status_unkonw">Nieznany</string>

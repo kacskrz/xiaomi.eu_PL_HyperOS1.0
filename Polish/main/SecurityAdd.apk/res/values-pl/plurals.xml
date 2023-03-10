@@ -130,4 +130,12 @@
         <item quantity="other">Pozostało %s min. czasu na ekranie</item>
         <item quantity="one">Pozostało %s min. czasu na ekranie</item>
     </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s godz.</item>
+        <item quantity="one">%s godz.</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
 </resources>
