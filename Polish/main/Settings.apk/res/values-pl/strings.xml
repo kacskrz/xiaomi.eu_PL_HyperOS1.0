@@ -12539,4 +12539,5 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIU
     <string name="show_bt_icon_title">Pokaż ikonę Bluetooth</string>
     <string name="show_mute_icon_title">Pokaż ikonę Trybu cichego</string>
     <string name="show_nfc_icon_title">Pokaż ikonę NFC</string>
+    <string name="show_dnd_icon_title">Pokaż ikonę trybu Nie przeszkadzać</string>
 </resources>
