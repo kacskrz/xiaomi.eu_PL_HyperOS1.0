@@ -12540,4 +12540,5 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIU
     <string name="show_mute_icon_title">Pokaż ikonę Trybu cichego</string>
     <string name="show_nfc_icon_title">Pokaż ikonę NFC</string>
     <string name="show_dnd_icon_title">Pokaż ikonę trybu Nie przeszkadzać</string>
+    <string name="status_bar_icons_title">Ikony paska statusu</string>
 </resources>
