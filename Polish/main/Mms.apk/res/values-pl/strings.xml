@@ -1461,4 +1461,5 @@ do Listy blokowanych"</string>
     <string name="pref_title_perm_read_audio">Dostęp do plików audio</string>
     <string name="pref_title_perm_read_files">Dostęp do plików i dokumentów</string>
     <string name="pref_title_perm_read_images_video">Dostęp do zdjęć i filmów</string>
+    <string name="miuix_appcompat_edit">Edytuj</string>
 </resources>

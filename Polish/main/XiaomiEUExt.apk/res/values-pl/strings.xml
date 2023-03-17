@@ -20,4 +20,5 @@
   <string name="auto">Automatyczny</string>
   <string name="wifi_region">Region Wi-Fi</string>
   <string name="status_bar_icons">Ikony paska statusu</string>
+  <string name="no_icons">Brak ikon</string>
 </resources>

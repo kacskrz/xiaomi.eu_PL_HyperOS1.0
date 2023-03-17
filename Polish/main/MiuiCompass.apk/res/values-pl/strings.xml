@@ -30,8 +30,8 @@
   <string name="app_description_title">Odinstalować aplikację Kompas?</string>
   <string name="app_label">Kompas</string>
   <string name="calibrate_failed">Kalibracja wysokości nieudana</string>
-  <string name="calibrate_failed_no_location">"Kalibracja nieudana"</string>
-  <string name="calibrate_failed_timeout">"Przekroczono limit czasu serwera"</string>
+  <string name="calibrate_failed_no_location">Nie udało się skalibrować. Wystąpił błąd lokalizacji.</string>
+  <string name="calibrate_failed_timeout">Nie udało się skalibrować. Wystąpił błąd serwera.</string>
   <string name="calibrate_rotate_again">Spróbuj ponownie</string>
   <string name="calibrate_success">Kalibracja zakończona</string>
   <string name="calibrate_tip">Poruszaj telefonem tak, aby kropka zatoczyła okrąg</string>

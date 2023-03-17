@@ -638,4 +638,5 @@ d.MM."</string>
   <string name="alarm_permanent_alert">Dzwonienie</string>
   <string name="notification_permission_desc">"Jeśli nie nadasz uprawnień do powiadomień, nie będziesz w stanie wyłączyć alarmów, gdy one zadzwonią. Nadać uprawnienie?"</string>
   <string name="open_notification_permission_remind">Zezwól na powiadomienia, aby móc wyłączać alarmy</string>
+  <string name="miuix_appcompat_edit">Edytuj</string>
 </resources>

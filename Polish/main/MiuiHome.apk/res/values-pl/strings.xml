@@ -992,4 +992,6 @@ Zwiększone bezpieczeństwo."</string>
   <string name="home_pull_down_know">OK</string>
   <string name="home_pull_up_content">Możesz otworzyć wyszukiwarkę, przeciągając w dół na pulpicie.</string>
   <string name="risk_app_report">Zgłoś tę aplikację</string>
+  <string name="recent_menu_item_worldcirculate">Przenoś procesy aplikacji</string>
+  <string name="recent_menu_item_worldcirculate_disable">"Nie można przenosić procesów aplikacji między połączonymi urządzeniami"</string>
 </resources>

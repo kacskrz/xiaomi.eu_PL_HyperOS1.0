@@ -602,4 +602,5 @@ i zaloguj się na swoje konto Xiaomi"</string>
     <string name="find_device_title">Odtwarzanie dźwięku na urządzeniu</string>
     <string name="guide_page_subtitle_earphones">"Przeciągaj słuchawki między telefonem, tabletem i telewizorem, aby szybko przekierować połączenie do innego urządzenia"</string>
     <string name="guide_page_title_earphones">Szybkie przełączanie</string>
+    <string name="toast_nfc_same_wifi">Połącz telewizor i to urządzenie z tą samą siecią</string>
 </resources>

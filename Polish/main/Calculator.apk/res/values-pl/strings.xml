@@ -32,7 +32,7 @@
     <string name="app_name_danfa">Kalkulator</string>
     <string name="app_notification_info">Kalkulator działa w tle</string>
     <string name="base_rate">Stopa bazowa oprocentowania</string>
-    <string name="bmi_error_text">"To BMI nie wygląda prawidłowo. Upewnij się, że wprowadzone przez Ciebie wartości są poprawne."</string>
+    <string name="bmi_error_text">"Wprowadź poprawne wartości"</string>
     <string name="bmi_label_information">Informacja</string>
     <string name="bmi_label_normal">W normie</string>
     <string name="bmi_label_overweight">Nadwaga</string>
@@ -814,4 +814,5 @@ Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</st
     <string name="miuix_indexer_collect">Kolekcje</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
     <string name="tenure_year_month">%1$s i %2$s</string>
+    <string name="investment_loan_result">Szczegóły</string>
 </resources>

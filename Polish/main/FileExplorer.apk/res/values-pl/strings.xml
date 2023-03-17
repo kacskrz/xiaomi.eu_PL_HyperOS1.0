@@ -1061,4 +1061,6 @@ Spróbuj przenieść pliki z urządzenia do Mi Drive."</string>
     <string name="stop_extend_service_dialog_confirm">Wyłącz</string>
     <string name="stop_extend_service_dialog_summary">"Jeśli wyłączysz tę funkcję, nie będzie można zarządzać plikami przechowywanymi w usłudze Mi Drive. Wyłączyć mimo to?"</string>
     <string name="stop_extend_service_dialog_tilte">Dodatkowe usługi</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Wybierz elementy</string>
+    <string name="miuix_appcompat_select_item">Wybierz elementy</string>
 </resources>
