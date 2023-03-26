@@ -3588,4 +3588,17 @@ Każdy użytkownik może aktualizować aplikacje w imieniu wszystkich pozostały
     <string name="dark_mode_power_save_alert_dialog_message">"Jeśli wyłączysz optymalizację MIUI i włączysz Oszczędzanie baterii, automatycznie włączy się Ciemny motyw.
 Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIUI w Ustawieniach > Opcje programisty > Optymalizacje MIUI."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Ciemny motyw</string>
+    <string name="miui_restart_button_description">Uruchom ponownie dla lepszego wyświetlania</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_summary">Użyj danych mobilnych drugiej karty SIM, aby zwiększyć prędkość połączenia</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_title">Inteligentne dual SIM</string>
+    <string name="quick_settings_miui_wifi_detail_empty_text">Brak dostępnych sieci</string>
+    <string name="quick_settings_miui_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_miui_wlan_detail_empty_text">Brak dostępnych sieci</string>
+    <string name="quick_settings_miui_wlan_label">Wi-Fi</string>
+    <string name="quick_settings_state_saved">Zapisano</string>
+    <string name="quick_settings_state_wifi_select_nearby_ap">Wybierz sieci Wi-Fi w pobliżu</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">Wybierz sieci Wi-Fi w pobliżu</string>
+    <string name="quick_settings_wifi_is_off">Wi-Fi wył.</string>
+    <string name="quick_settings_wlan_is_off">Wi-Fi wył.</string>
+    <string name="thermal_protection_warning">"Twoje urządzenie jest przegrzane. Nie można teraz używać tej funkcji."</string>
 </resources>

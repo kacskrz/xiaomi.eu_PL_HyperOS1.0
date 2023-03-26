@@ -12541,4 +12541,35 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIU
     <string name="show_nfc_icon_title">Pokaż ikonę NFC</string>
     <string name="show_dnd_icon_title">Pokaż ikonę trybu Nie przeszkadzać</string>
     <string name="status_bar_icons_title">Ikony paska statusu</string>
+    <string name="ap_p2p_dialog_message">"Obecnie udostępniane połączenie Wi-Fi jest już używane. Przed włączeniem hotspota upewnij się, że nie używasz Wi-Fi Direct, Mi Share, projekcji ekranu lub innych usług używających połączenia bezprzewodowego."</string>
+    <string name="ap_p2p_dialog_yes">Rozłącz</string>
+    <string name="conversation_assistant">Narzędzia konferencyjne</string>
+    <string name="enable_preferred_network_type_summary">Wyświetl i ustaw swój typ sieci w Ustawieniach > Karty SIM i sieć mobilna > Karta SIM</string>
+    <string name="enable_preferred_network_type_title">Pokaż menu preferowanego typu sieci</string>
+    <string name="extension_function">Dodatkowe funkcje aplikacji</string>
+    <string name="extension_function_hint">Skróty funkcji nie będą się pojawiać w ustawieniach po ich wyłączeniu</string>
+    <string name="freeform_guide_free_drag_summary">Przeciągaj tekst, obrazki lub pliki między różnymi oknami wspieranych aplikacji.</string>
+    <string name="freeform_guide_free_drag_title">Przeciągaj elementy pomiędzy oknami</string>
+    <string name="freeform_guide_multiple_window_summary">"Przytrzymaj ikonę aplikacji na doku, aby otworzyć nowe okno.
+*Funkcja działa z aplikacjami Notatki, Poczta, Przeglądarka i WPS."</string>
+    <string name="freeform_guide_multiple_window_title">Otwieraj wiele okien</string>
+    <string name="handle_ota_update_title">Aktualizacje oprogramowania</string>
+    <string name="miheadset_disconnect_ble">Rozłącz Bluetooth</string>
+    <string name="miheadset_double_tap_temple_when_calling">Dwukrotne dotknięcie podczas rozmowy</string>
+    <string name="miheadset_double_tap_temple_when_idle">Dwukrotne dotknięcie poza rozmową</string>
+    <string name="miheadset_dual_connect_mode_summary_with_hint">Włącz, aby łączyć się jednocześnie z dwoma urządzeniami Bluetooth. Zdejmij okulary na %d sekund po włączeniu lub wyłączeniu tej funkcji i sparuj je ponownie.</string>
+    <string name="miheadset_key_config_next_and_previous_music">Przełączaj utwory</string>
+    <string name="miheadset_key_config_none">Brak</string>
+    <string name="miheadset_key_config_volume_up_down">Zmień głośność</string>
+    <string name="miheadset_longpress_left_temple">Przytrzymanie lewego zausznika</string>
+    <string name="miheadset_longpress_right_temple_when_calling">Przytrzymanie prawego zausznika podczas rozmowy</string>
+    <string name="miheadset_longpress_right_temple_when_idle">Przytrzymanie prawego zausznika poza rozmową</string>
+    <string name="miheadset_longpress_temple_when_calling">Przytrzymanie podczas rozmowy</string>
+    <string name="miheadset_longpress_temple_when_idle">Przytrzymanie poza rozmową</string>
+    <string name="miheadset_offhook">Odrzuć rozmowę</string>
+    <string name="miheadset_phone_connected_hangup">Odbierz lub zakończ rozmowę</string>
+    <string name="miheadset_phone_play_pause">Odtwórz lub spauzuj</string>
+    <string name="miheadset_slide_left_temple_back_forward">Przeciągnięcie lewego zausznika</string>
+    <string name="miheadset_slide_right_temple_back_forward">Przeciągnięcie prawego zausznika</string>
+    <string name="miui_device_control_description">Pokaż aplikacje wspierające kontrolki urządzeń, aby móc kontrolować kompatybilne urządzenia smart home</string>
 </resources>

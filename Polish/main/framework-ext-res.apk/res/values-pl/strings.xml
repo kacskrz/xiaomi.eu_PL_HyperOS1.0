@@ -600,4 +600,22 @@ z przedniego aparatu"</string>
   <string name="freeform_guide_tip_pin_up">Przeciągnij zminimalizowane okno, aby je powiększyć</string>
   <string name="freeform_guide_tip_sidebar">Przesuń palcem na zewnątrz, aby otworzyć pasek boczny</string>
   <string name="freeform_guide_tip_top">Aby przesunąć okno, przytrzymaj pasek akcji, a następnie przeciągnij okno</string>
+  <string name="freeform_guide_tip_dock_browser">Przytrzymaj ikonę, aby otworzyć nowe okno</string>
+  <string name="freeform_guide_tip_dock_email">Przytrzymaj ikonę, aby otworzyć nowe okno</string>
+  <string name="freeform_guide_tip_dock_note">Przytrzymaj ikonę, aby otworzyć nowe okno</string>
+  <string name="freeform_guide_tip_dock_wps">Przytrzymaj ikonę, aby otworzyć nowe okno</string>
+  <string name="freeform_guide_tip_split">Przeciągnij aplikację do krawędzi, aby włączyć Dzielony ekran</string>
+  <string name="high_temperature_brightness_toast">Wyższa jasność ekranu spowoduje nagrzewanie się urządzenia i zużycie większej ilości energii</string>
+  <string name="ks_launch_app_full_window">Pełny ekran</string>
+  <string name="ks_launch_app_small_window">Pływające okno</string>
+  <string name="ks_launch_split_screen_to_left">Dzielenie ekranu/Przeciągnij separator do lewej</string>
+  <string name="ks_launch_split_screen_to_right">Dzielenie ekranu/Przeciągnij separator do prawej</string>
+  <string name="propotional_freeform_tip">"Wygląda na to, że ta aplikacja nie wspiera w pełni pływających okien"</string>
+  <string name="sla_btn_concel">"Nie przypominaj"</string>
+  <string name="sla_btn_confirm">Włącz</string>
+  <string name="sla_btn_keep">Ignoruj</string>
+  <string name="sla_btn_stop">Zatrzymaj</string>
+  <string name="sla_remind_text">Możesz użyć danych mobilnych, aby zwiększyć prędkość. Może to spowodować naliczenie przez operatora dodatkowych opłat.</string>
+  <string name="sla_title">Zwiększenie prędkości</string>
+  <string name="sla_traffic_text">"Wykorzystano dziś już %d MB danych mobilnych. Aby je oszczędzać, możesz zatrzymać zwiększanie prędkości."</string>
 </resources>

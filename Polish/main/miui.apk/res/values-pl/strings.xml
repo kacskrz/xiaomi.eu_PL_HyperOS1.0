@@ -626,4 +626,8 @@
   <string name="wait_for_wlan_china">Czekaj na Wi-Fi</string>
   <string name="com_android_soundrecorder">Dyktafon</string>
   <string name="com_mi_globalbrowser">Przeglądarka</string>
+  <string name="com_android_deskclock">Zegar</string>
+  <string name="com_android_download_ui">Pobrane</string>
+  <string name="com_miui_gallery">Galeria</string>
+  <string name="com_xiaomi_calendar">Kalendarz</string>
 </resources>

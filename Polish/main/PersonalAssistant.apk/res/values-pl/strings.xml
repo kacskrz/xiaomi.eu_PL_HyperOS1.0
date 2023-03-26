@@ -1769,4 +1769,11 @@ Dotknij dwa razy, aby zobaczyć szczegóły."</string>
     <string name="pa_setting_personalized_recommenddation_swicth_summary">Uzyskuj rekomendacje widżetów w oparciu o Twoje zainteresowania</string>
     <string name="pa_setting_personalized_recommenddation_swicth_title">Spersonalizowane rekomendacje</string>
     <string name="pa_sports_jump_error">"Nie udało się otworzyć strony z powodu błędu."</string>
+    <string name="pa_picker_detail_bt_loading">Chwileczkę…</string>
+    <string name="pa_picker_detail_state_error_retry">Coś poszło nie tak. Spróbuj ponownie.</string>
+    <string name="pa_picker_detail_suit_price_already_bought">Zakupione</string>
+    <string name="pa_picker_detail_suit_price_placeholder">5 Mi Kredytów</string>
+    <string name="pa_picker_detail_theme_app_need_login">Zaloguj się</string>
+    <string name="pa_picker_detail_theme_app_need_login_pre">"Najpierw zaloguj się na swoje konto Xiaomi. "</string>
+    <string name="pa_widget_advert_loading_dialog_message">Chwileczkę…</string>
 </resources>

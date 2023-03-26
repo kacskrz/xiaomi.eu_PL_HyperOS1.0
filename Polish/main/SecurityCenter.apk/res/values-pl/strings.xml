@@ -5740,7 +5740,7 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="storage_system_other_tip_new">Włącznie z pamięcią niezbędną do działania i aktualizacji systemu. Rozmiar tej partycji będzie się zmieniać w zalezności od stanu systemu.</string>
     <string name="vb_video_effects_immersion_sound">Dźwięk przestrzenny</string>
     <string name="vb_video_effects_immersion_sound_summary">Doświadcz immersji i poczucia przestrzeni, gdy w słuchawkach odtwarzany jest obsługiwany dźwięk</string>
-    <string name="vb_video_effects_spatial_summary_new">Doświadcz zwiększonego poczucia przestrzeni i kierunku w wspieranych filmach i utworach oraz dostosowuj dźwięk przestrzenny w oparciu o ruchy głowy</string>
+    <string name="vb_video_effects_spatial_summary_new">Doświadcz zwiększonego poczucia przestrzeni i kierunku w wspieranych utworach, gdy używasz słuchawek</string>
     <string name="pc_high_temp_protection_noti_summary2">"Nie można używać teraz hotspotów"</string>
     <string name="app_behavior_record_cancel">Anuluj</string>
     <string name="app_behavior_record_close">Wyłącz</string>
@@ -5920,4 +5920,7 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="pp_lab_compact_blur_location">Aplikacje z dostępem do przybliżonej lokalizacji</string>
     <string name="pp_lab_compact_blur_location_summary">"Wybierz \"Domyślnie\", aby używać funkcji przybliżonej lokalizacji dostarczanej przez Androida lub \"Wszystko\", aby korzystać z funkcji opracowanej dla MIUI."</string>
     <string name="privacy_flares_current_multiple">%s i inne</string>
+    <string name="gtb_casual_guide_toast">Odkryj więcej w Grach</string>
+    <string name="pc_close_notifi_action">Wyłącz</string>
+    <string name="vb_video_effects_dolby_tips">"Ulepszone dialogi i Szersze stereo nie będą działać, gdy włączony jest Dźwięk przestrzenny"</string>
 </resources>

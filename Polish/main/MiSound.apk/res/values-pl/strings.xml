@@ -376,4 +376,7 @@
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="permission_go_to_settings">Ustawienia</string>
+  <string name="permission_requesr_content">Zezwól tej aplikacji na łączenie się z urządzeniami w pobliżu w Ustawieniach.</string>
+  <string name="permission_requesr_title">Wymagane uprawnienia</string>
 </resources>

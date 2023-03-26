@@ -49,4 +49,9 @@
     <string name="freeform_guide_to_sidehide_summary_pad">Szybko przeciągnij aplikację do krawędzi ekranu, aby ją ukryć</string>
     <string name="bottom_bar_smallwindow_drag_text">Przeciągnij tutaj, aby przypiąć</string>
     <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Przeciągnij od dołu do górnej krawędzi ekranu</string>
+    <string name="freeform_guide_free_drag_summary">Przeciągaj tekst, obrazki lub pliki między różnymi oknami wspieranych aplikacji.</string>
+    <string name="freeform_guide_free_drag_title">Przeciągaj elementy pomiędzy oknami</string>
+    <string name="freeform_guide_multiple_window_summary">"Przytrzymaj ikonę aplikacji na doku, aby otworzyć nowe okno.
+*Funkcja działa z aplikacjami Notatki, Poczta, Przeglądarka i WPS."</string>
+    <string name="freeform_guide_multiple_window_title">Otwieraj wiele okien</string>
 </resources>

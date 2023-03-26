@@ -282,4 +282,9 @@
         <item quantity="one">%d minutę temu</item>
         <item quantity="few">%d minuty temu</item>
     </plurals>
+    <plurals name="pa_picker_detail_suit_price_suffix">
+        <item quantity="other">%s Mi Kredytów</item>
+        <item quantity="few">%s Mi Kredyty</item>
+        <item quantity="one">%s Mi Kredyt</item>
+    </plurals>
 </resources>
