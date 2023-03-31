@@ -1603,4 +1603,5 @@ Dotknij, aby go wyłączyć."</string>
     <string name="can_not_apply_pc_video">"Tryb PC nie wspiera żywych tapet"</string>
     <string name="system_cta_all_purpose_fold">Witaj w Tapetach i personalizacji! Możesz użyć tej aplikacji do zarządzania swoimi motywami Ekranu zawsze włączonego, tapetami, dzwonkami i czcionkami.</string>
     <string name="historical_wallpaper">Używano wcześniej</string>
+    <string name="add_home_icon_success">Pomyślnie dodano</string>
 </resources>

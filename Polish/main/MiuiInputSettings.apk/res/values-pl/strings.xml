@@ -553,4 +553,10 @@ Kliknij dwukrotnie, aby otworzyć Ostatnie aplikacje."</string>
     <string name="google_assistant_guide_tip">*Aby otworzyć menu wyłączania urządzenia, przytrzymaj przycisk Zasilania przez %s sekund.</string>
     <string name="google_assistant_guide_title">Asystent Google</string>
     <string name="none">Brak</string>
+    <string name="long_press_power_guide_know">OK</string>
+    <string name="long_press_power_guide_message" formatted="false">"Przytrzymaj przycisk zasilania przez %s sekund, aby wywołać Asystenta Google.
+Jeśli przytrzymasz przycisk przez %s sekund, wywołasz menu wyłączania telefonu."</string>
+    <string name="long_press_power_guide_settings">Ustawienia</string>
+    <string name="long_press_power_guide_title">Wywołanie przyciskiem zasilania</string>
+    <string name="stylus_connect_fail_not_match_tablet">"Rysik nie jest kompatybilny z tabletem"</string>
 </resources>

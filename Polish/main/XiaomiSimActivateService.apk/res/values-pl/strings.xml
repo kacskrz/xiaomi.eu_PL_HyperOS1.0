@@ -141,7 +141,8 @@ Wpisz numer powiązany z nową kartą SIM aby aktywować ponownie %s"</string>
   <string name="activate_popup_desc_failed_server_msg">Wystąpił błąd serwera. Sprawdź ustawienia sieci i spróbuj ponownie.</string>
   <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Aby aktywować \"%3$s\", wprowadź numer telefonu karty SIM %2$d. Jeśli ją zmienisz, zostanie wysłany nowy SMS do aktywacji.</string>
   <string name="activate_popup_desc_intl_sim_card_msg">Aby aktywować %2$s, zostanie wysłana następująca ilość międzynarodowych SMS-ów: %1$d. Za te wiadomości operator obciąży Cię opłatą.</string>
-  <string name="activate_popup_desc_mi_account_user_manual">%1$s Jeśli masz jakieś pytania, <Data>zapoznaj się z &lt;a href=https://account.xiaomi.com/helpcenter/faq>Instrukcją użytkownika konta Xiaomi&lt;/a>.</Data></string>
+  <string name="activate_popup_desc_mi_account_user_manual">"%1$s
+"<Data>Jeśli masz jakieś pytania, zapoznaj się z &lt;a href=https://account.xiaomi.com/helpcenter/faq>Instrukcją użytkownika konta Xiaomi&lt;/a>.</Data></string>
   <string name="activate_popup_desc_mixed_sim_cards_msg">Aby aktywować %3$s, zostanie wysłana następująca ilość zwykłych SMS-ów: %1$d, a także następująca ilość międzynarodowych SMS-ów: %2$d. Za te wiadomości operator obciąży Cię opłatą.</string>
   <string name="activate_popup_desc_sim_card_downlink_msg">Aby aktywować \"%2$s\", wprowadź numer telefonu karty SIM %1$d.</string>
   <string name="activate_popup_desc_sim_card_msg">Aby aktywować %2$s, zostanie wysłana następująca ilość zwykłych SMS-ów: %1$d. Za te wiadomości operator obciąży Cię opłatą.</string>

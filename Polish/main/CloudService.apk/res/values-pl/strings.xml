@@ -1256,4 +1256,6 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="customize_notification_btn_text">Ulepsz</string>
   <string name="default_noti_quota_full_title">Brak miejsca w Chmurze</string>
   <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Pozostało mniej niż &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> miejsca w Chmurze</string>
+  <string name="privacy_runtime_perm_notification_desc">W celu wysyłania powiadomień dot. usług Chmury Xiaomi</string>
+  <string name="privacy_runtime_perm_notification_title">Powiadomienia</string>
 </resources>

@@ -496,4 +496,8 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="record_scenes_summaries_stereo_voice">Im bliżej źródła dźwięku znajduj się mikrofon, tym lepsza jest jakość nagrania</string>
   <string name="record_scenes_summaries_voice">Im bliżej źródła dźwięku znajduj się mikrofon, tym lepsza jest jakość nagrania</string>
   <string name="record_while_in_call_tip">"Nie można nagrywać dźwięku w trakcie połączenia"</string>
+  <string name="invisible_mode_dialog_message">"Nie można używać mikrofonu w Trybie incognito. Wyłącz go."</string>
+  <string name="invisible_mode_dialog_negative">Anuluj</string>
+  <string name="invisible_mode_dialog_positive">Wyłącz</string>
+  <string name="invisible_mode_dialog_title">"Jesteś incognito"</string>
 </resources>

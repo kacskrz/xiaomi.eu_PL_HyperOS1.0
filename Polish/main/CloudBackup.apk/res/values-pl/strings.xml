@@ -473,4 +473,20 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="repeat_recommend_wechat_backup_notification_title">Skopiuj dane WeChata</string>
   <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Skopiowano dane WeChata. Dotknij, aby dowiedzieć się więcej.</string>
   <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Ukończono automatyczną kopię zapasową</string>
+  <string name="backup_failed_reason_get_installed_apps_denied">Aby skopiować elementy, przyznaj wymagane uprawnienia w Ustawieniach</string>
+  <string name="dialog_button_get_installed_apps_agree">Ustawienia</string>
+  <string name="dialog_button_get_installed_apps_disagree">Anuluj</string>
+  <string name="dialog_get_installed_apps_consent_message">Aby móc wykonywać automatyczne kopie zapasowe, przyznaj tej aplikacji uprawnienie dostępu do listy aplikacji zainstalowanych na urządzeniu w Ustawieniach i wybierz tam opcję Zawsze zezwalaj.</string>
+  <string name="dialog_get_installed_apps_consent_title">Wymagane uprawnienia</string>
+  <string name="manual_request_notification_permission_dialog_negative_button">Zamknij</string>
+  <string name="manual_request_notification_permission_dialog_positive_button">Ustawienia</string>
+  <string name="manual_request_permissions_dialog_description">"Jeśli nie przyznasz uprawnień do \"%s\", nie otrzymasz aktualnych powiadomień o nieudanych kopiach zapasowych i innych ważnych czynnościach. Możesz to zrobić w Ustawieniach."</string>
+  <string name="manual_request_permissions_dialog_title">Wymagane uprawnienia</string>
+  <string name="request_notification_permission_dialog_confirm">Rozumiem</string>
+  <string name="request_permission_post_notification">W celu wysyłania powiadomień o kopiach zapasowych w chmurze</string>
+  <string name="request_permission_post_notification_title">Powiadomień</string>
+  <string name="request_permissions_dialog_description">Przyznaj uprawnienia do wysyłania powiadomień i przypomnień, aby móc korzystać ze wszystkich usług Kopii zapasowej w Chmurze.</string>
+  <string name="request_permissions_dialog_title">Wymagane uprawnienia</string>
+  <string name="session_failed_get_installed_apps_denied_detail">Aby móc wykonywać automatyczne kopie zapasowe, przyznaj tej aplikacji uprawnienie dostępu do listy aplikacji zainstalowanych na urządzeniu w Ustawieniach i wybierz tam opcję Zawsze zezwalaj.</string>
+  <string name="session_failed_get_installed_apps_denied_title">Wymagane uprawnienia</string>
 </resources>
