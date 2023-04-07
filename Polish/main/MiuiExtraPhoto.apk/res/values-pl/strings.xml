@@ -263,4 +263,7 @@
     <string name="saf_requester_title">Zezwól Edytorowi Galerii na dostęp do \"%s\"</string>
     <string name="saf_secret_album">Prywatny album</string>
     <string name="saf_secret_album_guide">Ta aplikacja wymaga uprawnień do wyświetlania elementów z Twojego prywatnego albumu.</string>
+    <string name="operation_original">Porównaj</string>
+    <string name="operation_redo">Ponów</string>
+    <string name="operation_undo">Cofnij</string>
 </resources>

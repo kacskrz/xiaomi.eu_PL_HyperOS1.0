@@ -498,4 +498,5 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="HIPS_Perm_operator_wall_paper">Ustawianie tapety</string>
   <string name="HIPS_Perm_operator_wall_paper_Desc">Zmiana tapet i domyślnych usług dot. dynamicznych tapet</string>
   <string name="deny_fine_keep_blur_location_dont_ask_again">Zawsze udostępniaj przybliżoną</string>
+  <string name="permdesc_get_installed_apps">Zezwolić aplikacji \"%1$s\" na dostęp do informacji o zainstalowanych aplikacjach?</string>
 </resources>

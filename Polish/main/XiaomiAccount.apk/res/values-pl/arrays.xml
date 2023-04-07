@@ -128,4 +128,8 @@
         <item>Dodawaj i zarządzaj kontami firm trzecich</item>
         <item>Konta;Wyświetl;SNS;WeChat;QQ;Weibo;Konto Xiaomi;Konto</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Mężczyzna</item>
+        <item>Kobieta</item>
+    </string-array>
 </resources>

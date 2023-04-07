@@ -1063,4 +1063,7 @@ Spróbuj przenieść pliki z urządzenia do Mi Drive."</string>
     <string name="stop_extend_service_dialog_tilte">Dodatkowe usługi</string>
     <string name="miuix_appcompat_action_mode_title_empty">Wybierz elementy</string>
     <string name="miuix_appcompat_select_item">Wybierz elementy</string>
+    <string name="pad">Tablet</string>
+    <string name="pad_homepage_tab_file_view_phone">Tablet</string>
+    <string name="pad_start_phone">Pamięć</string>
 </resources>
