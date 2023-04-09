@@ -649,7 +649,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="unlock_help_notice">"Pomoc:
 %1$d. Jeśli nie pamiętasz hasła, możesz je zresetować na id.mi.com.
 %2$d. Jeśli nie możesz odzyskać hasła lub ktoś zablokował to urządzenie, wyłącz funkcję Znajdź urządzenie na i.mi.com.
-%3$d. Kod odblokowania: %s"</string>
+%3$d. Kod odblokowania: %4$s"</string>
   <string name="update_contacts">Aktualizuj kontakty</string>
   <string name="update_contacts_description">Aktualizuj kontakty i inne informacje</string>
   <string name="update_email_address_dialog_message">Musisz zweryfikować swoją tożsamość przed zaktualizowaniem adresu e-mail.</string>
