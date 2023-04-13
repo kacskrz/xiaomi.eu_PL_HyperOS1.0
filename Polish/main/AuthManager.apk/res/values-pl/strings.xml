@@ -435,11 +435,11 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="blur_location_title">Przybliżona lokalizacja</string>
   <string name="gold_master_dialog_reject">Ogranicz (%d)</string>
   <string name="gold_master_dialog_title">Aplikacja %1$s chce uzyskać dostęp do schowka</string>
-  <string name="keep_blur_location">Nie</string>
+  <string name="keep_blur_location">Tak</string>
   <string name="miuix_appcompat_deselect_all">Odznacz</string>
   <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
   <string name="miuix_appcompat_select_item">Wybierz elementy</string>
-  <string name="stop_blur_location">Tak</string>
+  <string name="stop_blur_location">Nie</string>
   <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
   <string name="close">Zamknij</string>
   <string name="send">Wyślij</string>
