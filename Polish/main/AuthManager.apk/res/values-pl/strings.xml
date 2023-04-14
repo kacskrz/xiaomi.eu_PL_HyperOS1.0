@@ -229,7 +229,7 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="HIPS_Perm_deamon_notification">Stałe powiadomienia</string>
   <string name="HIPS_Perm_deamon_notification_Desc">pokazywanie stałych powiadomień</string>
   <string name="HIPS_Perm_get_accounts">Dostęp do kont na urządzeniu</string>
-  <string name="HIPS_Perm_get_accounts_Desc">dostęp do wszystkich kont na urządzeniu</string>
+  <string name="HIPS_Perm_get_accounts_Desc">Dostęp do wszystkich kont na urządzeniu</string>
   <string name="HIPS_Perm_get_installed_apps">Informacje o aplikacjach</string>
   <string name="HIPS_Perm_get_installed_apps_Desc">dostęp do informacji o zainstalowanych aplikacjach</string>
   <string name="HIPS_Perm_get_tasks">Otrzymywanie zadań</string>

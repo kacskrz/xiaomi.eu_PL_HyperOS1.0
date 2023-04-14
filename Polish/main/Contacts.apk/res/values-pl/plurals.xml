@@ -229,4 +229,8 @@
         <item quantity="one">%s wynik</item>
         <item quantity="few">%s wyniki</item>
     </plurals>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">"Nie można wysłać SMS-a do więcej niż %d odbiorców."</item>
+        <item quantity="one">"Nie można wysłać SMS-a do więcej niż %d odbiorcy."</item>
+    </plurals>
 </resources>
