@@ -2455,4 +2455,14 @@ Ten tablet nie jest wyposażony w słuchawki. Możesz przełączyć w tryb gło�
     <string name="wifi_calling_settings_title">Połączenia przez Wi-Fi</string>
     <string name="yesterday">Wczoraj</string>
     <string name="no_voice_capability">"Nie udało się nawiązać połączenia z operatorem. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
+    <string name="confirm_phone_number">Potwierdź numery telefonu</string>
+    <string name="data_for_high_temperature_toast">"Twoje urządzenie jest przegrzane. Nie możesz teraz używać tej funkcji."</string>
+    <string name="dual_sim_smart_call_forward_failed">"Nie udało się skonfigurować"</string>
+    <string name="dual_sim_smart_call_forward_failed_cause">Wystąpił błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="dual_sim_smart_call_forward_summary">"Przekieruj połączenia na inną kartę SIM, gdy nie mogą być odebrane"</string>
+    <string name="dual_sim_smart_call_forward_title">Przekierowywanie na inną kartę SIM</string>
+    <string name="dual_sim_smart_call_forward_updating">Chwileczkę…</string>
+    <string name="labelCFNRc_message">Jeśli przejdziesz dalej, nie będzie można przekierowywać połączeń na inną kartę SIM.</string>
+    <string name="labelCFNRc_title">Uwaga</string>
+    <string name="vice_slot_volte_data_dialog_message_ext"><Data>Wygląda na to, że Twoje obecne połączenie z siecią jest niestabilne. Możesz spróbować automatycznie przełączyć się między kartami SIM do danych. &lt;font color=#ff0000>&lt;b>Używanie tej funkcji może wiązać się z dodatkowymi opłatami od operatora&lt;/b>&lt;/font>.</Data></string>
 </resources>

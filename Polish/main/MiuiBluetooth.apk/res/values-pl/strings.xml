@@ -352,4 +352,16 @@ Szyszy protokół transmisji."</string>
     <string name="headset_connect_timeout">Przekroczono czas trwania żądania. Zacznij od nowa.</string>
     <string name="headset_not_in_case">Umieść obie słuchawki w zestawie ładującym i zacznij od nowa</string>
     <string name="bt_plugin_update_loading_dialog">Chwileczkę…</string>
+    <string name="bt_plugin_is_update_loading_dialog">Aktualizowanie…</string>
+    <string name="bt_plugin_update_failed_toast">"Wystąpił błąd. Nie udało się załadować."</string>
+    <string name="lea_disable_successfully">Do łączenia się ze słuchawkami i transmisji dźwięku używane jest teraz normalne Bluetooth</string>
+    <string name="lea_enable_successfully">Do łączenia się ze słuchawkami i transmisji dźwięku używane jest teraz LE Audio</string>
+    <string name="tv_calibration_doing">Kalibrowanie…</string>
+    <string name="tv_calibration_doing_text">Utrzymuj tył telefonu naprzeciw środka ekranu telewizora</string>
+    <string name="tv_calibration_done">Kalibracja ukończona</string>
+    <string name="tv_calibration_done_text">"Pomyślnie skalibrowano wyświetlanie kolorów na Twoim telewizorze."</string>
+    <string name="tv_calibration_pre">Kalibracja kolorów</string>
+    <string name="tv_calibration_pre_text">"Skalibruj wyswietlanie kolorów na telewizorze za pomocą telefonu"</string>
+    <string name="tv_calibration_start">"Umieść tylny aparat telefonu mocno naprzeciw środka ekranu"</string>
+    <string name="tv_calibration_start_button">Zacznij</string>
 </resources>

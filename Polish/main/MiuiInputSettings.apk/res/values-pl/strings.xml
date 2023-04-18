@@ -559,4 +559,5 @@ Jeśli przytrzymasz przycisk przez %s sekund, wywołasz menu wyłączania telefo
     <string name="long_press_power_guide_settings">Ustawienia</string>
     <string name="long_press_power_guide_title">Wywołanie przyciskiem zasilania</string>
     <string name="stylus_connect_fail_not_match_tablet">"Rysik nie jest kompatybilny z tabletem"</string>
+    <string name="application_label">Ustawienia wprowadzania</string>
 </resources>

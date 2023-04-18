@@ -752,7 +752,7 @@ Jeśli włączysz ją ponownie, może zostać naliczona opłata za użycie danyc
   <string name="fingerprint_enter_second_psw_msg">Wpisz hasło do drugiego profilu, aby móc korzystać z rozpoznawania odcisku palca</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">"Can't enter Second space while in Lite mode"</string>
   <string name="fingerprint_enter_second_psw_title">Wpisz hasło drugiego profilu</string>
-  <string name="fingerprint_not_identified_msg">Podaj hasło lub użyj odcisku palca za kilka sekund</string>
+  <string name="fingerprint_not_identified_msg">Zbyt wiele nieudanych prób. Wprowadź teraz swoją blokadę ekranu lub skorzystaj z czytnika linii papilarnych za kilka sekund.</string>
   <string name="fingerprint_not_identified_msg_lock">Zbyt dużo niepowodzeń. Wpisz teraz hasło.</string>
   <string name="fingerprint_not_identified_title">Wpisz hasło</string>
   <string name="fingerprint_not_recognized">Nie rozpoznano</string>
@@ -3601,4 +3601,6 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIU
     <string name="quick_settings_wifi_is_off">Wi-Fi wył.</string>
     <string name="quick_settings_wlan_is_off">Wi-Fi wył.</string>
     <string name="thermal_protection_warning">"Twoje urządzenie jest przegrzane. Nie można teraz używać tej funkcji."</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">"Nie można się przełączać między przestrzeniami w Trybie hibernacji"</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_endurance_battery_zero_active">"Nie można się przełączać między przestrzeniami ze względu na słabą baterię"</string>
 </resources>

@@ -3648,4 +3648,7 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="slim_subtitle_sync_on_no_slimdata">Synchronizacja. Spróbuj później.</string>
   <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Ulepsz plan chmury, aby zsynchronizować więcej elementów</string>
   <string name="slim_upgrade_button">Ulepsz</string>
+  <string name="assistant_page_image_printing">Drukuj</string>
+  <string name="my_family">Mój dom</string>
+  <string name="user_family">"Dom %1$s"</string>
 </resources>

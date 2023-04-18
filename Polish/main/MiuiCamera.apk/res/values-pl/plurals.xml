@@ -169,4 +169,16 @@
         <item quantity="other">Urządzenie jest przegrzane. Aparat zostanie zamknięty za %d sek. Twoje zdjęcia lub filmy zostaną zapisane automatycznie.</item>
         <item quantity="one">Urządzenie jest przegrzane. Aparat zostanie zamknięty za %d sek. Twoje zdjęcia lub filmy zostaną zapisane automatycznie.</item>
     </plurals>
+    <plurals name="cinemaster_toast_camera_overflow">
+        <item quantity="other">Do tej samej sieci możesz podłączyć maks. %d aparatu</item>
+        <item quantity="one">Do tej samej sieci możesz podłączyć maks. %d aparat</item>
+        <item quantity="few">Do tej samej sieci możesz podłączyć maks. %d aparaty</item>
+        <item quantity="many">Do tej samej sieci możesz podłączyć maks. %d aparatów</item>
+    </plurals>
+    <plurals name="cinemaster_toast_monitor_overflow">
+        <item quantity="other">Do tej samej sieci możesz podłączyć maks. %d monitoru</item>
+        <item quantity="one">Do tej samej sieci możesz podłączyć maks. %d monitor</item>
+        <item quantity="few">Do tej samej sieci możesz podłączyć maks. %d monitory</item>
+        <item quantity="many">Do tej samej sieci możesz podłączyć maks. %d monitorów</item>
+    </plurals>
 </resources>

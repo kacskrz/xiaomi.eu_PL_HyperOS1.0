@@ -12572,4 +12572,13 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIU
     <string name="miheadset_slide_left_temple_back_forward">Przeciągnięcie lewego zausznika</string>
     <string name="miheadset_slide_right_temple_back_forward">Przeciągnięcie prawego zausznika</string>
     <string name="miui_device_control_description">Pokaż aplikacje wspierające kontrolki urządzeń, aby móc kontrolować kompatybilne urządzenia smart home</string>
+    <string name="handle_ota_connect_first">Podłącz uchwyt</string>
+    <string name="handle_ota_finish_fw">Pomyślnie zaktualizowano</string>
+    <string name="handle_ota_update_failed">"Nie udało się zaktualizować"</string>
+    <string name="handle_ota_updating_firmware">Chwileczkę…</string>
+    <string name="handle_ota_updating_tip">Aktualizowanie w tle…</string>
+    <string name="screen_effect_adapt_color_summary">Dostosuj kolory do obecnego oświetlenia</string>
+    <string name="screen_effect_adapt_color_title">Żywy</string>
+    <string name="screen_effect_origin_color_summary">Zreprodukuj realistyczne kolory poprzez ich kalibrację</string>
+    <string name="screen_effect_origin_color_title">Oryginalny kolor PRO</string>
 </resources>
