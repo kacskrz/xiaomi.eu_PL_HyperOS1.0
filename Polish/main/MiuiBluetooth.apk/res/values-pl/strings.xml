@@ -364,4 +364,5 @@ Szyszy protokół transmisji."</string>
     <string name="tv_calibration_pre_text">"Skalibruj wyswietlanie kolorów na telewizorze za pomocą telefonu"</string>
     <string name="tv_calibration_start">"Umieść tylny aparat telefonu mocno naprzeciw środka ekranu"</string>
     <string name="tv_calibration_start_button">Zacznij</string>
+    <string name="information_go_to_fitness">Możesz znaleźć odpowiednie ustawienia w aplikacji Mi Fitness</string>
 </resources>

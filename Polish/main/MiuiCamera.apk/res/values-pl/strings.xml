@@ -2413,4 +2413,10 @@ Obrazy Ultra RAW pozwalają zaoszczędzić %d bitów danych, zachowując jeszcze
     <string name="tv_picturestyle_tone">Ton</string>
     <string name="vlog_pro_accessible_play_template_sound">Dźwięki szablonów vlogów są włączone</string>
     <string name="vlog_pro_accessible_stop_template_sound">Dźwięki szablonów vlogów są wyłączone</string>
+    <string name="tip_flash_fillin_auto">Wypełnienie światłem: Auto</string>
+    <string name="tip_flash_fillin_off">Wypełnienie światłem: Wył.</string>
+    <string name="tip_flash_fillin_on">Wypełnienie światłem: Wł.</string>
+    <string name="tip_flash_fillin_torch">Wypełnienie światłem: Lampa błyskowa</string>
+    <string name="tip_flash_soft_light_off">Delikatne światło: Wył.</string>
+    <string name="tip_flash_soft_light_torch">Delikatne światło: Lampa błyskowa</string>
 </resources>
