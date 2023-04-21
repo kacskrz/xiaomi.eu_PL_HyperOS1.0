@@ -125,4 +125,9 @@
   <string name="calibrating">Kalibracja</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="calibrate_new_tip">Gwałtownie przechyl urządzenie, aby obrócić kulę dookoła okręgu</string>
+  <string name="invisible_mode_dialog_message">"Nie można teraz korzystać z aparatu. Aby móc użyć go ponownie, wyłącz Tryb incognito w Ustawieniach."</string>
+  <string name="invisible_mode_dialog_negative">Anuluj</string>
+  <string name="invisible_mode_dialog_positive">Ustawienia</string>
+  <string name="invisible_mode_dialog_title">"Jesteś incognito"</string>
+  <string name="miuix_appcompat_edit">Edytuj</string>
 </resources>

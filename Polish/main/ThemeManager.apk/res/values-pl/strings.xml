@@ -1604,4 +1604,7 @@ Dotknij, aby go wyłączyć."</string>
     <string name="system_cta_all_purpose_fold">Witaj w Tapetach i personalizacji! Możesz użyć tej aplikacji do zarządzania swoimi motywami Ekranu zawsze włączonego, tapetami, dzwonkami i czcionkami.</string>
     <string name="historical_wallpaper">Używano wcześniej</string>
     <string name="add_home_icon_success">Pomyślnie dodano</string>
+    <string name="add_home_icon_success">Pomyślnie dodano</string>
+    <string name="miuix_appcompat_edit">Edytuj</string>
+    <string name="resource_search_hot_tag">Popularne</string>
 </resources>

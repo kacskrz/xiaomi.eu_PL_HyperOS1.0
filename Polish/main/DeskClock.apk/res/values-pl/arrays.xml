@@ -727,6 +727,7 @@
         <item>Brak</item>
     </string-array>
     <string-array name="alarm_in_furture_new_array">
+        <item>Alarm za mniej niż %d minutę</item>
         <item>Alarm za %1$s</item>
         <item>Alarm za %2$s</item>
         <item>Alarm za %1$s i %2$s</item>
@@ -736,6 +737,7 @@
         <item>Alarm za %1$s, %2$s i %3$s</item>
     </string-array>
     <string-array name="alarm_set_new_array">
+        <item>Alarm włączy się za mniej niż %d minutę.</item>
         <item>Alarm włączy się za %1$s.</item>
         <item>Alarm włączy się za %2$s.</item>
         <item>Alarm włączy się za %1$s i %2$s.</item>

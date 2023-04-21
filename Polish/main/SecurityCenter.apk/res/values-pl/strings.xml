@@ -5587,7 +5587,7 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="eletric_group_title_two_identification_risk_mms">Otrzymuj ostrzeżenia przed przekazywaniem kodów weryfikacyjnych</string>
     <string name="eletric_group_title_two_identification_risk_mms_summary">"Otrzymasz ostrzeżenie, gdy kody weryfikacyjne z Twoich SMS-ów są przekazywane do aplikacji społecznościowych"</string>
     <string name="eletric_group_title_two_identification_risk_screen">Ukryj prywatne aplikacje</string>
-    <string name="eletric_group_title_two_identification_risk_screen_summary">Projekcja zostanie zatrzymana po włączeniu Alipay, WeChata, Galerii lub aplikacji SMS</string>
+    <string name="eletric_group_title_two_identification_risk_screen_summary">Jeśli otworzysz aplikacje zawierające wrażliwe dane (np. Galerię) w trakcie udostępniania ekranu urządzenia, ta informacja nie zostanie wyświetlona. Możesz ponownie rozpocząć udostępnianie ręcznie.</string>
     <string name="eletric_group_two_identification_risk_app">Ostrzegaj przed ryzykownymi przelewami</string>
     <string name="eletric_group_two_identification_risk_mms">Ochrona kodów weryfikacyjnych</string>
     <string name="eletric_identification_unfamiliar_numbers">Rozpoznawaj nieznane numery</string>
@@ -5923,4 +5923,35 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="gtb_casual_guide_toast">Odkryj więcej w Grach</string>
     <string name="pc_close_notifi_action">Wyłącz</string>
     <string name="vb_video_effects_dolby_tips">"Ulepszone dialogi i Szersze stereo nie będą działać, gdy włączony jest Dźwięk przestrzenny"</string>
+    <string name="app_manager_as_dlg_msg_new">"Zezwolenie aplikacji na autostart może spowodować zwiększenie ilości pamięci i zużycia baterii wykorzystywanych przez nią. MIUI będzie optymalizować uprawnienia autostartu dla aplikacji, których używasz rzadziej, aby poprawić działanie urządzenia."</string>
+    <string name="auto_start_tips">"MIUI będzie optymalizować uprawnienia autostartu dla aplikacji, których używasz rzadziej, aby poprawić działanie urządzenia."</string>
+    <string name="dialog_btn_yes_install_icon">Zainstaluj</string>
+    <string name="dialog_msg_install_manager_content">Zainstalować ponownie Panel sterowania?</string>
+    <string name="dialog_msg_install_manager_content_pad">Zainstalować ponownie Panel sterowania?</string>
+    <string name="gb_vision_enhance">Ulepszona grafika</string>
+    <string name="gb_vision_enhance_desc">Popraw jakość i wydajność grafiki</string>
+    <string name="gb_vision_enhance_smart_frame_insertion">Inteligentny klatkaż</string>
+    <string name="gb_vision_enhance_smart_frame_insertion_desc">Automatycznie zmieniaj klatkaż, aby ruch był płynniejszy</string>
+    <string name="gb_vision_enhance_super_resolution">Superrozdzielczość</string>
+    <string name="gb_vision_enhance_super_resolution_desc">Zwiększ rozdzielczość, aby widzieć więcej szczegółów</string>
+    <string name="miuix_appcompat_edit">Edytuj</string>
+    <string name="opt_antivirus_scan_antivirus_notification_summary">Używanie złośliwych aplikacji stwarza zagrożenie dla bezpieczeństwa</string>
+    <string name="opt_antivirus_scan_single_antivirus_notification_title">%s może być złośliwą aplikacją</string>
+    <string name="pc_no_more_remind">"Nie przypominaj"</string>
+    <string name="pc_remind_close_cover_to_charge_summary">Złóż urządzenie przed naładowaniem, aby ten proces był szybszy i stabilniejszy.</string>
+    <string name="pc_remind_close_cover_to_charge_title">Złóż, aby naładować</string>
+    <string name="pc_wireless_charge_adjust_position_summary">Połóż je na ładowarce bezprzewodowej</string>
+    <string name="pc_wireless_charge_adjust_position_title">Naładuj urządzenie szybciej</string>
+    <string name="support_app_name_securitycenter">Narzędzia bezpieczeństwa</string>
+    <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Ten efekt będzie zastosowany tylko do obszaru odtwarzanego filmu.
+
+Funkcja nie działa z ulepszonymi filmami.
+
+Włączenie jednego efektu wyłączy pozostałe."</string>
+    <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Ten efekt zostanie zastosowany na całym ekranie.
+
+Funkcja nie działa z ulepszonymi filmami.
+
+Włączenie jednego efektu wyłączy pozostałe."</string>
+    <string name="vb_video_effects_immersion_sound_summary_new">Doświadcz immersji i poczucia przestrzeni, gdy odtwarzany jest kompatybilny dźwięk</string>
 </resources>

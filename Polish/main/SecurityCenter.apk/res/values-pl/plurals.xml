@@ -1272,4 +1272,21 @@ Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkow
         <item quantity="few">Urządzenie jest rozładowane. Za %1$d sekundy wejdziesz w Tryb hibernacji.</item>
         <item quantity="one">Urządzenie jest rozładowane. Za %1$d sekundę wejdziesz w Tryb hibernacji.</item>
     </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Uwaga:
+·Ulepszona grafika nie będzie dostępna, gdy włączone jest Oszczędzanie baterii lub urządzenie jest przegrzane.
+·Inteligentny klatkaż pokazuje najlepsze rezultaty, gdy w grze ustawiono wyświetlanie co najmniej %d klatek na sekundę."</item>
+        <item quantity="one">"Uwaga:
+·Ulepszona grafika nie będzie dostępna, gdy włączone jest Oszczędzanie baterii lub urządzenie jest przegrzane.
+·Inteligentny klatkaż pokazuje najlepsze rezultaty, gdy w grze ustawiono wyświetlanie co najmniej %d klatki na sekundę."</item>
+    </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d aplikacji (w tym %1$s) może być złośliwych</item>
+        <item quantity="few">%2$d aplikacje (w tym %1$s) mogą być złośliwe</item>
+        <item quantity="one">%2$d aplikacja (%1$s) może być złośliwa</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Zoptymalizuj zużycie baterii w %d przypadkach</item>
+        <item quantity="one">Zoptymalizuj zużycie baterii w %d przypadku</item>
+    </plurals>
 </resources>
