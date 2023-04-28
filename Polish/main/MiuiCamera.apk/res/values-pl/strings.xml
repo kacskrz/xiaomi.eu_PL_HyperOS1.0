@@ -2419,4 +2419,18 @@ Obrazy Ultra RAW pozwalają zaoszczędzić %d bitów danych, zachowując jeszcze
     <string name="tip_flash_fillin_torch">Wypełnienie światłem: Lampa błyskowa</string>
     <string name="tip_flash_soft_light_off">Delikatne światło: Wył.</string>
     <string name="tip_flash_soft_light_torch">Delikatne światło: Lampa błyskowa</string>
+    <string name="camera_newcta_storage_message_2">W celu wyświetlania zdjęć, filmów i plików audio</string>
+    <string name="camera_newcta_storage_message_audio">W celu uzyskiwania i odtwarzania plików audio na tym urządzeniu</string>
+    <string name="camera_newcta_storage_message_vdieo_image">W celu wyświetlania zdjęć i filmów</string>
+    <string name="cta_perm_storage_aural">Dostęp do plików audio</string>
+    <string name="cta_perm_storage_aural_desc">W celu uzyskiwania i odtwarzania plików audio</string>
+    <string name="cta_perm_storage_visual">Dostęp do zdjęć i filmów</string>
+    <string name="cta_perm_storage_visual_desc">W celu uzyskiwania i wyświetlania zdjęć i filmów</string>
+    <string name="lunch_storage_permission_audio">Dostęp do plików audio</string>
+    <string name="lunch_storage_permission_video_image">Dostęp do zdjęć i filmów</string>
+    <string name="pref_camera_watermark_standard">Normalny</string>
+    <string name="pref_watermark_summary">"Znaki wodne będą się pojawiać na zdjęciach w formatach JPEG i HEIF, z wyjątkiem zdjęć wykonanych za pomocą funkcji Zdjęcia seryjne, Ultra HD i Krótki film."</string>
+    <string name="watermark_choose_one_tip">Do każdego zdjęcia możesz dodać tylko jeden znak wodny.</string>
+    <string name="watermark_function_description">O znakach wodnych</string>
+    <string name="watermark_keep_at_least_one">Wybierz co najmniej jedną opcję</string>
 </resources>

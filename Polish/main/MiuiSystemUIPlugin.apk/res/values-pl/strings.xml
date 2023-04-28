@@ -455,4 +455,5 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="silent">Cichy</string>
     <string name="slider_view_content_left_description">Przesuń w górę, aby uruchomić telefon w trybie Fastboot lub w dół, aby uruchomić go w trybie Recovery</string>
     <string name="slider_view_content_right_description">Przesuń w górę, aby ustawić Tryb samolotowy lub w dół, aby ustawić Tryb cichy</string>
+    <string name="emergency_call">Poł. alarmowe</string>
 </resources>

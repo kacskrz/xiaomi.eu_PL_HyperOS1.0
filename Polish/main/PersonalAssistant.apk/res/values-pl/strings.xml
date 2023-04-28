@@ -1776,4 +1776,16 @@ Dotknij dwa razy, aby zobaczyć szczegóły."</string>
     <string name="pa_picker_detail_theme_app_need_login">Zaloguj się</string>
     <string name="pa_picker_detail_theme_app_need_login_pre">"Najpierw zaloguj się na swoje konto Xiaomi. "</string>
     <string name="pa_widget_advert_loading_dialog_message">Chwileczkę…</string>
+    <string name="pa_picker_order_go_to_allow_cta">Zezwól</string>
+    <string name="pa_picker_order_go_to_login">Zaloguj się</string>
+    <string name="pa_picker_order_login_xiaomi_account">Aby móc używać tej funkcji, zaloguj się na swoje konto Xiaomi.</string>
+    <string name="pa_picker_order_theme_app_cta_pre">Aby móc używać tej funkcji, zezwól tej aplikacji na łączenie się z Internetem.</string>
+    <string name="pa_picker_recommend_add_limit_toast">"Nie można dodać więcej widżetów"</string>
+    <string name="pa_picker_recommend_bottom_button_add">Dodaj widżet</string>
+    <string name="pa_picker_recommend_bottom_button_download_and_add">Dodaj widżet</string>
+    <string name="pa_picker_recommend_download_tip">Gdy dodasz widżet, automatycznie zostanie pobrana odpowiednia aplikacja</string>
+    <string name="pa_picker_recommend_title">Zalecane dla Ciebie</string>
+    <string name="pa_picker_widget_select_uninstall_description">%1$s, nie zainstalowano</string>
+    <string name="pa_picker_widget_select_upgrade_description">%1$s, dostępna aktualizacja</string>
+    <string name="pa_picker_theme_app_version_error">Wystąpił błąd</string>
 </resources>
