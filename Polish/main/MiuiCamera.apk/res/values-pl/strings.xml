@@ -2433,4 +2433,7 @@ Obrazy Ultra RAW pozwalają zaoszczędzić %d bitów danych, zachowując jeszcze
     <string name="watermark_choose_one_tip">Do każdego zdjęcia możesz dodać tylko jeden znak wodny.</string>
     <string name="watermark_function_description">O znakach wodnych</string>
     <string name="watermark_keep_at_least_one">Wybierz co najmniej jedną opcję</string>
+    <string name="accessibility_watermark_image_off">Znak wodny wyłączony</string>
+    <string name="accessibility_watermark_image_on">Znak wodny włączony</string>
+    <string name="accessibility_watermark_text">Otwórz panel znaku wodnego</string>
 </resources>

@@ -4855,7 +4855,7 @@ ale zwiększa użycie baterii i umożliwia przegrzewanie się urządzenia"</stri
     <string name="pc_fast_charge_notifi_action_text_off">Zatrzymaj</string>
     <string name="pc_fast_charge_notifi_action_text_on">Zwiększ</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Ustaw poziom baterii dla przypomnień</string>
-    <string name="pc_fast_charge_notifi_summary">Ładowanie do %s razy szybciej niż zwykle…</string>
+    <string name="pc_fast_charge_notifi_summary">Ładowanie do %s szybciej niż zwykle…</string>
     <string name="pc_fast_charge_notifi_summary_on">Przyspieszenie ładowania odbywa się wtedy, gdy ekran jest wyłączony. Funkcja zwiększy temperaturę urządzenia.</string>
     <string name="pc_fast_charge_notifi_switch_summary">Powiadamiaj o zwiększeniu prędkości ładowania, gdy podłączona jest dołączona ładowarka o mocy %dW, a poziom baterii znajduje się poniżej ustawionego poziomu</string>
     <string name="pc_fast_charge_notifi_switch_title">Informuj o przyspieszonym ładowaniu</string>
