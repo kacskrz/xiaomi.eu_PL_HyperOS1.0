@@ -950,4 +950,8 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="rich_text_tasklist_description">Lista kontrolna</string>
   <string name="rich_text_unorderlist_description">Lista punktowana</string>
   <string name="stealth_mode_tip">"Jesteś incognito. Nie można korzystać z mikrofonu."</string>
+  <string name="cta_v2_app_purpose_v12_lite">Witaj w Notatkach! Możesz użyć tej aplikacji do tworzenia notatek i zadań.</string>
+  <string name="unsupported_format_remind_desc">"Ta notatka zawiera formatowanie, które nie jest wspierane przez to urządzenie. Jej edycja może spowodować błędy w formatowaniu. Otworzyć ją mimo to?"</string>
+  <string name="insert_image_size_limit_tip">"Ten obraz ma powyżej %d MB. Został on automatycznie skompresowany."</string>
+  <string name="warn_enter_browse_mode_forbid_create">"Nie można tworzyć lub edytować notatek w trybie tylko do odczytu"</string>
 </resources>

@@ -459,4 +459,5 @@ Dotknij opcji \"%1$s\", a następnie wybierz \"%2$s\"."</string>
     <string name="screen_share_connecting">Łączenie…</string>
     <string name="screen_share_message">Zezwolić innej osobie na wyświetlanie Twojego ekranu w czasie rzeczywistym?</string>
     <string name="screen_share_refuse">Anuluj</string>
+    <string name="high_temperature_toast">"Twoje urządzenie jest przegrzane. Nie można skorzystać z tej funkcji."</string>
 </resources>
