@@ -890,4 +890,12 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię nic ważnego."</stri
     <string name="setting_show_reject_agenda">Pokaż odrzucone wydarzenia</string>
     <string name="permission_denial">Aby korzystać z tej funkcji, nadaj uprawnienia</string>
     <string name="premission_description_notice">W celu wysyłania powiadomień o wydarzeniach i świętach</string>
+    <string name="agenda_not_today_empty_hint">Nie ma tu wydarzeń. Dotknij, aby je utworzyć.</string>
+    <string name="event_reminder_custom">Własne</string>
+    <string name="notification_open_setting_button_exit">Nie, dzięki</string>
+    <string name="notification_open_setting_button_ok">Zezwól</string>
+    <string name="notification_open_setting_message">"Dopóki nie zezwolisz Kalendarzowi na wysyłanie powiadomień, nie będziesz otrzymywać powiadomień o wydarzeniach."</string>
+    <string name="notification_open_setting_title">Włączyć powiadomienia?</string>
+    <string name="repeat_alarm_close_title">To wydarzenie się powtarza. Wyłączyć przypomnienie alarmem?</string>
+    <string name="repeat_alarm_open_title">To wydarzenie się powtarza. Ustawić przypomnienie alarmem?</string>
 </resources>
