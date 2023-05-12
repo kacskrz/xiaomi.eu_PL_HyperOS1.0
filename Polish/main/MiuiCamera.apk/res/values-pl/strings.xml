@@ -2436,4 +2436,18 @@ Obrazy Ultra RAW pozwalają zaoszczędzić %d bitów danych, zachowując jeszcze
     <string name="accessibility_watermark_image_off">Znak wodny wyłączony</string>
     <string name="accessibility_watermark_image_on">Znak wodny włączony</string>
     <string name="accessibility_watermark_text">Otwórz panel znaku wodnego</string>
+    <string name="bluetooth_fromkeyguard_not_permission">Zezwól tej aplikacji na dostęp do stanu połączenia słuchawek Bluetooth, aby móc korzystać z tej funkcji.</string>
+    <string name="bluetooth_headset_permission_des">"W celu określania stanu połączenia słuchawek Bluetooth i nagrywania dźwięku przez mikrofon tych słuchawek"</string>
+    <string name="bluetooth_permission_not_ask_again">Zezwól tej aplikacji na łączenie się z urządzeniami w pobliżu, aby móc łączyć się ze słuchawkami Bluetooth.</string>
+    <string name="config_name_front_flash">Wypełnienie światłem</string>
+    <string name="custom_shutter_sound_select">Własny dźwięk migawki</string>
+    <string name="manual_picture_style_desc_custom">Własny styl fotografii</string>
+    <string name="pref_camera_pad_suspend_shutter_button_summary">Przeciągnij przycisk migawki do lewej, aby dodać dodatkową pływającą migawkę, którą można umieścić w dowolnym miejscu na ekranie</string>
+    <string name="pref_camera_watermark_film">Klatka filmowa</string>
+    <string name="tv_picturestyle_custom_color">Tonacja</string>
+    <string name="tv_picturestyle_custom_color_temperature">Zimna/Ciepła</string>
+    <string name="tv_picturestyle_custom_color_tune">Cyjan/Magenta</string>
+    <string name="tv_picturestyle_custom_texture">Tekstura</string>
+    <string name="tv_picturestyle_custom_tone">Odcień</string>
+    <string name="watermark_choose_one_tip_film">Do każdego zdjęcia możesz dodać tylko jeden znak wodny.</string>
 </resources>
