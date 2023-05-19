@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ext_media_ready_notification_message">Przechowywanie zdjęć, filmów, muzyki i innych treści</string>
+    <string name="ext_media_unsupported_notification_message">Kliknij, aby skonfigurować.</string>
+    <string name="ext_media_unsupported_notification_title">Wykryto nośnik %s</string>
+</resources>

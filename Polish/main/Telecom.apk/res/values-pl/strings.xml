@@ -573,4 +573,11 @@ Magazyn danych logowania może nie zostać włączony"</string>
     <string name="unblock_dialog_body">Odblokować %1$s?</string>
     <string name="userCallActivityLabel">Telefon</string>
     <string name="yesterday">Wczoraj</string>
+    <string name="back">Wstecz</string>
+    <string name="callendpoint_name_bluetooth">Bluetooth</string>
+    <string name="callendpoint_name_earpiece">Słuchawka</string>
+    <string name="callendpoint_name_speaker">Głośnik</string>
+    <string name="callendpoint_name_streaming">Zewnętrzne</string>
+    <string name="callendpoint_name_unknown">Brak informacji</string>
+    <string name="callendpoint_name_wiredheadset">Słuchawki przewodowe</string>
 </resources>

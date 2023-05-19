@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_unlock_button">Odblokowano</string>
+    <string name="high_temp_alarm_notify_message">Urządzenie za bardzo się nagrzewa w okolicy gniazda ładowania. Jeśli jest podłączone do ładowarki albo akcesorium USB, odłącz je. Uważaj, bo kabel również może być nagrzany.</string>
+    <string name="high_temp_alarm_title">Odłącz urządzenie</string>
+    <string name="keyguard_plugged_in_charging_limited">%s • Ładowanie zoptymalizowane w celu ochrony baterii</string>
+    <string name="letterbox_education_dialog_title">Zobacz i zrób więcej</string>
+</resources>

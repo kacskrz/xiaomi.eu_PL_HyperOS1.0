@@ -944,4 +944,8 @@ został wykorzystany"</string>
     <string name="new_customize_high_refresh_title">Wysoka częstotliwość odświeżania</string>
     <string name="opened_high_refresh_options">Aplikacje używające wysokiej częstotliwości odświeżania</string>
     <string name="search_app_tips">Wyszukaj aplikacje</string>
+    <string name="footer_max_fps" formatted="false">"
+%d. W wspieranych aplikacjach i grach częstotliwość odświeżania może być ustawiona do maks. %s Hz."</string>
+    <string name="max_fps_string">Do %s Hz</string>
+    <string name="summary_max_fps_for_intelligent">Dynamicznie dostosowuj częstotliwość odświeżania do maks. %s Hz w oparciu o scenariusze, aby bilansować wydajność i zużycie energii</string>
 </resources>

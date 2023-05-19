@@ -907,4 +907,9 @@ Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się z administrat
         <item quantity="few">%d abonamenty</item>
         <item quantity="many">%d abonamentów</item>
     </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="zero">Brak</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
 </resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cope_provisioning_summary">Aplikacje służbowe znajdują się w profilu służbowym, a zarządza nimi administrator IT. Aplikacje osobiste znajdują się w innym miejscu i są niewidoczne dla aplikacji służbowych. Administrator IT może zarządzać tym urządzeniem %1$s i blokować niektóre aplikacje.</string>
+    <string name="device_already_set_up">Urządzenie %1$s zostało już skonfigurowane</string>
+    <string name="device_doesnt_allow_encryption_contact_admin">To urządzenie %1$s nie umożliwia szyfrowania, a jest to wymagane do konfiguracji. Aby uzyskać pomoc, skontaktuj się z administratorem IT.</string>
+    <string name="device_has_reset_protection_contact_admin">Na urządzeniu %1$s jest włączona ochrona przed zresetowaniem. Aby uzyskać pomoc, skontaktuj się z administratorem IT.</string>
+    <string name="encrypt_device_text_for_device_owner_setup">Przed skonfigurowaniem urządzenie %1$s trzeba zaszyfrować. Może to trochę potrwać.</string>
+    <string name="encrypt_device_text_for_profile_owner_setup">Skonfigurowanie profilu służbowego wymaga zaszyfrowania urządzenia %1$s. Może to trochę potrwać.</string>
+    <string name="error_role_holder_hash_mismatch">Nie można skonfigurować urządzenia %1$s. Skontaktuj się z administratorem, podając typ błędu „Nieprawidłowa suma kontrolna”.</string>
+    <string name="error_role_holder_package_invalid">Nie można skonfigurować urządzenia %1$s. Skontaktuj się z administratorem, podając typ błędu „Brak komponentów lub komponenty uszkodzone”.</string>
+    <string name="financed_device_screen_header">To urządzenie %1$s dostarcza organizacja %2$s</string>
+    <string name="financed_make_payments_subheader_description">Organizacja %1$s może zainstalować aplikację %2$s, która umożliwia dokonywanie płatności za korzystanie z tego urządzenia %3$s.</string>
+    <string name="financed_make_payments_subheader_title">Dokonuj płatności za urządzenie %1$s</string>
+    <string name="financed_restrict_device_subheader_description">Organizacja %1$s może wprowadzić ograniczenia na tym urządzeniu %2$s, jeśli nie będziesz dokonywać płatności.</string>
+    <string name="financed_restrict_device_subheader_title">W odniesieniu do tego urządzenia %1$s mogą obowiązywać ograniczenia</string>
+    <string name="fully_managed_device_provisioning_permissions_secondary_subheader">Administrator IT może konfigurować uprawnienia aplikacji na tym urządzeniu %1$s, w tym dostęp do mikrofonu, aparatu i lokalizacji.</string>
+    <string name="fully_managed_device_provisioning_privacy_body">Administrator IT może mieć podgląd Twoich danych i aktywności na tym urządzeniu %1$s</string>
+    <string name="fully_managed_device_provisioning_step_2_header">To urządzenie %1$s nie jest prywatne</string>
+    <string name="fully_managed_device_provisioning_step_2_subheader">Administrator IT może mieć podgląd Twoich danych i aktywności na tym urządzeniu %1$s.</string>
+    <string name="fully_managed_device_provisioning_summary">To urządzenie %1$s pozwoli Ci łatwo korzystać z aplikacji służbowych. Urządzenie %1$s nie jest prywatne, więc administrator IT może mieć podgląd Twoich danych i aktywności.</string>
+    <string name="fully_managed_device_with_permission_control_provisioning_summary">To urządzenie %1$s pozwoli Ci łatwo korzystać z aplikacji służbowych. Urządzenie %1$s nie jest prywatne, więc administrator IT może mieć podgląd Twojej aktywności i danych. Administrator IT może również konfigurować uprawnienia aplikacji na tym urządzeniu, w tym dostęp do mikrofonu, aparatu i lokalizacji.</string>
+    <string name="reset_device">Zresetuj urządzenie %1$s i ponownie spróbuj skonfigurować</string>
+    <string name="setup_device">Skonfiguruj urządzenie %1$s</string>
+    <string name="setup_device_encryption">Skonfiguruj urządzenie %1$s. Szyfrowanie</string>
+    <string name="setup_device_progress">Skonfiguruj urządzenie %1$s. Pokazuję postępy</string>
+    <string name="stop_setup_reset_device_question">Zatrzymać konfigurowanie i resetowanie urządzenia %1$s?</string>
+    <string name="this_will_reset_take_back_first_screen">Spowoduje to zresetowanie urządzenia %1$s i powrót do pierwszego ekranu</string>
+    <string name="work_profile_cant_be_added_contact_admin">Nie można dodać profilu służbowego na tym urządzeniu %1$s. Jeśli masz pytania, skontaktuj się z administratorem IT.</string>
+</resources>

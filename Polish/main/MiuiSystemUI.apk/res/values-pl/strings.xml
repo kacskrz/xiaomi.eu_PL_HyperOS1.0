@@ -3603,4 +3603,196 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIU
     <string name="thermal_protection_warning">"Twoje urządzenie jest przegrzane. Nie można teraz używać tej funkcji."</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">"Nie można się przełączać między przestrzeniami w Trybie hibernacji"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_endurance_battery_zero_active">"Nie można się przełączać między przestrzeniami ze względu na słabą baterię"</string>
+    <string name="accessibility_allow_diagonal_scrolling">Zezwalaj na przewijanie poprzeczne</string>
+    <string name="accessibility_desc_qs_notification_shade">Szybkie ustawienia i obszar powiadomień.</string>
+    <string name="accessibility_floating_button_action_remove_menu">Usuń</string>
+    <string name="accessibility_floating_button_undo">Cofnij</string>
+    <string name="accessibility_floating_button_undo_message_label_text">%s – skrót został usunięty</string>
+    <string name="accessibility_floating_button_undo_message_number_text">{count,plural, =1{# skrót został usunięty}few{# skróty zostały usunięte}many{# skrótów zostało usuniętych}other{# skrótu zostało usunięte}}</string>
+    <string name="accessibility_magnification_done">Gotowe</string>
+    <string name="accessibility_magnification_large">Duży</string>
+    <string name="accessibility_magnification_medium">Średni</string>
+    <string name="accessibility_magnification_settings_panel_description">Ustawienia powiększenia</string>
+    <string name="accessibility_magnification_small">Mały</string>
+    <string name="accessibility_magnification_zoom">Powiększenie</string>
+    <string name="accessibility_magnifier_edit">Edytuj</string>
+    <string name="accessibility_magnifier_size">Rozmiar powiększania</string>
+    <string name="accessibility_resize">Zmień rozmiar</string>
+    <string name="accessibility_split_bottom">Podziel u dołu</string>
+    <string name="accessibility_split_left">Podziel po lewej</string>
+    <string name="accessibility_split_right">Podziel po prawej</string>
+    <string name="accessibility_split_top">Podziel u góry</string>
+    <string name="accessibility_tile_disabled_by_policy_action_description">Więcej informacji</string>
+    <string name="app_clips_save_add_to_note">Dodaj do notatek</string>
+    <string name="app_icon_text">Ikona aplikacji</string>
+    <string name="assistant_attention_content_description">Asystent jest aktywny</string>
+    <string name="auto_data_switch_dialog_negative_button">Nie, dziękuję</string>
+    <string name="auto_data_switch_dialog_positive_button">Tak, wróć</string>
+    <string name="auto_data_switch_disable_message">Mobilna transmisja danych nie będzie automatycznie przełączana na podstawie dostępności</string>
+    <string name="auto_data_switch_disable_title">Wrócić do operatora %s?</string>
+    <string name="back_button_text">Wstecz</string>
+    <string name="bottomsheet_drag_handle_content_description">Uchwyt do przeciągania</string>
+    <string name="bottomsheet_action_expand">Rozwiń planszę dolną</string>
+    <string name="bottomsheet_action_collapse">Zwiń planszę dolną</string>
+    <string name="bottomsheet_drag_handle_clicked">Dwukrotnie kliknięto uchwyt do przeciągania</string>
+    <string name="broadcasting_description_is_broadcasting">Transmisja</string>
+    <string name="bt_le_audio_broadcast_dialog_unknown_name">Brak informacji</string>
+    <string name="call_from_work_profile_action">Przełącz na profil służbowy</string>
+    <string name="call_from_work_profile_close">Zamknij</string>
+    <string name="call_from_work_profile_text">Zasady obowiązujące w firmie zezwalają na nawiązywanie połączeń telefonicznych tylko w profilu służbowym</string>
+    <string name="call_from_work_profile_title">Nie można nawiązać połączenia z tego profilu</string>
+    <string name="camera_and_microphone_blocked_dream_overlay_content_description">Kamera i mikrofon są zablokowane</string>
+    <string name="camera_blocked_dream_overlay_content_description">Kamera jest zablokowana</string>
+    <string name="close_button_text">Zamknij</string>
+    <string name="close_text">Zamknij</string>
+    <string name="collapse_menu_text">Zamknij menu</string>
+    <string name="controls_dialog_remove">Usuń</string>
+    <string name="controls_media_smartspace_rec_header">Dla Ciebie</string>
+    <string name="controls_menu_add_another_app">Dodaj aplikację</string>
+    <string name="controls_number_of_favorites">{count,plural, =1{Dodano # element sterujący.}few{Dodano # elementy sterujące.}many{Dodano # elementów sterujących.}other{Dodano # elementu sterującego.}}</string>
+    <string name="controls_panel_authorization">Gdy dodasz aplikację %s, będzie ona mogła dodawać elementy sterujące i treści do tego panelu. W niektórych aplikacjach można wybrać elementy sterujące, które się tu pojawią.</string>
+    <string name="controls_panel_authorization_title">Dodać aplikację %s?</string>
+    <string name="controls_panel_remove_app_authorization">Usunąć elementy sterujące dla %s?</string>
+    <string name="desktop_text">Tryb pulpitu</string>
+    <string name="dnd_is_on">Tryb Nie przeszkadzać jest włączony</string>
+    <string name="dock_multi_instances_not_supported_text">Ta aplikacja może być otwarta tylko w 1 oknie.</string>
+    <string name="dream_overlay_status_bar_assistant_attention_indicator">Asystent słucha</string>
+    <string name="dream_overlay_status_bar_camera_off">Kamera jest wyłączona</string>
+    <string name="dream_overlay_status_bar_mic_off">Mikrofon jest wyłączony</string>
+    <string name="fgs_manager_footer_label">{count,plural, =1{# aplikacja jest aktywna}few{# aplikacje są aktywne}many{# aplikacji jest aktywnych}other{# aplikacji jest aktywne}}</string>
+    <string name="float_button_text">Pływająca</string>
+    <string name="fullscreen_text">Pełny ekran</string>
+    <string name="grant_admin">Nadaj temu użytkownikowi uprawnienia administratora</string>
+    <string name="guest_exit_button">Zamknij tryb gościa</string>
+    <string name="guest_exit_clear_data_button">Usuń</string>
+    <string name="guest_exit_dialog_button">Zamknij</string>
+    <string name="guest_exit_dialog_message">Wszystkie aplikacje i dane z obecnej sesji gościa zostaną usunięte.</string>
+    <string name="guest_exit_dialog_message_non_ephemeral">Możesz zapisać aktywność z obecnej sesji lub usunąć wszystkie aplikacje i dane</string>
+    <string name="guest_exit_dialog_title">Zamknąć tryb gościa?</string>
+    <string name="guest_exit_dialog_title_non_ephemeral">Zapisać aktywność gościa?</string>
+    <string name="guest_exit_quick_settings_button">Zakończ tryb gościa</string>
+    <string name="guest_exit_save_data_button">Zapisz</string>
+    <string name="guest_notification_app_name">Tryb gościa</string>
+    <string name="guest_notification_ephemeral">Cała aktywność zostanie usunięta po zamknięciu</string>
+    <string name="guest_notification_non_ephemeral">Możesz zapisać lub usunąć swoją aktywność podczas zamykania.</string>
+    <string name="guest_notification_non_ephemeral_non_first_login">Zresetuj, aby teraz usunąć aktywność z tej sesji. Możesz też ją zapisać lub usunąć podczas zamykania sesji.</string>
+    <string name="guest_notification_session_active">Jesteś w trybie gościa</string>
+    <string name="guest_reset_and_restart_dialog_message">Zostanie uruchomiona nowa sesja gościa. Wszystkie aplikacje i dane z obecnej sesji zostaną usunięte.</string>
+    <string name="guest_reset_and_restart_dialog_title">Zresetować sesję gościa?</string>
+    <string name="handle_text">Uchwyt</string>
+    <string name="install_type_instant">Aplikacja błyskawiczna</string>
+    <string name="keyguard_affordance_enablement_dialog_action_template">Otwórz: %1$s</string>
+    <string name="keyguard_affordance_enablement_dialog_home_instruction_1">• Aplikacja została skonfigurowana.</string>
+    <string name="keyguard_affordance_enablement_dialog_home_instruction_2">• Dostępne jest co najmniej 1 urządzenie.</string>
+    <string name="keyguard_affordance_enablement_dialog_qr_scanner_instruction">• Zainstalowano aplikację aparatu.</string>
+    <string name="keyguard_affordance_enablement_dialog_wallet_instruction_1">• Aplikacja została skonfigurowana.</string>
+    <string name="keyguard_affordance_enablement_dialog_wallet_instruction_2">• Do Portfela została dodana co najmniej 1 karta.</string>
+    <string name="keyguard_affordance_press_too_short">Skrót – naciśnij i przytrzymaj</string>
+    <string name="keyguard_face_failed">Nie można rozpoznać twarzy</string>
+    <string name="keyguard_face_successful_unlock">Odblokowano skanem twarzy</string>
+    <string name="keyguard_face_unlock_unavailable">Rozpoznawanie twarzy niedostępne</string>
+    <string name="keyguard_plugged_in_incompatible_charger">%s • Niezgodne ładowanie</string>
+    <string name="keyguard_suggest_fingerprint">Użyj odcisku palca</string>
+    <string name="kg_password_default_pin_message">{count,plural, =1{Wpisz kod PIN karty SIM. Masz jeszcze # próbę, zanim będzie trzeba skontaktować się z operatorem, aby odblokować to urządzenie.}few{Wpisz kod PIN karty SIM. Masz jeszcze # próby.}many{Wpisz kod PIN karty SIM. Masz jeszcze # prób.}other{Wpisz kod PIN karty SIM. Masz jeszcze # próby.}}</string>
+    <string name="kg_password_default_puk_message">{count,plural, =1{Karta SIM została wyłączona. Wpisz kod PUK, aby przejść dalej. Masz jeszcze # próbę, zanim karta SIM zostanie trwale zablokowana. Aby uzyskać szczegółowe informacje, skontaktuj się z operatorem.}few{Karta SIM została wyłączona. Wpisz kod PUK, aby przejść dalej. Masz jeszcze # próby, zanim karta SIM zostanie trwale zablokowana. Aby uzyskać szczegółowe informacje, skontaktuj się z operatorem.}many{Karta SIM została wyłączona. Wpisz kod PUK, aby przejść dalej. Masz jeszcze # prób, zanim karta SIM zostanie trwale zablokowana. Aby uzyskać szczegółowe informacje, skontaktuj się z operatorem.}other{Karta SIM została wyłączona. Wpisz kod PUK, aby przejść dalej. Masz jeszcze # próby, zanim karta SIM zostanie trwale zablokowana. Aby uzyskać szczegółowe informacje, skontaktuj się z operatorem.}}</string>
+    <string name="kg_password_wrong_pin_code">{count,plural, =1{Nieprawidłowy kod PIN karty SIM. Masz jeszcze # próbę, zanim trzeba będzie skontaktować się z operatorem, aby odblokował Twoje urządzenie.}few{Nieprawidłowy kod PIN karty SIM. Masz jeszcze # próby. }many{Nieprawidłowy kod PIN karty SIM. Masz jeszcze # prób. }other{Nieprawidłowy kod PIN karty SIM. Masz jeszcze # próby. }}</string>
+    <string name="kg_password_wrong_puk_code">{count,plural, =1{Nieprawidłowy kod PUK karty SIM. Masz jeszcze # próbę, zanim karta SIM zostanie trwale zablokowana.}few{Nieprawidłowy kod PUK karty SIM. Masz jeszcze # próby, zanim karta SIM zostanie trwale zablokowana.}many{Nieprawidłowy kod PUK karty SIM. Masz jeszcze # prób, zanim karta SIM zostanie trwale zablokowana.}other{Nieprawidłowy kod PUK karty SIM. Masz jeszcze # próby, zanim karta SIM zostanie trwale zablokowana.}}</string>
+    <string name="letterbox_education_split_screen_text">Przeciągnij drugą aplikację, aby podzielić ekran</string>
+    <string name="letterbox_restart_cancel">Anuluj</string>
+    <string name="letterbox_restart_dialog_checkbox_title">Nie pokazuj ponownie</string>
+    <string name="letterbox_restart_dialog_description">Możesz ponownie uruchomić aplikację, aby lepiej wyglądała na ekranie, ale istnieje ryzyko, że utracisz postępy i niezapisane zmiany</string>
+    <string name="letterbox_restart_dialog_title">Uruchomić ponownie dla lepszego wyglądu?</string>
+    <string name="letterbox_restart_restart">Uruchom ponownie</string>
+    <string name="log_access_confirmation_allow">Zezwól na jednorazowy dostęp</string>
+    <string name="log_access_confirmation_body">"Dzienniki urządzenia zapisują, co dzieje się na urządzeniu. Aplikacje mogą ich używać do wykrywania i rozwiązywania problemów.
+
+Niektóre dzienniki mogą zawierać poufne dane, dlatego na dostęp do wszystkich dzienników zezwalaj tylko aplikacjom, którym ufasz. 
+
+Nawet jeśli nie zezwolisz tej aplikacji na dostęp do wszystkich dzienników na urządzeniu, będzie mogła korzystać z własnych. Producent urządzenia nadal będzie mógł używać niektórych dzienników na urządzeniu."</string>
+    <string name="log_access_confirmation_deny">Nie zezwalaj</string>
+    <string name="log_access_confirmation_learn_more">Więcej informacji</string>
+    <string name="log_access_confirmation_learn_more_at">Więcej informacji: %s</string>
+    <string name="log_access_confirmation_title">Zezwolić aplikacji %s na dostęp do wszystkich dzienników urządzenia?</string>
+    <string name="magnification_drag_corner_to_resize">Przeciągnij róg, aby zmienić rozmiar</string>
+    <string name="magnification_open_settings_click_label">Otwórz ustawienia powiększenia</string>
+    <string name="maximize_button_text">Maksymalizuj</string>
+    <string name="media_output_broadcast_code_hint_no_less_than_min">Wpisz co najmniej 4 znaki</string>
+    <string name="media_output_broadcast_code_hint_no_more_than_max">Wpisz mniej niż 16 znaków</string>
+   <string name="media_output_group_title_speakers_and_displays">Głośniki i wyświetlacze</string>
+    <string name="media_output_group_title_suggested_device">Proponowane urządzenia</string>
+    <string name="media_output_status_device_in_low_power_mode">Wybudź urządzenie, aby odtworzyć tutaj</string>
+    <string name="media_output_status_not_support_downloads">Tutaj nie można odtworzyć pobranych plików</string>
+    <string name="media_output_status_require_premium">Uaktualnij konto, aby przełączyć</string>
+    <string name="media_output_status_track_unsupported">Nie można odtworzyć tego pliku multimedialnego</string>
+    <string name="media_output_status_try_after_ad">Spróbuj ponownie po reklamie</string>
+    <string name="media_output_status_unauthorized">Urządzenie nie ma uprawnień do odtwarzania</string>
+    <string name="media_output_status_unknown_error">Nie można odtworzyć na tym urządzeniu</string>
+    <string name="media_projection_permission_app_selector_title">Udostępnianie i nagrywanie aplikacji</string>
+    <string name="media_transfer_loading">Wczytuję</string>
+    <string name="media_transfer_receiver_content_description_unknown_app">Przesyłanie multimediów</string>
+    <string name="media_transfer_receiver_content_description_with_app_name">Przesyłanie treści z aplikacji %1$s</string>
+    <string name="microphone_blocked_dream_overlay_content_description">Mikrofon jest zablokowany</string>
+    <string name="minimize_button_text">Minimalizuj</string>
+    <string name="mobile_data_poor_connection">Słabe połączenie</string>
+    <string name="mobile_data_temp_connection_active">Tymczasowe połączenie</string>
+    <string name="no_unseen_notif_text">Brak nowych powiadomień</string>
+    <string name="not_grant_admin">Nie nadawaj uprawnień administratora</string>
+    <string name="note_task_button_label">Notatki</string>
+    <string name="notification_channel_instant">Aplikacje błyskawiczne</string>
+    <string name="notification_channel_setup">Konfiguracja</string>
+    <string name="notification_group_overflow_description">{count,plural, =1{Jeszcze # powiadomienie w grupie.}few{Jeszcze # powiadomienia w grupie.}many{Jeszcze # powiadomień w grupie.}other{Jeszcze # powiadomienia w grupie.}}</string>
+    <string name="pip_menu_accessibility_title">Menu funkcji Obraz w obrazie.</string>
+    <string name="priority_mode_dream_overlay_content_description">Tryb priorytetowy jest włączony</string>
+    <string name="qr_code_scanner_updating_secondary_label">Aktualizuję</string>
+    <string name="rear_display_accessibility_folded_animation">Składane urządzenie jest rozkładane</string>
+    <string name="rear_display_accessibility_unfolded_animation">Składane urządzenie jest obracane</string>
+    <string name="rear_display_bottom_sheet_cancel">Anuluj</string>
+    <string name="rear_display_bottom_sheet_confirm">Przełącz ekrany teraz</string>
+    <string name="rear_display_folded_bottom_sheet_description">Użyj tylnego aparatu, aby uzyskać wyższą rozdzielczość</string>
+    <string name="rear_display_folded_bottom_sheet_title">Otwieranie telefonu</string>
+    <string name="rear_display_unfolded_bottom_sheet_description">Odwróć telefon, aby uzyskać wyższą rozdzielczość</string>
+    <string name="rear_display_unfolded_bottom_sheet_title">Przełączyć ekrany?</string>
+    <string name="restart_button_description">Kliknij, aby zrestartować aplikację i zyskać lepszą widoczność.</string>
+    <string name="screen_capturing_disabled_by_policy_dialog_title">Zablokowane przez administratora IT</string>
+    <string name="screen_recording_announcement">Rozpoczęto nagrywanie ekranu</string>
+    <string name="screen_stopped_recording_announcement">Zatrzymano nagrywanie ekranu</string>
+    <string name="screenshot_default_files_app_name">Pliki</string>
+    <string name="screenshot_detected_multiple_template">Aplikacja %1$s i inne aplikacje wykryły ten zrzut ekranu.</string>
+    <string name="screenshot_detected_template">Aplikacja %1$s wykryła ten zrzut ekranu.</string>
+    <string name="screenshot_dismiss_work_profile">Zamknij komunikat profilu służbowego</string>
+    <string name="screenshot_saving_work_profile_title">Zapisuję zrzut ekranu w profilu służbowym…</string>
+    <string name="screenshot_text">Zrzut ekranu</string>
+    <string name="screenshot_work_profile_notification">Zapisano w aplikacji %1$s w profilu służbowym</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message">"Czytnik linii papilarnych znajduje się w przycisku zasilania. To płaski przycisk obok wysuniętych przycisków głośności na krawędzi telefonu.
+
+Wciśnięcie przycisku zasilania wyłącza ekran."</string>
+    <string name="select_text">Wybierz</string>
+    <string name="sensor_privacy_camera_blocked_dialog_content">Dostęp do aparatu jest zablokowany w przypadku wszystkich aplikacji i usług.</string>
+    <string name="sensor_privacy_camera_turned_off_dialog_title">Aparat wyłączony</string>
+    <string name="sensor_privacy_camera_turned_on_dialog_title">Aparat włączony</string>
+    <string name="sensor_privacy_camera_unblocked_dialog_content">Aparat jest włączony w przypadku wszystkich aplikacji i usług.</string>
+    <string name="sensor_privacy_dialog_open_settings">Otwórz Ustawienia</string>
+    <string name="sensor_privacy_htt_blocked_dialog_content">Aby używać przycisku mikrofonu, włącz dostęp do mikrofonu w Ustawieniach.</string>
+    <string name="sensor_privacy_mic_blocked_no_exception_dialog_content">Dostęp do mikrofonu jest zablokowany w przypadku wszystkich aplikacji i usług. Możesz włączyć dostęp do mikrofonu, klikając Ustawienia > Prywatność > Mikrofon.</string>
+    <string name="sensor_privacy_mic_blocked_with_exception_dialog_content">Dostęp do mikrofonu jest zablokowany w przypadku wszystkich aplikacji i usług. Możesz to zmienić, klikając Ustawienia > Prywatność > Mikrofon.</string>
+    <string name="sensor_privacy_mic_turned_off_dialog_title">Mikrofon wyłączony</string>
+    <string name="sensor_privacy_mic_turned_on_dialog_title">Mikrofon włączony</string>
+    <string name="sensor_privacy_mic_unblocked_dialog_content">Mikrofon jest włączony w przypadku wszystkich aplikacji i usług.</string>
+    <string name="snoozeHourOptions">{count,plural, =1{# godzina}=2{# godziny}few{# godziny}many{# godzin}other{# godziny}}</string>
+    <string name="snoozeMinuteOptions">{count,plural, =1{# minuta}few{# minuty}many{# minut}other{# minuty}}</string>
+    <string name="sound_settings">Dźwięk i wibracje</string>
+    <string name="split_screen_text">Podzielony ekran</string>
+    <string name="stylus_battery_low_percentage">Pozostało %s baterii</string>
+    <string name="stylus_battery_low_subtitle">Podłącz rysik do ładowarki</string>
+    <string name="unlock_to_see_notif_text">Odblokuj i zobacz starsze powiadomienia</string>
+    <string name="user_add_user_message_guest_remove">"
+
+Dodanie nowego użytkownika spowoduje zamknięcie trybu gościa. Wszystkie aplikacje i dane z obecnej sesji gościa zostaną usunięte."</string>
+    <string name="user_grant_admin_message">Administrator będzie mógł zarządzać innymi użytkownikami, zmieniać ustawienia urządzenia i przywracać urządzenie do ustawień fabrycznych.</string>
+    <string name="user_grant_admin_title">Nadać uprawnienia administratora?</string>
+    <string name="video_camera">Kamera</string>
+    <string name="volume_panel_dialog_settings_button">Ustawienia</string>
+    <string name="wifi_unavailable_dream_overlay_content_description">Sieć Wi-Fi jest niedostępna</string>
+    <string name="wifitrackerlib_checking_for_internet_access">Sprawdzam dostęp do internetu…</string>
+    <string name="wifitrackerlib_wifi_disabled_transition_disable_indication">Brak dostępu przy obecnych ustawieniach bezpieczeństwa</string>
 </resources>

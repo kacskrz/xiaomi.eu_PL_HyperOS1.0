@@ -489,9 +489,9 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="deny_fine_keep_blur_location">Przybliżona lokalizacja</string>
   <string name="tilte_request_coarse_location">Zezwolić %1$s na dostęp do przybliżonej lokalizacji?</string>
   <string name="tilte_request_fine_location">Zezwolić %1$s na dostęp do dokładnej lokalizacji czy udzielić jej jedynie danych o przybliżonej lokalizacji?</string>
-  <string name="HIPS_Perm_operator_shake">Dostęp do danych z akcelerometra</string>
-  <string name="HIPS_Perm_operator_shake_Desc">Dane z akcelerometra są wykorzystywane do śledzenia orientacji i ruchu (np. potrząsania, przechylania czy obracania)</string>
-  <string name="permdesc_shake">Zezwolić %1$s na dostęp do danych z akcelerometra?</string>
+  <string name="HIPS_Perm_operator_shake">Dostęp do ruchu i orientacji urządzenia</string>
+  <string name="HIPS_Perm_operator_shake_Desc">W celu wykrywania pozycji urządzenia w przestrzeni, rozpoznawania potrząśnięć i orientacji</string>
+  <string name="permdesc_shake">Zezwolić \"%1$s\" na dostęp do sensorów urządzenia w celu wykrywania potrząśnięć i orientacji urządzenia?</string>
   <string name="permdesc_isolate_storage">Zezwolić %1$s na dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu?</string>
   <string name="permgroupdesc_read_media_aural">Zezwolić %1$s na dostęp do plików audio przechowywanych na urządzeniu?</string>
   <string name="permgroupdesc_read_media_visual">Zezwolić %1$s na dostęp do zdjęć i filmów przechowywanych na urządzeniu?</string>
@@ -499,4 +499,11 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="HIPS_Perm_operator_wall_paper_Desc">Zmiana tapet i domyślnych usług dot. dynamicznych tapet</string>
   <string name="deny_fine_keep_blur_location_dont_ask_again">Zawsze udostępniaj przybliżoną</string>
   <string name="permdesc_get_installed_apps">Zezwolić aplikacji \"%1$s\" na dostęp do informacji o zainstalowanych aplikacjach?</string>
+  <string name="call_notification_answer_action">Odbierz</string>
+  <string name="call_notification_answer_video_action">Wideo</string>
+  <string name="call_notification_decline_action">Odrzuć</string>
+  <string name="call_notification_hang_up_action">Rozłącz</string>
+  <string name="call_notification_incoming_text">Połączenie przychodzące</string>
+  <string name="call_notification_ongoing_text">Trwa połączenie</string>
+  <string name="call_notification_screening_text">Filtruję połączenie przychodzące</string>
 </resources>

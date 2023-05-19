@@ -5954,4 +5954,27 @@ Funkcja nie działa z ulepszonymi filmami.
 
 Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="vb_video_effects_immersion_sound_summary_new">Doświadcz immersji i poczucia przestrzeni, gdy odtwarzany jest kompatybilny dźwięk</string>
+    <string name="allow_onetime">Zezwól raz</string>
+    <string name="app_management_for_chain_start">Blokuj otwieranie innych aplikacji</string>
+    <string name="app_management_for_chain_start_desc">Nie pozwalaj tej aplikacji na łączenie się lub otwieranie innych aplikacji</string>
+    <string name="app_management_for_device_id">Ukryj identyfikatory i zapobiegaj śledzeniu</string>
+    <string name="app_management_for_device_id_desc">Nie pozwalaj tej aplikacji na dostęp do Twojego numeru telefonu i rozpoznawania informacji osobistych</string>
+    <string name="app_management_for_independent_storage">Izoluj dane podręczne</string>
+    <string name="app_management_for_independent_storage_desc">Zezwalaj aplikacji tylko na dostęp do jej własnych plików i danych</string>
+    <string name="app_management_for_install">Blokuj pobierania aplikacji</string>
+    <string name="app_management_for_install_desc">Nie pozwalaj tej aplikacji na pobieranie lub instalację innych aplikacji</string>
+    <string name="app_management_measures">Zarządzanie aplikacjami</string>
+    <string name="autostart_now_tip">"Zablokowano próbę otwarcia \"%2$s\" przez \"%1$s\" "</string>
+    <string name="chainstart_desc_for_exemption">Nieprzejrzana aplikacja \"%1$s\" otwiera \"%2$s\". Zachowaj ostrożność przy dokonywaniu płatności.</string>
+    <string name="cs_pickup_denoise_desc">Redukuj szum przychodzącego audio przy korzystaniu z głośników lub słuchawek</string>
+    <string name="cs_pickup_denoise_title">Redukcja szumów</string>
+    <string name="cta_main_purpose_new">"Witaj w Panelu sterowania! Możesz użyć tej aplikacji oraz jej modułów (takich jak komponenty bezpieczeństwa MIUI czy usługi systemowe) do zwalniania miejsca, skanowania antywirusowego, kontrolowania zużycia baterii, optymalizacji urządzenia pod kątem gier, zarządzania aplikacjami i wielu innych rzeczy."</string>
+    <string name="overlay_permission_dialog_comment">Zezwól Panelowi sterowania na pokazywanie elementów nad innymi aplikacjami.</string>
+    <string name="overlay_permission_dialog_comment_pad">Zezwól Panelowi sterowania na pokazywanie elementów nad innymi aplikacjami.</string>
+    <string name="overlay_permission_dialog_message">Aby móc działać normalnie, Panel sterowania wymaga uprawnień.</string>
+    <string name="overlay_permission_dialog_message_pad">Aby móc działać normalnie, Panel sterowania wymaga uprawnień.</string>
+    <string name="overlay_permission_dialog_open">Ustawienia</string>
+    <string name="overlay_permission_dialog_title">Wymagane uprawnienia</string>
+    <string name="permission_instruction_wall_paper">Nadaj to uprawnienie, aby zezwolić aplikacjom na zmianę domyślnych usług dynamicznych tapet i ich uruchamianie w tle.</string>
+    <string name="precise_location_title">Dokładna lokalizacja</string>
 </resources>

@@ -1994,4 +1994,15 @@
         <item>Tryb oszczędzania energii</item>
         <item>Stan procesu</item>
     </string-array>
+    <string-array name="bluetooth_audio_routing_titles">
+        <item>Decyduj automatycznie</item>
+        <item>Odtwarzaj na urządzeniu słuchowym</item>
+        <item>Odtwarzaj na głośniku telefonu</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Przesuń w lewo</item>
+        <item>Przesuń w dół</item>
+        <item>Przesuń w prawo</item>
+        <item>Przesuń do góry</item>
+    </string-array>
 </resources>

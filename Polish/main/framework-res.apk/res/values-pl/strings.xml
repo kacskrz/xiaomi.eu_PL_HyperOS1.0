@@ -2251,4 +2251,114 @@ Aby zmienić ten skrót i wskazać inną funkcję, kliknij Ustawienia > Ułatwie
     <string name="whichOpenLinksWith">Otwieraj linki w</string>
     <string name="whichOpenLinksWithApp">Otwieraj linki w aplikacji %1$s</string>
     <string name="work_profile_deleted_reason_maximum_password_failure">Zbyt wiele prób podania hasła</string>
+    <string name="app_streaming_blocked_title_for_playstore_dialog">Sklep Play niedostępny</string>
+    <string name="auto_data_switch_content">Możesz to zmienić w dowolnym momencie w Ustawieniach</string>
+    <string name="auto_data_switch_title">Przełączono mobilną transmisję danych na: %s</string>
+    <string name="clone_profile_label_badge">Klon aplikacji %1$s</string>
+    <string name="concurrent_display_notification_active_content">Aplikacja %1$s korzysta z obu wyświetlaczy, aby pokazać treści</string>
+    <string name="concurrent_display_notification_active_title">Włączono podwójny ekran</string>
+    <string name="concurrent_display_notification_name">Podwójny ekran</string>
+    <string name="concurrent_display_notification_thermal_content">Podwójny ekran jest niedostępny, ponieważ telefon za bardzo się nagrzewa</string>
+    <string name="concurrent_display_notification_thermal_title">Urządzenie jest za ciepłe</string>
+    <string name="csd_dose_reached_warning">"Ostrzeżenie
+Limit głośnych dźwięków, jakich przez tydzień możesz bezpiecznie słuchać przez słuchawki, został przekroczony.
+
+Przekroczenie limitu spowoduje trwałe uszkodzenie słuchu."</string>
+    <string name="csd_dose_repeat_warning">"Ostrzeżenie
+Limit głośnych dźwięków, jakich przez tydzień możesz bezpiecznie słuchać przez słuchawki, został 5-krotnie przekroczony.
+
+Głośność została zmniejszona, aby chronić Twój słuch."</string>
+    <string name="csd_entering_RS2_warning">"Poziom głośności, na jakim słuchasz multimediów, może spowodować uszkodzenie słuchu, jeśli będzie się utrzymywał przez dłuższy czas.
+
+Dalsze odtwarzanie na tym poziomie głośności przez dłuższy czas może uszkodzić Twój słuch."</string>
+    <string name="csd_momentary_exposure_warning">"Ostrzeżenie
+Słuchasz obecnie treści odtwarzanych na niebezpiecznym poziomie głośności.
+
+Dalsze słuchanie przy takiej głośności trwale uszkodzi Twój słuch."</string>
+    <string name="default_audio_route_name_external_device">Urządzenie zewnętrzne</string>
+    <string name="device_state_notification_turn_off_button">Wyłącz</string>
+    <string name="display_rotation_camera_compat_toast_after_rotation">Obróć, aby lepiej widzieć</string>
+    <string name="display_rotation_camera_compat_toast_in_split_screen">Zamknij podzielony ekran, aby lepiej widzieć</string>
+    <string name="dream_preview_title">Podgląd, %1$s</string>
+    <string name="face_acquired_dark_glasses_detected_alt">Wykryto ciemne okulary. Twarz musi być widoczna w całości.</string>
+    <string name="face_acquired_mouth_covering_detected_alt">Wykryto zasłonę twarzy. Twarz musi być widoczna w całości.</string>
+    <string name="face_acquired_recalibrate_alt">Nie można utworzyć modelu twarzy. Spróbuj ponownie.</string>
+    <string name="fingerprint_acquired_power_press">Wykryto naciśnięcie przycisku zasilania</string>
+    <string name="fingerprint_error_power_pressed">Naciśnięto przycisk zasilania</string>
+    <string name="fp_power_button_enrollment_button_text">Wyłącz</string>
+    <string name="hearing_aids_feature_name">Urządzenia słuchowe</string>
+    <string name="keyboard_layout_notification_more_than_three_selected_message">Układ klawiatury to %1$s, %2$s, %3$s… Dotknij, aby zmienić.</string>
+    <string name="keyboard_layout_notification_multiple_selected_message">Dotknij, aby wyświetlić klawiatury</string>
+    <string name="keyboard_layout_notification_multiple_selected_title">Skonfigurowano fizyczne klawiatury</string>
+    <string name="keyboard_layout_notification_one_selected_message">Układ klawiatury to %s. Dotknij, aby zmienić.</string>
+    <string name="keyboard_layout_notification_selected_title">%s configured</string>
+    <string name="keyboard_layout_notification_three_selected_message">Układ klawiatury to %1$s, %2$s, %3$s. Dotknij, aby zmienić.</string>
+    <string name="keyboard_layout_notification_two_selected_message">Układ klawiatury to %1$s, %2$s. Dotknij, aby zmienić.</string>
+    <string name="language_picker_regions_section_suggested">Sugerowane</string>
+    <string name="language_picker_section_suggested_bilingual">Sugerowane języki</string>
+    <string name="mic_access_off_toast">Mikrofon jest zablokowany</string>
+    <string name="mic_access_on_toast">Mikrofon jest dostępny</string>
+    <string name="mmiErrorNotSupported">Funkcja nie jest obsługiwana.</string>
+    <string name="permdesc_bodySensorsWristTemperature">Zezwala na dostęp aplikacji do pochodzących z czujnika na ciele danych temperatury na nadgarstku, kiedy aplikacja jest w użyciu.</string>
+    <string name="permdesc_bodySensors_wristTemperature_background">Zezwala na dostęp aplikacji do pochodzących z czujnika na ciele danych temperatury na nadgarstku, kiedy aplikacja działa w tle.</string>
+    <string name="permdesc_companionProfileWatch">Zezwala aplikacji towarzyszącej na zarządzanie zegarkami.</string>
+    <string name="permdesc_deliverCompanionMessages">Zezwala aplikacji towarzyszącej na wysyłanie wiadomości towarzyszących na inne urządzenia.</string>
+    <string name="permdesc_detectScreenCapture">Ta aplikacja będzie powiadamiana o zrzutach ekranu robionych po jej uruchomieniu.</string>
+    <string name="permdesc_foregroundServiceCamera">Zezwala na wykorzystywanie przez aplikację usług działających na pierwszym planie typu „camera”</string>
+    <string name="permdesc_foregroundServiceConnectedDevice">Zezwala na wykorzystywanie przez aplikację usług działających na pierwszym planie typu „connectedDevice”</string>
+    <string name="permdesc_foregroundServiceDataSync">Zezwala na wykorzystywanie przez aplikację usług działających na pierwszym planie typu „dataSync”</string>
+    <string name="permdesc_foregroundServiceFileManagement">Zezwala na wykorzystywanie przez aplikację usług działających na pierwszym planie typu „fileManagement”.</string>
+    <string name="permdesc_foregroundServiceHealth">Zezwala na wykorzystywanie przez aplikację usług działających na pierwszym planie typu „health”</string>
+    <string name="permdesc_foregroundServiceLocation">Zezwala na wykorzystywanie przez aplikację usług działających na pierwszym planie typu „location”</string>
+    <string name="permdesc_foregroundServiceMediaPlayback">Zezwala na wykorzystywanie przez aplikację usług działających na pierwszym planie typu „mediaPlayback”</string>
+    <string name="permdesc_foregroundServiceMediaProjection">Zezwala na wykorzystywanie przez aplikację usług działających na pierwszym planie typu „mediaProjection”</string>
+    <string name="permdesc_foregroundServiceMicrophone">Zezwala na wykorzystywanie przez aplikację usług działających na pierwszym planie typu „microphone”</string>
+    <string name="permdesc_foregroundServicePhoneCall">Zezwala na wykorzystywanie przez aplikację usług działających na pierwszym planie typu „phoneCall”</string>
+    <string name="permdesc_foregroundServiceRemoteMessaging">Zezwala na wykorzystywanie przez aplikację usług działających na pierwszym planie typu „remoteMessaging”</string>
+    <string name="permdesc_foregroundServiceSpecialUse">Zezwala na wykorzystywanie przez aplikację usług działających na pierwszym planie typu „specialUse”</string>
+    <string name="permdesc_foregroundServiceSystemExempted">Zezwala na wykorzystywanie przez aplikację usług działających na pierwszym planie typu „systemExempted”</string>
+    <string name="permdesc_hideOverlayWindows">Ta aplikacja może prosić o ukrywanie przez system nakładek pochodzących z innych aplikacji wyświetlanych ponad nią.</string>
+    <string name="permdesc_observeCompanionDevicePresence">Zezwala aplikacji towarzyszącej na wykrywanie obecności urządzenia towarzyszącego, gdy urządzenia znajdują się blisko siebie lub daleko od siebie.</string>
+    <string name="permdesc_readVisualUserSelect">Zezwala na odczyt przez aplikację plików obrazów i filmów wybranych w pamięci współdzielonej.</string>
+    <string name="permdesc_schedule_exact_alarm">Ta aplikacja może planować zadania do wykonania w określonym czasie w przyszłości. Oznacza to też, że aplikacja może działać również wtedy, gdy nie używasz urządzenia.</string>
+    <string name="permdesc_sec_dnd">Włącza tryb Nie przeszkadzać na drugiej karcie SIM.</string>
+    <string name="permdesc_startForegroundServicesFromBackground">Zezwala aplikacji towarzyszącej na uruchamianie usług działających na pierwszym planie, podczas gdy sama działa w tle.</string>
+    <string name="permdesc_turnScreenOn">Zezwala aplikacji na włączanie ekranu.</string>
+    <string name="permdesc_use_exact_alarm">Ta aplikacja może planować działania, takie jak uruchamianie alarmów czy wysyłanie przypomnień, do wykonania w określonym czasie w przyszłości.</string>
+    <string name="permlab_bodySensorsWristTemperature">Dostęp do pochodzących z czujnika na ciele danych temperatury na nadgarstku, kiedy aplikacja jest w użyciu.</string>
+    <string name="permlab_bodySensors_wristTemperature_background">Dostęp do pochodzących z czujnika na ciele danych temperatury na nadgarstku, kiedy aplikacja działa w tle.</string>
+    <string name="permlab_companionProfileWatch">Uprawnienie profilu zegarka towarzyszącego do zarządzania zegarkami</string>
+    <string name="permlab_deliverCompanionMessages">Wysyłanie wiadomości towarzyszących</string>
+    <string name="permlab_detectScreenCapture">wykrywanie zrzutów ekranu z oknami aplikacji</string>
+    <string name="permlab_foregroundServiceCamera">uruchamianie usług działających na pierwszym planie typu „camera”</string>
+    <string name="permlab_foregroundServiceConnectedDevice">uruchamianie usług działających na pierwszym planie typu „connectedDevice”</string>
+    <string name="permlab_foregroundServiceDataSync">uruchamianie usług działających na pierwszym planie typu „dataSync”</string>
+    <string name="permlab_foregroundServiceFileManagement">Uruchamianie usług działających na pierwszym planie typu „fileManagement”</string>
+    <string name="permlab_foregroundServiceHealth">uruchamianie usług działających na pierwszym planie typu „health”</string>
+    <string name="permlab_foregroundServiceLocation">uruchamianie usług działających na pierwszym planie typu „location”</string>
+    <string name="permlab_foregroundServiceMediaPlayback">uruchamianie usług działających na pierwszym planie typu „mediaPlayback”</string>
+    <string name="permlab_foregroundServiceMediaProjection">uruchamianie usług działających na pierwszym planie typu „mediaProjection”</string>
+    <string name="permlab_foregroundServiceMicrophone">uruchamianie usług działających na pierwszym planie typu „microphone”</string>
+    <string name="permlab_foregroundServicePhoneCall">uruchamianie usług działających na pierwszym planie typu „phoneCall”</string>
+    <string name="permlab_foregroundServiceRemoteMessaging">uruchamianie usług działających na pierwszym planie typu „remoteMessaging”</string>
+    <string name="permlab_foregroundServiceSpecialUse">uruchamianie usług działających na pierwszym planie typu „specialUse”</string>
+    <string name="permlab_foregroundServiceSystemExempted">uruchamianie usług działających na pierwszym planie typu „systemExempted”</string>
+    <string name="permlab_hideOverlayWindows">ukrywanie nakładek z innych aplikacji</string>
+    <string name="permlab_observeCompanionDevicePresence">Wykrywanie obecności urządzenia towarzyszącego</string>
+    <string name="permlab_readVisualUserSelect">odczyt plików obrazów i filmów wybranych przez użytkownika w pamięci współdzielonej</string>
+    <string name="permlab_schedule_exact_alarm">Planowanie działań do wykonania w precyzyjnie określonym czasie</string>
+    <string name="permlab_startForegroundServicesFromBackground">Uruchamianie usług na pierwszym planie podczas działania w tle</string>
+    <string name="permlab_turnScreenOn">włączanie ekranu</string>
+    <string name="permlab_use_exact_alarm">Ustawianie alarmów i przypomnień o wydarzeniach</string>
+    <string name="permlabel_sec_dnd">Tryb Nie przeszkadzać dla drugiej karty SIM</string>
+    <string name="rating_label">{rating,plural, =1{1 gwiazdka na {max}}few{# gwiazdki na {max}}many{# gwiazdek na {max}}other{# gwiazdki na {max}}}</string>
+    <string name="region_picker_section_suggested_bilingual">Sugerowane regiony</string>
+    <string name="usb_uvc_notification_title">Urządzenie połączone jako kamera internetowa</string>
+    <string name="vdm_pip_blocked">Podczas strumieniowania nie można wyświetlać obrazu w obrazie</string>
+    <string name="vdm_secure_window">Nie można z tego skorzystać podczas strumieniowania. Użyj telefonu.</string>
+    <string name="work_mode_dialer_off_message">Uzyskaj dostęp do służbowych aplikacji i połączeń</string>
+    <string name="work_mode_emergency_call_button">Połączenie alarmowe</string>
+    <string name="work_profile_telephony_paused_text">Aplikacje służbowe zostały wstrzymane. Nie będziesz otrzymywać połączeń telefonicznych ani SMS-ów.</string>
+    <string name="work_profile_telephony_paused_title">Połączenia i wiadomości są wyłączone</string>
+    <string name="work_profile_telephony_paused_turn_on_button">Cofnij wstrzymanie aplikacji służbowych</string>
 </resources>

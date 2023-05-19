@@ -252,4 +252,11 @@
   <string name="miuix_indexer_selected">Wybrano %s</string>
   <string name="bluetooth_broadcast_status">Transmisja wł.</string>
   <string name="broadcast_notification_name">Stan transmisji</string>
+  <string name="call_notification_answer_action">Odbierz</string>
+  <string name="call_notification_answer_video_action">Wideo</string>
+  <string name="call_notification_decline_action">Odrzuć</string>
+  <string name="call_notification_hang_up_action">Rozłącz</string>
+  <string name="call_notification_incoming_text">Połączenie przychodzące</string>
+  <string name="call_notification_ongoing_text">Trwa połączenie</string>
+  <string name="call_notification_screening_text">Filtruję połączenie przychodzące</string>
 </resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_authorization_timeout_summary">Wyłącz automatyczne anulowanie autoryzacji adb w przypadku systemów, które nie połączyły się ponownie w czasie domyślnym (7 dni) lub skonfigurowanym przez użytkownika (co najmniej 1 dzień).</string>
+    <string name="app_notifications_off_desc">Nie zezwalasz na powiadomienia z tej aplikacji</string>
+    <string name="battery_saver_sticky_description_new">Oszczędzanie baterii wyłączy się, gdy jej poziom wyniesie %1$s</string>
+    <string name="battery_tip_limited_temporarily_summary">Ze względu na żywotność baterii ładowanie jest zoptymalizowane</string>
+    <string name="battery_tip_limited_temporarily_title">Ładowanie zoptymalizowane w celu ochrony baterii</string>
+    <string name="bluetooth_profile_pbap">Udostępnianie kontaktów</string>
+    <string name="reset_app_preferences_desc">"To działanie zresetuje wszystkie ustawienia dotyczące:
+
+"<li>wyłączonych aplikacji,</li>"
+"<li>wyłączonych powiadomień aplikacji,</li>"
+"<li>domyślnych aplikacji dla wybranych czynności,</li>"
+"<li>ograniczeń użycia danych w tle dla aplikacji,</li>"
+"<li>wszelkich ograniczeń dostępu,</li>"
+"<li>ustawień wykorzystania baterii.</li>"
+
+Nie utracisz żadnych danych aplikacji."</string>
+    <string name="screen_resolution_footer">Pełna rozdzielczość bardziej zużywa baterię. Po przełączeniu rozdzielczości niektóre aplikacje mogą wymagać ponownego uruchomienia.</string>
+    <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Spróbuj ponownie lub skonfiguruj odcisk palca później w Ustawieniach</string>
+    <string name="security_settings_fingerprint_enroll_finish_v2_message">Możesz teraz używać odcisku palca do odblokowywania telefonu oraz potwierdzania tożsamości, na przykład podczas logowania się w aplikacjach i zatwierdzania zakupów</string>
+    <string name="storage_internal_format_details">"Możesz sformatować tę kartę SD tak, aby przechowywać na niej zdjęcia, filmy, muzykę oraz inne treści i korzystać z nich na różnych urządzeniach. 
+
+"<b>Wszystkie dane na tej karcie SD zostaną wykasowane.</b>" 
+
+"<b>Przed formatowaniem</b>" 
+
+"<b>Utwórz kopię zapasową zdjęć i innych multimediów</b>" 
+Przenieś pliki multimediów do innych miejsc na dane na tym urządzeniu lub na komputer, korzystając z kabla USB. 
+
+"<b>Utwórz kopię zapasową wszystkich aplikacji</b>" 
+Wszystkie aplikacje znajdujące się na tym nośniku ^1 zostaną odinstalowane, a ich dane – usunięte. Aby zachować aplikacje, przenieś je w inne miejsce na tym urządzeniu."</string>
+    <string name="storage_menu_format">Sformatuj kartę SD jako pamięć przenośną</string>
+    <string name="storage_wizard_init_v2_external_action">Sformatuj</string>
+    <string name="storage_wizard_init_v2_external_summary">Przechowuj zdjęcia, filmy, muzykę oraz inne treści i korzystaj z nich na różnych urządzeniach. &lt;a href=https://support.google.com/android/answer/12153449>Więcej informacji o konfigurowaniu kart SD&lt;/a></string>
+    <string name="storage_wizard_init_v2_external_title">Sformatuj kartę SD jako pamięć przenośną</string>
+    <string name="storage_wizard_init_v2_internal_action">Sformatuj</string>
+    <string name="storage_wizard_init_v2_internal_summary">Przechowuj aplikacje i multimedia tylko do użytku na tym telefonie. &lt;a href=https://support.google.com/android/answer/12153449>Więcej informacji o konfigurowaniu kart SD&lt;/a></string>
+    <string name="storage_wizard_init_v2_internal_title">Sformatuj kartę SD jako pamięć wewnętrzną</string>
+    <string name="storage_wizard_init_v2_later">Skonfiguruj później</string>
+    <string name="storage_wizard_init_v2_or">lub</string>
+    <string name="storage_wizard_init_v2_title">Jak będziesz używać nośnika ^1?</string>
+    <string name="storage_wizard_ready_v2_external_body">Możesz zacząć używać nośnika ^1</string>
+    <string name="storage_wizard_ready_v2_internal_body">Możesz zacząć używać nośnika ^1</string>
+    <string name="storage_wizard_ready_v2_internal_moved_body">Możesz zacząć używać nośnika ^1</string>
+</resources>
