@@ -379,4 +379,5 @@
   <string name="permission_go_to_settings">Ustawienia</string>
   <string name="permission_requesr_content">Zezwól tej aplikacji na łączenie się z urządzeniami w pobliżu w Ustawieniach.</string>
   <string name="permission_requesr_title">Wymagane uprawnienia</string>
+  <string name="effect_virtual_surround_summary_spk">Zwiększ głębię dźwięku w odtwarzanych utworach i filmach</string>
 </resources>

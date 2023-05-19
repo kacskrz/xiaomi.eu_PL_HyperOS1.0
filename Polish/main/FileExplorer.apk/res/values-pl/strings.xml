@@ -1065,4 +1065,7 @@ Spróbuj przenieść pliki z urządzenia do Mi Drive."</string>
     <string name="miuix_appcompat_select_item">Wybierz elementy</string>
     <string name="pad_homepage_tab_file_view_phone">Tablet</string>
     <string name="pad_start_phone">Pamięć</string>
+    <string name="operation_copy_clipboard">Kopiuj do schowka</string>
+    <string name="operation_copy_local">Kopiuj do folderu</string>
+    <string name="toast_copy_clipboard">Skopiowano do schowka</string>
 </resources>

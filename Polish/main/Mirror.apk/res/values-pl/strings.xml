@@ -32,7 +32,7 @@
     <string name="clearable_edittext_clear_description">Wyczyść</string>
     <string name="copy">Kopiuj</string>
     <string name="date_picker_lunar">Chiński kalendarz</string>
-    <string name="default_boss_terminal_name">Mi Notebook</string>
+    <string name="default_boss_terminal_name">Laptop Xiaomi</string>
     <string name="display_max_screen_count_toast">W tej wersji możesz otworzyć maks. 3 okna</string>
     <string name="display_not_support_secondary_toast">"Nie można otworzyć tej aplikacji w nowym oknie"</string>
     <string name="download_cancel">Anuluj</string>
@@ -140,7 +140,7 @@
     <string name="search_menu_title">Szukaj</string>
     <string name="settings_connect">Jak się połączyć</string>
     <string name="settings_connect_more_help"><u>Pomoc</u></string>
-    <string name="settings_connect_summary1">Pobierz i zainstaluj aplikację MIUI+ Beta na komputerze ze strony: https://plus.miui.com.</string>
+    <string name="settings_connect_summary1">Na swoim komputerze otwórz Mi Smart Share, a następnie wybierz \"Screen Combo\". Możesz pobrać Mi Smart Share ze strony www.miui.com.</string>
     <string name="settings_connect_summary2">Zeskanuj kod QR na komputerze za pomocą telefonu. Możesz do tego wykorzystać różne aplikacje systemowe (np. Skaner, Aparat czy Przeglądarkę).</string>
     <string name="settings_connect_title1">Krok 1.</string>
     <string name="settings_connect_title2">Krok 2.</string>
@@ -392,7 +392,7 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="lock_layout_sub">Odblokuj, aby kontynuować</string>
     <string name="lock_layout_title">Komputer jest zablokowany</string>
     <string name="low_battery_notification_action">Włącz</string>
-    <string name="low_battery_notification_content">Na urządzeniu %1$s pozostało mniej niż %2$d%% baterii. Włącz Oszczędzanie baterii.</string>
+    <string name="low_battery_notification_content">Na urządzeniu %1$s pozostało mniej niż %2$s baterii</string>
     <string name="low_battery_notification_title">Niski poziom baterii</string>
     <string name="notify_clip_action_browser">Odwiedź</string>
     <string name="notify_clip_action_call">Zadzwoń</string>
@@ -528,4 +528,9 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="softap_dialog_cancel">Anuluj</string>
     <string name="softap_dialog_message">"W pobliżu nie ma sieci Wi-Fi. Połączyć się z hotspotem?"</string>
     <string name="softap_dialog_title">Połącz się z %1$s</string>
+    <string name="low_battery_notification_content_default">Bateria telefonu ma mniej niż %1$s</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc">"Nie udało się połączyć z komputerem. Upewnij się, że na obu urządzeniach są włączone Wi-Fi i Bluetooth."</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">"Nie udało się połączyć z komputerem. Upewnij się, że na obu urządzeniach są włączone Wi-Fi i Bluetooth."</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Nie udało się połączyć z komputerem. Upewnij się, że na zarówno na telefonie, jak i komputerze są włączone Wi-Fi i Bluetooth, a na komputerze uruchomione jest MIUI+."</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Nie udało się połączyć z komputerem. Upewnij się, że na zarówno na telefonie, jak i komputerze są włączone Wi-Fi i Bluetooth, a na komputerze uruchomione jest MIUI+."</string>
 </resources>

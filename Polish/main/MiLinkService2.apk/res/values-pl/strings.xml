@@ -603,4 +603,7 @@ i zaloguj się na swoje konto Xiaomi"</string>
     <string name="guide_page_subtitle_earphones">"Przeciągaj słuchawki między telefonem, tabletem i telewizorem, aby szybko przekierować połączenie do innego urządzenia"</string>
     <string name="guide_page_title_earphones">Szybkie przełączanie</string>
     <string name="toast_nfc_same_wifi">Połącz telewizor i to urządzenie z tą samą siecią</string>
+    <string name="onehop_mirror_guide_message_button">Rozumiem</string>
+    <string name="onehop_mirror_guide_message_text_1">Udostępnij ekran telefonu na komputerze jednym dotknięciem.</string>
+    <string name="onehop_mirror_guide_message_text_2">Wybierz zdjęcia, filmy i inne pliki z Galerii lub Plików, aby przesłać je na komputer.</string>
 </resources>
