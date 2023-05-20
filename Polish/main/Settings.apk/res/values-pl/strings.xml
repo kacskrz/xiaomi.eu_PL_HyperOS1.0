@@ -1850,7 +1850,6 @@ Ustawienie dotyczy wszystkich użytkowników tego urządzenia."</string>
   <string name="date_and_time_settings_summary">Ustaw datę, godzinę, strefę czasową i formaty.</string>
   <string name="date_and_time_settings_title">Data i czas</string>
   <string name="date_and_time_settings_title_setup_wizard">Ustaw datę i godzinę</string>
-  <string name="date_picker_title">Data</string>
   <string name="date_time_24hour">Format 24-godzinny</string>
   <string name="date_time_24hour_title">Format 24-godzinny</string>
   <string name="date_time_24hour_auto">Automatyczny format 24-godzinny</string>
@@ -3492,8 +3491,6 @@ Powinien on mieć tyle samo znaków co PIN w Głównej przestrzeni."</string>
   <string name="lockpassword_password_requires_digit">Musi zawierać co najmniej jedną cyfrę.</string>
   <string name="lockpassword_password_requires_symbol">Musi zawierać co najmniej jeden symbol.</string>
   <string name="lockpassword_password_set_toast">Hasło zostało ustawione</string>
-  <string name="lockpassword_password_too_long">Musi mieć mniej znaków niż %d.</string>
-  <string name="lockpassword_password_too_short">Musi mieć min. %d znaki</string>
   <string name="lockpassword_pattern_set_toast">Wzór został ustawiony</string>
   <string name="lockpassword_pin_contains_non_digits">PIN musi składać się wyłącznie z cyfr 0-9</string>
   <string name="lockpassword_pin_fixed_length">PIN musi składać się z %d cyfr</string>
@@ -4435,7 +4432,6 @@ Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
   <string name="oldman_uninstalled_btn">Zainstaluj</string>
   <string name="oldman_uninstalled_des">Tryb Lite upraszcza wygląd systemu, dostosowując go do potrzeb starszych osób.</string>
   <string name="on">Wł.</string>
-  <string name="one_cacrt">jeden certyfikat CA</string>
   <string name="one_usercrt">jeden certyfikat użytkownika</string>
   <string name="one_userkey">jeden klucz użytkownika</string>
   <string name="onehour">30 min</string>
@@ -6073,8 +6069,6 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="spellcheckers_settings_title">Sprawdzanie pisowni</string>
   <string name="split_screen">Przejdź do dzielonego ekranu</string>
   <string name="ssid_label">SSID:</string>
-  <string name="ssl_ca_cert_dialog_title">Monitorowanie sieci</string>
-  <string name="ssl_ca_cert_settings_button">Sprawdź zaufane dane uwierzytelniające</string>
   <string name="ssl_ca_cert_warning">Sieć może być monitorowana</string>
   <string name="ssl_ca_cert_warning_message">"Podmiot zewnętrzny może monitorować Twoją aktywność w sieci (np. e-maile, aplikacje i bezpieczne strony).
 
@@ -9178,8 +9172,6 @@ w okresie ^2"</string>
     <string name="battery_usage_chart_graph_hint">Poziom naładowania baterii w ciągu ostatnich 24 godzin</string>
     <string name="battery_usage_for_background_time">W tle: %s</string>
     <string name="battery_usage_for_total_time">Łącznie: %s</string>
-    <string name="battery_usage_screen_footer">Dane o wykorzystaniu baterii są przybliżone i nie są mierzone podczas ładowania telefonu</string>
-    <string name="battery_usage_screen_footer_empty">Dane o wykorzystaniu baterii będą dostępne po kilku godzinach używania telefonu</string>
     <string name="battery_usage_total_less_than_one_minute">Łącznie: niecała minuta</string>
     <string name="biometric_settings_category_ways_to_unlock">Sposoby odblokowywania</string>
     <string name="biometric_settings_category_ways_to_use">Używaj rozpoznawania twarzy i odcisku palca</string>
@@ -12632,7 +12624,6 @@ Połączenia, wiadomości i ruch w sieci mogą być widoczne dla organizacji."</
     <string name="auto_pin_confirm_user_message">Automatycznie potwierdzaj poprawny kod PIN</string>
     <string name="auto_zone_requires_location_summary">Po włączeniu tego przełącznika lokalizacja będzie używana do ustawiania strefy czasowej</string>
     <string name="autofill_passwords_count">{count,plural, =1{# hasło}few{# hasła}many{# haseł}other{# hasła}}</string>
-    <string name="automatic_brightness_close_for_virtual_light_sensor">Wyłącz Odblokowanie za pomocą twarzy, aby automatycznie dostosowywać jasność</string>
     <string name="background_install_after">{count,plural, =1{Aplikacja zainstalowana ponad miesiąc temu}few{Aplikacja zainstalowana ponad # miesiące temu}many{Aplikacja zainstalowana ponad # miesięcy temu}other{Aplikacja zainstalowana ponad # miesiąca temu}}</string>
     <string name="background_install_before">{count,plural, =1{Aplikacje zainstalowane w ostatnim miesiącu}few{Aplikacje zainstalowane w ciągu ostatnich # miesięcy}many{Aplikacje zainstalowane w ciągu ostatnich # miesięcy}other{Aplikacje zainstalowane w ciągu ostatniego # miesiąca}}</string>
     <string name="background_install_feature_list_no_entry">Brak aplikacji zainstalowanych w tle</string>
@@ -13173,9 +13164,6 @@ Formatowanie spowoduje wykasowanie dotychczasowej zawartości nośnika ^2. Aby u
     <string name="user_revoke_admin_confirm_title">Odebrać uprawnienia administratora?</string>
     <string name="wednesday_first_day_of_week">Środa</string>
     <string name="wifi_eap_min_tls_ver">Minimalna wersja TLS</string>
-    <string name="wifi_hotspot_maximize_compatibility">Zwiększ zgodność</string>
-    <string name="wifi_hotspot_maximize_compatibility_dual_ap_summary">Ułatwia znajdowanie tego hotspota przez inne urządzenia. Zwiększa zużycie baterii.</string>
-    <string name="wifi_hotspot_maximize_compatibility_single_ap_summary">Ułatwia znajdowanie tego hotspota przez inne urządzenia. Zmniejsza szybkość połączenia hotspota.</string>
     <string name="wifi_saved_access_points_summary">{count,plural, =1{1 sieć}few{# sieci}many{# sieci}other{# sieci}}</string>
     <string name="wifi_saved_all_access_points_summary">{count,plural, =1{1 sieć i abonament}few{# sieci i abonamenty}many{# sieci i abonamentów}other{# sieci i abonamentu}}</string>
     <string name="wifi_saved_passpoint_access_points_summary">{count,plural, =1{1 subskrypcja}few{# subskrypcje}many{# subskrypcji}other{# subskrypcji}}</string>

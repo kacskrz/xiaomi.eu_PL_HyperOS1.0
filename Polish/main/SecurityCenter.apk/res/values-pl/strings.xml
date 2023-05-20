@@ -5975,6 +5975,5 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="overlay_permission_dialog_message_pad">Aby móc działać normalnie, Panel sterowania wymaga uprawnień.</string>
     <string name="overlay_permission_dialog_open">Ustawienia</string>
     <string name="overlay_permission_dialog_title">Wymagane uprawnienia</string>
-    <string name="permission_instruction_wall_paper">Nadaj to uprawnienie, aby zezwolić aplikacjom na zmianę domyślnych usług dynamicznych tapet i ich uruchamianie w tle.</string>
     <string name="precise_location_title">Dokładna lokalizacja</string>
 </resources>

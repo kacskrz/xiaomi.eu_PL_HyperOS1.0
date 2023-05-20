@@ -2558,7 +2558,6 @@ Czy nadal je pokazywać?"</string>
     <string name="recents_quick_scrub_onboarding">Pociągnij w prawo, aby szybko przełączać się między aplikacjami</string>
     <string name="recents_swipe_up_onboarding">Przeciągnij w górę, aby przełączać aplikacje</string>
     <string name="remote_input_image_insertion_text">wysłano obraz</string>
-    <string name="restart_button_description">Kliknij, by uruchomić tę aplikację ponownie i przejść w tryb pełnoekranowy.</string>
     <string name="ring_toggle_title">Połączenia</string>
     <string name="screen_pinning_can_open_other_apps">Przypięta aplikacja może otwierać inne aplikacje.</string>
     <string name="screen_pinning_description_gestural">Ekran będzie widoczny, dopóki go nie odepniesz. Przesuń palcem w górę i przytrzymaj, by odpiąć.</string>

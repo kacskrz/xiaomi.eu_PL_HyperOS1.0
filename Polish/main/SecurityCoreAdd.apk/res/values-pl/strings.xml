@@ -9,7 +9,6 @@ ta funkcja zostanie dodana do drugiego profilu automatycznie."</string>
   <string name="about_ent_mode">O trybie firmowym</string>
   <string name="activate_ent_mode">Aktywuj tryb firmowy</string>
   <string name="add_finger_print">Dodaj odcisk palca</string>
-  <string name="agree">Zgoda</string>
   <string name="air_space_created">Pomyślnie utworzono przestrzeń roboczą</string>
   <string name="air_space_deleted">Pomyślnie usunięto przestrzeń roboczą</string>
   <string name="air_space_exit">Opuść przestrzeń</string>
@@ -92,7 +91,6 @@ ta funkcja zostanie dodana do drugiego profilu automatycznie."</string>
   <string name="dialog_verify_fingerprint_retry">Nie można zweryfikować odcisku. Spróbuj ponownie.</string>
   <string name="dir_switch_out_all_photos">Galeria drugiego profilu</string>
   <string name="disable">Wyłącz</string>
-  <string name="disagree">"Nie zgadzam się"</string>
   <string name="do_not_ask">Nie pytaj ponownie</string>
   <string name="dont_import">Nie teraz</string>
   <string name="downloading_space">Pobieranie…</string>
@@ -713,7 +711,6 @@ Jeśli przytrzymasz przycisk przez %s sekund, wywołasz menu wyłączania telefo
     <string name="mi_pay_summary">Karta miejska/Mi Pay/Klucz elektroniczny</string>
     <string name="miuix_appcompat_edit">Edytuj</string>
     <string name="mtrl_badge_numberless_content_description">Nowe powiadomienie</string>
-    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
     <string name="mtrl_chip_close_icon_content_description">Usuń: (%1$s)</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Liczba nowych powiadomień przekracza %1$d</string>
     <string name="mtrl_picker_a11y_next_month">Zmień na następny miesiąc</string>
