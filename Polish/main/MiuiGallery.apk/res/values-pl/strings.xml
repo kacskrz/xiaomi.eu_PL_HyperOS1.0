@@ -3679,4 +3679,6 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="transfer_dialog_title">Chmura Xiaomi została zastąpiona kopią zapasową Zdjęć Google</string>
   <string name="transfer_service_msg">Usługi synchronizacji Chmury Xiaomi zostały zastąpione kopią zapasową Zdjęć Google. Nie można już pobrać niezsynchronizowanych elementów.</string>
   <string name="upload_progress_message">"Usługi synchronizacji Chmury Xiaomi zostały zastąpione kopią zapasową Zdjęć Google. Musimy sprawdzić elementy znajdujące się na tym urządzeniu i w chmurze, aby mieć pewność, że nie stracisz niczego ważnego. Proces może zająć kilka minut. Nie opuszczaj Galerii, dopóki się on nie zakończy."</string>
+  <string name="added_to_clipboard_toast">Pomyślnie skopiowano</string>
+  <string name="operation_copy_to_clipboard">Kopiuj</string>
 </resources>

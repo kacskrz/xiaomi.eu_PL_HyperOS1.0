@@ -2450,4 +2450,60 @@ Obrazy Ultra RAW pozwalają zaoszczędzić %d bitów danych, zachowując jeszcze
     <string name="tv_picturestyle_custom_texture">Tekstura</string>
     <string name="tv_picturestyle_custom_tone">Odcień</string>
     <string name="watermark_choose_one_tip_film">Do każdego zdjęcia możesz dodać tylko jeden znak wodny.</string>
+    <string name="beauty_makeups_bms">Balet</string>
+    <string name="beauty_makeups_lts">Wdzięk</string>
+    <string name="beauty_makeups_mll">Porcelana</string>
+    <string name="beauty_makeups_myq">Beż</string>
+    <string name="beauty_makeups_qcy">Seledyn</string>
+    <string name="beauty_makeups_xqc">Fresk</string>
+    <string name="friend_exit_dialog_message">Jeśli przejdziesz dalej, urządzenia zostaną rozłączone. Zakończyć sesję?</string>
+    <string name="friend_exit_dialog_title">Zakończyć sesję Asystenta aparatu?</string>
+    <string name="friend_mode_cast_inviting">%1$s chce połączyć się z tym urządzeniem</string>
+    <string name="friend_mode_description_content">Asystent aparatu umożliwia współdzielenie podglądu na żywo pomiędzy dwoma urządzeniami podłączonymi do tej samej sieci i robienie zdjęć jednym urządzeniem za pomocą drugiego.</string>
+    <string name="friend_mode_description_title">O Asystencie aparatu</string>
+    <string name="friend_mode_gallery_toast">Wygląda na to, że podczas sesji nie zrobiono ani jednego zdjęcia</string>
+    <string name="friend_mode_intro_1_content">Trzymaj obydwa urządzenia w odległości nie większej niż %s metrów od siebie i otwórz Asystenta aparatu na nich.</string>
+    <string name="friend_mode_intro_1_title">%d. Otwórz Asystenta aparatu</string>
+    <string name="friend_mode_intro_2_content">"Aby urządzenia były dla siebie widoczne, podłącz je do tej samej sieci Wi-Fi lub połącz je za pośrednictwem hotspotu.
+Łączenie urządzeń za pośrednictwem hotspotu może być lepszą opcją, ponieważ zewnętrzne sieci Wi-Fi mogą uniemożliwić wykrycie urządzeń."</string>
+    <string name="friend_mode_intro_2_content_china">"Aby urządzenia były dla siebie widoczne, podłącz je do tej samej sieci Wi-Fi lub połącz je za pośrednictwem hotspotu.
+Łączenie urządzeń za pośrednictwem hotspotu może być lepszą opcją, ponieważ zewnętrzne sieci Wi-Fi mogą uniemożliwić wykrycie urządzeń."</string>
+    <string name="friend_mode_intro_2_title">%d. Połącz ze sobą urządzenia</string>
+    <string name="friend_mode_intro_3_content">"Wybierz urządzenie, z którym chcesz się połączyć, wyślij zaproszenie i zaakceptuj je na tym urządzeniu.
+Używaj Asystenta aparatu w stabilnym środowisku sieciowym; w przeciwnym razie mogą wystąpić opóźnienia.
+Jeśli używasz hotspotu do łączenia się z siecią, ustaw jego pasmo AP na %s GHz w Ustawieniach > Hotspot > Skonfiguruj hotspot Wi-Fi."</string>
+    <string name="friend_mode_intro_3_title">%d. Rozpocznij sesję</string>
+    <string name="friend_mode_introduction_content">Asystent aparatu umożliwia współdzielenie podglądu na żywo pomiędzy dwoma urządzeniami i robienie zdjęć jednym urządzeniem za pomocą drugiego.</string>
+    <string name="friend_mode_introduction_title">O Asystencie aparatu</string>
+    <string name="friend_mode_network_connection_prerequisites">Połącz się z siecią Wi-Fi lub hotspotem, aby móc używać Asystenta aparatu.</string>
+    <string name="friend_mode_network_connection_prerequisites_china">Połącz się z siecią Wi-Fi lub hotspotem, aby móc używać Asystenta aparatu.</string>
+    <string name="friend_mode_not_found_device">Nie udało się znaleźć urządzeń</string>
+    <string name="friend_mode_re_searching">Szukaj ponownie</string>
+    <string name="friend_mode_searching">Wyszukiwanie urządzeń…</string>
+    <string name="friend_mode_searching_tips">Połącz dwa urządzenia do tej samej sieci Wi-Fi lub hotspotu i otwórz Asystenta aparatu, aby móc robić zdjęcia jednym urządzeniem za pomocą drugiego.</string>
+    <string name="friend_mode_searching_tips_china">Połącz dwa urządzenia do tej samej sieci Wi-Fi lub hotspotu i otwórz Asystenta aparatu, aby móc robić zdjęcia jednym urządzeniem za pomocą drugiego.</string>
+    <string name="friend_mode_select_device">Wybierz urządzenie asystujące</string>
+    <string name="friend_mode_transfer_picture">Przesyłanie zdjęć…</string>
+    <string name="function_friend_mode">Asystent aparatu</string>
+    <string name="guide_pop_window_msg_softlight">Dotknij, aby dostosować miękkie światło</string>
+    <string name="pref_camera_flashmode_entry_softlight">Miękkie światło</string>
+    <string name="softlight_fragment_lighting_mode_brightness">Jasność</string>
+    <string name="softlight_fragment_lighting_mode_candle">Świeca</string>
+    <string name="softlight_fragment_lighting_mode_color_temp">Temperatura</string>
+    <string name="softlight_fragment_tab_name">Miękkie światło</string>
+    <string name="softlight_fragment_tab_name_brightness">Jasność</string>
+    <string name="softlight_fragment_tab_name_color_temp">Temperatura</string>
+    <string name="softlight_fragment_tab_name_lighting_mode">Pętla</string>
+    <string name="sorftlight_style_candle">Świeca</string>
+    <string name="sorftlight_style_cole_white">Chłodny</string>
+    <string name="sorftlight_style_warm_white">Ciepły</string>
+    <string name="tip_friend_mode_connect_when_24GHz">Aby poprawić jakość podglądu, użyj połączenia z pasmem %s GHz</string>
+    <string name="tip_friend_mode_display_device_name_connect">Dzielony podgląd</string>
+    <string name="tip_friend_mode_display_device_name_disconnect">Drugie urządzenie opuściło sesję</string>
+    <string name="tip_friend_mode_display_device_name_force_exit">Drugie urządzenie rozłączyło się</string>
+    <string name="tip_friend_mode_initiative_connect_error">Utracono połączenie. Połącz ponownie.</string>
+    <string name="tip_friend_mode_passive_connect_error">Utracono sygnał drugiego urządzenia. Połącz ponownie.</string>
+    <string name="toast_camera_connect_success">Pomyślnie połączono. Wyświetlanie obrazu z aparatu.</string>
+    <string name="toast_monitor_connect_success">Pomyślnie połączono. Wyświetlanie podglądu.</string>
+    <string name="toast_monitor_connect_timeout">Drugie urządzenie zamknęło dzielony podgląd</string>
 </resources>

@@ -181,4 +181,10 @@
         <item quantity="few">Do tej samej sieci możesz podłączyć maks. %d monitory</item>
         <item quantity="many">Do tej samej sieci możesz podłączyć maks. %d monitorów</item>
     </plurals>
+    <plurals name="friend_mode_display_first_dialog">
+        <item quantity="other">Włączono minutnik (%1$d sek.). Zdjęcia zostaną przesłane na to urządzenie.</item>
+        <item quantity="one">Włączono minutnik (%1$d sek.). Zdjęcia zostaną przesłane na to urządzenie.</item>
+        <item quantity="few">Włączono minutnik (%1$d sek.). Zdjęcia zostaną przesłane na to urządzenie.</item>
+        <item quantity="many">Włączono minutnik (%1$d sek.). Zdjęcia zostaną przesłane na to urządzenie.</item>
+    </plurals>
 </resources>
