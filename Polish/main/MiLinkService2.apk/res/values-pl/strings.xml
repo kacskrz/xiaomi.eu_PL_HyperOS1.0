@@ -606,4 +606,17 @@ i zaloguj się na swoje konto Xiaomi"</string>
     <string name="onehop_mirror_guide_message_button">Rozumiem</string>
     <string name="onehop_mirror_guide_message_text_1">Udostępnij ekran telefonu na komputerze jednym dotknięciem.</string>
     <string name="onehop_mirror_guide_message_text_2">Wybierz zdjęcia, filmy i inne pliki z Galerii lub Plików, aby przesłać je na komputer.</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"1. Naciśnij przycisk Power na pilocie do telewizora, aby rozłączyć głośniki.
+2. Spróbuj ponownie połączyć słuchawki, gdy ekran się zaświeci."</string>
+    <string name="circulate_headset_back_to_box_title_err_310">Rozłącz głośniki telewizora</string>
+    <string name="circulate_headset_control_anc_clear">Przezroczystość</string>
+    <string name="circulate_headset_control_anc_disable_hint">Twoje słuchawki są połączone z dwoma urządzeniami. Tym urządzeniem możesz zmieniać tylko ich głośność.</string>
+    <string name="circulate_headset_control_anc_noise_cancel">Redukcja szumów</string>
+    <string name="circulate_headset_control_anc_off">Wył.</string>
+    <string name="circulate_headset_control_battery_case">Zestaw</string>
+    <string name="circulate_headset_control_battery_left">L</string>
+    <string name="circulate_headset_control_battery_right">P</string>
+    <string name="circulate_headset_control_more_settings">Dodatkowe ustawienia</string>
+    <string name="circulate_headset_error_headset_not_worn">Włóż obie słuchawki i spróbuj ponownie</string>
+    <string name="circulate_headset_error_headset_not_worn_both">Włóż obie słuchawki i spróbuj ponownie</string>
 </resources>
