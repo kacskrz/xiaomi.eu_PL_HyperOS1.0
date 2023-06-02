@@ -13178,4 +13178,10 @@ Formatowanie spowoduje wykasowanie dotychczasowej zawartości nośnika ^2. Aby u
     <string name="zen_mode_summary_alarms_only_by_minute">{count,plural, =1{Zmień na alarmy tylko na 1 minutę do {time}}few{Zmień na alarmy tylko na # minuty (do {time})}many{Zmień na alarmy tylko na # minut (do {time})}other{Zmień na alarmy tylko na # minuty (do {time})}}</string>
     <string name="zone_info_footer_first_sentence">Używana strefa czasowa: %1$s. %2$s</string>
     <string name="zone_info_footer_second_sentence">%1$s zaczyna się %2$s.</string>
+    <string name="hover_mode_guide_text">Gdy na wewnętrznym ekranie trwa rozmowa lub oglądasz filmy, możesz użyć Trybu kieszonkowego w dolnej części wyświetlacza.</string>
+    <string name="hover_mode_name">Tryb kieszonkowy</string>
+    <string name="hover_mode_no_support_apps">Brak wspieranych aplikacji</string>
+    <string name="hover_mode_support_apps">Wspierane aplikacje</string>
+    <string name="miheadset_close_broadcast_audio">Zamknij transmisję</string>
+    <string name="notice_audio_share_disconnected">Dźwięk przestał być udostępniany z powodu przerwania połączenia</string>
 </resources>

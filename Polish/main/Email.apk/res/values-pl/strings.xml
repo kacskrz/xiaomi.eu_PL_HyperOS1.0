@@ -954,7 +954,7 @@ Brak połączenia z siecią."</string>
   <string name="saved">Zapisano,  %s</string>
   <string name="saving">Zapisuję…</string>
   <string name="sdcard_cannot_use">Pamięć SD nie może zostać użyta</string>
-  <string name="search_bar_text">Wyszukaj kontakty</string>  
+  <string name="search_bar_text">Wyszukaj wiadomości</string>  
   <string name="search_hint">Wyszukaj wiadomości</string>
   <string name="search_remote_again">"Nie udało połączyć się z siecią. Dotknij, aby spróbować ponownie."</string>
   <string name="search_result">Wyniki wyszukiwania:</string>

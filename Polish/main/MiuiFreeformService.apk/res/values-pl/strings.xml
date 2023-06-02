@@ -54,4 +54,6 @@
     <string name="freeform_guide_multiple_window_summary">"Przytrzymaj ikonę aplikacji na doku, aby otworzyć nowe okno.
 *Funkcja działa z aplikacjami Notatki, Poczta, Przeglądarka i WPS."</string>
     <string name="freeform_guide_multiple_window_title">Otwieraj wiele okien</string>
+    <string name="freeform_guide_free_drag_title_phone">Przeciągnij, aby skopiować</string>
+    <string name="freeform_guide_how_to_free_drag_summary_phone">Przytrzymaj obraz i przeciągnij go do innej aplikacji</string>
 </resources>
