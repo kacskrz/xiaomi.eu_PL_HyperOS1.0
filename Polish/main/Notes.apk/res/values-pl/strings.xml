@@ -956,4 +956,5 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="warn_enter_browse_mode_forbid_create">"Nie można tworzyć lub edytować notatek w trybie tylko do odczytu"</string>
   <string name="added_to_clipboard">Pomyślnie skopiowano</string>
   <string name="clip_resource_deleted">Ten element nie jest już dostępny</string>
+  <string name="paste_unsupported_data">"Nie można wkleić tej treści"</string>
 </resources>
