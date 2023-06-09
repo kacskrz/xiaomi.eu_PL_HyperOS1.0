@@ -439,7 +439,7 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="controls_edit_added_subtitle">Przeciągnij elementy, aby zmienić ich położenie</string>
     <string name="controls_edit_added_title">Dodano</string>
     <string name="controls_edit_done_button">Gotowe</string>
-    <string name="controls_edit_go_to_app_guide">Otwórz</string>
+    <string name="controls_edit_go_to_app_guide">Otwórz %s</string>
     <string name="controls_edit_not_added_title">Dostępne</string>
     <string name="controls_loading_device">Zmiana lokalizacji…</string>
     <string name="controls_not_found_device_toast">Ten element został już usunięty w aplikacji</string>
@@ -456,4 +456,5 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="slider_view_content_left_description">Przesuń w górę, aby uruchomić telefon w trybie Fastboot lub w dół, aby uruchomić go w trybie Recovery</string>
     <string name="slider_view_content_right_description">Przesuń w górę, aby ustawić Tryb samolotowy lub w dół, aby ustawić Tryb cichy</string>
     <string name="emergency_call">Poł. alarmowe</string>
+    <string name="system_update">Aktualizacja systemu</string>
 </resources>

@@ -13184,4 +13184,10 @@ Formatowanie spowoduje wykasowanie dotychczasowej zawartości nośnika ^2. Aby u
     <string name="hover_mode_support_apps">Wspierane aplikacje</string>
     <string name="miheadset_close_broadcast_audio">Zamknij transmisję</string>
     <string name="notice_audio_share_disconnected">Dźwięk przestał być udostępniany z powodu przerwania połączenia</string>
+    <string name="eye_gaze_dialog_message">"Gdy włączysz funkcję Wykryj spojrzenie, urządzenie nie zablokuje się po wykryciu, że na nie patrzysz. Dane dot. twarzy nie będą analizowane, przechowywane na urządzeniu ani przesyłane do chmury. Włączyć tę funkcję?"</string>
+    <string name="eye_gaze_dialog_title">Informacja</string>
+    <string name="nrca_registered">Zarejestrowano</string>
+    <string name="nrca_type_title">Stan agregacji pasm</string>
+    <string name="nrca_unregistered">Nie zarejestrowano</string>
+    <string name="otg_new_tip">Włącz OTG, aby łączyć to urządzenie z innymi urządzeniami za pomocą USB. Funkcja wyłączy się automatycznie po %d minutach bezczynności.</string>
 </resources>
