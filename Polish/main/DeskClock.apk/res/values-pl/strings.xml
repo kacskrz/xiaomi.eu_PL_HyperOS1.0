@@ -22,7 +22,6 @@
   <string name="add_clock">Dodaj zegar</string>
   <string name="add_timezone_title">Dodaj strefę czasową</string>
   <string name="agree">Zgadzam się</string>
-  <string name="alarm_alert">Dźwięk alarmu</string>
   <string name="alarm_alert_alert_silenced">Alarm został wyciszony.</string>
   <string name="alarm_alert_disabled">Wył.</string>
   <string name="alarm_ascending_mode_summary">Głośność alarmu zwiększa się stopniowo</string>
