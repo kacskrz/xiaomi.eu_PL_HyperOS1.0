@@ -1022,4 +1022,11 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
   <string name="login_out">Wyloguj się</string>
   <string name="passport_vcode_what_app_send_prompt">Twój kod weryfikacyjny WhatsApp zostanie wysłany na zapasowy numer telefonu (&lt;font color=#1F93FF>%s&lt;/font>).</string>
   <string name="can_not_add_more_image">"Nie można dodać więcej obrazów/filmów"</string>
+  <string name="net_daig_network_repair">Naprawa sieci</string>
+  <string name="net_diag_fix_guide_window_msg">Wystąpił błąd sieci. Dotknij, aby rozwiązać problem.</string>
+  <string name="net_diag_fixing">Naprawianie sieci. Może to potrwać minutę.</string>
+  <string name="net_diag_repair_msg">W trakcie tego procesu nastąpi rozłączenie i ponowne połączenie z siecią Wi-Fi. Przystąpić do naprawy?</string>
+  <string name="net_diag_repair_msg_china">W trakcie tego procesu nastąpi rozłączenie i ponowne połączenie z siecią Wi-Fi. Przystąpić do naprawy?</string>
+  <string name="net_diag_repair_static_ip_msg">W trakcie tego procesu mogą zostać zresetowane ustawienia sieci. Przystąpić do naprawy?</string>
+  <string name="net_diag_repair_title">Naprawić sieć?</string>
 </resources>

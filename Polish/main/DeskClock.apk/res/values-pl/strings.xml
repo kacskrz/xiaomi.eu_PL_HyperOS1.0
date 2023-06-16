@@ -112,7 +112,7 @@
   <string name="delete_selected_timer_item">Usunąć zaznaczone zadanie minutnika?</string>
   <string name="delete_timer_item_title">Usuń zadanie minutnika</string>
   <string name="delete_timezone_title">Usuń strefę czasową</string>
-  <string name="deskclock_sleep_no_disturbance">Zegar - Zarządzaj czasem na sen - Nie przeszkadzać</string>
+  <string name="deskclock_sleep_no_disturbance">Zegar > Zarządzaj czasem na sen > Nie przeszkadzać</string>
   <string name="dialog_confirm_abort">Odrzucić zmiany?</string>
   <string name="dialog_legal_off_day"><Data>"Używasz w tym momencie alarmów świątecznych. Wymagają one, w celu poprawnego działania, połączenia z Internetem. Przed użyciem tej funkcji musisz zgodzić się na warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Xiaomi. Czy zgadzasz się na to?"</Data></string>
   <string name="dialog_legal_off_day_desc">"Aplikacja Zegar nie ma pozwolenia na połączenie się z Internetem w celu zaktualizowania informacji o świętach. Alarmy świąteczne będą się włączać w sobotę i niedzielę."</string>
@@ -322,7 +322,7 @@
   <string name="sleep_notification_title">Czas pójść spać!</string>
   <string name="sleep_record">Śledź sen</string>
   <string name="sleep_record_desc">Włącz, aby zacząć rejestrowanie danych snu</string>
-  <string name="sleep_record_desc_detailed">Funkcjonalność śledzenia snu dostarczana jest przez aplikację Xiaomi Zdrowie. Po włączeniu tej funkcji aplikacja Xiaomi Zdrowie będzie automatycznie rejestrowała dane snu w oparciu o Twoje korzystanie z telefonu, statystyki aktywności, a także godziny zaśnięcia oraz ustawionej przez Ciebie pobudki w celu wyświetlania statystyk w formie wykresów. Aby śledzić sen jak najdokładniej, włącz autostart dla aplikacji Zdrowie. Wszystkie powiązane z tą funkcją dane będą gromadzone lokalnie na urządzeniu, co pozwoli Ci na łatwe zarządzanie nimi.</string>
+  <string name="sleep_record_desc_detailed">Funkcjonalność śledzenia snu dostarczana jest przez aplikację Xiaomi Zdrowie. Po włączeniu tej funkcji aplikacja Xiaomi Zdrowie będzie automatycznie rejestrowała dane snu w oparciu o Twoje korzystanie z telefonu, statystyki aktywności, a także ustawione godziny zaśnięcia i pobudki w celu wyświetlania statystyk w formie wykresów. Aby śledzić sen jak najdokładniej, włącz autostart dla aplikacji Zdrowie. Wszystkie powiązane z tą funkcją dane będą gromadzone lokalnie na urządzeniu, co pozwoli Ci na łatwe zarządzanie nimi.</string>
   <string name="sleep_record_no_data">Twoje statystyki będą pojawiać się tutaj</string>
   <string name="sleep_remind">Przypomnienie o czasie snu</string>
   <string name="sleep_time">Zaśnięcie</string>
@@ -639,4 +639,8 @@ d.MM."</string>
   <string name="notification_permission_desc">"Jeśli nie nadasz uprawnień do powiadomień, nie będziesz w stanie wyłączyć alarmów, gdy one zadzwonią. Nadać uprawnienie?"</string>
   <string name="open_notification_permission_remind">Zezwól na powiadomienia, aby móc wyłączać alarmy</string>
   <string name="miuix_appcompat_edit">Edytuj</string>
+  <string name="alarm_alert">Dzwoni alarm</string>
+  <string name="snooze_alarm_alert">Drzemka do %s</string>
+  <string name="timer_alert_pause">Minutnik wstrzymany</string>
+  <string name="timer_alert_running">Włączono minutnik</string>
 </resources>

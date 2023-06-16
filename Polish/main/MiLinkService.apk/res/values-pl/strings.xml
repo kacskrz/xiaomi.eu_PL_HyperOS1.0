@@ -619,4 +619,6 @@ i zaloguj się na swoje konto Xiaomi"</string>
     <string name="circulate_headset_control_more_settings">Dodatkowe ustawienia</string>
     <string name="circulate_headset_error_headset_not_worn">Włóż obie słuchawki i spróbuj ponownie</string>
     <string name="circulate_headset_error_headset_not_worn_both">Włóż obie słuchawki i spróbuj ponownie</string>
+    <string name="dialog_nearbydevice_permission_message">Zezwól temu urządzeniu na dostęp do urządzeń w pobliżu, aby móc korzystać z funkcji przesyłania ekranu.</string>
+    <string name="dialog_nearbydevice_permission_title">Wymagane uprawnienia</string>
 </resources>

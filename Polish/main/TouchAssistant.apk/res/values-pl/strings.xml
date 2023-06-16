@@ -78,7 +78,7 @@
   <string name="search_menu_title">Szukaj</string>
   <string name="show_on_keyguard">Pokaż na ekranie blokady</string>
   <string name="theme_manager_not_supported">"Motywy nie są wspierane."</string>
-  <string name="three_seconds_auto_hide">Przyklej do krawędzi po 3 sekundach bez aktywności</string>
+  <string name="three_seconds_auto_hide">Przyklej do krawędzi po %d sekundach bez aktywności</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
   <string name="edge_distance_pref_summary">Dotknij obszar wybudzenia obok krawędzi ekranu, aby uruchomić Asystenta dotyku</string>
@@ -94,4 +94,5 @@
   <string name="privacy_settings">Prywatność</string>
   <string name="view_privacy">Wyświetl Politykę prywatności</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
+  <string name="miuix_appcompat_edit">Edytuj</string>
 </resources>

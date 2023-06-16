@@ -264,5 +264,5 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="miuix_indexer_selected">Wybrano %s</string>
   <string name="delete_data_confirm">Usunąć ten element?</string>
   <string name="thermal_cancel">Anuluj</string>
-  <string name="config_restrict_function_description_new">Zamknij aplikacje po %d minutach nieaktywności w tle</string>
+  <string name="config_restrict_function_description_new">Zamknij aplikacje po %d minutach aktywności w tle</string>
 </resources>

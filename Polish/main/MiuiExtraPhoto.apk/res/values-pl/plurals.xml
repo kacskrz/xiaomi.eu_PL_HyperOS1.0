@@ -101,4 +101,14 @@
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="talkback_selection_denominator">
+        <item quantity="other">Łącznie %1$d elementów</item>
+        <item quantity="few">Łącznie %1$d elementy</item>
+        <item quantity="one">Łącznie %1$d element</item>
+    </plurals>
+    <plurals name="talkback_selection_numerator">
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="few">Wybrano %1$d elementy</item>
+        <item quantity="one">Wybrano %1$d element</item>
+    </plurals>
 </resources>

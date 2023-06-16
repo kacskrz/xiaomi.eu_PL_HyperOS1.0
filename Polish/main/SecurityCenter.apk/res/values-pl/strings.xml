@@ -510,8 +510,8 @@
   <string name="apps_item_sign_install_button_text">Zamień</string>
   <string name="apps_item_sms_default_set_success">Pomyślnie ustawiono</string>
   <string name="apps_item_sms_reset_button_text">Przywróć domyślne</string>
-  <string name="apps_item_sms_title">Domyślne ustawienia wiadomości</string>
-  <string name="apps_item_summary_sms">%s ma dostęp do twoich wiadomości, może to spowodować problemy z bezpieczeństwem</string>
+  <string name="apps_item_sms_title">Zmiana domyślnej aplikacji do SMS-ów</string>
+  <string name="apps_item_summary_sms">Teraz Twoimi SMS-ami zarządza aplikacja %s. Użyj bardziej bezpiecznej i stabilnej systemowej aplikacji MIUI.</string>
   <string name="apps_item_summary_system_rooted">Uprawnienia root zostały przyznane. Przywróć ustawienia domyślne, aby uniknąć zagrożeń.</string>
   <string name="apps_item_summary_system_update">Niektóre błędy zostały naprawione w nowej wersji, aby płatności były bezpieczniejsze.</string>
   <string name="apps_item_title_system">Aktualizacja systemowa</string>
@@ -1813,7 +1813,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="network_operator_exception_summary">"Aktywacja karty SIM nie była możliwa. 
 
     Upewnij się czy karta SIM jest poprawnie włożona do urządzenia, a także czy posiadasz pakiet internetowy."</string>
-  <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
+  <string name="network_permission_exception_tips">"Aby działać normalnie, funkcja musi użyć danych mobilnych."</string>
   <string name="network_roaming_exception_tips">"Nie można użyć danych mobilnych podczas roamingu"</string>
   <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
 
@@ -2852,7 +2852,7 @@ W trakcie kalibracji, MIUI wyśle wiadomość tekstową do Twojego operatora, ab
   <string name="summary_block_calls_from_cantacts">"Korzystasz z blokady kontaktów."</string>
   <string name="summary_block_calls_from_strangers">Połączenia są możliwe tylko od Kontaktów.</string>
   <string name="summary_cleaner_cloudscan">Kopiuj do chmury nazwy katalogów i porównaj z definicjami online</string>
-  <string name="summary_cloud_account">Wykorzystaj potencjał swoich urządzeń Xiaomi</string>
+  <string name="summary_cloud_account">Korzystaj ze wszystkich usług Xiaomi</string>
   <string name="summary_cloud_service">Synchronizuj zdjęcia, kontakty i inne ze swoimi urządzeniami</string>
   <string name="summary_cloud_space_almost_full">Uzyskaj więcej przestrzeni dyskowej</string>
   <string name="summary_cloud_space_full">Uzyskaj więcej możliwości i przestrzeni dyskowej</string>
@@ -5976,4 +5976,18 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="overlay_permission_dialog_open">Ustawienia</string>
     <string name="overlay_permission_dialog_title">Wymagane uprawnienia</string>
     <string name="precise_location_title">Dokładna lokalizacja</string>
+    <string name="app_manager_thumbnail_shield_summary">Zamazuj podglądy aplikacji w Ostatnich aplikacjach</string>
+    <string name="app_name_securitycenter_new">Panel sterowania</string>
+    <string name="blur_location_title">Przybliżona lokalizacja</string>
+    <string name="dynamic_performance_optimization_summary">Dynamicznie zmieniaj rozdzielczość w trakcie grania</string>
+    <string name="dynamic_performance_optimization_title">Dynamiczna wydajność</string>
+    <string name="gb_vision_enhance_frme_insertion_tips">"Int. odświeżanie
+%d kl./s"</string>
+    <string name="input_hint_search_app">Wyszukaj aplikacje</string>
+    <string name="overlay_permission_dialog_comment_security_service">Zezwól \"Narzędziom bezpieczeństwa\" na wyświetlanie elementów nad innymi aplikacjami. Możesz przyznać to uprawnienie w Ustawieniach.</string>
+    <string name="overlay_permission_dialog_message_security_service">Panel sterowania wymaga pewnych uprawnień do poprawnego działania.</string>
+    <string name="privacy_thumbnail_shield_title">Zamazywanie podglądów</string>
+    <string name="privacy_thumbnail_shield_top_tip">Zamazuj podglądy aplikacji w Ostatnich aplikacjach</string>
+    <string name="sim_lock_verify_time_out">Przekroczono czas weryfikacji. Spróbuj ponownie.</string>
+    <string name="st_sms_intercept_oversea">Międzynarodowy SMS</string>
 </resources>

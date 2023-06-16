@@ -746,4 +746,13 @@
         <item>Alarm włączy się za %2$s i %3$s.</item>
         <item>Alarm włączy się za %1$s, %2$s i %3$s.</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>Pon.-pt.</item>
+        <item>Codziennie</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Codziennie</item>
+        <item>Pon.-pt.</item>
+        <item>Własne</item>
+    </string-array>
 </resources>

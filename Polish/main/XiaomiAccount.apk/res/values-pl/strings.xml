@@ -257,7 +257,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="identity">Tożsamość</string>
   <string name="ignore">Nie teraz</string>
   <string name="inconsistent_pwd">"Hasła nie pasują do siebie"</string>
-  <string name="input_email_address_notice">"Ten adres e-mail zostanie użyty do weryfikacji konta"</string>
+  <string name="input_email_address_notice">"E-mail z kodem weryfikacyjnym zostanie wysłany na ten adres."</string>
   <string name="input_new_pwd">Wpisz nowe hasło</string>
   <string name="io_error_title">Brak połączenia z siecią</string>
   <string name="just_a_second">Wczytywanie...</string>
@@ -985,4 +985,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
     <string name="selected">Wybrano</string>
     <string name="setting_later">Nie teraz</string>
     <string name="setting_now">Dodaj</string>
+    <string name="miuix_appcompat_edit">Edytuj</string>
+    <string name="passport_input_email_vcode_hint">Wprowadź kod</string>
+    <string name="passport_vcode_email_send_prompt"><Data>Twój kod weryfikacyjny został wysłany na adres &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a></Data></string>
 </resources>

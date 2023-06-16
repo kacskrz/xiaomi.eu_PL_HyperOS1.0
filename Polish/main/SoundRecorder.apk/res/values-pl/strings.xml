@@ -500,4 +500,9 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="invisible_mode_dialog_negative">Anuluj</string>
   <string name="invisible_mode_dialog_positive">Wyłącz</string>
   <string name="invisible_mode_dialog_title">"Jesteś incognito"</string>
+  <string name="new_search_alll_records_hint">Wyszukaj wszystkie nagrania</string>
+  <string name="new_search_app_records_hint">Wyszukaj nagrania z aplikacji</string>
+  <string name="new_search_call_records_hint">Wyszukaj nagrania połączeń</string>
+  <string name="new_search_fm_records_hint">Wyszukaj nagrania z radia</string>
+  <string name="new_search_recorder_records_hint">Szukaj w Dyktafonie</string>
 </resources>
