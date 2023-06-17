@@ -2090,13 +2090,13 @@ Jego aktywność skraca żywotność baterii."</string>
   <string name="pc_main_sub_battery_text_hour_minute">Pozostało %1$s godz. %2$s min</string>
   <string name="pc_search_keywords_battery">Bateria</string>
   <string name="pc_search_keywords_battery_save">Oszczędzanie baterii</string>
-  <string name="pc_search_keywords_battery_use">użycie baterii</string>
+  <string name="pc_search_keywords_battery_use">Użycie baterii</string>
   <string name="pc_search_keywords_capacity">Pojemność baterii</string>
   <string name="pc_search_keywords_property">Wydajność</string>
   <string name="pc_statistics_battery_last_hour_minute">Pozostało %1$d godz. %2$d min</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$d godz. %2$d min od ostatniego naładowania</string>
   <string name="pc_statistics_battery_use_summary">%s od ostatniego naładowania</string>
-  <string name="pc_statistics_battery_use_title">użycie baterii</string>
+  <string name="pc_statistics_battery_use_title">Użycie baterii</string>
   <string name="pc_to_phone_install">Zablokowano %s instalacji przez USB</string>
   <string name="per_month_pkg_traffic_settings">Limit miesięcznej transmisji</string>
   <string name="percentage">%d%%</string>
