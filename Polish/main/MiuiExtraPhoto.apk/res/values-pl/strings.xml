@@ -266,4 +266,5 @@
     <string name="operation_original">Porównaj</string>
     <string name="operation_redo">Ponów</string>
     <string name="operation_undo">Cofnij</string>
+    <string name="acc_return">Wstecz</string>
 </resources>

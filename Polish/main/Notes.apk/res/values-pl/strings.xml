@@ -957,4 +957,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="added_to_clipboard">Pomyślnie skopiowano</string>
   <string name="clip_resource_deleted">Ten element nie jest już dostępny</string>
   <string name="paste_unsupported_data">"Nie można wkleić tej treści"</string>
+  <string name="audio_dialog_mode_meeting_recognize_close">Rozpoznawanie głosu jest wyłączone</string>
+  <string name="audio_dialog_mode_meeting_recognize_fail">"Nie udało się ukończyć rozpoznawania głosu"</string>
+  <string name="toast_refuse_to_use_photos_in_excerpt_v14">Aby dodawać obrazy do notatek, zezwól aplikacji na dostęp do wszystkich zdjęć</string>
 </resources>
