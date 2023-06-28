@@ -807,4 +807,9 @@
         <item quantity="few">Usunąć %d elementy?</item>
         <item quantity="other">Usunąć %d elementów?</item>
     </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">Wybierz maksymalnie %d elementów do wysłania</item>
+        <item quantity="one">Wybierz maksymalnie %d element do wysłania</item>
+        <item quantity="few">Wybierz maksymalnie %d elementy do wysłania</item>
+    </plurals>
 </resources>

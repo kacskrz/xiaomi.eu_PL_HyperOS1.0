@@ -2171,7 +2171,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
      <string name="filter_portrait_greyish">Popiół</string>
      <string name="filter_portrait_mist">Mgła</string>
      <string name="filter_portrait_painting">Malowanie</string>
-     <string name="loading_text_format" formatted="false">Usuwanie prywatnych informacji ze zdjęć (%d/%d)…</string>
+     <string name="loading_text_format">Usuwanie prywatnych informacji…</string>
      <string name="online_video_error_unknown">Wystąpił błąd otwarzania online. Pobrano element.</string>
      <string name="online_video_error_unsupported_type">"Odtwarzacz wideo nie wspiera tego formatu. Pobrano element."</string>
      <string name="screen_editor_btn_shell_off">Usuń ramkę urządzenia</string>
@@ -3610,7 +3610,7 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="global_pc">Mój laptop</string>
   <string name="global_phone">Mój telefon</string>
   <string name="hdr_switch_show_hint">Użyj HDR, aby pokazać więcej szczegółów w wyróżnieniach i cieniach show more detail in highlights and shadows</string>
-  <string name="hdr_switch_show_title">Wyświetlaj HDR</string>
+  <string name="hdr_switch_show_title">Wyświetlanie Pro HDR</string>
   <string name="miplay_circulate_failed">"Nie udało się przesłać strumienia. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
   <string name="miplay_circulating_msg">Przesyłanie strumienia…</string>
   <string name="remove_hidden_status_success">Usunięto %s z ukrytych albumów</string>
@@ -3684,4 +3684,5 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="immersion_menu_all_photos">Wszystkie elementy</string>
   <string name="immersion_menu_camera_photos">Album Aparatu</string>
   <string name="immersion_menu_photo_switch_notice">Dotknij, aby wybrać elementy, które mają być wyświetlane</string>
+  <string name="search_title_daily">Czas</string>
 </resources>
