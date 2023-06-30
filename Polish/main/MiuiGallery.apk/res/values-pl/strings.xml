@@ -60,7 +60,7 @@
   <string name="album_favorites_name">Ulubione</string>
   <string name="album_from_format">%s</string>
   <string name="album_hidden_item_button_title">Odkryj</string>
-  <string name="album_hidden_page_title">Ukryj</string>
+  <string name="album_hidden_page_title">Ukryte albumy</string>
   <string name="album_jump_failed">Poczekaj na synchronizację albumów z Chmurą i spróbuj ponownie</string>
   <string name="album_member">Użytkownicy: %s</string>
   <string name="album_midrop">Mi Drop</string>
