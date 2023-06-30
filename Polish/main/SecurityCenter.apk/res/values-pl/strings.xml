@@ -5665,7 +5665,6 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="antispam_guangdian_card_title">"Przełączanie niewspierane"</string>
     <string name="app_name_pad">Panel sterowania</string>
     <string name="app_name_phone">Panel sterowania</string>
-    <string name="beauty_portrait_center">Utrzymaj twarze pośrodku</string>
     <string name="beauty_portrait_center_desc">Automatycznie rozpoznawaj i wycentruj twarze w rozmowach wideo i spotkaniach. Niektóre aplikacje nie wspierają tej funkcji.</string>
     <string name="dialog_msg_delete_icon_content_pad">Panel sterowania umożliwia Ci usunięcie śmieci z urządzenia, odnalezienie i neutralizację wirusów, oszczędzanie baterii, zarządzanie uprawnień i wiele innych rzeczy.</string>
     <string name="dialog_msg_delete_icon_content_phone">Panel sterowania umożliwia Ci usunięcie śmieci z urządzenia, odnalezienie i neutralizację wirusów, oszczędzanie baterii, zarządzanie uprawnień i wiele innych rzeczy.</string>
@@ -5990,4 +5989,12 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="privacy_thumbnail_shield_top_tip">Zamazuj podglądy aplikacji w Ostatnich aplikacjach</string>
     <string name="sim_lock_verify_time_out">Przekroczono czas weryfikacji. Spróbuj ponownie.</string>
     <string name="st_sms_intercept_oversea">Międzynarodowy SMS</string>
+    <string name="about_autostart_gloabl">O autostarcie w tle</string>
+    <string name="activity_title_auto_start_manager_global">Autostart w tle</string>
+    <string name="dialog_msg_auto_start_declare_global">Niektóre aplikacje mogą nieprawidłowo informować o tym, że MIUI nie pozwala na ich uruchamianie w tle. Sprawdź uprawnienia, które zostały im przyznane w Ustawieniach.</string>
+    <string name="dialog_title_auto_start_declare_global">O autostarcie w tle</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_sumary">Oszczędzanie baterii wyłączy się, gdy %1$s wynosi %2$s lub jest naładowana</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_title">Włączono Oszczędzanie baterii na %s</string>
+    <string name="pc_continuity_open_save_mode_notifi_sumary">Poziom baterii %1$s wynosi mniej niż %2$s. Włącz Oszczędzanie baterii, aby wydłużyć działanie o %3$s %4$s.</string>
+    <string name="pc_continuity_open_save_mode_notifi_title">Niski poziom baterii na %s</string>
 </resources>

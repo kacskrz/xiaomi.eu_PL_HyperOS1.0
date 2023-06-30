@@ -661,7 +661,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="not_support_data_content3">3. Dane Drugiej przestrzeni</string>
     <string name="not_support_data_content4">4. Sklonowane aplikacje</string>
     <string name="not_support_data_link">"Elementy, które nie mogą zostać przeniesione"</string>
-    <string name="not_support_data_summary1">"Motywy i tapety nie mogą być przeniesione za pomocą Przenoszenia danych."</string>
+    <string name="not_support_data_summary1">"Motywy i tapety mogą być przeniesione tylko na niektórych modelach."</string>
     <string name="not_support_data_summary2">Część aplikacji wprowadza ścisłe zasady bezpieczeństwa, aby zapobiec przenoszeniu danych aplikacji. Mogą to być np. aplikacje bankowe bądź usługi finansowe.</string>
     <string name="not_support_data_summary3">"Ze względu na ograniczenia systemu elementy z Drugiej przestrzeni nie mogą być przenoszone za pomocą Przenoszenia danych."</string>
     <string name="not_support_data_summary4">"Sklonowane aplikacje i ich dane także nie mogą zostać przeniesione. Możesz natomiast przenieść odpowiednie główne aplikacje."</string>
@@ -849,4 +849,5 @@ na swoim iPhonie"</string>
   <string name="close_vpn_title">Wyłącz VPN</string>
   <string name="dialog_request_permission_message_provision_link">Zezwól aplikacji na łączenie się z Internetem i nadaj niezbędne uprawnienia wymienione powyżej. Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki %1$s oraz %2$s.</string>
   <string name="need_location_permission_title">Wymagane uprawnienia</string>
+  <string name="set_app_suspend">Trwa wykonywanie kopii zapasowej tej aplikacji. Poczekaj, aż proces się zakończy, i spróbuj ponownie.</string>
 </resources>

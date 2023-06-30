@@ -86,12 +86,12 @@ Urządzenia w pobliżu mogą w ten sposób zyskać możliwość monitorowania 
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Odcisk SHA-256:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Podpis:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">Rozłącz się</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">Nie rozłączaj się</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">Nie łącz</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Połącz mimo to</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">W przypadku sieci %1$s brakuje certyfikatu.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">Jak dodawać certyfikaty</string>
     <string name="wifi_ca_cert_dialog_preT_title">Nie można zweryfikować tej sieci</string>

@@ -577,4 +577,5 @@ Jeśli przytrzymasz przycisk przez %s sekund, wywołasz menu wyłączania telefo
     <string name="keyboard_connect_success_text">Pomyślnie połączono z klawiaturą</string>
     <string name="stylus_quick_note_summary">Gdy ekran jest wyłączony, dotknij go swoim rysikiem, aby zacząć pisanie. Funkcja zwiększa zużycie energii.</string>
     <string name="stylus_quick_note_title">Pisz z wyłączonym ekranem</string>
+    <string name="search_screen_shot">Zrzuty ekranu</string>
 </resources>

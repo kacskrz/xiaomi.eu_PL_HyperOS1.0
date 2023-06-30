@@ -190,7 +190,7 @@
   <string name="cloud_storage_already_used">Zajęte: %1$s/%2$s</string>
   <string name="cloud_storage_default_title">Miejsce w Chmurze</string>
   <string name="cloud_storage_full">Brak miejsca w Chmurze. Ulepsz swój plan, aby uzyskać więcej miejsca.</string>
-  <string name="cloud_storage_info_type_backup">Kopie zapasowe</string>
+  <string name="cloud_storage_info_type_backup">Kopie zapasowe w Chmurze</string>
   <string name="cloud_storage_info_type_family">Rodzina</string>
   <string name="cloud_storage_info_type_others">Inne</string>
   <string name="cloud_storage_info_type_pdc">Ustawienia systemu</string>

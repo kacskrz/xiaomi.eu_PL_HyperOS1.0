@@ -37,4 +37,5 @@
   <string name="send">Wyślij</string>
   <string name="stk_ic_remove_content">"Po usunięciu skrótu z pulpitu wciąż będzie można używać narzędzi karty SIM za pomocą Ustawień."</string>
   <string name="stk_ic_remove_title">Usunąć Narzędzia karty SIM z pulpitu?</string>
+  <string name="lable_sim_not_ready">Zestaw narzędzi SIM jest niegotowy lub niewspierany</string>
 </resources>

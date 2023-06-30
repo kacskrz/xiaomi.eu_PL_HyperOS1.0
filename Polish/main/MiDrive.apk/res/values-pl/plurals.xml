@@ -366,4 +366,14 @@
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="download_notification_wait_network">
+        <item quantity="other">Oczekiwanie na pobranie. Pozostało %1$s plików.</item>
+        <item quantity="one">Oczekiwanie na pobranie. Pozostał %1$s plik.</item>
+        <item quantity="few">Oczekiwanie na pobranie. Pozostały %1$s pliki.</item>
+    </plurals>
+    <plurals name="upload_notification_wait_network">
+        <item quantity="other">Oczekiwanie na wysłanie. Pozostało %1$s plików.</item>
+        <item quantity="one">Oczekiwanie na wysłanie. Pozostał %1$s plik.</item>
+        <item quantity="few">Oczekiwanie na wysłanie. Pozostały %1$s pliki.</item>
+    </plurals>
 </resources>

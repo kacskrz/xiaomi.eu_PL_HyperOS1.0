@@ -1068,4 +1068,6 @@ Spróbuj przenieść pliki z urządzenia do Mi Drive."</string>
     <string name="operation_copy_clipboard">Kopiuj do schowka</string>
     <string name="operation_copy_local">Kopiuj do folderu</string>
     <string name="toast_copy_clipboard">Skopiowano do schowka</string>
+    <string name="cta_use_sync_midrive_file">W celu synchronizowania plików z Mi Drive</string>
+    <string name="select_pdf">Wybierz PDF</string>
 </resources>
