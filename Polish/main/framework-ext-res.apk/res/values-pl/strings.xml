@@ -618,4 +618,13 @@ z przedniego aparatu"</string>
   <string name="sla_remind_text">Możesz użyć danych mobilnych, aby zwiększyć prędkość. Może to spowodować naliczenie przez operatora dodatkowych opłat.</string>
   <string name="sla_title">Zwiększenie prędkości</string>
   <string name="sla_traffic_text">"Wykorzystano dziś już %d MB danych mobilnych. Aby je oszczędzać, możesz zatrzymać zwiększanie prędkości."</string>
+  <string name="free_form_recommend_tip">Pływające okno</string>
+  <string name="hovermode_text_confirm">OK</string>
+  <string name="hovermode_text_doubleclick">Dotknij dwa razy, aby wstrzymać/wznowić</string>
+  <string name="hovermode_text_drag">Przesuń, aby powiększyć</string>
+  <string name="hovermode_text_help">Pomoc</string>
+  <string name="hovermode_text_left">Zmień jasność</string>
+  <string name="hovermode_text_prompt">Gsy włączony jest Tryb kieszonkowy, możesz używać gestów w dolnej części ekranu. Mogą się one różnić w zależności od aplikacji.</string>
+  <string name="hovermode_text_right">Zmień głośność</string>
+  <string name="split_screen_recommend_tip">Podział ekranu</string>
 </resources>

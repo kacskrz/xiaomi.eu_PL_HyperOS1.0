@@ -13190,4 +13190,23 @@ Formatowanie spowoduje wykasowanie dotychczasowej zawartości nośnika ^2. Aby u
     <string name="nrca_type_title">Stan agregacji pasm</string>
     <string name="nrca_unregistered">Nie zarejestrowano</string>
     <string name="otg_new_tip">Włącz OTG, aby łączyć to urządzenie z innymi urządzeniami za pomocą USB. Funkcja wyłączy się automatycznie po %d minutach bezczynności.</string>
+    <string name="bt_audio_share_notification_content">Dotknij, aby zobaczyć opcje</string>
+    <string name="bt_audio_share_notification_title">Udostępnianie dźwięku</string>
+    <string name="doublepress_summary">Odtwarzaj i pauzuj treści</string>
+    <string name="doublepress_title">Dwuklik w ruchu</string>
+    <string name="gesture_supported_title">Dostępne gesty</string>
+    <string name="leave_loclscreen_summary">Ekran będzie się blokować automatycznie, gdy odsuniesz się na określony dystans od urządzenia</string>
+    <string name="leave_loclscreen_title">Zablokuj ekran, gdy się oddalasz</string>
+    <string name="leftright_waving_summary">Przesuwaj slajdy i zmieniaj progres w oglądanych treściach</string>
+    <string name="leftright_waving_title">Pozioma fala</string>
+    <string name="near_loclscreen_summary">Ekran będzie się wybudzać automatycznie, gdy będziesz bliżej urządzenia. Powiadomienia będą ukryte.</string>
+    <string name="near_loclscreen_title">Wybudź ekran, gdy się zbliżasz</string>
+    <string name="palm_circle_summary">Odbieraj lub kończ połączenia przekierowane na tablet</string>
+    <string name="palm_circle_title">Narysuj okrąg</string>
+    <string name="supported_app_title">Wspierane aplikacje</string>
+    <string name="tofgesture_description_summary" formatted="false">Trzymaj swoją dłoń od %d do %d cm od ekranu i wykonuj gesty, gdy na górze ekranu pojawi się ikona ręki.</string>
+    <string name="tofgesture_enable_title">Rozpoznawaj gesty bez dotykania ekranu</string>
+    <string name="tofgesture_settings">Rozpoznawaj gesty bez dotykania ekranu</string>
+    <string name="updown_waving_summary">Dostosuj głośność multimediów i przełączaj się między krótkimi filmami</string>
+    <string name="updown_waving_title">Pionowa fala</string>
 </resources>
