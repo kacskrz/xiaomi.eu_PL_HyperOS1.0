@@ -2506,4 +2506,13 @@ Jeśli używasz hotspotu do łączenia się z siecią, ustaw jego pasmo AP na %s
     <string name="toast_camera_connect_success">Pomyślnie połączono. Wyświetlanie obrazu z aparatu.</string>
     <string name="toast_monitor_connect_success">Pomyślnie połączono. Wyświetlanie podglądu.</string>
     <string name="toast_monitor_connect_timeout">Drugie urządzenie zamknęło dzielony podgląd</string>
+    <string name="accessibility_focal_lens">Odpowiednik ogniskowej %s mm</string>
+    <string name="accessibility_street_ev_panel_on">Wyświetl wartości ekspozycji</string>
+    <string name="street_auto_desc">Automatyczna odległość ostrzenia</string>
+    <string name="street_far_desc">Odległość ostrzenia %1$s m</string>
+    <string name="street_middle_desc">Odległość ostrzenia %1$s m</string>
+    <string name="street_near_desc">Odległość ostrzenia %1$s m</string>
+    <string name="street_preferred_description">Aby włączyć tę funkcję, wejdź do Ustawień > Uruchom Aparat i wybierz opcję \"Zrób zdjęcie\"</string>
+    <string name="street_top_tip">Głębia ostrości: %1$s m - %2$s m</string>
+    <string name="street_top_tip_infinity">Głębia ostrości: %1$s m - %2$s</string>
 </resources>
