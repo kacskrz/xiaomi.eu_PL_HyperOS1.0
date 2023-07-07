@@ -960,4 +960,9 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="audio_dialog_mode_meeting_recognize_close">Rozpoznawanie głosu jest wyłączone</string>
   <string name="audio_dialog_mode_meeting_recognize_fail">"Nie udało się ukończyć rozpoznawania głosu"</string>
   <string name="toast_refuse_to_use_photos_in_excerpt_v14">Aby dodawać obrazy do notatek, zezwól aplikacji na dostęp do wszystkich zdjęć</string>
+  <string name="folder_note">Foldery notatek</string>
+  <string name="folder_other">Inne foldery</string>
+  <string name="foler_pinned">Przypięte foldery</string>
+  <string name="new_alert_title_delete">Usuń notatki</string>
+  <string name="new_sync_desc_state_disable">Włącz synchronizację notatek, zadań i innych rzeczy z chmurą</string>
 </resources>
