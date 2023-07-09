@@ -187,4 +187,9 @@
         <item quantity="few">Włączono minutnik (%1$d sek.). Zdjęcia zostaną przesłane na to urządzenie.</item>
         <item quantity="many">Włączono minutnik (%1$d sek.). Zdjęcia zostaną przesłane na to urządzenie.</item>
     </plurals>
+    <plurals name="exit_version_hint">
+        <item quantity="other">&lt;Data>"Wersja Aparatu, z której korzystasz, jest niekompatybilna z Twoim urządzeniem.&lt;br>Aplikacja wyłączy się za &lt;font color=#FFCE16>&lt;b>%1$d sekund&lt;/b>&lt;/font>. Odinstaluj aktualizacje Aparatu i spróbuj ponownie."&lt;/Data></item>
+        <item quantity="one">"Wersja Aparatu, z której korzystasz, jest niekompatybilna z Twoim urządzeniem.&lt;br>Aplikacja wyłączy się za &lt;font color=#FFCE16>&lt;b>%1$d sekundę&lt;/b>&lt;/font>. Odinstaluj aktualizacje Aparatu i spróbuj ponownie."&lt;/Data></item>
+        <item quantity="few">"Wersja Aparatu, z której korzystasz, jest niekompatybilna z Twoim urządzeniem.&lt;br>Aplikacja wyłączy się za &lt;font color=#FFCE16>&lt;b>%1$d sekundy&lt;/b>&lt;/font>. Odinstaluj aktualizacje Aparatu i spróbuj ponownie."&lt;/Data></item>
+    </plurals>
 </resources>
