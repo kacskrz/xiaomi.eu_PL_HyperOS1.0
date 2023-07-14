@@ -850,4 +850,7 @@ na swoim iPhonie"</string>
   <string name="dialog_request_permission_message_provision_link">Zezwól aplikacji na łączenie się z Internetem i nadaj niezbędne uprawnienia wymienione powyżej. Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki %1$s oraz %2$s.</string>
   <string name="need_location_permission_title">Wymagane uprawnienia</string>
   <string name="set_app_suspend">Trwa wykonywanie kopii zapasowej tej aplikacji. Poczekaj, aż proces się zakończy, i spróbuj ponownie.</string>
+  <string name="cannot_use_mi_huanji_bacause_of_downloader">Aplikacja \"%s\" już dostarcza usługi systemowej kopii zapasowej. Odinstaluj ją i uruchom ponownie urządzenie, aby móc używać Przenoszenia danych.</string>
+  <string name="receiver_finish_not_transferred">Nie przesłano</string>
+  <string name="receiver_finish_transferred">Przesłano</string>
 </resources>

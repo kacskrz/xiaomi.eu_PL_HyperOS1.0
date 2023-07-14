@@ -189,4 +189,8 @@
         <item quantity="few">Zainstaluj %d aplikacje</item>
         <item quantity="one">Zainstaluj %d aplikację</item>
     </plurals>
+    <plurals name="transfer_failed_summary">
+        <item quantity="one">"Nie udało się przesłać %d elementu"</item>
+        <item quantity="other">"Nie udało się przesłać %d elementów"</item>
+    </plurals>
 </resources>
