@@ -939,4 +939,5 @@ Może to generować dodatkowe opłaty."</string>
   <string name="apply_warning_title">Ustawianie tapety</string>
   <string name="dlg_ok">Ustaw</string>
   <string name="passport_vcode_what_app_send_prompt">Twój kod weryfikacyjny WhatsAppa zostanie wysłany na Twój zapasowy numer telefonu (&lt;font color=#1F93FF>%s&lt;/font>).</string>
+  <string name="miuix_appcompat_edit">Edytuj</string>
 </resources>

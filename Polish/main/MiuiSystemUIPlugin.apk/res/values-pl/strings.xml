@@ -457,4 +457,5 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="slider_view_content_right_description">Przesuń w górę, aby ustawić Tryb samolotowy lub w dół, aby ustawić Tryb cichy</string>
     <string name="emergency_call">Poł. alarmowe</string>
     <string name="system_update">Aktualizacja systemu</string>
+    <string name="super_volume_toast">Włączono Zwiększoną głośność</string>
 </resources>

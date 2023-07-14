@@ -624,7 +624,7 @@ z przedniego aparatu"</string>
   <string name="hovermode_text_drag">Przesuń, aby powiększyć</string>
   <string name="hovermode_text_help">Pomoc</string>
   <string name="hovermode_text_left">Zmień jasność</string>
-  <string name="hovermode_text_prompt">Gsy włączony jest Tryb kieszonkowy, możesz używać gestów w dolnej części ekranu. Mogą się one różnić w zależności od aplikacji.</string>
+  <string name="hovermode_text_prompt">Gdy włączony jest Tryb kieszonkowy, możesz używać gestów w dolnej części ekranu. Mogą się one różnić w zależności od aplikacji.</string>
   <string name="hovermode_text_right">Zmień głośność</string>
   <string name="split_screen_recommend_tip">Podział ekranu</string>
 </resources>

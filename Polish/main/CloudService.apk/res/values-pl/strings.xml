@@ -1260,4 +1260,5 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="privacy_runtime_perm_notification_desc">W celu wysyłania powiadomień dot. usług Chmury Xiaomi</string>
   <string name="privacy_runtime_perm_notification_title">Powiadomienia</string>
   <string name="upgrade_member_storage">Członkostwo Chmury Xiaomi</string>
+  <string name="miuix_appcompat_edit">Edytuj</string>
 </resources>

@@ -51,4 +51,7 @@
     <string name="input_method_function_xiaoai">Wprowadzanie głosowe za pomocą Mi SI</string>
     <string name="input_method_function_xiaoai_des">Dotknij, aby użyć wprowadzania głosowego Mi SI</string>
     <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="super_clipboard_alert_dialog_cancel_button">Anuluj</string>
+    <string name="super_clipboard_send_file">Wkleić plik ze schowka?</string>
+    <string name="super_clipboard_send_image">Wkleić obraz ze schowka?</string>
 </resources>
