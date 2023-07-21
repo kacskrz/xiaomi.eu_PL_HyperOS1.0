@@ -148,7 +148,7 @@
   <string name="cate_order_reset">Zresetuj</string>
   <string name="category_already_exists">Ta kategoria już istnieje</string>
   <string name="category_cannot_empty">Najpierw wpisz nazwę kategorii</string>
-  <string name="category_choose_no_app_select_tip">Każda kategoria musi posiadać co najmniej 1 aplikację.</string>
+  <string name="category_choose_no_app_select_tip">Każda kategoria musi posiadać co najmniej %d aplikację.</string>
   <string name="category_drawer_name_hint">Wprowadź nazwę kategorii</string>
   <string name="category_edit_back_confirm_dialog_content">Czy chcesz zapisać zmiany?</string>
   <string name="category_edit_back_confirm_dialog_negative_button">"Nie zapisuj"</string>
@@ -454,7 +454,7 @@
   <string name="remove_invalidate_gadget_tips">Jeden z widżetów, z którego korzystałeś, nie jest już dostępny. Możesz dodać tu jakiś inny widżet.</string>
   <string name="reset_cate_tip_content">Jeśli potwierdzisz to działanie, zostaną przywrócone domyślne ustawienia kategorii. Na pewno chcesz to zrobić?</string>
   <string name="reset_cate_tip_title">Przywróć domyślne kategorie</string>
-  <string name="reset_description_first_time">Możesz przywrócić wygląd pulpitu z %1$s w ciągu 2 godzin</string>
+  <string name="reset_description_first_time">Możesz przywrócić wygląd pulpitu z %2$s w ciągu %1$d godzin</string>
   <string name="reset_description_others">Możesz przywrócić wygląd z %1$s</string>
   <string name="reset_fail">"Nie można przywrócić"</string>
   <string name="reset_scene_prompt">Zostanie przywrócony domyślny motyw pulpitu</string>

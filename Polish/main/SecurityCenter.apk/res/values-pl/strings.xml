@@ -149,7 +149,7 @@
   <string name="antivirus_sec_network_unavailable">"Aplikacja nie ma obecnie dostępu do sieci. Zezwolić aplikacji na dostęp do Internetu?"</string>
   <string name="antivirus_toast_already_update">Pomyślnie zaktualizowano</string>
   <string name="antivirus_toast_network_unavailable">Nie można połączyć się z siecią</string>
-  <string name="antivirus_toast_update_failed">Serwery Xiaomi są zajęte. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="antivirus_toast_update_failed">Odczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="antivirus_toast_update_success">Pomyślnie zaktualizowano</string>
   <string name="antivirus_toast_updating">Aktualizowanie...</string>
   <string name="antivirus_update_btn_contiue">Dalej</string>
@@ -600,7 +600,7 @@
   <string name="back_sound_data">Wymagane jest połączenie z siecią mobilną!</string>
   <string name="back_sound_fail">Nieudane!</string>
   <string name="back_sound_success">Sukces!</string>
-  <string name="back_sound_support">"The current network operators doesn't support it！"</string>
+  <string name="back_sound_support">Wyłącz Wi-Fi</string>
   <string name="background_restrict_app_dialog_message">Ograniczenie dostępu do sieci w tle dla tej aplikacji może spowodować, że aplikacja nie będzie działać poprawnie, odbierać wiadomości, pobierać zawartości, itp. Ograniczyć mimo to?</string>
   <string name="background_traffic">W tle: %s</string>
   <string name="backsound_set_hint">Ustawić dźwięk połączenia na %s?</string>
@@ -1803,7 +1803,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="network_changed_noti_summary">Korzystanie z danych mobilnych</string>
   <string name="network_changed_noti_title">Rozłączono z Wi-Fi</string>
   <string name="network_connected_exception_title">Diagnostyka sieci</string>
-  <string name="network_control">Transmisja danych aplikacji</string>
+  <string name="network_control">Zarządzaj łącznością z siecią</string>
   <string name="network_diagnostics">Diagnostyka sieci</string>
   <string name="network_mobile_exception_detail">"To urządzenie nie ma połączenia z siecią Internet:
 
@@ -1973,7 +1973,7 @@ Jego aktywność skraca żywotność baterii."</string>
   <string name="om_settings_memory_occupy_notify_never">Nigdy</string>
   <string name="om_settings_notify_manage">Powiadomienia</string>
   <string name="om_settings_speed_up_auto">Czyszczenie pamięci RAM</string>
-  <string name="om_settings_title">Optymalizacja pamięci - ustawienia</string>
+  <string name="om_settings_title">Ustawienia Zwiększania prędkości</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open">Otwórz</string>
   <string name="open_activity_err">Aplikacje nie została znaleziona</string>
@@ -5997,4 +5997,39 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="pc_continuity_has_open_save_mode_notifi_title">Włączono Oszczędzanie baterii na %s</string>
     <string name="pc_continuity_open_save_mode_notifi_sumary">Poziom baterii %1$s wynosi mniej niż %2$s. Włącz Oszczędzanie baterii, aby wydłużyć działanie o %3$s %4$s.</string>
     <string name="pc_continuity_open_save_mode_notifi_title">Niski poziom baterii na %s</string>
+    <string name="app_management_empty_desc">"Ta aplikacja nie wspiera tej funkcji"</string>
+    <string name="back_sound_support_china">Wyłącz Wi-Fi</string>
+    <string name="card_main_apkclean_title">Usuń pliki APK</string>
+    <string name="card_main_appdataclean_title">Wyczyść dane aplikacji</string>
+    <string name="card_main_facebookclean_title">Czyszczenie Facebooka</string>
+    <string name="card_main_galleryclean_title">Usuń zdjęcia</string>
+    <string name="card_main_whatsappclean_title">Czyszczenie WhatsAppa</string>
+    <string name="clear_instant_app_confirmation">Chcesz usunąć tę aplikację błyskawiczną?</string>
+    <string name="clear_instant_app_data">Usuwanie aplikacji</string>
+    <string name="cs_screen_translation_title">Tłumaczenie ekranu</string>
+    <string name="gtb_guide_accelerate">Dotknij przycisku \"Przyspiesz\", aby zoptymalizować grę</string>
+    <string name="gtb_guide_accelerated_tips">Game Turbo optymalizuje wrażenia z gry</string>
+    <string name="gtb_guide_gtb_line_new_global">Przesuń, aby otworzyć Game Turbo</string>
+    <string name="install_text">Instaluj</string>
+    <string name="install_type_instant">Aplikacja błyskawiczna</string>
+    <string name="launch_instant_app">Otwórz</string>
+    <string name="menu_hide_work_profile_text">Ukryj aplikacje z Profilu służbowego</string>
+    <string name="menu_show_work_profile_text">Pokaż aplikacje z Profilu służbowego</string>
+    <string name="pc_low_batterty_got_it">OK</string>
+    <string name="pc_low_battery_fast_charge">Przyspiesz ładowanie</string>
+    <string name="pc_low_battery_fast_charge_summary">Podłącz dołączoną ładowarkę, aby przyspieszyć ładowanie, gdy poziom baterii jest niski, a ekran jest wyłączony. Funkcja może spowodować nagrzewanie się urządzenia.</string>
+    <string name="pc_smart_discharge_checkbox_summary">"Ładowanie zatrzyma się automatycznie, gdy zostanie osiągnięty wybrany poziom baterii i korzystasz z nawigacji. Funkcja nie będzie działać, gdy włączone jest Oszczędzanie baterii lub Ultraoszczędzanie baterii."</string>
+    <string name="pc_smart_discharge_checkbox_title">Zatrzymywanie ładowania</string>
+    <string name="pc_smart_discharge_drop_down_title">Ustawienia Zatrzymywania ładowania</string>
+    <string name="pc_smart_discharge_protect_notifi_summary">Ładowanie zatrzyma się automatycznie przy ustalonym poziomie baterii, gdy używasz nawigacji, aby chronić baterię</string>
+    <string name="pc_smart_discharge_protect_notifi_title">Włączono Zatrzymywanie ładowania</string>
+    <string name="phone_manage_privacy_title">Ochrona prywatności</string>
+    <string name="popular_action_anti_spam_title_global">Blokuj połączenia i wiadomości</string>
+    <string name="popular_action_app_lock_title_global">Chroń aplikacje Blokadą aplikacji</string>
+    <string name="popular_action_card_title">Popularne funkcje</string>
+    <string name="popular_action_first_aid_title_global">Dla nowych użytkowników</string>
+    <string name="popular_action_net_assistant_title_global">Monitoruj prędkość połączenia</string>
+    <string name="popular_action_video_clean_title_global">Wyczyść pamięć podręczną filmów, aby zwolnić miejsce</string>
+    <string name="storage_activity_title_personage">Osobiste</string>
+    <string name="storage_activity_title_work">Praca</string>
 </resources>
