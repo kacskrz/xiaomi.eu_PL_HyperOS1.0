@@ -953,7 +953,6 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_zoom_mode_entry_tele_abbr">TELE</string>
   <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
   <string name="pref_camera_zoom_mode_entry_ultra">B. szeroki</string>
-  <string name="pref_camera_zoom_mode_entry_ultra_abbr">B. SZEROKI</string>
   <string name="pref_camera_zoom_mode_entry_wide">Szeroki</string>
   <string name="pref_camera_zoom_mode_entry_wide_abbr">SZEROKI</string>
   <string name="pref_camera_zoom_mode_title">Obiektyw</string>
@@ -1344,7 +1343,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="timer_burst">Wyzwalacz zdjęć seryjnych</string>
   <string name="timer_burst_manu_param_interval">Przedział czasowy bez ekspozycji</string>
   <string name="timer_burst_param_interval">Przedział czasowy</string>
-  <string name="timer_burst_param_total_count">Ilość zdjęć</string>
+  <string name="timer_burst_param_total_count">Liczba zdjęć</string>
   <string name="timer_burst_setting_total_count">Obecnie: %1$s</string>
   <string name="color_effect_entry_blackice">Czarny lód</string>
   <string name="color_effect_entry_orange">Limonka</string>
