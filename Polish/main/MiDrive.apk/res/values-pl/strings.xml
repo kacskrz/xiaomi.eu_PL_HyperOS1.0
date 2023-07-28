@@ -857,4 +857,6 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w MIUI."</st
   <string name="request_permission_read_media_video">Dostęp do filmów</string>
   <string name="request_permission_read_media_video_desc">W celu podglądania, wysyłania, pobierania i synchronizacji filmów</string>
   <string name="request_permission_read_media_visual">W celu podglądania, wysyłania, pobierania i synchronizacji zdjęć i filmów</string>
+  <string name="exception_share_file">"Nie udało się przesłać. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
+  <string name="miuix_appcompat_edit">Edytuj</string>
 </resources>
