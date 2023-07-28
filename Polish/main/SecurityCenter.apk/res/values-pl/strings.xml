@@ -1615,7 +1615,7 @@ Operator może naliczyć dodatkowe opłaty, jeśli będziesz korzystać z danych
   <string name="main_primary_message_traffic_overlimit">Limit danych przekroczony</string>
   <string name="main_primary_message_traffic_overlimit_purchase">You need to top-up</string>
   <string name="main_primary_message_traffic_purchase">You need to top-up</string>
-  <string name="main_primary_message_traffic_remain">Dane mobilne</string>
+  <string name="main_primary_message_traffic_remain">Pozostałe dane</string>
   <string name="main_primary_message_traffic_warning">Blisko limitu danych</string>
   <string name="main_secondary_message_traffic_detail_leisure">"
 Off-peak: %1$s | %2$s used"</string>
@@ -6032,4 +6032,10 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="popular_action_video_clean_title_global">Wyczyść pamięć podręczną filmów, aby zwolnić miejsce</string>
     <string name="storage_activity_title_personage">Osobiste</string>
     <string name="storage_activity_title_work">Praca</string>
+    <string name="global_satisfaction_notification_channel">Ankieta dot. zadowolenia użytkownika</string>
+    <string name="permission_instruction_get_identifier">Dostęp do ID urządzenia</string>
+    <string name="permission_instruction_read_history">Dostęp do historii przeglądania</string>
+    <string name="permission_instruction_receive_sms">Otrzymywanie SMS-ów i MMS-ów</string>
+    <string name="permission_instruction_record_screen">Dostęp do zawartości ekranu</string>
+    <string name="permission_instruction_transfer_data_to_other_devices">Przenoszenie danych na inne urządzenia</string>
 </resources>

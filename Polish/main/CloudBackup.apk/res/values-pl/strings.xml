@@ -489,4 +489,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="request_permissions_dialog_title">Wymagane uprawnienia</string>
   <string name="session_failed_get_installed_apps_denied_detail">Aby móc wykonywać automatyczne kopie zapasowe, przyznaj tej aplikacji uprawnienie dostępu do listy aplikacji zainstalowanych na urządzeniu w Ustawieniach i wybierz tam opcję Zawsze zezwalaj.</string>
   <string name="session_failed_get_installed_apps_denied_title">Wymagane uprawnienia</string>
+  <string name="miuix_appcompat_edit">Edytuj</string>
 </resources>
