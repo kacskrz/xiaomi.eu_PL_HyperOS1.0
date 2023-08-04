@@ -533,4 +533,7 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">"Nie udało się połączyć z komputerem. Upewnij się, że na obu urządzeniach są włączone Wi-Fi i Bluetooth."</string>
     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Nie udało się połączyć z komputerem. Upewnij się, że na zarówno na telefonie, jak i komputerze są włączone Wi-Fi i Bluetooth, a na komputerze uruchomione jest MIUI+."</string>
     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Nie udało się połączyć z komputerem. Upewnij się, że na zarówno na telefonie, jak i komputerze są włączone Wi-Fi i Bluetooth, a na komputerze uruchomione jest MIUI+."</string>
+    <string name="settings_nfc_transfer_desc1">"·Zbliż telefon zalogowany na Twoje konto Xiaomi do modułu NFC tego urządzenia, aby udostępnić ekran lub przesłać elementy wybrane w aplikacji Pliki bądź w Galerii."</string>
+    <string name="settings_nfc_transfer_desc2">·Lista kompatybilnych urządzeń znajduje się na stronie: %s</string>
+    <string name="settings_nfc_transfer_title">Prześlij elementy przez NFC</string>
 </resources>

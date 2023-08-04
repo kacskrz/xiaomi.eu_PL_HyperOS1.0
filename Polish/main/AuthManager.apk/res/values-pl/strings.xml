@@ -491,7 +491,7 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="tilte_request_fine_location">Zezwolić %1$s na dostęp do dokładnej lokalizacji czy udzielić jej jedynie danych o przybliżonej lokalizacji?</string>
   <string name="HIPS_Perm_operator_shake">Dostęp do ruchu i orientacji urządzenia</string>
   <string name="HIPS_Perm_operator_shake_Desc">W celu wykrywania pozycji urządzenia w przestrzeni, rozpoznawania potrząśnięć i orientacji</string>
-  <string name="permdesc_shake">Zezwolić \"%1$s\" na dostęp do sensorów urządzenia w celu wykrywania potrząśnięć i orientacji urządzenia?</string>
+  <string name="permdesc_shake">Zezwolić \"%1$s\" na używanie sensorów urządzenia w celu wykrywania potrząśnięć i dostarczania funkcji związanych z nimi?</string>
   <string name="permdesc_isolate_storage">Zezwolić %1$s na dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu?</string>
   <string name="permgroupdesc_read_media_aural">Zezwolić %1$s na dostęp do plików audio przechowywanych na urządzeniu?</string>
   <string name="permgroupdesc_read_media_visual">Zezwolić %1$s na dostęp do zdjęć i filmów przechowywanych na urządzeniu?</string>

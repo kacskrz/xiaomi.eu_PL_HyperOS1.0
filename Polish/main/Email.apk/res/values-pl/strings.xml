@@ -1709,5 +1709,12 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
   <string name="folder_junk_name_en5">Spam</string>
   <string name="message_invite_calendar_download_prompt">Pobierz Kalendarz, aby móc korzystać z tej funkcji</string>
   <string name="message_forward_has_signature_pdf">Przekazać wiadomość z podpisanymi załącznikami PDF?</string>
-  <string name="auto_start_open_prompt">"Poczta nie może używać autostartu. Może to wpłynąć na synchronizację e-maili. Włączyć autostart?"</string>
+  <string name="auto_start_open_prompt">"Zezwól aplikacji na autostart, aby mogła ona synchronizować Twoje maile. Możesz to zrobić w Ustawieniach."</string>
+  <string name="cancel_edit">Zatrzymaj edycję</string>
+  <string name="drop_sign_operation">Zatrzymać edycję i anulować zmiany?</string>
+  <string name="other_pdf_open">Otwórz za pomocą…</string>
+  <string name="pdf_save_local">"Pomyślnie zapisano: "</string>
+  <string name="please_save_sign_first">Najpierw zapisz sygnaturę</string>
+  <string name="save_sign_pdf">Zapisz na urządzeniu</string>
+  <string name="translated_text_too_long">Wybierz mniej tekstu i spróbuj ponownie</string>
 </resources>

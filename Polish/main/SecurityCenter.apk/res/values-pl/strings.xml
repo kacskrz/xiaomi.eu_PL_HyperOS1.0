@@ -6038,4 +6038,5 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="permission_instruction_receive_sms">Otrzymywanie SMS-ów i MMS-ów</string>
     <string name="permission_instruction_record_screen">Dostęp do zawartości ekranu</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Przenoszenie danych na inne urządzenia</string>
+    <string name="virus_auto_update_engine_1">Automatycznie aktualizuj definicje wirusów</string>
 </resources>

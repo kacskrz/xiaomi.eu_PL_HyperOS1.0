@@ -380,4 +380,6 @@
   <string name="permission_requesr_content">Zezwól tej aplikacji na łączenie się z urządzeniami w pobliżu w Ustawieniach.</string>
   <string name="permission_requesr_title">Wymagane uprawnienia</string>
   <string name="effect_virtual_surround_summary_spk">Zwiększ głębię dźwięku w odtwarzanych utworach i filmach</string>
+  <string name="effect_selection_headset">Efekty słuchawek</string>
+  <string name="effect_none">Domyślny</string>
 </resources>

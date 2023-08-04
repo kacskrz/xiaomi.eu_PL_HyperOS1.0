@@ -421,4 +421,5 @@
   <string name="pc_going_to_exit_extreme_mode_summary">Twoje urządzenie się ładuje. Wyłączono Tryb hibernacji.</string>
   <string name="retry_action">Spróbuj ponownie</string>
   <string name="pc_entered_extreme_mode_summary2">"Urządzenie jest prawie rozładowane. W Trybie hibernacji nie otrzymasz żadnych powiadomień z aplikacji działających w tle."</string>
+  <string name="superpower_toast_app_select_full_new">Do często używanych aplikacji możesz dodać maks. %d elementów</string>
 </resources>
