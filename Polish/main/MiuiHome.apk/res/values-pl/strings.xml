@@ -1002,4 +1002,10 @@ Zwiększone bezpieczeństwo."</string>
   <string name="find_app_by_color">Grupuj ikony po kolorze, aby łatwiej odnaleźć aplikacje</string>
   <string name="free_style_title">Mi Space</string>
   <string name="free_style_unavailable_message">Mi Space nie jest wspierane w tej wersji. Możesz nadal używać tego motywu.</string>
+  <string name="content_center">Centrum treści</string>
+  <string name="international_home_pull_down_content">Przesuń w dół na pulpicie, aby szukać zawartości na tym urządzeniu i w Internecie.</string>
+  <string name="international_home_pull_down_sub_content">Przejdź do Ustawień > Pulpit > Przesunięcie w dół na pulpicie, aby sprawić, by ten gest otwierał Centrum funkcji.</string>
+  <string name="international_home_pull_down_up_btn_get">Rozumiem</string>
+  <string name="international_home_pull_up_content">Przesuń w górę na pulpicie, aby otworzyć Centrum treści.</string>
+  <string name="international_home_pull_up_sub_content">Przesuń w dół od środka pulpitu, aby otworzyć wyszukiwarkę.</string>
 </resources>

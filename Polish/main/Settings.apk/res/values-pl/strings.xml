@@ -10722,7 +10722,7 @@ Po usunięciu tych danych będziesz potrzebować kodu PIN, wzoru lub hasła do o
     <string name="user_copy_apps_menu_title">Zainstaluj dostępne aplikacje</string>
     <string name="vibrate_icon_title">Zawsze wyświetlaj ikonę w trybie wibracji</string>
     <string name="wifi_ap_choose_6G">Pasmo 6.0 GHz</string>
-    <string name="wifi_ap_choose_vendor_dual_band">Podwójne pasmi</string>
+    <string name="wifi_ap_choose_vendor_dual_band">Podwójne pasmo</string>
     <string name="wifi_ap_prefer_6G">Preferuj pasmo 6.0 GHz</string>
     <string name="wifi_non_persistent_mac_randomization">Nietrwała randomizacja adresów MAC w sieci Wi-Fi</string>
     <string name="wifi_non_persistent_mac_randomization_summary">Kiedy ten tryb jest włączony, to adres MAC tego urządzenia może zmieniać się za każdym razem, kiedy urządzenie połączy się z siecią, która ma włączoną opcję randomizacji MAC</string>
