@@ -989,4 +989,9 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="broken_screen_rescue_service_turn_on">Włącz</string>
   <string name="broken_screen_rescue_service_turn_on_confirm">Włączyć kopie zapasowe z uszkodzonym ekranem?</string>
   <string name="backup_for_broken_screen">Kopie zapasowe z uszkodzonym ekranem</string>
+  <string name="new_usb_unwritable_storage_content">"Nie udało się zapisać elementów na pamięć zewnętrzną. Spróbuj podłączyć ją ponownie."</string>
+  <string name="new_usb_unwritable_storage_title">"Nie udało się zapisać"</string>
+  <string name="permission_purpose_pad">Ta funkcja umożliwia Ci wykonywanie kopii zapasowej i jej przywracanie za pomocą urządzenia mobilnego, komputera czy dysku USB.</string>
+  <string name="permission_read_storage_global_pad">Dostęp do pamięci</string>
+  <string name="permission_write_storage_pad">Zapis elementów w pamięci</string>
 </resources>

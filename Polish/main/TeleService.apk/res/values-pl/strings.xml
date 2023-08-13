@@ -2467,4 +2467,10 @@ Ten tablet nie jest wyposażony w słuchawki. Możesz przełączyć w tryb gło�
     <string name="vice_slot_volte_data_dialog_message_ext"><Data>Wygląda na to, że Twoje obecne połączenie z siecią jest niestabilne. Możesz spróbować automatycznie przełączyć się między kartami SIM do danych. &lt;font color=#ff0000>&lt;b>Używanie tej funkcji może wiązać się z dodatkowymi opłatami od operatora&lt;/b>&lt;/font>.</Data></string>
     <string name="dsda_end_call_toast">Poprzednie połączenie się zakończyło</string>
     <string name="dual_sim_smart_call_forward_dialog_message">Aby ta funkcja mogła działać normalnie, na obu kartach SIM powinno być włączone przekierowanie połączeń. Aby sprawdzić szczegóły dot. opcji i opłat związanych z przekierowaniem połączeń, skontaktuj się ze swoim operatorem.</string>
+    <string name="clh_callFailed_satelliteEnabled_txt">Włączono Tryb satelity</string>
+    <string name="feedback_title">Opinia</string>
+    <string name="incall_error_satellite_enabled">Aby wykonać połączenie, wyłącz Tryb satelity.</string>
+    <string name="install_messages_on_work_profile_action_str">Zainstaluj służbową aplikację do SMS-ów</string>
+    <string name="modem_log_notification__message">Może to zwiększyć zużycie energii</string>
+    <string name="modem_log_notification_title">Generowanie logów modemu…</string>
 </resources>

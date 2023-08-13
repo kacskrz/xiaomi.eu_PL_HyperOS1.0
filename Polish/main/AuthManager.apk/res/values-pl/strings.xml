@@ -506,4 +506,9 @@ Uprawnienia ROOT dostępne tylko w wersji rozwojowej."
   <string name="call_notification_incoming_text">Połączenie przychodzące</string>
   <string name="call_notification_ongoing_text">Trwa połączenie</string>
   <string name="call_notification_screening_text">Filtruję połączenie przychodzące</string>
+  <string name="grant_dialog_button_allow_all">Zezwól dla wszystkich elementów</string>
+  <string name="grant_dialog_button_allow_more_selected_photos">Wybierz więcej elementów</string>
+  <string name="grant_dialog_button_allow_selected_photos">Wybierz elementy</string>
+  <string name="grant_dialog_button_always_allow_all">Zawsze zezwalaj dla wszystkich elementów</string>
+  <string name="grant_dialog_button_dont_allow_more_selected_photos">"Nie zezwalaj na dodatkowy wybór"</string>
 </resources>

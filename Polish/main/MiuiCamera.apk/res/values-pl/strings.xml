@@ -2541,4 +2541,13 @@ Jeśli używasz hotspotu do łączenia się z siecią, ustaw jego pasmo AP na %s
     <string name="video_effect_entry_literature_art">Poezja</string>
     <string name="video_effect_entry_orange_honey">Bursztyn</string>
     <string name="video_effect_entry_romance">Urok</string>
+    <string name="accessibility_auto_macro_off">Automatyczny bliski fokus wyłączony</string>
+    <string name="accessibility_auto_macro_on">Automatyczny bliski fokus włączony</string>
+    <string name="confirm_truecolor_setting_message">"Dolby Vision nie wspiera ostrości podczas śledzenia ruchu i rozdzielczości 720p/8K. Włączyć mimo to?"</string>
+    <string name="dialog_truecolor_setting_open">Włącz</string>
+    <string name="pref_true_colour_video_mode_setting_dec">"Uchwyć realistyczne szczegóły, wspaniałe kolory i uderzający kontrast w trybach Film i Profesjonalny. Funkcja nie działa z Śledzeniem ruchu i kodekiem H.264. Może też nie być kompatybilna z niektórymi zewnętrznymi aplikacjami."</string>
+    <string name="tip_hdr_auto">HDR: Autom.</string>
+    <string name="tip_hdr_on">HDR: Wł.</string>
+    <string name="track_focus_mutex_truecolor_setting_tips">"Śledzenie ruchu nie jest wspierane w filmach z Dolby Vision/8K/60 kl./s"</string>
+    <string name="video_quality_track_focus_conflict_toast">"Śledzenie ruchu nie jest wspierane w filmach 8K/60 kl./s"</string>
 </resources>

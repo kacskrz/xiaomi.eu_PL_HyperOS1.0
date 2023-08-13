@@ -627,4 +627,12 @@ z przedniego aparatu"</string>
   <string name="hovermode_text_prompt">Gdy włączony jest Tryb kieszonkowy, możesz używać gestów w dolnej części ekranu. Mogą się one różnić w zależności od aplikacji.</string>
   <string name="hovermode_text_right">Zmień głośność</string>
   <string name="split_screen_recommend_tip">Podział ekranu</string>
+  <string name="wifi_disable_micar_p2p_dialog_message">Łączenie się z nową siecią Wi-Fi rozłączy to urządzenie z autem. Rozłączyć?</string>
+  <string name="wifi_disable_micar_p2p_dialog_message_carwith">Łączenie się z nową siecią Wi-Fi rozłączy to urządzenie z CarWith. Rozłączyć?</string>
+  <string name="wifi_disable_micar_p2p_dialog_message_carwith_china">Łączenie się z nową siecią Wi-Fi rozłączy to urządzenie z CarWith. Rozłączyć?</string>
+  <string name="wifi_disable_micar_p2p_dialog_message_china">Łączenie się z nową siecią Wi-Fi rozłączy to urządzenie z autem. Rozłączyć?</string>
+  <string name="wifi_disable_micar_p2p_dialog_negative_button">Anuluj</string>
+  <string name="wifi_disable_micar_p2p_dialog_positive_button">Rozłącz</string>
+  <string name="wifi_disable_micar_p2p_dialog_title">Rozłączyć z autem?</string>
+  <string name="wifi_disable_micar_p2p_dialog_title_carwith">Rozłączyć z CarWith?</string>
 </resources>

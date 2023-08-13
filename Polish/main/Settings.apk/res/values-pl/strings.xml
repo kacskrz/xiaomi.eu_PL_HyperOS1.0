@@ -954,7 +954,7 @@ Aplikacje:
   <string name="bluetooth_device_advanced_online_mode_title">Połącz</string>
   <string name="bluetooth_device_advanced_profile_header_title">Używaj do:</string>
   <string name="bluetooth_device_advanced_rename_device">Zmień nazwę</string>
-  <string name="bluetooth_device_advanced_title">Sparowane urządzenie Bluetooth</string>
+  <string name="bluetooth_device_advanced_title">Sparowane urządzenia Bluetooth</string>
   <string name="bluetooth_device_context_connect">Połącz</string>
   <string name="bluetooth_device_context_connect_advanced">Opcje…</string>
   <string name="bluetooth_device_context_disconnect">Rozłącz</string>
@@ -8405,7 +8405,7 @@ patrząc na zewnętrzny ekran"</string>
   <string name="bluetooth_message_move_out_of_blacklist">Odblokować %1$s?</string>
   <string name="bluetooth_move_out_of_blacklist">Odblokuj urządzenie</string>
   <string name="bluetooth_pairing_add_to_blackfile">Zablokuj</string>
-  <string name="bluetooth_pairing_toast_add_to_blackfile">Pomyślnie zablokowano. Możesz zarządzać zablokowanymi elementami w \"Dodatkowych ustawieniach\".</string>
+  <string name="bluetooth_pairing_toast_add_to_blackfile">Możesz zarządzać zablokowanymi elementami w \"Dodatkowych ustawieniach\".</string>
   <string name="crisp_text">Wysokie częstotliwości dodają klarowności szczegółom każdej akcji</string>
   <string name="critical_feedback">Krytyczna reakcja zwrotna</string>
   <string name="elastic_text">Monity i rozwijane menu pojawiają się z elastycznym wyskakującym okienkiem, które pozwala skupić się bardziej na tych obiektach</string>
@@ -9101,7 +9101,7 @@ Jeśli nie włączysz tych uprawnień, istniejące alarmy i zaplanowane wydarzen
     <string name="app_launch_supported_links_subtext">Otwiera się w aplikacji %s</string>
     <string name="app_launch_top_intro_message">Zezwalaj na otwieranie linków internetowych w tej aplikacji</string>
     <string name="app_launch_verified_links_info_description">Pokaż listę linków weryfikacyjnych</string>    
-    <string name="app_notification_field">Ustawienia aplikacji</string>
+    <string name="app_notification_field">Powiadomienia aplikacji</string>
     <string name="app_pinning_intro">Przypinanie aplikacji pozwala wyświetlać bieżącą aplikację nad innymi, by była widoczna, dopóki jej nie odepniesz. Możesz użyć tej funkcji, np. by pozwolić zaufanemu znajomemu zagrać w wybraną grę.</string>
     <string name="app_pinning_main_switch_title">Używaj przypinania aplikacji</string>
     <string name="apps_dashboard_title">Aplikacje</string>
@@ -9339,7 +9339,7 @@ Aby dowiedzieć się więcej, skontaktuj się z operatorem udzielającym kredytu
     <string name="keywords_color_inversion">przyciemnienie ekranu, rozjaśnienie ekranu</string>
     <string name="keywords_display_size">rozmiar ekranu, duży ekran</string>
     <string name="keywords_font_size">rozmiar tekstu, duży druk, duża czcionka, duży tekst, niedowidzenie, powiększenie tekstu, powiększenie czcionki</string>
-    <string name="keywords_hearing_aids">niedosłuch, utrata słuchu</string>
+    <string name="keywords_hearing_aids">aparaty słuchowe, niedosłyszący, utrata słuchu, implanty ślimakowe, urządzenia wzmacniające dźwięk, procesory dźwięku</string>
     <string name="keywords_internet">połączenie sieciowe, internet, bezprzewodowy, dane, Wi-Fi, wi-fi, wi fi, komórka, telefon, operator komórkowy, 4g, 3g, 2g, lte</string>
     <string name="keywords_live_caption">napisy, Transkrypcja na żywo, niedosłuch, utrata słuchu, CART, zamiana mowy na tekst</string>
     <string name="keywords_live_transcribe">napisy, Napisy na żywo, niedosłuch, utrata słuchu, CART, zamiana mowy na tekst</string>
@@ -9430,7 +9430,7 @@ Kod PIN ochroni telefon, jeśli zostanie zgubiony lub skradziony."</string>
     <string name="lockpassword_reenter_your_profile_password_header">Ponownie wpisz hasło służbowe</string>
     <string name="lockpassword_reenter_your_profile_pin_header">Ponownie wpisz służbowy kod PIN</string>
     <string name="lockscreen_privacy_controls_setting_toggle">Pokazuj sterowanie urządzeniami</string>
-    <string name="lockscreen_privacy_controls_summary">Kontrola dostępu po zablokowaniu</string>
+    <string name="lockscreen_privacy_controls_summary">Na ekranie blokady</string>
     <string name="lockscreen_privacy_not_secure">Najpierw ustaw blokadę ekranu</string>
     <string name="lockscreen_privacy_wallet_setting_toggle">Pokazuj portfel</string>
     <string name="lockscreen_privacy_wallet_summary">Zezwalaj na dostęp do portfela na ekranie blokady i w szybkich ustawieniach</string>
@@ -9631,7 +9631,7 @@ Z tego urządzenia korzystają inni użytkownicy.
     <string name="screen_saver_main_switch_title">Używaj wygaszacza ekranu</string>
     <string name="security_settings_biometric_preference_summary_both_fp_multiple">Dodano skany twarzy i odciski palca</string>
     <string name="security_settings_biometric_preference_summary_both_fp_single">Dodano skan twarzy i odcisk palca</string>
-    <string name="security_settings_biometric_preference_summary_none_enrolled">Kliknij, aby skonfigurować</string>
+    <string name="security_settings_biometric_preference_summary_none_enrolled">Wymagana konfiguracja</string>
     <string name="security_settings_biometric_preference_title">Rozpoznawanie twarzy i odblokowywanie odciskiem palca</string>
     <string name="security_settings_biometrics_description">Jeśli ustawisz rozpoznawanie twarzy i odblokowywanie odciskiem palca, w ciemnym otoczeniu oraz jeśli będziesz mieć na twarzy maskę, pojawi się prośba o użycie odcisku palca</string>
     <string name="security_settings_biometrics_preference_use_with_apps">Uwierzytelnianie w aplikacjach</string>
@@ -10621,8 +10621,8 @@ Aby dowiedzieć się więcej, skontaktuj się z operatorem udzielającym kredytu
     <string name="lockscreen_double_line_clock_setting_toggle">Zegar dwuwierszowy</string>
     <string name="lockscreen_privacy_qr_code_scanner_setting_toggle">Pokazuj skaner kodów QR</string>
     <string name="lockscreen_privacy_qr_code_scanner_summary">Zezwól na dostęp do skanera kodów QR na ekranie blokady</string>
-    <string name="lockscreen_trivial_controls_setting_toggle">Steruj z zablokowanego urządzenia</string>
-    <string name="lockscreen_trivial_controls_summary">Steruj zewnętrznymi urządzeniami bez konieczności odblokowywania telefonu lub tabletu, jeśli zezwala na to aplikacja do sterowania urządzeniami</string>
+    <string name="lockscreen_trivial_controls_setting_toggle">Używaj elementów sterowania urządzeniem</string>
+    <string name="lockscreen_trivial_controls_summary">Bez odblokowywania telefonu</string>
     <string name="mic_toggle_description">Aplikacje i usługi. Jeśli wyłączysz to ustawienie, dane mikrofonu wciąż mogą być udostępniane podczas połączenia z numerem alarmowym.</string>
     <string name="mobile_data_settings_summary_dds_roaming_unavailable">Niedostępne, gdy trwa rozmowa na innej karcie SIM</string>
     <string name="mobile_data_settings_summary_default_data_unavailable">Dane mobilne zostaną automatycznie przełączone na tego operatora po zakończeniu rozmowy</string>
@@ -11615,7 +11615,7 @@ Pomaga to chronić dane na zgubionych lub skradzionych urządzeniach. Wymagać k
     <string name="lockpassword_strong_auth_required_work_password">Ze względów bezpieczeństwa podaj hasło do profilu służbowego</string>
     <string name="lockpassword_strong_auth_required_work_pattern">Ze względów bezpieczeństwa podaj wzór do profilu służbowego</string>
     <string name="lockpassword_strong_auth_required_work_pin">Ze względów bezpieczeństwa podaj kod PIN do profilu służbowego</string>
-    <string name="lockscreen_bypass_summary">Po odblokowaniu przechodź od razu do ostatnio używanego ekranu</string>
+    <string name="lockscreen_bypass_summary">Po odblokowaniu wyświetl ostatnio używany ekran. Na ekranie blokady nie będzie powiadomień. Aby je zobaczyć, przesuń palcem z góry na dół.</string>
     <string name="lockscreen_bypass_title">Pomijaj ekran blokady</string>
     <string name="lockscreen_settings_what_to_show_category">Co pokazywać</string>
     <string name="low_label">Niska</string>
@@ -11999,7 +11999,7 @@ Uwaga: nie możesz odblokowywać tego urządzenia za pomocą funkcji rozpoznawan
     <string name="security_settings_face_enroll_should_re_enroll_subtitle">Skonfiguruj ponownie rozpoznawanie twarzy</string>
     <string name="security_settings_face_enroll_should_re_enroll_title">Popraw działanie rozpoznawania twarzy</string>
     <string name="security_settings_face_preference_summary">Dodano twarz</string>
-    <string name="security_settings_face_preference_summary_none">Kliknij, aby skonfigurować rozpoznawanie twarzy</string>
+    <string name="security_settings_face_preference_summary_none">Wymagana konfiguracja</string>
     <string name="security_settings_face_preference_title">Rozpoznawanie twarzy</string>
     <string name="security_settings_face_profile_preference_title">Rozpoznawanie twarzy w profilu służbowym</string>
     <string name="security_settings_face_settings_context_subtitle">Używaj rozpoznawania twarzy do odblokowywania telefonu</string>
@@ -12583,7 +12583,7 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIU
     <string name="accessibility_fingerprint_label">Czytnik linii papilarnych</string>
     <string name="accessibility_found_all_devices">Nie widzisz swojego urządzenia słuchowego?</string>
     <string name="accessibility_found_hearing_devices">Dostępne urządzenia słuchowe</string>
-    <string name="accessibility_hac_mode_summary">Lepsza jakość dźwięku w przypadku niektórych urządzeń słuchowych</string>
+    <string name="accessibility_hac_mode_summary">Zwiększa zgodność z cewkami telefonicznymi i ogranicza niepożądany szum</string>
     <string name="accessibility_hac_mode_title">Zgodność z aparatem słuchowym</string>
     <string name="accessibility_hearing_device_connected_title">Urządzenia słuchowe</string>
     <string name="accessibility_hearing_device_control">Sterowanie urządzeniem słuchowym</string>
@@ -12592,9 +12592,9 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIU
     <string name="accessibility_hearing_device_pairing_title">Sparuj nowe urządzenie</string>
     <string name="accessibility_hearing_device_saved_title">Zapisane urządzenia</string>
     <string name="accessibility_hearing_device_shortcut_title">Skrót urządzenia słuchowego</string>
-    <string name="accessibility_list_all_devices_title">Wyświetl wszystkie urządzenia Bluetooth</string>
-    <string name="accessibility_screen_magnification_always_on_summary">Zamiast dezaktywacji powiększenia przy zmianie aplikacji następuje powiększenie do standardowego rozmiaru. Ściągnij palce, aby powiększyć w dowolnym momencie.</string>
-    <string name="accessibility_screen_magnification_always_on_title">Zawsze włączony</string>
+    <string name="accessibility_list_all_devices_title">Zobacz więcej urządzeń</string>
+    <string name="accessibility_screen_magnification_always_on_summary">Lupa pozostaje włączona, ale oddala widok, gdy przechodzisz do innej aplikacji</string>
+    <string name="accessibility_screen_magnification_always_on_title">Pozostaw włączone przy przełączaniu aplikacji</string>
     <string name="accessibility_screen_magnification_joystick_summary">Aktywuj powiększanie okna i poruszaj lupą za pomocą joysticku na ekranie. Naciśnij i przytrzymaj, a następnie przeciągnij joystick, aby zarządzać powiększeniem okna. Klikaj i przeciągaj, aby poruszać joystickiem.</string>
     <string name="accessibility_screen_magnification_joystick_title">Joystick</string>
     <string name="accessibility_tutorial_dialog_link_button">Ustawienia przycisku ułatwień dostępu</string>
@@ -12645,8 +12645,8 @@ Aplikacje wymienione na tej liście nie są niezbędne do prawidłowego działan
     <string name="battery_tip_dock_defender_temporarily_bypassed_summary">Ze względu na ochronę baterii ładowanie zostanie zoptymalizowane, gdy następnym razem postawisz tablet na stacji dokującej</string>
     <string name="battery_tip_dock_defender_temporarily_bypassed_title">Ładuję do pełnego naładowania</string>
     <string name="battery_tip_incompatible_charging_content_description">Więcej informacji o ładowaniu niezgodną ładowarką</string>
-    <string name="battery_tip_incompatible_charging_message">Bateria nie jest ładowana lub ładuje się bardzo powoli</string>
-    <string name="battery_tip_incompatible_charging_title">Niezgodna konfiguracja ładowania</string>
+    <string name="battery_tip_incompatible_charging_message">Bateria ładuje się powoli lub nie ładuje wcale. Sprawdź, czy kabel i ładowarka działają z tym telefonem</string>
+    <string name="battery_tip_incompatible_charging_title">Problem z akcesoriami do ładowania</string>
     <string name="battery_tip_limited_temporarily_sec_button_content_description">Więcej informacji o ładowaniu zostało zatrzymane</string>
     <string name="battery_tip_restrict_app_dialog_title">{count,plural, =1{Wprowadzić ograniczenia dla aplikacji?}few{Wprowadzić ograniczenia dla # aplikacji?}many{Wprowadzić ograniczenia dla # aplikacji?}other{Wprowadzić ograniczenia dla # aplikacji?}}</string>
     <string name="battery_tip_restrict_handled_summary">{count,plural, =1{Ta aplikacja nie może działać w tle}few{Te aplikacje nie mogą działać w tle}many{Te aplikacje nie mogą działać w tle}other{Te aplikacje nie mogą działać w tle}}</string>
@@ -12679,20 +12679,20 @@ Jeśli odcisk palca lub twarz nie zostaną rozpoznane, możesz odblokować urzą
     <string name="biometric_settings_use_watch_preference_summary">Przy użyciu zegarka</string>
     <string name="bluetooth_audio_path_hearing_device_title">Odtwórz na urządzeniu słuchowym</string>
     <string name="bluetooth_audio_path_phone_speaker_title">Odtwarzaj na urządzeniu słuchowym</string>
-    <string name="bluetooth_audio_routing_summary">Wybierz, jakie typy dźwięków mają być odtwarzane na urządzeniu słuchowym, a jakie na głośniku telefonu</string>
+    <string name="bluetooth_audio_routing_summary">Kieruj dźwięki do urządzenia słuchowego lub głośnika telefonu</string>
     <string name="bluetooth_audio_routing_title">Wyjście audio</string>
-    <string name="bluetooth_call_title">Połączenie</string>
+    <string name="bluetooth_call_title">Dźwięk podczas połączeń</string>
     <string name="bluetooth_device_controls_summary">Skrót urządzenia słuchowego, zgodność z aparatem słuchowym</string>
-    <string name="bluetooth_device_controls_title">Sterowanie urządzeniem słuchowym</string>
+    <string name="bluetooth_device_controls_title">Ustawienia urządzenia słuchowego</string>
     <string name="bluetooth_device_keyboard_settings_preference_title">Ustawienia klawiatury</string>
     <string name="bluetooth_enable_leaudio">Włącz funkcję audio Bluetooth LE</string>
     <string name="bluetooth_enable_leaudio_summary">Włącza funkcję audio Bluetooth LE, jeśli urządzenie obsługuje sprzętowe funkcje LE.</string>
     <string name="bluetooth_media_title">Multimedia</string>
     <string name="bluetooth_pair_left_ear_button">Sparuj lewe ucho</string>
     <string name="bluetooth_pair_right_ear_button">Sparuj prawe ucho</string>
-    <string name="bluetooth_ringtone_title">Dzwonek</string>
+    <string name="bluetooth_ringtone_title">Dzwonek i alarmy</string>
     <string name="bluetooth_scan_change">Zmień</string>
-    <string name="bluetooth_system_sounds_title">Dźwięki systemowe</string>
+    <string name="bluetooth_system_sounds_title">Powiadomienia i inne dźwięki systemowe</string>
     <string name="bottomsheet_drag_handle_content_description">Uchwyt do przeciągania</string>
     <string name="bottomsheet_action_expand">Rozwiń planszę dolną</string>
     <string name="bottomsheet_action_collapse">Zwiń planszę dolną</string>
@@ -12780,7 +12780,7 @@ Jeśli te uprawnienia będą włączone, aplikacja będzie dostępna jako opcja 
     <string name="desc_cloned_apps_intro_text">Utwórz kolejne wystąpienie aplikacji, aby używać 2 kont jednocześnie.</string>
     <string name="desc_current_default_language">Język systemu</string>
     <string name="desc_introduction_of_language_picker">System, aplikacje i strony internetowe używają pierwszego obsługiwanego języka z listy preferowanych języków.</string>
-    <string name="desc_locale_helper_footer_general">Więcej informacji o językach</string>
+    <string name="desc_locale_helper_footer_general">Więcej informacji o językach aplikacji</string>
     <string name="desc_notice_of_language_picker">Aby wybrać języki poszczególnych aplikacji, otwórz ustawienia języków aplikacji.</string>
     <string name="desktop_mode">Tryb pulpitu</string>
     <string name="development_memtag_footer">Włączenie MTE może zmniejszyć wydajność urządzenia.</string>
@@ -12812,7 +12812,7 @@ Jeśli te uprawnienia będą włączone, aplikacja będzie dostępna jako opcja 
     <string name="filter_battery_unrestricted_title">Bez ograniczeń</string>
     <string name="first_day_of_week_preferences_title">Pierwszy dzień tygodnia</string>
     <string name="flash_notifications_intro">Uruchamiaj lampę błyskową lub ekran, gdy otrzymasz powiadomienie lub włączy się alarm.</string>
-    <string name="flash_notifications_note">W przypadku wrażliwości na światło ostrożnie korzystaj z powiadomień błyskowych</string>
+    <string name="flash_notifications_note">„Beam dla powiadomień” wizualizuje dźwięki powiadomień i dzwonki za pomocą lampy błyskowej aparatu i ekranu. Jeśli jesteś wrażliwy na światło, zachowaj ostrożność podczas używania tej funkcji.</string>
     <string name="flash_notifications_preview">Podgląd</string>
     <string name="flash_notifications_summary_off">Wyłączono</string>
     <string name="flash_notifications_summary_on_camera">Włączono / lampa błyskowa</string>
@@ -12843,7 +12843,7 @@ Jeśli te uprawnienia będą włączone, aplikacja będzie dostępna jako opcja 
     <string name="gesture_title_recent_apps">Wyświetlanie ostatnich aplikacji</string>
     <string name="gesture_title_switch_apps">Przełączanie aplikacji</string>
     <string name="gesture_to_split_screen">Gesty</string>
-    <string name="grant_admin">Nadaj temu użytkownikowi uprawnienia administratora</string>
+    <string name="grant_admin">Tak, przyznaj uprawnienia administratora</string>
     <string name="guest_category_title">Gość (Ty)</string>
     <string name="guest_exit_button">Zamknij tryb gościa</string>
     <string name="guest_exit_clear_data_button">Usuń</string>
@@ -12954,7 +12954,7 @@ Jeśli nie przyznasz tych uprawnień, system zastosuje limit czasu wykonywania p
     <string name="modifier_keys_settings">Klawisze modyfikujące</string>
     <string name="modifier_keys_settings_summary">Zmień działanie klawiszy</string>
     <string name="monday_first_day_of_week">Poniedziałek</string>
-    <string name="more_security_privacy_settings">Więcej ustawień</string>
+    <string name="more_security_privacy_settings">Więcej ustawień bezpieczeństwa i prywatności</string>
     <string name="mtrl_timepicker_cancel">Anuluj</string>
     <string name="multiple_users_main_switch_keywords">zezwalać, wiele, użytkownik, pozwolenie, dużo</string>
     <string name="navigation_menu">Menu nawigacyjne</string>
@@ -12967,7 +12967,7 @@ Jeśli nie przyznasz tych uprawnień, system zastosuje limit czasu wykonywania p
     <string name="nfc_verbose_vendor_log_title">Dziennik debugowania szczegółowości NFC</string>
     <string name="no_screen_lock_issue_notification_text">Ustaw kod PIN, wzór lub hasło do tego urządzenia, aby zwiększyć bezpieczeństwo.</string>
     <string name="no_screen_lock_issue_notification_title">Urządzenie nie ma blokady ekranu</string>
-    <string name="not_grant_admin">Nie nadawaj uprawnień administratora</string>
+    <string name="not_grant_admin">Nie, nie przyznawaj uprawnień administratora</string>
     <string name="not_selected">Nie wybrano</string>
     <string name="notif_listener_more_settings">Więcej ustawień</string>
     <string name="notif_listener_more_settings_desc">Więcej ustawień znajdziesz w tej aplikacji</string>
@@ -13146,7 +13146,7 @@ Formatowanie spowoduje wykasowanie dotychczasowej zawartości nośnika ^2. Aby u
     <string name="transfer_esim_to_another_device_title">Przenieś kartę eSIM do innego urządzenia</string>
     <string name="tuesday_first_day_of_week">Wtorek</string>
     <string name="unseen_notifs_lock_screen">Na ekranie blokady pokazuj tylko nowe powiadomienia</string>
-    <string name="unseen_notifs_lock_screen_summary">Po każdym odblokowaniu usuwaj istniejące powiadomienia z ekranu blokady</string>
+    <string name="unseen_notifs_lock_screen_summary">Automatycznie usuwaj już wyświetlone powiadomienia z ekranu blokady</string>
     <string name="unused_apps_summary">{count,plural, =1{# nieużywana aplikacja}few{# nieużywane aplikacje}many{# nieużywanych aplikacji}other{# nieużywanej aplikacji}}</string>
     <string name="uri_permissions_text">{count,plural, =1{1 element}few{# elementy}many{# elementów}other{# elementu}}</string>
     <string name="usage_stats_sort_by_app_name">Sortuj według nazwy aplikacji</string>
@@ -13157,10 +13157,10 @@ Formatowanie spowoduje wykasowanie dotychczasowej zawartości nośnika ^2. Aby u
     <string name="usb_use_uvc_webcam">Kamera internetowa</string>
     <string name="use_personalized_ad_service_for_global">Personalizuj reklamy MIUI</string>
     <string name="user_category_title">Użytkownicy</string>
-    <string name="user_grant_admin">Nadaj uprawnienia administratora</string>
-    <string name="user_grant_admin_message">Administrator będzie mógł zarządzać innymi użytkownikami, zmieniać ustawienia urządzenia i przywracać urządzenie do ustawień fabrycznych.</string>
-    <string name="user_grant_admin_title">Nadać uprawnienia administratora?</string>
-    <string name="user_revoke_admin_confirm_message">Czy na pewno chcesz odebrać uprawnienia administratora nadane temu użytkownikowi?</string>
+    <string name="user_grant_admin">Przyznaj uprawnienia administratora</string>
+    <string name="user_grant_admin_message">Administratorzy mają specjalne uprawnienia, którymi nie dysponują pozostali użytkownicy. Administrator może zarządzać wszystkimi użytkownikami, aktualizować i resetować urządzenie, modyfikować ustawienia, wyświetlać wszystkie zainstalowane aplikacje oraz przyznawać uprawnienia administratora innym użytkownikom i je wycofywać.</string>
+    <string name="user_grant_admin_title">Przyznać temu użytkownikowi uprawnienia administratora?</string>
+    <string name="user_revoke_admin_confirm_message">Jeśli usuniesz uprawnienia administratora u tego użytkownika, Ty lub inny administrator będziecie mogli przyznać mu je ponownie później.</string>
     <string name="user_revoke_admin_confirm_title">Odebrać uprawnienia administratora?</string>
     <string name="wednesday_first_day_of_week">Środa</string>
     <string name="wifi_eap_min_tls_ver">Minimalna wersja TLS</string>
@@ -13209,4 +13209,139 @@ Formatowanie spowoduje wykasowanie dotychczasowej zawartości nośnika ^2. Aby u
     <string name="tofgesture_settings">Rozpoznawaj gesty bez dotykania ekranu</string>
     <string name="updown_waving_summary">Dostosuj głośność multimediów i przełączaj się między krótkimi filmami</string>
     <string name="updown_waving_title">Pionowa fala</string>
+    <string name="accessibility_font_scaling_auto_added_qs_tooltip_content">Do Szybkich ustawień dodano Rozmiar czcionki. Aby w dowolnym momencie zmienić rozmiar czcionki, przesuń palcem w dół.</string>
+    <string name="accessibility_hearing_device_about_title">O urządzeniach słuchowych</string>
+    <string name="accessibility_hearingaid_intro">Możesz używać z telefonem aparatów słuchowych, implantów ślimakowych oraz innych urządzeń wzmacniających dźwięk</string>
+    <string name="accessibility_pair_hearing_device_about_title">O parowaniu nowego urządzenia</string>
+    <string name="battery_app_usage_since_last_full_charge_to">Wykorzystanie przez aplikacje od ostatniego pełnego naładowania do: %s</string>
+    <string name="battery_saver_sticky_title_percentage">Wyłączaj przy %1$s</string>
+    <string name="battery_system_usage_since_last_full_charge_to">Wykorzystanie przez system od ostatniego pełnego naładowania do: %s</string>
+    <string name="bear_mismatch">Operator zostanie ukryty z powodu niedopasowania sieci</string>
+    <string name="biometric_settings_add_face_in_split_mode_message">Aby skonfigurować rozpoznawanie twarzy, zamknij podzielony ekran</string>
+    <string name="biometric_settings_add_face_in_split_mode_title">Nie można skonfigurować rozpoznawania twarzy</string>
+    <string name="biometric_settings_add_fingerprint_in_split_mode_message">Zamknij podzielony ekran i ustaw odblokowywanie odciskiem palca.</string>
+    <string name="biometric_settings_add_fingerprint_in_split_mode_title">Nie można skonfigurować odcisku palca</string>
+    <string name="bluetooth_audio_routing_about_title">O wyjściu audio</string>
+    <string name="bluetooth_audio_routing_footer_summary">Domyślnie wyjście audio określają poszczególne aplikacje</string>
+    <string name="bluetooth_device_controls_general">Dla wszystkich dostępnych urządzeń słuchowych</string>
+    <string name="bluetooth_device_controls_specific">Dla tego urządzenia</string>
+    <string name="bluetooth_disable_leaudio">Wyłącz Bluetooth LE Audio</string>
+    <string name="bluetooth_disable_leaudio_summary">Wyłącza funkcję Bluetooth LE Audio, jeśli urządzenie obsługuje sprzętowe funkcje LE Audio.</string>
+    <string name="bluetooth_enable_leaudio_allow_list">Włącz listę dozwolonych urządzeń Bluetooth LE Audio</string>
+    <string name="bluetooth_enable_leaudio_allow_list_summary">Funkcja włączania listy dozwolonych urządzeń Bluetooth LE Audio.</string>
+    <string name="button_label_confirmation_of_system_locale_change">Zmień</string>
+    <string name="cloned_app_created_toast_summary">Utworzono klon aplikacji %1$s</string>
+    <string name="cloned_app_creation_toast_summary">Tworzę klon aplikacji %1$s</string>
+    <string name="close_volume_key_launch_camera">Wył.</string>
+    <string name="connected_tws_device_saved_title">Zapisane słuchawki</string>
+    <string name="contrast_high">Wysoki</string>
+    <string name="contrast_medium">Średni</string>
+    <string name="contrast_standard">Standardowy</string>
+    <string name="contrast_title">Kontrast</string>
+    <string name="credman_enable_confirmation_message">Usługa %1$s używa treści wyświetlanych na ekranie do określania, co można uzupełnić automatycznie.</string>
+    <string name="credman_enable_confirmation_message_title">Użyć usługi %1$s?</string>
+    <string name="desc_notice_device_locale_settings_change">Zmienią się ustawienia urządzenia i ustawienia regionalne.</string>
+    <string name="desc_regional_pref_footer_learn_more">Dowiedz się więcej o ustawieniach języka</string>
+    <string name="desc_unavailable_locale">Ten język nie może być używany jako język systemu. Jednak aplikacje i witryny wiedzą, że preferujesz ten język.</string>
+    <string name="dream_home_controls_toggle_summary">Pokazuj przycisk sterowania domem na wygaszaczu ekranu</string>
+    <string name="dream_home_controls_toggle_title">Pokazuj sterowanie domem</string>
+    <string name="enable_notes_role_summary">Włącz integracje systemowe do robienia notatek w ramach roli Notatki. Jeśli rola Notatki jest już włączona, nie jest wymagane żadne działanie.</string>
+    <string name="enable_notes_role_title">Wymuszaj włączenie roli Notatki</string>
+    <string name="find_broadcast_join_broadcast_error">Nie udało się dołączyć do transmisji</string>
+    <string name="flash_notifications_about_title">O powiadomieniach świetlnych</string>
+    <string name="flash_notifications_description">O tej funkcji</string>
+    <string name="flash_notifications_intro_without_camera_flash">Uruchamiaj ekran, gdy otrzymasz powiadomienie lub włączy się alarm</string>
+    <string name="flash_notifications_keywords">lampa błyskowa, lampka, niedosłyszący, utrata słuchu</string>
+    <string name="flash_notifications_summary">Użyj lampy błyskowej aparatu lub pokaż kolorowe beam na ekranie, gdy nadejdzie powiadomienie lub urządzenie zadzwoni</string>
+    <string name="keywords_contrast">kontrast kolorów</string>
+    <string name="lockpattern_settings_enhanced_pin_privacy_summary">Wyłącz animacje podczas wpisywania kodu PIN</string>
+    <string name="lockpattern_settings_enhanced_pin_privacy_title">Zwiększona prywatność kodu PIN</string>
+    <string name="max_fps_right_value">Maks. %s Hz</string>
+    <string name="modifier_keys_reset">Resetuj</string>
+    <string name="next">Dalej</string>
+    <string name="note_task_button_label">Tworzenie notatek</string>
+    <string name="ram_total_size">Łączna ilość pamięci RAM</string>
+    <string name="reading_settings">Odczytywanie ustawień…</string>
+    <string name="rhythmic_mode_enable_summary">Osiągnij optymalny komfort, automatycznie ustawiając kolory na podstawie typów aplikacji i godzin wschodu/zachodu słońca</string>
+    <string name="rhythmic_mode_enable_title">Cykl</string>
+    <string name="screen_flash_color_none">Wył.</string>
+    <string name="security_settings_face_enroll_introduction_consent_message_0_class3">Zezwól na korzystanie przez dziecko z rozpoznawania twarzy przy odblokowywaniu telefonu i weryfikacji tożsamości (np. podczas logowania się w aplikacjach, zatwierdzania zakupów i w innych przypadkach).</string>
+    <string name="security_settings_face_enroll_introduction_message_class3">Używaj funkcji rozpoznawania twarzy, aby odblokowywać telefon i uwierzytelniać się w aplikacjach, na przykład podczas logowania się lub zatwierdzania zakupów.</string>
+    <string name="security_settings_face_settings_footer_class3">"Używaj rozpoznawania twarzy do odblokowywania telefonu oraz potwierdzania swojej tożsamości, na przykład podczas logowania się w aplikacjach i zatwierdzania zakupów.
+
+Pamiętaj:
+Nie można mieć kilku skonfigurowanych modeli twarzy jednocześnie. Jeśli chcesz dodać inny model twarzy, usuń bieżący.
+
+Patrząc na telefon, możesz go przypadkowo odblokować.
+
+Inna osoba może odblokować Twój telefon, zbliżając go do Twojej twarzy.
+
+Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odblokuje Twój telefon."</string>
+    <string name="security_settings_face_settings_footer_class3_attention_not_supported">"Używaj rozpoznawania twarzy do odblokowywania telefonu oraz potwierdzania swojej tożsamości, na przykład podczas logowania się w aplikacjach i zatwierdzania zakupów.
+
+Pamiętaj:
+Nie można mieć kilku skonfigurowanych modeli twarzy jednocześnie. Jeśli chcesz dodać inny model twarzy, usuń bieżący.
+
+Patrząc na telefon, możesz go przypadkowo odblokować.
+
+Inna osoba może odblokować Twój telefon, zbliżając go do Twojej twarzy – nawet wtedy, gdy masz zamknięte oczy.
+
+Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odblokuje Twój telefon."</string>
+    <string name="security_settings_fingerprint">Odcisk palca</string>
+    <string name="security_settings_fingerprint_settings_footer_learn_more">Więcej informacji o odblokowywaniu odciskiem palca</string>
+    <string name="software_version">Wersja oprogramowania</string>
+    <string name="talkback_ocr_summary">Rozpoznawaj tekst na obrazkach i czytaj go na głos</string>
+    <string name="talkback_ocr_title">Rozpoznawaj tekst</string>
+    <string name="title_change_system_locale">Zmienić język systemu na %s?</string>
+    <string name="title_regional_pref_footer">Jeśli aplikacja nie obsługuje preferencji regionalnych, użyje swoich domyślnych ustawień języka.</string>
+    <string name="title_unavailable_locale">Język %s nie jest dostępny</string>
+    <string name="toast_ap_works_wifi_display_disable">Wyłącz hotspot przed rozpoczęciem projekcji</string>
+    <string name="transparent_navigation_bar">Przezroczysty pasek nawigacyjny</string>
+    <string name="transparent_navigation_bar_summary">Ustaw domyślnie przezroczyste tło paska nawigacyjnego</string>
+    <string name="updating_settings">Aktualizowanie ustawień…</string>
+    <string name="user_grant_admin_button">Przyznaj uprawnienia administratora</string>
+    <string name="uwb_settings_summary_no_uwb_regulatory">Technologia UWB nie jest dostępna w tym miejscu</string>
+    <string name="voicemail_number_not_set">&lt;Nie ustawiono></string>
+    <string name="volume_key_launch_camera">Uruchom aparat</string>
+    <string name="volume_key_launch_camera_and_take_photo">Zrób zdjęcie</string>
+    <string name="wifi_fast_repair_summary">Spróbuj naprawić problemy z siecią Wi-Fi</string>
+    <string name="wifi_fast_repair_title">Przywróć działanie Wi-Fi</string>
+    <string name="wifi_hotspot_security_footer">Zmiana częstotliwości na hotspocie może wpłynąć na ustawienia zabezpieczeń.</string>
+    <string name="wifi_hotspot_security_summary_unavailable">Niedostępne przy 6 GHz</string>
+    <string name="wifi_hotspot_speed_2g">2,4 GHz</string>
+    <string name="wifi_hotspot_speed_2g_5g">2,4 i 5 GHz</string>
+    <string name="wifi_hotspot_speed_2g_5g_summary">Duże szybkości. Ten dwuzakresowy hotspot jest zgodny z większością urządzeń.</string>
+    <string name="wifi_hotspot_speed_2g_summary">Mniejsze szybkości. Zgodny z większością urządzeń.</string>
+    <string name="wifi_hotspot_speed_5g_summary">Duże szybkości. Zgodny z wieloma urządzeniami.</string>
+    <string name="wifi_hotspot_speed_6g_summary">Największe szybkości. Zgodny z niewieloma urządzeniami.</string>
+    <string name="wifi_hotspot_speed_category">Preferowana częstotliwość</string>
+    <string name="wifi_hotspot_speed_footer">Jeśli preferowana częstotliwość nie jest dostępna, hotspot może użyć innej. Zmiana częstotliwości może wpłynąć na ustawienia zabezpieczeń na hotspocie.</string>
+    <string name="wifi_hotspot_speed_intro">Wybierz częstotliwość, z której będzie korzystać hotspot. Częstotliwość wpływa na szybkość połączenia oraz rodzaje urządzeń, które mogą wykryć hotspot.</string>
+    <string name="wifi_hotspot_speed_summary_2g">2,4 GHz / Zgodny z większością urządzeń</string>
+    <string name="wifi_hotspot_speed_summary_2g_and_5g">2,4 i 5 GHz / Zgodny z większością urządzeń</string>
+    <string name="wifi_hotspot_speed_summary_5g">5 GHz / Zgodny z wieloma urządzeniami</string>
+    <string name="wifi_hotspot_speed_summary_6g">6 GHz / Zgodny z niewieloma urządzeniami</string>
+    <string name="wifi_hotspot_speed_summary_unavailable">Niedostępne w Twoim kraju lub regionie</string>
+    <string name="wifi_hotspot_speed_title">Szybkość i zgodność</string>
+    <!-- Chinglish... -->
+    <string name="wifi_repair_action_btn">Przywróć</string>
+    <string name="wifi_repair_btn_confirm">Potwierdź</string>
+    <string name="wifi_repair_btn_no">Nie</string>
+    <string name="wifi_repair_btn_yes">Tak</string>
+    <string name="wifi_repair_confirm_desc">"Czy wystąpiła jedna z tych sytuacji?
+%1$d. Nie można było włączyć Wi-Fi,
+%2$d. Sieć Wi-Fi działała wolno,
+%3$d. Niektóre funkcje sieci Wi-Fi nie działały poprawnie."</string>
+    <string name="wifi_repair_fail_desc">Wystąpił błąd, który uniemożliwił przywrócenie poprawnego działania sieci Wi-Fi. Zgłoś ten fakt programistom Xiaomi.</string>
+    <string name="wifi_repair_fail_title">"Nie udało się przywrócić"</string>
+    <string name="wifi_repair_ongoing">"Przywracanie… Nie opuszczaj tej strony."</string>
+    <string name="wifi_repair_pass_desc">Sprawdź, czy problem z siecią został rozwiązany. Jeśli nic się nie zmieniło, zgłoś go programistom Xiaomi.</string>
+    <string name="wifi_repair_pass_title">Pomyślnie przywrócono</string>
+    <string name="wifi_tether_connected_summary">{count,plural, =0{0 połączonych urządzeń}=1{1 połączone urządzenie}few{# połączone urządzenia}many{# połączonych urządzeń}other{# połączonego urządzenia}}</string>
+    <string name="wificall_switch_summary">Użyj Wi-Fi do połączeń głosowych, gdy zezwolił na to operator (tylko do celów testowych)</string>
+    <string name="wificall_switch_title">Dzwoń przez Wi-Fi</string>
+    <string name="wifitrackerlib_hotspot_network_alternate">%1$s z urządzenia %2$s</string>
+    <string name="wifitrackerlib_hotspot_network_connecting">Łączę…</string>
+    <string name="wifitrackerlib_hotspot_network_summary">%1$s z urządzenia %2$s</string>
+    <string name="wifitrackerlib_known_network_summary">Sieć dostępna z urządzenia %1$s</string>
 </resources>

@@ -1462,4 +1462,9 @@ do Listy blokowanych"</string>
     <string name="pref_title_perm_read_files">Dostęp do plików i dokumentów</string>
     <string name="pref_title_perm_read_images_video">Dostęp do zdjęć i filmów</string>
     <string name="miuix_appcompat_edit">Edytuj</string>
+    <string name="copy_message">Kopiuj</string>
+    <string name="copy_message_success">Pomyślnie skopiowano</string>
+    <string name="pref_feedback_title">Opinia</string>
+    <string name="search_sms">Wyszukaj wiadomości</string>
+    <string name="title_timed_remind_message_dialog">Ustaw czas przypomnienia</string>
 </resources>

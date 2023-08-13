@@ -269,4 +269,7 @@
     <string name="your_org_app_used">Organizacja %1$s będzie zarządzać tym urządzeniem i monitorować je za pomocą aplikacji:</string>
     <string name="your_organization_beginning">Twoja organizacja</string>
     <string name="your_organization_middle">Twoja organizacja</string>
+    <string name="fully_managed_device_reset_button">Przywróć do ustawień fabrycznych</string>
+    <string name="fully_managed_device_unsupported_DPC_in_headless_mode_header">Nie można skonfigurować urządzenia</string>
+    <string name="fully_managed_device_unsupported_DPC_in_headless_mode_subheader">Nie można zarejestrować tego urządzenia w trybie pełnego zarządzania. Przywróć urządzenie do ustawień fabrycznych i skontaktuj się z administratorem IT.</string>
 </resources>

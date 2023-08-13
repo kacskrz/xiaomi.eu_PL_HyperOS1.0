@@ -193,4 +193,12 @@ Każdy będzie mógł odczytać te informacje na ekranie blokady oraz zadzwonić
     <string name="user_image_choose_photo">"Wybierz obraz"</string>
     <string name="user_image_photo_selector">"Wybierz zdjęcie"</string>
     <string name="user_nickname">"Pseudonim"</string>
+    <string name="back">Wstecz</string>
+    <string name="category_clone">Klon</string>
+    <string name="next">Dalej</string>
+    <string name="save">Zapisz</string>
+    <string name="wifitrackerlib_hotspot_network_alternate">%1$s z urządzenia %2$s</string>
+    <string name="wifitrackerlib_hotspot_network_connecting">Łączę…</string>
+    <string name="wifitrackerlib_hotspot_network_summary">%1$s z urządzenia %2$s</string>
+    <string name="wifitrackerlib_known_network_summary">Sieć dostępna z urządzenia %1$s</string>
 </resources>

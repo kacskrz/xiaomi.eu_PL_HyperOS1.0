@@ -365,4 +365,10 @@ Szyszy protokół transmisji."</string>
     <string name="tv_calibration_start">"Umieść tylny aparat telefonu mocno naprzeciw środka ekranu"</string>
     <string name="tv_calibration_start_button">Zacznij</string>
     <string name="information_go_to_fitness">Możesz znaleźć odpowiednie ustawienia w aplikacji Mi Fitness</string>
+    <string name="headset_autoswitch_connect_button">Połącz</string>
+    <string name="headset_autoswitch_connect_title">Połącz słuchawki</string>
+    <string name="headset_autoswitch_connected">Połączono</string>
+    <string name="headset_autoswitch_connecting">Łączenie…</string>
+    <string name="headset_autoswitch_disconnected">Połączono z %1$s</string>
+    <string name="headset_autoswitch_fialed">"Nie udało się połączyć"</string>
 </resources>

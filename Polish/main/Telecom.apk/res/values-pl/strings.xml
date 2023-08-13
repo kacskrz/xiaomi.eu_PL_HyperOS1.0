@@ -580,4 +580,17 @@ Magazyn danych logowania może nie zostać włączony"</string>
     <string name="callendpoint_name_streaming">Zewnętrzne</string>
     <string name="callendpoint_name_unknown">Brak informacji</string>
     <string name="callendpoint_name_wiredheadset">Słuchawki przewodowe</string>
+    <string name="call_notification_answer_action">Odbierz</string>
+    <string name="call_notification_answer_video_action">Wideo</string>
+    <string name="call_notification_decline_action">Odrzuć</string>
+    <string name="call_notification_hang_up_action">Rozłącz</string>
+    <string name="call_notification_incoming_text">Połączenie przychodzące</string>
+    <string name="call_notification_ongoing_text">Trwa połączenie</string>
+    <string name="call_notification_screening_text">Filtruję połączenie przychodzące</string>
+    <string name="call_streaming_notification_action_hang_up">Zakończ</string>
+    <string name="call_streaming_notification_action_switch_here">Przełącz tutaj</string>
+    <string name="call_streaming_notification_body">Strumieniowanie dźwięku do innego urządzenia</string>
+    <string name="default_dialer_reset_prompt">"Wygląda na to, że w trakcie używania aplikacji %s wystąpiło wiele błędów. Czy chcesz, aby dialer MIUI był Twoją domyślną aplikacją telefonu?"</string>
+    <string name="notification_channel_call_streaming">Strumieniowanie połączenia</string>
+    <string name="redirect_system_dialer_toast">Wystąpił błąd z aplikacją %s. Przełączam się na systemowy dialer.</string>
 </resources>

@@ -192,4 +192,8 @@
         <item quantity="one">"Wersja Aparatu, z której korzystasz, jest niekompatybilna z Twoim urządzeniem.&lt;br>Aplikacja wyłączy się za &lt;font color=#FFCE16>&lt;b>%1$d sekundę&lt;/b>&lt;/font>. Odinstaluj aktualizacje Aparatu i spróbuj ponownie."&lt;/Data></item>
         <item quantity="few">"Wersja Aparatu, z której korzystasz, jest niekompatybilna z Twoim urządzeniem.&lt;br>Aplikacja wyłączy się za &lt;font color=#FFCE16>&lt;b>%1$d sekundy&lt;/b>&lt;/font>. Odinstaluj aktualizacje Aparatu i spróbuj ponownie."&lt;/Data></item>
     </plurals>
+    <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">Licznik %d sekund dla Trybu nocnego</item>
+        <item quantity="one">Licznik %d sekunda dla Trybu nocnego</item>
+    </plurals>
 </resources>

@@ -56,4 +56,14 @@
     <string name="freeform_guide_multiple_window_title">Otwieraj wiele okien</string>
     <string name="freeform_guide_free_drag_title_phone">Przeciągnij, aby skopiować</string>
     <string name="freeform_guide_how_to_free_drag_summary_phone">Przytrzymaj obraz i przeciągnij go do innej aplikacji</string>
+    <string name="gesture_fullscreen_to_splitscreen">Włącz Dzielenie ekranu</string>
+    <string name="gesture_split_left_to_right_summary">Przesuń w prawo trzema palcami</string>
+    <string name="gesture_split_right_to_left_summary">Przesuń w lewo trzema palcami</string>
+    <string name="gesture_to_split_screen">Gesty</string>
+    <string name="how_to_create_split_screen_combination">Utwórz kombinację Dzielonego ekranu</string>
+    <string name="how_to_create_split_screen_combination_summary">Przytrzymaj kombinację i dodaj ją na pulpit</string>
+    <string name="how_to_split_screen_combination">Kombinacja Dzielonego ekranu</string>
+    <string name="how_to_split_screen_combination_summary_pad">Twórz skróty kombinacji Dzielonego ekranu w doku</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Przesuń poziomo trzema palcami na wewnętrznym ekranie, aby włączyć Dzielenie ekranu</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Przesuń poziomo trzema palcami, aby włączyć Dzielenie ekranu</string>
 </resources>

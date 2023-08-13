@@ -976,7 +976,7 @@ Spróbuj ponownie za %2$d s."</string>
   <string name="permdesc_bluetoothAdmin">Pozwala aplikacji na konfigurowanie lokalnego telefonu z funkcją Bluetooth oraz na wykrywanie urządzeń zdalnych i parowanie z nimi.</string>
   <string name="permdesc_bodySensors">Pozwala aplikacji na dostęp do danych z czujników, które monitorują Twój stan fizyczny (np. tętno).</string>
   <string name="permdesc_broadcastSticky">Pozwala aplikacji na wysyłanie transmisji trwałych, które pozostają aktywne po zakończeniu połączenia. Nadmierne używanie może spowolnić lub zdestabilizować telefon przez wymuszenie zbyt dużego użycia pamięci.</string>
-  <string name="permdesc_callPhone">Pozwala aplikacji na dzwonienie pod numery telefonów bez Twojej wiedzy. Może to skutkować nieoczekiwanymi opłatami lub połączeniami. Aplikacja nie może dzwonić pod numery alarmowe. Złośliwe aplikacje mogą generować koszty, wykonując połączenia bez Twojego potwierdzenia.</string>
+  <string name="permdesc_callPhone">Zezwala aplikacji na nawiązywanie połączeń telefonicznych bez Twojego udziału. Mogą wystąpić nieoczekiwane opłaty lub połączenia. Pamiętaj, że te uprawnienia nie zezwalają aplikacji na dzwonienie pod numery alarmowe. Złośliwe aplikacje mogą generować koszty wynikające z nawiązywania połączeń bez Twojej wiedzy, a także wybierać określone kody powodujące przekierowywanie połączeń przychodzących na inny numer.</string>
   <string name="permdesc_camera">Pozwala aplikacji na robienie zdjęć i nagrywanie filmów przy użyciu aparatu. Aplikacja z tym uprawnieniem może użyć aparatu w dowolnym momencie bez Twojego potwierdzenia.</string>
   <string name="permdesc_changeNetworkState">Pozwala aplikacji na zmianę stanu łączności sieciowej.</string>
   <string name="permdesc_changeTetherState">Pozwala aplikacji na zmianę stanu łączności sieciowej objętej tetheringiem.</string>
@@ -1651,8 +1651,8 @@ Zamknąć ją?"</string>
   <string name="wifi_watchdog_network_disabled_detailed">" ma powolne połączenie internetowe."</string>
   <string name="wireless_display_route_description">Wyświetlacz bezprzewodowy</string>
   <string name="work_mode_off_message">Aplikacje do pracy, powiadomienia, dane i inne funkcje profilu do pracy zostaną włączone</string>
-  <string name="work_mode_off_title">Włączyć profil służbowy?</string>
-  <string name="work_mode_turn_on">Włącz</string>
+  <string name="work_mode_off_title">Cofnąć wstrzymanie aplikacji służbowych?</string>
+  <string name="work_mode_turn_on">Cofnij wstrzymanie</string>
   <string name="work_profile_deleted">Usunięto profil do pracy</string>
   <string name="work_profile_deleted_description">Profil do pracy został usunięty z powodu braku aplikacji administracyjnej.</string>
   <string name="work_profile_deleted_description_dpm_wipe">Twój profil do pracy nie jest już dostępny na tym urządzeniu.</string>
@@ -1716,8 +1716,8 @@ Zwykle powoduje to wyłączenie ekranu."</string>
   <string name="geofencing_service">Usługa geofencingu</string>
   <string name="gnss_service">Usługa GNSS</string>
   <string name="gnss_time_update_service">Usługa synchronizacji czasu na podstawie sygnału GNSS</string>
-  <string name="miniresolver_open_in_personal">Otworzyć w aplikacji %s w profilu osobistym?</string>
-  <string name="miniresolver_open_in_work">Otworzyć w aplikacji %s w profilu służbowym?</string>
+  <string name="miniresolver_open_in_personal">Otworzyć w osobistej aplikacji %s?</string>
+  <string name="miniresolver_open_in_work">Otworzyć w służbowej aplikacji %s?</string>
   <string name="miniresolver_use_personal_browser">Użyj przeglądarki osobistej</string>
   <string name="miniresolver_use_work_browser">Użyj przeglądarki służbowej</string>
   <string name="music_recognition_manager_service">Usługa menedżera rozpoznawania muzyki</string>
@@ -2231,8 +2231,8 @@ Aby zmienić ten skrót i wskazać inną funkcję, kliknij Ustawienia > Ułatwie
     <string name="resolver_cant_share_with_work_apps_explanation">Tych treści nie można udostępniać w aplikacjach służbowych</string>
     <string name="resolver_personal_tab">Osobiste</string>
     <string name="resolver_personal_tab_accessibility">Widok osobisty</string>
-    <string name="resolver_switch_on_work">Kliknij, aby włączyć</string>
-    <string name="resolver_turn_on_work_apps">Działanie profilu służbowego jest wstrzymane</string>
+    <string name="resolver_switch_on_work">Cofnij wstrzymanie</string>
+    <string name="resolver_turn_on_work_apps">Aplikacje służbowe zostały wstrzymane</string>
     <string name="resolver_work_tab">Służbowe</string>
     <string name="resolver_work_tab_accessibility">Widok służbowy</string>
     <string name="sensor_notification_service">Usługa powiadomień czujnika</string>
@@ -2260,10 +2260,9 @@ Aby zmienić ten skrót i wskazać inną funkcję, kliknij Ustawienia > Ułatwie
     <string name="concurrent_display_notification_name">Podwójny ekran</string>
     <string name="concurrent_display_notification_thermal_content">Podwójny ekran jest niedostępny, ponieważ telefon za bardzo się nagrzewa</string>
     <string name="concurrent_display_notification_thermal_title">Urządzenie jest za ciepłe</string>
-    <string name="csd_dose_reached_warning">"Ostrzeżenie
-Limit głośnych dźwięków, jakich przez tydzień możesz bezpiecznie słuchać przez słuchawki, został przekroczony.
+    <string name="csd_dose_reached_warning">"Słuchać dalej z wysokim poziomem głośności?
 
-Przekroczenie limitu spowoduje trwałe uszkodzenie słuchu."</string>
+Głośność na słuchawkach jest zbyt duża przez czas dłuższy niż zalecany, co może doprowadzić do uszkodzenia słuchu"</string>
     <string name="csd_dose_repeat_warning">"Ostrzeżenie
 Limit głośnych dźwięków, jakich przez tydzień możesz bezpiecznie słuchać przez słuchawki, został 5-krotnie przekroczony.
 
@@ -2271,10 +2270,9 @@ Głośność została zmniejszona, aby chronić Twój słuch."</string>
     <string name="csd_entering_RS2_warning">"Poziom głośności, na jakim słuchasz multimediów, może spowodować uszkodzenie słuchu, jeśli będzie się utrzymywał przez dłuższy czas.
 
 Dalsze odtwarzanie na tym poziomie głośności przez dłuższy czas może uszkodzić Twój słuch."</string>
-    <string name="csd_momentary_exposure_warning">"Ostrzeżenie
-Słuchasz obecnie treści odtwarzanych na niebezpiecznym poziomie głośności.
+    <string name="csd_momentary_exposure_warning">"Wykryto głośny dźwięk
 
-Dalsze słuchanie przy takiej głośności trwale uszkodzi Twój słuch."</string>
+Głośność na słuchawkach przekracza zalecane wartości, co może doprowadzić do uszkodzenia słuchu"</string>
     <string name="default_audio_route_name_external_device">Urządzenie zewnętrzne</string>
     <string name="device_state_notification_turn_off_button">Wyłącz</string>
     <string name="display_rotation_camera_compat_toast_after_rotation">Obróć, aby lepiej widzieć</string>
@@ -2361,4 +2359,18 @@ Dalsze słuchanie przy takiej głośności trwale uszkodzi Twój słuch."</strin
     <string name="work_profile_telephony_paused_text">Aplikacje służbowe zostały wstrzymane. Nie będziesz otrzymywać połączeń telefonicznych ani SMS-ów.</string>
     <string name="work_profile_telephony_paused_title">Połączenia i wiadomości są wyłączone</string>
     <string name="work_profile_telephony_paused_turn_on_button">Cofnij wstrzymanie aplikacji służbowych</string>
+    <string name="concurrent_display_notification_power_save_content">Funkcja Dual Screen jest niedostępna, ponieważ włączono Oszczędzanie baterii. Możesz to wyłączyć w Ustawieniach.</string>
+    <string name="concurrent_display_notification_power_save_title">Funkcja Dual Screen jest niedostępna</string>
+    <string name="device_state_notification_settings_button">Otwórz ustawienia</string>
+    <string name="managed_profile_app_label">Przełącz na służbową aplikację %1$s</string>
+    <string name="miniresolver_call">Zadzwoń</string>
+    <string name="miniresolver_call_in_work">Zadzwonić z aplikacji służbowej?</string>
+    <string name="miniresolver_call_information">Twoja organizacja pozwala Ci na wykonywanie połączeń tylko z aplikacji służbowych</string>
+    <string name="miniresolver_open_work">Otworzyć aplikację służbową %s?</string>
+    <string name="miniresolver_sms_information">Twoja organizacja pozwala Ci na wysyłanie wiadomości tylko z aplikacji służbowych</string>
+    <string name="miniresolver_switch">Przełącz</string>
+    <string name="miniresolver_switch_to_work">Przełączyć na aplikację służbową?</string>
+    <string name="permdesc_updatePackagesWithoutUserAction">Pozwala na aktualizowanie zainstalowanej wcześniej aplikacji bez działania ze strony użytkownika</string>
+    <string name="permlab_updatePackagesWithoutUserAction">aktualizacja aplikacji bez działania ze strony użytkownika</string>
+    <string name="user_owner_app_label">Przełącz na osobistą aplikację %1$s</string>
 </resources>
