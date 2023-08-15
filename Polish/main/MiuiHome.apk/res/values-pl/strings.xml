@@ -1008,4 +1008,5 @@ Zwiększone bezpieczeństwo."</string>
   <string name="international_home_pull_down_up_btn_get">Rozumiem</string>
   <string name="international_home_pull_up_content">Przesuń w górę na pulpicie, aby otworzyć Centrum treści.</string>
   <string name="international_home_pull_up_sub_content">Przesuń w dół od środka pulpitu, aby otworzyć wyszukiwarkę.</string>
+  <string name="not_support_adding">"Dodawanie tego elementu nie jest jeszcze wspierane"</string>
 </resources>

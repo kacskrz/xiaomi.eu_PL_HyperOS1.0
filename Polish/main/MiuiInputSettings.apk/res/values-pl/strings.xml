@@ -578,4 +578,21 @@ Jeśli przytrzymasz przycisk przez %s sekund, wywołasz menu wyłączania telefo
     <string name="stylus_quick_note_summary">Gdy ekran jest wyłączony, dotknij go swoim rysikiem, aby zacząć pisanie. Funkcja zwiększa zużycie energii.</string>
     <string name="stylus_quick_note_title">Pisz z wyłączonym ekranem</string>
     <string name="search_screen_shot">Zrzuty ekranu</string>
+    <string name="key_laser_summary">Wskaż, zaznacz i zmieniaj strony</string>
+    <string name="key_laser_title">Pilot do prezentacji</string>
+    <string name="laser_guide_laser_summary">Naciśnij i przytrzymaj przycisk podświetlenia, aby użyć rysika jako wskaźnika. Puść przycisk, aby wyłączyć funkcję wskaźnika.</string>
+    <string name="laser_guide_laser_title">Wskaźnik</string>
+    <string name="laser_guide_mark_summary_first">Naciśnij przycisk podświetlenia, aby włączyć i wyłaczyć zakreślacz</string>
+    <string name="laser_guide_mark_summary_second">Naciśnij i przytrzymaj przycisk podświetlenia, aby rysować. Puść przycisk, aby wyłączyć tę funkcję.</string>
+    <string name="laser_guide_mark_summary_third">Naciśnij dwukrotnie przycisk podświetlenia lub dotknij ekranu, aby usunąć uwagi</string>
+    <string name="laser_guide_page_summary">Naciśnij przyciski pisania i zrzutu ekranu, aby zmienić stronę</string>
+    <string name="laser_guide_page_title">Zmieniaj strony</string>
+    <string name="laser_guide_remote_summary">Naciśnij przycisk podświetlenia, mając włączoną aplikację Aparatu, aby robić zdjęcia lub nagrywać filmy</string>
+    <string name="laser_guide_remote_title">Zdalna migawka</string>
+    <string name="stylus_function_summary">Funkcje</string>
+    <string name="stylus_guide_summary">Tutoriale</string>
+    <string name="stylus_laser_key_name">Podświetlenie</string>
+    <string name="stylus_laser_summary">Naciśnij i przytrzymaj przycisk podświetlenia, aby zaznaczyć wyostrzone obszary</string>
+    <string name="stylus_laser_title">Wyróżnione obszary</string>
+    <string name="stylus_quick_write_creator_summary">Przytrzymaj przycisk pisania, aby otworzyć Mi Canvas</string>
 </resources>

@@ -66,4 +66,10 @@
     <string name="how_to_split_screen_combination_summary_pad">Twórz skróty kombinacji Dzielonego ekranu w doku</string>
     <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Przesuń poziomo trzema palcami na wewnętrznym ekranie, aby włączyć Dzielenie ekranu</string>
     <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Przesuń poziomo trzema palcami, aby włączyć Dzielenie ekranu</string>
+    <string name="desktop_btn_cancel">Anuluj</string>
+    <string name="desktop_btn_continue">Start</string>
+    <string name="desktop_mode_guide_summary">Tryb Stacji roboczej umożliwia otwieranie wielu aplikacji w pływających oknach poprzez dotknięcie ich ikon w doku.</string>
+    <string name="desktop_mode_guide_title">Stacja robocza</string>
+    <string name="freeform_guide_multiple_window_summary_no_wps">"Przytrzymaj ikonę aplikacji w doku, aby otworzyć nowe okno.
+*Funkcja wspiera Notatki, Pocztę i Przeglądarkę."</string>
 </resources>

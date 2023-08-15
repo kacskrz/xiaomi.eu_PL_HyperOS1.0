@@ -459,4 +459,6 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="system_update">Aktualizacja systemu</string>
     <string name="super_volume_toast">Włączono Zwiększoną głośność</string>
     <string name="miuix_appcompat_edit">Edytuj</string>
+    <string name="multi_desktop_mode">Stacja robocza</string>
+    <string name="open_miui_optimization">Najpierw włącz optymalizację MIUI</string>
 </resources>

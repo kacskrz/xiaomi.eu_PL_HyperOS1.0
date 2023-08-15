@@ -2550,4 +2550,11 @@ Jeśli używasz hotspotu do łączenia się z siecią, ustaw jego pasmo AP na %s
     <string name="tip_hdr_on">HDR: Wł.</string>
     <string name="track_focus_mutex_truecolor_setting_tips">"Śledzenie ruchu nie jest wspierane w filmach z Dolby Vision/8K/60 kl./s"</string>
     <string name="video_quality_track_focus_conflict_toast">"Śledzenie ruchu nie jest wspierane w filmach 8K/60 kl./s"</string>
+    <string name="flat_selfie_title_accessibility">Selfie tylnym aparatem</string>
+    <string name="gallery_delete_dialog_confirm">Usuń</string>
+    <string name="gallery_delete_dialog_msg">Usunąć wybrane elementy?</string>
+    <string name="gallery_delete_dialog_title">Usuń elementy</string>
+    <string name="gallery_description">"Gdy robisz zdjęcia, na ekranie będą się pojawiać podglądy miniaturek."</string>
+    <string name="gallery_title">Podglądy miniaturek</string>
+    <string name="switch_gallery_preview_title_accessibility">Przełącz podglądy</string>
 </resources>

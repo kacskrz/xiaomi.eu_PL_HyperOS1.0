@@ -894,4 +894,5 @@ Kliknij dwukrotnie, aby otworzyć Ostatnie aplikacje."</string>
     <string name="notification_tof_gesture_title">Rozpoznawanie gestów bez dotykania ekranu</string>
     <string name="stylus_quick_note_summary">Gdy ekran jest wyłączony, dotknij go rysikiem, aby rozpocząć pisanie. Ta funkcja zwiększa zużycie energii.</string>
     <string name="stylus_quick_note_title">Pisz przy wyłączonym ekranie</string>
+    <string name="can_not_switch_when_desktop_mode">"Nie można się przełączyć między profilami w trybie Stacji roboczej"</string>
 </resources>

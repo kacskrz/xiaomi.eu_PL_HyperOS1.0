@@ -635,4 +635,18 @@ z przedniego aparatu"</string>
   <string name="wifi_disable_micar_p2p_dialog_positive_button">Rozłącz</string>
   <string name="wifi_disable_micar_p2p_dialog_title">Rozłączyć z autem?</string>
   <string name="wifi_disable_micar_p2p_dialog_title_carwith">Rozłączyć z CarWith?</string>
+  <string name="dialog_enable_mic_btn_negative">Anuluj</string>
+  <string name="dialog_enable_mic_btn_positive">Włącz</string>
+  <string name="dialog_enable_mic_message">Aby skorzystać z tej funkcji, włącz mikrofon.</string>
+  <string name="dialog_enable_mic_title">Włącz mikrofon</string>    
+  <string name="memory_freeze_loading">Chwileczkę…</string>
+  <string name="pin_freeform_count_max_reached">"Nie można zminimalizować więcej okien"</string>
+  <string name="toast_mic_muted">Mikrofon jest wyłączony</string>
+  <string name="toast_mic_unmuted">Mikrofon jest włączony</string>
+  <string name="tof_music_support_scene_des">Wspiera sterowanie odtwarzaniem muzyki</string>
+  <string name="tof_office_support_scene_des">Wspiera dokumenty Worda i prezentacje PowerPointa</string>
+  <string name="tof_short_video_support_scene_des">Wspiera przełączanie pomiędzy filmami</string>
+  <string name="tof_video_support_scene_des">Wspiera sterowanie odtwarzaniem filmów na pełnym ekranie</string>
+  <string name="voice_btn_only_support_sogou_ime">Aby użyć tego przycisku, zmień klawiaturę na Sogou Keyboard for MIUI</string>
+  <string name="print_unsupported_in_multiwindowmode">"Nie można drukować, gdy używasz Podziału ekranu lub pływających okien"</string>
 </resources>

@@ -3923,4 +3923,7 @@ kliknij dwukrotnie"</string>
     <string name="system_multitasking_lhs">Uruchamianie trybu podzielonego ekranu z bieżącą aplikacją po lewej</string>
     <string name="system_multitasking_replace">Podczas podzielonego ekranu: zastępowanie aplikacji</string>
     <string name="system_multitasking_rhs">Uruchamianie trybu podzielonego ekranu z bieżącą aplikacją po prawej</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_desktop_mode_active">"Nie można się przełączyć między profilami w trybie Stacji roboczej"</string>
+    <string name="miui_keyboard_shortcut_show_all_apps">Pokaż wszystkie aplikacje</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff_wlan">"Jeśli wyłączysz dane mobilne, nie będziesz w stanie używać Internetu, dopóki nie połączysz się z siecią Wi-Fi. Wciąż będzie można wysyłać MMS-y. Wyłączyć dane mobilne?"</string>
 </resources>
