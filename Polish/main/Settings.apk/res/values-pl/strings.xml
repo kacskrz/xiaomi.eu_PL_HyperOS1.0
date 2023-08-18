@@ -13379,4 +13379,6 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="tof_gesture_right_waving_title">Fala w prawo</string>
     <string name="tof_gesture_up_waving_title">Fala w górę</string>
     <string name="wifi_validation">Weryfikowanie sieci…</string>
+    <string name="private_dns_mode_provider_custom_name">nazwa własna</string>
+    <string name="private_dns_mode_provider_exposed_hostname">wyświetlana nazwa hosta</string>
 </resources>

@@ -2373,4 +2373,5 @@ Głośność na słuchawkach przekracza zalecane wartości, co może doprowadzi�
     <string name="permdesc_updatePackagesWithoutUserAction">Pozwala na aktualizowanie zainstalowanej wcześniej aplikacji bez działania ze strony użytkownika</string>
     <string name="permlab_updatePackagesWithoutUserAction">aktualizacja aplikacji bez działania ze strony użytkownika</string>
     <string name="user_owner_app_label">Przełącz na osobistą aplikację %1$s</string>
+    <string name="deprecated_abi_message">"Ta aplikacja nie jest kompatybilna z najnowszą wersją Androida. Sprawdź dostępność aktualizacji lub skontaktuj się z jej twórcą."</string>
 </resources>

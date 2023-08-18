@@ -1672,4 +1672,5 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="know">Rozumiem</string>
   <string name="scan_not_installed_china">Najpierw zainstaluj Skaner</string>
   <string name="scan_not_installed_global">Najpierw zainstaluj Skaner</string>
+  <string name="preference_feedback_title">Opinia</string>
 </resources>

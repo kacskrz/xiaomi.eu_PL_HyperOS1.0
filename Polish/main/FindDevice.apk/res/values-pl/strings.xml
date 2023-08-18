@@ -123,4 +123,16 @@ Przejdź na stronę i.mi.com/ss i złóż prośbę o odblokowanie urządzenia."<
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"W celu uzyskania numeru telefonu do lokalizacji urządzenia, gdy nie jest ono połączone z Internetem"</string>
+  <string name="custom_define_permission_desc_android.permission.SEND_SMS">"W celu lokalizacji urządzenia, gdy nie jest ono połączone z Internetem"</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">W celu lokalizacji urządzenia i włączenia Trybu zgubienia</string>
+  <string name="open_wifi_settings_china">Otwórz ustawienia Wi-Fi</string>
+  <string name="unlock_help_china">"Połącz się z siecią.
+Włóż działającą kartę SIM i nie łącz się z niedziałającymi sieciami Wi-Fi.
+
+Zapomniałeś hasła?
+Przejdź do id.mi.com, wybierz opcję \"Zapomniałeś hasła?\" i postępuj zgodnie z instrukcjami.
+
+Nie możesz aktywować urządzenia?
+Przejdź na stronę i.mi.com/ss i złóż prośbę o odblokowanie urządzenia."</string>
 </resources>

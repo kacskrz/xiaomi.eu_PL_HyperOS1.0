@@ -2557,4 +2557,5 @@ Jeśli używasz hotspotu do łączenia się z siecią, ustaw jego pasmo AP na %s
     <string name="gallery_description">"Gdy robisz zdjęcia, na ekranie będą się pojawiać podglądy miniaturek."</string>
     <string name="gallery_title">Podglądy miniaturek</string>
     <string name="switch_gallery_preview_title_accessibility">Przełącz podglądy</string>
+    <string name="frind_sign_button_accessibility">Wyłącz Asystenta aparatu</string>
 </resources>

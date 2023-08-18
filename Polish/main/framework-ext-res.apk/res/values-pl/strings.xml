@@ -649,4 +649,7 @@ z przedniego aparatu"</string>
   <string name="tof_video_support_scene_des">Wspiera sterowanie odtwarzaniem filmów na pełnym ekranie</string>
   <string name="voice_btn_only_support_sogou_ime">Aby użyć tego przycisku, zmień klawiaturę na Sogou Keyboard for MIUI</string>
   <string name="print_unsupported_in_multiwindowmode">"Nie można drukować, gdy używasz Podziału ekranu lub pływających okien"</string>
+  <string name="softap_stat_toast">Aktywny hotspot</string>
+  <string name="zone_volume_automatic_change_optimization_text">Wystąpił problem z przyciskiem głośności. Zalecamy wizytę w serwisie. Czy chcesz zablokować przyciski głośności i używać domyślnego poziomu głośności?</string>
+  <string name="zone_volume_automatic_change_optimization_title">Problem z przyciskiem głośności</string>
 </resources>

@@ -1009,4 +1009,5 @@ Zwiększone bezpieczeństwo."</string>
   <string name="international_home_pull_up_content">Przesuń w górę na pulpicie, aby otworzyć Centrum treści.</string>
   <string name="international_home_pull_up_sub_content">Przesuń w dół od środka pulpitu, aby otworzyć wyszukiwarkę.</string>
   <string name="not_support_adding">"Dodawanie tego elementu nie jest jeszcze wspierane"</string>
+  <string name="switch_personal_assistant_summary">Przesuń w prawo na pulpicie, aby otworzyć Google Discover</string>
 </resources>
