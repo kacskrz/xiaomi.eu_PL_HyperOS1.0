@@ -3686,4 +3686,7 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="immersion_menu_photo_switch_notice">Dotknij, aby wybrać elementy, które mają być wyświetlane</string>
   <string name="search_title_daily">Czas</string>
   <string name="passport_vcode_what_app_send_prompt">Twój kod weryfikacyjny WhatsAppa zostanie wysłany na Twój numer telefonu (&lt;font color=#1F93FF>%s&lt;/font>).</string>
+  <string name="cta_hybrid_feedback_network_declare">Aby wyświetlić rozwiązania najczęściej spotykanych problemów, zezwól aplikacji na łączenie się z siecią.</string>
+  <string name="picture_not_support_privacy_watermark">"Nie można dodać znaków wodnych. Obraz jest za mały."</string>
+  <string name="search_domestic_edit_hint">Szukaj zdjęć i filmów</string>
 </resources>
