@@ -1261,4 +1261,9 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="privacy_runtime_perm_notification_title">Powiadomienia</string>
   <string name="upgrade_member_storage">Członkostwo Chmury Xiaomi</string>
   <string name="miuix_appcompat_edit">Edytuj</string>
+  <string name="web_view_auto_login_fail">"Nie udało się zalogować. Spróbuj ponownie."</string>
+  <string name="web_view_login_text">Logowanie…</string>
+  <string name="web_view_reload_btn_text">Spróbuj ponownie</string>
+  <string name="web_view_reload_description_text">"Nie udało się połączyć z siecią.
+Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
 </resources>

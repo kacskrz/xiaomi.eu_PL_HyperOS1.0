@@ -7,7 +7,7 @@
   <string name="auth_fingerprint_content_message_error">"Nie udało się zeskanować odcisku, spróbuj ponownie"</string>
   <string name="auth_fingerprint_title">Zweryfikuj odcisk palca</string>
   <string name="autofill_description">"MIUI może zaszyfrować i gromadzić Twoje hasła, abyś mógł je wprowadzać automatycznie bez konieczności wpisywania ich ręcznie. Xiaomi nie będzie w stanie odczytać tak zaszyfrowanych haseł."</string>
-  <string name="autofill_hint_email_address">E-mail</string>
+  <string name="autofill_hint_email_address">Konto</string>
   <string name="autofill_hint_name">Nazwa</string>
   <string name="autofill_hint_password">Hasło</string>
   <string name="autofill_hint_phone">Numer telefonu</string>

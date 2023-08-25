@@ -13381,4 +13381,8 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="wifi_validation">Weryfikowanie sieci…</string>
     <string name="private_dns_mode_provider_custom_name">nazwa własna</string>
     <string name="private_dns_mode_provider_exposed_hostname">wyświetlana nazwa hosta</string>
+    <string name="autoui_mode_guide_text">Optymalizuj wygląd kompatybilnych aplikacji, aby polepszyć wrażenia wizualne</string>
+    <string name="autoui_mode_name">Optymalizacja wyglądu aplikacji</string>
+    <string name="autoui_mode_no_support_apps">"Nie znaleziono kompatybilnych aplikacji"</string>
+    <string name="autoui_search_hint">Szukaj aplikacji</string>
 </resources>
