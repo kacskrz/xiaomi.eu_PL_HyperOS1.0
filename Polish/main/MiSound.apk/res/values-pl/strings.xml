@@ -382,4 +382,6 @@
   <string name="effect_virtual_surround_summary_spk">Zwiększ głębię dźwięku w odtwarzanych utworach i filmach</string>
   <string name="effect_selection_headset">Efekty słuchawek</string>
   <string name="effect_none">Domyślny</string>
+  <string name="effect_selection">Efekty dźwiękowe</string>
+  <string name="spatial_audio_summary_spk">Odczuj immersję i poczucie przestrzeni</string>
 </resources>

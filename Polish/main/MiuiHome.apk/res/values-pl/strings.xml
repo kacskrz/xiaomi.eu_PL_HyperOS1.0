@@ -595,7 +595,7 @@
   <string name="work_profile_toggle_label">Profil do pracy</string>
   <string name="launcher_search_bar_provider_title">Wyszukiwarka w pasku wyszukiwania</string>
   <string name="launcher_slide_up_search_provider_title">Aplikacja do wyszukiwania po pociągnięciu w górę</string>
-  <string name="unstable_dialog_message">To urządzenie uczestniczy w programie Android 11 Developer Preview. Pozwala on developerom aplikacji na Androida oraz jego entuzjastom na wypróbowanie testowych, przedpremierowych wersji Androida 11. Ta wersja systemu może zawierać różne błędy i usterki, które mogą wpłynąć na codzienne korzystanie z urządzenia.</string>
+  <string name="unstable_dialog_message">To urządzenie uczestniczy w programie Android 14 Developer Preview. Pozwala on developerom aplikacji na Androida oraz jego entuzjastom na wypróbowanie testowych, przedpremierowych wersji Androida 11. Ta wersja systemu może zawierać różne błędy i usterki, które mogą wpłynąć na codzienne korzystanie z urządzenia.</string>
   <string name="unstable_dialog_title">Program Android Developer Preview</string>
   <string name="navigation_type_full_screen">Gesty</string>
   <string name="navigation_type_title">Nawigacja systemowa</string>

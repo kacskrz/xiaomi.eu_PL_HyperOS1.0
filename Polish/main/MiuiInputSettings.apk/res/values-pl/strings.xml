@@ -595,4 +595,5 @@ Jeśli przytrzymasz przycisk przez %s sekund, wywołasz menu wyłączania telefo
     <string name="stylus_laser_summary">Naciśnij i przytrzymaj przycisk podświetlenia, aby zaznaczyć wyostrzone obszary</string>
     <string name="stylus_laser_title">Wyróżnione obszary</string>
     <string name="stylus_quick_write_creator_summary">Przytrzymaj przycisk pisania, aby otworzyć Mi Canvas</string>
+    <string name="auto_disable_screenbuttons_dialog_title">Wyłączyć przyciski w %s?</string>
 </resources>
