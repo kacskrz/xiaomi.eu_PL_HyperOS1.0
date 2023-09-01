@@ -652,4 +652,6 @@ z przedniego aparatu"</string>
   <string name="softap_stat_toast">Aktywny hotspot</string>
   <string name="zone_volume_automatic_change_optimization_text">Wystąpił problem z przyciskiem głośności. Zalecamy wizytę w serwisie. Czy chcesz zablokować przyciski głośności i używać domyślnego poziomu głośności?</string>
   <string name="zone_volume_automatic_change_optimization_title">Problem z przyciskiem głośności</string>
+  <string name="resolver_cast">Projekcja</string>
+  <string name="resolver_print">Drukuj</string>
 </resources>
