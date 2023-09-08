@@ -1084,7 +1084,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="firewall_rule_group_title_mobile">Dane</string>
   <string name="firewall_rule_group_title_roaming">Roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
-  <string name="firewall_system_title">Użycie danych przez aplikacje systemowe</string>
+  <string name="firewall_system_title">Łączenie się aplikacji systemowych</string>
   <string name="firewall_temp_rule_reason">%2$s ograniczona łączność z siecią dla %1$s​</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"Gdy wyłączone, ta aplikacja nie będzie mogła korzystać z połączenia Wi-Fi"</string>
@@ -1627,7 +1627,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
   <string name="main_secondary_message_traffic_used_normal">%s peak data used</string>
   <string name="main_today_used">Dzisiaj</string>
-  <string name="main_toolbar_firewall">Ograniczenia aplikacji</string>
+  <string name="main_toolbar_firewall">Zarządzaj łącznością z siecią</string>
   <string name="main_toolbar_internet_by_mobiledata">Internet przez sieć mobilną</string>
   <string name="main_toolbar_internet_by_pc_brige">Internet przez USB</string>
   <string name="main_toolbar_internet_by_wifi">Internet przez Wi-Fi</string>
@@ -1728,7 +1728,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_summary_antivirus">Szukaj wirusów</string>
   <string name="menu_summary_antivirus_2">Wykryto potencjalne zagrożenia</string>
   <string name="menu_summary_antivirus_3">"Bez skanowania"</string>
-  <string name="menu_summary_app_manager">Zaktualizuj lub odinstaluj</string>
+  <string name="menu_summary_app_manager">Zarządzaj ustawieniami aplikacji</string>
   <string name="menu_summary_app_manager_2">Dostępne są aktualizacje</string>
   <string name="menu_summary_garbage_cleanup">Nie ma śmieci</string>
   <string name="menu_summary_garbage_cleanup_2">Rozmiar śmieci</string>
@@ -5660,7 +5660,7 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="size_full">Pełny ekran</string>
     <string name="global_satisfaction_notification_button">Oceń</string>
     <string name="global_satisfaction_notification_subhead">Powiedz Xiaomi o swoich wrażeniach</string>
-    <string name="global_satisfaction_notification_title">Oceń to urządzenie</string>
+    <string name="global_satisfaction_notification_title">Opisz swoje wrażenia</string>
     <string name="antispam_guangdian_card_hint">"Twoja karta SIM nie obsługuje przełączania na inną wiadomość dot. nieobecności. Skontaktuj się z operatorem, aby uzyskać szczegółowe informacje."</string>
     <string name="antispam_guangdian_card_title">"Przełączanie niewspierane"</string>
     <string name="app_name_pad">Panel sterowania</string>
@@ -6039,4 +6039,31 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="permission_instruction_record_screen">Dostęp do zawartości ekranu</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Przenoszenie danych na inne urządzenia</string>
     <string name="virus_auto_update_engine_1">Automatycznie aktualizuj definicje wirusów</string>
+    <string name="app_info_all_services_label">Wszystkie usługi</string>
+    <string name="app_manager_shortcut_manager">Zarządzaj skrótami na pulpicie</string>
+    <string name="app_usage_half_year">Ostatnie %d miesięcy</string>
+    <string name="app_usage_more_year">Ponad %d rok temu</string>
+    <string name="app_usage_never_1">Nigdy</string>
+    <string name="app_usage_one_day">Dzisiaj</string>
+    <string name="app_usage_one_month">Ostatnie %d dni</string>
+    <string name="app_usage_one_week">Ostatnie %d dni</string>
+    <string name="app_usage_year">W ciągu %d roku</string>
+    <string name="card_main_video_manage_title">Zarządzaj filmami</string>
+    <string name="custom_define_permission_desc_android.permission.GET_ACCOUNTS">W celu autoryzacji urządzenia w trakcie wykonywania weryfikacji tożsamości między urządzeniami, debugowania USB i przywracania hasła Ochrony prywatności oraz Blokady aplikacji managing authorization when performing cross-device identity verification, USB debugging, and restoring Privacy protection password and App lock</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">W celu rozpoznawania stanu połączenia przy wysokiej temperaturze bądź słabej baterii</string>
+    <string name="custom_define_permission_desc_android.permission.group.SENSORS">W celu wykrywania fal sejsmicznych dla monitorowania trzęsień ziemi</string>
+    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">W celu nagrywania dźwięku podczas korzystania z Game Turbo</string>
+    <string name="gb_barrage_app_manger">Zarządzaj aplikacjami</string>
+    <string name="gb_barrage_guide_text">Dotknij komentarza, aby odpowiedzieć lub otworzyć pływające okno</string>
+    <string name="global_satisfaction_notification_summary">Powiedz nam, co sądzisz o tym urządzeniu</string>
+    <string name="pc_category_charge_settings">Ustawienia ładowania</string>
+    <string name="pc_hight_refresh_rate_reminder_content">Twoje urządzenie używa wyższej częstotliwości odświeżania dla lepszych wrażeń z oglądania. Może to zwiększyć zużycie energii i temperaturę urządzenia.</string>
+    <string name="pc_hight_refresh_rate_reminder_summary">Korzystasz z wyższego odświeżania. Może to zwiększyć zużycie energii i temperaturę urządzenia.</string>
+    <string name="pc_hight_refresh_rate_reminder_title">Oglądasz film w wyższej częstotliwości odświeżania</string>
+    <string name="pc_smart_discharge_protect_notifi_summary2">Aby chronić baterię, ładowanie zatrzyma się automatycznie na wybranym poziomie baterii podczas korzystania z nawigacji</string>
+    <string name="special_perm_intercept_autostart_msg">Zezwól aplikacji na działanie w tle bez ograniczeń</string>
+    <string name="special_perm_intercept_autostart_title">Nieograniczony autostart</string>
+    <string name="vb_power_performance_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączony jest Tryb wydajności"</string>
+    <string name="vb_power_save_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączone jest Oszczędzanie baterii"</string>
+    <string name="vb_super_power_save_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączone jest Ultraoszczędzanie baterii"</string>
 </resources>

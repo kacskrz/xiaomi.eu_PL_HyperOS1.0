@@ -1790,4 +1790,18 @@ Dotknij dwa razy, aby zobaczyć szczegóły."</string>
     <string name="pa_picker_theme_app_version_error">Wystąpił błąd</string>
     <string name="pa_global_search_description">Szukaj</string>
     <string name="pa_global_search_hint">Szukaj…</string>
+    <string name="pa_accessibility_picker_home_widget_slected_no_drag">"%1$s, %2$s, stan instalacji: %3$s.
+Dotknij dwa razy, aby wyświetlić szczegóły."</string>
+    <string name="pa_picker_detail_add_to_stack">Dodaj do grupy</string>
+    <string name="pa_picker_detail_app_widget_in_dev">"Ten widżet nie jest jeszcze dostępny. Sprawdź inne widżety."</string>
+    <string name="pa_picker_detail_view_more">Zobacz więcej</string>
+    <string name="pa_picker_stack_operate_empty_title">"Nic tu nie ma.
+Dodaj widżety, aby rozpocząć."</string>
+    <string name="pa_picker_stack_operate_title">Edytuj grupę</string>
+    <string name="pa_picker_toast_count_limit_for_stack">Dodaj maks. 10 elementów</string>
+    <string name="pa_stack_summary">Przenieś widżety z nowymi danymi na górę</string>
+    <string name="pa_stack_text">Pokazuj zaktualizowane elementy na górze</string>
+    <string name="pa_widget_menu_edit_card_in_stack">Edytuj \"%s\"</string>
+    <string name="pa_widget_menu_edit_stack">Edytuj grupę</string>
+    <string name="pa_widget_menu_remove_card_in_stack">Usuń \"%s\"</string>
 </resources>

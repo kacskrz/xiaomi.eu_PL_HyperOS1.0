@@ -287,4 +287,6 @@ dd.MM"</string>
     <string name="call_notification_incoming_text">Połączenie przychodzące</string>
     <string name="call_notification_ongoing_text">Trwa połączenie</string>
     <string name="call_notification_screening_text">Filtruję połączenie przychodzące</string>
+    <string name="smart_style">Inteligentnie</string>
+    <string name="smart_style_summary">"Wyświetlaj elementy zawsze z wyjątkiem sytuacji, gdy urządzenie jest w kieszeni, gdy poziom oświetlenia otoczenia jest niski przez dłuższy czas bądź gdy nie patrzysz na urządzenie"</string>
 </resources>
