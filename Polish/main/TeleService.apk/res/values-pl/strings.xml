@@ -2480,7 +2480,7 @@ Ten tablet nie jest wyposażony w słuchawki. Możesz przełączyć w tryb gło�
     <string name="msim_setting_sms_pop_text">Wybierz podczas wysyłania SMS-a</string>
     <string name="other_settings_screen_title">Inne ustawienia</string>
     <string name="enable_2g_dialog_title">Uwaga</string>
-    <string name="enable_2g_dialog_warn_message">"Jeśli wyłączysz sieć 5G i znajdziesz się tam, gdzie 2G jest jedyną dostępną siecią, nie będzie można wykonać żadnego połączenia (nawet alarmowego). Wyłączyć mimo to?"</string>
+    <string name="enable_2g_dialog_warn_message">"Jeśli wyłączysz sieć 2G i znajdziesz się tam, gdzie 2G jest jedyną dostępną siecią, nie będzie można wykonać żadnego połączenia (nawet alarmowego). Wyłączyć mimo to?"</string>
     <string name="no_ims_service_notification_content">Skontaktuj się z operatorem, aby rozwiązać ten problem.</string>
     <string name="prompt_to_suggest_no_ims_service_notification_title">"Nie można użyć usługi VoLTE"</string>
     <string name="ussdinitiated_title">Zainicjowano sesję USSD</string>
