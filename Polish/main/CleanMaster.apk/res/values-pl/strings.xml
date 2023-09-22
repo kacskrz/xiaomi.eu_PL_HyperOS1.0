@@ -1040,4 +1040,6 @@
   <string name="dialog_msg_delete_icon_content_phone">Panel sterowania umożliwia Ci usunięcie śmieci z urządzenia, odnalezienie i neutralizację wirusów, oszczędzanie baterii, zarządzanie uprawnieniami i inne rzeczy.</string>
   <string name="dialog_msg_delete_icon_title_pad">Usunąć ten skrót z pulpitu?</string>
   <string name="dialog_msg_delete_icon_title_phone">Usunąć ten skrót z pulpitu?</string>
+  <string name="be_figuring">Obliczanie…</string>
+  <string name="dc_storage_info_new">Dostępne %1$s</string>
 </resources>
