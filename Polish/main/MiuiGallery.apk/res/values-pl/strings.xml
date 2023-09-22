@@ -3689,4 +3689,15 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="cta_hybrid_feedback_network_declare">Aby wyświetlić rozwiązania najczęściej spotykanych problemów, zezwól aplikacji na łączenie się z siecią.</string>
   <string name="picture_not_support_privacy_watermark">"Nie można dodać znaków wodnych. Obraz jest za mały."</string>
   <string name="search_domestic_edit_hint">Szukaj zdjęć i filmów</string>
+  <string name="backup_category_title">KOPIA ZAPASOWA</string>
+  <string name="backup_display">Przypomnienia dot. pamięci</string>
+  <string name="backup_google_description">Zabezpiecz się przed utratą zdjęć, kopiując je na swoje konto Google</string>
+  <string name="backup_google_name">Zdjęcia Google</string>
+  <string name="backup_off_des">Włącz synchronizację z Chmurą, aby automatycznie kopiować zdjęcia i filmy</string>
+  <string name="backup_onedrive_description">Chroń zdjęcia w chmurze i uzyskuj dostęp do nich z każdego urządzenia</string>
+  <string name="global_cloud_action_upgrade_onedrive">Ulepsz OneDrive</string>
+  <string name="global_cloud_full_space_tip_message">Ulepsz swój plan chmury, aby móc kopiować do niej wszystkie zdjęcia i filmy.</string>
+  <string name="manager_backup">Zarządzaj</string>
+  <string name="open_backup">Włącz</string>
+  <string name="select_backup">Wybierz kopię zapasową</string>
 </resources>

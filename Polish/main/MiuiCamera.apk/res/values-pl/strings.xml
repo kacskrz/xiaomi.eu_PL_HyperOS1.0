@@ -2566,4 +2566,6 @@ Jeśli używasz hotspotu do łączenia się z siecią, ustaw jego pasmo AP na %s
     <string name="settings_camera_near_range_fallback_title">Adaptacyjne makro</string>
     <string name="settings_camera_tele_fallback_description">Automatycznie przełączaj się między głównym obiektywem a teleobiektywem w zależności od odległości i jasności</string>
     <string name="settings_camera_tele_fallback_title">Adaptacyjny teleobiektyw</string>
+    <string name="aiwatermark_location_waiting_hint">Uzyskiwanie lokalizacji…</string>
+    <string name="ultra_pixel_owl_toast">Przetwarzanie zdjęcia…</string>
 </resources>

@@ -169,4 +169,5 @@ Dotknij, aby je zobaczyć."</string>
   <string name="app_notification_record_saved">"Zapisano nagranie.
 Dotknij, aby je zobaczyć."</string>
   <string name="record_time_too_short">Nagrany film jest za krótki</string>
+  <string name="protect_oneself_when_recording">"Nagrywasz połączenie. Chroń prywatność swoją i innych podczas używania tej funkcji."</string>
 </resources>
