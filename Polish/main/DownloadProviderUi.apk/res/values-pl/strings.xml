@@ -493,4 +493,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="storage_dialog_content">Zezwól aplikacji Pobrane na dostęp do pamięci urządzenia, aby móc korzystać z jej funkcji.</string>
   <string name="storage_dialog_go">Ustawienia</string>
   <string name="storage_dialog_title">Dostęp do pamięci urządzenia</string>
+  <string name="introduction">O aplikacji</string>
 </resources>

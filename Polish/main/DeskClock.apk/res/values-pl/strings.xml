@@ -642,4 +642,11 @@ d.MM."</string>
   <string name="snooze_alarm_alert">Drzemka do %s</string>
   <string name="timer_alert_pause">Minutnik wstrzymany</string>
   <string name="timer_alert_running">Włączono minutnik</string>
+  <string name="alarm_repeat_self_define_button">Dostosuj</string>
+  <string name="look_sleep_data">Zobacz dane snu</string>
+  <string name="notification_permission_dialog_content">Aby otrzymywać powiadomienia o alarmie, zezwól tej aplikacji na wysyłanie powiadomień. Możesz to zrobić w Ustawieniach.</string>
+  <string name="notification_permission_dialog_not_open">Nie teraz</string>
+  <string name="notification_permission_dialog_open">Ustawienia</string>
+  <string name="notification_permission_dialog_title">Wymagane uprawnienia</string>
+  <string name="upcoming_alarm_new">Nadchodzący alarm: %s</string>
 </resources>

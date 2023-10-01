@@ -872,7 +872,7 @@ Możesz wybrać którąś z polecanych aplikacji!"</string>
   <string name="search_setting_description">Tekst w wiadomościach</string>
   <string name="search_show_more_results">Więcej</string>
   <string name="search_title_mms">Wiadomości</string>
-  <string name="second_mms_introduction">Przejdź do Drugiego profilu</string>
+  <string name="second_mms_introduction">Przejdź do Drugiego profilu, aby zobaczyć prywatne wiadomości</string>
   <string name="second_mms_switch">Przełącz</string>
   <string name="secs">s</string>
   <string name="security_alert_desc">"Nadawcy tej wiadomości nie ma w znanych kontaktach. Jeśli odpowiesz na tę wiadomość komunikat zniknie.</string>
@@ -1467,4 +1467,10 @@ do Listy blokowanych"</string>
     <string name="pref_feedback_title">Opinia</string>
     <string name="search_sms">Wyszukaj wiadomości</string>
     <string name="title_timed_remind_message_dialog">Ustaw czas przypomnienia</string>
+    <string name="add_to_block_by_number_failed">"Nie udało się dodać %s do listy blokowanych.
+Spróbuj ponownie."</string>
+    <string name="add_to_block_by_tag_failed">"Nie udało się dodać SMS-ów zawierających \"%s\" do listy blokowanych.
+Spróbuj ponownie."</string>
+    <string name="cloud_space_not_enough">Brak miejsca w Chmurze. Ulepsz swój plan, aby zsychronizować ostatnie elementy.</string>
+    <string name="fail_to_add_image">"Nie udało się uzyskać dostępu do skopiowanych elementów"</string>
 </resources>
