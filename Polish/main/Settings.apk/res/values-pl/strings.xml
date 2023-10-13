@@ -13387,4 +13387,6 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="autoui_search_hint">Szukaj aplikacji</string>
     <string name="headset_adaptive_hearing_summary">Automatycznie dostosuj dźwięk w zależności od kształtu ucha i środowiska</string>
     <string name="headset_adaptive_hearing_title">Dźwięk adaptacyjny</string>
+    <string name="freeform_recommend_open_switch_summary_fold">W niektórych przypadkach rekomendowane aplikacje będą otwierane w pływającym oknie na zewnętrznym ekranie oraz w pływającym oknie lub w Dzielonym ekranie na ekranie wewnętrznym</string>
+    <string name="freeform_recommend_open_switch_summary_phone">W niektórych przypadkach rekomendowane aplikacje będą otwierane w pływającym oknie</string>
 </resources>
