@@ -2440,7 +2440,7 @@ Obrazy Ultra RAW pozwalają zaoszczędzić %d bitów danych, zachowując jeszcze
     <string name="bluetooth_permission_not_ask_again">Zezwól tej aplikacji na łączenie się z urządzeniami w pobliżu, aby móc łączyć się ze słuchawkami Bluetooth.</string>
     <string name="config_name_front_flash">Wypełnienie światłem</string>
     <string name="custom_shutter_sound_select">Własny dźwięk migawki</string>
-    <string name="manual_picture_style_desc_custom">Własny styl fotografii</string>
+    <string name="manual_picture_style_desc_custom">Własne style fotografii</string>
     <string name="pref_camera_pad_suspend_shutter_button_summary">Przeciągnij przycisk migawki do lewej, aby dodać dodatkową pływającą migawkę, którą można umieścić w dowolnym miejscu na ekranie</string>
     <string name="pref_camera_watermark_film">Klatka filmowa</string>
     <string name="tv_picturestyle_custom_color">Tonacja</string>
@@ -2568,4 +2568,35 @@ Jeśli używasz hotspotu do łączenia się z siecią, ustaw jego pasmo AP na %s
     <string name="settings_camera_tele_fallback_title">Adaptacyjny teleobiektyw</string>
     <string name="aiwatermark_location_waiting_hint">Uzyskiwanie lokalizacji…</string>
     <string name="ultra_pixel_owl_toast">Przetwarzanie zdjęcia…</string>
+    <string name="accessibility_audio_gain_adjust">Zmiana głośności</string>
+    <string name="accessibility_cv_watermark_show_location_off">"Położenie nie będzie pokazywane"</string>
+    <string name="accessibility_cv_watermark_show_location_on">Położenie będzie pokazywane</string>
+    <string name="accessibility_cv_watermark_show_time_off">Informacja o czasie wyłączona</string>
+    <string name="accessibility_cv_watermark_show_time_on">Informacja o czasie włączona</string>
+    <string name="accessibility_watermark_device_off">Znak wodny urządzenia wyłączony</string>
+    <string name="accessibility_watermark_device_on">Znak wodny urządzenia włączony</string>
+    <string name="accessibility_watermark_time_off">Informacja o czasie wyłączona</string>
+    <string name="accessibility_watermark_time_on">Informacja o czasie włączona</string>
+    <string name="accessibility_watermark_userdefine_enable">Opcja własnego znaku wodnego</string>
+    <string name="lite_pref_camera_auto_hibernation_desc">Po %d minutach nieaktywności ekran wyłączy się, gdy robisz zdjęcia lub filmy</string>
+    <string name="lite_pref_camera_lying_desc">Powiadamiaj o aktualnej orientacji, gdy urządzenie jest ustawione równolegle do ziemi</string>
+    <string name="metering_parameter_description_average">Pomiar matrycowy: Bierze pod uwagę cały obraz. Działa najlepiej, gdy na zdjęciu jest dużo światła.</string>
+    <string name="metering_parameter_description_central">Pomiar centralnie ważony: Skupia się on na głównej części kadru i uwzględnia jasność obszaru dookoła nigo.</string>
+    <string name="metering_parameter_description_spot">Pomiar punktowy: Skupia się na jednym punkcie, umożliwiając większą kontrolę nad ekspozycją.</string>
+    <string name="mutex_hdr_quality" formatted="false">"HDR nie jest wspierany w trybie %1s %2s kl./s"</string>
+    <string name="pref_camera_picturesize_entry_cinematic">Szeroki</string>
+    <string name="prek_b_j_o_i">"Rejestruj wszystkie dźwięki dookoła urządzenia z zachowaniem ich właściwości przestrzennych. Najlepsze efekty uzyskasz, odsłuchując nagrany dźwięk poziomo lub przez słuchawki. Funkcja działa w Trybie reżyserskim, a także w trybach wideo: normalnym i Pro. Zewnętrzne mikrofony nie są obsługiwane."</string>
+    <string name="prek_b_j_p_i">"Ogranicz wpływ wiatru na nagrywany dźwięk podczas nagrywania filmów. Funkcja działa w Trybie reżyserskim, a także w trybach wideo: normalnym i Pro. Zewnętrzne mikrofony nie są obsługiwane."</string>
+    <string name="track_focus_mutex_hdr10plus_8k_setting_tips">"Śledzenie ruchu nie jest wspierane w filmach z HDR10+/8K/60 kl./s"</string>
+    <string name="track_focus_mutex_hdr10plus_setting_tips">"Śledzenie ruchu nie jest wspierane w filmach z HDR10+/60 kl./s"</string>
+    <string name="update_apk_size">Rozmiar: %s</string>
+    <string name="update_btn_negative">Nie teraz</string>
+    <string name="update_btn_positive">Aktualizuj</string>
+    <string name="update_check">Sprawdź aktualizacje</string>
+    <string name="update_check_title">Obecna wersja: %s</string>
+    <string name="update_ignore">Ignoruj tę wersję</string>
+    <string name="update_latest_version">Aktualna</string>
+    <string name="update_new_version">Dostępna aktualizacja</string>
+    <string name="update_title">Dostępna aktualizacja</string>
+    <string name="video_prompter_edit_format_not_supported">"This format isn't supported"</string>
 </resources>
