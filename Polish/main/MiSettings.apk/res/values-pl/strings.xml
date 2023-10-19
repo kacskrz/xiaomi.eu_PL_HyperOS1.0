@@ -948,4 +948,5 @@ został wykorzystany"</string>
 %d. W wspieranych aplikacjach i grach częstotliwość odświeżania może być ustawiona do maks. %s Hz."</string>
     <string name="max_fps_string">Do %s Hz</string>
     <string name="summary_max_fps_for_intelligent">Dynamicznie dostosowuj częstotliwość odświeżania do maks. %s Hz w oparciu o scenariusze, aby bilansować wydajność i zużycie energii</string>
+    <string name="anti_flicker_mode_summary_new">Używaj Ograniczenia migotania w słabym świetle, aby oczy były mniej zmęczone</string>
 </resources>
