@@ -72,14 +72,14 @@
   <string name="add">Dodaj</string>
   <string name="add_cw_fail_tip">Nie udało się dodać tapety</string>
   <string name="add_cw_success_tip">Pomyślnie dodano tapetę</string>
-  <string name="add_first_cw_toast1">Pomyślnie dodano. Włączono Tapety Blokady i uruchomiono pokaz slajdów.</string>
-  <string name="add_first_cw_toast2">Pomyślnie dodano trochę elementów. Włączono Tapety Blokady i uruchomiono pokaz slajdów.</string>
-  <string name="add_first_cw_toast3">Pomyślnie dodano tapety. Włączono Tapety Blokady i uruchomiono pokaz slajdów.</string>
-  <string name="add_first_cw_toast4">Włączono Tapety Blokady i uruchomiono pokaz slajdów</string>
+  <string name="add_first_cw_toast1">Pomyślnie dodano. Pokazujemy wybrane przez Ciebie tapety.</string>
+  <string name="add_first_cw_toast2">Pomyślnie dodano część wybranych tapet</string>
+  <string name="add_first_cw_toast3">Pomyślnie dodano Twoje tapety</string>
+  <string name="add_first_cw_toast4">Włączono Tapety Blokady. Pokazujemy wybrane przez Ciebie tapety.</string>
   <string name="add_launch_hint_text">Dodaj skrót na pulpit</string>
   <string name="add_local_picture">Galeria</string>
   <string name="add_online_picture">Obrazki online</string>
-  <string name="add_to_cw">Dodaj do pokazu slajdów</string>
+  <string name="add_to_cw">Dodaj do własnego pokazu slajdów</string>
   <string name="add_to_trust_device">To jest zaufane urządzenie</string>
   <string name="add_wallpaper">Dodaj tapety</string>
   <string name="addcw_apply_btn_txt">Dodaj tapetę</string>
@@ -165,8 +165,8 @@
   <string name="custom_wallpaper_des">Włącz Tapety Blokady i dodaj swoje zdjęcia bądź tapety online do zestawu, aby automatycznie pojawiały się one w pokazie slajdów.</string>
   <string name="cw_add">Dodaj</string>
   <string name="cw_add2">Dodaj (%1$d)</string>
-  <string name="cw_add_fail">Nie udało się dodać do pokazu slajdów</string>
-  <string name="cw_add_num_tip">Nie można dodać więcej elementów</string>
+  <string name="cw_add_fail">"Nie udało się dodać"</string>
+  <string name="cw_add_num_tip">"Nie można wybrać więcej tapet"</string>
   <string name="cw_add_success">Pomyślnie dodano</string>
   <string name="cw_add_tip_fail">Nie można dodać</string>
   <string name="cw_add_wallpaper">Dodaj tapetę</string>
@@ -192,8 +192,8 @@
   <string name="cw_my_fav">Ulubione</string>
   <string name="cw_permission_tip">Zezwól Tapetom blokady na dostęp do pamięci w Ustawieniach &gt; Uprawnienia.</string>
   <string name="cw_wallpaper_empty_dlg_btn">Rozumiem</string>
-  <string name="cw_wallpaper_empty_dlg_content">Nie dodałeś żadnych elementów do pokazu slajdów. Przełączyliśmy widok na tapety z sieci.</string>
-  <string name="cw_wallpaper_empty_dlg_title">Brak elementów</string>
+  <string name="cw_wallpaper_empty_dlg_content">"Nie dodano żadnych tapet do własnego pokazu slajdów. Tapety Blokady będą zatem wyświetlać rekomendowane tapety."</string>
+  <string name="cw_wallpaper_empty_dlg_title">Nie dodano elementów</string>
   <string name="cw_wallpaper_manager">Zarządzaj tapetami</string>
   <string name="day">24 godz.</string>
   <string name="declaration">Tapety ekranu blokady będą zmieniane codziennie. Aplikacja wymaga połączenia z siecią.</string>
@@ -244,9 +244,9 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="dlg_cancel">Anuluj</string>
   <string name="double_click_to_exit_activity">Kliknij ponownie, aby wyjść</string>
   <string name="edit_wallpaper">Zarządzaj tapetami</string>
-  <string name="enable_toast_ar">Przełączono na Polecane</string>
-  <string name="enable_toast_cw">Przełączono na pokaz slajdów</string>
-  <string name="enable_toast_cwo">Włączono Tapety Blokady i uruchomiono pokaz slajdów</string>
+  <string name="enable_toast_ar">Pokazywanie rekomendowanych tapet</string>
+  <string name="enable_toast_cw">Pokazywanie własnego pokazu slajdów</string>
+  <string name="enable_toast_cwo">Włączone są Tapety Blokady i własny pokaz slajdów</string>
   <string name="enable_toast_subscribe">Włączono Tapety Blokady i aktywowano subskrypcje.</string>
   <string name="error_dup_binded_email">Ten adres e-mail jest już powiązany z kontem Xiaomi</string>
   <string name="error_invalid_bind_address">Wpisany adres e-mail jest nieprawidłowy</string>
@@ -549,7 +549,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="setting_head">Opcje</string>
   <string name="setting_ok">Ustawienia</string>
   <string name="setting_tip">Nie pokazuj ponownie</string>
-  <string name="setting_title">Pokaz slajdów</string>
+  <string name="setting_title">Pomyślnie dodano</string>
   <string name="settings">Opcje</string>
   <string name="share">Udostępnij</string>
   <string name="share_today_morning">Udostępnij</string>
@@ -574,7 +574,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="sns_bind_limit">Zbyt dużo prób. Wypróbuj inne opcje logowania.</string>
   <string name="sns_sign_in">Inne opcje logowania</string>
   <string name="sst_auto_recommand_desc">Obserwuj kategorie, by otrzymywać z nich nowe tapety</string>
-  <string name="sst_auto_recommand_title">Polecane</string>
+  <string name="sst_auto_recommand_title">Poleć tapety</string>
   <string name="sst_change_wallpaper_desc">Ustaw, gdzie zastosować tapety</string>
   <string name="sst_change_wallpaper_desk">Pulpicie</string>
   <string name="sst_change_wallpaper_lock">Ekranie blokady</string>
@@ -585,7 +585,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="sst_cover_chg_enable_title">W trakcie ładowania</string>
   <string name="sst_custom_wallpaper_desc">Wybierz zdjęcia z Galerii i z sieci</string>
   <string name="sst_custom_wallpaper_title">Własny pokaz slajdów</string>
-  <string name="sst_custom_wallpaper_title2">Pokaz slajdów</string>
+  <string name="sst_custom_wallpaper_title2">Wybierz swoje tapety</string>
   <string name="sst_disable_unopen">Beta</string>
   <string name="sst_effect_next_wallpaper">Ustaw nową tapetę, aby zastosować zmiany</string>
   <string name="sst_favor_desc">Zobacz ulubione tapety</string>
@@ -624,13 +624,13 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="sst_subscrible_manager_title_bar_text">Zarządzaj kategoriami</string>
   <string name="sst_subscripted">Obserwujesz</string>
   <string name="sst_subscripted2">Dostępne kategorie</string>
-  <string name="sst_switch_wallpaper_order_desc">Wybierz kolejność pokazywania tapet</string>
+  <string name="sst_switch_wallpaper_order_desc">Wybierz kolejność slajdów</string>
   <string name="sst_switch_wallpaper_order_fixed">Kolejno</string>
   <string name="sst_switch_wallpaper_order_random">Losowo</string>
   <string name="sst_switch_wallpaper_order_title">Kolejność tapet</string>
   <string name="sst_wallpaper_define_desc">Zarządzaj</string>
-  <string name="sst_wallpaper_define_title">Mój pokaz slajdów</string>
-  <string name="sst_wallpaper_define_title2">Dodaj obrazy</string>
+  <string name="sst_wallpaper_define_title">Własny pokaz slajdów</string>
+  <string name="sst_wallpaper_define_title2">Dodaj slajdy</string>
   <string name="sst_wallpaper_history_des">Zobacz ostatnie rekomendacje</string>
   <string name="sst_wallpaper_history_title">Historia</string>
   <string name="sst_wifi_only_desc">Wyłącz aby pobierać tylko z Wi-Fi</string>
@@ -795,7 +795,7 @@ dd.M"</string>
   <string name="close">Zamknij</string>
   <string name="goto_confirm">Ustawienia</string>
   <string name="require_permission">Wymagane uprawnienia</string>
-  <string name="require_permission_text">Aby móc zapisywać i wyświetlać elementy, zezwól Tapetom Blokady na dostęp do pamięci.</string>
+  <string name="require_permission_text">Ta aplikacja wymaga pozwolenia na dostęp do plików z urządzenia, aby móc dodawać Twoje tapety do Tapet Blokady i zapisywać na urządzeniu pobrane treści.</string>
   <string name="summary3">"Witaj w Tapetach Blokady! Dzięki tej aplikacji możesz subskrybować swoje ulubione kategorie tapet i regularnie otrzymywać nowe tapety na swoim Ekranie blokady. Aplikacja wymaga połączenia z Internetem i gromadzenia niezbędnych danych osobowych w celu poprawnego działania.&lt;br>Aby dostarczać dodatkowe usługi, aplikacja może poprosić o dostęp i zapis elementów do pamięci tego urządzenia.&lt;br>Aby w pełnie zrozumieć swoje prawa, a także metody, w ramach których Xiaomi przetwarza Twoje dane, przeczytaj i zaakceptuj warunki &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Umowy użytkownika&lt;/font>&lt;/a> oraz &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Polityki prywatności&lt;/font>&lt;/a> przed skorzystaniem z aplikacji."</string>
   <string name="summary4">"Witaj w Tapetach Blokady! Dzięki tej aplikacji możesz subskrybować swoje ulubione kategorie tapet i regularnie otrzymywać nowe tapety na swoim Ekranie blokady. "</string>
   <string name="summary5">"Aby dostarczać dodatkowe usługi, aplikacja może poprosić o dostęp i zapis elementów do pamięci tego urządzenia. "</string>
@@ -809,7 +809,7 @@ dd.M"</string>
   <string name="copy">Kopiuj</string>
   <string name="expand_button_title">Zaawansowane</string>
   <string name="external_storage_permission">Dostęp do pamięci</string>
-  <string name="external_storage_permission_summary">W celu wybierania własnych tapet i zapisywania pobranych elementów</string>
+  <string name="external_storage_permission_summary">Zezwól tej aplikacji na dostęp do plików z urządzenia, aby móc dodawać własne tapety do Tapet Blokady i zapisywać na urządzeniu pobrane treści.</string>
   <string name="logout">Wyloguj</string>
   <string name="logout_cancel">Anuluj</string>
   <string name="logout_confirm">OK</string>
@@ -890,7 +890,7 @@ dd.M"</string>
   <string name="lks_cta_ok">Zgadzam się</string>
   <string name="lks_cta_reject">"Nie zgadzam się"</string>
   <string name="lks_cta_summary1">Tapety Blokady dostarczają następujące funkcje:</string>
-  <string name="lks_cta_summary2">"1. Automatycznie aktualizowane tapety&lt;br>2. Nowe obrazy i historie dostarczane wprost na Ekran blokady&lt;br>3. Opcje personalizacji&lt;br>Aby móc działać normalnie, aplikacja wymaga łączenia się z Intenretem.&lt;br>&lt;br>Aby dostarczać dodatkowe usługi, aplikacja może poprosić o pozwolenie na dostęp do pamięci tego urządzenia oraz zapis elementów w niej. Przeczytaj i zaakceptuj warunki &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Umowy użytkownika&lt;/font>&lt;/a> oraz &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Polityki prywatności&lt;/font>&lt;/a>, zanim przejdziesz dalej."</string>
+  <string name="lks_cta_summary2">"1. Automatycznie aktualizowane tapety&lt;br>2. Nowe obrazy i historie dostarczane wprost na Ekran blokady&lt;br>3. Opcje personalizacji&lt;br>Aby móc działać normalnie, aplikacja wymaga łączenia się z Intenretem.&lt;br>&lt;br>Aby dostarczać dodatkowe usługi, aplikacja może poprosić o pozwolenie na dostęp do pamięci tego urządzenia oraz zapis elementów w niej. Przeczytaj i zaakceptuj warunki &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Umowy użytkownika&lt;/font>&lt;/a> oraz &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Polityki prywatności&lt;/font>&lt;/a>, zanim przejdziesz dalej."</string>
   <string name="lks_cta_title">Warunki użytkowania</string>
   <string name="lks_current_lks_wallpaper">Obecny Ekran blokady</string>
   <string name="lks_data_warning_toast_1">"Używasz danych mobilnych, aby przeglądać tapety.
@@ -940,4 +940,9 @@ Może to generować dodatkowe opłaty."</string>
   <string name="dlg_ok">Ustaw</string>
   <string name="passport_vcode_what_app_send_prompt">Twój kod weryfikacyjny WhatsAppa zostanie wysłany na Twój zapasowy numer telefonu (&lt;font color=#1F93FF>%s&lt;/font>).</string>
   <string name="miuix_appcompat_edit">Edytuj</string>
+  <string name="applied_and_added_to_custom_wallpaper">"Pomyślnie dodano do pokazu slajdów. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Zobacz&lt;/font>&lt;/a>"</string>
+  <string name="reach_custom_limitation">"Nie można dodać więcej tapet. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Zarządzaj nimi&lt;/font>&lt;/a>"</string>
+  <string name="select_at_least_one_mode">Wybierz tryb Tapet Blokady</string>
+  <string name="setting_des_custom_only">Pokaz slajdów można teraz dowolnie zmieniać. Możesz dostosować częstotliwość zmiany tapet w Ustawieniach > Ekran blokady > Codzienne tapety blokady.</string>
+  <string name="setting_des_recommend_selected">"Pokaz slajdów można teraz dowolnie zmieniać. Uzyskuj rekomendacje obrazów, które lubisz, i dodawaj własne. Możesz dostosować częstotliwość zmiany tapet w Ustawieniach > Ekran blokady > Codzienne tapety blokady."</string>
 </resources>

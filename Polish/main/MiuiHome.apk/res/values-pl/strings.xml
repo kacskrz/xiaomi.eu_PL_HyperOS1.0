@@ -1010,4 +1010,14 @@ Zwiększone bezpieczeństwo."</string>
   <string name="international_home_pull_up_sub_content">Przesuń w dół od środka pulpitu, aby otworzyć wyszukiwarkę.</string>
   <string name="not_support_adding">"Dodawanie tego elementu nie jest jeszcze wspierane"</string>
   <string name="switch_personal_assistant_summary">Przesuń w prawo na pulpicie, aby otworzyć Google Discover</string>
+  <string name="keyguard_multi_window_tip">Ta strona może być wyświetlana tylko w trybie pełnoekranowym</string>
+  <string name="miui_setting_config_title">Ustawienia pulpitu</string>
+  <string name="new_open_personal_assistant_settings_simplified">Asystent MIUI</string>
+  <string name="new_privacy_thumbnail_blur_summary">Zamaż podglądy w menu Ostatnich aplikacji</string>
+  <string name="new_recents_config_title">Inne</string>
+  <string name="no_space_toast_fold">Brak miejsca</string>
+  <string name="setting_close">Wyłączone</string>
+  <string name="setting_no_word">Wszędzie</string>
+  <string name="setting_only_widget_no_word">Pod widżetami</string>
+  <string name="start_new_window">Nowe okno</string>
 </resources>

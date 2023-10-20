@@ -72,4 +72,102 @@
     <string name="desktop_mode_guide_title">Stacja robocza</string>
     <string name="freeform_guide_multiple_window_summary_no_wps">"Przytrzymaj ikonę aplikacji w doku, aby otworzyć nowe okno.
 *Funkcja wspiera Notatki, Pocztę i Przeglądarkę."</string>
+    <string name="bubble_app_empty_page">"Nie znaleziono aplikacji wspierających dymki na tym urządzeniu"</string>
+    <string name="bubble_app_manage">Zarządzaj dymkami</string>
+    <string name="bubble_notification">Dymki</string>
+    <string name="bubble_notification_switch">Pokazuj dymki</string>
+    <string name="bubble_notification_switch_desc">Gdy komunikator jest ukryty przy krawędzi ekranu w formie pływającego okna, system pokaże jego powiadomienia w formie dymków</string>
+    <string name="desktop_btn_cancel">Anuluj</string>
+    <string name="desktop_btn_continue">Zacznij</string>
+    <string name="desktop_mode_guide_summary">Tryb Stacja robocza pozwala otworzyć kilka aplikacji w pływających oknach poprzez dotknięcie ich ikon w doku.</string>
+    <string name="desktop_mode_guide_title">Stacja robocza</string>
+    <string name="dock_location_left">Po lewej</string>
+    <string name="dock_location_right">Po prawej</string>
+    <string name="dock_location_title">Położenie doku</string>
+    <string name="fold_screen_settings">Funkcje dla składanych urządzeń</string>
+    <string name="freeform_guide_dialog_freeform_controller_summary">"Przeciągnij pływające okno jego górną krawędzią, aby je przenieść
+lub dotknij go, aby wyświetlić opcje"</string>
+    <string name="freeform_guide_dialog_freeform_resize_summary">Przeciągnij dolne rogi, aby zmienić rozmiar</string>
+    <string name="freeform_guide_dialog_freeform_title">Pływające okna</string>
+    <string name="freeform_guide_dialog_split_double_summary">"Przesuń w górę od połowy dolnej części
+ekranu, aby zamknąć obie aplikacje"</string>
+    <string name="freeform_guide_dialog_split_single_summary">"Przesuń w górę od połowy dolnej części
+aplikacji, aby ją zamknąć"</string>
+    <string name="freeform_guide_dialog_split_title">Dzielenie ekranu</string>
+    <string name="freeform_guide_dialog_start_button">Zacznij</string>
+    <string name="freeform_guide_dialog_step_button">Dalej</string>
+    <string name="freeform_guide_drag_fullscreen_title">Przeciągnij, aby włączyć tryb pełnoekranowy</string>
+    <string name="freeform_guide_drag_split_title">Przeciągnij, aby włączyć Dzielenie ekranu lub tryb pełnoekranowy</string>
+    <string name="freeform_guide_drag_summary">Przeciągaj okna w określone miejsca, aby zmieniać tryby ich wyświetlania</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_summary">Przytrzymaj, a następnie przeciągnij w dół pasek okna</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_title">Wyświetlanie pływających okein w trybie pełnoekranowym</string>
+    <string name="freeform_guide_move_and_close_summary">Przeciągnij okno jego górną krawędzią, aby je przenieść lub dotknij tutaj, aby je zamknąć</string>
+    <string name="freeform_guide_move_and_close_title">Przenoszenie i zamykanie pływających okien</string>
+    <string name="freeform_guide_move_summary">Przytrzymaj pasek akcji pływającego okna, aby je przeciągnąć</string>
+    <string name="freeform_guide_move_title">Przenoszenie pływających okien</string>
+    <string name="freeform_guide_move_to_small_freeform_window_summary">Przeciągnij pływające okno do krawędzi ekranu</string>
+    <string name="freeform_guide_move_to_small_freeform_window_title">Minimalizacja pływających okien</string>
+    <string name="freeform_guide_multiple_window_settings_summary">Możesz otworzyć nowe okna w wspieranych aplikacjach, dotykając paska akcji</string>
+    <string name="freeform_guide_notification_drop_down_summary">Przytzymaj, a następnie przeciągnij w dół pasek powiadomienia</string>
+    <string name="freeform_guide_notification_drop_down_title">Otwieranie pływających okien</string>
+    <string name="freeform_guide_replace_and_close_split_summary">Zamknij jedno lub oba okna w Dzieleniu ekranu</string>
+    <string name="freeform_guide_replace_and_close_split_title">Zamykanie okien w Dzieleniu ekranu</string>
+    <string name="freeform_guide_resize_pad_summary">Przeciągnij krawędź, aby włączyć pływające okno i zmienić jego rozmiar</string>
+    <string name="freeform_guide_resize_pad_title">Zmiana rozmiaru okien</string>
+    <string name="freeform_guide_resize_summary">Przeciągnij okna ich krawędziami, aby zmienić ich rozmiar</string>
+    <string name="freeform_guide_resize_title">Zmiana rozmiaru okien</string>
+    <string name="freeform_guide_settings">Pływające okna</string>
+    <string name="freeform_guide_slide_to_small_freeform_settings_summary">"Przytrzymaj dół okna i przeciągnij go to prawego górnego rogu.
+Funkcja działa tylko wtedy, gdy sposobem nawigacji po systemie są gesty."</string>
+    <string name="freeform_guide_slide_to_small_freeform_settings_summary_squarehot">"Przytrzymaj dół okna i przeciągnij go do górnej krawędzi ekranu.
+Funkcja działa tylko wtedy, gdy sposobem nawigacji po systemie są gesty."</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Przytrzymaj dół okna i przeciągnij go do górnej krawędzi ekranu.
+Funkcja działa tylko wtedy, gdy sposobem nawigacji po systemie są gesty."</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Minimalizacja aplikacji</string>
+    <string name="freeform_guide_slide_up_to_close_summary">Przesuń w górę od paska akcji pływającego okna</string>
+    <string name="freeform_guide_slide_up_to_close_title">Zamykanie pływających okien</string>
+    <string name="freeform_guide_split_screen_combination_fold">Kombinacja Dzielenia ekranu</string>
+    <string name="freeform_guide_split_screen_combination_settings_fold">Kombinacja Dzielenia ekranu</string>
+    <string name="freeform_guide_split_screen_combination_summary">Przytrzymaj podgląd Dzielenia ekranu w Ostatnich aplikacjach, aby utworzyć skrót kombinacji</string>
+    <string name="freeform_guide_split_screen_combination_summary_fold">Utwórz skróty do kombinacji Dzielenia ekranu za pomocą doku na wewnętrznym ekranie</string>
+    <string name="freeform_guide_split_screen_combination_summary_pad">Utwórz skróty do kombinacji Dzielenia ekranu za pomocą doku</string>
+    <string name="freeform_guide_split_screen_combination_title">Kombinacja Dzielenia ekranu</string>
+    <string name="freeform_guide_tip_controller">Dotknij, aby otworzyć nowe okno</string>
+    <string name="freeform_guide_tip_dock">Przeciągnij do środka, aby otworzyć w pływającym oknie</string>
+    <string name="freeform_guide_tip_dock_browser">Przytrzymaj, aby otworzyć nowe okno</string>
+    <string name="freeform_guide_tip_dock_email">Przytrzymaj, aby otworzyć nowe okno</string>
+    <string name="freeform_guide_tip_dock_note">Przytrzymaj, aby otworzyć nowe okno</string>
+    <string name="freeform_guide_tip_dock_wps">Przytrzymaj, aby otworzyć nowe okno</string>
+    <string name="freeform_guide_tip_down">Przytrzymaj pasek akcji, a potem przesuń go w górę, aby zamknąć</string>
+    <string name="freeform_guide_tip_notification">Przeciągnij w dół, aby otworzyć pływające okno</string>
+    <string name="freeform_guide_tip_pin">Przytrzymaj pasek akcji, a potem przeciągnij okno do krawędzi, aby je zminimalizować</string>
+    <string name="freeform_guide_tip_pin_up">Przeciągnij do wewnątrz, aby otworzyć pływające okno</string>
+    <string name="freeform_guide_tip_sidebar">"Przytrzymaj,
+a potem przeciągnij, aby przenieść"</string>
+    <string name="freeform_guide_tip_sidedock">Przesuń do zewnątrz, aby pokazać dok</string>
+    <string name="freeform_guide_tip_split">Przeciągnij do boku, aby włączyć Dzielenie ekranu</string>
+    <string name="freeform_guide_tip_window_top">Aby zminimalizować okno, przytrzymaj jego górę, a następnie ją przeciągnij do krawędzi ekranu</string>
+    <string name="freeform_guide_to_sidehide_settings_summary">Szybko przeciągnij aplikację do boku ekranu, aby ją ukryć</string>
+    <string name="freeform_guide_vedio_description">Dotknij aplikacji w pasku bocznym, aby otworzyć ją w pływającym oknie</string>
+    <string name="freeform_recommend_open_switch_summary">Otrzymuj sugestie dot. otwierania aplikacji w Podziale ekranu lub pływających oknach w oparciu o scenariusze użytkowania</string>
+    <string name="freeform_recommend_open_switch_title">Inteligentne sugestie</string>
+    <string name="freeform_vedio_description">"· Przytrzymaj, a następnie przeciągnij powiadomienie w dół, aby otworzyć je w pływającym oknie.
+Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji, aby wybrać aplikację."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Dotknij ikony aplikacji na Pasku bocznym, aby otworzyć ją w pływającym oknie.
+· Przeciągnij aplikację na środek ekranu, aby otworzyć ją w pływającym oknie bądź do rogu, aby skorzystać z Dzielonego ekranu."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Przeciągnij aplikację z paska bocznego do środka ekranu, aby otworzyć ją w pływającym oknie lub do krawędzi, aby użyć Dzielonego ekranu</string>
+    <string name="freeform_vedio_description_pad">Przeciągaj elementy poza dok, aby otwierać pływające okna</string>
+    <string name="gd_setting_title">Pasek boczny</string>
+    <string name="miui_bubbles_notification">Dymki</string>
+    <string name="miui_bubbles_notification_status_opened">Wł.</string>
+    <string name="miui_desktop_mode_settings">Stacja robocza</string>
+    <string name="miui_desktop_mode_settings_title">Stacja robocza</string>
+    <string name="miui_desktop_mode_video_description">Dotknij ikony aplikacji w doku, aby otworzyć je w pływających oknach. Możesz włączyć lub wyłączyć tryb Stacji roboczej w Centrum funkcji.</string>
+    <string name="miuix_appcompat_edit">Edytuj</string>
+    <string name="operation_guide_settings_title">Jak używać pływających okien</string>
+    <string name="operation_guide_title">Tutoriale</string>
+    <string name="other_advanced_settings">Dodatkowe ustawienia</string>
+    <string name="other_operations_title">Inne tutoriale</string>
+    <string name="split_operation_guide_title">Jak używać Dzielenia ekranu</string>
+    <string name="tablet_screen_settings">Funkcje dla tabletów</string>
 </resources>

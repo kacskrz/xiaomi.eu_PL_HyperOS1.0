@@ -508,4 +508,12 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="pause_status_focus_notification">Wstrzymano</string>
   <string name="recording_status_focus_notification">Nagrywanie</string>
   <string name="stop_status_focus_notification">Ukończono</string>
+  <string name="btn_continue_record_description">Wznów nagrywanie</string>
+  <string name="miuix_item_view_role_description">Karta</string>
+  <string name="miuix_navigator_content_switch_description">Pokaż pasek boczny</string>
+  <string name="miuix_navigator_multiple_choice">Wybierz</string>
+  <string name="miuix_navigator_navigator_switch_description">Ukryj pasek boczny</string>
+  <string name="toast_enter_silent_mode">Nagrywanie. Włączono Tryb cichy.</string>
+  <string name="toast_exit_silent_mode">Zakończono nagrywanie. Wyłączono Tryb cichy.</string>
+  <string name="trash_delete">Usuń</string>
 </resources>

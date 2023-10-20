@@ -420,7 +420,7 @@
   <string name="im">Komunikatory</string>
   <string name="immersion_button_close_description">Blisko</string>
   <string name="instruction">Ważne instrukcje bezpieczeństwa</string>
-  <string name="label">MIUI SDK</string>
+  <string name="label">Systemowy SDK</string>
   <string name="midnight">AM</string>
   <string name="monday">Poniedziałek</string>
   <string name="monday_short">Pon</string>
@@ -607,11 +607,11 @@
   <string name="com_miui_calculator">Kalkulator</string>
   <string name="com_miui_health">Zdrowie</string>
   <string name="system_restore">Przywróć elementy</string>
-  <string name="after_reset_need_restore_system_app">"Wygląda na to, że przywrócono urządzenie do ustawień fabrycznych. Połącz się z siecią i przywróć elementy systemu, aby móc normalnie używać MIUI."</string>
+  <string name="after_reset_need_restore_system_app">"Wygląda na to, że przywrócono urządzenie do ustawień fabrycznych. Połącz się z siecią i przywróć elementy systemu, aby móc normalnie używać urządzenia."</string>
   <string name="system_app_is_restore">Przywracanie elementów systemu…</string>
   <string name="system_app_restore_completed">Pomyślnie przywrócono</string>
   <string name="system_app_restore_completed_detail">Wszystkie elementy systemu zostały pomyślnie przywrócone</string>
-  <string name="click_to_restore">Przywróć elementy systemu, aby móc normalnie używać MIUI po resecie urządzenia do ustawień fabrycznych. Dotknij, aby rozpocząć.</string>
+  <string name="click_to_restore">Przywróć elementy systemu, aby móc normalnie używać urządzenia po resecie urządzenia do ustawień fabrycznych. Dotknij, aby rozpocząć.</string>
   <string name="system_app_restore_failed">Wystąpił błąd</string>
   <string name="system_app_restore_failed_detail">"Nie udało się przywrócić elementów systemu. Sprawdź swoje ustawienia sieci i nie uruchamiaj ponownie bądź nie wyłączaj urządzenia, dopóki te elementy nie zostaną w pełni przywrócone. Dotknij przycisku poniżej, aby spróbować ponownie."</string>
   <string name="do_not_restore_temporarily">Nie teraz</string>
@@ -630,4 +630,6 @@
   <string name="com_android_download_ui">Pobrane</string>
   <string name="com_miui_gallery">Galeria</string>
   <string name="com_xiaomi_calendar">Kalendarz</string>
+  <string name="app_disable_description_content">Wyłączenie tej aplikacji może sprawić, że niektóre funkcje systemu nie będą działać poprawnie.</string>
+  <string name="app_disable_description_title">Wyłączyć Systemowy SDK?</string>
 </resources>

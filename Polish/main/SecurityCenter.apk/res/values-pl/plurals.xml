@@ -1222,8 +1222,8 @@ Zrób sobie przerwę!"</item>
         <item quantity="one">Twoje członkostwo Game Turbo wygaśnie za %d dzień. Odnów je teraz, aby cieszyć się grą.</item>
     </plurals>
     <plurals name="app_behavior_record_close_content_text">
-        <item quantity="one">Dane dot. zachowań aplikacji są przechowywane na tym urządzeniu już przez %d dzień. Jeśli wyłączysz tę funkcję, nowe rekordy nie będą już się pojawiać, a stare zostaną usunięte. Wyłączyć?</item>
-        <item quantity="other">Dane dot. zachowań aplikacji są przechowywane na tym urządzeniu od %d dni. Jeśli wyłączysz tę funkcję, nowe rekordy nie będą już się pojawiać, a stare zostaną usunięte. Wyłączyć?</item>
+        <item quantity="one">Dane dot. zachowań aplikacji będą przechowywane na tym urządzeniu przez %d dzień. Wyłączenie tej funkcji sprawi, że wszystkie zgromadzone do tej chwili rekordy zostaną usunięte; nie zalecamy wyłączania tej opcji.</item>
+        <item quantity="other">Dane dot. zachowań aplikacji będą przechowywane na tym urządzeniu przez %d dni. Wyłączenie tej funkcji sprawi, że wszystkie zgromadzone do tej chwili rekordy zostaną usunięte; nie zalecamy wyłączania tej opcji.</item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Wykorzystano już %s dziennego zużycia danych.
@@ -1303,5 +1303,295 @@ Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkow
         <item quantity="other">Aktualizuj %d aplikacji</item>
         <item quantity="few">Aktualizuj %d aplikacje</item>
         <item quantity="one">Aktualizuj %d aplikację</item>
+    </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d elementów</item>
+        <item quantity="few">%d elementy</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="permission_usage_allow_activity_recognization">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała dane o Twoich ćwiczeniach %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała dane o Twoich ćwiczeniach %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_autostart">
+        <item quantity="other">%1$s | Aplikacja używała autostartu %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja używała autostartu %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_body_sensor">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała dostęp do czujników ciała %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała dostęp do czujników ciała %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_call_phone">
+        <item quantity="other">%1$s | Aplikacja wykonywała połączenia %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja wykonywała połączenie %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_camera">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała dostęp do aparatu %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała dostęp do aparatu %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_clipboard">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała dostęp do schowka %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała dostęp do schowka %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_delete_pic">
+        <item quantity="other">%1$s | Aplikacja usuwała zdjęcia z Galerii %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja usuwała zdjęcia z Galerii %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_device_sensor">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała dostęp do sensorów ruchu i orientacji %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała dostęp do sensorów ruchu i orientacji %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_files">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała dostęp do plików i dokumentów %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała dostęp do plików i dokumentów %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_installed">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała listę zainstalowanych aplikacji %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała listę zainstalowanych aplikacji %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_number">
+        <item quantity="other">"%1$s| Aplikacja uzyskiwała numer telefonu %2$d razy"</item>
+        <item quantity="one">"%1$s | Aplikacja uzyskiwała numer telefonu %2$d raz"</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_sms">
+        <item quantity="other">%1$s | Aplikacja czytała SMS-y %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja czytała SMS-y %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_location">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała lokalizację %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała lokalizację %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_aural">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała dostęp do muzyki i dźwięków %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała dostęp do muzyki i dźwięków %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_visual">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała dostęp do zdjęć i filmów %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała dostęp do zdjęć i filmów %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_volume">
+        <item quantity="other">%1$s | Aplikacja zmieniała głośność multimediów %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja zmieniała głośność multimediów %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_mic">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała dostęp do mikrofonu %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała dostęp do mikrofonu %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_nearby_device">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała listę urządzeń w pobliżu %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała listę urządzeń w pobliżu %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_perm">
+        <item quantity="other">%1$s | Uzyskiwała dostęp %2$d razy</item>
+        <item quantity="one">%1$s | Uzyskiwała dostęp %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_phone_state">
+        <item quantity="other">"%1$s| Aplikacja uzyskiwała stan połączenia %2$d razy"</item>
+        <item quantity="one">"%1$s| Aplikacja uzyskiwała stan połączenia %2$d raz"</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_calendar">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała dostęp do kalendarza %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała dostęp do kalendarza %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_calllog">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała historię połączeń %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała historię połączeń %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_contacts">
+        <item quantity="other">%1$s | Aplikacja uzyskiwała kontakty %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uzyskiwała kontakty %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_receive_sms">
+        <item quantity="other">%1$s | Aplikacja otrzymywała SMS-y %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja otrzymywała SMS-y %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_send_sms">
+        <item quantity="other">%1$s | Aplikacja wysyłała SMS-y %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja wysyłała SMS-y %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_calendar">
+        <item quantity="other">%1$s | Aplikacja edytowała kalendarz %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja edytowała kalendarz %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_calllog">
+        <item quantity="other">%1$s| Aplikacja edytowała historię połączeń %2$d razy</item>
+        <item quantity="one">%1$s| Aplikacja edytowała historię połączeń %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_contacts">
+        <item quantity="other">%1$s | Aplikacja edytowała kontakty %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja edytowała kontakty %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_wake_path">
+        <item quantity="other">%1$s | Aplikacja uruchamiała aplikację %2$s %3$d razy</item>
+        <item quantity="one">%1$s | Aplikacja uruchamiała aplikację %2$s %3$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_allow_wakepath">
+        <item quantity="other">%1$s | Zezwolono %2$d razy</item>
+        <item quantity="one">%1$s | Zezwolono %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_delete_pic_more">
+        <item quantity="other">%1$s | Usuwano zdjęcia z Galerii %2$d razy</item>
+        <item quantity="one">%1$s | Usuwano zdjęcia z Galerii %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_activity_recognization">
+        <item quantity="other">%1$s | Odmówiono dostępu do danych o Twoich ćwiczeniach %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do danych o Twoich ćwiczeniach %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_autostart">
+        <item quantity="other">%1$s | Odmówiono autostartu %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono autostartu %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_body_sensor">
+        <item quantity="other">%1$s | Odmówiono dostępu do czujników ciała %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do czujników ciała %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_call_phone">
+        <item quantity="other">%1$s | Odmówiono wykonywania połączeń %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono wykonywania połączeń %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_camera">
+        <item quantity="other">%1$s | Odmówiono dostępu do aparatu %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do aparatu %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_clipboard">
+        <item quantity="other">%1$s | Odmówiono dostępu do schowka %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do schowka %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_delete_pic">
+        <item quantity="other">%1$s | Odmówiono usunięcia zdjęć z Galerii %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono usunięcia zdjęć z Galerii %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_device_sensor">
+        <item quantity="other">%1$s | Odmówiono dostępu do sensorów ruchu i orientacji %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do sensorów ruchu i orientacji %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_files">
+        <item quantity="other">%1$s | Odmówiono dostępu do plików i dokumentów %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do plików i dokumentów %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_installed">
+        <item quantity="other">%1$s | Odmówiono dostępu do listy zainstalowanych aplikacji %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do listy zainstalowanych aplikacji %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_number">
+        <item quantity="other">"%1$s | Odmówiono dostępu do numeru telefonu %2$d razy"</item>
+        <item quantity="one">"%1$s | Odmówiono dostępu do numeru telefonu %2$d raz"</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_sms">
+        <item quantity="other">%1$s | This app was denied from reading SMS %2$d razy</item>
+        <item quantity="one">%1$s | This app was denied from reading SMS %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_location">
+        <item quantity="other">%1$s | Odmówiono dostępu do lokalizacji %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do lokalizacji %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_aural">
+        <item quantity="other">%1$s | Odmówiono dostępu do muzyki i dźwięków %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do muzyki i dźwięków %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_visual">
+        <item quantity="other">%1$s | Odmówiono dostępu do zdjęć i filmów %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do zdjęć i filmów %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_volume">
+        <item quantity="other">%1$s | Odmówiono zmiany głośności multimediów %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono zmiany głośności multimediów %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_mic">
+        <item quantity="other">%1$s | Odmówiono dostępu do mikrofonu %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do mikrofonu %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_nearby_device">
+        <item quantity="other">%1$s | Odmówiono dostępu do listy urządzeń w pobliżu %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do listy urządzeń w pobliżu %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_perm">
+        <item quantity="other">%1$s | Odmówiono dostępu %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_phone_state">
+        <item quantity="other">"%1$s | Odmówiono dostępu do stanu połączenia %2$d razy"</item>
+        <item quantity="one">"%1$s | Odmówiono dostępu do stanu połączenia %2$d raz"</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_calendar">
+        <item quantity="other">%1$s | Odmówiono dostępu do kalendarza %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do kalendarza %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_calllog">
+        <item quantity="other">%1$s | Odmówiono dostępu do historii połączeń %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do historii połączeń %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_contacts">
+        <item quantity="other">%1$s | Odmówiono dostępu do kontaktów %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono dostępu do kontaktów %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_receive_sms">
+        <item quantity="other">%1$s | Odmówiono otrzymywania SMS-ów %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono otrzymywania SMS-ów %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_send_sms">
+        <item quantity="other">%1$s | Odmówiono wysyłania SMS-ów %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono wysyłania SMS-ów %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_calendar">
+        <item quantity="other">%1$s | Odmówiono edycji kalendarza %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono edycji kalendarza %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_calllog">
+        <item quantity="other">%1$s | Odmówiono edycji historii połączeń %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono edycji historii połączeń %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_contacts">
+        <item quantity="other">%1$s | Odmówiono edycji kontaktów %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono edycji kontaktów %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_wake_path">
+        <item quantity="other">%1$s | Odmówiono uruchomienia %2$s %3$d razy</item>
+        <item quantity="one">%1$s | Odmówiono uruchomienia %2$s %3$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_wakepath">
+        <item quantity="other">%1$s | Odmówiono %2$d razy</item>
+        <item quantity="one">%1$s | Odmówiono %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_recent_day">
+        <item quantity="other">%1$d dni temu</item>
+        <item quantity="one">%1$d dzień temu</item>
+    </plurals>
+    <plurals name="permission_usage_terminal_camera">
+        <item quantity="other">"%1$s | Aplikacja używała aparatu %2$d razy"</item>
+        <item quantity="one">"%1$s | Aplikacja używała aparatu %2$d raz"</item>
+    </plurals>
+    <plurals name="permission_usage_terminal_screen">
+        <item quantity="other">"%1$s | Aplikacja używała ekranu %2$d razy"</item>
+        <item quantity="one">"%1$s | Aplikacja używała ekranu %2$d raz"</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_calllog_more">
+        <item quantity="other">%1$s | Aplikacja zwracała puste połączenie %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja zwracała puste połączenie %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_common_more">
+        <item quantity="other">%1$s | Aplikacja zwracała pustą wiadomość %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja zwracała pustą wiadomość %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_contacts_more">
+        <item quantity="other">%1$s | Aplikacja zwracała pusty kontakt %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja zwracała pusty kontakt %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_phone_state_more">
+        <item quantity="other">%1$s | Aplikacja zwracała pusty stan połączenia %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja zwracała pusty stan połączenia %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_sms_more">
+        <item quantity="other">%1$s | Aplikacja zwracała pusty SMS %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja zwracała pusty SMS %2$d raz</item>
+    </plurals>
+    <plurals name="ppermission_usage_virtual_calendar_more">
+        <item quantity="other">%1$s | Aplikacja zwracała puste wydarzenie z kalendarza %2$d razy</item>
+        <item quantity="one">%1$s | Aplikacja zwracała puste wydarzenie z kalendarza %2$d raz</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s aplikacji</item>
+        <item quantity="few">%s aplikacje</item>
+        <item quantity="one">%s aplikacja</item>
     </plurals>
 </resources>

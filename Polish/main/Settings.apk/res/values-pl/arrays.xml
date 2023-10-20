@@ -2005,4 +2005,25 @@
         <item>Przesuń w prawo</item>
         <item>Przesuń do góry</item>
     </string-array>
+    <string-array name="battery_indicator_style_summaries">
+        <item>Graficzny</item>
+        <item>Procentowy (w ikonie)</item>
+        <item>Procentowy (obok ikony)</item>
+        <item>Pasek postępu</item>
+    </string-array>
+    <string-array name="notch_battery_indicator_style_summaries">
+        <item>Graficzny</item>
+        <item>Procentowy (w ikonie)</item>
+        <item>Procentowy (obok ikony)</item>
+    </string-array>
+    <!-- DO NOT CHANGE FIRST ENTRY!!! -->
+    <string-array name="smart_device_control_entries">
+        <item>@string/mi_smart_hub_entry_title</item>
+        <item>Smart home</item>
+        <item>Brak</item>
+    </string-array>
+    <string-array name="smart_home_entries">
+        <item>Smart home</item>
+        <item>Brak</item>
+    </string-array>
 </resources>

@@ -20,4 +20,13 @@
         <item>"Nie możesz zablokować telefonu?"</item>
         <item>Kompatybilność</item>
     </string-array>
+    <string-array name="desktop_positions">
+        <item>Po lewej</item>
+        <item>Po prawej</item>
+    </string-array>
+    <string-array name="settings_search_mirror_desktop">
+        <item>Pulpit+</item>
+        <item>Łączność między urządzeniami/Pulpit+</item>
+        <item>Pulpit+, Pu;pit, ekran główny, Mi Smart Hub, Screen Combo, łączność między urządzeniami</item>
+    </string-array>
 </resources>

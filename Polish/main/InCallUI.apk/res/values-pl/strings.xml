@@ -460,4 +460,31 @@ Dotknij opcji \"%1$s\", a następnie wybierz \"%2$s\"."</string>
     <string name="screen_share_message">Zezwolić innej osobie na wyświetlanie Twojego ekranu w czasie rzeczywistym?</string>
     <string name="screen_share_refuse">Anuluj</string>
     <string name="high_temperature_toast">"Twoje urządzenie jest przegrzane. Nie można skorzystać z tej funkcji."</string>
+    <string name="align_satellite_model_exit">Wyjdź</string>
+    <string name="align_satellite_model_use">Zacznij</string>
+    <string name="antispam_notification_text">Dotknij, aby włączyć inteligetne funkcje trybu Nie przeszkadzać</string>
+    <string name="focus_notification_on_call">Dzwonienie…</string>
+    <string name="relay_call_unable_to_work">"Nie można użyć tej funkcji w przekazywanych połączeniach"</string>
+    <string name="relay_device_local">To urządzenie</string>
+    <string name="relay_device_type_pc">Komputer</string>
+    <string name="relay_stop_recorder">Zatrzymano nagrywanie</string>
+    <string name="satellite_call_failed">Sygnał przerwany. Spróbuj ponownie.</string>
+    <string name="satellite_dialog_button">Pływające okno</string>
+    <string name="satellite_dialog_cancel">Anuluj</string>
+    <string name="satellite_guide_down">"Pochyl urządzenie w dół,
+aby umieścić piłkę w niebieskim polu"</string>
+    <string name="satellite_guide_found">Znaleziono satelitę</string>
+    <string name="satellite_guide_left">"Pochyl urządzenie w lewo,
+aby umieścić ikonę satelity w niebieskim polu"</string>
+    <string name="satellite_guide_right">"Pochyl urządzenie w prawo,
+aby umieścić ikonę satelity w niebieskim polu"</string>
+    <string name="satellite_guide_searching">Szukanie satelity…</string>
+    <string name="satellite_guide_searching_floating">Szukanie…</string>
+    <string name="satellite_guide_up">"Podnieś urządzenie do góry,
+aby umieścić piłkę w niebieskim polu"</string>
+    <string name="satellite_incall_tip">Włączono głośnik</string>
+    <string name="satellite_service_provider">Dostarczane przez China Telecom</string>
+    <string name="satellite_state">"Nie ruszaj urządzeniem"</string>
+    <string name="satellite_state_connected">"Połączono z satelitą. Nie ruszaj urządzeniem."</string>
+    <string name="satellite_state_connected_floating">"Nie ruszaj urządzeniem"</string>
 </resources>

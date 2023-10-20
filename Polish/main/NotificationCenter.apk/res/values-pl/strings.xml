@@ -166,14 +166,14 @@ Zgłoś ten problem >"</string>
     <string name="rule_keyguard_display">Format</string>
     <string name="summary_aggregate_default">Powiadomienia dot. reklam i te związane z treściami zostaną zgrupowane</string>
     <string name="summary_aggregate_home">"Push notifications won't be grouped"</string>
-    <string name="summary_fold_importance_default">MIUI zdecyduje, które powiadomienia powinny się pojawiać, a które nie</string>
+    <string name="summary_fold_importance_default">System zdecyduje, które powiadomienia powinny się pojawiać, a które nie</string>
     <string name="summary_fold_importance_important">Powiadomienie pojawi się w Panelu powiadomień</string>
     <string name="summary_fold_importance_unimportant">Powiadomienie pojawi się w oddzielnym katalogu</string>
     <string name="title_aggregate_default">Grupuj powiadomienia</string>
     <string name="title_aggregate_home">"Nie grupuj powiadomień"</string>
     <string name="show_weather">Wyświetlaj informacje o pogodzie</string>
-    <string name="notification_fold_description1">Katalog powiadomień został wprowadzony w MIUI 9. Ta funkcja filtruje nieistotne powiadomienia i umieszcza je w oddzielnym folderze.</string>
-    <string name="notification_fold_description2">MIUI zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
+    <string name="notification_fold_description1">Folder powiadomień umożliwia filtrowanie nieistotnych powiadomień i umieszczenie ich w osobnym folderze.</string>
+    <string name="notification_fold_description2">System zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
     <string name="notification_fold_description3">"Jeśli powiadomienia, które uważasz za ważne, nadal trafiają do katalogu powiadomień, upewnij się, że zgłosiłeś nam takie problemy. Będziemy wdzięczni za Twoją opinię."</string>
     <string name="notification_fold_footer_icon_summary">Pokazuj ikony z zgrupowanych nieistotnych powiadomień</string>
     <string name="notification_fold_footer_icon_title">Pokazuj ikony aplikacji</string>
@@ -206,4 +206,7 @@ Zgłoś ten problem >"</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
     <string name="disable_description_content">"Powiadomienia to aplikacja systemowa. Jeśli ją wyłączysz, nie będzie można zarządzać powiadomieniami aplikacji. Wyłączyć mimo to?"</string>
     <string name="disable_description_title">Wyłączyć aplikację systemową?</string>
+    <string name="float_notification_snooze_summary_1_min">Przesuń pływające powiadomienie w górę, aby ukryć kolejne powiadomienia na %d</string>
+    <string name="float_notification_snooze_summary_always_float">Zawsze pokazuj pływające powiadomienia</string>
+    <string name="float_notification_snooze_summary_until_unlock">Przesuń pływające powiadomienie w górę, aby ukryć kolejne powiadomienia, dopóki urządzenie nie zostanie zablokowane</string>
 </resources>

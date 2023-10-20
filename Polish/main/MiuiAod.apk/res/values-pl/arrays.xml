@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kg_glass_filters">
+        <item>Oryginalny</item>
+        <item>Zamglony</item>
+        <item>Karbowany</item>
+        <item>Prążkowany</item>
+        <item>Pryzmat</item>
+        <item>Wyżłobienia</item>
+        <item>Fale</item>
+        <item>Kwadraty</item>
+    </string-array>
+</resources>

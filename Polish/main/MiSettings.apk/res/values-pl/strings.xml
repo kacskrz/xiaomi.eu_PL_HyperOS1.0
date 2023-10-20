@@ -949,4 +949,7 @@ został wykorzystany"</string>
     <string name="max_fps_string">Do %s Hz</string>
     <string name="summary_max_fps_for_intelligent">Dynamicznie dostosowuj częstotliwość odświeżania do maks. %s Hz w oparciu o scenariusze, aby bilansować wydajność i zużycie energii</string>
     <string name="anti_flicker_mode_summary_new">Używaj Ograniczenia migotania w słabym świetle, aby oczy były mniej zmęczone</string>
+    <string name="app_use">Czas w aplikacji</string>
+    <string name="mi_transfer_banner_summary">Dotknij, aby otworzyć Przenoszenie danych</string>
+    <string name="mi_transfer_banner_title">Przenieś elementy ze starego urządzenia</string>
 </resources>

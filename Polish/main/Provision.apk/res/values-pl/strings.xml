@@ -253,7 +253,7 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="zone_picker_title">Strefa czasowa</string>
   <string name="service_policy_download"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności Xunlei&lt;/a > oraz &lt;a href=%1$s>Umowy użytkownika Xunlei Network Services&lt;/a >.</Data></string>
   <string name="service_name_fast_pairing">Mi Link</string>
-  <string name="fast_pairing_introduction">Funkcja Mi Link pozwala na połączenie z urządzeniami Bluetooth znajdującymi się w pobliżu za pomocą usługi MIUI Bluetooth.</string>
+  <string name="fast_pairing_introduction">Funkcja Mi Link pozwala na szybkie łączenie się z urządzeniami Bluetooth.</string>
   <string name="disagreement_abnormal_running_fast_pairing">"Jeśli nie zgodzisz się na nadanie tych uprawnień, nie będzie można korzystać z tej aplikacji. W każdym momencie możesz ograniczyć jej uprawnienia bądź wyłączyć tą funkcję w Ustawieniach."</string>
   <string name="backup_introduction">Możesz użyć tej aplikacji w celu wykonania i przywracania kopii zapasowych. </string>
   <string name="permission_backup">Dostęp do pamięci</string>
@@ -300,27 +300,27 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="privacy_provision_summary">Ochrona prywatności przyświeca każdemu produktowi Xiaomi</string>
   <string name="privacy_provision_text">Xiaomi zobowiązuje się szanować i chronić Twoją prywatność. Stawiając na badania i rozwój w dziedzinie bezpieczeństwa informacji, firma nieustannie pracuje nad ulepszaniem metod, praktyk i rozwiązań technicznych, które chronią Twoje dane. Dzieli się również swoimi najnowszymi osiągnięciami z jej partnerami, aby zapewnić prywatność wszędzie tam, gdzie się znajdujesz.</string>
   <string name="privacy_provision_title">Prywatność</string>
-  <string name="permission_MIUIDaemon_introduction">Demon MIUI umożliwia przesłanie danych z urządzenia wtedy, gdy jego ekran jest uszkodzony.</string>
+  <string name="permission_MIUIDaemon_introduction">Systemowy daemon umożliwia przesłanie danych z urządzenia wtedy, gdy jego ekran jest uszkodzony.</string>
   <string name="permission_read_contacts">Dostęp do kontaktów</string>
   <string name="permission_read_contacts_introduction">W celu weryfikacji tożsamości</string>
   <string name="permission_read_message">Dostęp do SMS-ów</string>
   <string name="permission_read_message_introduction">W celu weryfikacji własności urządzenia</string>
-  <string name="service_name_MIUIDaemon">Demon MIUI</string>
+  <string name="service_name_MIUIDaemon">Systemowy daemon</string>
   <string name="item_contents_wwarning">"Jeśli zgubisz urządzenie, nie zapobiegniesz używaniu go przez inne osoby i uzyskiwaniu dostępu do Twoich danych, dopóki nie ustawisz blokady ekranu. Pominąć mimo to?"</string>
   <string name="item_return">Ustaw</string>
   <string name="item_skip">Pomiń</string>
   <string name="title_set_fingerprint">Blokada ekranu</string>
   <string name="close">Zamknij</string>
   <string name="send">Wyślij</string>
-  <string name="other_settings_upload_debug_log_detail">"Pomóż poprawić wrażenia z korzystania z MIUI poprzez automatyczne wysyłanie do Xiaomi informacji diagnostycznych oraz danych dot. urządzenia i korzystania z aplikacji. Pomoże to poprawić żywotność baterii, stabilność MIUI i aplikacji itp.
-Wysłane dane będą zawierać ogólne informacje o urządzeniu i korzystaniu z niego (np. poziom naładowania baterii, aktywność systemu i aplikacji, błędy). Dane zostaną wykorzystane do poprawiania urządzeń bazujących na nakładce MIUI.
+  <string name="other_settings_upload_debug_log_detail">"Pomóż poprawić wrażenia z korzystania z systemu poprzez automatyczne wysyłanie do Xiaomi informacji diagnostycznych oraz danych dot. urządzenia i korzystania z aplikacji. Pomoże to poprawić żywotność baterii, stabilność MIUI i aplikacji itp.
+Wysłane dane będą zawierać ogólne informacje o urządzeniu i korzystaniu z niego (np. poziom naładowania baterii, aktywność systemu i aplikacji, błędy). Dane zostaną wykorzystane do poprawiania urządzeń Xiaomi.
 Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania informacji niezbędnych do działania podstawowych usług.
 Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawieniach."</string>
   <string name="disagreement_terminate_miuidaemon">"Xiaomi będzie używać uprawnień wyłącznie wtedy, gdy rozpoczniesz przesyłanie danych z urządzenia w momencie, gdy jego ekran jest uszkodzony. Jeśli nie wyrazisz zgody na przyznanie tych uprawnień, nie będzie można używać tej aplikacji."</string>
   <string name="require_miuidaemon_authority_statement">Aby pozwolić Xiaomi na dostarczanie tej usługi i gromadzenie Twoich danych, musisz nadać jej następujące uprawnienia:</string>
   <string name="terms_of_use_lable_apps_wifi_device">Usługi Xiaomi, Chmura Xiaomi, funkcja Znajdź urządzenie, Systemowy launcher, MIUI Daemon, MIUI SDK, Asystent MIUI, statystyki, Mi Link</string>
   <string name="user_agreement_declare_wifi_device">Przed skorzystaniem z MIUI musisz przeczytać i zaakceptować warunki Umowy użytkownika i Polityki prywatności Xiaomi. Gdy urządzenie jest aktywowane, usługi takie jak Chmura Xiaomi, usługa Kopii zapasowej, funkcja Znajdź urządzenie, Systemowy launcher, Częste zwroty, MIUI Daemon, przeglądarka HTML, MIUI SDK, Bateria i wydajność i Aktualizacje połączą się z siecią.</string>
-  <string name="carrier_introduction_china">"W celu dostarczania Ci lepszych usług procesy uruchomione na tym urządzeniu (takie jak SystemHelper, RegService i Usługi operatora) mogą okresowo przesyłać informacje związane z Twoim urządzeniem i kartą SIM (takie jak nr IMEI, IMSI, MSISDN, MEID, ICCID, adres MAC, wersja MIUI, wersja Androida, model urządzenia i podstawowa specyfikacja sprzętu), a także informacje o przybliżonej lokalizacji (włącznie z regionem, koordynatami, identyfikatorem obszaru oraz stacji bazowej) do operatora poprzez sieć Wi-Fi, dane mobilne bądź darmowe SMS-y. Operator będzie analizować te informacje tylko w celu poprawy jakości usług lub dostarczania dostosowanych usług lub technologii i nie będzie przekazywać tych danych firmom trzecim w jakiejkolwiek formie pozwalającej na zidentyfikowanie Cię. Szczegóły znajdziesz w oświadczeniu swojego operatora. Skontaktuj się z operatorem, aby dowiedzieć się więcej dot. kosztów używania tej usługi."</string>
+  <string name="carrier_introduction_china">"W celu dostarczania Ci lepszych usług procesy uruchomione na tym urządzeniu (takie jak SystemHelper, RegService i Usługi operatora) mogą okresowo przesyłać informacje związane z Twoim urządzeniem i kartą SIM (takie jak nr IMEI, IMSI, MSISDN, MEID, ICCID, adres MAC, wersja systemu, wersja Androida, model urządzenia i podstawowa specyfikacja sprzętu), a także informacje o przybliżonej lokalizacji (włącznie z regionem, koordynatami, identyfikatorem obszaru oraz stacji bazowej) do operatora poprzez sieć Wi-Fi, dane mobilne bądź darmowe SMS-y. Operator będzie analizować te informacje tylko w celu poprawy jakości usług lub dostarczania dostosowanych usług lub technologii i nie będzie przekazywać tych danych firmom trzecim w jakiejkolwiek formie pozwalającej na zidentyfikowanie Cię. Szczegóły znajdziesz w oświadczeniu swojego operatora. Skontaktuj się z operatorem, aby dowiedzieć się więcej dot. kosztów używania tej usługi."</string>
   <string name="user_agreement_declare_gmscore">Zanim skorzystasz z MIUI, przeczytaj i zaakceptuj warunki Umowy użytkownika i Polityki prywatności Xiaomi. W trakcie aktywacji urządzenia usługa aktywacji karty SIM, Chmura Xiaomi, Usługa kopii zapasowej, funkcja Znajdź urządzenie, Pulpit, Częste zwroty, MIUI Daemon, Przeglądarka HTML, MIUI SDK, aplikacja Secure Element, Bateria i wydajność, Detektor zasilania oraz aplikacja Aktualizacje będą łączyć się z siecią. Menedżer uprawnień oraz inteligentne usługi połączą się z siecią i uzyskają dostęp do Twojej lokalizacji.</string>
   <string name="user_agreement_declare_wifi_device_gmscore">Zanim skorzystasz z MIUI, przeczytaj i zaakceptuj warunki Umowy użytkownika i Polityki prywatności Xiaomi. W trakcie aktywacji urządzenia Chmura Xiaomi, Usługa kopii zapasowej, funkcja Znajdź urządzenie, Pulpit, Częste zwroty, MIUI Daemon, Przeglądarka HTML, MIUI SDK, aplikacja Secure Element, Bateria i wydajność, Detektor zasilania oraz aplikacja Aktualizacje będą łączyć się z siecią. Menedżer uprawnień oraz inteligentne usługi połączą się z siecią i uzyskają dostęp do Twojej lokalizacji.</string>
   <string name="access_non_personal_data">Jeśli wycofasz zgodę na dostęp i używanie nieosobistych danych na tym urządzeniu, usługi Tapet Blokady zostaną zdezaktywowane, a wszystkie zgromadzone dane zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami.</string>
@@ -351,8 +351,8 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
   <string name="terms_of_use_label_simcard">usługi aktywacji karty SIM Xiaomi</string>
   <string name="terms_of_use_label_statistics">Statystyki</string>
   <string name="terms_of_use_label_translation">Usługa tłumaczenia</string>
-  <string name="terms_of_use_label_use_location_and_network_global">"Przed skorzystaniem z MIUI przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią i uzyskają Twoją lokalizację:"</string>
-  <string name="terms_of_use_label_use_network_china">"Przed skorzystaniem z MIUI przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią:"</string>
+  <string name="terms_of_use_label_use_location_and_network_global">"Przed skorzystaniem z systemu przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią i uzyskają Twoją lokalizację:"</string>
+  <string name="terms_of_use_label_use_network_china">"Przed skorzystaniem z systemu przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią:"</string>
   <string name="terms_of_use_label_wallpaper">Tapety</string>
   <string name="terms_of_use_lable_xmsf">framework usługi Xiaomi</string>
   <string name="withdraw_consent">Jeśli wycofasz zgodę, usługi Tapet Blokady zostaną zdezaktywowane.</string>
@@ -432,7 +432,7 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="service_name_systemdesktop">Wtyczka usługi pulpitu</string>
     <string name="service_policy_adjust_content">Polityka prywatności Xunlei</string>
     <string name="service_sim_activation">Aktywacja karty SIM</string>
-    <string name="sim_activation_introduction">Usługa aktywacji kart SIM weryfikuje informacje o włożonej karcie SIM, aby upewnić się, że usługi MIUI mogą działać normalnie. Zaliczane są do nich m.in. usługa Znajdź urządzenie, Wiadomości Mi, tworzenie kont Xiaomi za pomocą numerów telefonów, a także synchronizacja wiadomości i historii połączeń.</string>
+    <string name="sim_activation_introduction">Usługa aktywacji kart SIM weryfikuje informacje o włożonej karcie SIM, aby upewnić się, że usługi systemowe mogą działać normalnie. Zaliczane są do nich m.in. usługa Znajdź urządzenie, Wiadomości Mi, tworzenie kont Xiaomi za pomocą numerów telefonów, a także synchronizacja wiadomości i historii połączeń.</string>
     <string name="systemdesktop_introduction">Wtyczka usługi pulpitu dostarcza podstawowe funkcje, takie jak pulpit, interfejs systemu czy zrzuty ekranu.</string>
     <string name="miuix_access_state_desc">Wybrano</string>
     <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
@@ -455,14 +455,14 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="enable_or_disable_bluetooth">Włączanie i wyłączanie Bluetooth</string>
     <string name="miui_provision">Pierwsza konfiguracja</string>
     <string name="permission_enable_disable_bluetooth_summary">W celu odnajdywania urządzeń w pobliżu po to, aby połączyć się z nimi i przesyłać dane</string>
-    <string name="other_settings_quality_service">Uprawnienia MIUI Daemon</string>
-    <string name="other_settings_quality_service_summary">MIUI Daemon jest wykorzystywany do poprawy stabilności i wydajności systemu. Aby móc działać normalnie, usługa wymaga uprawnień dostępu do pamięci urządzenia oraz zapisu elementów w niej.</string>
+    <string name="other_settings_quality_service">Uprawnienia systemowego daemona</string>
+    <string name="other_settings_quality_service_summary">Systemowy daemon jest wykorzystywany do poprawy stabilności i wydajności systemu. Aby móc działać normalnie, usługa wymaga uprawnień dostępu do pamięci urządzenia oraz zapisu elementów w niej.</string>
     <string name="user_agreement_declare_v1">Przed skorzystaniem z MIUI musisz przeczytać i zaakceptować warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. Xiaomi będzie chronić Twoje dane osobowe zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. W trakcie aktywacji następujące aplikacje i usługi połączą się z siecią: usługa aktywacji karty SIM Xiaomi, Chmura Xiaomi, Kopia w Chmurze, Znajdź urządzenie, Pulpit, Częste zwroty, MIUI Daemon, Przeglądarka HTML, MIUI SDK, Secure Element, Bateria i wydajność, Detektor mocy, Joyose, Aktualizacje. Następujące aplikacje i usługi połączą się z siecią i uzyskają dostęp do Twojej lokalizacji: Menedżer uprawnień, inteligentne karty i usługi.</string>
     <string name="item_facerecognition">Odblokowanie twarzą</string>
     <string name="activate_esim_tips">"Nie udało się aktywować. Spróbuj ponownie."</string>
     <string name="preinstall_tips">Przygotowywanie…</string>
     <string name="activating_esim_tips">Aktywacja…</string>
-    <string name="other_settings_auto_update_summary_v1">Pozwól MIUI wybrać najlepszy moment na pobranie i instalację aktualizacji. Aby zastosować zmiany, urządzenie zostanie automatycznie uruchomione ponownie.</string>
+    <string name="other_settings_auto_update_summary_v1">Pozwól systemowi wybrać najlepszy moment na pobranie i instalację aktualizacji. Aby zastosować zmiany, urządzenie zostanie automatycznie uruchomione ponownie.</string>
     <string name="is_prepare_install_go">Przygotowywanie…</string>
     <string name="location_introduction_qcom">Usługi lokalizacji wykorzystują pozycjonowanie do dostarczania usług specyficznych dla danej lokalizacji. Gdy są one wykorzystywane przez Twoje urządzenie, moduł QCC połączy się z siecią, aby przyspieszyć proces pozycjonowania.</string>
     <string name="create_shortcut">Skrót na pulpicie</string>
@@ -471,7 +471,7 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="sim_card_detection_sb_esim">Aktywuj eSIM</string>
     <string name="sim_card_detection_sb_nonactivated">Nie aktywowano</string>
     <string name="multisim_settings_sb_title">Wykryto %d kartę SIM</string>
-    <string name="check_box_label"><Data>""Włączając tę funkcję, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności Usług łączności Xiaomi&lt;/a >."</Data></string>
+    <string name="check_box_label"><Data>""Włączając tę funkcję, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności Mi Smart Hub&lt;/a >."</Data></string>
     <string name="interconnection_service_summary">"Usługi łączności Xiaomi umożliwiają bezprzewodową interakcję Twoich urządzeń z innymi. Obejmują one Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share i przesyłanie ekranu.
 Aby mogły one działać normalnie, muszą się łączyć z Internetem i wymagają następujących uprawnień:
 \u0009\u0009Mi Smart Hub:
@@ -517,4 +517,99 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
     <string name="other_settings_alarm_assistance_privacy">Polityka prywatności</string>
     <string name="other_settings_alarm_assistance_summary">"Możesz automatycznie wysłać informacje o swojej lokalizacji policji za pomocą SMS-a lub danych mobilnych, gdy dzwonisz pod numer 110, 120, 119 lub 122. Przed skorzystaniem z tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>."</string>
     <string name="other_settings_alarm_assistance_user">Umowa użytkownika</string>
+    <string name="default_font">Domyślna</string>
+    <string name="font_settings_sub_title">Wybierz systemową czcionkę</string>
+    <string name="font_settings_title">Ustawienia czcionki</string>
+    <string name="font_use_case_text_example">Treść</string>
+    <string name="font_use_case_title_example">Tytuł</string>
+    <string name="framework_introduction">Framework usług Xiaomi umożliwia Ci używanie konta Xiaomi.</string>
+    <string name="framwork_base_service">Aby dostarczać Ci tę usługę, framework usług Xiaomi musi połączyć się z Internetem, uzyskać Twoją lokalizację, numer telefonu, IMEI i IMSI oraz zezwolić urządzeniu na otrzymywanie powiadomień push.</string>
+   <string name="interconnection_service_summary_china">"Usługi łączności między urządzeniami Xiaomi pozwalają na bezprzewodową interakcję urządzeń. Możesz ich użyć do kontrolowania urządzeń, przesyłania postępu odtwarzania dźwięków i filmów, łączenia funkcji urządzeń lub rozpoczynania zadań na jednym urządzeniu i kontynuowania ich w tej samej aplikacji na innych urządzeniach. Aplikacja musi łączyć się z Internetem i wymaga następujących uprawnień: 
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Włączanie i wyłączanie Wi-Fi
+\u0009\u0009W celu przesyłania treści przez Wi-Fi
+\u0009\u0009Nagrywanie dźwięku
+\u0009\u0009W celu przesyłania i odtwarzania dźwięku między urządzeniami w trakcie projekcji i klonowania ekranu
+\u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
+\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
+\u0009\u0009Mi Share:
+\u0009\u0009Dostęp do zdjęć i plików przechowywanych na urządzeniu
+\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
+\u0009\u0009Dostęp do lokalizacji
+\u0009\u0009W celu przesyłania plików przez Bluetooth lub Wi-Fi
+\u0009\u0009Włączanie lub wyłączanie Bluetooth
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu do łączenia się z nimi przez Bluetooth
+\u0009\u0009Włączanie i wyłączanie Wi-Fi
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania elementów przez Wi-Fi
+\u0009\u0009Łączenie z urządzeniami w pobliżu
+\u0009\u0009W celu odnajdywania i łączenia się z urządzeniami w pobliżu
+\u0009\u0009Przesyłanie postępu odtwarzania (Mi Smart Play, projekcja):
+\u0009\u0009Włączanie lub wyłączanie Bluetooth
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu do łączenia się z nimi przez Bluetooth
+\u0009\u0009Włączanie i wyłączanie Wi-Fi
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania elementów przez Wi-Fi
+\u0009\u0009Przesyłanie elementów do innych urządzeń
+\u0009\u0009W celu ustanowienia połączenia Bluetooth między urządzeniami i przesłania elementów
+\u0009\u0009Dostęp do lokalizacji
+\u0009\u0009W celu uzyskiwania informacji z urządzeń w pobliżu
+\u0009\u0009Nagrywanie wewnętrznego dźwięku urządzenia
+\u0009\u0009W celu przesyłania i odtwarzania dźwięku między urządzeniami w trakcie projekcji i klonowania ekranu
+\u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
+\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
+\u0009\u0009Dostęp do adresu MAC
+\u0009\u0009W celu rozpoznawania połączonych urządzeń
+\u0009\u0009Dostęp do zawartości ekranu
+\u0009\u0009W celu uzyskiwania zawartości ekranu w trakcie nagrywania lub projekcji, w tym wrażliwych danych takich jak dźwięk, hasła, zdjęcia itd.
+\u0009\u0009Handoff aplikacji (zadania wykonywane na różnych urządzeniach, Pulpit+):
+\u0009\u0009Włączanie lub wyłączanie Bluetooth
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu przez Bluetooth
+\u0009\u0009Włączanie i wyłączanie Wi-Fi
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu do projekcji przez Wi-Fi
+\u0009\u0009Dostęp do adresu MAC
+\u0009\u0009W celu rozpoznawania połączonych urządzeń
+\u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
+\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
+\u0009\u0009Przesyłanie elementów do innych urządzeń
+\u0009\u0009W celu ustanowienia połączenia Bluetooth między urządzeniami i przesyłania zawartości
+\u0009\u0009Nagrywanie wewnętrznego dźwięku urządzenia
+\u0009\u0009W celu przesyłania i odtwarzania dźwięku między urządzeniami w trakcie projekcji i klonowania ekranu
+\u0009\u0009Dostęp do zawartości ekranu
+\u0009\u0009W celu uzyskiwania zawartości ekranu w trakcie nagrywania lub projekcji, w tym wrażliwych danych takich jak dźwięk, hasła, zdjęcia itd.
+\u0009\u0009Operacje na plikach (współdzielony schowek, używanie aparatu w Notatkach):
+\u0009\u0009Włączanie lub wyłączanie Bluetooth
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu do łączenia się z nimi przez Bluetooth
+\u0009\u0009Włączanie i wyłączanie Wi-Fi
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu do projekcji przez Wi-Fi
+\u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
+\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
+\u0009\u0009Dostęp do schowka
+\u0009\u0009W celu umożliwienia aplikacjom dostępu do skopiowanej zawartości
+\u0009\u0009Łączenie urządzeń (zwiększanie prędkości sieci, korzystanie z klawiatur, mikrofonów i aparatów):
+\u0009\u0009Włączanie lub wyłączanie Bluetooth
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu do łączenia się z nimi przez Bluetooth
+\u0009\u0009Włączanie i wyłączanie Wi-Fi
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu do projekcji przez Wi-Fi
+\u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
+\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
+\u0009\u0009Dostęp do aparatu
+\u0009\u0009W celu robienia zdjęć i filmów
+\u0009\u0009Kontrolowanie urządzeń:
+\u0009\u0009Włączanie i wyłączanie Bluetooth
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu do łączenia się z nimi przez Bluetooth
+\u0009\u0009Włączanie i wyłączanie Wi-Fi
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu do projekcji przez Wi-Fi
+\u0009\u0009Nagrywanie wewnętrznego dźwięku urządzenia
+\u0009\u0009W celu przesyłania i odtwarzania dźwięku między urządzeniami w trakcie projekcji i klonowania ekranu
+\u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
+\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
+Jeśli nie zgodzisz się na przyznanie tych uprawnień, nie będzie można używać tej usługi.
+Dostępne usługi łączności między urządzeniami mogą się różnić w zależności od wersji systemu i modelu urządzenia. Więcej informacji znajdziesz na stronie wwww.miui.com."</string>
+    <string name="permission_uniquely_identifiable_information">Dostęp do unikalnych identyfikatorów urządzenia</string>
+    <string name="permission_uniquely_identifiable_information_summary">Dostęp do adresu MAC i OAID urządzenia w celu odnajdywania, łączenia i komunikowania się z innymi urządzeniami</string>
+    <string name="permission_use_bluetooth">Używanie Bluetooth</string>
+    <string name="permission_use_bluetooth_summary">W celu odnajdywania, łączenia się i komunikowania z urządzeniami w pobliżu</string>
+    <string name="permission_use_wlan">Używanie Wi-Fi</string>
+    <string name="permission_use_wlan_summary">W celu odnajdywania, łączenia się i komunikowania z urządzeniami w pobliżu</string>
+    <string name="recommended_font_mark">Zalecane</string>
+    <string name="select_font_modele_tips">Zawsze możesz wybrać nową czcionkę w Motywach</string>
 </resources>

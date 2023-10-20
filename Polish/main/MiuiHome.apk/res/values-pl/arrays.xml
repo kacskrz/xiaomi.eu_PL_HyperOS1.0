@@ -84,4 +84,13 @@
         <item>Purpurowy</item>
         <item>Brązowy</item>
     </string-array>
+    <string-array name="no_word_model_entries">
+        <item>Wyłączone</item>
+        <item>Wszędzie</item>
+        <item>Pod widżetami</item>
+    </string-array>
+    <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+        <item>Wyłączone</item>
+        <item>Wszędzie</item>
+    </string-array>
 </resources>

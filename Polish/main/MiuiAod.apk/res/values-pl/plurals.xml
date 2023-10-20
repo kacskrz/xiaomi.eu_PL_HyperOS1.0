@@ -109,4 +109,17 @@ Dłuższe animacje zostaną w tym momencie zatrzymane."</item>
         <item quantity="few">Zmniejszono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
         <item quantity="many">Zmniejszono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
     </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s min</item>
+        <item quantity="one">%1$s/%2$s min</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s godz.</item>
+        <item quantity="one">%1$s/%2$s godz.</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s kroków</item>
+        <item quantity="few">%1$s/%2$s kroki</item>
+        <item quantity="one">%1$s/%2$s krok</item>
+    </plurals>
 </resources>

@@ -143,7 +143,7 @@
     <string name="permission_imei_disable_desc">Zezwól tej aplikacji na połączenie się z Internetem.</string>
     <string name="permission_imei_enable_desc">Zezwól tej aplikacji na połączenie się z Internetem i nadaj jej obowiązkowe uprawnienia wymienione powyżej.</string>
     <string name="permission_location_introduce">W celu wyświetlania najbliższych punktów serwisowych</string>
-    <string name="permission_main_purpose">Wyświetlanie dem funkcji MIUI, wysyłanie opinii i zgłoszeń dot. usług posprzedażowych.</string>
+    <string name="permission_main_purpose">Wyświetlanie dem funkcji, wysyłanie opinii i zgłoszeń dot. usług posprzedażowych.</string>
     <string name="permission_privacy">Polityka prywatności (obowiązkowa)</string>
     <string name="permission_region_version_msg"><Data>Przed użyciem tej aplikacji musisz przeczytać i zaakceptować &lt;a href=%1$s>Umowę użytkownika&lt;/a> i &lt;a href=%2$s>Politykę prywatności&lt;/a> Xiaomi.</Data></string>
     <string name="permission_select_all">Zaznacz wszystko</string>

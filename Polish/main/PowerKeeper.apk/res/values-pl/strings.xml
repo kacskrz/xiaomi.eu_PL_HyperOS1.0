@@ -249,7 +249,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="warm_configure">Konfiguracja kontroli ciepła</string>
   <string name="warm_performance_tip">W przypadku dużych obciążeń, temperatura urządzenia jest wyższa niż w trybie domyślnym</string>
   <string name="accessibility_service_description">Oszczędzanie baterii</string>
-  <string name="sleep_config_enhance_description_pad">"Gdy MIUI wykryje, że śpisz, zamknie aplikacje w tle, ograniczy korzystanie z Bluetooth i Wi-Fi, a także nie będzie wybudzać ekranu, gdy nadejdą nowe powiadomienia."</string>
+  <string name="sleep_config_enhance_description_pad">"Gdy system wykryje, że śpisz, zamknie aplikacje w tle, ograniczy korzystanie z Bluetooth i Wi-Fi, a także nie będzie wybudzać ekranu, gdy nadejdą nowe powiadomienia."</string>
   <string name="high_temp_benchmark_state">Przegrzewanie</string>
   <string name="high_temp_benchmark_state_message">"Wygląda na to, że Twoje urządzenie jest obecnie zbyt gorące. Uruchom tę aplikację, gdy się ono ochłodzi: "</string>
   <string name="title_history">Historia</string>

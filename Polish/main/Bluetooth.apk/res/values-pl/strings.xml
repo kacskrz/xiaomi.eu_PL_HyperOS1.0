@@ -259,4 +259,11 @@
   <string name="call_notification_incoming_text">Połączenie przychodzące</string>
   <string name="call_notification_ongoing_text">Trwa połączenie</string>
   <string name="call_notification_screening_text">Filtruję połączenie przychodzące</string>
+  <string name="bt_Auracast_audio_share_notification_content">Dotknij, aby wyświetlić opcje</string>
+  <string name="bt_Auracast_audio_share_notification_title">Udostępnianie dźwięku</string>
+  <string name="bt_audio_share_assistant_notification_title">Słuchanie radia w pobliżu</string>
+  <string name="close_broadcast_audio">Zatrzymaj</string>
+  <string name="miheadset_close_broadcast_audio">Zamknij transmisję</string>
+  <string name="notice_Auracast_audio_share_disconnected">Nie udostępniasz już dźwięku, ponieważ połączenie zostało przerwane</string>
+  <string name="notice_audio_share_classic_disconnected">Zatrzymano udostępnianie dźwięku</string>
 </resources>

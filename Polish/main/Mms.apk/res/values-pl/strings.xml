@@ -217,11 +217,11 @@
   <string name="dialog_complain_tips">Aby móc zgłaszać elementy, zezwól aplikacji SMS na łączenie się z siecią.</string>
   <string name="dialog_message_correct_as_ad">Wszystkie wiadomości od %s (z wyjątkiem kodów weryfikacyjnych) zostaną przeniesione do sekcji Reklamy.</string>
   <string name="dialog_message_correct_as_normal">Wybierz wiadomości do przeniesienia</string>
-  <string name="dialog_message_fake_cell_detect_error">Poprawić informacje o tej wiadomości? Aby to zrobić, MIUI musi pobrać numer telefonu (%1$s), zawartość wiadomości i informacje o pobliskiej lokalizacji na swoje serwery.</string>
-  <string name="dialog_message_mx">Wiadomości w Chmurze umożliwiają wysyłanie wiadomości do innych urządzeń MIUI bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości w Chmurze.</string>
+  <string name="dialog_message_fake_cell_detect_error">Poprawić informacje o tej wiadomości? Aby to zrobić, Xiaomi musi pobrać numer telefonu (%1$s), zawartość wiadomości i informacje o pobliskiej lokalizacji na swoje serwery.</string>
+  <string name="dialog_message_mx">Wiadomości w Chmurze umożliwiają wysyłanie wiadomości do innych urządzeń Xiaomi bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości w Chmurze.</string>
   <string name="dialog_message_networking">Aplikacja SMS musi używać Książki telefonicznej w celu dostarczania usługi rozpoznawania ID nadawcy. Aplikacje: SMS i Książka telefoniczna muszą połączyć się z Internetem i uzyskać dostęp do Twojej lokalizacji, aby działać normalnie. Zgadzasz się?</string>
-  <string name="dialog_message_networking_mx">Wiadomości w Chmurze umożliwiają wysyłanie wiadomości do innych urządzeń MIUI bez ponoszenia opłat. Do aktywacji tej funkcji wymagane jest wysłanie wiadomości SMS. Twój operator obciąży Cię opłatą za tego SMSa. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem tej funkcji. Wiadomości muszą łączyć się z Internetem i uzyskiwać dostęp do Twojej lokalizacji, aby zapewnić Inteligentne wiadomości, rozpoznawanie Sender ID i inne usługi. Czy zgadzasz się na to?</string>
-  <string name="dialog_message_sms_report">"Wiadomości typu spam, wraz z informacjami o nadawcach, zostaną przekazane do MIUI, kiedy je zaraportujesz. Zostaną wykorzystane wylącznie w celu ulepszenia filtrów spam MIUI."</string>
+  <string name="dialog_message_networking_mx">Wiadomości w Chmurze umożliwiają wysyłanie wiadomości do innych urządzeń Xiaomi bez ponoszenia opłat. Do aktywacji tej funkcji wymagane jest wysłanie wiadomości SMS. Twój operator obciąży Cię opłatą za tego SMSa. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem tej funkcji. Wiadomości muszą łączyć się z Internetem i uzyskiwać dostęp do Twojej lokalizacji, aby zapewnić Inteligentne wiadomości, rozpoznawanie Sender ID i inne usługi. Czy zgadzasz się na to?</string>
+  <string name="dialog_message_sms_report">"Wiadomości typu spam, wraz z informacjami o nadawcach, zostaną przekazane do Xiaomi, kiedy je zaraportujesz. Zostaną wykorzystane wylącznie w celu ulepszenia filtrów spam systemu."</string>
   <string name="dialog_message_rcs">China Mobile Messaging umożliwia wysyłanie wiadomości do innych użytkowników China Mobile bez ponoszenia opłat. Przed użyciem China Mobile Messaging musisz wyrazić zgodę na \"%1$s\". Zgadzasz się?</string>
   <string name="dialog_sim_locked_confirm">OK</string>
   <string name="dialog_sim_locked_message">"Twoja karta SIM nie działa w pełni z tym telefonem, ponieważ nie jest zgodna z warunkami subskrypcji. Jeśli masz jakiekolwiek pytania lub potrzebujesz więcej informacji na ten temat, skontaktuj się z centrum serwisowym Xiaomi lub sklepem, który sprzedał Ci produkty."</string>
@@ -473,7 +473,7 @@ Ta wiadomość może być niechciana."</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">Numer telefonu jest nieprawidłowy</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">"Nie można aktywować Wiadomości w Chmurze"</string>
   <string name="mx_and_voip_enable">Wiadomości w Chmurze</string>
-  <string name="mx_and_voip_enable_popup_msg">"Wysyłaj wiadomości SMS i dzwoń za darmo do innych użytkowników MIUI."</string>
+  <string name="mx_and_voip_enable_popup_msg">"Wysyłaj wiadomości SMS i dzwoń za darmo do innych użytkowników Xiaomi."</string>
   <string name="mx_and_voip_enable_popup_msg2">Polityka prywatności</string>
   <string name="mx_auto_resend_mms">Wyślij jako MMS</string>
   <string name="mx_auto_resend_mms_summary">"Wysyłaj jako MMS korzystając z danych mobilnych gdy nie ma połączenia z Wi-Fi"</string>
@@ -483,21 +483,21 @@ Ta wiadomość może być niechciana."</string>
   <string name="mx_btn_enable_now">Włącz teraz</string>
   <string name="mx_count_dspt">Wysłanych SMS: %1$d / MMS: %2$d</string>
   <string name="mx_current_status">Ustawienia</string>
-  <string name="mx_dspt">"Wysyłaj za darmo wiadomości przez Internet do innych urządzeń MIUI."</string>
-  <string name="mx_dspt_listview">Wysyłaj za darmo wiadomości przez Internet do innych urządzeń MIUI</string>
-  <string name="mx_dspt_provision">Wysyłaj wiadomości przez internet pomiędzy telefonami z MIUI bez ponoszenia kosztów za wysłanie SMS. Do aktywacji usługi wymagane jest wysłanie wiadomości SMS.</string>
-  <string name="mx_dspt_provision_ex">"Wysyłaj wiadomości przez internet pomiędzy telefonami z MIUI bez ponoszenia kosztów za wysłanie SMS."</string>
+  <string name="mx_dspt">"Wysyłaj za darmo wiadomości przez Internet do innych urządzeń Xiaomi."</string>
+  <string name="mx_dspt_listview">Wysyłaj za darmo wiadomości przez Internet do innych urządzeń Xiaomi</string>
+  <string name="mx_dspt_provision">Wysyłaj wiadomości przez internet pomiędzy telefonami z Xiaomi bez ponoszenia kosztów za wysłanie SMS. Do aktywacji usługi wymagane jest wysłanie wiadomości SMS.</string>
+  <string name="mx_dspt_provision_ex">"Wysyłaj wiadomości przez internet pomiędzy telefonami Xiaomi bez ponoszenia kosztów za wysłanie SMS."</string>
   <string name="mx_dspt_provision_ex2">Polityka prywatności</string>
   <string name="mx_enable">Wiadomości w Chmurze</string>
   <string name="mx_enable_ex">Wiadomości w Chmurze i VoIP</string>
-  <string name="mx_enable_popup_msg">Wiadomości w Chmurze umożliwiają wysyłanie SMS do użytkowników MIUI za darmo.</string>
+  <string name="mx_enable_popup_msg">Wiadomości w Chmurze umożliwiają wysyłanie SMS do użytkowników Xiaomi za darmo.</string>
   <string name="mx_filter_message_from_stranger">Blokuj wiadomości z nieznanych numerów</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">"Zwykłe SMS będą nadal możliwe do odebrania"</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Blokuj wiadomości z nieznanych numerów</string>
   <string name="mx_filter_message_from_stranger_summary">"Zwykłe SMS będą nadal możliwe do odebrania"</string>
   <string name="mx_main_purpose">"Wiadomości w Chmurze pozwalają Ci wysyłać wiadomości do innych użytkowników tej usługi przez Internet bez żadnych opłat.
 Do aktywacji tej usługi wymagane jest wysłanie wiadomości SMS, za którą operator może Cię obciążyć dodatkową opłatą."</string>
-  <string name="mx_main_purpose_short">Wiadomości w Chmurze pozwalają użytkownikom MIUI wysyłać i otrzymywać wiadomości od innych użytkowników MIUI bez żadnych opłat.</string>
+  <string name="mx_main_purpose_short">Wiadomości w Chmurze pozwalają użytkownikom Xiaomi wysyłać i otrzymywać wiadomości od innych użytkowników Xiaomi bez żadnych opłat.</string>
   <string name="mx_message">Wiadomości w Chmurze</string>
   <string name="mx_msg">Wiadomości w chmurze</string>
   <string name="mx_msg_pageview_setting_title">Opcje chmury</string>
@@ -509,7 +509,7 @@ Do aktywacji tej usługi wymagane jest wysłanie wiadomości SMS, za którą ope
   <string name="mx_reactivate">Aktywuj ponownie usługi w chmurze</string>
   <string name="mx_recommend_msg">Wysyłaj darmowe SMS korzystając z wiadomości w chmurze</string>
   <string name="mx_stranger_recommend_msg">Dotknij, aby zablokować nieznane numery</string>
-  <string name="mx_type_guide">Wiadomości w chmurze umożliwiają wysyłanie SMS między urządzeniami z MIUI</string>
+  <string name="mx_type_guide">Wiadomości w chmurze umożliwiają wysyłanie SMS między urządzeniami Xiaomi</string>
   <string name="need_download">Oczekiwanie na synchronizację...</string>
   <string name="net_sms_subscribed">Pomyślnie zasubskrybowano</string>
   <string name="net_sms_unsubscribe">Pomyślnie wycofano subskrypcję</string>
@@ -600,7 +600,7 @@ Do aktywacji tej usługi wymagane jest wysłanie wiadomości SMS, za którą ope
   <string name="pref_sms_storage_title">Pojemność pamięci</string>
   <string name="pref_sms_theme_title">Wygląd</string>
   <string name="pref_summary_allow_si_sl_push">Zezwól na wczytywanie treści web</string>
-  <string name="pref_summary_allow_upload_message_info">"Wiadomości spam zostaną przesłane do MIUI gdy wyślesz raport"</string>
+  <string name="pref_summary_allow_upload_message_info">"Wiadomości spam zostaną przesłane do Xiaomi gdy wyślesz raport"</string>
   <string name="pref_summary_auto_delete">Usuń stare wiadomości gdy osiągnięto limit</string>
   <string name="pref_summary_collapse_ad_notification">Wyświetlaj wszystkie reklamy w oddzielnym folderze w Panelu powiadomień</string>
   <string name="pref_summary_collapse_ad_notification_mms">Wyświetlaj wszystkie reklamy w oddzielnej sekcji</string>
@@ -629,7 +629,7 @@ Do aktywacji tej usługi wymagane jest wysłanie wiadomości SMS, za którą ope
   <string name="pref_title_delivery_reports">Raport doręczenia</string>
   <string name="pref_title_fwd_sender_info">Przekaż informacje o nadawcy</string>
   <string name="pref_title_manage_sim_messages">Wiadomości na karcie SIM</string>
-  <string name="pref_title_miui_card">Wizytówka MIUI</string>
+  <string name="pref_title_miui_card">Wizytówka systemu</string>
   <string name="pref_title_mms_auto_retrieval">Autoodbieranie</string>
   <string name="pref_title_mms_delete">Limit wiadomości MMS</string>
   <string name="pref_title_mms_read_reports">Raporty przeczytania</string>
@@ -797,8 +797,8 @@ Możesz wybrać którąś z polecanych aplikacji!"</string>
   <string name="recipients_contain_sub_sim_number">"Wygląda na to, że wśród odbiorców jest numer przypisany do drugiej karty SIM. Wyślij wiadomość za pomocą drugiej karty SIM."</string>
   <string name="recipients_over_size">Zbyt wielu odbiorców.</string>
   <string name="recommend_bar_cancel">Ignoruj</string>
-  <string name="recommend_bar_message_mx">Wiadomości w Chmurze umożliwiają wysyłanie wiadomości do innych urządzeń MIUI bez ponoszenia opłat.</string>
-  <string name="recommend_bar_message_mx_rcs">Wiadomości w Chmurze umożliwiają wysyłanie wiadomości do innych urządzeń MIUI i użytkowników China Mobile bez ponoszenia opłat.</string>
+  <string name="recommend_bar_message_mx">Wiadomości w Chmurze umożliwiają wysyłanie wiadomości do innych urządzeń Xiaomi bez ponoszenia opłat.</string>
+  <string name="recommend_bar_message_mx_rcs">Wiadomości w Chmurze umożliwiają wysyłanie wiadomości do innych urządzeń Xiaomi i użytkowników China Mobile bez ponoszenia opłat.</string>
   <string name="recommend_bar_message_rcs">Wiadomości China Mobile umożliwiają wysyłanie wiadomości do użytkowników China Mobile bez ponoszenia opłat.</string>
   <string name="recommend_bar_message_smart_message">Kopiuj jednorazowe hasła, śledź paczki, używaj prostych menu i więcej</string>
   <string name="recommend_bar_ok">Włącz</string>
@@ -1082,7 +1082,7 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
   <string name="view_bookmark">Wyświetl oryginalną wiadomość</string>
   <string name="view_message_details">Szczegóły</string>
   <string name="voip_enable">Wiadomości i Rozmowy w Chmurze</string>
-  <string name="voip_enable_popup_msg">"Wykonuj połączenia do użytkowników MIUI bez ponoszenia kosztów wg planu taryfowego operatora"</string>
+  <string name="voip_enable_popup_msg">"Wykonuj połączenia do użytkowników Xiaomi bez ponoszenia kosztów wg planu taryfowego operatora"</string>
   <string name="voip_enable_popup_msg2">Polityka prywatności</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Wysyłanie wiadomości za %d s</string>
@@ -1322,8 +1322,8 @@ Sprawdź kartę SIM."</string>
     <string name="dialog_sim_locked_message_translation_for_pad">"Twoja karta SIM nie działa w pełni z tym urządzeniem, ponieważ nie jest zgodna z warunkami subskrypcji. Jeśli masz jakiekolwiek pytania lub potrzebujesz więcej informacji na ten temat, skontaktuj się z centrum serwisowym Xiaomi lub sklepem, który sprzedał Ci produkty."</string>
     <string name="mx_activate_status_desc_query_activte_info_translation_for_pad">Sprawdzanie SIM…</string>
     <string name="mx_activate_status_desc_wait_for_sms_fail_translation_for_pad">"Nie można aktywować Wiadomości w Chmurze"</string>
-    <string name="mx_dspt_listview_translation_for_pad">"Wysyłaj za darmo wiadomości przez Internet do innych urządzeń MIUI"</string>
-    <string name="mx_dspt_translation_for_pad">"Wysyłaj za darmo wiadomości przez Internet do innych urządzeń MIUI"</string>
+    <string name="mx_dspt_listview_translation_for_pad">"Wysyłaj za darmo wiadomości przez Internet do innych urządzeń Xiaomi"</string>
+    <string name="mx_dspt_translation_for_pad">"Wysyłaj za darmo wiadomości przez Internet do innych urządzeń Xiaomi"</string>
     <string name="no_conversation_selected">Wybierz konwersację, aby wyświetlić</string>
     <string name="perm_purpose_rcs_phone_state_translation_for_pad">Dostęp do IMEI w celu identyfikacji urządzenia</string>
     <string name="pref_title_ringtone_repeat_summary_translation_for_pad">Odtwórz dźwięk, gdy nadejdzie wiadomość przy wyłączonym ekranie</string>
@@ -1473,4 +1473,8 @@ Spróbuj ponownie."</string>
 Spróbuj ponownie."</string>
     <string name="cloud_space_not_enough">Brak miejsca w Chmurze. Ulepsz swój plan, aby zsychronizować ostatnie elementy.</string>
     <string name="fail_to_add_image">"Nie udało się uzyskać dostępu do skopiowanych elementów"</string>
+    <string name="miuix_item_view_role_description">Karta</string>
+    <string name="miuix_navigator_content_switch_description">Pokaż pasek boczny</string>
+    <string name="miuix_navigator_multiple_choice">Wybierz</string>
+    <string name="miuix_navigator_navigator_switch_description">Ukryj pasek boczny</string>
 </resources>

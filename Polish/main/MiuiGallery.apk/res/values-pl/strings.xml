@@ -116,7 +116,7 @@
   <string name="alert_secret_album_message">Przesuń w dół w widoku Albumów, aby pokazać prywatny album.</string>
   <string name="alert_secret_album_message_lower_case">Przesuń w dół w widoku Albumów, aby pokazać prywatny album.</string>
   <string name="alert_secret_album_title">Jak pokazać prywatny album?</string>
-  <string name="alert_selection_description">MIUI porównuje podobne zdjęcia, a najlepsze oznacza gwiazdką.</string>
+  <string name="alert_selection_description">System porównuje podobne zdjęcia, a najlepsze oznacza gwiazdką.</string>
   <string name="alert_selection_title">Wybierz najlepsze ujęcie</string>
   <string name="all_faces">Zdjęcia z tą osobą</string>
   <string name="all_items_synced">Wszystkie albumy są zsynchronizowane z Chmurą</string>
@@ -800,7 +800,7 @@
   <string name="image_invalid_path">Nieprawidłowa ścieżka</string>
   <string name="image_not_found">"Nie można znaleźć zdjęcia"</string>
   <string name="image_quota_fulfiled">"Osiągnięto limit zdjęć w tym albumie"</string>
-  <string name="image_selection_summary">MIUI będzie analizować podobne do siebie zdjęcia i oznaczać najlepsze z nich</string>
+  <string name="image_selection_summary">System będzie analizować podobne do siebie zdjęcia i oznaczać najlepsze z nich</string>
   <string name="image_selection_title">Wybierz najlepsze ujęcie</string>
   <string name="image_with_time">Wykonano zdjęcie %s</string>
   <string name="image_with_time_and_location">Wykonano zdjęcie o %1$s, w %2$s.</string>
@@ -1369,7 +1369,7 @@
   <string name="search_feedback_task_request_award_failed">Nie udało się odebrać nagrody. Spróbuj ponownie później.</string>
   <string name="search_feedback_task_requesting_award">Odbieranie nagrody…</string>
   <string name="search_feedback_user_notice">Przeczytałem i zaakceptowałem %s.</string>
-  <string name="search_feedback_user_policy">Politykę prywatności Algorytmu programu SI Galerii MIUI</string>
+  <string name="search_feedback_user_policy">Politykę prywatności Algorytmu programu SI Galerii</string>
   <string name="search_hint">Dotknij, aby wyszukać</string>
   <string name="search_image_result_title">Wyniki wyszukiwania</string>
   <string name="search_login_now">Zaloguj</string>
@@ -1807,7 +1807,7 @@
   <string name="video_with_time">Wideo wykonano %s</string>
   <string name="video_with_time_and_location">Wideo wykonano o %1$s, w %2$s.</string>
   <string name="view_baby_album">View Baby album</string>
-  <string name="view_by_gallery_tip">MIUI Gallery</string>
+  <string name="view_by_gallery_tip">Galeria</string>
   <string name="view_face_album">Pokaż album</string>
   <string name="view_more_face_desc">Pokaż więcej osób</string>
   <string name="view_queuing_status">Sprawdź status</string>
@@ -3700,4 +3700,21 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="manager_backup">Zarządzaj</string>
   <string name="open_backup">Włącz</string>
   <string name="select_backup">Wybierz kopię zapasową</string>
+  <string name="miuix_item_view_role_description">Karta</string>
+  <string name="miuix_navigator_content_switch_description">Pokaż pasek boczny</string>
+  <string name="miuix_navigator_multiple_choice">Wybierz</string>
+  <string name="miuix_navigator_navigator_switch_description">Ukryj pasek boczny</string>
+  <string name="segment_change_background">Zmień tło</string>
+  <string name="segment_copy">Kopiuj</string>
+  <string name="segment_copy_fail">"Nie udało się skopiować"</string>
+  <string name="segment_copy_processing">Kopiowanie…</string>
+  <string name="segment_copy_success">Pomyślnie skopiowano</string>
+  <string name="segment_no_result">"Nie udało się wykryć obiektów na tym zdjęciu"</string>
+  <string name="segment_save">Zapisz</string>
+  <string name="segment_save_fail">"Nie udało się zapisać"</string>
+  <string name="segment_save_processing">Zapisywanie…</string>
+  <string name="segment_save_success">Zapisano w Galerii</string>
+  <string name="segment_send">Wyślij</string>
+  <string name="segment_send_processing">Przygotowywanie do wysłania…</string>
+  <string name="text_segment">Wycinek zdjęcia</string>
 </resources>

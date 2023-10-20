@@ -988,4 +988,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
     <string name="miuix_appcompat_edit">Edytuj</string>
     <string name="passport_input_email_vcode_hint">Wprowadź kod</string>
     <string name="passport_vcode_email_send_prompt"><Data>Twój kod weryfikacyjny został wysłany na adres &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a></Data></string>
+    <string name="empty_device_list">Nic tu nie ma</string>
+    <string name="user_agreement_read_phone_permission_desc">W celu zalogowania się za pomocą numeru telefonu signing in using phone number</string>
+    <string name="user_agreement_read_phone_permission_title">Odczyt numerów telefonów</string>
 </resources>
