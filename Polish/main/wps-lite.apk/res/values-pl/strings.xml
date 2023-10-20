@@ -305,4 +305,10 @@
     <string name="public_revoke_privacy_desc">Wycofaj zgodę na warunki Polityki prywatności Przeglądarki dokumentów Mi</string>
     <string name="public_revoke_privacy_title">Wycofaj zgodę</string>
     <string name="public_share">Udostępnij</string>
+    <string name="public_2pic">Eksportuj do obrazu</string>
+    <string name="public_export_pdf">Eksportuj do PDF</string>
+    <string name="public_pdf2word">PDF do Worda</string>
+    <string name="public_pdfFillForm">Wypełnij formularz</string>
+    <string name="public_privacy_policy">Polityka prywatności</string>
+    <string name="public_writer2pic">Eksportuj do obrazu</string>
 </resources>
