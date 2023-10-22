@@ -583,7 +583,7 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="mirror_to_settings_remote_pc_content">Możesz włączyć Pulpit+ w Ustawieniach.</string>
     <string name="mirror_to_settings_remote_pc_title">Włącz Pulpit+ na komputerze</string>
     <string name="mirror_to_settings_title">Włącz Pulpit+</string>
-    <string name="miui15_app_name">Usługi łączności między urządzeniami/string>
+    <string name="miui15_app_name">Usługi łączności między urządzeniami</string>
     <string name="miui15_cta_desc_phone">Usługi łączności między urządzeniami Xiaomi pozwalają na bezprzewodową interakcję między Twoimi urządzeniami Możesz ich użyć do kontrolowania urządzeń, przekazywania postępu odtwarzania dźwięków i filmów, łączenia funkcji urządzeń lub rozpoczynania zadań na jednym urządzeniu i kontynuowania ich w tej samej aplikacji na innych połączonych urządzeniach. Aby móc działać normalnie, usługi muszą łączyć się z Internetem i potrzebują następujących uprawnień:</string>
     <string name="miui15_cta_permission_bluetooth_subtitle">W celu łączenia urządzeń i przekazywania danych między nimi</string>
     <string name="miui15_cta_permission_mac_address_subtitle">W celu odnajdywania urządzeń w pobliżu</string>

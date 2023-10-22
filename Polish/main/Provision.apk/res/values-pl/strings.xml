@@ -64,8 +64,6 @@
   <string name="fast_application_introduction">Framework aplikacji błyskawicznych pozwala na tworzenie i dostarczanie Ci usług w ramach aplikacji błyskawicznych.</string>
   <string name="font_hint_normal">Zmień rozmiar czcionki</string>
   <string name="font_hint_large">Domyślny rozmiar czcionki</string>
-  <string name="framework_introduction">Framework Usług Xiaomi pozwala Ci na korzystanie z konta Xiaomi, Mi Push, Mi Stats oraz MIUI BI.</string>
-  <string name="framwork_base_service">Aby dostarczać Ci te usługi, Framework Usług Xiaomi (Konto Xiaomi, Mi Push, Mi Stats, MIUI BI) wymaga połączenia z Internetem, a także dostępu do Twojego numeru telefonu, lokalizacji, numerów IMEI i IMSI, a także zezwolenia na korzystanie z powiadomień push na Twoim urządzeniu.</string>
   <string name="google_service_introduction">Aby móc działać normalnie, sklep Google Play wymaga połączenia z Internetem, a także dostępu do Twojej lokalizacji, możliwości wysyłania SMS-ów i MMS-ów, nagrywania dźwięku, wykonywania połączeń, dostępu do wydarzeń z kalendarza, historii rozmów, sensorów, pamięci, aparatu, informacji o urządzeniu oraz kontach. </string>
   <string name="ime_privacy_policy">Polityka prywatności wybranej klawiatury</string>
   <string name="ime_privacy_policy_no_network">"Nie można połączyć się z siecią. Wyświetl Politykę prywatności z %s."</string>

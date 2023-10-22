@@ -175,7 +175,6 @@
   <string name="accessibility_quick_settings_bluetooth_off">Bluetooth wyłączony.</string>
   <string name="accessibility_quick_settings_bluetooth_on">Bluetooth włączony.</string>
   <string name="accessibility_quick_settings_close">Zamknij panel.</string>
-  <string name="accessibility_quick_settings_collapse">Zamknij szybkie ustawienia.</string>
   <string name="accessibility_quick_settings_color_inversion_changed_off">Odwrócenie kolorów zostało wyłączone.</string>
   <string name="accessibility_quick_settings_color_inversion_changed_on">Odwrócenie kolorów zostało włączone.</string>
   <string name="accessibility_quick_settings_data_saver_changed_off">Oszczędzanie danych jest wyłączone.</string>
@@ -1073,7 +1072,6 @@ Spróbuj ponownie za %2$d s."</string>
 Spróbuj ponownie za %2$d s."</string>
   <string name="kg_wrong_password">Nieprawidłowe hasło</string>
   <string name="kg_wrong_pattern">Nieprawidłowy wzór</string>
-  <string name="kg_wrong_pin">Nieprawidłowy kod PIN</string>
   <string name="kilobyte_per_second">" kB/s"</string>
   <string name="label_view">Wyświetl</string>
   <string name="launch_defaults_none">Brak ustawień domyślnych</string>
@@ -3515,7 +3513,6 @@ d MMMM"</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Anuluj</string>
     <string name="miuix_appcompat_search_input_description">Szukaj</string>
     <string name="miuix_appcompat_select_all">Zaznacz wszystko</string>
-    <string name="miuix_appcompat_select_all_description">Wybierz wszystko</string>
     <string name="miuix_appcompat_select_item">Wybierz elementy</string>
     <string name="more">Więcej</string>
     <string name="mr_cast_dialog_title_view_placeholder">Brak informacji</string>
@@ -3972,10 +3969,6 @@ kliknij dwukrotnie"</string>
     <string name="miui_magazine_clock_date_content_description">d.MM</string>
     <string name="miui_rhombus_clock_date">d MMMM</string>
     <string name="miui_smart_frame_clock_date">d.M</string>
-    <string name="miuix_appcompat_cancel_description">Anuluj</string>
-    <string name="miuix_appcompat_confirm_description">Potwierdź</string>
-    <string name="miuix_appcompat_delete_description">Usuń</string>
-    <string name="miuix_appcompat_deselect_all_description">Odznacz wszystko</string>
     <string name="miuix_appcompat_select_all_description">Zaznacz wszystko</string>
     <string name="multiwin_closewindow">Zamknij okno</string>
     <string name="multiwin_newwindow">Nowe okno</string>
@@ -4026,7 +4019,6 @@ kliknij dwukrotnie"</string>
     <string name="strong_toast_quick_charging">Szybkie ładowanie</string>
     <string name="sunrise_time_format">Wschód słońca: %s</string>
     <string name="sunset_time_format">Zachód słońca: %s</string>
-    <string name="switch_system_user">Wróć do Pierwszej przestrzeni</string>
     <string name="wind_direction_0">Wiatr płn.</string>
     <string name="wind_direction_1">Wiatr płn.-wsch.</string>
     <string name="wind_direction_1_f">Wiatr płn.-wsch.</string>

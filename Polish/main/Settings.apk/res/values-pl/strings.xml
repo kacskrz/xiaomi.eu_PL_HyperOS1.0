@@ -11084,8 +11084,6 @@ Aby przełączać się między funkcjami, przesuń 3 palcami w górę i przytrzy
     <string name="bluetooth_disconnect_dialog_ok">Rozłącz</string>
     <string name="bluetooth_enable_gabeldorsche">Włącz Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Włącza zestaw funkcji Bluetooth Gabeldorsche.</string>
-    <string name="bluetooth_enable_page_scan">Włącz skanowanie strony Bluetooth</string>
-    <string name="bluetooth_enable_page_scan_summary">Wyłącz/włącz skanowanie strony do testu Bluetooth</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Połączono z aparatem słuchowym</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Użyto dla aparatu słuchowego</string>
     <string name="bluetooth_hearingaid_left_battery_level">Lewy - %1$s baterii</string>
@@ -12681,7 +12679,6 @@ Jeśli odcisk palca lub twarz nie zostaną rozpoznane, możesz odblokować urzą
     <string name="bluetooth_audio_routing_summary">Kieruj dźwięki do urządzenia słuchowego lub głośnika telefonu</string>
     <string name="bluetooth_audio_routing_title">Wyjście audio</string>
     <string name="bluetooth_call_title">Dźwięk podczas połączeń</string>
-    <string name="bluetooth_device_controls_summary">Skrót urządzenia słuchowego, zgodność z aparatem słuchowym</string>
     <string name="bluetooth_device_controls_title">Ustawienia urządzenia słuchowego</string>
     <string name="bluetooth_device_keyboard_settings_preference_title">Ustawienia klawiatury</string>
     <string name="bluetooth_enable_leaudio">Włącz funkcję audio Bluetooth LE</string>
@@ -13343,8 +13340,6 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="wifitrackerlib_hotspot_network_connecting">Łączę…</string>
     <string name="wifitrackerlib_hotspot_network_summary">%1$s z urządzenia %2$s</string>
     <string name="wifitrackerlib_known_network_summary">Sieć dostępna z urządzenia %1$s</string>
-    <string name="bluetooth_broadcast_audio_dialog_title">Rozpocznij nadawanie</string>
-    <string name="bluetooth_broadcast_audio_onlysource">Nadawaj dźwięk z tego urządzenia</string>
     <string name="bluetooth_broadcast_audio_started_toast">"Nie zapomnij zatrzymać nadawania po pewnym czasie. Takie transmisje drenują baterię."</string>
     <string name="bluetooth_broadcast_audio_summary">Udostępniaj dźwięk urządzeniom w pobliżu przez Bluetooth</string>
     <string name="bluetooth_broadcast_code">"Hasło: "</string>
@@ -13352,7 +13347,6 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="eye_gaze_summary_fold_device">"Urządzenie nie zablokuje się, gdy wykryje, że patrzysz na zewnętrzny ekran"</string>
     <string name="freeform_guide_multiple_window_summary_no_wps">"Przytrzymaj ikonę aplikacji w doku, aby otworzyć nowe okno.
 *Funkcja wspiera Notatki, Pocztę i Przeglądarkę."</string>
-    <string name="miui_desktop_mode_settings">Stacja robocza</string>
     <string name="miui_desktop_mode_settings_title">Stacja robocza</string>
     <string name="miui_desktop_mode_video_description">Dotknij ikon aplikacji w doku, aby otworzyć je w pływających oknach. Możesz włączyć lub wyłączyć Stację roboczą w Centrum funkcji.</string>
     <string name="miui_tof_screen_on_close_switch_dialog_msg">Aby normalnie korzystać z tej funkcji, włącz \"%s\". Możesz to zrobić w Ustawieniach.</string>
@@ -13377,13 +13371,8 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="tof_gesture_left_waving_title">Fala w lewo</string>
     <string name="tof_gesture_right_waving_title">Fala w prawo</string>
     <string name="tof_gesture_up_waving_title">Fala w górę</string>
-    <string name="wifi_validation">Weryfikowanie sieci…</string>
     <string name="private_dns_mode_provider_custom_name">Nazwa własna</string>
     <string name="private_dns_mode_provider_exposed_hostname">Odkrywalna</string>
-    <string name="autoui_mode_guide_text">Optymalizuj wygląd kompatybilnych aplikacji, aby polepszyć wrażenia wizualne</string>
-    <string name="autoui_mode_name">Optymalizacja wyglądu aplikacji</string>
-    <string name="autoui_mode_no_support_apps">"Nie znaleziono kompatybilnych aplikacji"</string>
-    <string name="autoui_search_hint">Szukaj aplikacji</string>
     <string name="headset_adaptive_hearing_summary">Automatycznie dostosuj dźwięk w zależności od kształtu ucha i środowiska</string>
     <string name="headset_adaptive_hearing_title">Dźwięk adaptacyjny</string>
     <string name="freeform_recommend_open_switch_summary_fold">W niektórych przypadkach rekomendowane aplikacje będą otwierane w pływającym oknie na zewnętrznym ekranie oraz w pływającym oknie lub w Dzielonym ekranie na ekranie wewnętrznym</string>
@@ -13428,7 +13417,6 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="bluetooth_device_button_enable_audio_share">Udostępnij</string>
     <string name="bluetooth_device_button_reject_permission">"Nie zgadzam się"</string>
     <string name="bluetooth_device_button_replace_current_device">Przełącz urządzenie</string>
-    <string name="bluetooth_device_controls_summary">Shortcut, hearing aid compatibility</string>
     <string name="bluetooth_device_controls_summary">Skrót, zgodność z aparatem słuchowym</string>
     <string name="bluetooth_device_title_audio_share_fail">"Nie udało się połączyć z %1$s. Spróbuj ponownie."</string>
     <string name="bluetooth_device_title_audio_share_success">Słuchanie wraz z %1$s</string>

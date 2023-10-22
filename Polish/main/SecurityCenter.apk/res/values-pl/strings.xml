@@ -6065,7 +6065,6 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="vb_power_performance_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączony jest Tryb wydajności"</string>
     <string name="vb_power_save_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączone jest Oszczędzanie baterii"</string>
     <string name="vb_super_power_save_mode_conflict_toast">"Nie można używać tej funkcji, gdy włączone jest Ultraoszczędzanie baterii"</string>
-    <string name="permdesc_get_installed_apps">Zezwolić aplikacji \"%1$s\" na dostęp do informacji o zainstalowanych aplikacjach?</string>
     <string name="HIPS_Perm_Intl_group_name_calendar">Kalendarz</string>
     <string name="HIPS_Perm_Intl_group_name_call_log">Historia połączeń</string>
     <string name="HIPS_Perm_Intl_group_name_camera">Aparat</string>

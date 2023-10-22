@@ -77,10 +77,6 @@
     <string name="bubble_notification">Dymki</string>
     <string name="bubble_notification_switch">Pokazuj dymki</string>
     <string name="bubble_notification_switch_desc">Gdy komunikator jest ukryty przy krawędzi ekranu w formie pływającego okna, system pokaże jego powiadomienia w formie dymków</string>
-    <string name="desktop_btn_cancel">Anuluj</string>
-    <string name="desktop_btn_continue">Zacznij</string>
-    <string name="desktop_mode_guide_summary">Tryb Stacja robocza pozwala otworzyć kilka aplikacji w pływających oknach poprzez dotknięcie ich ikon w doku.</string>
-    <string name="desktop_mode_guide_title">Stacja robocza</string>
     <string name="dock_location_left">Po lewej</string>
     <string name="dock_location_right">Po prawej</string>
     <string name="dock_location_title">Położenie doku</string>
