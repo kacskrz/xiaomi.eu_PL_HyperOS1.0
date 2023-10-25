@@ -15,4 +15,16 @@
         <item quantity="few">%1$d urządzenia</item>
         <item quantity="one">%1$d urządzenie</item>
     </plurals>
+    <plurals name="car_map_hour">
+        <item quantity="one">%d godz.</item>
+        <item quantity="other">%d godz.</item>
+    </plurals>
+    <plurals name="car_map_minute">
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="controller_auth_count_down">
+        <item quantity="one">Wprowadź kod z %1$s (%2$d s)</item>
+        <item quantity="other">Wprowadź kod z %1$s (%2$d s)</item>
+    </plurals>
 </resources>

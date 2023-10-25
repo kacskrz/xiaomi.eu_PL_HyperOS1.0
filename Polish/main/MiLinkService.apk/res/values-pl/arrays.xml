@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="settings_search_connect_car">
+       <item>Łączenie aplikacji</item>
+       <item>Łączność między urządzeniami/Łączenie aplikacji</item>
+       <item>Funkcje auta</item>
+   </string-array>
+   <string-array name="settings_search_connection_home">
+       <item>Łączność między urządzeniami</item>
+       <item>Łączność między urządzeniami/Łączność między urządzeniami</item>
+       <item>Usługi łączności między urządzeniami, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, inteligentna łączność, łączność, Mi Smart Hub, Łączność między urządzeniami, Duo, telefon Xiaomi, laptop Xiaomi, Wiele ekranów, Duet, projekcja, łączenie aplikacji, handoff, Handoff aplikacji, Mirror, Ekosystem Xiaomi, łączenie urządzeń</item>
+   </string-array>
+   <string-array name="settings_search_connection_privacy">
+       <item>Prywatność</item>
+       <item>Łączność między urządzeniami/Prywatność</item>
+       <item>Prywatność i łączność między urządzeniami, Prywatność</item>
+   </string-array>
+   <string-array name="settings_search_connection_service">
+       <item>Usługi łączności między urządzeniami</item>
+       <item>Łączność między urządzeniami/Usługi łączności między urządzeniami</item>
+       <item>Usługi łączności między urządzeniami</item>
+   </string-array>
+   <string-array name="settings_search_relay_app">
+       <item>Handoff aplikacji</item>
+       <item>Łączność między urządzeniami/Handoff aplikacji</item>
+       <item>Przesyłanie aplikacji, handoff, transfer</item>
+   </string-array>
+   <string-array name="settings_search_relay_call">
+       <item>Połączenia</item>
+       <item>Łączność między urządzeniami/Połączenia</item>
+       <item>Połączenia</item>
+   </string-array>
+   <string-array name="settings_search_relay_network">
+       <item>Asystent sieci</item>
+       <item>Łączność między urządzeniami/Asystent sieci</item>
+       <item>Asystent sieci, tethering, udostępnianie hotspotu</item>
+   </string-array>
+   <string-array name="settings_search_share_Launcher">
+       <item>Pulpit+</item>
+       <item>Łączność między urządzeniami/Pulpit+</item>
+       <item>Pulpit+, Mi Smart Hub, udostępnianie ekranu</item>
+   </string-array>
+   <string-array name="settings_search_share_clipboard">
+       <item>Schowek</item>
+       <item>Łączność między urządzeniami/Schowek</item>
+       <item>Schowek</item>
+   </string-array>
+   <string-array name="settings_search_share_notify">
+       <item>Powiadomienia z wielu urządzeń</item>
+       <item>Łączność między urządzeniami/Powiadomienia</item>
+       <item>Powiadomienia z wielu urządzeń</item>
+   </string-array>
+</resources>
