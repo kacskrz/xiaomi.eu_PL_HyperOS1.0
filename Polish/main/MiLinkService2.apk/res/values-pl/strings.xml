@@ -371,9 +371,6 @@ testerów wersji Beta MIUI 13."</string>
 Zaloguj się na swoje konto Xiaomi w Ustawieniach > Xiaomi, aby zsynchronizować uprawnienia."</string>
     <string name="auth_phone_model">Strona nie może być wyświetlona na tym urządzeniu.</string>
     <string name="auth_show_to_test_user">Ta strona jest dostępna tylko dla testerów wersji Beta.</string>
-    <string name="ball_hint_connect_fail">Nie udało się wykonać tej akcji. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
-    <string name="ball_hint_text_loading">Chwileczkę…</string>
-    <string name="ball_hint_text_success">Pomyślnie połączono</string>
     <string name="character_counter_content_description">Przekroczono limit znaków: %1$d z %2$d</string>
     <string name="circulate_audio_group_title">Odtwarzanie…</string>
     <string name="circulate_back_button_content_description">Wstecz</string>
