@@ -54,4 +54,5 @@
     <string name="super_clipboard_alert_dialog_cancel_button">Anuluj</string>
     <string name="super_clipboard_send_file">Wkleić plik ze schowka?</string>
     <string name="super_clipboard_send_image">Wkleić obraz ze schowka?</string>
+    <string name="phrase_network_tip_summary">Aby synchronizować Twoje częste zwroty ze chmurą i używać ich na Twoich urządzeniach, zezwól tej aplikacji na łączenie się z Internetem.</string>
 </resources>

@@ -225,15 +225,16 @@ Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi przepisami i polityk
     <string name="new_trans_intro_desc_5">Niektóre aplikacje (np. bankowe) nie pozwolą na przeniesienie haseł ze względów bezpieczeństwa.</string>
     <string name="new_trans_intro_desc_6">Twoje nowe urządzenie Xiaomi może nie mieć wymaganych uprawnień do dokonania tej czynności.</string>
     <string name="new_trans_intro_desc_7">"Przenoszenie danych może kontynuować przenoszenie w miejscu, w którym je przerwałeś. Istnieje jednak prawdopodobieństwo, że będzie trzeba je rozpocząć od nowa, jeśli problemy z kompatybilnością urządzenia nie pozwolą na wznowienie poprzedniego przenoszenia."</string>
-    <string name="new_trans_intro_desc_new">"1. Upewni się, że Przenoszenie danych na nowym urządzeniu jest aktualne. Możesz pobrać jego najnowszą wersję za pomocą tego linka: %1$s."</string>
+    <string name="new_trans_intro_desc_new">"%1$d. Upewnij się, że Przenoszenie danych na nowym urządzeniu jest aktualne. Możesz pobrać jego najnowszą wersję za pomocą tego linka: %2$s.
+%3$d. Jeśli hotspot wciąż nie pojawia się w Przenoszeniu danych, otwórz ustawienia Wi-Fi i sprawdź, czy znajdzie się on tutaj. Jeśli tak, to wróć do Przenoszenia danych i dotknij jego nazwę."</string>
     <string name="new_trans_intro_desc_old">"2. Jeśli hotspot ciągle nie pojawia się w oknie Przenoszenia danych, otwórz ustawienia sieci Wi-Fi i sprawdź, czy możesz go zobaczyć w tym miejscu. Jeśli tak, wróć do okna Przenoszenia danych i kliknij nazwę hotspotu."</string>
-    <string name="new_trans_intro_question_1">1. Dlaczego nie mogę zobaczyć hotspotu z nowego urządzenia na starym urządzeniu?</string>
-    <string name="new_trans_intro_question_2">2. Jakie jest hasło do hotspotu?</string>
-    <string name="new_trans_intro_question_3">"3. Dlaczego narzędzie informuje o braku miejsca na starym urządzeniu?"</string>
-    <string name="new_trans_intro_question_4">"4. Dlaczego niektóre aplikacje nie przeniosły się?"</string>
-    <string name="new_trans_intro_question_5">"5. Dlaczego hasła z niektórych kont firm trzecich nie przeniosły się?"</string>
-    <string name="new_trans_intro_question_6">"6. Dlaczego dane aplikacji nie mogą być przeniesione z urządzenia firmy trzeciej?"</string>
-    <string name="new_trans_intro_question_7">"7. Jeśli wyjdę z Przenoszenia danych w trakcie przenoszenia, będę musiał je zacząć od nowa?"</string>
+    <string name="new_trans_intro_question_1">%d. Dlaczego nie mogę zobaczyć hotspotu z nowego urządzenia na starym urządzeniu?</string>
+    <string name="new_trans_intro_question_2">%d. Jakie jest hasło do hotspotu?</string>
+    <string name="new_trans_intro_question_3">"%d. Dlaczego narzędzie informuje o braku miejsca na starym urządzeniu?"</string>
+    <string name="new_trans_intro_question_4">"%d. Dlaczego niektóre aplikacje nie przeniosły się?"</string>
+    <string name="new_trans_intro_question_5">"%d. Dlaczego hasła z niektórych kont firm trzecich nie przeniosły się?"</string>
+    <string name="new_trans_intro_question_6">"%d. Dlaczego dane aplikacji nie mogą być przeniesione z urządzenia firmy trzeciej?"</string>
+    <string name="new_trans_intro_question_7">"%d. Jeśli wyjdę z Przenoszenia danych w trakcie przenoszenia, będę musiał je zacząć od nowa?"</string>
     <string name="new_trans_intro_title_new">"Na nowym urządzeniu: "</string>
     <string name="new_trans_intro_title_old">"Na starym urządzeniu: "</string>
     <string name="new_wait_link_first">"1. Otwórz Przenoszenie danych na starym urządzeniu.
@@ -379,7 +380,7 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="trans_send_time_remained">Wysłano: %1$s | Pozostało: %2$s</string>
     <string name="trans_show_qr_code_label">Otwórz Przenoszenie danych na starym urządzeniu</string>
     <string name="trans_sync_transfer_data_list">Wyvierz elementy do przeniesienia na starym urządzeniu</string>
-    <string name="trans_time_format_second">Mniej niż minutę</string>
+    <string name="trans_time_format_second">Mniej niż %d minutę</string>
     <string name="trans_time_spent">Czas: %s</string>
     <string name="transfer_bottom_tip">"Nie będziesz w stanie używać Wi-Fi lub Bluetooth w trakcie przenoszenia. Nie opuszczaj tej strony."</string>
     <string name="transfer_finish_bottom_tip">"Jeśli nie zamierzasz już używać starego urządzenia, możesz wymazać wszystkie dane na nim po potwierdzeniu, że wszystkie najważniejsze elementy zostały pomyślnie przeniesione."</string>
@@ -476,7 +477,7 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="icloud_signin_fail_message">Twoje Apple ID zostało zablokowane ze względów bezpieczeństwa. Przejdź na iforgot.apple.com i postępuj zgodnie z instrukcjami.</string>
     <string name="install_complete_count_down_time">Pomyślnie zainstalowano. Rozpoczynanie przenoszenia (%1$d)</string>
     <string name="new_trans_intro_desc_8">Historia WeChata ze starego urządzenia nadpisze historię z nowego urządzenia w trakcie przenoszenia.</string>
-    <string name="new_trans_intro_question_8">8. Dlaczego moja historia WeChata zniknęła z nowego urządzenia?</string>
+    <string name="new_trans_intro_question_8">%d. Dlaczego moja historia WeChata zniknęła z nowego urządzenia?</string>
     <string name="new_trans_intro_desc_new_click">Pobierz</string>
     <string name="send_verification_code_fail">"Nie udało się wysłać kodu weryfikacyjnego"</string>
     <string name="send_verification_code_fail_tips">"Upewnij się, że jesteś zalogowany na tym koncie na swoim urządzeniu Apple. Inaczej nie będziesz w stanie otrzymać kodu."</string>
@@ -506,7 +507,7 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="host_boot_installation_step_one_title">1. Otwórz Przenoszenie danych na starym urządzeniu</string>
     <string name="host_boot_installation_step_two_title">2. Wybierz stronę, którą widzisz na starym urządzeniu.</string>
     <string name="international_new_trans_intro_desc_8">"Wiadomości tekstowe nie mogą być przeniesione z powodu problemów z kompatybilnością. Aplikacje firm trzecich mogą ograniczyć przenoszenie ich danych ze względów bezpieczeństwa."</string>
-    <string name="international_new_trans_intro_question_8">"8. Dlaczego wiadomości tekstowe i dane części aplikacji nie mogą być przeniesione?"</string>
+    <string name="international_new_trans_intro_question_8">"%d. Dlaczego wiadomości tekstowe i dane części aplikacji nie mogą być przeniesione?"</string>
     <string name="international_scanner_send_dialog_message">"Wiadomości tekstowe oraz dane części aplikacji firm trzecich nie mogą być przeniesione. Nie wyłączaj Wi-Fi, a także nie przełączaj się pomiędzy sieciami w trakcie przenoszenia."</string>
     <string name="scanner_wechat_overwrite_hit">Z powodu ograniczeń aplikacji firm trzecich, historie czatu oraz inne dane aplikacji na nowym urządzeniu zostaną zastąpione przez stare dane po zakończeniu przenoszenia.</string>
     <string name="back">Wstecz</string>
@@ -656,10 +657,10 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="manual_connection_content3">3. Wprowadź to hasło na starym urządzeniu, aby się połączyć.</string>
     <string name="manual_connection_summary2">"Jeśli nie możesz odnaleźć tego hotspotu, odśwież listę dostępnych sieci Wi-Fi i spróbuj ponownie."</string>
     <string name="manual_connection_title">Połącz się ze starym urządzeniem ręcznie</string>
-    <string name="not_support_data_content1">1. Elementy specyficzne dla danego urządzenia</string>
-    <string name="not_support_data_content2">2. Dane wybranych aplikacji</string>
-    <string name="not_support_data_content3">3. Dane Drugiej przestrzeni</string>
-    <string name="not_support_data_content4">4. Sklonowane aplikacje</string>
+    <string name="not_support_data_content1">%d. Elementy specyficzne dla danego urządzenia</string>
+    <string name="not_support_data_content2">%d. Dane wybranych aplikacji</string>
+    <string name="not_support_data_content3">%d. Dane Drugiej przestrzeni</string>
+    <string name="not_support_data_content4">%d. Sklonowane aplikacje</string>
     <string name="not_support_data_link">"Elementy, które nie mogą zostać przeniesione"</string>
     <string name="not_support_data_summary1">"Motywy i tapety mogą być przeniesione tylko na niektórych modelach."</string>
     <string name="not_support_data_summary2">Część aplikacji wprowadza ścisłe zasady bezpieczeństwa, aby zapobiec przenoszeniu danych aplikacji. Mogą to być np. aplikacje bankowe bądź usługi finansowe.</string>
@@ -853,4 +854,18 @@ na swoim iPhonie"</string>
   <string name="cannot_use_mi_huanji_bacause_of_downloader">Aplikacja \"%s\" już dostarcza usługi systemowej kopii zapasowej. Odinstaluj ją i uruchom ponownie urządzenie, aby móc używać Przenoszenia danych.</string>
   <string name="receiver_finish_not_transferred">Nie przesłano</string>
   <string name="receiver_finish_transferred">Przesłano</string>
+  <string name="dialog_request_all_permission_content">"Aby przesyłać dane między starym a nowym urządzeniem, aplikacja musi łączyć się z Internetem i wymaga następujących uprawnień:
+• Dostęp do zdjęć, dźwięków i filmów
+• Dostęp do wiadomości, kontaktów i historii połączeń
+• Dostęp do pamięci
+• Dostęp do listy zainstalowanych aplikacji"</string>
+  <string name="dialog_request_all_permission_title">Wymagane uprawnienia</string>
+  <string name="permission_about_storage_pad">Wymagane uprawnienie dostępu do pamięci</string>
+  <string name="provisiion_set_old_pad_summary">Użyj Przenoszenia danych do zaimportowania danych ze starego urządzenia bez łączenia się z Internetem</string>
+  <string name="provision_cta_title_pad">Przenieś ze starego urządzenia</string>
+  <string name="provision_select_data_one">Wybierz elementy do przeniesienia</string>
+  <string name="provision_set_new_pad">Używaj jako nowe urządzenie</string>
+  <string name="provision_set_old_pad">Importuj ze staregu urządzenia</string>
+  <string name="receiver_video_summary_pad">Odblokuj stare urządzenie, dotknij opcji \"Prześlj\" i zeskanuj ten obraz</string>
+  <string name="receiver_video_title_pad">Przenieś ze starego urządzenia</string>
 </resources>

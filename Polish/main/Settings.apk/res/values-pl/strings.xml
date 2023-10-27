@@ -10779,7 +10779,7 @@ Po usunięciu tych danych będziesz potrzebować kodu PIN, wzoru lub hasła do o
     <string name="profile_section_header_for_advanced_privacy">Profil służbowy</string>
     <string name="search_history_clear_description">Wyczyść historię wyszukiwania</string>
     <string name="search_history_description">Historia wyszukiwania</string>
-    <string name="search_result_feedback_text">"Nie znaleziono rezultatów"</string>
+    <string name="search_result_feedback_text">"Nie możesz znaleźć tego, czego szukasz? Dotknij, aby zgłosić."</string>
     <string name="security_fingerprint_disclaimer_lockscreen_disabled_1">Opcja blokady ekranu jest wyłączona. Aby dowiedzieć się więcej, skontaktuj się z administratorem organizacji.</string>
     <string name="security_fingerprint_disclaimer_lockscreen_disabled_2">Nadal możesz używać odcisku palca do autoryzowania zakupów i korzystania z aplikacji.</string>
     <string name="security_settings_fingerprint_enroll_finish_v2_message">Możesz teraz używać odcisku palca do odblokowywania telefonu oraz weryfikacji tożsamości, na przykład podczas logowania się w aplikacjach</string>
@@ -13510,4 +13510,8 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="valid_net_result_fail">"Nie udało się uzyskać informacji. Odczekaj minutę lub dwie i spróbuj ponownie.."</string>
     <string name="valid_net_result_title">Rezultat</string>
     <string name="wifi_validation">Weryfikowanie sieci…</string>
+    <string name="view_face_privacy_policy"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/>Stanowisko dot. prywatności funkcji \"Dane twarzy i blokada ekranu\"&lt;/a>.</Data></string>
+    <string name="view_fingerprint_privacy_policy"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>Stanowisko dot. prywatności funkcji \"Odciski palca i blokada ekranu\"&lt;/a>.</Data></string>
+    <string name="face_data_siggesstion_next_cn">Zgadzam się</string>
+    <string name="face_data_siggesstion_next_time_cn">Zgadzam się (%d s)</string>
 </resources>

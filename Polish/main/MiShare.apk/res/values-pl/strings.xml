@@ -172,7 +172,7 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="device_status_waiting">Oczekiwanie…</string>
   <string name="purpose_v12">Witaj w Mi Share! Możesz użyć tej aplikacji do transferu plików pomiędzy urządzeniami.</string>
   <string name="user_instructions">Uwaga</string>
-  <string name="error_send_transfer_pc_error">Przekroczono czas żądania przenoszenia. Zaktualizuj aplikację do udostępniania plików na swoim komputerze i spróbuj ponownie.</string>
+  <string name="error_send_transfer_pc_error">Przekroczono czas żądania przenoszenia. Zaktualizuj Xiaomi PC Manager i spróbuj ponownie.</string>
   <string name="guide_summary_1">Inna osoba może dotknąć przełącznika w Panelu powiadomień</string>
   <string name="guide_summary_2">"Wybierz urządzenie, do którego chcesz wysłać pliki, i dotknij jego ikonę"</string>
   <string name="guide_title_1">Włącz Mi Share na obu urządzeniach</string>
@@ -253,4 +253,7 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="toast_transfering">Przesyłanie elementów. Spróbuj ponownie później.</string>
   <string name="transfer_to_phone_summary_new">Włącz Mi Share w Centrum funkcji, aby móc łatwo wysyłać i odbierać elementy. Po włączeniu tej funkcji możesz udostępniać elementy urządzeniom w pobliżu przez %d minut. Po tym czasie funkcja się wyłączy.</string>
   <string name="transfer_to_summary_new">Włącz Mi Share w Centrum funkcji, aby móc łatwo wysyłać i odbierać elementy. Po włączeniu tej funkcji możesz udostępniać elementy urządzeniom w pobliżu przez %d minut. Po tym czasie funkcja się wyłączy.</string>
+  <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Nie udało się połączyć z komputerem. Upewnij się, że na obu urządzeniach włączono Wi-Fi oraz Bluetooth, a na komputerze działa Xiaomi PC Manager."</string>
+  <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Nie udało się połączyć z komputerem. Upewnij się, że na obu urządzeniach włączono Wi-Fi oraz Bluetooth, a na komputerze działa Xiaomi PC Manager."</string>
+  <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager wspiera teraz Mi Share! Listę wspieranych komputerów znajdziesz &lt;a href=%1$s>tutaj&lt;/a>.</Data></string>
 </resources>

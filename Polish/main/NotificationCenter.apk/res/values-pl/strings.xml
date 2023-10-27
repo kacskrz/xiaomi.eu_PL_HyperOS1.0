@@ -209,4 +209,5 @@ Zgłoś ten problem >"</string>
     <string name="float_notification_snooze_summary_1_min">Przesuń pływające powiadomienie w górę, aby ukryć kolejne powiadomienia na %d</string>
     <string name="float_notification_snooze_summary_always_float">Zawsze pokazuj pływające powiadomienia</string>
     <string name="float_notification_snooze_summary_until_unlock">Przesuń pływające powiadomienie w górę, aby ukryć kolejne powiadomienia, dopóki urządzenie nie zostanie zablokowane</string>
+    <string name="notification_style_miui">Klasyczny</string>
 </resources>

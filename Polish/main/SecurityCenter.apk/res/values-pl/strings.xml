@@ -3960,8 +3960,8 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
   <string name="privacy_dialog_content_part3"><Data>"Przeczytaj i zaakceptuj warunki &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> przed skorzystaniem z Panelu sterowania. Jeśli nie zgodzisz się na użycie wspomnianych usług, nie będzie można korzystać z niektórych funkcji aplikacji. Jej podstawowa funkcjonalność nadal będzie dostępna."</Data></string>
   <string name="privacy_dialog_revoking">Wycofywanie zgody…</string>
   <string name="privacy_dialog_title">Warunki użytkowania</string>
-  <string name="HIPS_Perm_Access_Gallery">Dostęp do Galerii</string>
-  <string name="HIPS_Perm_Access_Gallery_Desc">Zezwól aplikacji na dostęp do elementów w Galerii</string>
+  <string name="HIPS_Perm_Access_Gallery">Dostęp do zdjęć i filmów z aparatu</string>
+  <string name="HIPS_Perm_Access_Gallery_Desc">Zezwól aplikacji na dostęp do zdjęć i filmów wykonanych w systemowej aplikacji Aparatu</string>
   <string name="HIPS_Perm_tencentControl">Dostęp do wiadomości w aplikacjach społecznościowych</string>
   <string name="HIPS_Perm_tencentControl_Desc">Zezwól aplikacji na dostep do obrazków i plików z WeChata i QQ</string>
   <string name="HIPS_Perm_External_Storage">Dostęp i zapis plików w pamięci</string>
@@ -5601,8 +5601,8 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="screen_share_protection_warning_icon_title">Ochrona przed oszustwami</string>
     <string name="screen_share_protection_warning_positive_button">Udostępnij</string>
     <string name="screen_share_warning_button">Rozumiem</string>
-    <string name="screen_share_warning_summary">"Twoje powiadomienia nie będą wyświetlane na zewnętrznym ekranie."</string>
-    <string name="screen_share_warning_title">"Powiadomienia nie są wyświetlane"</string>
+    <string name="screen_share_warning_summary">"Zawartość ekranu jest teraz nagrywana lub przesyłana w ramach projekcji. Powiadomienia będą ukryte podczas tego procesu"</string>
+    <string name="screen_share_warning_title">"%s ma dostęp do zawartości ekranu"</string>
     <string name="system_anti_fraud_stayaway_from_risk">Unikaj cyfrowych oszustw</string>
     <string name="beauty_fc_assistant_summary_common">Używaj dodatkowych funkcji za pomocą przedniego aparatu</string>
     <string name="beauty_fc_auto_brightness">Automatycznie dostosowuj jasność światła wypełniającego</string>
@@ -6135,11 +6135,11 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="connected_devices_screen_title">"Zezwolić powyższemu urządzeniu na wyświetlanie zawartości ekranu tego urządzenia i interakcję z nią?"</string>
     <string name="connected_interconnection">Łączność między urządzeniami</string>
     <string name="gb_super_finger_up">Szybka reakcja na dotyk</string>
-    <string name="gb_super_finger_up_msg">Zwiększ wrażliwość na dotyk na poziomie systemu</string>
+    <string name="gb_super_finger_up_msg">Przyspiesz reakcję na dotyk na poziomie sprzętu</string>
     <string name="gb_super_follow_up">Śledzenie gestów</string>
     <string name="gb_super_follow_up_msg">Lepsza odpowiedź przez cały czas trwania gestu</string>
-    <string name="gb_super_motion">Kontrola SMotion</string>
-    <string name="gb_super_shake">Ulepszone mniejsze gesty</string>
+    <string name="gb_super_motion">Kontrole ruchu</string>
+    <string name="gb_super_shake">Algorym stabilizacji</string>
     <string name="gb_super_shake_msg">Zwiększ responsywność mniejszych gestów specjalnym algorytmem</string>
     <string name="gd_dock_shortcut_fullscreen">Pełny ekran</string>
     <string name="gd_dock_shortcut_splitescreen">Dzielenie ekranu</string>
@@ -6329,4 +6329,23 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="wakepath_delete_app_start_all">"Jeśli przejdziesz dalej, konieczne będzie ponowne przyznanie uprawnienia %s to otwierania innych aplikacji. Kontynuować?"</string>
     <string name="wakepath_delete_app_start_other_app">"Jeśli przejdziesz dalej, konieczne będzie ponowne przyznanie uprawnienia %1$s do otwierania %2$s. Kontynuować?"</string>
     <string name="wakepath_manager_title">Zarządzaj uruchamianiem łańcuchowym</string>
+    <string name="battery_and_property_important_notify">Ważne powiadomienia dot. baterii</string>
+    <string name="battery_and_property_ordinary_notify">Regularne powiadomienia dot. baterii</string>
+    <string name="blur_double_space">Druga przestrzeń</string>
+    <string name="conversation_summary_new">Upiększanie, napisy i inne funkcje w trakcie rozmów i wideokonferencji</string>
+    <string name="pc_night_charge_protect_summary">Automatycznie dostosuj czas ładowania, aby przedłużyć żywotność baterii</string>
+    <string name="pc_night_charge_protect_title">Ochrona przed ładowaniem w nocy</string>
+    <string name="permgroupdesc_installapplist">Dostęp do listy zainstalowanych aplikacji</string>
+    <string name="permgroupdesc_readmediafile">Dostęp do zdjęć, filmów lub dźwięków przechowywanych na urządzeniu</string>
+    <string name="permission_legacy_storage">Dostęp do zdjęć, filmów, dźwięków i plików</string>
+    <string name="permission_usage_allow_storage_once">%1$s｜Zezwolono na dostęp do zdjęć, filmów, dźwięków i plików</string>
+    <string name="permission_usage_deny_storage_once">"%1$s｜Nie zezwolono na dostęp do zdjęć, filmów, dźwięków i plików"</string>
+    <string name="permission_usage_projection_screen_once">%1$s｜Uzyskiwano dostęp lub nagrywano zawartość ekranu</string>
+    <string name="permission_usage_projection_screen_use">Dostęp lub nagrywanie zawartości ekranu</string>
+    <string name="power_dailog_night_charge_protection_summary_new">"Wygląda na to, że często ładujesz baterię do pełna, co może przyspieszyć jej starzenie. Włączono Ochronę przed ładowaniem w nocy, aby automatycznie dostosować czas ładowania i zachować żywotność baterii."</string>
+    <string name="power_wireless_update_checking">Sprawdzanie aktualizacji…</string>
+    <string name="power_wireless_update_driver_note">"Możesz automatycznie sprawdzać dostępność aktualizacji oprogramowania i instalować nowe aktualizacje po ich wydaniu. Nie wyłączaj urządzenia w trakcie tych czynności."</string>
+    <string name="power_wireless_update_error">"Nie udało się zaktualizować. Spróbuj ponownie."</string>
+    <string name="power_wireless_update_in_progress">Aktualizowanie oprogramowania…</string>
+    <string name="screen_share_warning_positive_button">Zatrzymaj</string>
 </resources>

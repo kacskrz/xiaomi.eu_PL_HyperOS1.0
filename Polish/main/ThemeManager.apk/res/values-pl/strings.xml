@@ -1631,7 +1631,7 @@ Dotknij, aby go wyłączyć."</string>
     <string name="local_notification_font_trial_title">Sprawdź nowe czcionki</string>
     <string name="local_notification_update_theme_title">Zaktualizuj swoje motywy</string>
     <string name="lock_screen_keyguard_guide_popup">Sprawdź nowe, spersonalizowane funkcje i wygląd Ekranu blokady</string>
-    <string name="lock_screen_keyguard_tip_title">Zupełnie nowy Ekran blokady</string>
+    <string name="lock_screen_keyguard_tip_title">Zupełnie nowy, spersonalizowany Ekran blokady</string>
     <string name="lockscreen_tip_content">Przytrzymaj Ekran blokady, aby zacząć edycję. Spraw, aby był Twój dzięki nowym opcjom i szablonom personalizacji.</string>
     <string name="miui_magazine_c_clock_style2_date">EEEE d.M</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, d MMM</string>
@@ -1662,4 +1662,22 @@ Dotknij, aby go wyłączyć."</string>
     <string name="wind_direction_7">Wiatr płn.-zach.</string>
     <string name="wind_direction_7_f">Wiatr płn.-zach.</string>
     <string name="wind_format">%1$s | Poziom %2$s</string>
+    <string name="aqi_format_desc">Indeks jakości powietrza: %s</string>
+    <string name="format_day_desc">Dzień miesiąca: %s</string>
+    <string name="format_day_week_desc">Dzień miesiąca: %1$s, %2$s</string>
+    <string name="format_lunar_calendar_month_day_desc">Dzień w kalendarzu chińskim: %s</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, dzień w kalendarzu chińskim: %3$s, święto: %4$s</string>
+    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, dzień w kalendarzu chińskim: %4$s</string>
+    <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, święto: %4$s</string>
+    <string name="format_solar_lunar_calendar_month_day_desc">Święto: %1$s, dzień w kalendarzu chińskim: %2$s</string>
+    <string name="format_week_day_style1_desc">%1$s, dzień miesiąca: %2$s</string>
+    <string name="health_no_data">Brak danych o zdrowiu</string>
+    <string name="health_sleep_desc">Czas snu %1$s, jakość snu: %2$s</string>
+    <string name="kg_color_value_editor_title">Edytuj kolor</string>
+    <string name="rain_probability_desc">Prawdopodobieństwo opadu: %s</string>
+    <string name="sunrise_time_format_desc">Wschód słońca: %s</string>
+    <string name="sunrise_time_format_tomorrow_desc">"Jutro wschód słońca o: %s"</string>
+    <string name="sunset_time_format_desc">Zachód słońca: %s</string>
+    <string name="uvi_format_desc">Indeks ultrafioletowy: %1$s, %2$s</string>
+    <string name="weather_no_data">Brak danych o pogodzie</string>
 </resources>

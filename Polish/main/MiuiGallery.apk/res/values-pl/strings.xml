@@ -3717,4 +3717,5 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="segment_send">Wyślij</string>
   <string name="segment_send_processing">Przygotowywanie do wysłania…</string>
   <string name="text_segment">Wycinek zdjęcia</string>
+  <string name="added_to_clipboard_description">"Ten film nie został pobrany na to urządzenie. Czy chcesz go pobrać i skopiować do schowka?"</string>
 </resources>

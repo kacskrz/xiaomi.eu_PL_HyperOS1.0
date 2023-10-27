@@ -122,4 +122,50 @@ Dłuższe animacje zostaną w tym momencie zatrzymane."</item>
         <item quantity="few">%1$s/%2$s kroki</item>
         <item quantity="one">%1$s/%2$s krok</item>
     </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Ciśnienie: %s hektopaskali</item>
+        <item quantity="few">Ciśnienie: %s hektopaskale</item>
+        <item quantity="one">Ciśnienie: %s hektopaskal</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Spalono %1$s kalorii</item>
+        <item quantity="few">Spalono %1$s kalorie</item>
+        <item quantity="one">Spalono %1$s kalorię</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Cel: %1$s kalorii</item>
+        <item quantity="few">Cel: %1$s kalorie</item>
+        <item quantity="one">Cel: %1$s kaloria</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Czas aktywności: %1$s min</item>
+        <item quantity="one">Czas aktywności: %1$s min</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Cel dot. aktywności: %1$s min</item>
+        <item quantity="one">Cel dot. aktywności: %1$s min</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Stano w ciągu %1$s godz.</item>
+        <item quantity="one">Stałeś w ciągu %1$s godz.</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Cel dot. stania: %1$s godz.</item>
+        <item quantity="one">Cel dot. stania: %1$s godz.</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Przebyto do teraz: %1$s kroków</item>
+        <item quantity="few">Przebyto do teraz: %1$s kroki</item>
+        <item quantity="one">Przebyto do teraz: %1$s krok</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Cel: %1$s kroków</item>
+        <item quantity="few">Cel: %1$s kroki</item>
+        <item quantity="one">Cel: %1$s krok</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Temperatura: %1$s stopni, %2$s</item>
+        <item quantity="few">Temperatura: %1$s stopnie, %2$s</item>
+        <item quantity="one">Temperatura: %1$s stopień, %2$s</item>
+    </plurals>
 </resources>

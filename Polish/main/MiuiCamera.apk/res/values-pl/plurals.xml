@@ -196,4 +196,9 @@
         <item quantity="other">Licznik %d sekund dla Trybu nocnego</item>
         <item quantity="one">Licznik %d sekunda dla Trybu nocnego</item>
     </plurals>
+    <plurals name="manual_picture_style_desc_custom_add_max">
+        <item quantity="one">Dodaj maks. %d konfigurację</item>
+        <item quantity="few">Dodaj maks. %d konfiguracje</item>
+        <item quantity="other">Dodaj maks. %d konfiguracji</item>
+    </plurals>
 </resources>

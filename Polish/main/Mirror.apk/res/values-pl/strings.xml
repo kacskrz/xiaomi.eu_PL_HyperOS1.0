@@ -406,7 +406,7 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="pad_pc_message_introduction_title">Wspólny schowek</string>
     <string name="pad_pc_mirror_introduction_summary">Wyświetlaj zawartość ekranu komputera na tablecie</string>
     <string name="pad_pc_mirror_introduction_title">Klonuj ekran</string>
-    <string name="pad_settings_click_toast_msg">Połącz za pomocą Mi Smart Hub na swoim komputerze</string>
+    <string name="pad_settings_click_toast_msg">Połącz za pomocą Xiaomi PC Manager na swoim komputerze</string>
     <string name="pad_settings_current_device_tip">Automatycznie łącz się z innymi tabletami powiązanymi z Twoim kontem Xiaomi</string>
     <string name="pc_account_connect_cta_again">Połącz się ponownie na swoim komputerze</string>
     <string name="pc_cooperate_duplicate_title">Pulpit komputera</string>
@@ -541,8 +541,9 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="accessibility_keyboard_symbol_board_shift2letter_button">Litery</string>
     <string name="app_not_support_subscreen">"Nie można zmaksymalizować tego okna"</string>
     <string name="cancel_button">Anuluj</string>
-    <string name="circulate_cta_all_purpose">Pulpit+ to część usług Mi Smart Hub. Umożliwia Ci on widok i interakcję z ekranami głównymi innych połączonych urządzeń. Aby móc działać normalnie, usługa musi łączyć się z Internetem i potrzebuje następujących uprawnień:</string>
-    <string name="circulate_cta_desc_phone_miui15_14">Witaj w Mi Smart Hub! Możesz użyć tej aplikacji do projekcji ekranu, przekazywania postępu odtwarzania multimediów między urządzeniami, używania Mi Smart Play, funkcji łączności między urządzeniami oraz opcji handoff. Aby móc działać normalnie, aplikacja musi łączyć się z Internetem i potrzebuje następujących uprawnień:</string>
+    <string name="circulate_cta_all_purpose">Pulpit+ to część Usług łączności między urządzeniami Xiaomi. Pozwala on na wyświetlanie pulpitów innych połączonych urządzeń i interakcję z nimi. Aby działać normalnie, usługa musi łączyć się z Internetem i wymaga następujących uprawnień:</string>
+    <string name="circulate_cta_app_name">Łączność między urządzeniami Xiaomi</string>
+    <string name="circulate_cta_desc_phone_miui15_14">Witaj w Łączności między urządzeniami Xiaomi! Możesz użyć tej aplikacji do projekcji ekranu, przekazywania postępu odtwarzania multimediów między urządzeniami, używania Mi Smart Play, funkcji łączności między urządzeniami oraz opcji handoff. Aby móc działać normalnie, aplikacja musi łączyć się z Internetem i potrzebuje następujących uprawnień:</string>
     <string name="circulate_cta_new_app_name">Pulpit+</string>
     <string name="circulate_cta_premission_bluetooth">W celu łączenia urządzeń i przekazywania danych między nimi przez Bluetooth</string>
     <string name="circulate_cta_premission_microphone">W celu przesyłania dźwięku do innych urządzeń w trakcie projekcji i klonowania ekranu</string>
@@ -551,7 +552,7 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="exit_mirror_desktop">Pulpit+</string>
     <string name="exit_mirror_desktop_description">Wyłączyć Pulpit+?</string>
     <string name="exit_mirror_desktop_ok">Wyłącz</string>
-    <string name="handoff_cta_all_purpose">Witaj w Mi Smart Hub! Ta usługa umożliwia rozpoczęcie zadań na jednym urządzeniu i kontynuowanie ich na innych urządzeniach w tej samej aplikacji. Aby móc działać normalnie, usługa musi łączyć się z Internetem.</string>
+    <string name="handoff_cta_all_purpose">Witaj w Usługach łączności między urządzeniami Xiaomi! Pozwalają one na rozpoczęcie zadań na jednym urządzeniu i kontynuowanie ich na innych urządzeniach w tej samej aplikacji. Aby móc działać normalnie, te usługi muszą łączyć się z Internetem.</string>
     <string name="handoff_switch_is_closed">Handoff aplikacji jest wyłączony</string>
     <string name="hint_password">Wprowadź hasło</string>
     <string name="hint_password_error">Nieprawidłowe hasło</string>
@@ -596,7 +597,7 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="miui15_invisible_mode_dialog_message">"Nie można używać usług łączności między urządzeniami, gdy jesteś incognito. Najpierw wyłącz Tryb incognito."</string>
     <string name="miui15_low_version_dialog_message">Zaktualizuj oprogramowanie na komputerze lub pobierz jego najnowszą wersję ze strony plus.miui.com.</string>
     <string name="miui15_low_version_dialog_title">Zaktualizuj usługi łączności między urządzeniami</string>
-    <string name="miui15_nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Nie udało się połączyć z komputerem. Upewnij się, że włączono Wi-Fi i Bluetooth zarówno na urządzeniu mobilnym, jak i komputerze, a także że na komputerze jest uruchomiony Mi Smart Hub."</string>
+    <string name="miui15_nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Nie udało się połączyć z komputerem. Upewnij się, że włączono Wi-Fi i Bluetooth zarówno na urządzeniu mobilnym, jak i komputerze, a także że na komputerze jest uruchomiony Xiaomi PC Manager."</string>
     <string name="miui15_privacy_all_purpose">Usługi łączności między urządzeniami umożliwiają łączenie telefonu z komputerem i złączenie dwóch urządzeń w jedną stację roboczą.</string>
     <string name="miui15_privacy_pad_all_purpose">Usługi łączności między urządzeniami umożliwiają złączenie Twoich urządzeń mobilnych w jedną stację roboczą, co sprawia, że możesz używać aplikacji z telefonu na tablecie, odbierać połączenia na innym urządzeniu, używać współdzielonego schowka, przekazywać elementy i dokonywać projekcji zawartości ekranu.</string>
     <string name="miui15_scanner_lower_version_toast">Zaktualizuj oprogramowanie na komputerze, aby się połączyć</string>
@@ -630,4 +631,5 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="share_to_settings_title">Włącz usługi łączności między urządzeniami</string>
     <string name="switch_wlan_tips_desc_pad_china">Możesz połączyć się z tą samą siecią Wi-Fi co inne urządzenie, aby funkcja działała lepiej. Czy chcesz to zrobić?</string>
     <string name="to_settings">Ustawienia</string>
+    <string name="miui15_cta_app_name">Łączność między urządzeniami Xiaomi</string>
 </resources>

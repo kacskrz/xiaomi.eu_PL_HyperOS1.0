@@ -1594,4 +1594,16 @@ Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkow
         <item quantity="few">%s aplikacje</item>
         <item quantity="one">%s aplikacja</item>
     </plurals>
+    <plurals name="permission_usage_allow_storage">
+        <item quantity="other">%1$s｜Aplikacja miała dostęp do zdjęć, filmów, dźwięków i plików %2$d razy</item>
+        <item quantity="one">%1$s｜Aplikacja miała dostęp do zdjęć, filmów, dźwięków i plików %2$d raz</item>
+    </plurals>
+    <plurals name="permission_usage_deny_storage">
+        <item quantity="other">"%1$s｜Nie zezwolono na dostęp do zdjęć, filmów, dźwięków i plików %2$d razy"</item>
+        <item quantity="one">"%1$s｜Nie zezwolono na dostęp do zdjęć, filmów, dźwięków i plików %2$d raz"</item>
+    </plurals>
+    <plurals name="permission_usage_projection_screen">
+        <item quantity="other">%1$s｜Uzyskiwano dostęp lub nagrywano zawartość ekranu %2$d razy</item>
+        <item quantity="one">%1$s｜Uzyskiwano dostęp lub nagrywano zawartość ekranu %2$d raz</item>
+    </plurals>
 </resources>

@@ -143,7 +143,7 @@ Później będziesz mógł zainstalować inne klawiatury z Google Play."</string
   <string name="permission_read_call_records">Edytowanie historii połączeń</string>
   <string name="permission_read_call_records_introduction">W celu dodawania elementów do historii połączeń i usuwania zablokowanych połączeń</string>
   <string name="permission_read_note_introduction">W celu dostępu do notatek oraz załączników</string>
-  <string name="permission_read_write_file">Odczyt i zapis zdjęć i plików na urządzeniu</string>
+  <string name="permission_read_write_file">Odczyt i zapis zdjęć, filmów, dźwięków i plików na urządzeniu</string>
   <string name="permission_read_write_file_introduction">W celu dostępu do zdjęć i plików na urządzeniu oraz ich zapisywania</string>
   <string name="permission_recorder_file_introduction">W celu dostępu do nagrań audio oraz ich zapisu</string>
   <string name="permission_recording">Nagrywanie połączeń i dźwięku:</string>
@@ -287,7 +287,7 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="other_settings_ad_dialog_disagree">Wyłącz</string>
   <string name="boot_video_replay">Odtwórz ponownie</string>
   <string name="boot_video_skip">Pomiń</string>
-  <string name="service_security_over_r"><Data>Przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności&lt;/a >.&lt;br/>&lt;br/>Zgodnie z wymaganiami Androida %2$d, jednorazowe uprawnienie zostanie wycofane w ciągu określonego czasu (ok. %3$s) po wyłączeniu odpowiedniej aplikacji. Jeśli otworzysz aplikację w ciągu tego czasu, wtedy uprawnienie zostanie wycofane.</Data></string>
+  <string name="service_security_over_r"><Data>Przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności&lt;/a ></Data></string>
   <string name="item_lock_screen_password_only">Blokada ekranu</string>
   <string name="msim_setting_default_data">Karta SIM do danych</string>
   <string name="msim_setting_default_voice">Domyślna karta SIM do połączeń</string>
@@ -469,7 +469,7 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
     <string name="sim_card_detection_sb_esim">Aktywuj eSIM</string>
     <string name="sim_card_detection_sb_nonactivated">Nie aktywowano</string>
     <string name="multisim_settings_sb_title">Wykryto %d kartę SIM</string>
-    <string name="check_box_label"><Data>""Włączając tę funkcję, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności Mi Smart Hub&lt;/a >."</Data></string>
+    <string name="check_box_label"><Data>""Włączając tę funkcję, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności&lt;/a >."</Data></string>
     <string name="interconnection_service_summary">"Usługi łączności Xiaomi umożliwiają bezprzewodową interakcję Twoich urządzeń z innymi. Obejmują one Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share i przesyłanie ekranu.
 Aby mogły one działać normalnie, muszą się łączyć z Internetem i wymagają następujących uprawnień:
 \u0009\u0009Mi Smart Hub:
@@ -520,28 +520,11 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
     <string name="font_settings_title">Ustawienia czcionki</string>
     <string name="font_use_case_text_example">Treść</string>
     <string name="font_use_case_title_example">Tytuł</string>
-    <string name="framework_introduction">Framework usług Xiaomi umożliwia Ci używanie konta Xiaomi.</string>
-    <string name="framwork_base_service">Aby dostarczać Ci tę usługę, framework usług Xiaomi musi połączyć się z Internetem, uzyskać Twoją lokalizację, numer telefonu, IMEI i IMSI oraz zezwolić urządzeniu na otrzymywanie powiadomień push.</string>
-   <string name="interconnection_service_summary_china">"Usługi łączności między urządzeniami Xiaomi pozwalają na bezprzewodową interakcję urządzeń. Możesz ich użyć do kontrolowania urządzeń, przesyłania postępu odtwarzania dźwięków i filmów, łączenia funkcji urządzeń lub rozpoczynania zadań na jednym urządzeniu i kontynuowania ich w tej samej aplikacji na innych urządzeniach. Aplikacja musi łączyć się z Internetem i wymaga następujących uprawnień: 
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Włączanie i wyłączanie Wi-Fi
-\u0009\u0009W celu przesyłania treści przez Wi-Fi
-\u0009\u0009Nagrywanie dźwięku
-\u0009\u0009W celu przesyłania i odtwarzania dźwięku między urządzeniami w trakcie projekcji i klonowania ekranu
-\u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
-\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
-\u0009\u0009Mi Share:
-\u0009\u0009Dostęp do zdjęć i plików przechowywanych na urządzeniu
-\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
-\u0009\u0009Dostęp do lokalizacji
-\u0009\u0009W celu przesyłania plików przez Bluetooth lub Wi-Fi
-\u0009\u0009Włączanie lub wyłączanie Bluetooth
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu do łączenia się z nimi przez Bluetooth
-\u0009\u0009Włączanie i wyłączanie Wi-Fi
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania elementów przez Wi-Fi
-\u0009\u0009Łączenie z urządzeniami w pobliżu
-\u0009\u0009W celu odnajdywania i łączenia się z urządzeniami w pobliżu
-\u0009\u0009Przesyłanie postępu odtwarzania (Mi Smart Play, projekcja):
+    <string name="framework_introduction">Framework usług Xiaomi to podstawowa usługa systemowa, która dostarcza powiadomienia push, ochronę przed zagrożeniami, statystyki i możliwości analityki. Aby dostarczać te usługi, Xiaomi musi gromadzić i przetwarzać odpowiednie dane osobowe. W trakcie wykonywaia tych czynności Xiaomi będzie działać zgodnie z odpowiednimi przepisami i regulacjami.</string>
+    <string name="framwork_base_service">"Aby dostarczać powiadomienia push, konieczne jest gromadzenie identyfikatorów urządzenia (OAID i zaszyfrowany ID Androida), informacji o aplikacjach używających usługi push (np. nazwy pakietu aplikacji, wersji i statusu uruchomienia), producenta urządzenia, jego modelu, pamięci, wersji systemu, regionu, nazwy operatora karty SIM, obecnego typu sieci i stanu sieci Wi-Fi. Możesz zmienić sposób otrzymywania powiadomień push w Ustawieniach; będziemy dostarczać je na podstawie Twoich preferencji, zatem gromadzić będziemy również te preferencje (np. w kwestii blokowania powiadomień czy ich pojawiania się na Ekranie blokady).
+  W celu ochrony przed zagrożeniami, statystyk i przetwarzania analitycznego, potrzebne jest uprawnienie dostępu do sieci oraz dostęp do lokalizacji, IMEI/IMSI urządzenia, identyfikatorów urządzenia (OAID, adresu MAC, zaszyfrowanego ID Androida), producenta urządzenia, jego modelu, pamięci, wersji systemu, regionu i obecnej sieci Wi-Fi. Powyższe dane będą gromadzone raz dziennie przez cały czas korzystania z urządzenia."</string>
+   <string name="interconnection_service_summary_china">"Usługi łączności między urządzeniami Xiaomi pozwalają na bezprzewodową interakcję urządzeń. Są to Mi Smart Play, projekcja, handoff aplikacji, Pulpit+, współdzielony schowek, robienie zdjęć między urządzeniami, asystent sieci, udostępniane klawiatury i mikrofony, udostępniany aparat oraz Mi Smart Hub. Usługi łączności między urządzeniami Xiaomi muszą łączyć się z Internetem i wymagają następujących uprawnień:
+\u0009\u0009Mi Smart Play i projekcja:
 \u0009\u0009Włączanie lub wyłączanie Bluetooth
 \u0009\u0009W celu odnajdywania urządzeń w pobliżu do łączenia się z nimi przez Bluetooth
 \u0009\u0009Włączanie i wyłączanie Wi-Fi
@@ -557,51 +540,51 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
 \u0009\u0009Dostęp do adresu MAC
 \u0009\u0009W celu rozpoznawania połączonych urządzeń
 \u0009\u0009Dostęp do zawartości ekranu
-\u0009\u0009W celu uzyskiwania zawartości ekranu w trakcie nagrywania lub projekcji, w tym wrażliwych danych takich jak dźwięk, hasła, zdjęcia itd.
-\u0009\u0009Handoff aplikacji (zadania wykonywane na różnych urządzeniach, Pulpit+):
+\u0009\u0009W celu uzyskiwania zawartości ekranu w trakcie nagrywania lub projekcji, w tym wrażliwych danych takich jak dźwięk, hasła, zdjęcia, wiadomości itd.
+\u0009\u0009Handoff aplikacji i Pulpit+:
 \u0009\u0009Włączanie lub wyłączanie Bluetooth
 \u0009\u0009W celu odnajdywania urządzeń w pobliżu przez Bluetooth
 \u0009\u0009Włączanie i wyłączanie Wi-Fi
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu do projekcji przez Wi-Fi
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania elementów przez Wi-Fi
 \u0009\u0009Dostęp do adresu MAC
 \u0009\u0009W celu rozpoznawania połączonych urządzeń
 \u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
 \u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
 \u0009\u0009Przesyłanie elementów do innych urządzeń
-\u0009\u0009W celu ustanowienia połączenia Bluetooth między urządzeniami i przesyłania zawartości
+\u0009\u0009W celu ustanowienia połączenia Bluetooth między urządzeniami i przesyłania elementów
 \u0009\u0009Nagrywanie wewnętrznego dźwięku urządzenia
 \u0009\u0009W celu przesyłania i odtwarzania dźwięku między urządzeniami w trakcie projekcji i klonowania ekranu
 \u0009\u0009Dostęp do zawartości ekranu
-\u0009\u0009W celu uzyskiwania zawartości ekranu w trakcie nagrywania lub projekcji, w tym wrażliwych danych takich jak dźwięk, hasła, zdjęcia itd.
-\u0009\u0009Operacje na plikach (współdzielony schowek, używanie aparatu w Notatkach):
+\u0009\u0009W celu uzyskiwania zawartości ekranu w trakcie nagrywania lub projekcji, w tym wrażliwych danych takich jak dźwięk, hasła, zdjęcia, wiadomości itd.
+\u0009\u0009Współdzielony schowek i robienie zdjęć między urządzeniami:
 \u0009\u0009Włączanie lub wyłączanie Bluetooth
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu do łączenia się z nimi przez Bluetooth
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu przez Bluetooth
 \u0009\u0009Włączanie i wyłączanie Wi-Fi
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu do projekcji przez Wi-Fi
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania elementów przez Wi-Fi
 \u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
 \u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
 \u0009\u0009Dostęp do schowka
 \u0009\u0009W celu umożliwienia aplikacjom dostępu do skopiowanej zawartości
-\u0009\u0009Łączenie urządzeń (zwiększanie prędkości sieci, korzystanie z klawiatur, mikrofonów i aparatów):
+\u0009\u0009Asystent sieci, współdzielone klawiatury i mikrofony, współdzielony aparat:
 \u0009\u0009Włączanie lub wyłączanie Bluetooth
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu do łączenia się z nimi przez Bluetooth
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu przez Bluetooth
 \u0009\u0009Włączanie i wyłączanie Wi-Fi
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu do projekcji przez Wi-Fi
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania danych przez Wi-Fi
 \u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
 \u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
 \u0009\u0009Dostęp do aparatu
 \u0009\u0009W celu robienia zdjęć i filmów
-\u0009\u0009Kontrolowanie urządzeń:
-\u0009\u0009Włączanie i wyłączanie Bluetooth
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu do łączenia się z nimi przez Bluetooth
-\u0009\u0009Włączanie i wyłączanie Wi-Fi
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu do projekcji przez Wi-Fi
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Włączanie lub wyłączanie Bluetooth
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu przez Bluetooth
+\u0009\u0009Włączanie lub wyłączanie Wi-Fi
+\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania elementów przez Wi-Fi
 \u0009\u0009Nagrywanie wewnętrznego dźwięku urządzenia
 \u0009\u0009W celu przesyłania i odtwarzania dźwięku między urządzeniami w trakcie projekcji i klonowania ekranu
 \u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
 \u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
-Jeśli nie zgodzisz się na przyznanie tych uprawnień, nie będzie można używać tej usługi.
-Dostępne usługi łączności między urządzeniami mogą się różnić w zależności od wersji systemu i modelu urządzenia. Więcej informacji znajdziesz na stronie wwww.miui.com."</string>
+Jeśli nie zgodzisz się na przyznanie tych uprawnień, nie będzie można używać tych usług.
+Dostępne usługi łączności między urządzeniami mogą się różnić w zależności od wersji systemu i modelu urządzenia. Więcej informacji znajdziesz na stronie %s."</string>
     <string name="permission_uniquely_identifiable_information">Dostęp do unikalnych identyfikatorów urządzenia</string>
     <string name="permission_uniquely_identifiable_information_summary">Dostęp do adresu MAC i OAID urządzenia w celu odnajdywania, łączenia i komunikowania się z innymi urządzeniami</string>
     <string name="permission_use_bluetooth">Używanie Bluetooth</string>
@@ -610,4 +593,31 @@ Dostępne usługi łączności między urządzeniami mogą się różnić w zale
     <string name="permission_use_wlan_summary">W celu odnajdywania, łączenia się i komunikowania z urządzeniami w pobliżu</string>
     <string name="recommended_font_mark">Zalecane</string>
     <string name="select_font_modele_tips">Zawsze możesz wybrać nową czcionkę w Motywach</string>
+    <string name="after_sales_support">Wsparcie posprzedażowe</string>
+    <string name="after_sales_support_introduction">Ta usługa pozwala Ci uzyskać wsparcie i pomoc związaną z zakupionymi urządzeniami.</string>
+    <string name="authority_introduction">Menedżer uprawnień to podstawowa usługa, umożliwiająca zarządzanie uprawnieniami aplikacji na tym urządzeniu.</string>
+    <string name="device_information_usage_desc">Ta usługa pozwala Ci wyświetlać informacje o urządzeniu, łączyć ze z sieciami i konfigurować jego funkcje.</string>
+    <string name="disagreement_service_not_working_properly_settings">"Jeśli nie wyrazisz zgody na przyznanie tych uprawnień, ta usługa nie będzie mogła działać poprawnie."</string>
+    <string name="get_imei_information">Dostęp do IMEI</string>
+    <string name="get_imei_information_settings">Dostęp do unikalnego identyfikatora urządzenia (IMEI)</string>
+    <string name="miui_settings">Ustawienia</string>
+    <string name="permission_authority_describe">Dostęp do listy zainstalowanych aplikacji</string>
+    <string name="permission_authority_describe_applist_summary">W celu zarządzania uprawnieniami aplikacji</string>
+    <string name="permission_get_imei_information_summary">W celu identyfikowania czasu aktywacji urządzenia</string>
+    <string name="permission_get_imei_information_summary_settings">W celu wyświetlania informacji o urządzeniu i specyfikacji</string>
+    <string name="permission_number">Dostęp do numeru telefonu</string>
+    <string name="permission_number_introduction">W celu ustanawiania połączenia Bluetooth z systemami aut i słuchawkami Bluetooth</string>
+    <string name="permission_qualcomm_describe_summary">W celu dynamicznego alokowania zasobów systemu do różnych aplikacji i organizowania ich procesów</string>
+    <string name="permission_quality_describe_summary">W celu gromadzenia informacji o zamknięciach aplikacji</string>
+    <string name="phone_service_introduction">Telefonia to podstawowa usługa, dzięki której Twoje urządzenie może wykonywać rozmowy, wysyłać i otrzymywać wiadomości oraz łączyć się z siecią.</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier to usługa zarządzająca procesami systemu.</string>
+    <string name="require_base_authority_statement">"W celu dostarczania podstawowych usług wymagane są następujące uprawnienia:
+\u0009\u0009\u0009Dostęp do IMEI i IMSI"</string>
+    <string name="require_basic_applist_and_authority_statement">W celu dostarczania podstawowych usług wymagane są następujące uprawnienia:</string>
+    <string name="require_device_information_statement">Aby móc dostarczać podstawowe usługi, wymagane są następujące uprawnienia:</string>
+    <string name="service_name_authority">Menedżer uprawnień</string>
+    <string name="service_name_phone_service">Telefonia</string>
+    <string name="system_update_statement">Aktualizacje systemu</string>
+    <string name="system_update_title">Aktualizacje systemowe</string>
+    <string name="terms_of_use_label_system_quality_monitoring">Monitoring jakości systemu</string>
 </resources>

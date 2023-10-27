@@ -184,7 +184,7 @@
   <string name="default_folder_title_recommend">Polecane</string>
   <string name="default_folder_title_security">Bezpieczeństwo</string>
   <string name="default_folder_title_services">Usługi</string>
-  <string name="default_folder_title_tools">Narzędzia</string>
+  <string name="default_folder_title_tools">Systemowe</string>
   <string name="default_screen_preview_title">Pulpit główny</string>
   <string name="delete">Usuń</string>
   <string name="delete_category_dialog_content">Nie będziesz w stanie przywrócić tej kategorii po jej usunięciu. Usunąć ją mimo to?</string>
