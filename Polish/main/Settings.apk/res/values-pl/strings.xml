@@ -13514,4 +13514,5 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="view_fingerprint_privacy_policy"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>Stanowisko dot. prywatności funkcji \"Odciski palca i blokada ekranu\"&lt;/a>.</Data></string>
     <string name="face_data_siggesstion_next_cn">Zgadzam się</string>
     <string name="face_data_siggesstion_next_time_cn">Zgadzam się (%d s)</string>
+    <string name="bluetooth_audio_share_replace_request">Aby kontynuować słuchanie, obecne słuchawki zostaną zastąpione innymi po ich podłączeniu</string>
 </resources>

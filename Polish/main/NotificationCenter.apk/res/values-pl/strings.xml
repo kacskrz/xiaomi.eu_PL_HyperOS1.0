@@ -206,7 +206,7 @@ Zgłoś ten problem >"</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
     <string name="disable_description_content">"Powiadomienia to aplikacja systemowa. Jeśli ją wyłączysz, nie będzie można zarządzać powiadomieniami aplikacji. Wyłączyć mimo to?"</string>
     <string name="disable_description_title">Wyłączyć aplikację systemową?</string>
-    <string name="float_notification_snooze_summary_1_min">Przesuń pływające powiadomienie w górę, aby ukryć kolejne powiadomienia na %d</string>
+    <string name="float_notification_snooze_summary_1_min">Przesuń pływające powiadomienie w górę, aby ukryć kolejne powiadomienia na %d min</string>
     <string name="float_notification_snooze_summary_always_float">Zawsze pokazuj pływające powiadomienia</string>
     <string name="float_notification_snooze_summary_until_unlock">Przesuń pływające powiadomienie w górę, aby ukryć kolejne powiadomienia, dopóki urządzenie nie zostanie zablokowane</string>
     <string name="notification_style_miui">Klasyczny</string>

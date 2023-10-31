@@ -812,4 +812,56 @@
         <item quantity="one">Wybierz maksymalnie %d element do wysłania</item>
         <item quantity="few">Wybierz maksymalnie %d elementy do wysłania</item>
     </plurals>
+    <plurals name="ai_create_image_queue">
+        <item quantity="one">%1d osoba przed Tobą</item>
+        <item quantity="few">%1d osoby przed Tobą</item>
+        <item quantity="other">%1d osób przed Tobą</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_hour">
+        <item quantity="one">Czas oczekiwania: %s godz.</item>
+        <item quantity="other">Czas oczekiwania: %s godz.</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_minute">
+        <item quantity="one">Czas oczekiwania: %s min</item>
+        <item quantity="other">Czas oczekiwania: %s min</item>
+    </plurals>
+    <plurals name="ai_creation_wait_message_time">
+        <item quantity="one">Tworzenie… | Czas oczekiwania: %d s</item>
+        <item quantity="other">Tworzenie… | Czas oczekiwania: %d s</item>
+    </plurals>
+    <plurals name="ai_creation_wait_queue">
+        <item quantity="one">Tworzenie… | %d osoba przed Tobą</item>
+        <item quantity="few">Tworzenie… | %d osoby przed Tobą</item>
+        <item quantity="other">Tworzenie… | %d osób przed Tobą</item>
+    </plurals>
+    <plurals name="ai_creation_wait_time_minute">
+        <item quantity="one">Czas oczekiwania: %d min</item>
+        <item quantity="other">Czas oczekiwania: %d min</item>
+    </plurals>
+    <plurals name="ai_enhance_bar_waiting">
+        <item quantity="one">Tworzenie… | Pozostała %d s</item>
+        <item quantity="other">Tworzenie… | Pozostało %d s</item>
+    </plurals>
+    <plurals name="ai_hour">
+        <item quantity="one">%s godz.</item>
+        <item quantity="other">%s godz.</item>
+    </plurals>
+    <plurals name="ai_image_over_limit_msg">
+        <item quantity="one">Jedna osoba może utworzyć maks. %d obraz SI.</item>
+        <item quantity="few">Jedna osoba może utworzyć maks. %d obrazy SI.</item>
+        <item quantity="other">Jedna osoba może utworzyć maks. %d obrazów SI.</item>
+    </plurals>
+    <plurals name="ai_minute">
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="ai_select_photo_time_count">
+        <item quantity="one">Wybieranie zdjęć (pozostała %d s)…</item>
+        <item quantity="other">Wybieranie zdjęć (pozostało %d s)…</item>
+    </plurals>
+    <plurals name="search_title_ai">
+        <item quantity="one">Znaleziono %d element</item>
+        <item quantity="few">Znaleziono %d elementy</item>
+        <item quantity="other">Znaleziono %d elementów</item>
+    </plurals>
 </resources>
