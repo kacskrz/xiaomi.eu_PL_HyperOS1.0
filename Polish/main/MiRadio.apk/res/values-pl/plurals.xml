@@ -13,4 +13,12 @@
         <item quantity="one">%d nagranie z radia FM</item>
         <item quantity="few">%d nagrania z radia FM</item>
     </plurals>
+    <plurals name="sleep_duration_hour_values">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="sleep_duration_minutes_values">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
 </resources>

@@ -351,4 +351,12 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="request_agree">Zezwól</string>
   <string name="request_cancel">Anuluj</string>
   <string name="request_gallery_permission_message">Zezwól na dostęp do Galerii:&lt;br />Aby móc ustawiać zdjęcia profilowe</string>
+  <string name="channel_tip_text">Więcej stacji radiowych</string>
+  <string name="menu_online_service">Usługi online</string>
+  <string name="msg_internalantenna_optimal">Dla lepszego efektu podłącz słuchawki</string>
+  <string name="online_tip_text">Zezwól aplikacji na łączenie się z Internetem, aby słuchać radia online</string>
+  <string name="open_online_service_tip">Pomyślnie włączono usługi online</string>
+  <string name="search_menu_title">Szukaj</string>
+  <string name="talkback_back">Wstecz</string>
+  <string name="talkback_close">Zamknij</string>
 </resources>
