@@ -67,4 +67,23 @@
   <string name="using_recorder_dialog_message">"Radio FM potrzebuje dostępu do usług nagrywania, aby działać poprawnie."</string>
   <string name="using_recorder_dialog_title">Wymagane uprawnienia</string>
   <string name="view_stations_list">Pokaż listę stacji</string>
+  <string name="toast_saf_permission_denied">Nadaj uprawnienia, aby móc zapisywać nagrania</string>
+  <string name="permission_cancel">"Nie zezwalaj"</string>
+  <string name="permission_confirm">Zezwól</string>
+  <string name="permission_desc_phone_state">Radio zostanie zatrzymane w trakcie połączeń</string>
+  <string name="permission_desc_read_write">W celu zapisywania nagranych programów radiowych</string>
+  <string name="permission_desc_record_audio">W celu nagrywania programów radiowych</string>
+  <string name="permission_guide_tip">Uwaga</string>
+  <string name="permission_phone_setting_desc">Nadaj uprawnienia dot. statusu urządzenia, aby móc używać wszystkich funkcji aplikacji.</string>
+  <string name="permission_phone_state_desc">"Ta aplikacja wymaga uprawnień dot. statusu urządzenia, aby odczytywać stan połączenia i zatrzymywać odtwarzanie i nagrywanie audycji w trakcie połączeń."</string>
+  <string name="permission_read_write_setting_desc">Nadaj uprawnienie do zarządzania plikami, aby móc zapisywać nagrany dźwięk.</string>
+  <string name="permission_record_and_file_manage_setting_desc">Uprawnienia dot. nagrywania i zarządzania plikami są ograniczone. Zezwól tej aplikacji na dostęp do mikrofonu i zarządzanie plikami.</string>
+  <string name="permission_record_setting_desc">Nadaj uprawnienie dostępu do mikrofonu, aby móc nagrywać dźwięk.</string>
+  <string name="permission_require">Wymagane uprawnienia</string>
+  <string name="permission_to_setting">Ustawienia</string>
+  <string name="dialog_saf_btn">Autoryzuj</string>
+  <string name="dialog_saf_desc">Ta aplikacja wymaga uprawnień aplikacji Pliki, aby móc zapisywać nagraną treść.</string>
+  <string name="dialog_saf_step_one">"Dotknij opcji 'Autoryzuj'"</string>
+  <string name="dialog_saf_step_two">Na następnej stronie dotknij przycisku na jej dole, aby nadać uprawnienia</string>
+  <string name="dialog_saf_title">Wymagane uprawnienia</string>
 </resources>
