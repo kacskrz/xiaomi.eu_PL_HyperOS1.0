@@ -701,7 +701,6 @@ Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</st
     <string name="delete_tips">Usuwanie elementów</string>
     <string name="empty_history">Brak elementów</string>
     <string name="histories">Historia</string>
-    <string name="history_time_date_format">dd.MM.yyyy</string>
     <string name="pull_to_refresh">Przesuń w dół, aby zobaczyć historię</string>
     <string name="release_to_refresh">Puść, aby zobaczyć historię</string>
     <string name="item_title_loan">Pożyczka</string>
@@ -839,7 +838,6 @@ Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</st
     <string name="data_analysis">Analiza</string>
     <string name="detail_close_btn">Ukryj zestawienie spłaty</string>
     <string name="detail_expand_btn">Pokaż zestawienie spłaty</string>
-    <string name="disallow">"Nie zgadzam się"</string>
     <string name="fat">Nadwaga</string>
     <string name="female">Płeć: Kobieta</string>
     <string name="float_window">Zminimalizuj</string>
