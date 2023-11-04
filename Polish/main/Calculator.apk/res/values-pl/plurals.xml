@@ -114,4 +114,40 @@
         <item quantity="one">%d rok</item>
         <item quantity="few">%d lata</item>
     </plurals>
+   <plurals name="unit_data_display_data_b">
+       <item quantity="one">Bajt</item>
+       <item quantity="few">Bajty</item>
+       <item quantity="many">Bajtów</item>
+       <item quantity="other">Bajtu</item>
+   </plurals>
+   <plurals name="unit_data_display_data_gb">
+       <item quantity="one">Gigabajt</item>
+       <item quantity="few">Gigabajty</item>
+       <item quantity="many">Gigabajtów</item>
+       <item quantity="other">Gigabajtu</item>
+   </plurals>
+   <plurals name="unit_data_display_data_kb">
+       <item quantity="one">Kilobajt</item>
+       <item quantity="few">Kilobajty</item>
+       <item quantity="many">Kilobajtów</item>
+       <item quantity="other">Kilobajtu</item>
+   </plurals>
+   <plurals name="unit_data_display_data_mb">
+       <item quantity="one">Megabajt</item>
+       <item quantity="few">Megabajty</item>
+       <item quantity="many">Megabajtów</item>
+       <item quantity="other">Megabajtu</item>
+   </plurals>
+   <plurals name="unit_data_display_data_pb">
+       <item quantity="one">Petabajt</item>
+       <item quantity="few">Petabajty</item>
+       <item quantity="many">Petabajtów</item>
+       <item quantity="other">Petabajtu</item>
+   </plurals>
+   <plurals name="unit_data_display_data_tb">
+       <item quantity="one">Terabajt</item>
+       <item quantity="few">Terabajty</item>
+       <item quantity="many">Terabajtów</item>
+       <item quantity="other">Terabajtu</item>
+    </plurals>
 </resources>

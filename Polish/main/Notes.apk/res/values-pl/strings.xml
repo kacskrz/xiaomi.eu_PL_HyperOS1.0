@@ -974,4 +974,6 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="miuix_navigator_navigator_switch_description">Ukryj pasek boczny</string>
   <string name="pad_dialog_take_photo_by_device">Robienie zdjęcia %1$s</string>
   <string name="permission_xiaoai_desc_m"><Data>Aby dostarczać usługi transkrypcji głosu na tekst, SI Mi msui gromadzić dźwięk i numer IMEI tego urządzenia. Zanim przejdziesz dalej, przeczytaj i zaakceptuj postanowienia &lt;a href=\"%1$s\">Stanowiska Notatek dot. udostępniania danych stronom trzecim&lt;/a>. Możesz także dowiedzieć się więcej na ten temat, czytając &lt;a href=\"%2$s\">Politykę prywatności&lt;/a> SI Mi.</Data></string>
+  <string name="toolbar_voice_done_description">Zatrzymaj</string>
+  <string name="toolbar_voice_mark_description">Oznacz</string>
 </resources>
