@@ -6348,4 +6348,7 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="power_wireless_update_error">"Nie udało się zaktualizować. Spróbuj ponownie."</string>
     <string name="power_wireless_update_in_progress">Aktualizowanie oprogramowania…</string>
     <string name="screen_share_warning_positive_button">Zatrzymaj</string>
+    <string name="gb_cooler_device_toast">"Wrażenia z obrazu polepszył
+Xiaomi Gaming Cooler"</string>
+    <string name="group_head_data_screen_shots_clipboard">Automatycznie kopiuj zrzuty ekranu do schowka</string>
 </resources>

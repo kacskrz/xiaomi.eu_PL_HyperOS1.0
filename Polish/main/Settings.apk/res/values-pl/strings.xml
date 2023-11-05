@@ -13515,4 +13515,5 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="face_data_siggesstion_next_cn">Zgadzam się</string>
     <string name="face_data_siggesstion_next_time_cn">Zgadzam się (%d s)</string>
     <string name="bluetooth_audio_share_replace_request">Aby kontynuować słuchanie, obecne słuchawki zostaną zastąpione innymi po ich podłączeniu</string>
+    <string name="lock_password_checking">Weryfikowanie blokady ekranu…</string>
 </resources>

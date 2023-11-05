@@ -496,4 +496,12 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="qs_customize_entry_button_text">Edytuj</string>
     <string name="qs_customize_header_sub_title">Przeciągaj przełączniki, aby zmienić ich kolejność</string>
     <string name="qs_customize_header_title">Edytuj i sortuj</string>
+    <string name="miplay_bluetooth_share_des_text">"Użytkownicy słuchawek Xiaomi: otworzyć zestaw ładujący lub przytrzymać przycisk na zestawie przez %d s
+Użytkownicy innych słuchawek: zresetować słuchawki w ustawieniach Bluetooth, a następnie się połączyć"</string>
+    <string name="miplay_bluetooth_share_headphone_pairing">Dodaj słuchawki, aby udostępnić dźwięk</string>
+    <string name="miplay_bluetooth_share_subTitle_text">Udostępniaj dźwięk z urządzenia innej osobie</string>
+    <string name="miplay_bluetooth_share_title_text">Udostępniaj dźwięk</string>
+    <string name="miplay_not_support_hint">"Ta funkcja nie jest wspierana"</string>
+    <string name="miplay_switch_local_device_when_in_audio_share_hint">Zakończ udostępnianie dźwięku i spróbuj ponownie</string>
+    <string name="miplay_tv_cast_retry_toast">Zatrzymaj projekcję i spróbuj ponownie</string>
 </resources>

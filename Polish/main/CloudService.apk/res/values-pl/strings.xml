@@ -1181,7 +1181,7 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="revoke_privacy_content">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki &lt;a href=app://com.miui.cloudservice.gdpr.license>Polityki prywatności&lt;/a> funkcji Znajdź urządzenie. Informacje o Tobie, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ funkcja Znajdź urządzenie dostarcza usługi w oparciu o niezbędne informacje dot. Ciebie, wycofanie Twojej zgody zostanie potraktowane również jako odmowa korzystania z tych usług. Czy na pewno chcesz wycofać zgodę?"</string>
   <string name="revoke_privacy_failed">"Nie udało się wycofać zgody"</string>
   <string name="revoke_privacy_title">Wycofanie zgody na warunki umów</string>
-  <string name="gallery_auto_sync_fail_noti_content">Brak miejsca w Chmurze. Nie można zapisać zdjęć.</string>
+  <string name="gallery_auto_sync_fail_noti_content">Brak miejsca w Chmurze. Ulepsz swój plan, aby zsynchronizować zdjęcia i filmy.</string>
   <string name="talkback_hide_passcode">Ukryj kod dostępu</string>
   <string name="talkback_show_passcode">Pokaż kod dostępu</string>
   <string name="cloud_service_open_authorization">"Witaj w usługach Chmury Xiaomi! Możesz jej używać do synchronizacji swoich notatek, zdjęć i filmów, nagrań i innych elementów aplikacji systemowych, w tym układu pulpitu, pomiędzy swoimi urządzeniami. Podgląd wszystkich zsynchronizowanych elementów jest możliwy poprzez wejście na stronę i.mi.com."</string>
@@ -1266,4 +1266,11 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="web_view_reload_btn_text">Spróbuj ponownie</string>
   <string name="web_view_reload_description_text">"Nie udało się połączyć z siecią.
 Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
+  <string name="creation_dialog_message">Wyświetl dane Mi Canvas na swoim tablecie.</string>
+  <string name="creation_dialog_title">Uwaga</string>
+  <string name="creation_sync_settings_only_in_wifi">Synchronizuj tylko z Wi-Fi</string>
+  <string name="creation_sync_settings_only_in_wifi_summary">Zalecane, oszczędzasz dane mobilne</string>
+  <string name="creation_sync_settings_preference">Synchronizuj warstwy</string>
+  <string name="creation_sync_settings_summary">Utworzone warstwy</string>
+  <string name="gallery_auto_sync_fail_noti_content_lite">"Brak miejsca w Chmurze. Nie można zapisać zdjęć."</string>
 </resources>

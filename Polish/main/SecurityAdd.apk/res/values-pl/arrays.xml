@@ -29,4 +29,11 @@
         <item>Zbalansowana</item>
         <item>Domyślna</item>
     </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Niski</item>
+        <item>Standardowy</item>
+        <item>Wysoki</item>
+        <item>Najwyższy</item>
+        <item>Domyślny</item>
+    </string-array>
 </resources>

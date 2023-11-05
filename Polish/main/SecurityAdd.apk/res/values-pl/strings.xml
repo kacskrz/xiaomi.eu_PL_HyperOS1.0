@@ -422,4 +422,9 @@
   <string name="retry_action">Spróbuj ponownie</string>
   <string name="pc_entered_extreme_mode_summary2">"Urządzenie jest prawie rozładowane. W Trybie hibernacji nie otrzymasz żadnych powiadomień z aplikacji działających w tle."</string>
   <string name="superpower_toast_app_select_full_new">Do często używanych aplikacji możesz dodać maks. %d elementów</string>
+  <string name="gb_pannel_control_frame_rate_dialog_message">Aby użyć tej funkcji, zmień rozdzielczość ekranu na WQHD+ w Ustawieniach.</string>
+  <string name="gb_pannel_control_frame_rate_dialog_positive">Ustawienia</string>
+  <string name="gb_pannel_control_frame_rate_dialog_title">Zmień rozdzielczość ekranu</string>
+  <string name="gb_pannel_control_mode_frame_rate">Priorytet częstotliwości odświeżania</string>
+  <string name="gb_pannel_control_mode_picture">Priorytet jakości obrazu</string>
 </resources>

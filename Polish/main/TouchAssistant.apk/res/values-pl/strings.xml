@@ -95,4 +95,12 @@
   <string name="view_privacy">Wyświetl Politykę prywatności</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="miuix_appcompat_edit">Edytuj</string>
+  <string name="screen_rotation_freeze_message">Zablokowano ekran w trybie poziomym</string>
+  <string name="status_bar_toggle_data">Dane mobilne</string>
+  <string name="status_bar_toggle_lock">Zablokuj</string>
+  <string name="status_bar_toggle_mute">Tryb cichy</string>
+  <string name="status_bar_toggle_rotate">Nie obracaj</string>
+  <string name="status_bar_toggle_screenshot">Zrzut ekranu</string>
+  <string name="status_bar_toggle_torch">Latarka</string>
+  <string name="status_bar_toggle_vibrate">Wibracje</string>
 </resources>
