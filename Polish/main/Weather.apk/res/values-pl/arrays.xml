@@ -171,4 +171,11 @@
         <item>Poważnie zanieczyszczone</item>
         <item>Poza skalą</item>
     </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Niski</item>
+        <item>Średni</item>
+        <item>Wysoki</item>
+        <item>Bardzo wysoki</item>
+        <item>Ekstremalny</item>
+    </string-array>
 </resources>
