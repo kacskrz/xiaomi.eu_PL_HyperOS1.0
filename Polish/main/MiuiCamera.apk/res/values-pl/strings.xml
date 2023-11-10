@@ -975,7 +975,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_front_mirror_label_auto">Automatycznie</string>
   <string name="pref_front_mirror_title">Odbicie lustrzane</string>
   <string name="pref_groupshot_with_primitive_title">Zapisuj także oryginalne zdjęcia</string>
-  <string name="pref_google_lens">Google Lens</string>
+  <string name="pref_google_lens">Obiektyw Google</string>
   <string name="pref_google_lens_summary">Rozpoznawanie kodów QR, e-maili, numerów itp.</string>
   <string name="pref_google_lens_title">Sugestie Obiektywu</string>
   <string name="pref_lens_dirty_detect_summary">Otrzymasz powiadomienie, gdy obiektyw jest brudny</string>
@@ -2671,4 +2671,5 @@ Jeśli używasz hotspotu do łączenia się z siecią, ustaw jego pasmo AP na %s
     <string name="accessibility_moiton_detection_off">Wykrywanie ruchu jest wyłączone</string>
     <string name="accessibility_moiton_detection_on">Wykrywanie ruchu jest włączone</string>
     <string name="cv_lens_standard">Standardowy</string>
+    <string name="cinematic_guide_item1_des_new">Obiekt znajdujący się w kadrze zostanie automatycznie wyostrzony; fokus będzie się zmieniać w zależności od sceny. Dwukrotnie dotknij obiektu, aby zablokować ostrzenie na nim. Możesz wybrać inny obiekt, na którym ma być zablokowane ostrzenie, dwukrotnie go dotykając.</string>
 </resources>

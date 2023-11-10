@@ -427,4 +427,6 @@
   <string name="gb_pannel_control_frame_rate_dialog_title">Zmień rozdzielczość ekranu</string>
   <string name="gb_pannel_control_mode_frame_rate">Priorytet częstotliwości odświeżania</string>
   <string name="gb_pannel_control_mode_picture">Priorytet jakości obrazu</string>
+  <string name="gb_gpu_pannel_touch_ctl_dialog_message">"Kontrola dotykowa została zaktualizowana. Związane z nią funkcje możesz teraz znaleźć podczas grania w Skrótach gier > Kontrole ruchu."</string>
+  <string name="gb_gpu_pannel_touch_ctl_dialog_title">Nowe narzędzia kontroli dotyku</string>
 </resources>
