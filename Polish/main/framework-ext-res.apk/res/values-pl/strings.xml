@@ -197,7 +197,7 @@
   <string name="security_permission_failed_text">Wystąpił błąd, spróbuj ponownie później</string>
   <string name="security_permission_network_failed_text">"Nie można połączyć się z siecią. Sprawdź swoje ustawienia sieciowe i spróbuj ponownie."</string>
   <string name="security_permission_open_wifi_settings">Otwórz ustawienia Wi-Fi</string>
-  <string name="security_permission_validate_warning">Dziękujemy za pomoc w ulepszaniu MIUI!</string>
+  <string name="security_permission_validate_warning">Dziękujemy za pomoc w ulepszaniu systemu!</string>
   <string name="security_permission_wifi_and_data_opened_text">Wi-Fi oraz dane mobilne są włączone</string>
   <string name="security_permission_xiaomi_account_missed_text">Wpisz nazwę użytkownika konta Xiaomi</string>
   <string name="select">Zaznacz</string>
@@ -525,7 +525,7 @@ z przedniego aparatu"</string>
   <string name="mw_guide_dialog_message">"Wygląda na to, że ta aplikacja nie wspiera Równoległych okien. Ustawiono dla niej inny, kompatybilny układ."</string>
   <string name="mw_guide_dialog_title">"Brak wsparcia dla Równoległych okien"</string>
   <string name="fold_small_not_split">"Dzielenie ekranu nie jest wspierane na zewnętrznym ekranie"</string>
-  <string name="open_miui_optimization">Najpierw włącz optymalizację MIUI</string>
+  <string name="open_miui_optimization">Najpierw włącz optymalizację systemu</string>
   <string name="freeform_exchange_tip3">Otwórz pływające okno w trybie pełnoekranowym</string>
   <string name="hs_guide_dialog_button_confirm">Rozumiem</string>
   <string name="hs_guide_dialog_message">"Ta aplikacja nie została jeszcze dostosowana do nowego trybu poziomego. Przełączono się zamiast tego na inny kompatybilny układ."</string>

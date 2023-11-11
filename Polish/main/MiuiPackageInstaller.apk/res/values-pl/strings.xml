@@ -137,7 +137,7 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
   <string name="install_failed_incompatible">Ta aplikacja nie jest kompatybilna z Twoim urządzeniem.</string>
   <string name="install_failed_invalid_apk">Pakiet wydaje się być uszkodzony.</string>
   <string name="install_failed_msg">%1$s nie może być zainstalowane na twoim telefonie.</string>
-  <string name="install_failed_system_incompatible">Ta aplikacja nie jest kompatybilna z MIUI</string>
+  <string name="install_failed_system_incompatible">Ta aplikacja nie jest kompatybilna z systemem</string>
   <string name="install_from_appstore_hint">Rekomendujemy pobierać aplikacje z &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
   <string name="install_other_apps">Zainstaluj nieznane aplikacje</string>
   <string name="installing">Instalacja…</string>
@@ -199,7 +199,7 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
   <string name="miui_failed_insufficient_storage">Za mało miejsca do przechowywania</string>
   <string name="miui_failed_invalid_apk">Błąd paczki instalacyjnej</string>
   <string name="miui_failed_invalid_uri">Niewłaściwa ścieżka instalacyjna</string>
-  <string name="miui_failed_miui_system_incompatible">Paczka instalacyjna jest niekompatybilna z MIUI</string>
+  <string name="miui_failed_miui_system_incompatible">Paczka instalacyjna jest niekompatybilna z systemem</string>
   <string name="miui_failed_newer_sdk">Wersja SDK jest niewspierana</string>
   <string name="miui_failed_older_sdk">Wersja SDK jest za stara</string>
   <string name="miui_failed_other">Inne</string>
@@ -967,4 +967,5 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="unknown_source_risk_not_credible_description">"Ta aplikacja pochodzi ze źródła, które nie jest zaufane. Jeśli rozumiesz i akceptujesz ryzyko i chcesz kontynuować instalację, możesz pozwolić na to."</string>
     <string name="wait_install">Nie zainstalowano</string>
     <string name="wait_install_source">Źródło: %1$s</string>
+    <string name="bundle_app_market_install_permissions">Uprawnienia</string>
 </resources>

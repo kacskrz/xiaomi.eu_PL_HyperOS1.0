@@ -4564,7 +4564,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="use_other_ime_warn">Klawiatury firm trzecich mogą rejestrować wszystko, co piszesz, włącznie ze hasłami i innymi wrażliwymi informacjami.</string>
     <string name="oaid_apps_title">Zarządzaj wirtualnym ID</string>
     <string name="oaid_tips_content">Wirtualne identyfikatory (OAID) mogą być używane do śledzenia Twoich zachowań i personalizowania pod nie reklam. Możesz wybrać, jakie aplikacje mogą uzyskać Twój wirtualny identyfikator. Jeśli ograniczysz dostęp dla jakiejś aplikacji, jej rekomendacje reklam mogą być niepoprawne bądź może ona nie działać poprawnie.</string>
-    <string name="pc_hidemode_normal">Zbalansowane</string>
+    <string name="pc_hidemode_normal">Zbalansowany</string>
     <string name="pc_hidemode_performance">Wydajność</string>
     <string name="pc_hidemode_performance_title">Tryb wydajności</string>
     <string name="pc_hidemode_power_save">Bateria</string>
@@ -4662,7 +4662,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gtb_brightness_dialog_right_btn">Tak</string>
     <string name="gtb_brightness_dialog_sub_message">*Możesz włączać i wyłączać tę funkcję w Ustawieniach.</string>
     <string name="gtb_setting_item_title_brightness">Automatycznie obniżaj jasność ekranu</string>
-    <string name="pc_hidemode_normal_title">Zbalansowane</string>
+    <string name="pc_hidemode_normal_title">Zbalansowany</string>
     <string name="applock_numeric_pwd_type_line">Łącznie cyfr w haśle: %1$d. Wprowadzono: %2$d.</string>
     <string name="pc_performance_mode_dialog_summary2">Powinna się poprawić wydajność urządzenia. Spowoduje to jednak zwiększenie użycia baterii i może doprowadzić do przegrzewania się urządzenia. Włączyć mimo to?</string>
     <string name="pc_performance_mode_noti_summary">Tryb wydajności może zwiększyć użycie baterii i prowadzić do problemów z przegrzewaniem się</string>

@@ -49,7 +49,7 @@
     <string name="miui_feedback_edit_contact_info_hint">Numer telefonu/e-mail</string>
     <string name="miui_feedback_edit_delete_images">Usuń zdjęcia</string>
     <string name="miui_feedback_edit_desc_hint">"Opisz swój problem"</string>
-    <string name="miui_feedback_edit_desc_hint_suggestion">"Powiedz nam, jak chciałbyś ulepszyć MIUI"</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">"Powiedz nam, jak chciałbyś ulepszyć system"</string>
     <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">Zostań tutaj</string>
     <string name="miui_feedback_edit_discard_draft_dialog_button_discard">Odrzuć</string>
     <string name="miui_feedback_edit_discard_draft_dialog_content">"Zmiany dokonane w tej opinii zostaną utracone."</string>
@@ -86,8 +86,8 @@
     <string name="miui_feedback_edit_storage_permission_name">Dostęp do pamięci urządzenia</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">"Nie zgadzam się"</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Zgadzam się</string>
-    <string name="miui_feedback_edit_submit_dialog_content"><Data>"Aby móc użyć Opinii, musisz zgodzić się na warunki &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Polityki prywatności&lt;/a> i &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Umowy użytkownika&lt;/a> Xiaomi. Opinia dotycząca problemów wraz z załączonymi do niej elementami (które mogą zawierać osobiste informacje, a także dane dot. urządzenia i sieci) zostanie wysłana na serwery MIUI. Pomoże to developerom MIUI w zlokalizowaniu i naprawieniu Twojego problemu."</Data></string>
-    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>"Twoja opinia, wraz z zrzutami ekranu (jeśli załączono) i logami (możesz odznaczyć elementy, których nie chcesz wysyłać) zostanie wysłana na serwery MIUI. Logi mogą zawierać informacje osobiste oraz dane dot. lokalizacji. Wciśnięcie przycisku \"Zgadzam się\" potwierdza, że zapoznałeś się i zaakceptowałeś warunki &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Polityki prywatności&lt;/a> i &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Umowy użytkownika&lt;/a> Xiaomi."</Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content"><Data>"Aby móc użyć Opinii, musisz zgodzić się na warunki &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Polityki prywatności&lt;/a> i &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Umowy użytkownika&lt;/a> Xiaomi. Opinia dotycząca problemów wraz z załączonymi do niej elementami (które mogą zawierać osobiste informacje, a także dane dot. urządzenia i sieci) zostanie wysłana na serwery Xiaomi. Pomoże to developerom w zlokalizowaniu i naprawieniu Twojego problemu."</Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>"Twoja opinia, wraz z zrzutami ekranu (jeśli załączono) i logami (możesz odznaczyć elementy, których nie chcesz wysyłać) zostanie wysłana na serwery Xiaomi. Logi mogą zawierać informacje osobiste oraz dane dot. lokalizacji. Wciśnięcie przycisku \"Zgadzam się\" potwierdza, że zapoznałeś się i zaakceptowałeś warunki &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Polityki prywatności&lt;/a> i &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Umowy użytkownika&lt;/a> Xiaomi."</Data></string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Nie pokazuj ponownie"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Wyślij raport</string>
     <string name="miui_feedback_edit_submit_directly">Wyślij</string>

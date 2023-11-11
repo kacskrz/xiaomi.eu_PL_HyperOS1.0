@@ -227,7 +227,7 @@
   <string name="module_download_title">Wymagane dodatkowe dźwięki</string>
   <string name="module_downloading">Pobieranie dźwięków…</string>
   <string name="module_unzipping">Rozpakowywanie dźwięków…</string>
-  <string name="module_update_success">Pomyślnie pobrano zaktualizowane inteligentne alarmy MIUI. Możesz je ustawić w ustawieniach Zegara.</string>
+  <string name="module_update_success">Pomyślnie pobrano zaktualizowane inteligentne alarmy. Możesz je ustawić w ustawieniach Zegara.</string>
   <string name="module_update_success_control">Rozumiem</string>
   <string name="module_weather_ringtone_download_data">Alarm pogodowy wybierze różne dzwonki zgodne z obecnymi warunkami pogodowymi. Aplikacja Zegar musi pobrać ok. 30 MB dźwięków, aby ten alarm mógł działać. Pobrać je teraz?</string>
   <string name="module_weather_ringtone_download_data_privacy"><Data>Alarm pogodowy wybierze różne dzwonki zgodne z obecnymi warunkami pogodowymi. Aplikacja Zegar musi połączyć się z Internetem w celu pobrania ok. 30 MB dźwięków. Aby użyć Zegara, musisz także przeczytać i zaakceptować warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Xiaomi. Czy zgadzasz się na te warunki?</Data></string>

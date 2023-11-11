@@ -27,7 +27,7 @@
   <string name="catch_full_log_add_photo">Dodaj zdjęcie</string>
   <string name="catch_full_log_add_photo_dialog_content">"Jeśli problem zgłaszany przez Ciebie dotyczy jakości zdjęć z aparatu, dodaj przykładowe, oryginalne zdjęcie (nieprzycięte), aby pomóc nam zlokalizować przyczynę tego problemu. Dodać zdjęcie teraz?"</string>
   <string name="catch_full_log_dialog_confirm_text">Przejdź do pulpitu</string>
-  <string name="catch_full_log_dialog_content">"MIUI generuje teraz log. Może to wpłynąć na ogólną wydajność urządzenia. Jeśli nie jesteś w stanie odtworzyć problemu, który chcesz zgłosić, wróć do logów i kliknij przycisk \"Anuluj\"."</string>
+  <string name="catch_full_log_dialog_content">"System generuje teraz log. Może to wpłynąć na ogólną wydajność urządzenia. Jeśli nie jesteś w stanie odtworzyć problemu, który chcesz zgłosić, wróć do logów i kliknij przycisk \"Anuluj\"."</string>
   <string name="catch_full_log_dump_hprof_failed">"Nie można wygenerować logu dot. lagów"</string>
   <string name="catch_full_log_item_content_catch_direct">"1. Wróć do funkcji, którą chcesz zgłosić, i odtwórz problem.
 2. Wróć do tej strony i dotknij opcji \"Zakończ i wyślij\"."</string>
@@ -44,18 +44,18 @@
   <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
   <string name="catch_full_log_notification_content">Kliknij, by wrócić do logów</string>
   <string name="catch_full_log_notification_title">Generowanie logów…</string>
-  <string name="catch_full_log_privacy_content_audio">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać informacje o plikach audio na urządzeniu (włącznie z historią odtwarzania i nagrywania). Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery MIUI w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
-  <string name="catch_full_log_privacy_content_bt">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać informacje o użytkowaniu Bluetooth na urządzeniu Bluetooth (włącznie z historią rozmów, wiadomościami, wysłanymi plikami itd.). Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery MIUI w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
-  <string name="catch_full_log_privacy_content_gps">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać Twoje osobiste dane oraz informacje o lokalizacji. Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery MIUI w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
-  <string name="catch_full_log_privacy_content_sensor">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać informacje gromadzone przez czujniki na urządzeniu (np. zbliżeniowy, barometr, krokomierz, magnetometr itd.). Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery MIUI w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
-  <string name="catch_full_log_privacy_content_signal">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać Twoje wiadomości, historię rozmów, informacje o sieci i dane komunikacyjne. Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery MIUI w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
-  <string name="catch_full_log_privacy_content_wifi">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać Twoje osobiste dane, informacje o lokalizacji, a także adresy IP i MAC urządzenia. Jeśli jesteś połączony z niezaszyfrowaną siecią Wi-Fi, możemy mieć także możliwość dostępu do części danych komunikacyjnych. Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery MIUI w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
+  <string name="catch_full_log_privacy_content_audio">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać informacje o plikach audio na urządzeniu (włącznie z historią odtwarzania i nagrywania). Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery Xiaomi w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
+  <string name="catch_full_log_privacy_content_bt">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać informacje o użytkowaniu Bluetooth na urządzeniu Bluetooth (włącznie z historią rozmów, wiadomościami, wysłanymi plikami itd.). Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery Xiaomi w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
+  <string name="catch_full_log_privacy_content_gps">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać Twoje osobiste dane oraz informacje o lokalizacji. Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery Xiaomi w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
+  <string name="catch_full_log_privacy_content_sensor">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać informacje gromadzone przez czujniki na urządzeniu (np. zbliżeniowy, barometr, krokomierz, magnetometr itd.). Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery Xiaomi w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
+  <string name="catch_full_log_privacy_content_signal">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać Twoje wiadomości, historię rozmów, informacje o sieci i dane komunikacyjne. Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery Xiaomi w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
+  <string name="catch_full_log_privacy_content_wifi">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać Twoje osobiste dane, informacje o lokalizacji, a także adresy IP i MAC urządzenia. Jeśli jesteś połączony z niezaszyfrowaną siecią Wi-Fi, możemy mieć także możliwość dostępu do części danych komunikacyjnych. Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery Xiaomi w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
   <string name="catch_full_log_start_dump_hprof">Wygeneruj log dot. lagów</string>
   <string name="catch_full_log_submit_directly">Wyślij</string>
   <string name="close_feedback_main">Ukryj</string>
   <string name="cta_cancel">Anuluj</string>
   <string name="cta_confirm">OK</string>
-  <string name="cta_dialog_content">Aplikacja Raporty MIUI wykorzystuje łączność z siecią do przesyłania raportów</string>
+  <string name="cta_dialog_content">Aplikacja Raporty wykorzystuje łączność z siecią do przesyłania raportów</string>
   <string name="cta_dialog_title">Wiadomość o sieci</string>
   <string name="cta_not_show_again">Nie pokazuj ponownie</string>
   <string name="customer_service_apply">Zgłoszenie do obsługi klienta</string>
@@ -84,7 +84,7 @@
   <string name="err_type_suggestion">Sugestie</string>
   <string name="err_type_system">System</string>
   <string name="err_type_system_summary">Pamięć, wydajność etc.</string>
-  <string name="err_type_systemapp">Aplikacje MIUI</string>
+  <string name="err_type_systemapp">Aplikacje systemu</string>
   <string name="err_type_translate">Język</string>
   <string name="err_type_wifi">Wi-Fi</string>
   <string name="err_type_xiaomi_family">Mi Home</string>
@@ -108,7 +108,7 @@
 %1$d. W jakiej aplikacji bądź na jakiej stronie odkryłeś problem?
 %2$d. Po wykonaniu jakich akcji pojawił się problem?
 %3$d. Przekaż dodatkowe informacje, które mogą pomóc Xiaomi naprawić ten problem."</string>
-  <string name="feedback_description_hint_suggestion">"Powiedz nam, jak powinniśmy ulepszać MIUI."</string>
+  <string name="feedback_description_hint_suggestion">"Powiedz nam, jak powinniśmy ulepszać system."</string>
   <string name="feedback_description_label">Opis</string>
   <string name="feedback_description_suggest_hint">Chciałbym dodać nową funkcję () ponieważ potrzebuję ().</string>
   <string name="feedback_detail_copy_toast">Skopiowano do schowka</string>
@@ -591,7 +591,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="title_mi_family">Mi Home w pobliżu</string>
   <string name="title_nonsystem_app">Inne</string>
   <string name="title_same_question_feedback_main">Podobne problemy na forum MIUI</string>
-  <string name="title_system_app">Aplikacje MIUI</string>
+  <string name="title_system_app">Aplikacje systemu</string>
   <string name="title_user_guide">Przewodnik</string>
   <string name="toast_app_tag_required">Wybierz najpierw element</string>
   <string name="toast_catch_full_log_catching">Możesz wygenerować tylko jeden log na raz.</string>
@@ -720,7 +720,7 @@ Rozmiar (akt. przyrostowa): %2$s"</string>
   <string name="auth_fail_warning">Sesja wygasła. Zaloguj się ponownie później.</string>
   <string name="bind_sign_in_title">Dodaj konto Xiaomi</string>
   <string name="catch_full_log_item_title_wifi_china">Wi-Fi</string>
-  <string name="catch_full_log_privacy_content_wifi_china">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać Twoje osobiste dane, informacje o lokalizacji, a także adresy IP i MAC urządzenia. Jeśli jesteś połączony z niezaszyfrowaną siecią Wi-Fi, możemy mieć także możliwość dostępu do części danych komunikacyjnych. Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery MIUI w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
+  <string name="catch_full_log_privacy_content_wifi_china">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać Twoje osobiste dane, informacje o lokalizacji, a także adresy IP i MAC urządzenia. Jeśli jesteś połączony z niezaszyfrowaną siecią Wi-Fi, możemy mieć także możliwość dostępu do części danych komunikacyjnych. Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery Xiaomi w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
   <string name="change_activate_email">Zmień adres e-mail</string>
   <string name="change_password">Zmień hasło</string>
   <string name="choose_to_signin">Tak</string>
@@ -1055,7 +1055,7 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
     <string name="miui_feedback_edit_contact_info_hint">Numer telefonu/e-mail</string>
     <string name="miui_feedback_edit_delete_images">Usuń zdjęcia</string>
     <string name="miui_feedback_edit_desc_hint">"Opisz swój problem"</string>
-    <string name="miui_feedback_edit_desc_hint_suggestion">"Powiedz nam, jak chciałbyś ulepszyć MIUI"</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">"Powiedz nam, jak chciałbyś ulepszyć system"</string>
     <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">Zostań tutaj</string>
     <string name="miui_feedback_edit_discard_draft_dialog_button_discard">Odrzuć</string>
     <string name="miui_feedback_edit_discard_draft_dialog_content">"Zmiany dokonane w tej opinii zostaną utracone."</string>
@@ -1092,8 +1092,8 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
     <string name="miui_feedback_edit_storage_permission_name">Dostęp do pamięci urządzenia</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">"Nie zgadzam się"</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Zgadzam się</string>
-    <string name="miui_feedback_edit_submit_dialog_content"><Data>"Aby móc użyć Opinii, musisz zgodzić się na warunki &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Polityki prywatności&lt;/a> i &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Umowy użytkownika&lt;/a> Xiaomi. Opinia dotycząca problemów wraz z załączonymi do niej elementami (które mogą zawierać osobiste informacje, a także dane dot. urządzenia i sieci) zostanie wysłana na serwery MIUI. Pomoże to developerom MIUI w zlokalizowaniu i naprawieniu Twojego problemu."</Data></string>
-    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>"Twoja opinia, wraz z zrzutami ekranu (jeśli załączono) i logami (możesz odznaczyć elementy, których nie chcesz wysyłać) zostanie wysłana na serwery MIUI. Logi mogą zawierać informacje osobiste oraz dane dot. lokalizacji. Wciśnięcie przycisku \"Zgadzam się\" potwierdza, że zapoznałeś się i zaakceptowałeś warunki &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Polityki prywatności&lt;/a> i &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Umowy użytkownika&lt;/a> Xiaomi."</Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content"><Data>"Aby móc użyć Opinii, musisz zgodzić się na warunki &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Polityki prywatności&lt;/a> i &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Umowy użytkownika&lt;/a> Xiaomi. Opinia dotycząca problemów wraz z załączonymi do niej elementami (które mogą zawierać osobiste informacje, a także dane dot. urządzenia i sieci) zostanie wysłana na serwery Xiaomi. Pomoże to developerom w zlokalizowaniu i naprawieniu Twojego problemu."</Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>"Twoja opinia, wraz z zrzutami ekranu (jeśli załączono) i logami (możesz odznaczyć elementy, których nie chcesz wysyłać) zostanie wysłana na serwery Xiaomi. Logi mogą zawierać informacje osobiste oraz dane dot. lokalizacji. Wciśnięcie przycisku \"Zgadzam się\" potwierdza, że zapoznałeś się i zaakceptowałeś warunki &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Polityki prywatności&lt;/a> i &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Umowy użytkownika&lt;/a> Xiaomi."</Data></string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Nie pokazuj ponownie"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Wyślij raport</string>
     <string name="miui_feedback_edit_submit_directly">Wyślij</string>

@@ -460,7 +460,7 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="super_volume_toast">Włączono Zwiększoną głośność</string>
     <string name="miuix_appcompat_edit">Edytuj</string>
     <string name="multi_desktop_mode">Stacja robocza</string>
-    <string name="open_miui_optimization">Najpierw włącz optymalizację MIUI</string>
+    <string name="open_miui_optimization">Najpierw włącz optymalizację systemu</string>
     <string name="deice_local">To urządzenie</string>
     <string name="kddi_miui_toast_zen_standard_to_off">"Tryb cichy został wyłączony. Połączenia i powiadomienia nie będą wyciszane."</string>
     <string name="kddi_miui_toast_zen_to_standard">Włączono Tryb cichy. Połączenia i powiadomienia będą wyciszane.</string>

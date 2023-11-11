@@ -93,9 +93,9 @@
         <item>Panel Sterowania;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>Synchronizuj Asystenta MIUI z Chmurą Xiaomi</item>
+        <item>Synchronizuj Asystenta HyperOS z Chmurą Xiaomi</item>
         <item>Włącz/ustaw synchronizację</item>
-        <item>Asystent MIUI;Karty;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+        <item>Asystent HyperOS;Karty;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
         <item>Chmura Xiaomi. Wszystkie usługi w jednym miejscu.</item>

@@ -469,4 +469,6 @@ d.M"</string>
     <string name="sunset_time_format_desc">Zachód słońca: %s</string>
     <string name="uvi_format_desc">Indeks ultrafioletowy: %1$s, %2$s</string>
     <string name="weather_no_data">Brak danych o pogodzie</string>
+    <string name="kg_classic_item_weather_cloudy">Pochmurnie</string>
+    <string name="kg_tip_cant_get_third_party_wallpaper">"Nie można uzyskać dostępu do tapety strony trzeciej"</string>
 </resources>

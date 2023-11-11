@@ -91,9 +91,9 @@
     <string name="mtrl_picker_toggle_to_year_selection">Dotknij, aby przełączyć na wybór roku</string>
     <string name="not_sent_recently">Ostatnio brak</string>
     <string name="notch_and_status_bar_setting">Centrum funkcji i pasek statusu</string>
-    <string name="notification_aggregate_description1">MIUI może automatycznie grupować powiadomienia push oraz dotyczące reklam, aby Twój panel powiadomień był mniej zaśmiecony.</string>
+    <string name="notification_aggregate_description1">System może automatycznie grupować powiadomienia push oraz dotyczące reklam, aby Twój panel powiadomień był mniej zaśmiecony.</string>
     <string name="notification_aggregate_description2">Algorytmy Xiaomi analizują treść powiadomienia - ta funkcja nie będzie obejmować np. ważnych alertów czy powiadomień z komunikatorów. Jeśli uważasz, że ważne powiadomienia zostały zgrupowane przez pomyłkę, zgłoś ten problem poprzez funkcję \"Opinie\".</string>
-    <string name="notification_aggregate_summary">Zezwól MIUI na automatyczne grupowanie powiadomień</string>
+    <string name="notification_aggregate_summary">Zezwól systemowi na automatyczne grupowanie powiadomień</string>
     <string name="notification_aggregate_summary_inner">Włącz, aby automatycznie grupować powiadomienia push oraz dotyczące reklam</string>
     <string name="notification_aggregate_title">Grupuj powiadomienia</string>
     <string name="notification_display_setting">Panel powiadomień</string>

@@ -8,7 +8,7 @@
   <string name="DesTencent">Tencent</string>
   <string name="Mi">Mi</string>
   <string name="Tencent">Tencent</string>
-  <string name="app_name">Elementy bezpieczeństwa MIUI</string>
+  <string name="app_name">Elementy bezpieczeństwa systemu</string>
   <string name="avast_dialog_cloudscan"/>
   <string name="avast_dialog_dbupdate"/>
   <string name="avast_dialog_header">"This feature encrypts and uploads your device's ID to Avast's servers (%s)."</string>

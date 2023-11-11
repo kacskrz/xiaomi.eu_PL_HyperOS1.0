@@ -69,7 +69,7 @@
   <string name="backup_update">Aktualizuj</string>
   <string name="batch_delete_backup_confirm">"Usunąć zaznaczone kopie?"</string>
   <string name="btn_got_it">Rozumiem</string>
-  <string name="button_backup">Utwórz kopię zapasową MIUI</string>
+  <string name="button_backup">Utwórz kopię zapasową systemu</string>
   <string name="button_cancel">Anuluj</string>
   <string name="button_clean_garbage">Zwolnij miejsce</string>
   <string name="button_continue">Dalej</string>
@@ -317,7 +317,7 @@ musisz najpierw utworzyć kopię zapasową iCloud."</string>
   <string name="new_britem_other">Inne</string>
   <string name="new_britem_pic">Zdjęcia</string>
   <string name="new_britem_video">Filmy</string>
-  <string name="new_confirm_enable_encrypt_content">"MIUI powiązuje zaszyfrowane kopie zapasowe z twoim kontem Xiaomi. Musisz się zalogować na konto Xiaomi, aby przywrócić elementy z tych kopii."</string>
+  <string name="new_confirm_enable_encrypt_content">"System powiązuje zaszyfrowane kopie zapasowe z twoim kontem Xiaomi. Musisz się zalogować na konto Xiaomi, aby przywrócić elementy z tych kopii."</string>
   <string name="new_confirm_enable_encrypt_title">Zaszyfruj</string>
   <string name="new_local_button_backup">Kopia zapasowa</string>
   <string name="new_local_button_restore">Przywróć</string>

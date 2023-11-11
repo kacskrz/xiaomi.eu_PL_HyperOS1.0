@@ -363,7 +363,7 @@ Ponadto musi ona łączyć się z siecią i wymagać będzie następujących upr
     <string name="usage_state_app_use_time">Czas aplikacji na ekranie</string>
     <string name="usage_state_card_add">Dodaj</string>
     <string name="usage_state_card_cancel">Anuluj</string>
-    <string name="usage_state_card_summary">Dodaj kartę \"Czas przed ekranem\" do Asystenta MIUI, aby bardziej efektywnie zarządzać swoim czasem.</string>
+    <string name="usage_state_card_summary">Dodaj kartę \"Czas przed ekranem\" do Asystenta HyperOS, aby bardziej efektywnie zarządzać swoim czasem.</string>
     <string name="usage_state_category">Kategorie</string>
     <string name="usage_state_channel_mouth">30 dni</string>
     <string name="usage_state_channel_week">7 dni</string>

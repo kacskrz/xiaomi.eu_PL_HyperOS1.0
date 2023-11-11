@@ -3579,8 +3579,8 @@ Każdy użytkownik może aktualizować aplikacje w imieniu wszystkich pozostały
     <string name="yesterday">Wczoraj</string>
     <string name="zen_mode_forever">Dopóki nie wyłączysz</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">OK</string>
-    <string name="dark_mode_power_save_alert_dialog_message">"Jeśli wyłączysz optymalizację MIUI i włączysz Oszczędzanie baterii, automatycznie włączy się Ciemny motyw.
-Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIUI w Ustawieniach > Opcje programisty > Optymalizacje MIUI."</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Jeśli wyłączysz optymalizację systemu i włączysz Oszczędzanie baterii, automatycznie włączy się Ciemny motyw.
+Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje systemu w Ustawieniach > Opcje programisty > Optymalizacje systemu."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Ciemny motyw</string>
     <string name="miui_restart_button_description">Uruchom ponownie dla lepszego wyświetlania</string>
     <string name="quick_settings_intelligent_dual_sim_accelerate_summary">Użyj danych mobilnych drugiej karty SIM, aby zwiększyć prędkość połączenia</string>

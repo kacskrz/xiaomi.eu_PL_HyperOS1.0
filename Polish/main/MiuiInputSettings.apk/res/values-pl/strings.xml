@@ -82,7 +82,7 @@
     <string name="double_click_volume_down_when_lock">Wciśnij dwa razy przycisk Głośność-, gdy ekran jest zablokowany</string>
     <string name="double_knock">Dotknij dwukrotnie</string>
     <string name="dump_log">Pobierz logi związane z problemami</string>
-    <string name="dump_log_summary">"Funkcja jest zaprojektowana do generowania %s logów w wersji Beta MIUI. Korzystaj z niej rozważnie.
+    <string name="dump_log_summary">"Funkcja jest zaprojektowana do generowania %s logów w wersji Beta systemu. Korzystaj z niej rozważnie.
 Możesz zobaczyć wygenerowane logi w aplikacji Pliki."</string>
     <string name="dump_log_title">O tej funkcji</string>
     <string name="early_morning">Poranek</string>

@@ -477,7 +477,7 @@ dla:
   <string name="feedback_body">Treść opinii</string>
   <string name="feedback_sent">Dziękujemy za Twoją opinię</string>
   <string name="feedback_user_edit_hint">Tutaj opisz problem. Wyślemy Ci wiadomość, gdy na to zerkniemy.</string>
-  <string name="feedback_user_edit_tag">Z MIUI</string>
+  <string name="feedback_user_edit_tag">Z HyperOS</string>
   <string name="fetch_bank_sender_list_failure">Nie udało się uzyskać informacji</string>
   <string name="fetching_attachment">Pobieranie załącznika</string>
   <string name="file_defailt_save_path">Załączniki zapisywane są w katalogu: %s. Możesz to zmienić w ustawieniach.</string>

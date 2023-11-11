@@ -60,7 +60,7 @@
     </string-array>
     <string-array name="minus_screen_entries">
         <item>Brak</item>
-        <item>Asystent MIUI</item>
+        <item>Asystent HyperOS</item>
         <item>Google</item>
     </string-array>
     <string-array name="global_search_mode_entries">

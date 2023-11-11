@@ -119,8 +119,8 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="power_checker_mobile_radio_title">%1$s często wymaga dostępu do sieci</string>
   <string name="power_checker_multi_apps_title">Aplikacje powodujące drenowanie baterii: %2$s</string>
   <string name="power_checker_notify_summary">Optymalizacja aplikacji powodujących drenowanie baterii</string>
-  <string name="power_checker_partial_wakelock_multi_apps_title">%1$s uniemożliwia MIUI wchodzenie w tryb uśpienia</string>
-  <string name="power_checker_partial_wakelock_title">%1$s uniemożliwia MIUI wchodzenie w tryb uśpienia</string>
+  <string name="power_checker_partial_wakelock_multi_apps_title">%1$s uniemożliwia systemowi wchodzenie w tryb uśpienia</string>
+  <string name="power_checker_partial_wakelock_title">%1$s uniemożliwia systemowi wchodzenie w tryb uśpienia</string>
   <string name="power_checker_recent_btn_title">Ustaw użycie baterii</string>
   <string name="power_checker_recent_group_title">Ostatnie</string>
   <string name="power_checker_running_btn_title">Zabij proces</string>

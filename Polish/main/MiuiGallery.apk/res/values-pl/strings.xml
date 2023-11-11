@@ -3845,4 +3845,5 @@ Automatycznie wybrano najlepsze zdjęcia. Możesz dodać ręcznie więcej zdję�
     <string name="search_title_ai_others">Zobacz wszystko</string>
     <string name="ai_free_creation_text_container_tips">"Generator obrazów SI Xiaomi jest stale ulepszany. Jeśli nie zadowalają Cię jego rezultaty, możesz spróbować później!"</string>
     <string name="album_scanner_china">Skaner</string>
+    <string name="burst_photo_preview_thumbnail_content_description">Zdjęcie %d</string>
 </resources>

@@ -88,7 +88,7 @@ Pobieranie z użyciem danych mobilnych może powodować naliczenie kosztów."</s
   <string name="head_set_tip_dialog_title">Użyj mikrofonu</string>
   <string name="invalid_argument">Nieprawidłowy argument</string>
   <string name="keywords_search_call_record">Nagrywaj rozmowy; Nagraj rozmowę; Nagraj połączenie; Nagrywaj połączenia</string>
-  <string name="keywords_search_record">Nowe nagranie;Dodaj nagranie;Nagranie;Nagrania;Transkrypcja;Transkryptuj;Dyktafon;Nagrywanie rozmowy;Nagrywanie dźwięku;Aplikacja nagrywająca;Jak nagrywać;Jak nagrać dźwięk;Gdzie jest dyktafon; Dyktafon MIUI</string>
+  <string name="keywords_search_record">Nowe nagranie;Dodaj nagranie;Nagranie;Nagrania;Transkrypcja;Transkryptuj;Dyktafon;Nagrywanie rozmowy;Nagrywanie dźwięku;Aplikacja nagrywająca;Jak nagrywać;Jak nagrać dźwięk;Gdzie jest dyktafon</string>
   <string name="keywords_search_record_list">Dyktafon;Transkryptuj;Transkrypcja;Nagraj;Udostępnij nagranie;Udostępnij nagrania;Nagranie;Nagrania</string>
   <string name="korea_permission_phone">Telefon</string>
   <string name="korea_permission_phone_resc">Dostęp do stanu urządzenia i nagrywania rozmów głosowych</string>
@@ -516,4 +516,7 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="toast_enter_silent_mode">Nagrywanie. Włączono Tryb cichy.</string>
   <string name="toast_exit_silent_mode">Zakończono nagrywanie. Wyłączono Tryb cichy.</string>
   <string name="trash_delete">Usuń</string>
+  <string name="permission_bluetooth">Dostęp do stanu połączenia Bluetooth</string>
+  <string name="permission_bluetooth_dialog_description">Zezwól temu urządzeniu na łączenie się z urządzeniami w pobliżu, aby móc przełączać się między urządzeniami podczas odtwarzania nagrań.</string>
+  <string name="permission_bluetooth_title">Wymagane uprawnienia</string>
 </resources>

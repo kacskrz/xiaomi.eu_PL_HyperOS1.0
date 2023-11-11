@@ -181,7 +181,7 @@
   <string name="impunity_declaration_positive_text">Zezwól</string>
   <string name="impunity_declaration_title">Polityka prywatności</string>
   <string name="jd_shopping_title">Wyszukaj na JD</string>
-  <string name="keywords_search_code">Skaner;Skanowanie;Kod QR;QR;Rozpoznawanie;Kod;Kody;Produkt;Produkty;Alipay;WeChat;Jak zeskanować kod QR;Jak zeskanować kod;Jak zeskanować;Skaner MIUI</string>
+  <string name="keywords_search_code">Skaner;Skanowanie;Kod QR;QR;Rozpoznawanie;Kod;Kody;Produkt;Produkty;Alipay;WeChat;Jak zeskanować kod QR;Jak zeskanować kod;Jak zeskanować</string>
   <string name="keywords_search_document">Skaner;Skanowanie dokumentu;Skanowanie dokumentów;OCR;Skanowanie tekstu;Skanowanie</string>
   <string name="keywords_search_namecard">Skaner;Wizytówka;Wizytówki;Skanowanie;Skanowanie kart;Karta;Karty;Kontakty;Kontakt</string>
   <string name="keywords_search_shopping">Zakupy;Skaner;Skanowanie produktów;Skanowanie produktu;Sprawdź cenę;Produkty;Taobao;Tmall;Ceny;Zakupy online</string>
@@ -208,7 +208,7 @@
   <string name="language_entry_spanish">Hiszpański</string>
   <string name="language_entry_swedish">Szwedzki</string>
   <string name="logistics">Przesyłki kurierskie</string>
-  <string name="low_version_tip">Zaktualizuj MIUI do najnowszej wersji, aby móc użyć Skanera.</string>
+  <string name="low_version_tip">Zaktualizuj system do najnowszej wersji, aby móc użyć Skanera.</string>
   <string name="mipay">Mi Pay</string>
   <string name="mipayin_dialog_mipayName">Mi Pay</string>
   <string name="mipayin_dialog_more">Więcej</string>
@@ -421,7 +421,7 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="if_open_result">Wyświetl rezultat skanowania po powrocie do aplikacji</string>
   <string name="mipayin_dialog_title">Otwórz za pomocą</string>
   <string name="monitor_low_android">Wersja Androida jest za niska</string>
-  <string name="monitor_low_miui">Wersja MIUI jest za niska</string>
+  <string name="monitor_low_miui">Wersja systemu jest za niska</string>
   <string name="wechatcode_auto_processing_function_requires_permissions">Automatyczne przetwarzanie kodów WeChat wymaga uprawnień dla aplikacji WeChat do aparatu i pamięci.</string>
   <string name="Enhance">Rozszerzone</string>
   <string name="adjustment_area">Dostosuj</string>

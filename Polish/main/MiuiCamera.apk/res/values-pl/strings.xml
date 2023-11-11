@@ -548,7 +548,7 @@ były bardziej widoczne na zdjęciach"</string>
   <string name="module_name_portrait">Portret</string>
   <string name="module_name_professional">Profesjonalny</string>
   <string name="module_name_square">Kwadrat</string>
-  <string name="module_name_video">Film</string>
+  <string name="module_name_video">Wideo</string>
   <string name="moive_frame">Klatka filmu</string>
   <string name="multi_window_mode_not_supported">"Aparat nie może funkcjonować w trybie dzielonego ekranu"</string>
   <string name="network_access_user_notice_agree">Zgadzam się</string>
@@ -899,11 +899,11 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_snap_entry_summary">Naciśnij i przytrzymaj przycisk Głośność- na wyłączonym ekranie, aby wykonać zdjęcie</string>
   <string name="pref_camera_snap_entry_take_movie">Szybki aparat (film)</string>
   <string name="pref_camera_snap_entry_take_picture">Szybki aparat (zdjęcie)</string>
-  <string name="pref_camera_snap_label_take_movie">Film</string>
+  <string name="pref_camera_snap_label_take_movie">Wideo</string>
   <string name="pref_camera_snap_label_take_picture">Zdjęcie</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Nie można użyć funkcji \"Przy wył. ekranie\" podczas gdy wybudzanie przyciskami głośności jest aktywne"</string>
   <string name="pref_camera_snap_value_off">Wył.</string>
-  <string name="pref_camera_snap_value_take_movie">Film</string>
+  <string name="pref_camera_snap_value_take_movie">Wideo</string>
   <string name="pref_camera_snap_value_take_picture">Zdjęcie</string>
   <string name="pref_camera_sound_title">Dźwięk migawki</string>
   <string name="pref_camera_square_mode_title">Kwadrat</string>
@@ -1259,7 +1259,7 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="clone_put_phone_back_in_place">Przywróć urządzenie do pierwotnej pozycji</string>
   <string name="clone_start_capture">Rozpocznij klonowanie</string>
   <string name="clone_too_much_movement_stop">Przesunąłeś urządzenie za daleko. Zatrzymano nagrywanie.</string>
-  <string name="clone_video_mode">Film</string>
+  <string name="clone_video_mode">Wideo</string>
   <string name="color_effect_entry_blackgold">Złoto</string>
   <string name="color_effect_entry_first">Początek</string>
   <string name="color_effect_entry_sibopenk">Cyberpunk</string>
@@ -1678,8 +1678,8 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="professional_shortcut_short">Pro</string>
   <string name="doc_shortcut_long">Dokument</string>
   <string name="doc_shortcut_short">Dokum.</string>
-  <string name="video_shortcut_long">Film</string>
-  <string name="video_shortcut_short">Film</string>
+  <string name="video_shortcut_long">Wideo</string>
+  <string name="video_shortcut_short">Wideo</string>
   <string name="capture_shortcut_long">Selfie</string>
   <string name="capture_shortcut_short">Selfie</string>
   <string name="accessibility_reference_line_text">Otwórz panel z opcjami linii odniesienia</string>

@@ -28,7 +28,7 @@
     <string name="cancel_description">Anuluj</string>
     <string name="cancel_moving_dialog_message">Zatrzymać importowanie teraz?</string>
     <string name="cancel_moving_dialog_title">Zatrzymaj importowanie</string>
-    <string name="cannot_use_mi_huanji_summary">"Wygląda na to, że MIUI wykonuje teraz kopię zapasową elementów. Zatrzymaj tworzenie kopii bądź zrestartuj urządzenie, aby móc użyć Przenoszenia danych."</string>
+    <string name="cannot_use_mi_huanji_summary">"Wygląda na to, że system wykonuje teraz kopię zapasową elementów. Zatrzymaj tworzenie kopii bądź zrestartuj urządzenie, aby móc użyć Przenoszenia danych."</string>
     <string name="cannot_use_mi_huanji_title">"Nie można przenieść teraz"</string>
   <string name="check_phone_error_title">Synchronizacja jest wyłączona</string>
   <string name="check_phone_io_error">Nie można połączyć z siecią</string>
@@ -598,11 +598,11 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="prompt_before_transmission_message4_summary">"Nie wyłączaj sieci Wi-Fi, a także nie przełączaj się pomiędzy sieciami, dopóki transfer się nie zakończy."</string>
     <string name="prompt_before_transmission_message4_title">Utrzymuj połączenie w trakcie przenoszenia</string>
     <string name="transfer_connect_fail_summary">Dotknij przycisku poniżej, aby połączyć się ręcznie</string>
-    <string name="after_reset_need_restore_system_app">"Wygląda na to, że przywrócono urządzenie do ustawień fabrycznych. Połącz się z siecią i przywróć elementy systemu, aby móc normalnie używać MIUI."</string>
+    <string name="after_reset_need_restore_system_app">"Wygląda na to, że przywrócono urządzenie do ustawień fabrycznych. Połącz się z siecią i przywróć elementy systemu, aby móc normalnie go używać."</string>
     <string name="btn_mi_cloud_install_complete">"Zainstalowano aplikację"</string>
     <string name="btn_restore_data_to_device_complete">Zaloguj się</string>
     <string name="btn_sync_data_to_mi_cloud_complete">Pomyślnie zsynchronizowano</string>
-    <string name="click_to_restore">Przywróć elementy systemu, aby móc normalnie używać MIUI po resecie urządzenia do ustawień fabrycznych. Dotknij, aby rozpocząć.</string>
+    <string name="click_to_restore">Przywróć elementy systemu, aby móc normalnie go używać po resecie urządzenia do ustawień fabrycznych. Dotknij, aby rozpocząć.</string>
     <string name="cloud_service_check_dialog_message">Synchronizacja elementów z Galerii i kontaktów jest wyłączona. Włącz ją, aby te elementy pojawiły się na Twoim urządzeniu.</string>
     <string name="cloud_service_check_dialog_positive_button">Włącz</string>
     <string name="cloud_service_check_dialog_title">Synchronizacja kontaktów i elementów z Galerii</string>

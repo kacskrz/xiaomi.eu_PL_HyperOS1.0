@@ -59,12 +59,12 @@
   <string name="first_using_dialog_message">"Aplikacja Kompasu wymaga połączenia z siecią"</string>
   <string name="first_using_dialog_title">Warunki Użytkowania</string>
   <string name="guide_toast">"Poruszaj telefon wg schematu poniżej"</string>
-  <string name="keywords_search_compass">Kompas;Kalibracja kompasu;Ciśnienie;Wysokość;Szerokość;Długość;Sprawdź szerokość;Sprawdź szerokość;Kompas MIUI;Aplikacja Kompas;Aplikacja Kompas;Gdzie jest Kompas;Pobierz Kompas;Ciśnienie atmosferyczne;Sprawdź wysokość;Jaka jest wysokość</string>
+  <string name="keywords_search_compass">Kompas;Kalibracja kompasu;Ciśnienie;Wysokość;Szerokość;Długość;Sprawdź szerokość;Sprawdź szerokość;Aplikacja Kompas;Aplikacja Kompas;Gdzie jest Kompas;Pobierz Kompas;Ciśnienie atmosferyczne;Sprawdź wysokość;Jaka jest wysokość</string>
   <string name="latitude">Szer.</string>
   <string name="location_east">Długość</string>
   <string name="location_enable">Włącz</string>
   <string name="location_enable_later">Nie teraz</string>
-  <string name="location_enabled">Po kalibracji możesz wyłączyć lokalizację w ustawieniach MIUI</string>
+  <string name="location_enabled">Po kalibracji możesz wyłączyć lokalizację w ustawieniach</string>
   <string name="location_north">Szerokość</string>
   <string name="location_not_enabled_summary">Wymagany jest dostęp do usługi lokalizacji urządzenia, aby poprawnie określać położenie</string>
   <string name="location_not_enabled_title">Włącz usługi lokalizacji</string>

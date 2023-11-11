@@ -323,7 +323,7 @@ Administrator może monitorować ustawienia, uprawnienia dostępu, aplikacje i d
   <string name="allow_mock_location">Pozorowanie lokalizacji</string>
   <string name="allow_mock_location_summary">Zezwalaj na pozorowanie lokalizacji</string>
   <string name="allow_oaid_used">Użyj wirtualnego ID</string>
-  <string name="allow_oaid_used_desc">"MIUI nie będzie dostarczać wirtualnego ID aplikacjom. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
+  <string name="allow_oaid_used_desc">"System nie będzie dostarczać wirtualnego ID aplikacjom. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
   <string name="allow_overlay_description">To uprawnienie zezwala na wyświetlanie aplikacji nad innymi aplikacjami, których używasz, i może powodować zakłócenia w korzystaniu z interfejsu innych aplikacji lub ich działanie niezgodne z tym, co widać na ekranie.</string>
   <string name="allow_sound">Zezwól na dźwięk</string>
   <string name="allow_sound_title">Dźwięk</string>
@@ -1442,9 +1442,9 @@ Możesz wyłączyć tę funkcję w Ustawienia > Bluetooth > Sparowane urządzeni
   <string name="close_gesture">Zamknij za pomocą gestu</string>
   <string name="close_hotspot_hint">Wyłącz hotspot Wi-Fi przed rozpoczęciem przesyłania ekranu</string>
   <string name="close_install_and_connect">Nie, dziękuję</string>
-  <string name="close_miui_optimization_title">Wyłącz optymalizacje MIUI</string>
+  <string name="close_miui_optimization_title">Wyłącz optymalizacje systemu</string>
   <string name="close_miui_optimization_warning_message">Urządzenie uruchomi się ponownie, aby zastosować zmiany. Uwaga: Wyłączenie funkcji spowoduje poważne zmiany w wyglądzie interfejsu użytkownika.</string>
-  <string name="close_optimization_message">Wyłączenie tej funkcji może mieć wpływ na wygląd tekstu, kont i innych części systemu MIUI</string>
+  <string name="close_optimization_message">Wyłączenie tej funkcji może mieć wpływ na wygląd tekstu, kont i innych części systemu</string>
   <string name="close_optimization_option">Wyłącz</string>
   <string name="close_privacy_thumbnail_blur_title">"Podglądy nie są zamazane"</string>
   <string name="close_sdcard_optimization_title">Wył. pozorowaną optymalizację karty SD</string>
@@ -1731,9 +1731,9 @@ Aby dalej używać urządzenia, musisz przywrócić dane fabryczne. Podczas konf
   <string name="dangerous_option_hint_title">Włączona jest ryzykowna funkcja</string>
   <string name="dangerous_option_switch_title">Powiadom o wysoce ryzykownych funkcjach</string>
   <string name="dark_color_mode">Ciemny motyw</string>
-  <string name="dark_color_summary">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji</string>
-  <string name="dark_color_summary_lcd">"Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb może ci pomóc ograniczyć zmęczenie oczu podczas korzystania z telefonu w ciemności."</string>
-  <string name="dark_color_summary_oled">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb ogranicza użycie baterii i pomaga ograniczyć zmęczenie oczu.</string>
+  <string name="dark_color_summary">Ustaw ciemną paletę kolorów dla interfejsu systemu oraz kompatybilnych aplikacji</string>
+  <string name="dark_color_summary_lcd">"Ustaw ciemną paletę kolorów dla interfejsu systemu oraz kompatybilnych aplikacji. Ten tryb może ci pomóc ograniczyć zmęczenie oczu podczas korzystania z telefonu w ciemności."</string>
+  <string name="dark_color_summary_oled">Ustaw ciemną paletę kolorów dla interfejsu systemu oraz kompatybilnych aplikacji. Ten tryb ogranicza użycie baterii i pomaga ograniczyć zmęczenie oczu.</string>
   <string name="dark_mode_contrast">Dostosuj kontrast automatycznie</string>
   <string name="dark_mode_contrast_hint">Dopasuj kolory i zmniejszaj kontrast automatycznie, kiedy jasność jest niska</string>
   <string name="dark_ui_mode">Ciemny motyw</string>
@@ -2251,7 +2251,7 @@ Ustawienie dotyczy wszystkich użytkowników tego urządzenia."</string>
   <string name="drive_mode_voice_report">Raporty głosowe</string>
   <string name="dtmf_tone_enable_title">Dźwięki wybierania numeru</string>
   <string name="dual_clock">Podwójny zegar</string>
-  <string name="dual_clock_aod_hint">"\"Podwójny zegar\" działa w następujących przypadkach: 1. Dla trybu Ekran zawsze włączony - włącz ten tryb w Ustawieniach &gt; Wyświetlacz; 2. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 3. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
+  <string name="dual_clock_aod_hint">"\"Podwójny zegar\" działa w następujących przypadkach: 1. Dla trybu Ekran zawsze włączony - włącz ten tryb w Ustawieniach &gt; Wyświetlacz; 2. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu; 3. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
   <string name="dual_clock_aod_open_message">Podwójny zegar będzie wyświetlany na ekranie blokady, pulpicie i w trybie Ekran zawsze włączony.</string>
   <string name="dual_clock_hint">Podwójny zegar wymaga używania systemowego widżetu zegara oraz domyślnego motywu</string>
   <string name="dual_clock_ok">Rozumiem</string>
@@ -3329,7 +3329,7 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="local_backup_password_toast_validation_failure">Nie udało się ustawić hasła kopii zapasowej</string>
   <string name="local_backup_section_summary">Zapisuj kopie zapasowe ustawień systemowych, kont telefonu i danych aplikacji na pamięci USB urządzenia.</string>
   <string name="local_backup_section_summary_new">Skopiuj konta, dane aplikacji, ustawienia systemu i więcej</string>
-  <string name="local_backup_section_title">Kopia zapasowa systemu MIUI</string>
+  <string name="local_backup_section_title">Kopia zapasowa systemu</string>
   <string name="local_backup_section_title_new">Na tym urządzeniu</string>
   <string name="local_select_userapp">Aplikacje</string>
   <string name="locale_default">Domyślnie</string>
@@ -3842,7 +3842,7 @@ Tej czynności nie można cofnąć."</string>
   <string name="miui_allow_vibrate">Wibracje</string>
   <string name="miui_data_usage_menu_metered">To jest hotspot</string>
   <string name="miui_enable_service_title">Usługa może wykonywać poniższe akcje:</string>
-  <string name="miui_experience_optimization">Włącz optymalizacje MIUI</string>
+  <string name="miui_experience_optimization">Włącz optymalizacje systemu</string>
   <string name="miui_face_enroll_success">"Możesz już odblokować ten telefon, używając danych twarzy.
 Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
   <string name="miui_ime_xiaoai_voice_hint">Szybsza i wygodniejsza opcja wpisywania tekstu</string>
@@ -3878,7 +3878,7 @@ Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
   <string name="miui_lab_taplus_title">Wł. aplikacji</string>
   <string name="miui_master_clear_summary">Wymazuje wszystkie dane z telefonu</string>
   <string name="miui_more_special_feature">Więcej funkcji</string>
-  <string name="miui_optimization_disabled">Wyłącz optymalizację MIUI</string>
+  <string name="miui_optimization_disabled">Wyłącz optymalizację systemu</string>
   <string name="miui_screen_config_title">Konfiguracja pulpitu</string>
   <string name="miui_silent_title">Tryb cichy</string>
   <string name="miui_sos_audio_summary">Odtwórz wiadomość SOS po połączeniu z kontaktem alarmowym</string>
@@ -4257,7 +4257,7 @@ Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
   <string name="no_services">Nieaktywne</string>
   <string name="no_trust_agents">Brak agentów zaufania</string>
   <string name="no_update_found">"Zainstalowana najnowsza wersja systemu: "</string>
-  <string name="no_updates_found">"Zainstalowana jest obecnie najnowsza wersja MIUI."</string>
+  <string name="no_updates_found">"Zainstalowana jest obecnie najnowsza wersja systemu."</string>
   <string name="no_updates_warning">Twój system jest aktualny</string>
   <string name="no_updates_warning2">"Spokojnie, zostaniesz powiadomiony o aktualizacji."</string>
   <string name="no_vr_listeners">Żadne zainstalowane aplikacje nie prosiły o uruchomienie w trybie usług pomocniczych rzeczywistości wirtualnej.</string>
@@ -4303,7 +4303,7 @@ Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
   <string name="notification_content_block_summary">Nie pokazuj powiadomień na pasku lub na zewnętrznych urządzeniach</string>
   <string name="notification_content_block_title">Pokaż powiadomienia</string>
   <string name="notification_fold_description1">Katalog powiadomień został wprowadzony w MIUI 9. Ta funkcja filtruje nieistotne powiadomienia i umieszcza je w oddzielnym folderze.</string>
-  <string name="notification_fold_description2">MIUI zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
+  <string name="notification_fold_description2">System zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
   <string name="notification_fold_description3">"Jeśli powiadomienia, które uważasz za ważne, nadal trafiają do katalogu powiadomień, upewnij się, że zgłosiłeś nam takie problemy. Będziemy wdzięczni za Twoją opinię."</string>
   <string name="notification_fold_footer_icon_summary">Pokazuj ikony z zgrupowanych nieistotnych powiadomień</string>
   <string name="notification_fold_footer_icon_title">Pokazuj ikony aplikacji</string>
@@ -4446,15 +4446,15 @@ Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
   <string name="open_demo_mode_warning_message">W trybie demonstracyjnym zegar na pasku statusu będzie zatrzymany, ikona baterii i zasięgu będzie pełna. Możesz wyłączyć Demo lub uruchomić ponownie telefon, aby to zmienić.</string>
   <string name="open_game_accelerate">Włącz Game Turbo</string>
   <string name="open_haptic_feedback">Reakcje haptyczne</string>
-  <string name="open_miui_optimization_title">Włącz optymalizacje MIUI</string>
+  <string name="open_miui_optimization_title">Włącz optymalizacje systemu</string>
   <string name="open_miui_optimization_warning_message">Urządzenie uruchomi się ponownie aby zastosować zmiany</string>
   <string name="open_optimization_message">Włącz optymalizację w celu polepszenia wydajności i szybkości systemu MIUI</string>
   <string name="open_optimization_option">Włącz</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Anuluj</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Wyłącz</string>
-  <string name="open_personal_assistant_dialog_desc">"Czy na pewno wyłączyć Asystenta MIUI?"</string>
+  <string name="open_personal_assistant_dialog_desc">"Czy na pewno wyłączyć Asystenta HyperOS?"</string>
   <string name="open_personal_assistant_dialog_title">Wyłącz Asystenta</string>
-  <string name="open_personal_assistant_title">Asystent MIUI</string>
+  <string name="open_personal_assistant_title">Asystent HyperOS</string>
   <string name="open_privacy_thumbnail_blur_title">Podglądy są zamazane</string>
   <string name="open_sdcard_optimization_title">Wł. pozorowanie optymalizacji karty SD</string>
   <string name="open_sdcard_optimization_warning_message">Urządzenie uruchomi się ponownie.</string>
@@ -4736,7 +4736,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="preferred_app_settings_not_selected">Nie wybrano</string>
   <string name="preferred_app_settings_reset">Przywróć domyślne</string>
   <string name="preferred_app_settings_reset_button">Przywróć</string>
-  <string name="preferred_app_settings_reset_message">Na pewno przywrócić domyślne ustawienia aplikacji MIUI?</string>
+  <string name="preferred_app_settings_reset_message">Na pewno przywrócić domyślne ustawienia aplikacji systemowych?</string>
   <string name="preferred_application_title">Preferowane: %s</string>
   <string name="preferred_application_warning_message">Zmiana domyślnej aplikacji %1$s może powodować nadmierne użycie baterii lub zagrozić bezpieczeństwu. Zaleca się użycie aplikacji %2$s.</string>
   <string name="preferred_application_warning_replace">Zmień</string>
@@ -5409,7 +5409,7 @@ Aby używać przypinania aplikacji: \u0009
   <string name="se_wallet_ese">Mi Pay i karta NFC</string>
   <string name="se_wallet_hce">Portfel NFC z HCE</string>
   <string name="se_wallet_uicc">Portfel na SIM %1$s</string>
-  <string name="search_about_settings">O telefonie;Oznaczenie modelu;Wersja Android;Wersja MIUI;CPU;RAM;Pamięć wewnętrzna;Wersja radia;Wersja jądra;Numer wersji</string>
+  <string name="search_about_settings">O telefonie;Oznaczenie modelu;Wersja Android;Wersja systemu;CPU;RAM;Pamięć wewnętrzna;Wersja radia;Wersja jądra;Numer wersji</string>
   <string name="search_accelerometer_title">Automatyczny obrót ekranu; Obrót ekranu;Orientacja;Portret;Krajobraz</string>
   <string name="search_access_control">Ustawienia prywatności;Ustawienia prywatności;Gość;Tryb gościa</string>
   <string name="search_accessibility_captioning_title">Napisy</string>
@@ -6148,7 +6148,7 @@ Umożliwiają to dane uwierzytelniające zainstalowane na Twoim urządzeniu."</s
   <string name="status_bar_settings_toggle_position">Kolejność przełączników</string>
   <string name="status_bar_settings_user_fold">Katalog powiadomień</string>
   <string name="status_bar_settings_user_fold_description1">Katalog powiadomień został wprowadzony w MIUI 9. Ta funkcja filtruje nieistotne powiadomienia i umieszcza je w oddzielnym folderze.</string>
-  <string name="status_bar_settings_user_fold_description2">MIUI zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
+  <string name="status_bar_settings_user_fold_description2">System zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
   <string name="status_bar_settings_user_fold_description3">"Jeśli powiadomienia, które uważasz za ważne, nadal trafiają do katalogu powiadomień, upewnij się, że zgłosiłeś nam takie problemy. Będziemy wdzięczni za Twoją opinię."</string>
   <string name="status_bar_settings_user_fold_disable">Wył.</string>
   <string name="status_bar_settings_user_fold_enable">Wł.</string>
@@ -7137,7 +7137,7 @@ Każdy użytkownik może aktualizować aplikacje wszystkich innych użytkownikó
   <string name="user_exit_guest_dialog_remove">Usuń</string>
   <string name="user_exit_guest_title">Usuń gościa</string>
   <string name="user_experience_program">Program zadowolenia użytkownika</string>
-  <string name="user_experience_program_summary">Pomóż MIUI w ulepszaniu produktów przez anonimowe przesyłanie danych. Aby dowiedzieć się więcej, przeczytaj warunki tegoż Programu.</string>
+  <string name="user_experience_program_summary">Pomóż Xiaomi w ulepszaniu produktów przez anonimowe przesyłanie danych. Aby dowiedzieć się więcej, przeczytaj warunki tegoż Programu.</string>
   <string name="user_experience_program_title">Program zadowolenia użytkownika</string>
   <string name="user_feedback">Opinia</string>
   <string name="user_guest">Gość</string>
@@ -7800,8 +7800,8 @@ Zezwolić na to wszystkim aplikacjom, które chcą wykonywać skanowanie?"</stri
   <string name="wifi_share_add_summary">"Podczas udostępniania Wi-Fi 
   możesz używać sieci od innych użytkowników"</string>
   <string name="wifi_share_connect">Połącz</string>
-  <string name="wifi_share_connected_summary">"Jesteś podłączony do publicznej sieci Wi-Fi udostępnionej przez innego użytkownika MIUI"</string>
-  <string name="wifi_share_connected_title">Połączenie z siecią Wi-Fi przez MIUI</string>
+  <string name="wifi_share_connected_summary">"Jesteś podłączony do publicznej sieci Wi-Fi udostępnionej przez innego użytkownika Xiaomi"</string>
+  <string name="wifi_share_connected_title">Połączenie z siecią Wi-Fi przez system</string>
   <string name="wifi_share_count">Masz %d udostępnionych sieci</string>
   <string name="wifi_share_current_network">Aktualna sieć</string>
   <string name="wifi_share_know">OK</string>
@@ -9491,7 +9491,7 @@ Z tego urządzenia korzystają inni użytkownicy.
     <string name="media_controls_hide_player">Ukryj odtwarzacz</string>
     <string name="media_controls_recommendations_description">Na podstawie Twojej aktywności</string>
     <string name="media_controls_recommendations_title">Pokazuj rekomendacje multimediów</string>
-    <string name="media_controls_resume_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostaje otwarty w Szybkich ustawieniach</string>
+    <string name="media_controls_resume_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostanie otwarty w Szybkich ustawieniach</string>
     <string name="media_controls_resume_title">Przypnij odtwarzacz</string>
     <string name="media_controls_show_player">Pokaż odtwarzacz</string>
     <string name="media_controls_title">Multimedia</string>
@@ -12521,8 +12521,8 @@ Po wyłączeniu trybu Nie przeszkadzać możesz zobaczyć wszystkie powiadomieni
     <string name="wifi_tether_high_temperature_toast">Funkcja jest chwilowo niedostępna ze względu na zbyt wysoką temperaturę</string>
     <string name="embedded_window_guide_text">Gdy treść jest wyświetlana poziomo, aplikacje będą wyświetlane równolegle do siebie. Gdy ta funkcja jest wyłączona, aplikacje będą wyśrodkowane.</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">OK</string>
-    <string name="dark_mode_power_save_alert_dialog_message">"Jeśli wyłączysz optymalizację MIUI i włączysz Oszczędzanie baterii, automatycznie włączy się Ciemny motyw.
-Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIUI w Ustawieniach > Opcje programisty > Optymalizacje MIUI."</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Jeśli wyłączysz optymalizację systemu i włączysz Oszczędzanie baterii, automatycznie włączy się Ciemny motyw.
+Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje systemu w Ustawieniach > Opcje programisty > Optymalizacje systemu."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Ciemny motyw</string>
     <string name="show_alarm_icon_title">Pokaż ikonę alarmu</string>
     <string name="show_bt_icon_title">Pokaż ikonę Bluetooth</string>
@@ -12909,7 +12909,7 @@ Jeśli nie przyznasz tych uprawnień, system zastosuje limit czasu wykonywania p
     <string name="long_background_tasks_switch_title">Zezwól na długotrwałe zadania w tle</string>
     <string name="long_background_tasks_title">Długotrwałe zadania w tle</string>
     <string name="manage_trust_agents_summary_on">{count,plural, =1{1 aktywny agent zaufania}few{# aktywne agenty zaufania}many{# aktywnych agentów zaufania}other{# aktywnego agenta zaufania}}</string>
-    <string name="media_controls_lockscreen_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostaje otwarty na ekranie blokady</string>
+    <string name="media_controls_lockscreen_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostanie otwarty na Ekranie blokady</string>
     <string name="media_controls_lockscreen_title">Pokazuj multimedia na ekranie blokady</string>
     <string name="media_output_status_device_in_low_power_mode">Wybudź urządzenie, aby odtworzyć tutaj</string>
     <string name="media_output_status_not_support_downloads">Tutaj nie można odtworzyć pobranych plików</string>

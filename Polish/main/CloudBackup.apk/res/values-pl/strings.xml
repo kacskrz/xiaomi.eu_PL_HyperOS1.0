@@ -263,7 +263,7 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
   <string name="total_space">Pojemność: %s</string>
   <string name="try_again">Dotknij, aby spróbować ponownie</string>
   <string name="unselected">Nie wybrano</string>
-  <string name="unsupported_home">Zaktualizuj MIUI do najnowszej wersji.</string>
+  <string name="unsupported_home">Zaktualizuj system do najnowszej wersji.</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
   <string name="wait_icon_download">Pobieranie ikon aplikacji</string>

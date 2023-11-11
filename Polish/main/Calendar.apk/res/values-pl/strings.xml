@@ -525,7 +525,7 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
     <string name="setting">Ustawienia</string>
     <string name="setting_about_calendar_version">Wersja kalendarza:</string>
     <string name="setting_about_imei">IMEI:</string>
-    <string name="setting_about_miui_version">Wersja MIUI:</string>
+    <string name="setting_about_miui_version">Wersja systemu:</string>
     <string name="setting_about_summary">Wersja:</string>
     <string name="setting_accounts">Konta Kalendarza</string>
     <string name="setting_change_language">Wybierz język Kalendarza</string>

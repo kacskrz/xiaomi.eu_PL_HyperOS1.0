@@ -1042,4 +1042,5 @@
   <string name="dialog_msg_delete_icon_title_phone">Usunąć ten skrót z pulpitu?</string>
   <string name="be_figuring">Obliczanie…</string>
   <string name="dc_storage_info_new">Dostępne %1$s</string>
+  <string name="lock_device_toast">To urządzenie jest zablokowane. Odblokuj je, aby użyć Czyszczenia.</string>
 </resources>

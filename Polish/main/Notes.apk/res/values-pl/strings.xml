@@ -295,7 +295,7 @@
   <string name="sns_desc_image_preview">Podgląd wiadomości</string>
   <string name="sns_desc_preview_wechat">WeChat message preview</string>
   <string name="sns_desc_preview_weibo">Weibo message preview</string>
-  <string name="sns_footer_text">Utworzone przy pomocy Notatek MIUI</string>
+  <string name="sns_footer_text">Utworzone przy pomocy Notatek Xiaomi</string>
   <string name="sns_hint_content">"Co chodzi Ci po głowie?"</string>
   <string name="sns_hint_title">Temat (opcjonalnie)</string>
   <string name="sns_message_disconnect">"Can't connect to the network. Check your connection and try again."</string>
