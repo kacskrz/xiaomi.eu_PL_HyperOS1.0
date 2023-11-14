@@ -216,7 +216,7 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
   <string name="restore_app_order_search_normal">Aplikacje z normalnym priorytetem</string>
   <string name="restore_app_order_search_prior">Aplikacje z wysokim priorytetem</string>
   <string name="restore_app_order_title">Priorytet dla przywróconych elementów</string>
-  <string name="restore_cloud_backup_to_phone">Przywróć dane z Chmury</string>
+  <string name="restore_cloud_backup_to_phone">Zarządzaj kopiami z chmury</string>
   <string name="restore_data_summary">Wymagane jest połączenie z siecią.</string>
   <string name="restore_data_title">Przywróć dane</string>
   <string name="restore_detail_category_apps">Układ pulpitu i aplikacje</string>
@@ -229,7 +229,7 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
   <string name="restore_finished_notification_content">Przywrócono aplikacje, ustawienia systemowe itp.</string>
   <string name="restore_from_cloud">Przywracanie z Chmury Xiaomi</string>
   <string name="restore_from_mimover">Przywróć ze starego urządzenia (Przenoszenie danych)</string>
-  <string name="restore_from_this_device">Wybierz kopię</string>
+  <string name="restore_from_this_device">Przywróć dane</string>
   <string name="restore_home_failed">"Nie można przywrócić pulpitu"</string>
   <string name="restore_home_screen_apps">Przywróć elementy</string>
   <string name="restore_init_description">Zacznij przywracanie</string>
@@ -285,7 +285,7 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
 * Ustawień systemu 
 
 Info: dane zainstalowanych aplikacji nie będą zachowane w Chmurze."</string>
-  <string name="cloud_backup_detail_state_summary_china">Urządzenie musi być połączone z siecią Wi-Fi, podłączone do ładowarki i zablokowane</string>
+  <string name="cloud_backup_detail_state_summary_china">Urządzenie musi być połączone z siecią Wi-Fi, naładowane w co najmniej %s i zablokowane</string>
   <string name="dialog_msg_restore_require_wlan_china">Przywrócenie kopii zapasowych wymaga połączenia z siecią Wi-Fi.</string>
   <string name="dialog_title_require_wlan_china">Połącz się z siecią Wi-Fi</string>
   <string name="backup_action_buy_cloud_space">Uzyskaj więcej przestrzeni</string>
@@ -378,13 +378,12 @@ Wymagane są uprawnienia."</string>
   <string name="restore_detail_category_app_data_summary_disable">Odinstaluj aplikację WeChat, aby móc przywrócić jej dane</string>
   <string name="restore_detail_category_apps_size">Rozmiar: %s</string>
   <string name="restore_detail_category_settings_size">Rozmiar: ＜%.1f GB</string>
-  <string name="restore_file_empty">Brak kopii zapasowych</string>
-  <string name="restore_header_backup_size">Rozmiar kopii：%s</string>
+  <string name="restore_file_empty">Nic tu nie ma</string>
+  <string name="restore_header_backup_size">Rozmiar</string>
   <string name="restore_header_msg">"Przed przywróceniem danych WeChata upewnij się, że aplikacja WeChat nie jest zainstalowana na tym urządzeniu. W trakcie trwania procesu nie otwieraj WeChata i nie korzystaj z niego."</string>
-  <string name="restore_header_title">Łączny rozmiar: %s</string>
-  <string name="restore_header_title2">Kopii łącznie: %s</string>
-  <string name="restore_home_screen_apps_options">"Opcje kopii zapasowej
-%s"</string>
+  <string name="restore_header_title">Rozmiar kopii</string>
+  <string name="restore_header_title2">Urządzenia</string>
+  <string name="restore_home_screen_apps_options">"Przywróć dane"</string>
   <string name="self_device_disable">%s (niewspierane na tym urządzeniu)</string>
   <string name="session_action_btn_text_return_home">Pulpit</string>
   <string name="session_backup_apk_data_text">Kopiowanie danych WeChata…</string>
@@ -490,4 +489,45 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="session_failed_get_installed_apps_denied_detail">Aby móc wykonywać automatyczne kopie zapasowe, przyznaj tej aplikacji uprawnienie dostępu do listy aplikacji zainstalowanych na urządzeniu w Ustawieniach i wybierz tam opcję Zawsze zezwalaj.</string>
   <string name="session_failed_get_installed_apps_denied_title">Wymagane uprawnienia</string>
   <string name="miuix_appcompat_edit">Edytuj</string>
+    <string name="auto_backup_failed">"Nie udało się wykonać automatycznej kopii zapasowej"</string>
+    <string name="backup_state_auto">Automatyczne kopie zapasowe wł.</string>
+    <string name="backup_state_not_auto">Automatyczne kopie zapasowe wył.</string>
+    <string name="cloud_backup_detail_header_condition_screen">Ekran blokady</string>
+    <string name="manage_and_restore_backups">Zarządzaj i przywracaj skopiowane dane</string>
+    <string name="manage_backups">Zarządzaj kopiami</string>
+    <string name="manage_cloud_backups">Zarządzaj kopiami z chmury</string>
+    <string name="menu_item_more_backup_options">Dodatkowe usługi kopii zapasowej</string>
+    <string name="not_backup_reason">Powód nieudanej kopii: %s</string>
+    <string name="not_backup_reason_battery_exception">Mniej niż %s baterii</string>
+    <string name="not_backup_reason_cancel">Anulowana ręcznie</string>
+    <string name="not_backup_reason_dialog_cancle_button">Anuluj</string>
+    <string name="not_backup_reason_dialog_confirm_button">Potwierdź</string>
+    <string name="not_backup_reason_screen_exception">"Ekran nie był zablokowany"</string>
+    <string name="not_backup_reason_wlan_exception">Błąd Wi-Fi</string>
+    <string name="not_backup_reason_wlan_exception_china">Błąd Wi-Fi</string>
+    <string name="open_wechat_dialog_message">"Skopiowanie wszystkich danych WeChata spowoduje szybkie wykorzystanie dużej ilości pamięci. Jeśli jej brakuje, dane nie zostaną skopiowane do chmury i mogą zostać utracone. Włączyć mimo to?"</string>
+    <string name="open_wechat_dialog_negative_btn">Anuluj</string>
+    <string name="open_wechat_dialog_positive_btn">Włącz</string>
+    <string name="open_wechat_dialog_positive_btn_timer">Włącz (%s s)</string>
+    <string name="open_wechat_dialog_title">O kopiach WeChata</string>
+    <string name="page_title_more_backup_options">Dodatkowe usługi kopii zapasowej</string>
+    <string name="restore_header_title_backup_time">Czas</string>
+    <string name="save_not_backup_reason_app_data_error">"Nie udało się skopiować danych WeChata. Spróbuj je skopiować ręcznie."</string>
+    <string name="save_not_backup_reason_app_usage_denied_message">Przyznaj wymagane uprawnienia, aby móc użyć tej funkcji. Możesz to zrobić w Ustawieniach > Aplikacje > Uprawnienia > Kopia w chmurze. Otworzyć Ustawienia?</string>
+    <string name="save_not_backup_reason_cloud_space_not_enough">Brak miejsca w chmurze</string>
+    <string name="save_not_backup_reason_cloud_space_not_enough_dialog_message">Zakup członkostwo usług Chmury Xiaomi, aby uzyskać więcej przestrzeni i inne profity. Zamówić?</string>
+    <string name="save_not_backup_reason_cloud_space_not_enough_dialog_title">Brak miejsca</string>
+    <string name="save_not_backup_reason_disk_space_not_enough">Brak miejsca na urządzeniu</string>
+    <string name="save_not_backup_reason_disk_space_not_enough_dialog_message">Ta kopia wymaga przynajmniej %s miejsca. Zwolnij nieco przestrzeni na urządzeniu i spróbuj ponownie.</string>
+    <string name="save_not_backup_reason_disk_space_not_enough_dialog_title">Brak miejsca na urządzeniu</string>
+    <string name="save_not_backup_reason_get_installed_apps_denied_message">Przyznaj wymagane uprawnienia, aby móc użyć tej funkcji. Gdy pojawi się komunikat, wybierz opcję \"Zawsze zezwalaj\". Otworzyć Ustawienia?</string>
+    <string name="save_not_backup_reason_network_error">Błąd sieci</string>
+    <string name="save_not_backup_reason_no_server_response">Serwer jest zajęty. Spróbuj wykonać kopię ręcznie.</string>
+    <string name="save_not_backup_reason_override">Wymagana jest ręczna kopia zapasowa</string>
+    <string name="save_not_backup_reason_permission_denied">Wymagane uprawnienia</string>
+    <string name="save_not_backup_reason_permission_denied_dialog_title">Wymagane uprawnienia</string>
+    <string name="size_without_backup">%s danych gotowych do kopiowania</string>
+    <string name="title_back_up_task_in_process">Kopiowanie…</string>
+    <string name="title_restore_task_in_process">Przywracanie…</string>
+    <string name="toast_cannot_cancel_backup">"Kopia zapasowa jest prawie skończona i nie można jej anulować"</string>
 </resources>

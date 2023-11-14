@@ -1350,8 +1350,8 @@ Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkow
         <item quantity="one">%1$s | Aplikacja uzyskiwała listę zainstalowanych aplikacji %2$d raz</item>
     </plurals>
     <plurals name="permission_usage_allow_get_number">
-        <item quantity="other">"%1$s| Aplikacja uzyskiwała numer telefonu %2$d razy"</item>
-        <item quantity="one">"%1$s | Aplikacja uzyskiwała numer telefonu %2$d raz"</item>
+        <item quantity="other">"%1$s | Uzyskiwano informacje o telefonie %2$d razy"</item>
+        <item quantity="one">"%1$s | Uzyskiwano informacje o telefonie %2$d raz"</item>
     </plurals>
     <plurals name="permission_usage_allow_get_sms">
         <item quantity="other">%1$s | Aplikacja czytała SMS-y %2$d razy</item>
@@ -1474,8 +1474,8 @@ Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkow
         <item quantity="one">%1$s | Odmówiono dostępu do listy zainstalowanych aplikacji %2$d raz</item>
     </plurals>
     <plurals name="permission_usage_deny_get_number">
-        <item quantity="other">"%1$s | Odmówiono dostępu do numeru telefonu %2$d razy"</item>
-        <item quantity="one">"%1$s | Odmówiono dostępu do numeru telefonu %2$d raz"</item>
+        <item quantity="other">"%1$s | Odmówiono dostępu do informacji o telefonie %2$d razy"</item>
+        <item quantity="one">"%1$s | Odmówiono dostępu do informacji o telefonie %2$d raz"</item>
     </plurals>
     <plurals name="permission_usage_deny_get_sms">
         <item quantity="other">%1$s | This app was denied from reading SMS %2$d razy</item>
@@ -1605,5 +1605,9 @@ Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkow
     <plurals name="permission_usage_projection_screen">
         <item quantity="other">%1$s｜Uzyskiwano dostęp lub nagrywano zawartość ekranu %2$d razy</item>
         <item quantity="one">%1$s｜Uzyskiwano dostęp lub nagrywano zawartość ekranu %2$d raz</item>
+    </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">Edycja %1$d uprawnień</item>
+        <item quantity="one">Edycja %1$d uprawnienia</item>
     </plurals>
 </resources>

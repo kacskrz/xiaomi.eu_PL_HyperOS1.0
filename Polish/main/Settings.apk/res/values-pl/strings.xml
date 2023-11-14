@@ -13516,4 +13516,18 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="face_data_siggesstion_next_time_cn">Zgadzam się (%d s)</string>
     <string name="bluetooth_audio_share_replace_request">Aby kontynuować słuchanie, obecne słuchawki zostaną zastąpione innymi po ich podłączeniu</string>
     <string name="lock_password_checking">Weryfikowanie blokady ekranu…</string>
+    <string name="assistant_add_fail">"Nie można teraz słuchać. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
+    <string name="assistant_operate_timeout">Przekroczono czas żądania. Spróbuj ponownie.</string>
+    <string name="auracast_scan_not_support">"Nie połączono z kompatybilnymi słuchawkami. Nie można znaleźć żadnych transmisji w pobliżu."</string>
+    <string name="bluetooth_auracast_assist_add_source">Słuchaj</string>
+    <string name="bluetooth_auracast_assist_leave_broadcast">Zatrzymaj</string>
+    <string name="bluetooth_auracast_password_input_hint">Wprowadź kod połączenia</string>
+    <string name="bluetooth_auracast_source_and_assistant_text">Transmituj dźwięk do innych urządzeń i szukaj transmisji w pobliżu</string>
+    <string name="bluetooth_auracast_source_available_connect">Transmisje w pobliżu</string>
+    <string name="bluetooth_auracast_source_explain_summary">Gdy funkcja jest włączona, osoby w pobliżu mogą otrzymywać dźwięk z Twojego urządzenia przy użyciu kodu</string>
+    <string name="bluetooth_auracast_source_opend_summary">"Kod połączenia: "</string>
+    <string name="bluetooth_broadcast_audio">Transmituj dźwięk</string>
+    <string name="guide_summary_1">Transmituj dźwięk do urządzeń w pobliżu</string>
+    <string name="guide_summary_2">Słuchaj transmisji udostępnianych przez innych ludzi</string>
+    <string name="password_check_fail">Niepoprawny kod</string>
 </resources>

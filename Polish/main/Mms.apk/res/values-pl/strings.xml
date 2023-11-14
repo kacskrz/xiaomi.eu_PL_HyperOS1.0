@@ -1191,7 +1191,7 @@ Sprawdź kartę SIM."</string>
     <string name="promo_post_install_title_no_default_xiaomi">Zastąp SMS od Xiaomi aplikacją Wiadomości od Google</string>
     <string name="promo_post_install_title_with_default_xiaomi">Rozpocznij pisanie z aplikacją Wiadomości od Google</string>
     <string name="promo_use_messages_btn_text">Użyj Wiadomości</string>
-    <string name="small_window_log_text">"Aparat nie może być używany w trybie wielu okien"</string>
+    <string name="small_window_log_text">"Aparat nie wspiera wielu okien"</string>
     <string name="actionbar_button_up_description">Wstecz</string>
     <string name="afternoon">Popołudnie</string>
     <string name="clearable_edittext_clear_description">Wyczyść</string>
@@ -1477,4 +1477,5 @@ Spróbuj ponownie."</string>
     <string name="miuix_navigator_content_switch_description">Pokaż pasek boczny</string>
     <string name="miuix_navigator_multiple_choice">Wybierz</string>
     <string name="miuix_navigator_navigator_switch_description">Ukryj pasek boczny</string>
+    <string name="add_to_block_cta_failed">Nadaj Panelowi sterowania wymagane uprawnienia, aby móc dodawać elementy do listy blokowanych</string>
 </resources>

@@ -149,4 +149,12 @@
         <item quantity="other">"Od %s tygodni nie wykonywano kopii zapasowej elementów. Dotknij, aby dowiedzieć się, jak włączyć automatyczne kopie zapasowe."</item>
         <item quantity="one">"Od %s tygodnia nie wykonywano kopii zapasowej elementów. Dotknij, aby dowiedzieć się, jak włączyć automatyczne kopie zapasowe."</item>
     </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d dni od ostatniej kopii | Nowe dane: %2$s</item>
+        <item quantity="one">%1$d dzień od ostatniej kopii | Nowe dane: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d dni od ostatniej kopii</item>
+        <item quantity="one">%d dzień od ostatniej kopii</item>
+    </plurals>
  </resources>

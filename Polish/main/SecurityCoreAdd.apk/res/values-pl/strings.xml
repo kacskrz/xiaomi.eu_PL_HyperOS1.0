@@ -917,4 +917,6 @@ Kliknij dwukrotnie, aby otworzyć Ostatnie aplikacje."</string>
     <string name="tof_learn_wave_right_tip">Faluj dłonią w prawo, aby zmieniać utwory</string>
     <string name="tof_learn_wave_up">Naucz się gestu \"Gala w górę\" gesture</string>
     <string name="tof_learn_wave_up_tip">Faluj dłonią w dół, aby przejść do następnej strony</string>
+    <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Przytrzymaj przyciski Wstecz i Podgląd, aby odpiąć tę aplikację</string>
+    <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Przesuń w górę od dołu ekranu i zatrzymaj się, aby odpiąć tę aplikację</string>
 </resources>

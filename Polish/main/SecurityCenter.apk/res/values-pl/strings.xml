@@ -4111,7 +4111,7 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
   <string name="privacy_risk_uninstall_dialog_title">OK</string>
   <string name="privacy_risk_uninstall_title">Odinstaluj aplikacje</string>
   <string name="privacy_risk_work_encryption">"Pliki z pracy oraz mediów społecznościowych nie są chronione"</string>
-  <string name="see_all_app_behavior_record">Wyświetl wszystkie zachowania aplikacji</string>
+  <string name="see_all_app_behavior_record">Wyświetl wszystkie rekordy uprawnień</string>
   <string name="storage_category_title">Dodatkowe opcje</string>
   <string name="xiaomi_privacy_protection_measures">Środki ochrony prywatności</string>
     <string name="abnormal_consume_disable_autostart">Ogranicz autostart</string>
@@ -5624,7 +5624,7 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki użycia danych\"
     <string name="permission_instruction_read_media_pic">To uprawnienie pozwala aplikacjom na dostęp do zdjęć i filmów znajdujących się na tym urządzeniu. Te elementy mogą zawierać informacje osobiste.</string>
     <string name="permission_instruction_scoped">Nowy mechanizm ochrony pamięci umożliwia Ci lepszą kontrolę nad korzystaniem z pamięci przez kompatybilne aplikacje</string>
     <string name="storage_compact_warning">Dostosowywanie różnych uprawnień</string>
-    <string name="storage_compact_warning_desc">"Uprawnienia dotyczące zdjęć, filmów i dźwięków dla tej aplikacji muszą być zmieniane w tym samym czasie. Zmiany dokonane w jednym z tych uprawnień zostaną zastosowane również do pozostałych."</string>
+    <string name="storage_compact_warning_desc">"Uprawnienia dotyczące zdjęć i filmów, muzyki i dźwięków oraz dokumentów i plików dla tej aplikacji muszą być zmieniane jednocześnie. Zanim przejdziesz dalej, upewnij się, że chcesz edytować wszystkie te uprawnienia."</string>
     <string name="added_game_notification_summary">Zacznij grać</string>
     <string name="added_game_notification_title">Aplikacja %s jest już w Game Turbo</string>
     <string name="added_game_start_game">Graj</string>
@@ -6085,8 +6085,8 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="blur_cross_device_permissions">Uprawnienia łączności między urządzeniami</string>
     <string name="blur_external_storage">Pamięć zewnętrzna</string>
     <string name="blur_key_words_permission_records">Rekordy zachowań aplikacji</string>
-    <string name="blur_location_off">Wyłącz, aby pozostawić przybliżoną lokalizację tylko aplikacjom, które już jej używały</string>
-    <string name="blur_location_on">Włącz, aby przybliżona lokalizacja była dostępna dla wszystkich aplikacji</string>
+    <string name="blur_location_off">Gdy wyłączysz tę funkcję, tylko aplikacje, którym nadano stosowne uprawnienie, będą mogły uzyskać Twoją przybliżoną lokalizację.</string>
+    <string name="blur_location_on">Gdy włączysz tę funkcję i nadasz uprawnienie, wszystkie aplikacje będą mogły uzyskiwać Twoją przybliżoną lokalizację.</string>
     <string name="blur_message">Wiadomości</string>
     <string name="blur_multiple_device_permissions">Uprawnienia dla wielu urządzeń</string>
     <string name="blur_phone_book">Kontakty</string>
@@ -6170,7 +6170,7 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="invisible_mode_open_title_compact">Przypomnienie dot. uprawnień</string>
     <string name="location">Lokalizacja</string>
     <string name="mic">Mikrofon</string>
-    <string name="miui_blur_location">Przybliżona lokalizacja</string>
+    <string name="miui_blur_location">Zezwól wszystkim aplikacjom na dostęp do przybliżonej lokalizacji</string>
     <string name="new_result_sound_only">Dźwięk</string>
     <string name="normal1">Ograniczone uprawnienia: %1s. Dotknij, aby to zmienić.</string>
     <string name="normal2" formatted="false">Ograniczone uprawnienia: %1s, %2s. Dotknij, aby to zmienić.</string>
@@ -6234,7 +6234,7 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="permission_usage_allow_device_sensor_once">%1$s | Aplikacja uzyskiwała dostęp do sensorów ruchu i orientacji sensors</string>
     <string name="permission_usage_allow_files_once">%1$s | Aplikacja uzyskiwała dostęp do plików i dokumentów</string>
     <string name="permission_usage_allow_get_installed_once">%1$s | Aplikacja uzyskiwała listę zainstalowanych aplikacji</string>
-    <string name="permission_usage_allow_get_number_once">"%1$s | Aplikacja uzyskiwała numer telefonu"</string>
+    <string name="permission_usage_allow_get_number_once">"%1$s | Aplikacja uzyskiwała informacje o telefonie"</string>
     <string name="permission_usage_allow_get_sms_once">%1$s | Aplikacja czytała SMS-y</string>
     <string name="permission_usage_allow_location_once">%1$s | Aplikacja uzyskiwała lokalizację</string>
     <string name="permission_usage_allow_media_aural_once">%1$s | Aplikacja uzyskiwała dostęp do muzyki i dźwięków</string>
@@ -6265,7 +6265,7 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="permission_usage_deny_device_sensor_once">%1$s | Odmówiono dostępu do sensorów ruchu i orientacji</string>
     <string name="permission_usage_deny_files_once">%1$s | Odmówiono dostępu do plików i dokumentów</string>
     <string name="permission_usage_deny_get_installed_once">%1$s | Odmówiono dostępu do listy zainstalowanych aplikacji</string>
-    <string name="permission_usage_deny_get_number_once">"%1$s | Odmówiono dostępu do numeru telefonu"</string>
+    <string name="permission_usage_deny_get_number_once">"%1$s | Odmówiono dostępu do informacji o telefonie"</string>
     <string name="permission_usage_deny_get_sms_once">%1$s | Odmówiono odczytu SMS-ów</string>
     <string name="permission_usage_deny_location_once">%1$s | Odmówiono dostępu do lokalizacji</string>
     <string name="permission_usage_deny_media_aural_once">%1$s | Odmówiono dostępu do muzyki i dźwięków</string>
@@ -6351,4 +6351,31 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="gb_cooler_device_toast">"Wrażenia z obrazu polepszył
 Xiaomi Gaming Cooler"</string>
     <string name="group_head_data_screen_shots_clipboard">Automatycznie kopiuj zrzuty ekranu do schowka</string>
+    <string name="activity_title_apps_settings">Aplikacje</string>
+    <string name="clipboard_ai_allow_summary">Pozwala systemowi określić, czy aplikacja może uzyskiwać treści ze schowka i informuje Cię, gdy to się stanie</string>
+    <string name="i_know_time">OK (%d)</string>
+    <string name="order_bh_net_empty">Nic tu nie ma</string>
+    <string name="pc_keywords_fast_charge">Szybkie ładowanie</string>
+    <string name="pc_keywords_low_power_consumption_save">Oszczędzanie baterii</string>
+    <string name="pc_keywords_low_power_mode">Tryb słabej baterii</string>
+    <string name="pc_keywords_navigation_discharge">Zatrzymaj ładowanie podczas nawigacji</string>
+    <string name="pc_keywords_night_mode">Tryb nocny</string>
+    <string name="pc_keywords_night_protect">Ochrona baterii w nocy</string>
+    <string name="pc_keywords_reverse_charge">Ładowanie zwrotne</string>
+    <string name="pc_keywords_sleep_mode">Tryb snu</string>
+    <string name="pc_keywords_sleep_protect">Ochrona baterii podczas snu</string>
+    <string name="pc_keywords_sleep_save_mode">Oszczędzanie baterii w nocy</string>
+    <string name="pc_keywords_summary_battery_protect">Aby ograniczyć starzenie się baterii, system uczy się Twoich nawyków, aby ograniczać niepotrzebne ciągłe ładowanie</string>
+    <string name="pc_keywords_summary_low_power_consume">Sieć 5G będzie zużywać mniej energii w pewnych przypadkach</string>
+    <string name="pc_keywords_summary_navigation">Gdy używasz aplikacji do nawigacji, ładowanie automatycznie się zatrzyma na ustalonym poziomie</string>
+    <string name="pc_keywords_summary_night_save">Automatycznie wyłącz niektóre funkcje, aby zaoszczędzić baterię, gdy telefon wykryje, że śpisz</string>
+    <string name="permission_action_virtual_common_summary">Przyznaje aplikacjom wymagane uprawnienia, ale zwraca puste wiadomości, aby chronić Twoją prywatność</string>
+    <string name="permission_instruction_mac_adress">"Dostęp do adresu MAC tego urządzenia"</string>
+    <string name="permission_instruction_read_imei">"Dostęp do numerów IMEI tego urządzenia"</string>
+    <string name="permission_precise_location_sumary">Gdy ta funkcja jest wyłączona, aplikacje będą mogły uzyskiwać tylko przybliżoną lokalizację</string>
+    <string name="permission_usage_media_aural_app">Aplikacja %1s uzyskała dostęp do muzyki i dźwięków</string>
+    <string name="permission_usage_media_visual_app">Aplikacja %1s uzyskała dostęp do zdjęć i filmów</string>
+    <string name="permission_usage_projection_screen_use_app">Aplikacja %1s uzyskiwała dostęp lub nagrywała zawartość ekranu</string>
+    <string name="unused_apps_switch">Wstrzymaj aktywność aplikacji, gdy ich nie używasz</string>
+    <string name="unused_apps_switch_summary">Usuń uprawnienia i pliki tymczasowe oraz zatrzymaj powiadomienia</string>
 </resources>
