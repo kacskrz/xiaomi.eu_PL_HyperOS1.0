@@ -1623,7 +1623,7 @@ Możesz wyłączyć tę funkcję w Ustawienia > Bluetooth > Sparowane urządzeni
   <string name="convert_to_file_encryption">Przekształć na szyfrowanie plików</string>
   <string name="convert_to_file_encryption_done">Pliki są już zaszyfrowane</string>
   <string name="convert_to_file_encryption_enabled">Przekształć…</string>
-  <string name="cool_color">Chłodne</string>
+  <string name="cool_color">Chłodna</string>
   <string name="copyright_title">Prawa autorskie</string>
   <string name="corner_assistant_gesture_summary">Przesuń od lewego dolnego bądź prawego dolnego rogu, aby uruchomić Asystenta Google</string>
   <string name="corner_assistant_gesture_title">Przesuń od dolnej krawędzi, aby uruchomić Asystenta Google</string>
@@ -1710,7 +1710,7 @@ Aby dalej używać urządzenia, musisz przywrócić dane fabryczne. Podczas konf
   <string name="current_use_uicc_wallet">"Korzystasz z portfela SIM %1$s"</string>
   <string name="current_zone">(aktualna)</string>
   <string name="custom_carrier_title">Edytuj nazwę operatora</string>
-  <string name="custom_color">Własny</string>
+  <string name="custom_color">Własna</string>
   <string name="custom_wifi_name_title">Edytuj nazwę sieci Wi-Fi</string>
   <string name="customize_function">Dostępne wzory</string>
   <string name="cutout_mode_always">Zawsze pokazuj</string>
@@ -4086,7 +4086,7 @@ Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
   <string name="my_device">O telefonie</string>
   <string name="my_device_disclaimer">Uwaga: Informacje na temat podzespołów, w tym procesora, pojemności baterii, rozmiaru ekranu, rozdzielczości, aparatu są dostarczane przez dostawców Xiaomi.</string>
   <string name="n_cacrts">Certyfikaty CA %d</string>
-  <string name="nature_color">Normalne</string>
+  <string name="nature_color">Domyślna</string>
   <string name="navigation_guide_app_quick_switch_hide_line_summary">Pociągnij w górę od dołu ekranu, a następnie przesuwaj w lewo bądź w prawo</string>
   <string name="navigation_guide_app_quick_switch_summary">Przeciągnij pasek w lewo lub prawo lub pociągnij w górę od dołu ekranu</string>
   <string name="navigation_guide_app_quick_switch_title">Przełącz pomiędzy aplikacjami</string>
@@ -7398,7 +7398,7 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="wapi_psk_type_ascii">ASCII</string>
   <string name="wapi_psk_type_hex">Szesnastkowe</string>
   <string name="wapi_yes">Tak</string>
-  <string name="warm_color">Ciepłe</string>
+  <string name="warm_color">Ciepła</string>
   <string name="web_action_enable_summary">Otwieraj linki w obsługiwanych aplikacjach, nawet jeśli te aplikacje nie są zainstalowane na urządzeniu</string>
   <string name="web_action_enable_title">Otwieraj linki w aplikacjach</string>
   <string name="web_action_section_title">Aplikacje niezainstalowane</string>
