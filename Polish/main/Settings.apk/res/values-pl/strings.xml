@@ -13394,7 +13394,7 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="autoui_mode_no_support_apps">"Nie znaleziono kompatybilnych aplikacji"</string>
     <string name="autoui_search_hint">Szukaj aplikacji</string>
     <string name="background_blur_enable">Zaawansowane tekstury</string>
-    <string name="background_blur_enable_summary">Dodaje efekty renderowania, takie jak zamazywanie w całym systemie, aby wrażenia wizualne były lepsze</string>
+    <string name="background_blur_enable_summary">Polepsz wrażenia wizualne poprzez dodanie różnych efektów w systemie, np. rozmycia</string>
     <string name="background_blur_message">Włączenie tej funkcji może spowodować większe zużycie energii i nagrzewanie się urządzenia. Włączyć mimo to?</string>
     <string name="background_blur_title">Włącz zaawansowane tekstury</string>
     <string name="biometric_settings_use_face_fingerprint_or_watch_for">Przy użyciu rozpoznawania twarzy, odcisku palca lub zegarka:</string>
