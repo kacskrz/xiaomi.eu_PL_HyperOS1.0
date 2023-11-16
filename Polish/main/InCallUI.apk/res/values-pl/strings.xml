@@ -487,5 +487,5 @@ aby umieścić piłkę w niebieskim polu"</string>
     <string name="satellite_state">"Nie ruszaj urządzeniem"</string>
     <string name="satellite_state_connected">"Połączono z satelitą. Nie ruszaj urządzeniem."</string>
     <string name="satellite_state_connected_floating">"Nie ruszaj urządzeniem"</string>
-    <string name="focus_notification_on_ringing">Przychodzące połączenie</string>
+    <string name="focus_notification_on_ringing">Połączenie</string>
 </resources>

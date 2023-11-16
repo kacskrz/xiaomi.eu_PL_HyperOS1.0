@@ -498,4 +498,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="miuix_navigator_content_switch_description">Pokaż pasek boczny</string>
   <string name="miuix_navigator_multiple_choice">Wybierz</string>
   <string name="miuix_navigator_navigator_switch_description">Ukryj pasek boczny</string>
+  <string name="download_waiting">Oczekuje</string>
 </resources>
