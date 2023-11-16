@@ -2275,7 +2275,7 @@ Wygląda na to, że magazyn danych logowania nie jest włączony."</string>
     <string name="input_password_hint_text_v11">Wprowadź hasło</string>
     <string name="input_pattern_hint_text_v11">Narysuj wzór</string>
     <string name="input_pin_hint_text_v11">Wprowadź PIN</string>
-    <string name="notification_control_center">Powiadomienia i Centrum kontroli</string>
+    <string name="notification_control_center">Powiadomienia i Centrum funkcji</string>
     <string name="msim_set_sub_not_supported_phone_in_call">"Nie można ustawić tego elementu w trakcie połączenia"</string>
     <string name="quick_settings_vowifi_label">Wi-Fi Calling</string>
     <string name="quick_settings_vowifi_sim1_label">Wi-Fi Calling SIM1</string>
@@ -4051,4 +4051,5 @@ kliknij dwukrotnie"</string>
     <string name="sunset_time_format_desc">Zachód słońca: %s</string>
     <string name="uvi_format_desc">Indeks ultrafioletowy: %1$s, %2$s</string>
     <string name="weather_no_data">Brak danych o pogodzie</string>
+    <string name="notification_status_bar">Powiadomienia i pasek statusu</string>
 </resources>
