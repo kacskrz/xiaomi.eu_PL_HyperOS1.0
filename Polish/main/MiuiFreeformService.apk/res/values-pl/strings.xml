@@ -170,4 +170,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="freeform_recommend_open_switch_summary_phone">W niektórych sytuacjach zalecane aplikacje będą otwierane w pływającym oknie</string>
     <string name="pin_toast">Przesuń w górę i naciśnij, aby odpiąć tę aplikację</string>
     <string name="pin_toast_nav">Przytrzymaj przyciski Wstecz i Podgląd, aby odpiąć tę aplikację</string>
+    <string name="flashback_status_close">Wył.</string>
+    <string name="flashback_status_open">Wł.</string>
 </resources>
