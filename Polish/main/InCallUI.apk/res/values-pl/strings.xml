@@ -43,7 +43,7 @@
   <string name="call_not_support_high_frequency_click">Nie klikaj tego przycisku tak często</string>
   <string name="call_record_button_label">Nagrywanie %s</string>
   <string name="call_record_wait_label">Oczekiwanie</string>
-  <string name="call_recording_deny_permission_msg">"Nie ma pozwolenia na nagrywanie rozmów"</string>
+  <string name="call_recording_deny_permission_msg">"Nie można nagrywać rozmów. Nadaj uprawnienia w Ustawieniach."</string>
   <string name="call_recording_error_low_storage">Brak miejsca na karcie SD</string>
   <string name="call_recording_error_privacy">"Nie można nagrywać w trybie Poufnym"</string>
   <string name="call_recording_error_sd_access">"Brak dostępu do SD"</string>
@@ -488,4 +488,6 @@ aby umieścić piłkę w niebieskim polu"</string>
     <string name="satellite_state_connected">"Połączono z satelitą. Nie ruszaj urządzeniem."</string>
     <string name="satellite_state_connected_floating">"Nie ruszaj urządzeniem"</string>
     <string name="focus_notification_on_ringing">Połączenie</string>
+    <string name="satellite_diable_earpiece">"Nie można użyć głośnika do rozmów w połączeniach satelitarnych"</string>
+    <string name="satellite_state_connecting">Łączenie… (%d s)</string>
 </resources>

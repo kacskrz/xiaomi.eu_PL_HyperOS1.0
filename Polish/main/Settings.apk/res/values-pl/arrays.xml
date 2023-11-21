@@ -2026,4 +2026,12 @@
         <item>Smart home</item>
         <item>Brak</item>
     </string-array>
+    <string-array name="nfc_notification_mode_summaries">
+        <item>Karty płatnicze, dostępowe i smart home</item>
+        <item>Parowanie przez Bluetooth, łączność bezprzewodowa i karty smart home</item>
+    </string-array>
+    <string-array name="nfc_notification_mode_titles">
+        <item>Wszystkie karty</item>
+        <item>Karty rozpoznawane przez system</item>
+    </string-array>
 </resources>

@@ -895,4 +895,5 @@ Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</st
     <string name="unit_data_short_time_h">godz.</string>
     <string name="unit_data_short_time_week">tydz.</string>
     <string name="unit_data_short_time_yr">r.</string>
+    <string name="finance_interest">Oprocentowanie (%s)</string>
 </resources>

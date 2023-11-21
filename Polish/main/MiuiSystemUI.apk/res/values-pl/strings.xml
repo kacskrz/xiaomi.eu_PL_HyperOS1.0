@@ -4052,4 +4052,12 @@ kliknij dwukrotnie"</string>
     <string name="uvi_format_desc">Indeks ultrafioletowy: %1$s, %2$s</string>
     <string name="weather_no_data">Brak danych o pogodzie</string>
     <string name="notification_status_bar">Powiadomienia i pasek statusu</string>
+    <string name="miui_restart_button_description">Zrestartuj, aby lepiej wyświetlić</string>
+    <string name="screen_pinning_description_gesture_mode">Ta aplikacja pozostanie w Ostatnich aplikacjach, dopóki jej nie odepniesz poprzez przeciągnięcie w górę od dołu ekranu i zatrzymanie się.</string>
+    <string name="screen_pinning_description_navigation_mode">Ta aplikacja pozostanie w Ostatnich aplikacjach, dopóki jej nie odepniesz poprzez przytrzymanie przycisków Wstecz i Podgląd.</string>
+    <string name="screen_pinning_title_gesture_mode">Ta aplikacja jest przypięta</string>
+    <string name="screen_pinning_title_navigation_mode">Ta aplikacja jest przypięta</string>
+    <string name="screen_pinning_toast_gesture_mode">Przesuń w górę od dołu ekranu i zatrzymaj się, aby odpiąć tę aplikację</string>
+    <string name="screen_pinning_toast_navigation_mode">Przytrzymaj przyciski Wstecz i Podgląd, aby odpiąć tę aplikację</string>
+    <string name="screen_pinning_toast_start">Ta aplikacja jest przypięta</string>
 </resources>

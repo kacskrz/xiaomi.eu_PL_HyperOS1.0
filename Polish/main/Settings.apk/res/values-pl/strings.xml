@@ -13530,4 +13530,7 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="guide_summary_1">Transmituj dźwięk do urządzeń w pobliżu</string>
     <string name="guide_summary_2">Słuchaj transmisji udostępnianych przez innych ludzi</string>
     <string name="password_check_fail">Niepoprawny kod</string>
+    <string name="bluetooth_disable_toast">"Nie można włączyć Bluetooth. Wygląda na to, że funkcjonalność Bluetooth została ograniczona."</string>
+    <string name="nfc_notification_mode_title">Przypomnienia dot. odczytu kart NFC</string>
+    <string name="toast_bluetooth_disable">"Nie można włączyć Bluetooth. Wygląda na to, że moduł Bluetooth został przeinstalowany bądź ograniczono dostęp do Bluetooth."</string>
 </resources>

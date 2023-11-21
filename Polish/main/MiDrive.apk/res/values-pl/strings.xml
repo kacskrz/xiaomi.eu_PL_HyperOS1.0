@@ -231,7 +231,7 @@ Wyślij ten kod do administratora."</string>
   <string name="document_file_size">Rozmiar pliku: %s</string>
   <string name="document_preview_cancel_text">Zatrzymaj ładowanie</string>
   <string name="document_preview_download_failed">"Nie udało się załadować. Spróbuj ponownie."</string>
-  <string name="download_done">Pomyślnie pobrano</string>
+  <string name="download_done">Pobieranie ukończone</string>
   <string name="download_done_info_for_sys_title">Pomyślnie pobrano. Dotknij, aby zobaczyć.</string>
   <string name="download_fail">"Nie udało się pobrać"</string>
   <string name="download_list">Pobrania</string>
@@ -533,7 +533,7 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w systemie."
   <string name="update_email_address_dialog_message">Musisz zweryfikować swoją tożsamość przed zaktualizowaniem pomocniczego adresu e-mail.</string>
   <string name="update_email_address_dialog_title">Aktualizuj pomocniczy adres e-mail</string>
   <string name="update_phone_notice">Zmień ustawienia bezpieczeństwa</string>
-  <string name="upload_done">Pomyślnie wysłano</string>
+  <string name="upload_done">Wysyłanie ukończone</string>
   <string name="upload_done_info_for_sys_title">Pomyślnie wysłano. Dotknij, aby zobaczyć.</string>
   <string name="upload_error_log">Załaduj logi</string>
   <string name="upload_fail">"Nie udało się wysłać"</string>
