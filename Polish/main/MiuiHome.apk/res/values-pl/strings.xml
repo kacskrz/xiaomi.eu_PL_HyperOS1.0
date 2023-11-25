@@ -1020,4 +1020,5 @@ Zwiększone bezpieczeństwo."</string>
   <string name="setting_only_widget_no_word">Pod widżetami</string>
   <string name="start_new_window">Nowe okno</string>
   <string name="new_default_folder_title_tools">Systemowe</string>
+  <string name="system_shortcuts_icon_remove">Usuń</string>
 </resources>

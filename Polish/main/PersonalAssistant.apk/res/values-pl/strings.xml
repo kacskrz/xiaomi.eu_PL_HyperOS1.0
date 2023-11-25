@@ -1805,4 +1805,8 @@ Dodaj widżety, aby rozpocząć."</string>
     <string name="pa_widget_menu_edit_stack">Edytuj grupę</string>
     <string name="pa_widget_menu_remove_card_in_stack">Usuń \"%s\"</string>
     <string name="pa_setting_new_simplify_title_bar">Asystent systemu</string>
+    <string name="pa_widget_menu_improve_edit">Edytuj</string>
+    <string name="pa_widget_menu_improve_remove">Usuń</string>
+    <string name="pa_widget_menu_improve_remove_card_in_stack">Usuń \"%s\"</string>
+    <string name="pa_widget_menu_improve_replace">Zastąp</string>
 </resources>
