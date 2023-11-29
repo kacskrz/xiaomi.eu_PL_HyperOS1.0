@@ -620,4 +620,8 @@ Dostępne usługi łączności między urządzeniami mogą się różnić w zale
     <string name="system_update_statement">Aktualizacje systemu</string>
     <string name="system_update_title">Aktualizacje systemowe</string>
     <string name="terms_of_use_label_system_quality_monitoring">Monitoring jakości systemu</string>
+    <string name="disagreement_service_not_working_properly_with_media_storage">"Jeśli nie nadasz tych uprawnień, usługa nie będzie mogła działać normalnie."</string>
+    <string name="media_storage_devices">Urządzenia pamięci masowej</string>
+    <string name="media_storage_introduction">Ta usługa umożliwia aplikacjom dostęp i zapis zdjęć, filmów, dźwięków i plików.</string>
+    <string name="permission_media_storage_summary">W celu sprawdzenia, jak aplikacje korzystają z uprawnień związanych z prywatnością w trakcie uzyskiwania dostępu do plików</string>
 </resources>

@@ -2672,4 +2672,6 @@ Jeśli używasz hotspotu do łączenia się z siecią, ustaw jego pasmo AP na %s
     <string name="accessibility_moiton_detection_on">Wykrywanie ruchu jest włączone</string>
     <string name="cv_lens_standard">Standardowy</string>
     <string name="cinematic_guide_item1_des_new">Obiekt znajdujący się w kadrze zostanie automatycznie wyostrzony; fokus będzie się zmieniać w zależności od sceny. Dwukrotnie dotknij obiektu, aby zablokować ostrzenie na nim. Możesz wybrać inny obiekt, na którym ma być zablokowane ostrzenie, dwukrotnie go dotykając.</string>
+    <string name="accessibility_picturesize_2_3_button">Proporcje dwa na trzy</string>
+    <string name="accessibility_selected_cancle">Odznacz</string>
 </resources>

@@ -6378,4 +6378,25 @@ Xiaomi Gaming Cooler"</string>
     <string name="permission_usage_projection_screen_use_app">Aplikacja %1s uzyskiwała dostęp lub nagrywała zawartość ekranu</string>
     <string name="unused_apps_switch">Wstrzymaj aktywność aplikacji, gdy ich nie używasz</string>
     <string name="unused_apps_switch_summary">Usuń uprawnienia i pliki tymczasowe oraz zatrzymaj powiadomienia</string>
+    <string name="app_manager_share_apk">Udostępnij</string>
+    <string name="game_balance_more_setting_title">Dodatkowe ustawienia</string>
+    <string name="game_balance_vision_enhance_subtitle">Zwiększ kontrast i szczegóły w grach</string>
+    <string name="game_balance_vision_enhance_title">Lepsza grafika</string>
+    <string name="game_performance_wild_mode">Tryb Ultra</string>
+    <string name="game_performance_wild_mode_tips">"Włącz, aby poprawić wydajność
+(Urządzenie będzie się nagrzewać i zużywać więcej energii)"</string>
+    <string name="gb_all_hight_display">Wysoka częstotliwość odświeżania</string>
+    <string name="gb_all_hight_display_sub_title">120 Hz w każdym przypadku</string>
+    <string name="gb_performance_enhance">Wysoka wydajność</string>
+    <string name="gb_performance_enhance_sub_title">Preferuj wydajność kosztem zużycia energii</string>
+    <string name="gb_wild_mode_game_performance_enhance">Polepsz wydajność w grach</string>
+    <string name="gtb_guide_gtb_line_wilde_mode">Wypróbuj tryb Ultra w Game Turbo, aby przenieść rozgrywkę na wyższy poziom</string>
+    <string name="performance_frame_insert_super_display_tips">"Inteligentna częstotliwość odświeżania oraz superrozdzielczość nie mogą działać w tym samym czasie. Włączenie jednej funkcji wyłączy drugą."</string>
+    <string name="vb_default_mode">Własne</string>
+    <string name="vb_dult_effect">3D LUT</string>
+    <string name="vb_immerse_voice">Dźwięk przestrzenny</string>
+    <string name="vb_movie_mode">Tryb teatralny</string>
+    <string name="vb_movie_subtitle">Wymaga wysokiej wydajności</string>
+    <string name="vb_theatre_switch_guide">Dotknij, aby przełączyć się na Tryb teatralny</string>
+    <string name="vb_voice_adjust">Dźwięk teatralny</string>
 </resources>

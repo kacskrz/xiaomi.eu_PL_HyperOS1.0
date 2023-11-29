@@ -399,4 +399,5 @@ Szyszy protokół transmisji."</string>
     <string name="lyra_auto_connect_summary">"Automatycznie włącz hotspot i łącz z nim urządzenia w pobliżu, które są zalogowane na Twoje konto Xiaomi, gdy nie mają one połączenia z siecią"</string>
     <string name="lyra_auto_connect_title">Automatycznie włącz hotspot</string>
     <string name="fast_connect_device_reset_audio_share">Przytrzymaj przez 2 sekundy, aby zresetować</string>
+    <string name="cooler_reset">Naciśnij %d razy, aby sparować</string>
 </resources>
