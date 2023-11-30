@@ -10178,7 +10178,7 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="string_never">Nigdy</string>
     <string name="string_scale_float">Skala animacji %.1fx</string>
     <string name="string_scale_int">Skala animacji %dx</string>
-    <string name="string_unlimited">Bez limut</string>
+    <string name="string_unlimited">Bez limitu</string>
     <string name="time_format_entries_1">%d godz. 1:00 PM</string>
     <string name="time_format_entries_2">%d godz. 13:00</string>
     <string name="time_format_entries_3">Automatyczny (w zależności od języka systemu)</string>
