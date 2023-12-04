@@ -13533,4 +13533,5 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="bluetooth_disable_toast">"Nie można włączyć Bluetooth. Wygląda na to, że funkcjonalność Bluetooth została ograniczona."</string>
     <string name="nfc_notification_mode_title">Przypomnienia dot. odczytu kart NFC</string>
     <string name="toast_bluetooth_disable">"Nie można włączyć Bluetooth. Wygląda na to, że moduł Bluetooth został przeinstalowany bądź ograniczono dostęp do Bluetooth."</string>
+    <string name="photography_handle_title">Uchwyt do aparatu</string>
 </resources>
