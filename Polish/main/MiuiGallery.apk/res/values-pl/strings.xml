@@ -3609,7 +3609,7 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="global_pad">Mój tablet</string>
   <string name="global_pc">Mój laptop</string>
   <string name="global_phone">Mój telefon</string>
-  <string name="hdr_switch_show_hint">Użyj HDR, aby pokazać więcej szczegółów w wyróżnieniach i cieniach show more detail in highlights and shadows</string>
+  <string name="hdr_switch_show_hint">Użyj HDR, aby pokazać więcej szczegółów w wyróżnieniach i cieniach</string>
   <string name="hdr_switch_show_title">Wyświetlanie Pro HDR</string>
   <string name="miplay_circulate_failed">"Nie udało się przesłać strumienia. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
   <string name="miplay_circulating_msg">Przesyłanie strumienia…</string>
