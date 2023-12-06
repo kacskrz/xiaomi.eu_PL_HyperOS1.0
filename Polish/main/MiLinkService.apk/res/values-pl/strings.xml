@@ -730,8 +730,8 @@ i zaloguj się na swoje konto Xiaomi"</string>
     <string name="circulate_tv_is_authing_tip">Weryfikowanie urządzeń. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="clipboard_cancel_sync">Anuluj</string>
     <string name="clipboard_loading">Wklejanie z %1$s</string>
-    <string name="close_auxiliary_wifi_hint">Wyłącz funkcję \"Zwiększ prędkość Wi-Fi\", aby móc włączyć projekcję</string>
-    <string name="close_auxiliary_wifi_hint_china">Wyłącz funkcję \"Zwiększ prędkość Wi-Fi\", aby móc włączyć projekcję</string>
+    <string name="close_auxiliary_wifi_hint">Wyłącz funkcję \"Zwiększenie prędkości sieci (dwupasmowe Wi-Fi)\", aby móc włączyć projekcję</string>
+    <string name="close_auxiliary_wifi_hint_china">Wyłącz funkcję \"Zwiększenie prędkości sieci (dwupasmowe Wi-Fi)\", aby móc włączyć projekcję</string>
     <string name="connect_setting_privacy_title">Prywatność</string>
     <string name="connect_settings_application_ecological">Łączenie aplikacji</string>
     <string name="connect_settings_base">Łączność między urządzeniami</string>
@@ -891,4 +891,15 @@ Zanim zaczniesz projekcję, upewnij się, że włączono Game Turbo."</string>
     <string name="upgrade_edit_mijia">Edytuj</string>
     <string name="watch_more_setting">Więcej opcji</string>
     <string name="window_card_ml_find_null">To urządzenie może nie być w pobliżu</string>
+    <string name="close_dp_casting_hint">Odłącz kabel i spróbuj ponownie</string>
+    <string name="device_busy">Urządzenie jest zajęte. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="dialog_close">Wyłącz</string>
+    <string name="dialog_scanning_close_dual_wifi_china">Aby móc dokonywać projekcji, wyłącz funkcję \"Zwiększenie prędkości sieci (dwupasmowe Wi-Fi)\". Zrobić to teraz?</string>
+    <string name="dialog_scanning_close_dual_wifi_global">Aby móc dokonywać projekcji, wyłącz funkcję \"Zwiększenie prędkości sieci (dwupasmowe Wi-Fi)\". Zrobić to teraz?</string>
+    <string name="dialog_scanning_close_tethering">Aby móc dokonywać projekcji, wyłącz hotspot. Zrobić to teraz?</string>
+    <string name="dp_casting_start_hint">Podłączono urządzenie kablem. Zakończono projekcję.</string>
+    <string name="head_toast_connecting">Łączenie…</string>
+    <string name="head_toast_fail">"Nie udało się połączyć"</string>
+    <string name="head_toast_success">Pomyślnie połączono</string>
+    <string name="sever_stream_push_state_idle2">Podgląd wył.</string>
 </resources>
