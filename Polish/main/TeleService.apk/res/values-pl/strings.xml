@@ -2488,4 +2488,6 @@ Ten tablet nie jest wyposażony w słuchawki. Możesz przełączyć w tryb gło�
     <string name="voice_link_switch_title">Dzwonienie z pomocą karty do danych</string>
     <string name="volte_switch_globalization_prompt">Ta sieć nie została zweryfikowana pod kątem VoLTE na tym urządzeniu. Włączenie tej funkcji może wpłynąć na pracę baterii, połączenia, SMS-y, pocztę głosową i wykorzystanie danych mobilnych.</string>
     <string name="volte_switch_globalization_prompt_title">Uwaga</string>
+    <string name="can_not_use">"Nie można użyć"</string>
+    <string name="msim_select_default_last">Ostatnio używana</string>
 </resources>

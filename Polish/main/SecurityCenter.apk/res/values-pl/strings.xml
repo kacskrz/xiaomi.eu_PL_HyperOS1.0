@@ -6369,7 +6369,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="pc_keywords_summary_low_power_consume">Sieć 5G będzie zużywać mniej energii w pewnych przypadkach</string>
     <string name="pc_keywords_summary_navigation">Gdy używasz aplikacji do nawigacji, ładowanie automatycznie się zatrzyma na ustalonym poziomie</string>
     <string name="pc_keywords_summary_night_save">Automatycznie wyłącz niektóre funkcje, aby zaoszczędzić baterię, gdy telefon wykryje, że śpisz</string>
-    <string name="permission_action_virtual_common_summary">Przyznaje aplikacjom wymagane uprawnienia, ale zwraca puste wiadomości, aby chronić Twoją prywatność</string>
+    <string name="permission_action_virtual_common_summary">Przyznaj aplikacjom wymagane uprawnienia, ale zwróć puste wiadomości, aby chronić Twoją prywatność</string>
     <string name="permission_instruction_mac_adress">"Dostęp do adresu MAC tego urządzenia"</string>
     <string name="permission_instruction_read_imei">"Dostęp do numerów IMEI tego urządzenia"</string>
     <string name="permission_precise_location_sumary">Gdy ta funkcja jest wyłączona, aplikacje będą mogły uzyskiwać tylko przybliżoną lokalizację</string>
@@ -6399,4 +6399,30 @@ Xiaomi Gaming Cooler"</string>
     <string name="vb_movie_subtitle">Wymaga wysokiej wydajności</string>
     <string name="vb_theatre_switch_guide">Dotknij, aby przełączyć się na Tryb teatralny</string>
     <string name="vb_voice_adjust">Dźwięk teatralny</string>
+    <string name="app_disable_dlg_positive">Wyłącz aplikację</string>
+    <string name="app_disable_dlg_text">"Jeśli wyłączysz tę aplikację, system i inne aplikacje mogą nie działać poprawnie. Ponieważ to aplikacja systemowa, nie może ona zostać odinstalowana. Jeśli zdecydujesz się na jej wyłaczenie, zostanie ona ukryta."</string>
+    <string name="firewall_statement_msg">Ze względu na ograniczenia systemu i wymagania dot. jakości operatora, niewielka część aplikacji może nadal używać danych mobilnych nawet wtedy, gdy są one wyłączone. Jeśli spotkasz się z taką sytuacją, zgłoś ją w Usługach i opiniach.</string>
+    <string name="firewall_statement_no_more">"Nie przypominaj ponownie"</string>
+    <string name="firewall_statement_ok">OK</string>
+    <string name="firewall_statement_title">Uwaga</string>
+    <string name="pc_always_charge_protect_summary">Aby zachować żywotność baterii, zezwól na ładowanie tylko do %1$s</string>
+    <string name="pc_always_charge_protect_title">Ograniczone ładowanie</string>
+    <string name="pc_battery_charge_protect">Ochrona ładowania</string>
+    <string name="pc_high_temp_discharge_reminder">Naładuj urządzenie. Gdy poziom baterii jest niski, a urządzenie się przegrzeje, bateria może ulec uszkodzeniu.</string>
+    <string name="pc_intellect_charge_protect_summary">Dostosuj ładowanie na podstawie scenariuszy użytkowania</string>
+    <string name="pc_intellect_charge_protect_title">Zoptymalizowane ładowanie</string>
+    <string name="pc_ordinary_charge_summary">Zawsze zezwalaj na ładowanie do %1$s</string>
+    <string name="pc_ordinary_charge_title">Normalne ladowanie</string>
+    <string name="pc_timely_charging_summary">Masz mniej niż %1$s baterii. Gdy poziom baterii jest niski, a urządzenie się przegrzeje, bateria może ulec uszkodzeniu.</string>
+    <string name="pc_timely_charging_title">Naładuj urządzenie</string>
+    <string name="pin_toast">Przesuń w górę od dołu ekranu i zatrzymaj się, aby odpiąć tę aplikację</string>
+    <string name="pin_toast_nav">Przytrzymaj przyciski Wstecz i Podgląd, aby odpiąć tę aplikację</string>
+    <string name="terminal_flars_current_camera">"Używa aparatu tego urządzenia"</string>
+    <string name="terminal_flars_current_screen">"Ma dostęp do ekranu tego urządzenia"</string>
+    <string name="terminal_flars_current_screen_camera">"Używa aparatu i ekranu tego urządzenia"</string>
+    <string name="terminal_flars_recent_camera">"Ostatnio używał aparatu tego urządzenia"</string>
+    <string name="terminal_flars_recent_screen">"Ostatnio miał dostęp do ekranu tego urządzenia"</string>
+    <string name="terminal_flars_recent_screen_camera">"Ostatnio używał aparatu i ekranu tego urządzenia"</string>
+    <string name="vb_movie_power_hint">"Tryb teatralny zapewnia wciągające wrażenia podczas oglądania.
+Urządzenie może się nagrzać i zużywać więcej energii."</string>
 </resources>

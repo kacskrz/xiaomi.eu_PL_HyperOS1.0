@@ -593,4 +593,5 @@ Magazyn danych logowania może nie zostać włączony"</string>
     <string name="default_dialer_reset_prompt">"Wygląda na to, że w trakcie używania aplikacji %s wystąpiło wiele błędów. Czy chcesz, aby dialer Xiaomi był Twoją domyślną aplikacją telefonu?"</string>
     <string name="notification_channel_call_streaming">Strumieniowanie połączenia</string>
     <string name="redirect_system_dialer_toast">Wystąpił błąd z aplikacją %s. Przełączam się na systemowy dialer.</string>
+    <string name="satellite_only_support_one_call">"Nie można dodać więcej połączeń podczas korzystania z połączenia satelitarnego"</string>
 </resources>

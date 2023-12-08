@@ -868,4 +868,15 @@ na swoim iPhonie"</string>
   <string name="provision_set_old_pad">Importuj ze staregu urządzenia</string>
   <string name="receiver_video_summary_pad">Odblokuj stare urządzenie, dotknij opcji \"Prześlj\" i zeskanuj ten obraz</string>
   <string name="receiver_video_title_pad">Przenieś ze starego urządzenia</string>
+  <string name="PRD_summary_1">Jeśli przeniesiesz dane z tych aplikacji ze starego urządzenia na nowe, informacje znajdujące się na nowym urządzeniu (w tym historia czatów) zostaną nadpisane.</string>
+  <string name="PRD_summary_4">Wyłączenie sieci Wi-Fi lub przełączenie się między sieciami Wi-Fi w trakcie przenoszenia może sprawić, że się ono nie powiedzie.</string>
+  <string name="PRD_summary_4_china">Wyłączenie sieci Wi-Fi lub przełączenie się między sieciami Wi-Fi w trakcie przenoszenia może sprawić, że się ono nie powiedzie.</string>
+  <string name="PRD_summary_5">Transfery z wysoką prędkością mogą sprawić, że urządzenie będzie gorętsze niż zwykle. To normalna sytuacja; po zakończeniu procesu powróci ono do normalnej temperatury.</string>
+  <string name="PRD_title_1">1. Następujące aplikacje już mają dane na nowym urządzeniu:</string>
+  <string name="PRD_title_4">2. Zachowaj ostrożność w trakcie przenoszenia</string>
+  <string name="PRD_title_5">3. Twoje urządzenie może się nagrzać</string>
+  <string name="require_permission">Dotknij, aby przyznać uprawnienie do przenoszenia elementów</string>
+  <string name="scanner_subtitle_prd">Przeczytaj te informacje przed zaznaczeniem każdego elementu i rozpoczęciem przenoszenia.</string>
+  <string name="scanner_title_prd">Ważne informacje</string>
+  <string name="settings_photo">Ustawienia Galerii</string>
 </resources>
