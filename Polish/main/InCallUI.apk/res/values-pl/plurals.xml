@@ -183,4 +183,12 @@
         <item quantity="few">Dzwoniono pod ten numer %1$s lata temu</item>
         <item quantity="one">Dzwoniono pod ten numer %1$s rok temu</item>
     </plurals>
+    <plurals name="satellite_state_fail">
+        <item quantity="other">"Minęło %d sekund bez połączenia z satelitą.
+Możesz ponowić próbę lub wyjść."</item>
+        <item quantity="few">"Minęły %d sekundy bez połączenia z satelitą.
+Możesz ponowić próbę lub wyjść."</item>
+        <item quantity="one">"Minęła %d sekunda bez połączenia z satelitą.
+Możesz ponowić próbę lub wyjść."</item>
+    </plurals>
 </resources>

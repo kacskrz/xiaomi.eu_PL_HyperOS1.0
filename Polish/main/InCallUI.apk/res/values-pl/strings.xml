@@ -483,11 +483,15 @@ aby umieścić ikonę satelity w niebieskim polu"</string>
     <string name="satellite_guide_up">"Podnieś urządzenie do góry,
 aby umieścić piłkę w niebieskim polu"</string>
     <string name="satellite_incall_tip">Włączono głośnik</string>
-    <string name="satellite_service_provider">Dostarczane przez China Telecom</string>
+    <string name="satellite_service_provider">Usługę dostarcza China Telecom</string>
     <string name="satellite_state">"Nie ruszaj urządzeniem"</string>
     <string name="satellite_state_connected">"Połączono z satelitą. Nie ruszaj urządzeniem."</string>
     <string name="satellite_state_connected_floating">"Nie ruszaj urządzeniem"</string>
     <string name="focus_notification_on_ringing">Połączenie</string>
     <string name="satellite_diable_earpiece">"Nie można użyć głośnika do rozmów w połączeniach satelitarnych"</string>
     <string name="satellite_state_connecting">Łączenie… (%d s)</string>
+    <string name="app_disable_description_text">"Jeśli wyłączysz tę aplikację, nie będzie można wykonywać lub odbierać połączeń, a także używać innych związanych z tym funkcji. Ponieważ to aplikacja systemowa, nie można jej odinstalować."</string>
+    <string name="app_disable_title_text">Wyłączyć aplikację?</string>
+    <string name="satellite_state_auto_exit">Wyjdź (%d s)</string>
+    <string name="satellite_state_retry">Próbuj dalej</string>
 </resources>
