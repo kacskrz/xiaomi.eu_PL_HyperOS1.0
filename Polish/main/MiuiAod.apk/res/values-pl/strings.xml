@@ -471,4 +471,5 @@ d.M"</string>
     <string name="weather_no_data">Brak danych o pogodzie</string>
     <string name="kg_classic_item_weather_cloudy">Pochmurnie</string>
     <string name="kg_tip_cant_get_third_party_wallpaper">"Nie można uzyskać dostępu do tapety strony trzeciej"</string>
+    <string name="aod_notification_use_app_icon">Użyj ikon z aplikacji</string>
 </resources>
