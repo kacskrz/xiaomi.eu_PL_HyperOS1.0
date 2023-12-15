@@ -1108,4 +1108,6 @@ Spróbuj przenieść pliki z urządzenia do Mi Drive."</string>
     <string name="view_mode_grid">Siatka</string>
     <string name="view_mode_list">Lista</string>
     <string name="view_type_mode">Układ</string>
+    <string name="decompress_fail_contains_special_characters">"Nie można skompresować. Nazwy skompresowanych plików nie mogą zawierać znaków specjalnych."</string>
+    <string name="operation_delete_confirm_dcim_message_folder">DCIM to folder Galerii. Jeśli go usuniesz, elementy znajdujące się w nim zostaną usunięte także z Galerii. Usunąć mimo to?</string>
 </resources>

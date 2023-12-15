@@ -632,4 +632,5 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="switch_wlan_tips_desc_pad_china">Możesz połączyć się z tą samą siecią Wi-Fi co inne urządzenie, aby funkcja działała lepiej. Czy chcesz to zrobić?</string>
     <string name="to_settings">Ustawienia</string>
     <string name="miui15_cta_app_name">Łączność między urządzeniami Xiaomi</string>
+    <string name="subscreen_exception_hint">"Wersja na urządzeniu nie jest aktualna. Mogą wystąpić błędy wyświetlania."</string>
 </resources>

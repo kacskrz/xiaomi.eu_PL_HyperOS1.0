@@ -13534,4 +13534,10 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="nfc_notification_mode_title">Przypomnienia dot. odczytu kart NFC</string>
     <string name="toast_bluetooth_disable">"Nie można włączyć Bluetooth. Wygląda na to, że moduł Bluetooth został przeinstalowany bądź ograniczono dostęp do Bluetooth."</string>
     <string name="photography_handle_title">Uchwyt do aparatu</string>
+    <string name="auto_silent_info">Jeśli włączysz tryb Nie przeszkadzać ręcznie, ta funkcja przestanie działać</string>
+    <string name="photography_handle_button_function_settings">Ustaw przycisk uchwytu</string>
+    <string name="photography_handle_launch_and_take_photo">Zrób zdjęcie</string>
+    <string name="photography_handle_launch_camera">Włącz aparat</string>
+    <string name="photography_handle_long_press_camera_key_enter_camera">Przytrzymaj przycisk migawki, aby wykonać akcję</string>
+    <string name="photography_handle_quick_launch_camera_title">Szybkie uruchamianie</string>
 </resources>
