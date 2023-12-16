@@ -2288,7 +2288,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="watch_all_photo">Galeria</string>
     <string name="unsupport_type">"Ten format nie jest wspierany"</string>
     <string name="album_homepage_show_all_photos">Pokaż wszystkie zdjęcia</string>
-    <string name="album_lockscreen_wallpapers">Tapety Ekranu blokady</string>
+    <string name="album_lockscreen_wallpapers">Tapety ekranu blokady</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznacz</string>
     <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>
     <string name="miuix_appcompat_action_mode_title_empty">Wybierz elementy</string>

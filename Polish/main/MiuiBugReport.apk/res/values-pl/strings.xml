@@ -985,7 +985,7 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
   <string name="weibo_login_btn_content_description">Zaloguj się przez Weibo</string>
   <string name="weixin_login_btn_content_description">Zaloguj się przez WeChat</string>
   <string name="please_download_gallery">Zainstaluj Galerię, aby wyświetlić</string>
-  <string name="bugreport_dialog_informed_consent_content">"Wykryto błąd dotyczący Twojego hasła Ekranu blokady. Możesz wysłać logi swojego urządzenia, aby pomóc zlokalizować i rozwiązać ten problem. Zostanie on wysłany anonimowo i będzie wykorzystywany tylko w celu rozwiązania problemu. Potem zostanie on usunięty."</string>
+  <string name="bugreport_dialog_informed_consent_content">"Wykryto błąd dotyczący Twojego hasła ekranu blokady. Możesz wysłać logi swojego urządzenia, aby pomóc zlokalizować i rozwiązać ten problem. Zostanie on wysłany anonimowo i będzie wykorzystywany tylko w celu rozwiązania problemu. Potem zostanie on usunięty."</string>
   <string name="bugreport_dialog_informed_consent_title">Świadoma zgoda</string>
   <string name="feedback_evaluation_btn_content">Oceń</string>
   <string name="feedback_evaluation_expired_hint">Wygląda na to, że ta ocena wygasła</string>

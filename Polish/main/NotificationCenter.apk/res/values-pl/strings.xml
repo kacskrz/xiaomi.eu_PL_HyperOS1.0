@@ -162,7 +162,7 @@ Zgłoś ten problem >"</string>
     <string name="fold_title">Reguły dla zgrupowanych powiadomień</string>
     <string name="notification_keyguard_hide_content">Wyświetlaj powiadomienia, ukryj treść</string>
     <string name="notification_keyguard_show_content">Wyświetl powiadomienie i treść</string>
-    <string name="notification_keyguard_show_nothing">"Nie wyświetlaj powiadomień na Ekranie blokady"</string>
+    <string name="notification_keyguard_show_nothing">"Nie wyświetlaj powiadomień na ekranie blokady"</string>
     <string name="rule_keyguard_display">Format</string>
     <string name="summary_aggregate_default">Powiadomienia dot. reklam i te związane z treściami zostaną zgrupowane</string>
     <string name="summary_aggregate_home">"Push notifications won't be grouped"</string>

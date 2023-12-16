@@ -320,7 +320,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="llks_whole_cate">Wszystkie kategorie</string>
   <string name="load_hdpicture_complete">Pomyślnie załadowano oryginalny obraz</string>
   <string name="loading">Chwilka...</string>
-  <string name="lock_show_permission_exception">Zezwól Tapetom Blokady na wyświetlanie elementów na Ekranie blokady</string>
+  <string name="lock_show_permission_exception">Zezwól Tapetom Blokady na wyświetlanie elementów na ekranie blokady</string>
   <string name="lockscreen_h5_back_tv">Wstecz</string>
   <string name="lockscreen_h5_close_tv">Wył.</string>
   <string name="lockscreen_h5_refresh_btn_tv">Odśwież</string>
@@ -796,8 +796,8 @@ dd.M"</string>
   <string name="goto_confirm">Ustawienia</string>
   <string name="require_permission">Wymagane uprawnienia</string>
   <string name="require_permission_text">Ta aplikacja wymaga pozwolenia na dostęp do plików z urządzenia, aby móc dodawać Twoje tapety do Tapet Blokady i zapisywać na urządzeniu pobrane treści.</string>
-  <string name="summary3">"Witaj w Tapetach Blokady! Dzięki tej aplikacji możesz subskrybować swoje ulubione kategorie tapet i regularnie otrzymywać nowe tapety na swoim Ekranie blokady. Aplikacja wymaga połączenia z Internetem i gromadzenia niezbędnych danych osobowych w celu poprawnego działania.&lt;br>Aby dostarczać dodatkowe usługi, aplikacja może poprosić o dostęp i zapis elementów do pamięci tego urządzenia.&lt;br>Aby w pełnie zrozumieć swoje prawa, a także metody, w ramach których Xiaomi przetwarza Twoje dane, przeczytaj i zaakceptuj warunki &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Umowy użytkownika&lt;/font>&lt;/a> oraz &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Polityki prywatności&lt;/font>&lt;/a> przed skorzystaniem z aplikacji."</string>
-  <string name="summary4">"Witaj w Tapetach Blokady! Dzięki tej aplikacji możesz subskrybować swoje ulubione kategorie tapet i regularnie otrzymywać nowe tapety na swoim Ekranie blokady. "</string>
+  <string name="summary3">"Witaj w Tapetach Blokady! Dzięki tej aplikacji możesz subskrybować swoje ulubione kategorie tapet i regularnie otrzymywać nowe tapety na swoim ekranie blokady. Aplikacja wymaga połączenia z Internetem i gromadzenia niezbędnych danych osobowych w celu poprawnego działania.&lt;br>Aby dostarczać dodatkowe usługi, aplikacja może poprosić o dostęp i zapis elementów do pamięci tego urządzenia.&lt;br>Aby w pełnie zrozumieć swoje prawa, a także metody, w ramach których Xiaomi przetwarza Twoje dane, przeczytaj i zaakceptuj warunki &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Umowy użytkownika&lt;/font>&lt;/a> oraz &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Polityki prywatności&lt;/font>&lt;/a> przed skorzystaniem z aplikacji."</string>
+  <string name="summary4">"Witaj w Tapetach Blokady! Dzięki tej aplikacji możesz subskrybować swoje ulubione kategorie tapet i regularnie otrzymywać nowe tapety na swoim ekranie blokady. "</string>
   <string name="summary5">"Aby dostarczać dodatkowe usługi, aplikacja może poprosić o dostęp i zapis elementów do pamięci tego urządzenia. "</string>
   <string name="about_permission">Uprawnienia</string>
   <string name="allowed">Przyznano</string>
@@ -900,14 +900,14 @@ Może to generować dodatkowe opłaty."</string>
   <string name="lks_like">Dodaj do ulubionych</string>
   <string name="lks_liked">Dodano do ulubionych</string>
   <string name="lks_loop_icon_ask_cancle">Anuluj</string>
-  <string name="lks_loop_icon_ask_dlg">Włącz Pokaz slajdów na Ekranie blokady, aby codziennie uzyskiwać nowe obrazy i historie na swoim Ekranie blokady.</string>
+  <string name="lks_loop_icon_ask_dlg">Włącz Pokaz slajdów na ekranie blokady, aby codziennie uzyskiwać nowe obrazy i historie na swoim ekranie blokady.</string>
   <string name="lks_loop_icon_ask_ok">Włącz</string>
-  <string name="lks_loop_icon_ask_title">Pokaz slajdów na Ekranie blokady</string>
+  <string name="lks_loop_icon_ask_title">Pokaz slajdów na ekranie blokady</string>
   <string name="lks_loop_icon_close_cancle">Anuluj</string>
-  <string name="lks_loop_icon_close_dlg">Pokaz slajdów na Ekranie blokady zostanie wyłączony po ustawieniu tego obrazu jako tapety Ekranu blokady. Ustawić tę tapetę?</string>
+  <string name="lks_loop_icon_close_dlg">Pokaz slajdów na ekranie blokady zostanie wyłączony po ustawieniu tego obrazu jako tapety Ekranu blokady. Ustawić tę tapetę?</string>
   <string name="lks_loop_icon_close_title">Uwaga</string>
-  <string name="lks_loop_icon_dlg_title">Pokaz slajdów na Ekranie blokady</string>
-  <string name="lks_loop_icon_open_dlg">Pokaz slajdów na Ekranie blokady jest włączony i będzie codziennie dostarczać nowe obrazy oraz historie na Twój Ekran blokady.</string>
+  <string name="lks_loop_icon_dlg_title">Pokaz slajdów na ekranie blokady</string>
+  <string name="lks_loop_icon_open_dlg">Pokaz slajdów na ekranie blokady jest włączony i będzie codziennie dostarczać nowe obrazy oraz historie na Twój Ekran blokady.</string>
   <string name="lks_loop_icon_open_ok">Rozumiem</string>
   <string name="lks_more">Więcej</string>
   <string name="lks_more_pics_coming_toast">Nowe obrazy już w drodze</string>
@@ -916,7 +916,7 @@ Może to generować dodatkowe opłaty."</string>
   <string name="lks_please_reload">Załaduj ponownie</string>
   <string name="lks_related_article">Artykuł</string>
   <string name="lks_retry">Spróbuj ponownie</string>
-  <string name="lks_set_as_lks_wallpaper">Ustaw na Ekranie blokady</string>
+  <string name="lks_set_as_lks_wallpaper">Ustaw na ekranie blokady</string>
   <string name="lks_to_history">Historia</string>
   <string name="lks_to_setting">Ustawienia Tapet Blokady</string>
   <string name="detail_recomm_excellent">Wyróżnione</string>
@@ -933,8 +933,8 @@ Może to generować dodatkowe opłaty."</string>
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
-  <string name="apply_warning_content">"Używasz Supertapety. Jeśli zmienisz swoją tapetę, zostanie ona zastosowana zarówno na pulpicie, jak i na Ekranie blokady. Czy chcesz to zrobić?"</string>
-  <string name="apply_warning_content_with_aod">"Używasz Supertapety. Jeśli zmienisz swoją tapetę, zostanie ona zastosowana zarówno na pulpicie, jak i na Ekranie blokady. Ponadto może zostać przywrócony domyślny wygląd Ekranu zawsze włączonego. Czy chcesz to zrobić?"</string>
+  <string name="apply_warning_content">"Używasz Supertapety. Jeśli zmienisz swoją tapetę, zostanie ona zastosowana zarówno na pulpicie, jak i na ekranie blokady. Czy chcesz to zrobić?"</string>
+  <string name="apply_warning_content_with_aod">"Używasz Supertapety. Jeśli zmienisz swoją tapetę, zostanie ona zastosowana zarówno na pulpicie, jak i na ekranie blokady. Ponadto może zostać przywrócony domyślny wygląd Ekranu zawsze włączonego. Czy chcesz to zrobić?"</string>
   <string name="apply_warning_content_with_maml">"Używasz motywu strony trzeciej. Jeśli zmienisz swoją tapetę, może zostać przywrócony domyślny zegar Ekranu blokady. Czy chcesz to zrobić?"</string>
   <string name="apply_warning_title">Ustawianie tapety</string>
   <string name="dlg_ok">Ustaw</string>
@@ -960,7 +960,7 @@ Może to generować dodatkowe opłaty."</string>
   <string name="lks_new_user_guide_horizontal">Przesuń w lewo lub prawo, aby zobaczyć więcej obrazów</string>
   <string name="lks_new_user_guide_left">Przesuń w lewo, aby zobaczyć więcej obrazów</string>
   <string name="lks_new_user_guide_up">Przesuń w górę, aby zobaczyć więcej informacji</string>
-  <string name="loop_service_dlg_content">Pokaz slajdów automatycznie wyświetla obrazy dostosowane do Twoich preferencji, w tym motywy takie jak podróże, jedzenie, sztuka i inne. Włączyć pokaz slajdów na Ekranie blokady i dodać ten obraz?</string>
+  <string name="loop_service_dlg_content">Pokaz slajdów automatycznie wyświetla obrazy dostosowane do Twoich preferencji, w tym motywy takie jak podróże, jedzenie, sztuka i inne. Włączyć pokaz slajdów na ekranie blokady i dodać ten obraz?</string>
   <string name="loop_service_dlg_negative">Nie teraz</string>
   <string name="loop_service_dlg_positive">Włącz</string>
   <string name="loop_service_dlg_positive_toast_day">Włączono pokaz slajdów. Tapeta będzie się zmieniać co 24 godziny. Możesz zmienić ten czas w ustawieniach Tapet Blokady.</string>

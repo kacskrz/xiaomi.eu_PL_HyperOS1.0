@@ -294,7 +294,7 @@ dd.MM"</string>
     <string name="UVI_level_2">Silny</string>
     <string name="UVI_level_3">Bardzo silny</string>
     <string name="UVI_level_4">Ciężki</string>
-    <string name="aod_app_name">Ekran zawsze włączony i edytor Ekranu blokady</string>
+    <string name="aod_app_name">Ekran zawsze włączony i edytor ekranu blokady</string>
     <!-- ADJUST FORMAT TO YOUR LANGUAGE -->
     <string name="format_month_day_style1">d MMM</string>
     <string name="format_month_day_style2">d.M</string>
@@ -307,7 +307,7 @@ dd.MM"</string>
     <string name="health_chart_sleep_time_normal">W normie</string>
     <string name="health_chart_sleep_time_very_good">Dobrze</string>
     <string name="health_chart_step_count_unit">Kroki</string>
-    <string name="kg_activity_label">Edytuj Ekran blokady</string>
+    <string name="kg_activity_label">Edytuj ekran blokady</string>
     <string name="kg_apply">Zastosuj</string>
     <string name="kg_apply_to_aod_alert_dialog_negative_text">Nie, dzięki</string>
     <string name="kg_apply_to_aod_alert_dialog_positive_text">Włącz</string>
@@ -354,8 +354,8 @@ dd.MM"</string>
     <string name="kg_color_value_editor_lightness">Jasność</string>
     <string name="kg_color_value_editor_saturation">Saturacja</string>
     <string name="kg_customize">Dostosuj</string>
-    <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">"Ten Ekran blokady nie wspiera Supertapet. Jeśli przejdziesz dalej, tapeta zarówno na Pulpicie, jak i na Ekranie blokady, zostanie zmieniona. Przejść dalej?"</string>
-    <string name="kg_dialog_apply_super_wallpaper_confirm">"Używasz Supertapety. Jeśli przejdziesz dalej, zostanie ona zmieniona na nową tapetę zarówno na Pulpicie, jak i na Ekranie blokady. Przejść dalej?"</string>
+    <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">"Ten ekran blokady nie wspiera Supertapet. Jeśli przejdziesz dalej, tapeta zarówno na Pulpicie, jak i na ekranie blokady, zostanie zmieniona. Przejść dalej?"</string>
+    <string name="kg_dialog_apply_super_wallpaper_confirm">"Używasz Supertapety. Jeśli przejdziesz dalej, zostanie ona zmieniona na nową tapetę zarówno na Pulpicie, jak i na ekranie blokady. Przejść dalej?"</string>
     <string name="kg_dialog_apply_super_wallpaper_nagetive_button">Anuluj</string>
     <string name="kg_dialog_fashion_gallery_button_negative">Zastosuj</string>
     <string name="kg_dialog_fashion_gallery_button_positive">Anuluj</string>
@@ -382,8 +382,8 @@ dd.MM"</string>
     <string name="kg_guidance_dialog_positive_button_text_next_step">Dalej</string>
     <string name="kg_guidance_dialog_positive_button_text_start">Zacznij</string>
     <string name="kg_guidance_dialog_tip_browse_more">Przesuń w górę, aby przełączać się między szablonami. Przesuń poziomo, aby zobaczyć więcej opcji personalizacji.</string>
-    <string name="kg_guidance_dialog_tip_customize">Dostosuj swój Ekran blokady do własnego gustu.</string>
-    <string name="kg_guidance_dialog_title">Nowy, spersonalizowany Ekran blokady</string>
+    <string name="kg_guidance_dialog_tip_customize">Dostosuj swój ekran blokady do własnego gustu.</string>
+    <string name="kg_guidance_dialog_title">Nowy, spersonalizowany ekran blokady</string>
     <string name="kg_hierarchy_loading_tip">Wykrywanie warstw…</string>
     <string name="kg_hierarchy_not_support_avoid_tip">Zmień pozycję tapety, aby włączyć efekt głębi</string>
     <string name="kg_hierarchy_not_support_gallery_tip">"Nie można zastosować efektów głębi do elementów pokazu slajdów"</string>
@@ -393,13 +393,13 @@ dd.MM"</string>
     <string name="kg_magazine_a_b_secondary_color_label">Podpis</string>
     <string name="kg_magazine_c_primary_color_label">Inny tekst</string>
     <string name="kg_magazine_c_secondary_color_label">Minuty</string>
-    <string name="kg_main_add_template_forbidden_toast">"Nie można dodać więcej Ekranów blokady. Usuń niektóre z już istniejących Ekranów, aby móc to zrobić."</string>
+    <string name="kg_main_add_template_forbidden_toast">"Nie można dodać więcej ekranów blokady. Usuń niektóre z już istniejących ekranów, aby móc to zrobić."</string>
     <string name="kg_main_dual_clock_close_ask_dialog_desc">"Nowe zegary nie mogą być wyświetlane, gdy włączony jest Podwójny zegar. Wyłączyć go?"</string>
     <string name="kg_main_dual_clock_close_ask_dialog_negative_button">Nie wyłączaj</string>
     <string name="kg_main_dual_clock_close_ask_dialog_positive_button">Wyłącz</string>
     <string name="kg_main_dual_clock_close_ask_dialog_title">Podwójny zegar</string>
     <string name="kg_main_item_delete_button_text">Usuń</string>
-    <string name="kg_main_toast_current_template_delete">"Nie można usunąć obecnego Ekranu blokady"</string>
+    <string name="kg_main_toast_current_template_delete">"Nie można usunąć obecnego ekranu blokady"</string>
     <string name="kg_main_toast_current_template_delete_third_party_theme">"Nie można usunąć tego elementu, gdy zastosowany jest motyw"</string>
     <string name="kg_main_toast_recover_default_style">Podwójny zegar jest teraz wyłączony. Używasz domyślnego układu.</string>
     <string name="kg_rhombus_primary_color_label">Cyfry</string>
@@ -408,14 +408,14 @@ dd.MM"</string>
     <string name="kg_smart_frame_primary_label">Tekst</string>
     <string name="kg_smart_frame_secondary_label">Tło</string>
     <string name="kg_template_description_classic">"Klasyka nigdy nie wychodzi z mody."</string>
-    <string name="kg_template_description_magazine">Zamień Ekran blokady w okładkę magazynu.</string>
+    <string name="kg_template_description_magazine">Zamień ekran blokady w okładkę magazynu.</string>
     <string name="kg_template_description_rhombus">Czas jest ważny. Wykorzystaj go.</string>
     <string name="kg_template_title_classic">Klasyka</string>
     <string name="kg_template_title_magazine">Magazyn</string>
     <string name="kg_template_title_mine">Ekran blokady</string>
     <string name="kg_template_title_rhombus">Romby</string>
     <string name="kg_wallpaper_scale_hint_text">Ściśnij, aby przyciąć</string>
-    <string name="linkage_select_title">Animacja przejścia do Ekranu blokady</string>
+    <string name="linkage_select_title">Animacja przejścia do ekranu blokady</string>
     <string name="miui_clock_city_name_local">Lokalnie</string>
     <string name="miui_clock_city_name_second">Drugi zegar</string>
     <!-- adjust format to your language -->

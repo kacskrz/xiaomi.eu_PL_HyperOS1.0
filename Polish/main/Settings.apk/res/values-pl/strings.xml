@@ -2486,7 +2486,7 @@ Więcej informacji uzyskasz od administratora organizacji."</string>
   <string name="ethernet_data_template">Dane w sieci Ethernet: ^1</string>
   <string name="ethernet_data_usage">Transmisja danych w sieci Ethernet</string>
   <string name="every_day">Codziennie</string>
-  <string name="expandable_under_keyguard_title">Pokaż na Ekranie blokady</string>
+  <string name="expandable_under_keyguard_title">Pokaż na ekranie blokady</string>
   <string name="experience_optimization_category">Modyfikacje interfejsu systemu</string>
   <string name="experimental_category_title">Eksperymentalne</string>
   <string name="experimental_preference">(Funkcja eksperymentalna)</string>
@@ -2738,7 +2738,7 @@ Nigdzie nie było widać ani koni, ani żadnych innych zwierząt. Do transportu 
   <string name="forget">Zapomnij</string>
   <string name="forget_password_button_text">Zapomniałem hasła</string>
   <string name="forget_password_dialog_button_text">Wstecz</string>
-  <string name="forget_password_dialog_content_four">2. Pojawi się prośba o wpisanie hasła Ekranu blokady. Dotknij strzałki na dole ekranu, potem wybierz [Wipe] i przesuń suwak na dole, a następnie kliknij przycisk [Reboot System].</string>
+  <string name="forget_password_dialog_content_four">2. Pojawi się prośba o wpisanie hasła ekranu blokady. Dotknij strzałki na dole ekranu, potem wybierz [Wipe] i przesuń suwak na dole, a następnie kliknij przycisk [Reboot System].</string>
   <string name="forget_password_dialog_content_one"><Data>"Jeśli zapomniałeś hasła, nie będziesz w stanie go przywrócić. Możesz je jednak zresetować, co wiąże się  &lt;font color=#ec2700>z wymazaniem wszystkich danych z tego urządzenia&lt;/font> (w tym zdjęć czy kontaktów). Wykonaj kopię zapasową tych plików."</Data></string>
   <string name="forget_password_dialog_content_three">1. Wyłącz urządzenie. Przytrzymaj przyciski [Power] i [Volume+] jednocześnie i trzymaj je, dopóki telefon nie uruchomi się do trybu Recovery.</string>
   <string name="forget_password_dialog_content_two">Postępuj zgodnie z tymi krokami, aby wymazać dane:</string>
@@ -5557,7 +5557,7 @@ Aby używać przypinania aplikacji: \u0009
   <string name="search_sound_settings">Dźwięk;Głośność;wibracje;Tłumienie hałasu;tłumienie szumu</string>
   <string name="search_status_bar_settings">Powiadomienia i pasek statusu;Powiadomienia;Pasek powiadomień</string>
   <string name="search_status_bar_settings_custom_carrier">Edytuj nazwę operatora;Nazwa operatora</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Pokaż na Ekranie blokady;pokaż na ekranie blokady</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Pokaż na ekranie blokady;pokaż na ekranie blokady</string>
   <string name="search_status_bar_settings_manage_notification">Powiadomienia aplikacji;Powiadomienia</string>
   <string name="search_status_bar_settings_show_carrier">Pokaż nazwę operatora;Nazwa operatora</string>
   <string name="search_status_bar_settings_show_network_speed">Pokaż prędkość połączenia;prędkość połączenia</string>
@@ -6275,7 +6275,7 @@ Ten nośnik (^1) został sformatowany w taki sposób, że będzie działać tylk
   <string name="storage_percent_full">użyto</string>
   <string name="storage_photos_videos">Zdjęcia i wideo</string>
   <string name="storage_rename_title">Zmień nazwę pamięci</string>
-  <string name="storage_settings">Pamięć wewnętrzna</string>
+  <string name="storage_settings">Pamięć</string>
   <string name="storage_settings_summary">Odłącz nośnik USB i wyświetl ilość dostępnej pamięci</string>
   <string name="storage_settings_title">Ustawienia pamięci</string>
   <string name="storage_size_large">^1<small><small> ^2</small></small></string>
@@ -8125,7 +8125,7 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
   <string name="content_miui_music_mute_by_user">Czy chcesz odtwarzać dźwięki multimediów, gdy włączony jest tryb cichy?</string>
   <string name="title_miui_music_mute_by_user">Tryb cichy</string>
   <string name="error_apn_restrict_string">Pole APN nie może zawierać %1$s</string>
-  <string name="charge_animation_style_summary">Wybierz swój preferowany styl animacji ładowania na Ekranie blokady</string>
+  <string name="charge_animation_style_summary">Wybierz swój preferowany styl animacji ładowania na ekranie blokady</string>
   <string name="charge_animation_style_title">Animacja ładowania</string>
   <string name="error_apn_not_allowed">"Ten APN jest niedozwolony na tym urządzeniu. Spróbuj wybrać inny."</string>
   <string name="control_center">Centrum funkcji</string>
@@ -8257,7 +8257,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="display_animate_title">Zmniejsz animacje</string>
   <string name="legacy_control_center_desc">Przeciągnij pasek stanu w dół, aby wyświetlić przełączniki i powiadomienia</string>
   <string name="legacy_control_center_title">Stary wygląd</string>
-  <string name="lock_screen_action">Elementy wyświetlane na Ekranie blokady po przeciągnięciu w dół</string>
+  <string name="lock_screen_action">Elementy wyświetlane na ekranie blokady po przeciągnięciu w dół</string>
   <string name="modern_control_center_desc">Przeciągnij pasek stanu po lewej stronie, aby wyświetlić powiadomienia, bądź po prawej stronie w celu wyświetlenia Centrum kontroli</string>
   <string name="modern_control_center_title">Nowy wygląd</string>
   <string name="notification_control_center">Powiadomienia i Centrum funkcji</string>
@@ -12909,7 +12909,7 @@ Jeśli nie przyznasz tych uprawnień, system zastosuje limit czasu wykonywania p
     <string name="long_background_tasks_switch_title">Zezwól na długotrwałe zadania w tle</string>
     <string name="long_background_tasks_title">Długotrwałe zadania w tle</string>
     <string name="manage_trust_agents_summary_on">{count,plural, =1{1 aktywny agent zaufania}few{# aktywne agenty zaufania}many{# aktywnych agentów zaufania}other{# aktywnego agenta zaufania}}</string>
-    <string name="media_controls_lockscreen_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostanie otwarty na Ekranie blokady</string>
+    <string name="media_controls_lockscreen_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostanie otwarty na ekranie blokady</string>
     <string name="media_controls_lockscreen_title">Pokazuj multimedia na ekranie blokady</string>
     <string name="media_output_status_device_in_low_power_mode">Wybudź urządzenie, aby odtworzyć tutaj</string>
     <string name="media_output_status_not_support_downloads">Tutaj nie można odtworzyć pobranych plików</string>

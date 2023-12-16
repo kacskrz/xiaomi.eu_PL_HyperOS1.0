@@ -874,7 +874,7 @@ Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację pono
     <string name="install_source_no_credible">Źródło niegodne zaufania</string>
     <string name="lock_screen_authrioze_subtitle_password">Autoryzuj blokadą ekranu</string>
     <string name="mi_protected_duty">Twoje bezpieczeństwo to nasz priorytet</string>
-    <string name="no_set_lock_screen_tip">"Jeśli nie ustawiono jeszcze hasła Ekranu blokady, odcisku palca lub Odblokowania twarzą, możesz to zrobić w Ustawieniach."</string>
+    <string name="no_set_lock_screen_tip">"Jeśli nie ustawiono jeszcze hasła ekranu blokady, odcisku palca lub Odblokowania twarzą, możesz to zrobić w Ustawieniach."</string>
     <string name="open_pure_mode_continue_install">Kontynuuj</string>
     <string name="prohibit_isntall">Dodaj do czarnej listy</string>
     <string name="pure_mode_elderly_recommend_title">"Włącz Ochronę starszych Mi Protect"</string>

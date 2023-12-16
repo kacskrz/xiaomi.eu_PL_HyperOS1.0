@@ -496,8 +496,8 @@ może znajdować się w oddzielnej aplikacji"</string>
   <string name="xspace_install_complete">&lt;font>Pomyślnie utworzono aplikację. &lt;/font>&lt;font color=#0D84FF>Otwórz ją teraz&lt;/font>.</string>
   <string name="xspace_notification_button">Spróbuj</string>
   <string name="xspace_start">Utwórz</string>
-  <string name="settings_notification_second_space_show_in_locked_summary">Pokaż powiadomienia z Drugiej przestrzeni na Ekranie blokady</string>
-  <string name="settings_notification_second_space_show_in_locked_title">Pokaż powiadomienia na Ekranie blokady</string>
+  <string name="settings_notification_second_space_show_in_locked_summary">Pokaż powiadomienia z Drugiej przestrzeni na ekranie blokady</string>
+  <string name="settings_notification_second_space_show_in_locked_title">Pokaż powiadomienia na ekranie blokady</string>
   <string name="miuix_access_state_desc">Wybrano</string>
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>

@@ -106,7 +106,7 @@
     <string name="friday_shortest">Pt</string>
     <string name="goto_help">Pomoc</string>
     <string name="how_to_use_uwb">Jak korzystać z Xiaomi Magic Control?</string>
-    <string name="how_to_use_uwb_detail">"Najpierw upewnij się, że urządzenie docelowe jest w pobliżu, połączenie z siecią na Twoim telefonie działa poprawnie, a Bluetooth jest włączone. Następnie włącz funkcję Magic Control na telefonie. Aby to zrobić, możesz przytrzymać przycisk Zasilania, kliknąć go dwa razy lub włączyć funkcję z poziomu Ekranu blokady lub skrótu w Centrum funkcji. Po włączeniu funkcji Magic Control skieruj telefon na urządzenie docelowe, aby nawiązać połączenie. Kiedy to nastąpi, na ekranie telefonu pojawi się panel kontrolny danego urządzenia."</string>
+    <string name="how_to_use_uwb_detail">"Najpierw upewnij się, że urządzenie docelowe jest w pobliżu, połączenie z siecią na Twoim telefonie działa poprawnie, a Bluetooth jest włączone. Następnie włącz funkcję Magic Control na telefonie. Aby to zrobić, możesz przytrzymać przycisk Zasilania, kliknąć go dwa razy lub włączyć funkcję z poziomu ekranu blokady lub skrótu w Centrum funkcji. Po włączeniu funkcji Magic Control skieruj telefon na urządzenie docelowe, aby nawiązać połączenie. Kiedy to nastąpi, na ekranie telefonu pojawi się panel kontrolny danego urządzenia."</string>
     <string name="icon_content_description">Ikona dialogu</string>
     <string name="item_view_role_description">Karta</string>
     <string name="material_clock_toggle_content_description">Wybierz: przed południem czy po południu</string>
@@ -319,7 +319,7 @@ Podłączenie kabla zasilającego: podłącz jeden koniec ze złączem typu C do
 Dotknij opcji Start i nie ruszaj się przez 5 sekund"</string>
     <string name="uwb_ble_fail">Bluetooth nie jest włączone. Sprawdź ustawienia Bluetooth.</string>
     <string name="uwb_ble_success">Włączono Bluetooth</string>
-    <string name="uwb_cancel_hint">Aby wyjść z menu Magic Control na Ekranie blokady, dotknij opcji Wyjdź. Możesz je włączyć w dowolnym momencie.</string>
+    <string name="uwb_cancel_hint">Aby wyjść z menu Magic Control na ekranie blokady, dotknij opcji Wyjdź. Możesz je włączyć w dowolnym momencie.</string>
     <string name="uwb_check_device_at_the_right_distance">"Skieruj telefon na urządzenie.
 Utrzymuj dystans 2 metrów od niego."</string>
     <string name="uwb_check_setting">Sprawdź ustawienia</string>
@@ -345,7 +345,7 @@ Przesuń odrobinę w górę"</string>
 Przesuń odrobinę w prawo"</string>
     <string name="uwb_less_than_right_distance">"Skieruj telefon na urządzenie.
 Przesuń trochę do tyłu"</string>
-    <string name="uwb_lock_sceen_entrance">"Skrót na Ekranie blokady"</string>
+    <string name="uwb_lock_sceen_entrance">"Skrót na ekranie blokady"</string>
     <string name="uwb_mijia_low_version">Do poprawnego działania funkcja Magic Control wymaga instalacji aplikacji Xiaomi Home. Wersja aplikacji Xiaomi Home, której obecnie używasz, jest zbyt niska. Zaktualizuj aplikację Xiaomi Home.</string>
     <string name="uwb_mijia_low_version_title">Wersja Xiaomi Home jest za niska</string>
     <string name="uwb_mijia_not_installed_title">Aplikacja Xiaomi Home nie jest zainstalowana</string>

@@ -248,10 +248,10 @@ Możesz zobaczyć wygenerowane logi w aplikacji Pliki."</string>
     <string name="launch_wechat_scanner">Skaner WeChat</string>
     <string name="lock_settings_common_title">Ustawienia</string>
     <string name="long_press_back_key">Dotknij i przytrzymaj przycisk Wstecz</string>
-    <string name="long_press_buttom_key">Dotknij i przytrzymaj przycisk Ekran główny na Ekranie blokady</string>
+    <string name="long_press_buttom_key">Dotknij i przytrzymaj przycisk Ekran główny na ekranie blokady</string>
     <string name="long_press_home_key">Dotknij i przytrzymaj przycisk Ekranu głównego</string>
     <string name="long_press_menu_key">Dotknij i przytrzymaj przycisk Menu</string>
-    <string name="long_press_menu_key_when_lock">Dotknij i przytrzymaj przycisk Menu na Ekranie blokady</string>
+    <string name="long_press_menu_key_when_lock">Dotknij i przytrzymaj przycisk Menu na ekranie blokady</string>
     <string name="long_press_power_key">Naciśnij i przytrzymaj przycisk zasilania</string>
     <string name="long_press_power_key_half_of_second">Naciśnij i przytrzymaj przycisk Zasilania na 0,5 sekundy, aby włączyć Asystenta Google</string>
     <string name="long_press_power_key_half_second">Naciśnij i przytrzymaj przycisk zasilania przez %s sek.</string>

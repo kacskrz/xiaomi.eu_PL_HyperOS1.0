@@ -273,8 +273,8 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="home_settings_title">Wybierz układ pulpitu</string>
   <string name="wc_dialog_agree">Zgadzam się</string>
   <string name="wc_dialog_reject">"Nie zgadzam się"</string>
-  <string name="wc_dialog_summary">Tapety Blokady codziennie dostarczają nowe i ciekawe obrazy na Twój Ekran blokady.</string>
-  <string name="wc_dialog_title">Odmieniony Ekran blokady</string>
+  <string name="wc_dialog_summary">Tapety Blokady codziennie dostarczają nowe i ciekawe obrazy na Twój ekran blokady.</string>
+  <string name="wc_dialog_title">Odmieniony ekran blokady</string>
   <string name="wc_double_check_agree">Wypróbuj</string>
   <string name="wc_double_check_reject">Nie, dzięki</string>
   <string name="wc_double_check_summary">Możesz włączyć Tapety Blokady, aby sprawdzić, czy ta funkcja działa poprawnie i czy będziesz z niej zadowolony, Możesz wyłączyć tę opcję w Ustawieniach > Ekran blokady.</string>
@@ -325,14 +325,14 @@ Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawie
   <string name="agree_cookie">Akceptuj pliki cookie</string>
   <string name="agreement_declare_use_network_and_location_china">"Dodatkowo następujące usługi połączą się z siecią i uzyskają Twoją lokalizację: "</string>
   <string name="agreement_declare_use_network_china">połączą się z siecią.</string>
-  <string name="cookies_content_one">"Kiedy dotkniesz obrazków i wspomnień zgromadzonych w Tapetach Blokady, ich pełne wersje zostaną otwarte w Twojej przeglądarce. Firma trzecia, która dostarcza treści, czyli Taboola, może wtedy polecać dodatkowe treści i reklamy dopasowane do Twoich zainteresowań. Jeśli wyrazisz zgodę na aktywację tej funkcji, Taboola umieści pliki cookie na Twoim urządzeniu za pośrednictwem przeglądarki zgodnie z &lt;a href =%1$s>Polityką plików cookie&lt;/a>. Jeśli jednak tej zgody nie udzielisz, Tapety Blokady nadal będą pojawiać się na Twoim Ekranie blokady, zaś pełne wspomnienia wciąż będą otwierane w Twojej przeglądarce, lecz dodatkowe rekomendacje nie będą już dopasowane w oparciu o Twoje zainteresowania. Możesz zmienić te preferencje w Ustawieniach w dowolnym momencie."</string>
+  <string name="cookies_content_one">"Kiedy dotkniesz obrazków i wspomnień zgromadzonych w Tapetach Blokady, ich pełne wersje zostaną otwarte w Twojej przeglądarce. Firma trzecia, która dostarcza treści, czyli Taboola, może wtedy polecać dodatkowe treści i reklamy dopasowane do Twoich zainteresowań. Jeśli wyrazisz zgodę na aktywację tej funkcji, Taboola umieści pliki cookie na Twoim urządzeniu za pośrednictwem przeglądarki zgodnie z &lt;a href =%1$s>Polityką plików cookie&lt;/a>. Jeśli jednak tej zgody nie udzielisz, Tapety Blokady nadal będą pojawiać się na Twoim ekranie blokady, zaś pełne wspomnienia wciąż będą otwierane w Twojej przeglądarce, lecz dodatkowe rekomendacje nie będą już dopasowane w oparciu o Twoje zainteresowania. Możesz zmienić te preferencje w Ustawieniach w dowolnym momencie."</string>
   <string name="cookies_content_two">"Zdecyduj, czy chcesz, aby firma trzecia dostarczająca treści mogła używać plików cookies w celu personalizacji rekomendowanych treści i reklam w oparciu o Twoje zainteresowania."</string>
   <string name="cookies_title">Spersonalizowana treść i pliki cookie</string>
   <string name="privacy_content_one">"Rekomendacje Tapet Blokady dostarcza firma trzecia, Taboola. Aby to robić, musi ona uzyskać dostęp i przechowywać nieosobiste dane, włącznie z językiem systemu i typem przeglądarki. Możesz dowiedzieć się, jak korzysta ona ze zgromadzonych danych, z odpowiednich dokumentów: &lt;a href =%1$s>Polityki prywatności&lt;/a> oraz &lt;a href =%2$s>Umowy użytkownika&lt;/a>. Zapoznaj się z tymi dokumentami, zanim przejdziesz dalej. Jeśli nie wyrażasz zgody na te warunki, usługi Tapet Blokady zostaną zdezaktywowane."</string>
   <string name="privacy_refuse">"Nie zgadzam się"</string>
   <string name="privacy_title">Warunki użytkowania i Polityka prywatności</string>
   <string name="refuse_cookie">Odrzuć pliki cookie</string>
-  <string name="term_condition_detail">"Codziennie otrzymuj fascynujące obrazy i historie na swoim Ekranie blokady. Ta funkcja nie będzie używać Twoich danych bez Twojej zgody. Przeczytaj i zaakceptuj warunki &lt;a href =%1$s>Polityki prywatności&lt;/a> oraz &lt;a href =%2$s>Umowy użytkownika&lt;/a> firmy trzeciej, zanim zaczniesz korzystać z tej funkcji."</string>
+  <string name="term_condition_detail">"Codziennie otrzymuj fascynujące obrazy i historie na swoim ekranie blokady. Ta funkcja nie będzie używać Twoich danych bez Twojej zgody. Przeczytaj i zaakceptuj warunki &lt;a href =%1$s>Polityki prywatności&lt;/a> oraz &lt;a href =%2$s>Umowy użytkownika&lt;/a> firmy trzeciej, zanim zaczniesz korzystać z tej funkcji."</string>
   <string name="terms_of_use_label_RMS">Menedżer uprawnień</string>
   <string name="terms_of_use_label_app_vault">Asystent HyperOS</string>
   <string name="terms_of_use_label_back">Usługa Kopii zapasowej</string>
@@ -506,7 +506,7 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
     <string name="carousel_cookies_subtitle">Pliki cookie umożliwiają personalizację Twojego ekranu blokady.</string>
     <string name="carousel_cookies_title">Spersonalizowana treść i pliki cookie</string>
     <string name="carousel_privacy"><Data>"Przed skorzystaniem z Tapet Blokady przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> i &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> firmy trzeciej - zaufanego dostawcy usługi Xiaomi."</Data></string>
-    <string name="carousel_setting">Skonfiguruj swój Ekran blokady</string>
+    <string name="carousel_setting">Skonfiguruj swój ekran blokady</string>
     <string name="carousel_setting_sub">Tapety Blokady będą wyświetlać Ci świeże historie po każdym odblokowaniu urządzenia</string>
     <string name="congratulation_pre_label">Chwileczkę…</string>
     <string name="congratulation_pre_title">Przygotowywanie systemu…</string>
@@ -521,7 +521,7 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
     <string name="font_use_case_text_example">Treść</string>
     <string name="font_use_case_title_example">Tytuł</string>
     <string name="framework_introduction">Framework usług Xiaomi to podstawowa usługa systemowa, która dostarcza powiadomienia push, ochronę przed zagrożeniami, statystyki i możliwości analityki. Aby dostarczać te usługi, Xiaomi musi gromadzić i przetwarzać odpowiednie dane osobowe. W trakcie wykonywaia tych czynności Xiaomi będzie działać zgodnie z odpowiednimi przepisami i regulacjami.</string>
-    <string name="framwork_base_service">"Aby dostarczać powiadomienia push, konieczne jest gromadzenie identyfikatorów urządzenia (OAID i zaszyfrowany ID Androida), informacji o aplikacjach używających usługi push (np. nazwy pakietu aplikacji, wersji i statusu uruchomienia), producenta urządzenia, jego modelu, pamięci, wersji systemu, regionu, nazwy operatora karty SIM, obecnego typu sieci i stanu sieci Wi-Fi. Możesz zmienić sposób otrzymywania powiadomień push w Ustawieniach; będziemy dostarczać je na podstawie Twoich preferencji, zatem gromadzić będziemy również te preferencje (np. w kwestii blokowania powiadomień czy ich pojawiania się na Ekranie blokady).
+    <string name="framwork_base_service">"Aby dostarczać powiadomienia push, konieczne jest gromadzenie identyfikatorów urządzenia (OAID i zaszyfrowany ID Androida), informacji o aplikacjach używających usługi push (np. nazwy pakietu aplikacji, wersji i statusu uruchomienia), producenta urządzenia, jego modelu, pamięci, wersji systemu, regionu, nazwy operatora karty SIM, obecnego typu sieci i stanu sieci Wi-Fi. Możesz zmienić sposób otrzymywania powiadomień push w Ustawieniach; będziemy dostarczać je na podstawie Twoich preferencji, zatem gromadzić będziemy również te preferencje (np. w kwestii blokowania powiadomień czy ich pojawiania się na ekranie blokady).
   W celu ochrony przed zagrożeniami, statystyk i przetwarzania analitycznego, potrzebne jest uprawnienie dostępu do sieci oraz dostęp do lokalizacji, IMEI/IMSI urządzenia, identyfikatorów urządzenia (OAID, adresu MAC, zaszyfrowanego ID Androida), producenta urządzenia, jego modelu, pamięci, wersji systemu, regionu i obecnej sieci Wi-Fi. Powyższe dane będą gromadzone raz dziennie przez cały czas korzystania z urządzenia."</string>
    <string name="interconnection_service_summary_china">"Usługi łączności między urządzeniami Xiaomi pozwalają na bezprzewodową interakcję urządzeń. Są to Mi Smart Play, projekcja, handoff aplikacji, Pulpit+, współdzielony schowek, robienie zdjęć między urządzeniami, asystent sieci, udostępniane klawiatury i mikrofony, udostępniany aparat oraz Mi Smart Hub. Usługi łączności między urządzeniami Xiaomi muszą łączyć się z Internetem i wymagają następujących uprawnień:
 \u0009\u0009Mi Smart Play i projekcja:

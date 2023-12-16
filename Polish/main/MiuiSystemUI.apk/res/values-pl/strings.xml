@@ -2195,12 +2195,12 @@ Wygląda na to, że magazyn danych logowania nie jest włączony."</string>
   <string name="zen_silence_introduction_voice">To zablokuje WSZYSTKIE dźwięki i wibracje, w tym alarmy, muzykę, filmy i gry. Nadal będzie można wykonywać połączenia.</string>
     <string name="character_counter_content_description">Wprowadzone znaki: %1$d z %2$d</string>
     <string name="character_counter_overflowed_content_description">Przekroczono limit znaków: %1$d z %2$d</string>
-    <string name="choose_clock_panel_title">Układ Ekranu blokady</string>
+    <string name="choose_clock_panel_title">Układ ekranu blokady</string>
     <string name="choose_clock_third_theme_hint_text">Ekran blokady z obecnie zastosowanego motywu</string>
     <string name="clear_text_end_icon_content_description">Wyczyść tekst</string>
     <string name="icon_content_description">Ikona okna dialogowego</string>
-    <string name="lock_screen_signature_msg">Wyświetl sygnaturę na Ekranie blokady</string>
-    <string name="lock_screen_signature_title">Informacje o właścicielu na Ekranie blokady</string>
+    <string name="lock_screen_signature_msg">Wyświetl sygnaturę na ekranie blokady</string>
+    <string name="lock_screen_signature_title">Informacje o właścicielu na ekranie blokady</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
@@ -2522,7 +2522,7 @@ Czy nadal je pokazywać?"</string>
     <string name="priority_onboarding_ignores_dnd_text">Ignorują tryb Nie przeszkadzać</string>
     <string name="priority_onboarding_settings_button_title">Ustawienia</string>
     <string name="priority_onboarding_show_at_top_text">Wyświetlają się na górze sekcji konwersacji</string>
-    <string name="priority_onboarding_show_avatar_text">Wyświetlają zdjęcie profilowe na Ekranie blokady</string>
+    <string name="priority_onboarding_show_avatar_text">Wyświetlają zdjęcie profilowe na ekranie blokady</string>
     <string name="priority_onboarding_title">Rozmowa ustawiona jako priorytetowa</string>
     <string name="qs_status_phone_muted">Telefon wyciszony</string>
     <string name="qs_status_phone_vibrate">Telefon - wibracje</string>
@@ -3960,7 +3960,7 @@ kliknij dwukrotnie"</string>
     <string name="health_chart_sleep_time_very_good">Dobrze</string>
     <string name="health_chart_step_count_unit">Kroki</string>
     <string name="humidity_format">Wilgotność %s</string>
-    <string name="keyguard_editor_super_save_mode_toast">"Nie można edytować Ekranu blokady, gdy włączone jest Ultraoszczędzanie baterii"</string>
+    <string name="keyguard_editor_super_save_mode_toast">"Nie można edytować ekranu blokady, gdy włączone jest Ultraoszczędzanie baterii"</string>
     <string name="keyguard_loading_to_editor_tips">Otwieranie Edytora ekranu blokady…</string>
     <string name="kg_wrong_pin">Zły PIN</string>
     <string name="miui_magazine_c_clock_style2_date">EEEE d.M</string>
