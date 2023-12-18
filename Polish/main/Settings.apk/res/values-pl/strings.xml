@@ -4144,7 +4144,7 @@ Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Używać %s do zarządzania połączeniami sieciowymi?</string>
   <string name="network_scorer_picker_none_preference">Brak</string>
   <string name="network_scorer_picker_title">Dostawca ocen jakości sieci</string>
-  <string name="network_settings_title">Sieci mobilne</string>
+  <string name="network_settings_title">Karty SIM i sieci mobilne</string>
   <string name="network_speed_for_apps_close">Force stop</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Force stop this app?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">"Can't force stop system apps."</string>
@@ -10044,7 +10044,7 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="detailed_wifi_logging_disabled">Szczegółowe logi Wi-Fi wył.</string>
     <string name="detailed_wifi_logging_enabled">Szczegółowe logi Wi-Fi wł.</string>
     <string name="connection_control">Zarządzaj połączeniami</string> 
-    <string name="interconnection">Łączenie z innymi urządzeniami</string>
+    <string name="interconnection">Interakcja urządzeń Xiaomi</string>
     <string name="about_ad_service_instructions_for_global">O reklamach i prywatności w aplikacjach systemowych</string>
     <string name="auto_clean_summary_new">Odtwórz dźwięk (%d sek.), który wyczyści głośnik. Użyj tej funkcji kilka razy z rzędu przy znacznej ilości brudu.</string>
     <string name="dialog_speaker_auto_clean_content_new">"Za chwilę odtworzysz dźwięk, który wyczyści głośnik. Dla lepszego efektu zwiększ głośność do maksimum."</string>
@@ -13465,7 +13465,7 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="miheadset_adaptive_sampling_rate">Adaptacyjny</string>
     <string name="miui_desktop_mode_settings">Stacja robocza</string>
     <string name="miui_sos_focus_notification_ticker">Aktywowano alarmowy SOS</string>
-    <string name="more_connection">Więcej opcji łączności</string>
+    <string name="more_connection">Więcej ustawień sieci</string>
     <string name="more_volume_settings">Zmiana głośności</string>
     <string name="multi_music_coexistence_summary">"Nie zmieniaj głośności multimediów, gdy przychodzą powiadomienia lub odtwarzany jest dźwięk z innego źródła"</string>
     <string name="multi_music_coexistence_title">Wiele źródeł dźwięku</string>

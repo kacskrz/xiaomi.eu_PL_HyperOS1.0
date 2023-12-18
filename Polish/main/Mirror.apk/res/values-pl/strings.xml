@@ -542,7 +542,7 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="app_not_support_subscreen">"Nie można zmaksymalizować tego okna"</string>
     <string name="cancel_button">Anuluj</string>
     <string name="circulate_cta_all_purpose">Pulpit+ to część Usług łączności między urządzeniami Xiaomi. Pozwala on na wyświetlanie pulpitów innych połączonych urządzeń i interakcję z nimi. Aby działać normalnie, usługa musi łączyć się z Internetem i wymaga następujących uprawnień:</string>
-    <string name="circulate_cta_app_name">Łączność między urządzeniami Xiaomi</string>
+    <string name="circulate_cta_app_name">Interakcja urządzeń Xiaomi</string>
     <string name="circulate_cta_desc_phone_miui15_14">Witaj w Łączności między urządzeniami Xiaomi! Możesz użyć tej aplikacji do projekcji ekranu, przekazywania postępu odtwarzania multimediów między urządzeniami, używania Mi Smart Play, funkcji łączności między urządzeniami oraz opcji handoff. Aby móc działać normalnie, aplikacja musi łączyć się z Internetem i potrzebuje następujących uprawnień:</string>
     <string name="circulate_cta_new_app_name">Pulpit+</string>
     <string name="circulate_cta_premission_bluetooth">W celu łączenia urządzeń i przekazywania danych między nimi przez Bluetooth</string>
@@ -631,6 +631,6 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="share_to_settings_title">Włącz usługi łączności między urządzeniami</string>
     <string name="switch_wlan_tips_desc_pad_china">Możesz połączyć się z tą samą siecią Wi-Fi co inne urządzenie, aby funkcja działała lepiej. Czy chcesz to zrobić?</string>
     <string name="to_settings">Ustawienia</string>
-    <string name="miui15_cta_app_name">Łączność między urządzeniami Xiaomi</string>
+    <string name="miui15_cta_app_name">Interakcja urządzeń Xiaomi</string>
     <string name="subscreen_exception_hint">"Wersja na urządzeniu nie jest aktualna. Mogą wystąpić błędy wyświetlania."</string>
 </resources>

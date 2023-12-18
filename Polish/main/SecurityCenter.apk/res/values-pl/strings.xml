@@ -6125,15 +6125,15 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="connected_devices_notification">Powiadomienia</string>
     <string name="connected_devices_notification_desc">"Wyświetlaj powiadomienia z tego urządzenia na urządzeniach w pobliżu zalogowanych na to samo konto"</string>
     <string name="connected_devices_notification_title">"Zezwolić powyższemu urządzeniu na wyświetlanie powiadomień z tego urządzenia?"</string>
-    <string name="connected_devices_permission">Łączność między urządzeniami i uprawnienia</string>
-    <string name="connected_devices_permission_settings">Łączność między urządzeniami i uprawnienia</string>
+    <string name="connected_devices_permission">Interakcja urządzeń Xiaomi i uprawnienia</string>
+    <string name="connected_devices_permission_settings">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connected_devices_record">Nagrywanie</string>
     <string name="connected_devices_record_desc">Zezwól urządzeniom w pobliżu zalogowanym na to samo konto na nagrywanie dźwięku z tego urządzenia</string>
     <string name="connected_devices_record_title">Zezwolić powyższemu urządzeniu na nagrywanie dźwięku z tego urządzenia?</string>
     <string name="connected_devices_screen">Ekran</string>
     <string name="connected_devices_screen_desc">"Zezwól urządzeniom w pobliżu zalogowanym na to samo konto na wyświetlanie zawartości ekranu tego urządzenia i interakcję z nią"</string>
     <string name="connected_devices_screen_title">"Zezwolić powyższemu urządzeniu na wyświetlanie zawartości ekranu tego urządzenia i interakcję z nią?"</string>
-    <string name="connected_interconnection">Łączność między urządzeniami</string>
+    <string name="connected_interconnection">Interakcja urządzeń Xiaomi</string>
     <string name="gb_super_finger_up">Szybka reakcja na dotyk</string>
     <string name="gb_super_finger_up_msg">Przyspiesz reakcję na dotyk na poziomie sprzętu</string>
     <string name="gb_super_follow_up">Śledzenie gestów</string>
@@ -6147,7 +6147,7 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">"Odmów i nie pytaj ponownie"</string>
     <string name="group_audio">Muzyka i dźwięk</string>
     <string name="group_clipboard">Schowek</string>
-    <string name="group_connect_device">Łączność między urządzeniami</string>
+    <string name="group_connect_device">Interakcja urządzeń Xiaomi</string>
     <string name="group_file">Pliki i dokumenty</string>
     <string name="group_head_data_ai_clipboard">Ochrona schowka</string>
     <string name="group_head_data_ai_clipboard_desc">Pozwól systemowi zdecydować, czy aplikacje mogą mieć dostęp do elementów ze schowka</string>
@@ -6202,7 +6202,7 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="pc_work_in_super_save_mode">Ultraoszczędzanie baterii</string>
     <string name="permdesc_get_installed_apps">Zezwolić \"%1$s\" na dostęp do listy zainstalowanych aplikacji?</string>
     <string name="permisison_usage_menu_all">Wszystko</string>
-    <string name="permisison_usage_menu_terminal">Łączność między urządzeniami</string>
+    <string name="permisison_usage_menu_terminal">Interakcja urządzeń Xiaomi</string>
     <string name="permisison_usage_now_camera">Ta aplikacja używa teraz aparatu</string>
     <string name="permisison_usage_now_location">Ta aplikacja uzyskuje teraz lokalizację</string>
     <string name="permisison_usage_now_mic">Ta aplikacja używa teraz mikrofonu</string>

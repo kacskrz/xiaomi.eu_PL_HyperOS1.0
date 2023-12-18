@@ -26,7 +26,7 @@
     </string-array>
     <string-array name="settings_search_mirror_desktop">
         <item>Pulpit+</item>
-        <item>Łączność między urządzeniami/Pulpit+</item>
-        <item>Pulpit+, Pu;pit, ekran główny, Mi Smart Hub, Screen Combo, łączność między urządzeniami</item>
+        <item>Interakcja urządzeń Xiaomi/Pulpit+</item>
+        <item>Pulpit+, Pulpit, ekran główny, Mi Smart Hub, Screen Combo, Interakcja urządzeń Xiaomi</item>
     </string-array>
 </resources>

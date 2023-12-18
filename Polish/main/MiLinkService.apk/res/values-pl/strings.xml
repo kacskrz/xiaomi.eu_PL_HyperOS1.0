@@ -419,7 +419,7 @@ aby udostępnić ekran tabletu"</string>
     <string name="circulate_card_sticker_remote_control_volum_reduce">Ciszej</string>
     <string name="circulate_card_sticker_selected">Wybrano</string>
     <string name="circulate_common_retry_later">Poczekaj minutę lub dwie i spróbuj ponownie</string>
-    <string name="circulate_cta_app_name">Łączność między urządzeniami Xiaomi</string>
+    <string name="circulate_cta_app_name">Interakcja urządzeń Xiaomi</string>
     <string name="circulate_cta_agree">Akceptuję</string>
     <string name="circulate_cta_desc_pad">Witamy w Mi Smart Hub! Aplikacja zezwala na korzystanie z projekcji i Mi Smart Play, a także na przesyłanie odtwarzanych multimediów pomiędzy urządzeniami. Aplikacja wymaga połączenia z Internetem i następujących uprawnień, aby działać poprawnie:</string>
     <string name="circulate_cta_desc_phone">Usługi łączności między urządzeniami Xiaomi pozwalają Twoim urządzeniom na bezprzewodową interakcję ze sobą, Aby móc działać normalnie, muszą one łączyć się z Internetem i wymagają następujących uprawnień:</string>
@@ -668,7 +668,7 @@ i zaloguj się na swoje konto Xiaomi"</string>
     <string name="circulate_card_loading_title_watch">Zegarek</string>
     <string name="circulate_card_sticker_remote_control_coordination_input">Wprowadzanie tekstu</string>
     <string name="circulate_card_sticker_remote_control_coordination_input_subtitle">Wprowadź tekst na tym urządzeniu, aby użyć go do wyszukiwania na telewizorze</string>
-    <string name="circulate_card_tv_device_sync">Łączność między urządzeniami</string>
+    <string name="circulate_card_tv_device_sync">Interakcja urządzeń Xiaomi</string>
     <string name="circulate_card_tv_gesture_click_sure">Dotknij gdziekolwiek, aby potwierdzić</string>
     <string name="circulate_card_tv_gesture_content_desc">Obszar kontroli dotykowej. Przesuń, aby poruszać kursorem. Dotknij, aby potwierdzić wybór.</string>
     <string name="circulate_card_tv_gesture_ok_title">Potwierdzić teraz?</string>
@@ -734,12 +734,12 @@ i zaloguj się na swoje konto Xiaomi"</string>
     <string name="close_auxiliary_wifi_hint_china">Wyłącz funkcję \"Zwiększenie prędkości sieci (dwupasmowe Wi-Fi)\", aby móc włączyć projekcję</string>
     <string name="connect_setting_privacy_title">Prywatność</string>
     <string name="connect_settings_application_ecological">Łączenie aplikacji</string>
-    <string name="connect_settings_base">Łączność między urządzeniami</string>
+    <string name="connect_settings_base">Interakcja urządzeń Xiaomi</string>
     <string name="connect_settings_category_connection_car">Funkcje auta</string>
     <string name="connect_settings_category_personal_device">Urządzenia osobiste</string>
-    <string name="connect_settings_connect_permission">Łączność między urządzeniami i uprawnienia</string>
+    <string name="connect_settings_connect_permission">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connect_settings_connect_privacy">Prywatność</string>
-    <string name="connect_settings_connection_service">Łączność między urządzeniami Xiaomi</string>
+    <string name="connect_settings_connection_service">Interakcja urządzeń Xiaomi</string>
     <string name="connect_settings_corp_network">Asystent sieci</string>
     <string name="connect_settings_corp_phone">Połączenia</string>
     <string name="connect_settings_nfc_share">Przesyłanie elementów przez NFC</string>
@@ -766,7 +766,7 @@ i zaloguj się na swoje konto Xiaomi"</string>
     <string name="controller_auth_title">Zweryfikuj pilot</string>
     <string name="device_permission_authorize_dialog_message">Po przyznaniu tego uprawnienia to urządzenie będzie mogło używać %s do robienia zdjęć i filmów.</string>
     <string name="device_permission_authorize_dialog_title">Przyznaj uprawnienia do aparatu na %s</string>
-    <string name="device_permission_dialog_message">Otwórz Ustawienia > Łączność między urządzeniami > Łączność między urządzeniami i uprawnienia na %s i przyznaj uprawnienia do aparatu.</string>
+    <string name="device_permission_dialog_message">Otwórz Ustawienia > Interakcja urządzeń Xiaomi > Interakcja urządzeń Xiaomi i uprawnienia na %s i przyznaj uprawnienia do aparatu.</string>
     <string name="device_permission_dialog_positive_button">OK</string>
     <string name="device_permission_dialog_title">Przyznaj uprawnienia na %s</string>
     <string name="enable_screen_projection_summary_new">Wyświetlaj ekran urządzenia mobilnego na telewizorach i innych zewnętrznych monitorach w pobliżu</string>
@@ -795,14 +795,14 @@ i zaloguj się na swoje konto Xiaomi"</string>
     <string name="is_creating_camera_cooperation">Odblokuj urządzenie, aby się połączyć</string>
     <string name="miplay_detail_title_text">Odtwórz wszędzie</string>
     <string name="mirror_phone_content">Włączyć teraz Pulpit+?</string>
-    <string name="mirror_phone_content_remote">Możesz włączyć Pulpit+ w Ustawieniach > Łączność między urządzeniami.</string>
+    <string name="mirror_phone_content_remote">Możesz włączyć Pulpit+ w Ustawieniach > Interakcja urządzeń Xiaomi.</string>
     <string name="mirror_phone_title">Włącz Pulpit+</string>
     <string name="mirror_phone_title_remote">Włącz Pulpit+ na telefonie</string>
-    <string name="mirror_remote_pad_content">Możesz włączyć Pulpit+ w Ustawieniach > Łączność między urządzeniami.</string>
+    <string name="mirror_remote_pad_content">Możesz włączyć Pulpit+ w Ustawieniach > Interakcja urządzeń Xiaomi.</string>
     <string name="mirror_remote_pad_title">Włącz Pulpit+ na tablecie</string>
-    <string name="mirror_remote_pc_content">Możesz włączyć Pulpit+ w Ustawieniach > Łączność między urządzeniami.</string>
+    <string name="mirror_remote_pc_content">Możesz włączyć Pulpit+ w Ustawieniach > Interakcja urządzeń Xiaomi.</string>
     <string name="mirror_remote_pc_title">Włącz Pulpit+ na komputerze</string>
-    <string name="mirror_remote_phone_content">Możesz włączyć Pulpit+ w Ustawieniach > Łączność między urządzeniami na swoim tablecie lub komputerze.</string>
+    <string name="mirror_remote_phone_content">Możesz włączyć Pulpit+ w Ustawieniach > Interakcja urządzeń Xiaomi na swoim tablecie lub komputerze.</string>
     <string name="mirror_remote_phone_title">Włącz Pulpit+</string>
     <string name="miuix_appcompat_edit">Edytuj</string>
     <string name="mtrl_picker_cancel">Anuluj</string>
@@ -819,7 +819,7 @@ i zaloguj się na swoje konto Xiaomi"</string>
 %3$d. Wycofanie zgody jest nieodwracalne. Nie będzie można cofnąć decyzji po jej wykonaniu."</string>
     <string name="privacy_revoke_agree_detail_prompt">Stanowisko w sprawie wycofania zgody na warunki Polityki prywatności Łączności między urządzeniami</string>
     <string name="privacy_revoke_agree_detail_title">Zanim wycofasz zgodę, przeczytaj i zaakceptuj warunki \"Stanowiska w sprawie wycofania zgody na warunki Polityki prywatności Łączności między urządzeniami\".</string>
-    <string name="privacy_revoke_agree_introduce">"Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Łączności między urządzeniami Xiaomi. , you'll withdraw your consent to the Xiaomi Łączność między urządzeniami Prywatność Policy. Informacje osobiste już zgromadzone i przetworzone zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ usługi łączności między urządzeniami są dostarczane w oparciu o niezbędne dane osobiste, wycofanie przez Ciebie zgody zostanie potraktowane jako odmowa akceptacji usług łączności między urządzeniami. Twoje wycofanie zgody nie wpłynie na korzystanie z innych funkcji i usług."</string>
+    <string name="privacy_revoke_agree_introduce">"Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Łączności między urządzeniami Xiaomi. Informacje osobiste już zgromadzone i przetworzone zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ usługi łączności między urządzeniami są dostarczane w oparciu o niezbędne dane osobiste, wycofanie przez Ciebie zgody zostanie potraktowane jako odmowa akceptacji usług łączności między urządzeniami. Twoje wycofanie zgody nie wpłynie na korzystanie z innych funkcji i usług."</string>
     <string name="privacy_revoke_agree_warning_map_text">Uwaga</string>
     <string name="privacy_revoke_succeed">Pomyślnie wycofano zgodę</string>
     <string name="privacy_revoking_warning">Wycofywanie zgody…</string>
@@ -884,7 +884,7 @@ Zanim zaczniesz projekcję, upewnij się, że włączono Game Turbo."</string>
     <string name="status_bar_loading">Łączenie…</string>
     <string name="status_bar_success">Pomyślnie połączono</string>
     <string name="synergy_being_used_text">W użyciu</string>
-    <string name="synergy_text">Łączność między urządzeniami</string>
+    <string name="synergy_text">Interakcja urządzeń Xiaomi</string>
     <string name="talk_back_device_battery_quantity">Bateria %s</string>
     <string name="tile_label_v2">Usługi łączności między urządzeniami</string>
     <string name="unlock_screen_to_authorize_camera">"%s chce użyć aparatu tego urządzenia"</string>
