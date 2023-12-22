@@ -920,4 +920,5 @@ Kliknij dwukrotnie, aby otworzyć Ostatnie aplikacje."</string>
     <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Przytrzymaj przyciski Wstecz i Podgląd, aby odpiąć tę aplikację</string>
     <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Przesuń w górę od dołu ekranu i zatrzymaj się, aby odpiąć tę aplikację</string>
     <string name="stylus_dislocation_summary">Podłącz tu rysik</string>
+    <string name="flip_expand_screen_partial_screen_shot_disable">Wspierane tylko na wewnętrznym ekranie</string>
 </resources>

@@ -624,4 +624,11 @@ Dostępne usługi łączności między urządzeniami mogą się różnić w zale
     <string name="media_storage_devices">Urządzenia pamięci masowej</string>
     <string name="media_storage_introduction">Ta usługa umożliwia aplikacjom dostęp i zapis zdjęć, filmów, dźwięków i plików.</string>
     <string name="permission_media_storage_summary">W celu sprawdzenia, jak aplikacje korzystają z uprawnień związanych z prywatnością w trakcie uzyskiwania dostępu do plików</string>
+    <string name="aquire_device_info">Dostęp do informacji o urządzeniu</string>
+    <string name="permission_application_scope_description">"Te uprawnienia są wykorzystywane tylko podczas skanowania pod kątem bezpieczeństwa i nie będą używane w innych celach."</string>
+    <string name="read_application_info">Dostęp do informacji o aplikacji</string>
+    <string name="safe_open_service">Bezpieczne otwarte usługi</string>
+    <string name="safe_open_service_introduction">Bezpieczne otwarte usługi pomagają deweloperom i dostarczają systemowe zabezpieczenia pod kątem bezpieczeństwa, aby chronić użytkowników i ich prywatność.</string>
+    <string name="verify_application_security">W celu weryfikacji bezpieczeństwa aplikacji</string>
+    <string name="verify_device_security">W celu weryfikacji bezpieczeństwa urządzenia</string>
 </resources>

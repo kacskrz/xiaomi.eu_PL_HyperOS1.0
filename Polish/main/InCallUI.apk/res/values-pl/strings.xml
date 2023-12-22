@@ -494,4 +494,6 @@ aby umieścić piłkę w niebieskim polu"</string>
     <string name="app_disable_title_text">Wyłączyć aplikację?</string>
     <string name="satellite_state_auto_exit">Wyjdź (%d s)</string>
     <string name="satellite_state_retry">Próbuj dalej</string>
+    <string name="calibrate_rotate_again">Spróbuj ponownie</string>
+    <string name="calibrate_rotate_tip">Gwałtownie przechyl urządzenie, aby kulka zaczeła obracać się po okręgu</string>
 </resources>

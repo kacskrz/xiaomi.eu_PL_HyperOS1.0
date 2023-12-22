@@ -13540,4 +13540,6 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="photography_handle_launch_camera">Włącz aparat</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Przytrzymaj przycisk migawki, aby wykonać akcję</string>
     <string name="photography_handle_quick_launch_camera_title">Szybkie uruchamianie</string>
+    <string name="gaze_lock_screen_summary">Urządzenie pozostanie odblokowane, gdy wykryje Twoją obecność i zablokuje się, gdy oddalisz się od ekranu/string>
+    <string name="gaze_lock_screen_title">Wykrywanie obecności</string>
 </resources>

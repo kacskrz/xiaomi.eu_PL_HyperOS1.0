@@ -3785,7 +3785,7 @@ Wybierz inne zdjęcia i spróbuj ponownie."</string>
     <string name="ai_image_over_limit_button_create">Kontynujj</string>
     <string name="ai_image_over_limit_title">"Nie można utworzyć obrazu SI"</string>
     <string name="ai_image_privacy_detail"><Data>"Przeczytano i zaakceptowano warunki &lt;a href=\"%1$s\">Umowy dot. obrazu SI&lt;/a>."</Data></string>
-    <string name="ai_image_privacy_message">" "<Data>" Witaj w portretach SI!&lt;br/>Aby móc dostarczać te usługi, konieczne jest gromadzenie niezbędnych danych osobowych:&lt;br/>1. W celu utworzenia portretów SI musisz przesłać &lt;b>zdjęcia ludzi&lt;/b> na serwery Xiaomi. Na podstawie zgromadzonych i przetworzonych danych o ich &lt;b>twarzach&lt;/b> zostanie wygenerowany model SI.&lt;br/>2. Gdy prześlesz &lt;b>zdjęcia ludzi&lt;/b>, Xiaomi zsynchronizuje &lt;b>ich imiona i zdjęcia profilowe&lt;/b> z odpowiednich albumów i powiąże te informacje z obrazami SI.&lt;br/>3. Gdy utworzysz obrazy SI na podstawie tekstu, Xiaomi zgromadzi dostarczony przez Ciebie &lt;b>opis&lt;/b> w celu wygenerowania zdjęć.&lt;br/>Xiaomi gromadzi tylko informacje niezbędne do działanai konkretnych funkcji używanych przez Ciebie produktów i usług. Możesz się dowiedzieć, jak Xiaomi gromadzi i przetwarza informacje, z  &lt;a href=\"%1$s\">Polityki prywatności portretów SI&lt;/a>.&lt;br/>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%2$s\">Umowy użytkownika portretów SI&lt;/a> oraz &lt;a href=\"%3$s\">Polityki prywatności portretów SI&lt;/a>. "</Data>" "</string>
+    <string name="ai_image_privacy_message"><Data>"Witaj w portretach SI!&lt;br/>Aby móc dostarczać te usługi, konieczne jest gromadzenie niezbędnych danych osobowych:&lt;br/>%1$s. W celu utworzenia portretów SI musisz przesłać &lt;b>zdjęcia ludzi&lt;/b> na serwery Xiaomi. Na podstawie zgromadzonych i przetworzonych danych o ich &lt;b>twarzach&lt;/b> zostanie wygenerowany model SI.&lt;br/>%2$s. Gdy prześlesz &lt;b>zdjęcia ludzi&lt;/b>, Xiaomi zsynchronizuje &lt;b>ich imiona i zdjęcia profilowe&lt;/b> z odpowiednich albumów i powiąże te informacje z obrazami SI.&lt;br/>%3$s. Gdy utworzysz obrazy SI na podstawie tekstu, Xiaomi zgromadzi dostarczony przez Ciebie &lt;b>opis&lt;/b> w celu wygenerowania zdjęć.&lt;br/>Xiaomi gromadzi tylko informacje niezbędne do działanai konkretnych funkcji używanych przez Ciebie produktów i usług. Możesz się dowiedzieć, jak Xiaomi gromadzi i przetwarza informacje, z &lt;a href=\"%4$s\">Polityki prywatności portretów SI&lt;/a>.&lt;br/>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%5$s\">Umowy użytkownika portretów SI&lt;/a> oraz &lt;a href=\"%6$s\">Polityki prywatności portretów SI&lt;/a>."</Data></string>
     <string name="ai_input_name_hint">Wprowadź nazwę</string>
     <string name="ai_loading">Chwileczkę…</string>
     <string name="ai_multi_window_tip">"Ta strona nie może być wyświetlana w Dzielonym ekrani"</string>
@@ -3846,4 +3846,24 @@ Automatycznie wybrano najlepsze zdjęcia. Możesz dodać ręcznie więcej zdję�
     <string name="ai_free_creation_text_container_tips">"Generator obrazów SI Xiaomi jest stale ulepszany. Jeśli nie zadowalają Cię jego rezultaty, możesz spróbować później!"</string>
     <string name="album_scanner_china">Skaner</string>
     <string name="burst_photo_preview_thumbnail_content_description">Zdjęcie %d</string>
+    <string name="ai_continue_upload_photo">Kontynuuj</string>
+    <string name="ai_create_image_fail_by_illegal_photo">"Wygląda na to, że przesłane zdjęcia naruszają standardy społeczności Xiaomi.
+Spróbuj utworzyć obraz SI za pomocą innych zdjęć."</string>
+    <string name="ai_create_image_fail_by_net">"Nie udało się utworzyć obrazu SI. Serwery Xiaomi są zajęte. Spróbuj ponownie."</string>
+    <string name="ai_cta_agree_btn">Zezwól</string>
+    <string name="ai_cta_dialog_message">Zezwól Galerii na łączenie się z Internetem, aby móc tworzyć portrety SI.</string>
+    <string name="ai_cta_dialog_title">Wymagane uprawnienia</string>
+    <string name="ai_cta_refuse_btn">Nie, dzięki</string>
+    <string name="ai_download_filter_photo_so_confirm_btn">Pobierz</string>
+    <string name="ai_download_filter_photo_so_downloading">Pobieranie wtyczki…</string>
+    <string name="ai_download_filter_photo_so_message">Aby móc użyć wszystkich funkcji portretu SI, pobierz wtyczkę.</string>
+    <string name="ai_download_filter_photo_so_title">Pobierz wtyczkę</string>
+    <string name="ai_download_filter_so_fail_toast">"Nie udało się pobrać wtyczki. Spróbuj ponownie."</string>
+    <string name="ai_free_creation_illegal_text_toast">Ten tekst narusza standardy społeczności Xiaomi. Zmień go na inny.</string>
+    <string name="ai_photos_upload_fail_tip">"Zdjęcia %s nie zostały jeszcze przesłane. Możesz kontynuować przesyłanie zdjęć."</string>
+    <string name="ai_recreate_image_cancel_text_btn">Kontynuuj</string>
+    <string name="ai_recreate_image_confirm_text_btn">Wybierz</string>
+    <string name="ai_recreate_image_dialog_msg">Możesz kontynuować przesyłanie zdjęć lub wybrać nowe.</string>
+    <string name="ai_recreate_image_dialog_title">"Zdjęcia %s nie zostały przesłane"</string>
+    <string name="ai_select_photo_no_result_toast">"Nie można utworzyć obrazu SI na podstawie tych zdjęć. Wybierz inne."</string>
 </resources>
