@@ -933,7 +933,7 @@ Zawsze używaj tego numeru"</string>
   <string name="network_settings_sel_sub">SUBS Settings</string>
   <string name="network_settings_select_automatic_hint">"Nie można zarejestrować w wybranej sieci.
 Zostanie wybrana sieć preferowana."</string>
-  <string name="network_settings_title">Sieci mobilne</string>
+  <string name="network_settings_title">Karty SIM i sieci mobilne</string>
   <string name="network_settings_turn_off">Wyłączona</string>
   <string name="network_settings_warn_message">"Korzystaj z sieci wybranej ręcznie."</string>
   <string name="network_state_display">Pokaż stan sieci</string>
