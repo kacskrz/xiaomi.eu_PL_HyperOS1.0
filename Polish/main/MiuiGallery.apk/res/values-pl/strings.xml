@@ -381,10 +381,10 @@
   <string name="confirm_merge_face_albums">"Połączyć album z %s?"</string>
   <string name="confirm_merge_many_face_albums">"Połączyć albumy z %s?"</string>
   <string name="confirm_not_face">To nie ta osoba</string>
-  <string name="confirm_recommandation_face_is">"Czy to zdjęcie należy do %1$s? Osoba po potwierdzeniu zostanie dodana do albumu \"%2$s\"."</string>
-  <string name="confirm_recommandation_face_not">"To nie jest zdjęcie %1$s?"</string>
-  <string name="confirm_recommandation_multiple_faces_are">"Czy te zdjęcia należą do %1$s? Osoby po potwierdzeniu zostaną dodane do albumu \"%2$s\"."</string>
-  <string name="confirm_recommandation_multiple_faces_not">"To nie są zdjęcia %1$s?"</string>
+  <string name="confirm_recommandation_face_is">" "<Data> Czy to zdjęcie należy do &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Osoba po potwierdzeniu zostanie dodana do albumu \"%2$s\". </Data>" "</string>
+  <string name="confirm_recommandation_face_not">" "<Data>" To nie jest zdjęcie &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? "</Data>" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "<Data> Czy te zdjęcia należą do &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Osoby po potwierdzeniu zostaną dodane do albumu \"%2$s\". </Data>" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "<Data> To nie są zdjęcia &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
   <string name="contact_tip">Kontakty</string>
   <string name="context_menu_add_contact">Dodaj do kontaktów</string>
   <string name="context_menu_copy">Kopiuj</string>
