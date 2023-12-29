@@ -952,4 +952,6 @@ został wykorzystany"</string>
     <string name="app_use">Czas w aplikacji</string>
     <string name="mi_transfer_banner_summary">Wspierane są różne marki telefonów</string>
     <string name="mi_transfer_banner_title">Przenieś elementy ze starego urządzenia</string>
+    <string name="footer_global_fps">"
+%1$d. Gdy włączysz Tryb wydajności, zostanie ustawiona najwyższa możliwa częstotliwość odświeżania (%2$d Hz). Ustawienia korzystania przez aplikacje z wysokiej częstotliwości odświeżania będą tymczasowo niedostępne."</string>
 </resources>

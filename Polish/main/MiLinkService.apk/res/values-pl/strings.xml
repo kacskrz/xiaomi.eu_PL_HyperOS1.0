@@ -902,4 +902,35 @@ Zanim zaczniesz projekcję, upewnij się, że włączono Game Turbo."</string>
     <string name="head_toast_fail">"Nie udało się połączyć"</string>
     <string name="head_toast_success">Pomyślnie połączono</string>
     <string name="sever_stream_push_state_idle2">Podgląd wył.</string>
+    <string name="copy_toast_msg">Skopiowano link do schowka</string>
+    <string name="fallback_menu_item_copy_link">Kopiuj link</string>
+    <string name="fallback_menu_item_open_in_browser">Otwórz w przeglądarce</string>
+    <string name="fallback_menu_item_share_link">Wyślij link</string>
+    <string name="hm_always">Zapamiętaj</string>
+    <string name="hm_conflict_title">Wstrzymano wzorzec: %1$s</string>
+    <string name="hm_conflict_toast">Masz kolidującą scenę lub automatykę smart home. Edytuj ją w aplikacji.</string>
+    <string name="hm_go_to_help">Zobacz pomoc</string>
+    <string name="hm_go_to_login">Zaloguj się</string>
+    <string name="hm_go_to_open_setting">Włącz</string>
+    <string name="hm_habit_info_describe">"Pozwalaj urządzeniom spełniać Twoje potrzeby
+przez uczenie się tego, jak z nich korzystasz"</string>
+    <string name="hm_habit_info_empty_describe">"Korzystaj ze swoich urządzeń,
+aby Xiaomi HyperMind mógł się uczyć i tworzyć wzorce"</string>
+    <string name="hm_habit_info_list_empty">Uczenie się wzorców…</string>
+    <string name="hm_help">Pomoc</string>
+    <string name="hm_knew">Rozumiem</string>
+    <string name="hm_pause_habit">Zatrzymaj</string>
+    <string name="hm_please_login_mi_account">Zaloguj się na konto Xiaomi, aby zacząć</string>
+    <string name="hm_remember">Zapamiętaj</string>
+    <string name="hm_resume_habit">Wznów</string>
+    <string name="hm_setup">Ustawienia</string>
+    <string name="hm_time_has_paused">Zatrzymano</string>
+    <string name="hm_time_just_remembered">Nauczono się teraz</string>
+    <string name="hm_time_long_ago">Dawno temu</string>
+    <string name="hm_time_not_executed">Jeszcze nie wykorzystano</string>
+    <string name="hm_time_recent_week">W tym tygodniu</string>
+    <string name="hm_time_today">Dzisiaj</string>
+    <string name="hm_time_yesterday">Wczoraj</string>
+    <string name="hm_toast_log_in">Najpierw zaloguj się na konto Xiaomi</string>
+    <string name="try_multipurpose_equipment">Korzystaj z urządzeń, aby dopasowywać je do swoich potrzeb</string>
 </resources>

@@ -631,4 +631,7 @@ Dostępne usługi łączności między urządzeniami mogą się różnić w zale
     <string name="safe_open_service_introduction">Bezpieczne otwarte usługi pomagają deweloperom i dostarczają systemowe zabezpieczenia pod kątem bezpieczeństwa, aby chronić użytkowników i ich prywatność.</string>
     <string name="verify_application_security">W celu weryfikacji bezpieczeństwa aplikacji</string>
     <string name="verify_device_security">W celu weryfikacji bezpieczeństwa urządzenia</string>
+    <string name="interconnection_service_global_item_title">Interakcja urządzeń Xiaomi</string>
+    <string name="interconnection_service_global_label">"&lt;Data>Interakcja urządzeń Xiaomi umożliwia bezprzewodową integrację Twoich urządzeń. Włączając ten przełącznik, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności&lt;/a > tej usługi.&lt;/Data>"</string>
+    <string name="interconnection_service_summary_global">"Funkcje Interakcji urządzeń Xiaomi mogą się różnić w zależności od modelu urządzenia i wersji systemu. Aby dowiedzieć się więcej, wejdź na oficjalną stronę systemu."</string>
 </resources>

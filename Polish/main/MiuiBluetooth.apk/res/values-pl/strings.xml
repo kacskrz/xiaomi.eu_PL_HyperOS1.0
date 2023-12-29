@@ -354,8 +354,8 @@ Szyszy protokół transmisji."</string>
     <string name="bt_plugin_update_loading_dialog">Chwileczkę…</string>
     <string name="bt_plugin_is_update_loading_dialog">Aktualizowanie…</string>
     <string name="bt_plugin_update_failed_toast">"Wystąpił błąd. Nie udało się załadować."</string>
-    <string name="lea_disable_successfully">Do łączenia się ze słuchawkami i transmisji dźwięku używane jest teraz normalne Bluetooth</string>
-    <string name="lea_enable_successfully">Do łączenia się ze słuchawkami i transmisji dźwięku używane jest teraz LE Audio</string>
+    <string name="lea_disable_successfully">Przełączono na normalny Bluetooth</string>
+    <string name="lea_enable_successfully">Przełączono na Bluetooth LE Audio</string>
     <string name="tv_calibration_doing">Kalibrowanie…</string>
     <string name="tv_calibration_doing_text">Utrzymuj tył telefonu naprzeciw środka ekranu telewizora</string>
     <string name="tv_calibration_done">Kalibracja ukończona</string>

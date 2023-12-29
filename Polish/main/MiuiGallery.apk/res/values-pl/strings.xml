@@ -3866,4 +3866,6 @@ Spróbuj utworzyć obraz SI za pomocą innych zdjęć."</string>
     <string name="ai_recreate_image_dialog_msg">Możesz kontynuować przesyłanie zdjęć lub wybrać nowe.</string>
     <string name="ai_recreate_image_dialog_title">"Zdjęcia %s nie zostały przesłane"</string>
     <string name="ai_select_photo_no_result_toast">"Nie można utworzyć obrazu SI na podstawie tych zdjęć. Wybierz inne."</string>
+    <string name="media_type_cinematic">Tryb filmowy</string>
+    <string name="send_special_video_duration_more_than_40s">Przetworzone filmy, które trwają dłużej niż %d min, mogą być udostępniane tylko w ich oryginalnym formacie. Może on nie być kompatybilny z urządzeniem, na które je wysyłasz. Kontynuować?</string>
 </resources>

@@ -27,4 +27,9 @@
         <item quantity="one">Wprowadź kod z %1$s (%2$d s)</item>
         <item quantity="other">Wprowadź kod z %1$s (%2$d s)</item>
     </plurals>
+    <plurals name="remember_number_habit">
+        <item quantity="other">Zapamiętano %1$d wzorców</item>
+        <item quantity="few">Zapamiętano %1$d wzorce</item>
+        <item quantity="one">Zapamiętano %1$d wzorzec</item>
+    </plurals>
 </resources>
