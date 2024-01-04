@@ -754,7 +754,7 @@ i zaloguj się na swoje konto Xiaomi"</string>
     <string name="connect_settings_summary_connection_service">Umożliw urządzeniom bezprzewodową interakcję ze sobą</string>
     <string name="connect_settings_summary_corp_phone">Odbieraj połączenia na tabletach lub komputerach w pobliżu zalogowanych na Twoje konto Xiaomi</string>
     <string name="connect_settings_summary_relay_app">Kontynuuj zadania w tej samej aplikacji na innym urządzeniu</string>
-    <string name="connect_settings_summary_share_clipboard">Wklejaj tekst i obrazy na innych urządzeniach przez %d minut po ich skopiowaniu na tym urządzeniu</string>
+    <string name="connect_settings_summary_share_clipboard">Wklejaj tekst i obrazy na innych urządzeniach przez %d min po ich skopiowaniu na tym urządzeniu</string>
     <string name="connect_settings_summary_share_launcher_pad">Wyświetlaj i wchodź w interakcję z Pulpitami telefonów w pobliżu zalogowanych na Twoje konto Xiaomi</string>
     <string name="connect_settings_summary_share_launcher_phone">"Umożliw tabletom i komputerom w pobliżu wyświetlanie i interakcję z Pulpitem tego urządzenia"</string>
     <string name="connect_settings_summary_share_notification_pad">Otrzymuj powiadomienia z telefonów w pobliżu zalogowanych na Twoje konto Xiaomi</string>
@@ -933,4 +933,5 @@ aby Xiaomi HyperMind mógł się uczyć i tworzyć wzorce"</string>
     <string name="hm_time_yesterday">Wczoraj</string>
     <string name="hm_toast_log_in">Najpierw zaloguj się na konto Xiaomi</string>
     <string name="try_multipurpose_equipment">Korzystaj z urządzeń, aby dopasowywać je do swoich potrzeb</string>
+    <string name="connect_settings_summary_hyper_mind">Automatycznie adaptuj urządzenia w pobliżu do swoich potrzeb na podstawie wzorców tworzonych przez Ciebie podczas korzystania z urządzenia. Funkcję dostarcza SI Xiaomi.</string>
 </resources>

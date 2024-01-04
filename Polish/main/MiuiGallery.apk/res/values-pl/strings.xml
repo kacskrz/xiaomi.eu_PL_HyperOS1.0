@@ -2499,7 +2499,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="photo_editor_talkback_random_icon">Losowy filtr nieba</string>
     <string name="produce_dialog_text_multi">Różne elementy</string>
     <string name="produce_dialog_text_single">Jeden element</string>
-    <string name="recommend_page_label">Zalecane</string>
+    <string name="recommend_page_label">Polecane</string>
     <string name="sticker_clear">Wyczyść</string>
     <string name="support_single_image">Wybierz jeden obraz</string>
     <string name="support_single_video">Wybierz jeden film</string>
@@ -3035,7 +3035,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
   <string name="saf_secret_album_guide">Aby wyświetlać elementy z prywatnego albumu, aplikacja wymaga uprawnień.</string>
   <string name="sticker_tab_talkback_halloween">Halloween</string>
   <string name="creativity_summary">Wyświetlaj dodatkowe funkcje związane z edycją elementów oraz kreatywnością</string>
-  <string name="creativity_title">Album Zalecane</string>
+  <string name="creativity_title">Album Polecane</string>
   <string name="pc_redmi_device_model_name">Laptop Redmi</string>
   <string name="pc_xiaomi_device_model_name">Laptop Xiaomi</string>
   <string name="device_storage_space_low_dialog_des">Przechowuj zdjęcia i filmy w oryginalnej jakości w Chmurze i zachowaj ich wysokiej jakości kopie na tym urządzeniu, aby móc zwolnić %s miejsca w pamięci.</string>
