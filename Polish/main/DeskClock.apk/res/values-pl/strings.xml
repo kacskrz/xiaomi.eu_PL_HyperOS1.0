@@ -649,4 +649,6 @@ d.MM."</string>
   <string name="notification_permission_dialog_open">Ustawienia</string>
   <string name="notification_permission_dialog_title">Wymagane uprawnienia</string>
   <string name="upcoming_alarm_new">Nadchodzący alarm: %s</string>
+  <string name="alarm_repeat_self_define">Dostosuj</string>
+  <string name="read_device_internal_storage">Dostęp do pamięci</string>
 </resources>

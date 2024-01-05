@@ -634,4 +634,9 @@ Dostępne usługi łączności między urządzeniami mogą się różnić w zale
     <string name="interconnection_service_global_item_title">Interakcja urządzeń Xiaomi</string>
     <string name="interconnection_service_global_label">"&lt;Data>Interakcja urządzeń Xiaomi umożliwia bezprzewodową integrację Twoich urządzeń. Włączając ten przełącznik, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności&lt;/a > tej usługi.&lt;/Data>"</string>
     <string name="interconnection_service_summary_global">"Funkcje Interakcji urządzeń Xiaomi mogą się różnić w zależności od modelu urządzenia i wersji systemu. Aby dowiedzieć się więcej, wejdź na oficjalną stronę systemu."</string>
+    <string name="application_extension_service">Usługi rozszerzające aplikację</string>
+    <string name="application_extension_service_introduction">Usługi rozszerzające aplikację dostarczają funkcje logowania i weryfikacji. Aby to robić, aplikacja potrzebuje następujących uprawnień:</string>
+    <string name="permission_not_agree_service_not_working">"Jesli nie przyznasz wymienionych wcześniej niezbędnych uprawnień, nie będzie można używać tej usługi."</string>
+    <string name="permission_sms_verification_code_login">W celu dostarczania weryfikacji SMS do szybkiego logowania się</string>
+    <string name="read_sms_and_mms">Dostęp do SMS-ów i MMS-ów</string>
 </resources>

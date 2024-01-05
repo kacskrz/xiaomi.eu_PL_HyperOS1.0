@@ -12815,7 +12815,7 @@ Jeśli te uprawnienia będą włączone, aplikacja będzie dostępna jako opcja 
     <string name="flash_notifications_summary_on_camera_and_screen">Włączono / lampa błyskowa i ekran</string>
     <string name="flash_notifications_summary_on_screen">Włączono / błysk na ekranie</string>
     <string name="flash_notifications_title">Powiadomienia błyskowe</string>
-    <string name="footer_description_full_screen_intent">Zezwalaj na wyświetlanie przez tę aplikację powiadomień zajmujących cały ekran, gdy urządzenie jest zablokowane. Aplikacje mogą używać tych uprawnień do powiadamiania o alarmach, połączeniach przychodzących i innych pilnych sprawach.</string>
+    <string name="footer_description_full_screen_intent">Zezwalaj na wyświetlanie przez tę aplikację powiadomień zajmujących cały ekran, gdy urządzenie jest zablokowane. Aplikacja może ich używać do wyświetlania alarmów, przychodzących połączeń czy innych pilnych powiadomień. Ustawienie zależy od uprawnienia do otwierania nowych okien podczas pracy w tle i może być używane tylko wtedy, gdy zostało ono przyznane dla danej aplikacji.</string>
     <string name="freeform_guide_split_screen_combination_fold">Kombinacje Podziału ekranu</string>
     <string name="freeform_guide_split_screen_combination_pad">Kombinacje Podziału ekranu</string>
     <string name="freeform_guide_split_screen_combination_summary_fold">Utwórz skróty dla kombinacji Podziału ekranu na wewnętrznym ekranie za pomocą App dock</string>

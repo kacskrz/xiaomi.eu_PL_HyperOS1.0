@@ -933,5 +933,17 @@ aby Xiaomi HyperMind mógł się uczyć i tworzyć wzorce"</string>
     <string name="hm_time_yesterday">Wczoraj</string>
     <string name="hm_toast_log_in">Najpierw zaloguj się na konto Xiaomi</string>
     <string name="try_multipurpose_equipment">Korzystaj z urządzeń, aby dopasowywać je do swoich potrzeb</string>
-    <string name="connect_settings_summary_hyper_mind">Automatycznie adaptuj urządzenia w pobliżu do swoich potrzeb na podstawie wzorców tworzonych przez Ciebie podczas korzystania z urządzenia. Funkcję dostarcza SI Xiaomi.</string>
+    <string name="connect_settings_summary_hyper_mind">Ta funkcja uczy się Twoich wzorów i używa ich do kontrolowania Twoich urządzeń smart home. Funkcję dostarcza SI Xiaomi.</string>
+    <string name="circulate_pad_card_being_used_cellular">Tablet używa danych mobilnych</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi">Udostępniasz sygnał Wi-Fi tabletowi</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi_china">Udostępniasz sygnał Wi-Fi tabletowi</string>
+    <string name="circulate_phone_card_use_cellular">"Używanie danych mobilnych telefonu"</string>
+    <string name="circulate_phone_card_using_cellular">"Używa danych mobilnych telefonu"</string>
+    <string name="circulate_phone_card_using_cellular_wifi">"Używa sygnału Wi-Fi telefonu"</string>
+    <string name="circulate_phone_card_using_cellular_wifi_china">"Używa sygnału Wi-Fi telefonu"</string>
+    <string name="connect_settings_communication_sharing">Bezprzewodowy tethering</string>
+    <string name="hyper_mind_close_warning">Uwaga</string>
+    <string name="hyper_mind_close_warning_checkbox">"Nie pokazuj ponownie"</string>
+    <string name="hyper_mind_close_warning_content">Jeśli wyłączysz tę funkcję, HyperMind nie będzie mógł uczyć się Twoich wzorców. Jeśli chcesz wycofać swoją zgodę na przetwarzanie Twoich danych przez Xiaomi, przejdź &lt;a href=%1$s>tutaj&lt;/a>.</string>
+    <string name="hyper_mind_close_warning_ok">OK</string>
 </resources>
