@@ -484,8 +484,8 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="high_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
   <string name="low_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
   <string name="middle_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
-  <string name="permission_notification_description">W celu wysyłania alertów dot. nagrywania, odtwarzania i pobierania treści</string>
-  <string name="permission_notification_dialog_description">"W celu wysyłania alertów dot. obecnego statusu aplikacji"</string>
+  <string name="permission_notification_description">Ta aplikacja wymaga uprawnienia do wysyłania powiadomień, aby wysyłać alerty w trakcie nagrywania, odtwarzania i pobierania treści.</string>
+  <string name="permission_notification_dialog_description">Ta aplikacja wymaga uprawnienia do wysyłania powiadomień, aby móc wysyłać alerty dotyczące obecnego stanu aplikacji.</string>
   <string name="permission_notification_title">Wymagane uprawnienia</string>
   <string name="record_scenes_summaries_HD">Technologia wysokiego zakresu dynamicznego umożliwia nagrywanie lepszej jakości dźwięku</string>
   <string name="record_scenes_summaries_interview">Umieść telefon między %d osobami, aby nagrywać w najlepszej jakości</string>
@@ -505,9 +505,9 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="new_search_call_records_hint">Wyszukaj nagrania połączeń</string>
   <string name="new_search_fm_records_hint">Wyszukaj nagrania z radia</string>
   <string name="new_search_recorder_records_hint">Szukaj w Dyktafonie</string>
-  <string name="pause_status_focus_notification">Wstrzymano</string>
+  <string name="pause_status_focus_notification">Wstrzymano nagrywanie</string>
   <string name="recording_status_focus_notification">Nagrywanie</string>
-  <string name="stop_status_focus_notification">Ukończono</string>
+  <string name="stop_status_focus_notification">Ukończono nagrywanie</string>
   <string name="btn_continue_record_description">Wznów nagrywanie</string>
   <string name="miuix_item_view_role_description">Karta</string>
   <string name="miuix_navigator_content_switch_description">Pokaż pasek boczny</string>

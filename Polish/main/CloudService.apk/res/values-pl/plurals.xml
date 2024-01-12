@@ -246,4 +246,8 @@
         <item quantity="other">"Skończyło się miejsce. Nie zsynchronizowano &lt;font color=#F22424>%d aplikacji&lt;/font>"</item>
         <item quantity="one">"Skończyło się miejsce. Nie zsynchronizowano &lt;font color=#F22424>%d aplikacji&lt;/font>"</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">"Nie włączono synchronizacji %s elementów"</item>
+        <item quantity="one">"Nie włączono synchronizacji %s elementu"</item>
+    </plurals>
 </resources>

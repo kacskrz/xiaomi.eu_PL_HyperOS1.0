@@ -852,7 +852,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="qrcode_login_entry_text"><Data>Już zalogowano się na innym urządzeniu? Użyj &lt;a href=>szybkiego logowania&lt;/a></Data></string>
   <string name="qrcode_login_load_refresh"><Data>Ten kod QR wygasł. Dotknij, aby &lt;a href=>odświeżyć&lt;/a>.</Data></string>
   <string name="qrcode_login_load_retry"><Data>"Nie udało się zalogować. &lt;a href=>Spróbuj ponownie&lt;/a>."</Data></string>
-  <string name="qrcode_login_message">"Zeskanuj aplikacją Skaner, Mi Home lub inną z portfolio Xiaomi, aby się zalogować"</string>
+  <string name="qrcode_login_message">"Zeskanuj aplikacją Skaner lub inną z portfolio Xiaomi, aby się zalogować"</string>
   <string name="qrcode_login_title">Zeskanuj, aby się zalogować</string>
   <string name="confirm_bundled_phone_dialog_confirm">Potwierdź</string>
   <string name="confirm_bundled_phone_dialog_confirm_timer">Potwierdź (%ds)</string>
@@ -991,4 +991,27 @@ Wyślij ten kod do wsparcia technicznego."</string>
     <string name="empty_device_list">Nic tu nie ma</string>
     <string name="user_agreement_read_phone_permission_desc">W celu zalogowania się za pomocą numeru telefonu signing in using phone number</string>
     <string name="user_agreement_read_phone_permission_title">Odczyt numerów telefonów</string>
+    <string name="account_auth_failed_message">"Poświadczenia logowania do konta Xiaomi %1$s wygasły. Spróbuj ponownie."</string>
+    <string name="fido2_client_for_fingerprint_auth">Dotknij, aby zweryfikować odciskiem palca</string>
+    <string name="fido2_close_fingerprint_auth">Wyłączanie</string>
+    <string name="fido2_close_fingerprint_auth_desc">Wyłączyć weryfikację odciskiem palca?</string>
+    <string name="fido2_err_already_registered">Ta funkcja jest już włączona na tym koncie</string>
+    <string name="fido2_err_def">Wystąpił błąd. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="fido2_err_not_regisetered">"Ta funkcja nie jest jeszcze włączona na tym koncie"</string>
+    <string name="fido2_err_not_support">"To urządzenie nie wspiera tej funkcji"</string>
+    <string name="fido2_err_security">"Wykryto zagrożenia bezpieczeństwa. Nie można używać tej funkcji."</string>
+    <string name="fido2_err_service_exception">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="fido2_err_timeout">Przekroczono czas trwania żądania. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="fido2_fingerprint_auth">Weryfikacja odciskiem palca</string>
+    <string name="fido2_fingerprint_auth_desc"><Data>Użyj swojego odcisku palca, aby zalogować się na swoje konto Xiaomi i zweryfikować swoją tożsamość. &lt;a href=>Dowiedz się więcej&lt;/a></Data></string>
+    <string name="fido2_fingerprint_changed_and_afresh_register">Odcisk palca tego urządzenia się zmienił. Zweryfikuj konto ponownie, aby włączyć weryfikację odciskiem palca.</string>
+    <string name="fido2_fingerprint_verify">Weryfikacja odciskiem palca</string>
+    <string name="fido2_psw_changed_and_afresh_register">Twoje hasło się zmieniło. Zweryfikuj ponownie swój odcisk palca.</string>
+    <string name="fido2_setting_ps_notify">"Aby użyć weryfikacji odciskiem palca, musisz ustawić hasło do konta Xiaomi. Możesz to zrobić w Ustawieniach > Xiaomi > Bezpieczeństwo konta > Hasło."</string>
+    <string name="fido2_verify_fingerprint">Zweryfikuj odcisk palca</string>
+    <string name="go_to_setting">Ustawienia</string>
+    <string name="input_ps">Wprowadź hasło</string>
+    <string name="login_or_register_by_other_way">Użyj innej metody</string>
+    <string name="reopen">Włącz</string>
+    <string name="setting_ps">Ustawienia hasła</string>
 </resources>

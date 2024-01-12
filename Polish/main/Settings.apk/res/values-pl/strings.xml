@@ -13546,10 +13546,15 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="camera_grip_firmware_new_version">Aktualna</string>
     <string name="camera_grip_firmware_title_text">Aktualizuj oprogramowanie</string>
     <string name="camera_grip_firmware_update_faild">"Nie udało się zaktualizować"</string>
-    <string name="camera_grip_firmware_update_ongoing">Aktualizowanie…</string>
+    <string name="camera_grip_firmware_update_ongoing">Aktualizowanie. Nie rozłączaj uchwytu.</string>
     <string name="camera_grip_firmware_update_successful">Pomyślnie zaktualizowano</string>
     <string name="photography_handle_charge_protected">Automatyczne zatrzymanie ładowania uchwytu</string>
     <string name="photography_handle_charge_protected_summary">"Gdy urządzenie rozpozna, że korzystasz z uchwytu aparatu, przestanie się ładować i utrzyma baterię na poziomie %1$s"</string>
     <string name="private_dns_host_name">Nazwa hosta dostawcy prywatnego DNS</string>
     <string name="private_dns_title">Prywatny DNS</string>
+    <string name="camera_grip_firmware_update_describe">Nie rozłączaj uchwytu w trakcie aktualizacji</string>
+    <string name="display_notification_icon_0">Brak</string>
+    <string name="display_notification_icon_1">%d ikona</string>
+    <string name="display_notification_icon_3">%d ikony</string>
+    <string name="title_show_notification_icon_count">Liczba wyświetlanych ikon powiadomień</string>
 </resources>

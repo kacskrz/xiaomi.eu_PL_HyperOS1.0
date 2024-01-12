@@ -639,4 +639,10 @@ Dostępne usługi łączności między urządzeniami mogą się różnić w zale
     <string name="permission_not_agree_service_not_working">"Jesli nie przyznasz wymienionych wcześniej niezbędnych uprawnień, nie będzie można używać tej usługi."</string>
     <string name="permission_sms_verification_code_login">W celu dostarczania weryfikacji SMS do szybkiego logowania się</string>
     <string name="read_sms_and_mms">Dostęp do SMS-ów i MMS-ów</string>
+    <string name="access_calendar">Dostęp do kalendarza</string>
+    <string name="calendar_storage">Pamięć kalendarza</string>
+    <string name="disagree_unable_serve">"Jeśli nie nadasz powyższych uprawnień, nie będzie można używać tej usługi."</string>
+    <string name="provide_date_management_service">Ta usługa umożliwia sprawdzenie daty i zarządzanie wydarzeniami.</string>
+    <string name="require_statement">Aby dostarczać podstawowe usługi, potrzebujemy następujących uprawnień:</string>
+    <string name="used_date_viewing">W celu sprawdzania daty</string>
 </resources>

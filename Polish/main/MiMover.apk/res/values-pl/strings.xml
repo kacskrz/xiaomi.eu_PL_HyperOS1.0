@@ -528,7 +528,7 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="wechat_and_qq_app_send_fail">"Nie udało się wysłać WeChat oraz QQ"</string>
     <string name="wechat_app_receive_fail">"Nie udało się otrzymać aplikacji WeChat"</string>
     <string name="wechat_app_send_fail">"Nie udało się wysłać aplikacji WeChat"</string>
-    <string name="dialog_request_permission_message">"Witaj w Przenoszeniu danych! Możesz użyć tej aplikacji do przenoszenia danych ze swojego starego urządzenia na nowe. Dane będą przenoszone wyłącznie pomiędzy tymi urządzeniami i nie będą wysyłane na serwery Xiaomi. Aplikacja wymaga połączenia z Internetem i następujących uprawnień do poprawnego działania:"</string>
+    <string name="dialog_request_permission_message">"Witaj w Przenoszeniu danych! Możesz użyć tej aplikacji do przenoszenia danych ze swojego starego urządzenia na nowe. Dane będą przenoszone wyłącznie pomiędzy tymi urządzeniami i nie będą wysyłane na serwery Xiaomi."</string>
     <string name="dialog_request_permission_message_extra">"Jeśli nie zgodzisz się na nadanie tychże uprawnień, nie będziesz mógł korzystać z tej aplikacji. Możesz odinstalować aplikację bądź się z niej wylogować w każdym momencie."</string>
     <string name="dialog_request_permission_message_link" formatted="false"><Data>"Zezwól aplikacji na łączenie się z Internetem i nadaj niezbędne uprawnienia wymienione powyżej. Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności&lt;/a> Xiaomi."</Data></string>
     <string name="perm_write_settings">Zmiana ustawień systemu</string>
@@ -872,11 +872,16 @@ na swoim iPhonie"</string>
   <string name="PRD_summary_4">Wyłączenie sieci Wi-Fi lub przełączenie się między sieciami Wi-Fi w trakcie przenoszenia może sprawić, że się ono nie powiedzie.</string>
   <string name="PRD_summary_4_china">Wyłączenie sieci Wi-Fi lub przełączenie się między sieciami Wi-Fi w trakcie przenoszenia może sprawić, że się ono nie powiedzie.</string>
   <string name="PRD_summary_5">Transfery z wysoką prędkością mogą sprawić, że urządzenie będzie gorętsze niż zwykle. To normalna sytuacja; po zakończeniu procesu powróci ono do normalnej temperatury.</string>
-  <string name="PRD_title_1">1. Następujące aplikacje już mają dane na nowym urządzeniu:</string>
-  <string name="PRD_title_4">2. Zachowaj ostrożność w trakcie przenoszenia</string>
-  <string name="PRD_title_5">3. Twoje urządzenie może się nagrzać</string>
+  <string name="PRD_title_1">1. Dane tych aplikacji już istnieją na nowym urządzeniu:</string>
+  <string name="PRD_title_4">2. Postępuj ostrożnie z urządzeniem</string>
+  <string name="PRD_title_5">3. Urządzenie się nagrzeje w trakcie procesu</string>
   <string name="require_permission">Dotknij, aby przyznać uprawnienie do przenoszenia elementów</string>
   <string name="scanner_subtitle_prd">Przeczytaj te informacje przed zaznaczeniem każdego elementu i rozpoczęciem przenoszenia.</string>
   <string name="scanner_title_prd">Ważne informacje</string>
   <string name="settings_photo">Ustawienia Galerii</string>
+  <string name="PRD_summary_tablet_1">W trakcie procesu wszystkie dane tych aplikacji zostaną nadpisane (włącznie z historiami czatu).</string>
+  <string name="PRD_title_tablet_1">%1$d. Dane tych aplikacji już istnieją na nowym urządzeniu:</string>
+  <string name="PRD_title_tablet_4">%1$d. Postępuj ostrożnie z urządzeniem</string>
+  <string name="PRD_title_tablet_5">%1$d. Urządzenie się nagrzeje w trakcie procesu</string>
+  <string name="prompt_before_transmission_tablet_message3_title">Druga przestrzeń jest włączona</string>
 </resources>

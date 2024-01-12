@@ -1273,4 +1273,5 @@ Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
   <string name="creation_sync_settings_preference">Synchronizuj warstwy</string>
   <string name="creation_sync_settings_summary">Utworzone warstwy</string>
   <string name="gallery_auto_sync_fail_noti_content_lite">"Brak miejsca w Chmurze. Nie można zapisać zdjęć."</string>
+  <string name="browser_sync_settings_preference">Synchronizuj automatycznie</string>
 </resources>
