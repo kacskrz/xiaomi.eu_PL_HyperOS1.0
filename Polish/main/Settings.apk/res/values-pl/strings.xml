@@ -13343,7 +13343,7 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="bluetooth_broadcast_audio_started_toast">"Nie zapomnij zatrzymać nadawania po pewnym czasie. Takie transmisje drenują baterię."</string>
     <string name="bluetooth_broadcast_audio_summary">Udostępniaj dźwięk urządzeniom w pobliżu przez Bluetooth</string>
     <string name="bluetooth_broadcast_code">"Hasło: "</string>
-    <string name="bluetooth_broadcast_dialog_text">"Udostępniany dźwięk będzie zaszyfrowany i dostępny dla kompatybilnych urządzeń. W trakcie transmisji na tym urządzeniu oraz na połączonych urządzeniach Bluetooth nie będzie odtwarzany dźwięk."</string>
+    <string name="bluetooth_broadcast_dialog_text">"W trakcie transmisji dźwięk będzie automatycznie szyfrowany. Będą mogły go odnaleźć i odsłuchać tylko urządzenia w pobliżu, które wspierają nadawanie dźwięku. Głośniki tego urządzenia, a także inne połączone urządzenia Bluetooth, które nie wspierają transmisji dźwięku, pozostaną ciche."</string>
     <string name="eye_gaze_summary_fold_device">"Urządzenie nie zablokuje się, gdy wykryje, że patrzysz na zewnętrzny ekran"</string>
     <string name="freeform_guide_multiple_window_summary_no_wps">"Przytrzymaj ikonę aplikacji w doku, aby otworzyć nowe okno.
 *Funkcja wspiera Notatki, Pocztę i Przeglądarkę."</string>
@@ -13557,4 +13557,6 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="display_notification_icon_1">%d ikona</string>
     <string name="display_notification_icon_3">%d ikony</string>
     <string name="title_show_notification_icon_count">Liczba wyświetlanych ikon powiadomień</string>
+    <string name="display_notification_icon_5">%d ikon</string>
+    <string name="display_notification_icon_7">%d ikon</string>
 </resources>
