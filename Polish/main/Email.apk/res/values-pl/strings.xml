@@ -1717,4 +1717,5 @@ Aby w pełni zrozumieć swoje prawa jako użytkownika, a także metody, w ramach
   <string name="please_save_sign_first">Najpierw zapisz sygnaturę</string>
   <string name="save_sign_pdf">Zapisz na urządzeniu</string>
   <string name="translated_text_too_long">Wybierz mniej tekstu i spróbuj ponownie</string>
+  <string name="notification_mutli_message_content">Dotknij, aby zobaczyć</string>
 </resources>
