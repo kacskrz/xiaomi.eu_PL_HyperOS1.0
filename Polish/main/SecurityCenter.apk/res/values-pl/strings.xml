@@ -1505,7 +1505,7 @@ Twojej gamingowej sesji"</string>
   <string name="last_checked_date2">%d dni temu</string>
   <string name="last_checked_default">%s dni temu</string>
   <string name="left_precent">60%</string>
-  <string name="legal_workday">Dni wolne</string>
+  <string name="legal_workday">Dni robocze</string>
   <string name="legal_workday_invalidate">Pon.-Pt. (informacje o świętach nieaktualne)</string>
   <string name="legal_workday_invalidate_message">Dotknij, by zaktualizować dane o dniach wolnych.</string>
   <string name="legal_workday_message">(Pomiń dni wolne od pracy)</string>
