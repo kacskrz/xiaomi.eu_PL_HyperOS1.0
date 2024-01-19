@@ -135,7 +135,7 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="current_using_float_wallpaper_text">Przezroczysta</string>
   <string name="current_using_lockscreen_wallpaper_text">Ekran blokady</string>
   <string name="current_version">Obecna wersja: %1$s</string>
-  <string name="current_version_incompatible">Ten motyw jest niekompatybilny</string>
+  <string name="current_version_incompatible">Niekompatybilny</string>
   <string name="de_apply_icons">Ikony aplikacji</string>
   <string name="de_apply_icons_and_wallpaper">Ikony aplikacji i tapeta</string>
   <string name="de_author_follow">Śledź</string>

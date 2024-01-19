@@ -831,9 +831,9 @@ Możesz teraz uzyskać bezpłatną, %d-dniową wersję próbną!"</item>
         <item quantity="few">%d elementy wymagają dodatkowej ochrony</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d problemów z zużyciem baterii</item>
-        <item quantity="one">%d problem z zużyciem baterii</item>
-        <item quantity="few">%d problemy z zużyciem baterii</item>
+        <item quantity="other">%d elementów zużywa dużo energii</item>
+        <item quantity="one">%d element zużywa dużo energii</item>
+        <item quantity="few">%d elementy zużywają dużo energii</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
         <item quantity="other">Zoptymalizuj %d rzeczy, aby zaoszczędzić baterię</item>
@@ -844,9 +844,9 @@ Możesz teraz uzyskać bezpłatną, %d-dniową wersję próbną!"</item>
         <item quantity="one">raz</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d problemów z zużyciem baterii</item>
-        <item quantity="one">%d problem z zużyciem baterii</item>
-        <item quantity="few">%d problemy z zużyciem baterii</item>
+        <item quantity="other">%d elementów zużywa dużo energii</item>
+        <item quantity="one">%d element zużywa dużo energii</item>
+        <item quantity="few">%d elementy zużywają dużo energii</item>
     </plurals>
     <plurals name="power_center_battery_duration_hour_time_format">
         <item quantity="other">" godz."</item>
@@ -866,9 +866,8 @@ Możesz teraz uzyskać bezpłatną, %d-dniową wersję próbną!"</item>
         <item quantity="few">Rozwiąż %d problemy z zużyciem baterii</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">Możesz rozwiązać %d problemów z baterią</item>
-        <item quantity="one">Możesz rozwiązać %d problem z baterią</item>
-        <item quantity="few">Możesz rozwiązać %d problemy z baterią</item>
+        <item quantity="other">Możesz zoptymalizować zużycie energii w %d przypadkach</item>
+        <item quantity="one">Możesz zoptymalizować zużycie energii w %d przypadku</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" Można poprawić %d elementów"</item>
@@ -1609,5 +1608,14 @@ Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkow
     <plurals name="storage_compact_warning">
         <item quantity="other">Edycja %1$d uprawnień</item>
         <item quantity="one">Edycja %1$d uprawnienia</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">OK (%d)</item>
+        <item quantity="one">OK (%d)</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d wirusów lub złośliwych aplikacji</item>
+        <item quantity="few">%d wirusy lub złośliwe aplikacje</item>
+        <item quantity="one">%d wirus lub złośliwa aplikacja</item>
     </plurals>
 </resources>
