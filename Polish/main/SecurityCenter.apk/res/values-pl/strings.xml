@@ -2456,10 +2456,10 @@ W trakcie kalibracji, system wyśle wiadomość tekstową do Twojego operatora, 
   <string name="qucick_replay_instrument">Zezwól na korzystanie z szybkich odpowiedzi w wybranych aplikacjach</string>
   <string name="quick_optimize_checking">Skanowanie</string>
   <string name="quick_optimize_no_fix_issue_subtitle">"Nie można wydłużyć czasu na baterii"</string>
-  <string name="quick_optimize_no_fix_issue_title">"Nie można naprawić problemów z baterią"</string>
+  <string name="quick_optimize_no_fix_issue_title">Nie udało się zoptymalizować elementów z wysokim zużyciem energii</string>
   <string name="quick_optimize_no_issue">Bez problemów z baterią</string>
   <string name="quick_optimize_no_issue_subtitle">Wszystko OK</string>
-  <string name="quick_optimize_no_issue_title">"Nie wykryto problemów z baterią"</string>
+  <string name="quick_optimize_no_issue_title">Brak elementów z wysokim zużyciem energii</string>
   <string name="quick_optimize_sub_battery_text">Pozostało ok. %s</string>
   <string name="quick_optimize_sub_summary_text">Dodano %s do czasu na baterii</string>
   <string name="quick_optimize_sub_summary_with_battery_text">Dodano %1$s, pozostało ok. %2$s</string>
@@ -4147,14 +4147,14 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="power_center_batteryrank_all">Pełne użycie baterii</string>
     <string name="power_center_batteryrank_hardware">użycie baterii przez sprzęt %s</string>
     <string name="power_center_batteryrank_software">użycie baterii przez system %s</string>
-    <string name="power_center_batteryscan_normal">Brak problemów z użyciem baterii. Zobacz rezultaty.</string>
+    <string name="power_center_batteryscan_normal">Wszystko w porządku. Zobacz rezultaty.</string>
     <string name="power_center_charge_status">Ładowanie</string>
     <string name="power_center_consume_fast">Drenowanie baterii</string>
     <string name="power_center_list_item_haptic_feedback_summary">"Gestom oraz przyciskom nie będzie towarzyszyć wibracja"</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">Blokowanie urządzenia w szybszym czasie oszczędza energię</string>
     <string name="power_center_list_item_wake_notification_summary">Powiadomienia będą wyświetlane tylko po włączeniu ekranu</string>
     <string name="power_center_optimize_title">Sugestie</string>
-    <string name="power_center_problem_title">Napraw problemy</string>
+    <string name="power_center_problem_title">Wysokie zużycie energii</string>
     <string name="power_center_reduce_dpi_summary">Rozdzielczość QHD+ zużywa więcej energii</string>
     <string name="power_center_reduce_resolution">Niższa rozdzielczość ekranu</string>
     <string name="power_center_used_time_Introduction">Czas na baterii od ostatniego naładowania powyżej %s</string>
@@ -4427,7 +4427,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="pp_privacy_lab_clipboard_summary">Zezwól urządzeniu zdecydować, czy dana aplikacja może uzyskać dostęp do schowka i otrzymuj powiadomienia o takim dostępie</string>
     <string name="pp_privacy_protection_lab">Laboratorium Ochrony prywatności</string>
     <string name="pp_privacy_protection_lab_summary">Zapewnij sobie prywatność</string>
-    <string name="settings_battery_power_save_suggest_title">Sugestie i ostrzeżenia Oszczędzania baterii</string>
+    <string name="settings_battery_power_save_suggest_title">Sugestie Oszczędzania baterii</string>
     <string name="gamebox_collimator">Celownik</string>
     <string name="gamebox_time">Minutnik</string>
     <string name="gb_collimator_color">Kolor</string>
@@ -6017,7 +6017,7 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="pc_low_batterty_got_it">OK</string>
     <string name="pc_low_battery_fast_charge">Przyspiesz ładowanie</string>
     <string name="pc_low_battery_fast_charge_summary">Podłącz dołączoną ładowarkę, aby przyspieszyć ładowanie, gdy poziom baterii jest niski, a ekran jest wyłączony. Funkcja może spowodować nagrzewanie się urządzenia.</string>
-    <string name="pc_smart_discharge_checkbox_summary">"Ładowanie zatrzyma się automatycznie, gdy zostanie osiągnięty wybrany poziom baterii i korzystasz z nawigacji. Funkcja nie będzie działać, gdy włączone jest Oszczędzanie baterii lub Ultraoszczędzanie baterii."</string>
+    <string name="pc_smart_discharge_checkbox_summary">"Ładowanie zatrzyma się automatycznie, gdy zostanie osiągnięty wybrany poziom baterii i korzystasz z nawigacji. Oszczędzanie baterii zostanie wyłączone."</string>
     <string name="pc_smart_discharge_checkbox_title">Zatrzymywanie ładowania</string>
     <string name="pc_smart_discharge_drop_down_title">Ustawienia Zatrzymywania ładowania</string>
     <string name="pc_smart_discharge_protect_notifi_summary">Ładowanie zatrzyma się automatycznie przy ustalonym poziomie baterii, gdy używasz nawigacji, aby chronić baterię</string>
@@ -6333,7 +6333,7 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="battery_and_property_ordinary_notify">Regularne powiadomienia dot. baterii</string>
     <string name="blur_double_space">Druga przestrzeń</string>
     <string name="conversation_summary_new">Upiększanie, napisy i inne funkcje w trakcie rozmów i wideokonferencji</string>
-    <string name="pc_night_charge_protect_summary">Automatycznie dostosuj czas ładowania, aby przedłużyć żywotność baterii</string>
+    <string name="pc_night_charge_protect_summary">Automatycznie dostosuj czas ładowania, aby spowolnić starzenie się baterii</string>
     <string name="pc_night_charge_protect_title">Ochrona przed ładowaniem w nocy</string>
     <string name="permgroupdesc_installapplist">Dostęp do listy zainstalowanych aplikacji</string>
     <string name="permgroupdesc_readmediafile">Dostęp do zdjęć, filmów lub dźwięków przechowywanych na urządzeniu</string>
@@ -6425,4 +6425,30 @@ Xiaomi Gaming Cooler"</string>
     <string name="terminal_flars_recent_screen_camera">"Ostatnio używał aparatu i ekranu tego urządzenia"</string>
     <string name="vb_movie_power_hint">"Tryb teatralny zapewnia wciągające wrażenia podczas oglądania.
 Urządzenie może się nagrzać i zużywać więcej energii."</string>
+    <string name="group_file_less_t">Dostęp do plików i multimediów</string>
+    <string name="mic_noise_reduction_mode_standard">Standardowy</string>
+    <string name="mic_noise_reduction_mode_ultimate">Wybrany</string>
+    <string name="mic_noise_reduction_voiceprint_desc">Odbieraj dźwięk tylko od określonego użytkownika</string>
+    <string name="pc_button_go_to_setting">Ustawienia</string>
+    <string name="pc_handle_battery_level">Uchwyt</string>
+    <string name="pc_phone_battery_level">Telefon</string>
+    <string name="pc_power_mode_has_performance">Włączono Tryb wydajności</string>
+    <string name="pc_reminder_always_protect_summary">Włącz ograniczone ładowanie, aby zredukować starzenie się baterii</string>
+    <string name="pc_wireless_charging_special_stand_summary1">Umieść urządzenie na podstawce dołączonej do ładowarki bezprzewodowej</string>
+    <string name="pc_wireless_charging_special_stand_summary2">Najlepsze ładowanie uzyskasz, umieszczając urządzenie na podstawce dołączonej do ładowarki bezprzewodowej</string>
+    <string name="pc_wireless_charging_special_stand_title">Użyj dołączonej podstawki</string>
+    <string name="pc_wireless_handle_connected">Podłączono urządzenie</string>
+    <string name="pc_wireless_handle_title">Bezprzewodowy uchwyt do aparatu</string>
+    <string name="permission_group_file_less_t">To uprawnienie umożliwia aplikacjom dostęp do zdjęć, filmów, dźwięków i innych plików przechowywanych na tym urządzeniu.</string>
+    <string name="power_ntc_dialog_btn_finish">OK</string>
+    <string name="power_ntc_dialog_msg">Odłącz ładowarkę. Wyczyść i wysusz port ładowania przed kolejnym użyciem.</string>
+    <string name="power_ntc_dialog_title">Wykryto ciało obce lub płyn</string>
+    <string name="pp_none_read_clipboard_item">"Nie informuj"</string>
+    <string name="pp_protect_read_clipboard_item">Chroń</string>
+    <string name="pp_toast_read_clipboard">Informuj o uzyskaniu dostępu do schowka przez aplikacje</string>
+    <string name="pp_toast_read_clipboard_item">Informuj</string>
+    <string name="privacy_risk_result_screen_shield_msg">Aplikacje zawierające wrażliwe dane będą wyświetlane w menu Ostatnich aplikacji z zamazanym podglądem</string>
+    <string name="summary_virus_scan_model">Usuń te zagrożenia jak najszybciej</string>
+    <string name="vb_mv_style_close_toast">Styl wyłączony</string>
+    <string name="vb_vison_dynamic_enhance_close_toast">Ulepszone animacje są wyłączone</string>
 </resources>

@@ -53,4 +53,6 @@
   <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
   <string name="miuix_indexer_collect">Kolekcje</string>
   <string name="miuix_indexer_selected">Wybrano %s</string>
+  <string name="security_for_pad">Panel sterowania</string>
+  <string name="security_for_phone">Panel sterowania</string>
 </resources>
