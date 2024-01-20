@@ -2018,7 +2018,7 @@
     </string-array>
     <!-- DO NOT CHANGE FIRST ENTRY!!! -->
     <string-array name="smart_device_control_entries">
-        <item>@string/mi_smart_hub_entry_title</item>
+        <item>Mi Smart Hub</item>
         <item>Smart home</item>
         <item>Brak</item>
     </string-array>

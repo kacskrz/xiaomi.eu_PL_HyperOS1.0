@@ -964,9 +964,4 @@ aby Xiaomi HyperMind mógł się uczyć i tworzyć wzorce"</string>
   <string name="common_open_on_phone">Otwórz na telefonie</string>
   <string name="common_signin_button_text">Zaloguj się</string>
   <string name="common_signin_button_text_long">Zaloguj się z Google</string>
-    <string name="connect_settings_communication_sharing">Bezprzewodowy tethering</string>
-    <string name="copy_toast_msg">Skopiowano link do schowka</string>
-    <string name="fallback_menu_item_copy_link">Kopiuj link</string>
-    <string name="fallback_menu_item_open_in_browser">Otwórz w przeglądarce</string>
-    <string name="fallback_menu_item_share_link">Wyślij link</string>
 </resources>
