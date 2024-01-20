@@ -840,8 +840,8 @@ Możesz teraz uzyskać bezpłatną, %d-dniową wersję próbną!"</item>
         <item quantity="one">Zoptymalizuj %d rzecz, aby zaoszczędzić baterię</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
-        <item quantity="other">razy</item>
-        <item quantity="one">raz</item>
+        <item quantity="other">" razy"</item>
+        <item quantity="one">" raz"</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d elementów zużywa dużo energii</item>
