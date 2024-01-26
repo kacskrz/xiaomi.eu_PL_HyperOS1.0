@@ -496,4 +496,13 @@ aby umieścić piłkę w niebieskim polu"</string>
     <string name="satellite_state_retry">Próbuj dalej</string>
     <string name="calibrate_rotate_again">Spróbuj ponownie</string>
     <string name="calibrate_rotate_tip">Gwałtownie przechyl urządzenie, aby kulka zaczeła obracać się po okręgu</string>
+    <string name="satellite_debug_antenna">Antena</string>
+    <string name="satellite_debug_azimuth">Azymut</string>
+    <string name="satellite_debug_compass">Kompas</string>
+    <string name="satellite_debug_evevation">Wysokość</string>
+    <string name="satellite_debug_rssi">Siła sygnału</string>
+    <string name="satellite_debug_satellite">Satelita</string>
+    <string name="satellite_guide_azimuth">Poruszaj, dopóki ikona satelity nie znajdzie się w niebieskim polu</string>
+    <string name="satellite_guide_elevation">Poruszaj, dopóki ikona satelity nie znajdzie się w niebieskim okręgu</string>
+    <string name="satellite_satellite_accessory">"Używam narzędzi wzmacniających sygnał Tiantong Satellite"</string>
 </resources>

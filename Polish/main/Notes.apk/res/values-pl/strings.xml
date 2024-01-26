@@ -977,4 +977,5 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="toolbar_voice_done_description">Zatrzymaj</string>
   <string name="toolbar_voice_mark_description">Oznacz</string>
   <string name="to_view_alarm_content">Dotknij, aby wyświetlić</string>
+  <string name="warn_cannot_add_more_content">"Przekroczono maksymalną długość notatki. Treść, którą teraz dodasz, nie zostanie zapisana."</string>
 </resources>

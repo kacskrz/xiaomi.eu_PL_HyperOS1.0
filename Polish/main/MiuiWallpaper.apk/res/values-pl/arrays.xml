@@ -30,4 +30,9 @@
         <item>Tapeta/Supertapety/Pogoda</item>
         <item>Pogoda;Informacje o pogodzie;Supertapeta;Tapeta</item>
     </string-array>
+    <string-array name="settings_search_moon">
+        <item>Księżyc</item>
+        <item>Tapeta/Supertapety/Księżyc</item>
+        <item>kosmos;Księżyc;Supertapety;tapeta</item>
+    </string-array>
 </resources>
