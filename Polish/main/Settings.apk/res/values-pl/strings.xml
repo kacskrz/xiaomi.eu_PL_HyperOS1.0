@@ -8891,7 +8891,7 @@ Otwórz menu Chmury Xiaomi i przywróć elementy z poziomu tego menu."</string>
   <string name="enable_local_backup_ok">OK</string>
   <string name="enable_local_backup_title">Lokalne kopie zapasowe</string>
   <string name="local_backup_usestatus_title">Lokalne kopie zapasowe wył.</string>
-  <string name="login_account_summary_temp">Zarządzaj kontami, usługami Chmury itp.</string>
+  <string name="login_account_summary_temp">Konto Xiaomi i opcje Chmury</string>
   <string name="micloud_service_summary_temp">Synchronizuj zdjęcia, filmy, kontakty i inne rzeczy</string>
   <string name="nfc_dnd_mode_summary">Odpowiadaj tagom NFC limitowaną ilością tagów NDEF</string>
   <string name="nfc_dnd_mode_title">Tryb Nie przeszkadzać dla NFC</string>
