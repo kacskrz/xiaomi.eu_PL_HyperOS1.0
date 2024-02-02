@@ -3868,4 +3868,13 @@ Spróbuj utworzyć obraz SI za pomocą innych zdjęć."</string>
     <string name="ai_select_photo_no_result_toast">"Nie można utworzyć obrazu SI na podstawie tych zdjęć. Wybierz inne."</string>
     <string name="media_type_cinematic">Tryb filmowy</string>
     <string name="send_special_video_duration_more_than_40s">Przetworzone filmy, które trwają dłużej niż %d min, mogą być udostępniane tylko w ich oryginalnym formacie. Może on nie być kompatybilny z urządzeniem, na które je wysyłasz. Kontynuować?</string>
+    <string name="ai_creation_record_footer_tips">Możesz wyświetlić tylko elementy utworzone na tym urządzeniu. Po wylogowaniu się z konta Xiaomi zostaną one usunięte.</string>
+    <string name="ai_image_creation_over_limit_title">"Nie można utworzyć więcej portretów"</string>
+    <string name="ai_image_invalid">"Pomyślnie usunięto obraz SI %s"</string>
+    <string name="ai_image_invalid_in_update">"Trwa aktualizowanie obrazu SI %s. Poczekaj, aż proces się zakończy, i spróbuj ponownie."</string>
+    <string name="ai_image_manager_empty_msg">"Nie można wyświetlić zdjęć wykorzystanych do tworzenia obrazów SI w starszych wersjach tej usługi na innym urządzeniu"</string>
+    <string name="ai_image_manager_empty_msg_net">Brak zdjęć</string>
+    <string name="ai_image_over_limit_title_update">"Nie można zaktualizować obrazów SI w tej chwili"</string>
+    <string name="tip_leica_master_portrait">Portret Master</string>
+    <string name="tip_leica_portrait">Portret Leica</string>
 </resources>
