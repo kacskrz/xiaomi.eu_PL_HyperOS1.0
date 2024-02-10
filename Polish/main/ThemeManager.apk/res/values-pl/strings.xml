@@ -1618,7 +1618,7 @@ Dotknij, aby go wyłączyć."</string>
     <string name="UVI_level_3">Bardzo silny</string>
     <string name="UVI_level_4">Ciężki</string>
     <string name="format_month_day_style1">d MMM</string>
-    <string name="format_month_day_style2">d.M</string>
+    <string name="format_month_day_style2">d.MM</string>
     <string name="format_month_day_week">EEE, d MMM</string>
     <string name="health_chart_calories_unit">Kalorie</string>
     <string name="health_chart_sleep_time_good">Wystarczająco</string>
@@ -1633,12 +1633,12 @@ Dotknij, aby go wyłączyć."</string>
     <string name="lock_screen_keyguard_guide_popup">Sprawdź nowe, spersonalizowane funkcje i wygląd ekranu blokady</string>
     <string name="lock_screen_keyguard_tip_title">Zupełnie nowy, spersonalizowany ekran blokady</string>
     <string name="lockscreen_tip_content">Przytrzymaj ekran blokady, aby zacząć edycję. Spraw, aby był Twój dzięki nowym opcjom i szablonom personalizacji.</string>
-    <string name="miui_magazine_c_clock_style2_date">EEEE d.M</string>
+    <string name="miui_magazine_c_clock_style2_date">EEEE d.MM</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, d MMM</string>
-    <string name="miui_magazine_clock_date">d.M</string>
+    <string name="miui_magazine_clock_date">d.MM</string>
     <string name="miui_magazine_clock_date_content_description">d.MM</string>
     <string name="miui_rhombus_clock_date">d MMMM</string>
-    <string name="miui_smart_frame_clock_date">d.M</string>
+    <string name="miui_smart_frame_clock_date">d.MM</string>
     <string name="personalize_item_more_setting">Dodatkowe ustawienia</string>
     <string name="resource_ringtone_too_large_waring">Pliki dzwonków mogą mieć nie więcej niż %1$d MB</string>
     <string name="restore_default_change_wallpaper_when_special_lockscreen">"Obecnie używasz szablonu ekranu blokady. Jeśli przejdziesz dalej, Twój ekran blokady stanie się domyślny, a tapety na nim oraz na Pulpicie się zmienią. Zastosować?"</string>

@@ -963,7 +963,7 @@ Należy używać tylko dołączonej ładowarki."</string>
   <string name="keyguard_charging_info_click_to_detail">Szczegóły</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Użycie</string>
   <string name="keyguard_charging_info_finished_charging_text">Naładowany</string>
-  <string name="keyguard_charging_info_last_charge_time">d.M H:mm</string>
+  <string name="keyguard_charging_info_last_charge_time">d.MM H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Dziś %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Wczoraj %s</string>
   <string name="keyguard_charging_info_last_charged_time_text">Ostatnie ładowanie</string>
@@ -3951,7 +3951,7 @@ kliknij dwukrotnie"</string>
     <string name="drag_shadow_split_unsupported_app">"%s nie wspiera Dzielenia ekranu"</string>
     <!-- ADJUST FORMAT TO YOUR LANGUAGE -->
     <string name="format_month_day_style1">d MMM</string>
-    <string name="format_month_day_style2">d.M</string>
+    <string name="format_month_day_style2">d.MM</string>
     <string name="format_month_day_week">EEE, d MMM</string>
     <string name="health_chart_calories_unit">Kalorie</string>
     <string name="health_chart_sleep_time_good">Wystarczająco</string>
@@ -3963,12 +3963,12 @@ kliknij dwukrotnie"</string>
     <string name="keyguard_editor_super_save_mode_toast">"Nie można edytować ekranu blokady, gdy włączone jest Ultraoszczędzanie baterii"</string>
     <string name="keyguard_loading_to_editor_tips">Otwieranie Edytora ekranu blokady…</string>
     <string name="kg_wrong_pin">Zły PIN</string>
-    <string name="miui_magazine_c_clock_style2_date">EEEE d.M</string>
+    <string name="miui_magazine_c_clock_style2_date">EEEE d.MM</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, d MMM</string>
-    <string name="miui_magazine_clock_date">d.M</string>
+    <string name="miui_magazine_clock_date">d.MM</string>
     <string name="miui_magazine_clock_date_content_description">d.MM</string>
     <string name="miui_rhombus_clock_date">d MMMM</string>
-    <string name="miui_smart_frame_clock_date">d.M</string>
+    <string name="miui_smart_frame_clock_date">d.MM</string>
     <string name="miuix_appcompat_select_all_description">Zaznacz wszystko</string>
     <string name="multiwin_closewindow">Zamknij okno</string>
     <string name="multiwin_newwindow">Nowe okno</string>
