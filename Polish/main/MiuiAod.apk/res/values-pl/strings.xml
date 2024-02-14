@@ -296,9 +296,9 @@ dd.MM"</string>
     <string name="UVI_level_4">Ciężki</string>
     <string name="aod_app_name">Ekran zawsze włączony i edytor ekranu blokady</string>
     <!-- ADJUST FORMAT TO YOUR LANGUAGE -->
-    <string name="format_month_day_style1">d MMM</string>
+    <string name="format_month_day_style1">d MMMM</string>
     <string name="format_month_day_style2">d.MM</string>
-    <string name="format_month_day_week">EEE, d MMM</string>
+    <string name="format_month_day_week">EEEE, d MMMM</string>
     <string name="format_week_day_style1">EE d</string>
     <string name="health_chart_calories_unit">Kalorie</string>
     <string name="health_chart_sleep_time_format">%1$s godz. %2$s min</string>
@@ -419,18 +419,18 @@ dd.MM"</string>
     <string name="miui_clock_city_name_local">Lokalnie</string>
     <string name="miui_clock_city_name_second">Drugi zegar</string>
     <!-- adjust format to your language -->
-    <string name="miui_lock_screen_date">EEE, d MMM</string>
-    <string name="miui_lock_screen_date_12">EEE, d MMM</string>
-    <string name="miui_lock_screen_date_two_lines">"d MMM
-EEE"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"d MMM
-EEE"</string>
-    <string name="miui_lock_screen_large_date">"EEE
+    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_two_lines">"d MMMM
+EEEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"d MMMM
+EEEE"</string>
+    <string name="miui_lock_screen_large_date">"EEEE
 d.MM"</string>
-    <string name="miui_lock_screen_large_date_12">"EEE
+    <string name="miui_lock_screen_large_date_12">"EEEE
 d.MM"</string>
     <string name="miui_magazine_c_clock_style2_date">EEEE d.MM</string>
-    <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, d MMM</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, d MMMM</string>
     <string name="miui_magazine_clock_date">d.MM</string>
     <string name="miui_magazine_clock_date_content_description">d.MM</string>
     <string name="miui_rhombus_clock_date">d MMMM</string>

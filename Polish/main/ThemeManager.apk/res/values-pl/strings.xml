@@ -1619,7 +1619,7 @@ Dotknij, aby go wyłączyć."</string>
     <string name="UVI_level_4">Ciężki</string>
     <string name="format_month_day_style1">d MMM</string>
     <string name="format_month_day_style2">d.MM</string>
-    <string name="format_month_day_week">EEE, d MMM</string>
+    <string name="format_month_day_week">EEEE, d MMMM</string>
     <string name="health_chart_calories_unit">Kalorie</string>
     <string name="health_chart_sleep_time_good">Wystarczająco</string>
     <string name="health_chart_sleep_time_low">Za mało</string>
@@ -1634,7 +1634,7 @@ Dotknij, aby go wyłączyć."</string>
     <string name="lock_screen_keyguard_tip_title">Zupełnie nowy, spersonalizowany ekran blokady</string>
     <string name="lockscreen_tip_content">Przytrzymaj ekran blokady, aby zacząć edycję. Spraw, aby był Twój dzięki nowym opcjom i szablonom personalizacji.</string>
     <string name="miui_magazine_c_clock_style2_date">EEEE d.MM</string>
-    <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, d MMM</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, d MMMM</string>
     <string name="miui_magazine_clock_date">d.MM</string>
     <string name="miui_magazine_clock_date_content_description">d.MM</string>
     <string name="miui_rhombus_clock_date">d MMMM</string>
