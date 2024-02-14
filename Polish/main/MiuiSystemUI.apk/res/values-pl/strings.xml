@@ -1072,7 +1072,6 @@ Spróbuj ponownie za %2$d s."</string>
 Spróbuj ponownie za %2$d s."</string>
   <string name="kg_wrong_password">Nieprawidłowe hasło</string>
   <string name="kg_wrong_pattern">Nieprawidłowy wzór</string>
-  <string name="kilobyte_per_second">" kB/s"</string>
   <string name="label_view">Wyświetl</string>
   <string name="launch_defaults_none">Brak ustawień domyślnych</string>
   <string name="launch_defaults_some">Część ustawień domyślnych</string>

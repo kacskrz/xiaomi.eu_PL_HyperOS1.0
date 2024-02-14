@@ -138,7 +138,6 @@
   <string name="battery_saver_sticky_title_new">Wyłącz po naładowaniu</string>
   <string name="blob_expires_text">Wygasają: %s</string>
   <string name="blob_id_text">Identyfikator udostępnianych danych: %d</string>
-  <string name="bluetooth_connected">Połączono – %1$s</string>
   <string name="bluetooth_connected_battery_level">Połączono, bateria: %1$s %2$s</string>
   <string name="bluetooth_connected_no_a2dp_battery_level">Połączono (bez multimediów), bateria %1$s %2$s</string>
   <string name="bluetooth_connected_no_headset_battery_level">Połączono (bez telefonu), bateria %1$s %2$s</string>

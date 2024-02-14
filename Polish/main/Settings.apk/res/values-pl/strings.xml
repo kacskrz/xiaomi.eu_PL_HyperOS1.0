@@ -934,7 +934,7 @@ Aplikacje:
   Funkcja wykorzystuje sygnały Bluetooth małej mocy."</string>
   <string name="bluetooth_confirm_passkey_msg">Aby sparować z urządzeniem: %1$s. Upewnij się, że jest na nim wyświetlony następujący klucz: %2$s.</string>
   <string name="bluetooth_connect_specific_profiles_title">Połącz z siecią…</string>
-  <string name="bluetooth_connected">Połączony</string>
+  <string name="bluetooth_connected">Połączono %1$s</string>
   <string name="bluetooth_connected_multiple_devices_summary">Połączono z wieloma urządzeniami</string>
   <string name="bluetooth_connected_no_a2dp">Połączono (bez multimediów)</string>
   <string name="bluetooth_connected_no_headset">Połączono (bez telefonu)</string>
