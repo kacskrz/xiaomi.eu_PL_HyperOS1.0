@@ -1780,12 +1780,12 @@ monitorowana"</string>
   <string name="status_bar_airplane">Tryb samolotowy</string>
   <string name="status_bar_alarm">Alarm</string>
   <string name="status_bar_clear_all_button">Wyczyść</string>
-  <string name="status_bar_clock_date_format">EEEE, d MMM</string>
-  <string name="status_bar_clock_date_format_12">EEEE, d MMM</string>
+  <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
+  <string name="status_bar_clock_date_format_12">EEEE, d MMMM</string>
     <string name="status_bar_date_format">"EEEE,
-  d MMM"</string>
+  d MMMM"</string>
     <string name="status_bar_date_format_12">"EEEE,
-  d MMM"</string>
+  d MMMM"</string>
   <string name="status_bar_ethernet">Ethernet</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Konfiguruj metody wprowadzania</string>
   <string name="status_bar_latest_events_title">Powiadomienia</string>
