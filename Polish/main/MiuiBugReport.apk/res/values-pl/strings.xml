@@ -1161,4 +1161,22 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
     <string name="miui_feedback_main_item_official_progress_hint">Aktualizuj regularnie postęp naprawy w Xiaomi Community</string>
     <string name="miui_feedback_main_item_use_guide">Instrukcja</string>
     <string name="miui_feedback_note_install_xiaomi_community">Aby móc używać tej funkcji, zainstaluj Xiaomi Community.</string>
+    <string name="catch_full_log_not_show_again">"Nie pokazuj ponownie"</string>
+    <string name="catch_full_log_note_affect_performance_decription">Wygląda na to, że proces generowania logów trwa już ponad %d godzinę. Jeśli się on zakończył, możez przesłać opinię. W innym przypadku możesz go przerwać lub kontynuować, ale jego kontynuacja może chwilowo wpłynąć na możliwości Twojego urządzenia.</string>
+    <string name="catch_full_log_note_cancel_catch">Anuluj</string>
+    <string name="catch_full_log_note_catch">Generowanie logów</string>
+    <string name="catch_full_log_note_decription">"Wygląda na to, że generujesz logi. Jeśli proces się zakończył, możesz przesłać opinię. W innym przypadku możesz go kontynuować lub przerwać."</string>
+    <string name="catch_full_log_note_still_catch">Kontynuuj</string>
+    <string name="catch_full_log_note_to_commit">Wyślij opinię</string>
+    <string name="catch_full_log_start_catch_log">Start</string>
+    <string name="feedback_description_hint_suggestion_pad">Powiedz nam, jak możemy się poprawić.</string>
+    <string name="log_catch_notice_content">Dotknij poniżej, aby ukończyć lub przerwać ten proces.</string>
+    <string name="log_catch_step">Kroki generowania logów</string>
+    <string name="log_catching_notice">Generowanie logów</string>
+    <string name="special_log_catch">Wygeneruj logi</string>
+    <string name="special_log_catch_tips">*Proces generowania logów może chwilowo wpłynąć na możliwości urządzenia. Jeśli trudności będą utrzymywać się przez dłuższy czas, przerwij ten proces w Panelu powiadomień.</string>
+    <string name="special_log_catch_top_hint">"Aby pomóc Xiaomi lepiej zlokalizować i naprawić odkryty przez Ciebie problem, postępuj zgodnie z krokami wymienionymi poniżej, aby wygenerować i załączyć odpowiednie logi."</string>
+    <string name="toast_a_log_is_catching">Trwa generowanie logów. Dotknij, aby zakończyć.</string>
+    <string name="toast_cloud_video_obtain_fail">"Nie można pokazać miniatur filmów pobranych zdalnie ze chmury"</string>
+    <string name="toast_log_too_large">"Nie można przesłać logów powyżej %d GB"</string>
 </resources>

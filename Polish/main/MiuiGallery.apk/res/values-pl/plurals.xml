@@ -864,4 +864,25 @@
         <item quantity="few">Znaleziono %d elementy</item>
         <item quantity="other">Znaleziono %d elementów</item>
     </plurals>
+    <plurals name="global_cloud_storage_warn_title_link">
+        <item quantity="other">"Nie skopiowano %d elementów z powodu braku miejsca w chmurze"</item>
+        <item quantity="one">"Nie skopiowano %d elementu z powodu braku miejsca w chmurze"</item>
+    </plurals>
+    <plurals name="global_sync_error_title">
+        <item quantity="other">"Nie skopiowano %d elementów"</item>
+        <item quantity="one">"Nie skopiowano %d elementu"</item>
+    </plurals>
+    <plurals name="global_syncing_gprs_title_link">
+        <item quantity="other">Kopiowanie %d elementów za pomocą danych mobilnych…</item>
+        <item quantity="one">Kopiowanie %d elementu za pomocą danych mobilnych…</item>
+    </plurals>
+    <plurals name="global_syncing_title_link">
+        <item quantity="other">Kopiowanie %d elementów…</item>
+        <item quantity="one">Kopiowanie %d elementu…</item>
+    </plurals>
+    <plurals name="video_editor_component_hint_text">
+        <item quantity="other">Wybierz %d segmentów wideo</item>
+        <item quantity="few">Wybierz %d segmenty wideo</item>
+        <item quantity="one">Wybierz %d segment wideo</item>
+    </plurals>
 </resources>

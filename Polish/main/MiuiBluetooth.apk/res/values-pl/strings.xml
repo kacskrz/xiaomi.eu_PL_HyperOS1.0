@@ -399,5 +399,14 @@ Szyszy protokół transmisji."</string>
     <string name="lyra_auto_connect_summary">"Automatycznie włącz hotspot i łącz z nim urządzenia w pobliżu, które są zalogowane na Twoje konto Xiaomi, gdy nie mają one połączenia z siecią"</string>
     <string name="lyra_auto_connect_title">Automatycznie włącz hotspot</string>
     <string name="fast_connect_device_reset_audio_share">Przytrzymaj przez 2 sekundy, aby zresetować</string>
+    <string name="celluar_tether_disconect_title">Rozłączono</string>
+    <string name="celluar_tether_name">Bezprzewodowy tethering</string>
+    <string name="celluar_tether_prompt">"Dzięki bezprzewodowemu tetheringowi Twój tablet może korzystać z danych mobilnych Twojego telefonu. Wygląda na to, że w pobliżu nie ma kompatybilnego z tą funkcją urządzenia Xiaomi. Upewnij się, że Twoj telefon i tablet są zalogowane na to samo konto Xiaomi, dane mobilne na Twoim telefonie są włączone, a oba urządzenia są połączone z siecią Wi-Fi."</string>
+    <string name="celluar_tether_prompt_china">"Dzięki bezprzewodowemu tetheringowi Twój tablet może korzystać z danych mobilnych Twojego telefonu. Wygląda na to, że w pobliżu nie ma kompatybilnego z tą funkcją urządzenia Xiaomi. Upewnij się, że Twoj telefon i tablet są zalogowane na to samo konto Xiaomi, dane mobilne na Twoim telefonie są włączone, a oba urządzenia są połączone z siecią Wi-Fi."</string>
     <string name="cooler_reset">Naciśnij %d razy, aby sparować</string>
+    <string name="easy_tether_auto_connect_summary_v2">"Gdy w pobliżu jest urządzenie, które jest zalogowane na Twoje konto Xiaomi, ale nie ma połączenia z Internetem, możesz umożliwić mu skorzystanie z danych mobilnych bądź hotspotu tego urządzenia. Zezwolić na tę akcję?"</string>
+    <string name="easy_tether_statusbar_auto_connected_title_v2">"Używanie danych mobilnych %1$s"</string>
+    <string name="easy_tether_statusbar_connect_title_v2">"Używanie danych mobilnych %1$s"</string>
+    <string name="fast_connect_miot_stabilizer_device_connect_done">Połączono</string>
+    <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Aparat</string>
 </resources>

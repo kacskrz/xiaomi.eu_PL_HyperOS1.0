@@ -506,4 +506,6 @@ Użytkownicy innych słuchawek: zresetować słuchawki w ustawieniach Bluetooth,
     <string name="miplay_tv_cast_retry_toast">Zatrzymaj projekcję i spróbuj ponownie</string>
     <string name="miui_dnd_mode_off">Nie przeszkadzać wył.</string>
     <string name="miui_dnd_mode_on">Nie przeszkadzać wł.</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Zakończono udostępnianie dźwięku</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">Dodaj słuchawki, aby udostępnić dźwięk</string>
 </resources>

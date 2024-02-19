@@ -663,4 +663,5 @@ z przedniego aparatu"</string>
   <string name="open_system_optimization">Najpierw włącz optymalizację systemu</string>
   <string name="wallpaper_floral_arrangement_title">Kwiaty</string>
   <string name="wallpaper_gradient_title">Gradient</string>
+  <string name="toast_camera_satellite_mutually_exclusive">"Nie można korzystać z aparatu podczas połączenia satelitarnego"</string>
 </resources>

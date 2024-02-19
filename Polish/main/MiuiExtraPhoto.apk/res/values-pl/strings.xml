@@ -267,4 +267,5 @@
     <string name="operation_redo">Ponów</string>
     <string name="operation_undo">Cofnij</string>
     <string name="acc_return">Wstecz</string>
+    <string name="acc_refocus_slider">Dostosowywanie rozmycia tła. Obecny poziom: %s</string>
 </resources>

@@ -2490,4 +2490,21 @@ Ten tablet nie jest wyposażony w słuchawki. Możesz przełączyć w tryb gło�
     <string name="volte_switch_globalization_prompt_title">Uwaga</string>
     <string name="can_not_use">"Nie można użyć"</string>
     <string name="msim_select_default_last">Ostatnio używana</string>
+    <string name="depopulated_zone_satellite_notification">Powiadomienie dot. strefy wyludnionej (satelita)</string>
+    <string name="new_arrears_sim_summary">Możesz nie mieć środków na koncie lub mieć problemy z siecią. Aby dowiedzieć się więcej, skontaktuj się ze swoim operatorem.</string>
+    <string name="new_arrears_sim_title">"Nie można się połączyć z Internetem"</string>
+    <string name="satellite_camera_enable_toast">Zamknij aparat przed użyciem usług Tiantong Satellite</string>
+    <string name="satellite_exit_now_battery">Wyjdź teraz</string>
+    <string name="satellite_low_battery">Masz mniej niż 5%% baterii. System zakończy połączenie Tiantong satellite za %d sekund.</string>
+    <string name="satellite_not_show_again">"Nie pokazuj ponownie"</string>
+    <string name="satellite_notification_text">Wchodzisz do strefy wyludnionej. Zalecamy włączenie połączenia satelitarnego.</string>
+    <string name="satellite_notification_title">Włącz alerty dot. połączenia salitarnego</string>
+    <string name="satellite_select_enable_sim">Wybierz kartę SIM</string>
+    <string name="satellite_signal_boost_setting_summary">Specjalny pasek może wzmocnić siłę sygnału i poprawić stabilność połączenia przez satelitę w różnych warunkach pogodowych (np. przy pochmurnym niebie).</string>
+    <string name="satellite_signal_boost_setting_title">Użyj akcesoriów wzmacniania sygnału Tiantong</string>
+    <string name="satellite_start">OK</string>
+    <string name="satellite_start_battery">OK</string>
+    <string name="satellite_thermal_hangup_delay">Urządzenie jest przegrzane. Połączenie zakończy się za %d sekund. Poczekaj, aż urządzenie się schłodzi.</string>
+    <string name="satellite_user_reminder">"W trakcie połączenia satelitarnego przełączniki sieci Wi-Fi i danych mobilnych zostaną wyłączone. Nie będzie można korzystać z aparatu. Te funkcje zostaną przywrócone po zakończeniu połączenia.
+Funkcja jest dostępna tylko dla użytkowników kart China Telecom, którzy aktywowali funkcję połączenia satelitarnego. Aby dowiedzieć się więcej o odpowiednich procedurach aktywacji i opłatach, skontaktuj się z infolinią China Telecom.</string>
 </resources>

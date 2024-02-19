@@ -594,4 +594,5 @@ Magazyn danych logowania może nie zostać włączony"</string>
     <string name="notification_channel_call_streaming">Strumieniowanie połączenia</string>
     <string name="redirect_system_dialer_toast">Wystąpił błąd z aplikacją %s. Przełączam się na systemowy dialer.</string>
     <string name="satellite_only_support_one_call">"Nie można dodać więcej połączeń podczas korzystania z połączenia satelitarnego"</string>
+    <string name="satellite_thermal_hangup_now">Urządzenie jest przegrzane. Poczekaj, aż się schłodzi, zanim spróbujesz wykonać połączenie.</string>
 </resources>

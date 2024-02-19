@@ -13560,4 +13560,5 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="display_notification_icon_5">%d ikon</string>
     <string name="display_notification_icon_7">%d ikon</string>
     <string name="small_window_not_support_add_data_toast">"Nie można rejestrować danych w pływających oknach. Przełącz na tryb pełnoekranowy i spróbuj ponownie."</string>
+    <string name="wireless_display">Ekran bezprzewodowy</string>
 </resources>

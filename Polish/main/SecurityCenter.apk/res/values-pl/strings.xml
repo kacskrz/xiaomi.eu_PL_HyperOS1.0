@@ -6451,4 +6451,5 @@ Urządzenie może się nagrzać i zużywać więcej energii."</string>
     <string name="summary_virus_scan_model">Usuń te zagrożenia jak najszybciej</string>
     <string name="vb_mv_style_close_toast">Styl wyłączony</string>
     <string name="vb_vison_dynamic_enhance_close_toast">Ulepszone animacje są wyłączone</string>
+    <string name="fold_application_mode_name">Układy aplikacji</string>
 </resources>
