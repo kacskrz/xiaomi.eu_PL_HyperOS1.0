@@ -523,68 +523,6 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
     <string name="framework_introduction">Framework usług Xiaomi to podstawowa usługa systemowa, która dostarcza powiadomienia push, ochronę przed zagrożeniami, statystyki i możliwości analityki. Aby dostarczać te usługi, Xiaomi musi gromadzić i przetwarzać odpowiednie dane osobowe. W trakcie wykonywaia tych czynności Xiaomi będzie działać zgodnie z odpowiednimi przepisami i regulacjami.</string>
     <string name="framwork_base_service">"Aby dostarczać powiadomienia push, konieczne jest gromadzenie identyfikatorów urządzenia (OAID i zaszyfrowany ID Androida), informacji o aplikacjach używających usługi push (np. nazwy pakietu aplikacji, wersji i statusu uruchomienia), producenta urządzenia, jego modelu, pamięci, wersji systemu, regionu, nazwy operatora karty SIM, obecnego typu sieci i stanu sieci Wi-Fi. Możesz zmienić sposób otrzymywania powiadomień push w Ustawieniach; będziemy dostarczać je na podstawie Twoich preferencji, zatem gromadzić będziemy również te preferencje (np. w kwestii blokowania powiadomień czy ich pojawiania się na ekranie blokady).
   W celu ochrony przed zagrożeniami, statystyk i przetwarzania analitycznego, potrzebne jest uprawnienie dostępu do sieci oraz dostęp do lokalizacji, IMEI/IMSI urządzenia, identyfikatorów urządzenia (OAID, adresu MAC, zaszyfrowanego ID Androida), producenta urządzenia, jego modelu, pamięci, wersji systemu, regionu i obecnej sieci Wi-Fi. Powyższe dane będą gromadzone raz dziennie przez cały czas korzystania z urządzenia."</string>
-   <string name="interconnection_service_summary_china">"Usługi łączności między urządzeniami Xiaomi pozwalają na bezprzewodową interakcję urządzeń. Są to Mi Smart Play, projekcja, handoff aplikacji, Pulpit+, współdzielony schowek, robienie zdjęć między urządzeniami, asystent sieci, udostępniane klawiatury i mikrofony, udostępniany aparat oraz Mi Smart Hub. Usługi łączności między urządzeniami Xiaomi muszą łączyć się z Internetem i wymagają następujących uprawnień:
-\u0009\u0009Mi Smart Play i projekcja:
-\u0009\u0009Włączanie lub wyłączanie Bluetooth
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu do łączenia się z nimi przez Bluetooth
-\u0009\u0009Włączanie i wyłączanie Wi-Fi
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania elementów przez Wi-Fi
-\u0009\u0009Przesyłanie elementów do innych urządzeń
-\u0009\u0009W celu ustanowienia połączenia Bluetooth między urządzeniami i przesłania elementów
-\u0009\u0009Dostęp do lokalizacji
-\u0009\u0009W celu uzyskiwania informacji z urządzeń w pobliżu
-\u0009\u0009Nagrywanie wewnętrznego dźwięku urządzenia
-\u0009\u0009W celu przesyłania i odtwarzania dźwięku między urządzeniami w trakcie projekcji i klonowania ekranu
-\u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
-\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
-\u0009\u0009Dostęp do adresu MAC
-\u0009\u0009W celu rozpoznawania połączonych urządzeń
-\u0009\u0009Dostęp do zawartości ekranu
-\u0009\u0009W celu uzyskiwania zawartości ekranu w trakcie nagrywania lub projekcji, w tym wrażliwych danych takich jak dźwięk, hasła, zdjęcia, wiadomości itd.
-\u0009\u0009Handoff aplikacji i Pulpit+:
-\u0009\u0009Włączanie lub wyłączanie Bluetooth
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu przez Bluetooth
-\u0009\u0009Włączanie i wyłączanie Wi-Fi
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania elementów przez Wi-Fi
-\u0009\u0009Dostęp do adresu MAC
-\u0009\u0009W celu rozpoznawania połączonych urządzeń
-\u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
-\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
-\u0009\u0009Przesyłanie elementów do innych urządzeń
-\u0009\u0009W celu ustanowienia połączenia Bluetooth między urządzeniami i przesyłania elementów
-\u0009\u0009Nagrywanie wewnętrznego dźwięku urządzenia
-\u0009\u0009W celu przesyłania i odtwarzania dźwięku między urządzeniami w trakcie projekcji i klonowania ekranu
-\u0009\u0009Dostęp do zawartości ekranu
-\u0009\u0009W celu uzyskiwania zawartości ekranu w trakcie nagrywania lub projekcji, w tym wrażliwych danych takich jak dźwięk, hasła, zdjęcia, wiadomości itd.
-\u0009\u0009Współdzielony schowek i robienie zdjęć między urządzeniami:
-\u0009\u0009Włączanie lub wyłączanie Bluetooth
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu przez Bluetooth
-\u0009\u0009Włączanie i wyłączanie Wi-Fi
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania elementów przez Wi-Fi
-\u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
-\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
-\u0009\u0009Dostęp do schowka
-\u0009\u0009W celu umożliwienia aplikacjom dostępu do skopiowanej zawartości
-\u0009\u0009Asystent sieci, współdzielone klawiatury i mikrofony, współdzielony aparat:
-\u0009\u0009Włączanie lub wyłączanie Bluetooth
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu przez Bluetooth
-\u0009\u0009Włączanie i wyłączanie Wi-Fi
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania danych przez Wi-Fi
-\u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
-\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
-\u0009\u0009Dostęp do aparatu
-\u0009\u0009W celu robienia zdjęć i filmów
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Włączanie lub wyłączanie Bluetooth
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu przez Bluetooth
-\u0009\u0009Włączanie lub wyłączanie Wi-Fi
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania elementów przez Wi-Fi
-\u0009\u0009Nagrywanie wewnętrznego dźwięku urządzenia
-\u0009\u0009W celu przesyłania i odtwarzania dźwięku między urządzeniami w trakcie projekcji i klonowania ekranu
-\u0009\u0009Dostęp do zdjęć, filmów i dźwięków przechowywanych na urządzeniu
-\u0009\u0009W celu przesyłania i otrzymywania przesyłanej zawartości
-Jeśli nie zgodzisz się na przyznanie tych uprawnień, nie będzie można używać tych usług.
-Dostępne usługi łączności między urządzeniami mogą się różnić w zależności od wersji systemu i modelu urządzenia. Więcej informacji znajdziesz na stronie %s."</string>
     <string name="permission_uniquely_identifiable_information">Dostęp do unikalnych identyfikatorów urządzenia</string>
     <string name="permission_uniquely_identifiable_information_summary">Dostęp do adresu MAC i OAID urządzenia w celu odnajdywania, łączenia i komunikowania się z innymi urządzeniami</string>
     <string name="permission_use_bluetooth">Używanie Bluetooth</string>

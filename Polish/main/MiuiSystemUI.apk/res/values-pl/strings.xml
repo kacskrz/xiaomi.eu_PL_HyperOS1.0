@@ -4062,10 +4062,8 @@ kliknij dwukrotnie"</string>
     <string name="pin_toast_nav">Przytrzymaj przyciski Wstecz i Podgląd, aby odpiąć tę aplikację</string>
     <string name="qs_control_big_tile_click_cellular_tether_tip">Wyjdź z Drugiej przestrzeni i spróbuj ponownie</string>
     <string name="qs_control_big_tile_connect_share_network_fail">"Nie udało się połączyć z siecią danych mobilnych. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
-    <string name="qs_control_big_tile_state_closed">Wył.</string>
     <string name="qs_control_big_tile_state_tethered_wifi">"Używanie sygnału Wi-Fi telefonu"</string>
     <string name="qs_control_big_tile_state_tethered_wlan">"Używanie sygnału Wi-Fi telefonu"</string>
-    <string name="qs_control_big_tile_state_unavailable">Niedostępny</string>
     <string name="quick_settings_cellular_state_change_message_connected">Połączono z siecią danych mobilnych</string>
     <string name="quick_settings_cellular_state_change_message_disconnected">Rozłączono z siecią danych mobilnych</string>
 </resources>

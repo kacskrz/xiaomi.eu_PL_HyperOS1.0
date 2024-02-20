@@ -37,7 +37,6 @@
   <string name="hide_when_fullscreen_intro">Asystent dotyku nie będzie pokazywany, gdy aplikacje przejdą w tryb pełnego ekranu</string>
   <string name="mi_ai">Skróty SI Mi</string>
   <string name="mi_wallet_summary">Transport card/Mi Pay/Key card</string>
-  <string name="motion_behavior">Tryb ruchu</string>
   <string name="name_alipay_payment_code">Alipay quick pay</string>
   <string name="name_alipay_scan">Alipay scan code</string>
   <string name="name_all_mipay_cards">Mi Pay</string>

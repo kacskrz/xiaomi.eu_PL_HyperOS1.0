@@ -607,7 +607,6 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
   <string name="toast_fill_brackets">W Twoim zgłoszeniu brakuje pewnych informacji</string>
   <string name="toast_loading_app_id">Uzyskiwanie informacji…</string>
   <string name="toast_log_not_exists">Wymagany log został usunięty lub nie istnieje</string>
-  <string name="toast_log_too_large">"Nie można wysłać logu, gdyż jest za duży."</string>
   <string name="toast_module_required">Zaznacz element</string>
   <string name="toast_network_unavailable">Nie udało się wysłać. Nie udało się połączyć z siecią.</string>
   <string name="toast_pending_log_collection">Zbieranie danych, proszę czekać</string>
