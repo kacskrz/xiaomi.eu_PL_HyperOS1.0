@@ -1478,4 +1478,22 @@ Spróbuj ponownie."</string>
     <string name="miuix_navigator_multiple_choice">Wybierz</string>
     <string name="miuix_navigator_navigator_switch_description">Ukryj pasek boczny</string>
     <string name="add_to_block_cta_failed">Nadaj Panelowi sterowania wymagane uprawnienia, aby móc dodawać elementy do listy blokowanych</string>
+    <string name="cannot_send_location">Przyznaj uprawnienia lokalizacji</string>
+    <string name="cannot_send_mms">"MMS-y nie są wspierane w komunikacji satelitarnej"</string>
+    <string name="carry_current_location">Załącz obecną lokalizację</string>
+    <string name="emergency_label">Kontakt alarmowy</string>
+    <string name="enable_location_service">Wymagane uprawnienia</string>
+    <string name="hold_hand_with_sending">Wysyłanie SMS-a. Trzymaj nieruchomo.</string>
+    <string name="item_over_quantity">Wybierz maks. %d SMS-ów zawierających lokalizację</string>
+    <string name="item_shortage">Wybierz min. %d SMS-ów zawierających lokalizację</string>
+    <string name="menu_locus_map">Mapa podróży</string>
+    <string name="my_location">Moja lokalizacja:</string>
+    <string name="not_send_location">Nie teraz</string>
+    <string name="open_now">Ustawienia</string>
+    <string name="satellite_location_failed">"Nie udało się wysłać lokalizacji. Wysłano SMS-a bez niej."</string>
+    <string name="satellite_location_privacy"><Data>Satelita Tiantong musi uzyskać Twoją lokalizację, aby móc wysłać SMS-a. Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;font color=\"%1$s\">&lt;a href=\"%2$s\">Polityki prywatności&lt;/a>&lt;/font>.</Data></string>
+    <string name="satellite_location_privacy_title">Dostęp do lokalizacji</string>
+    <string name="satellite_message_notification_contact_end">(Wysyłanie przez satelitę)</string>
+    <string name="satellite_sms_notification">Ta wiadomość została wysłana za pomocą usług satelity Tiantong Satellite. Nadawca może potrzebować Twojej pomocy.</string>
+    <string name="send_sms_with_location">Aby móc wysyłać SMS-y zawierające Twoją lokalizację, zezwól tej aplikacji na dostęp do niej. Możesz to zrobić w Ustawieniach.</string>
 </resources>

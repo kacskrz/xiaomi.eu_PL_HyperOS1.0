@@ -482,14 +482,15 @@ aby umieścić ikonę satelity w niebieskim polu"</string>
     <string name="satellite_guide_searching_floating">Szukanie…</string>
     <string name="satellite_guide_up">"Podnieś urządzenie do góry,
 aby umieścić piłkę w niebieskim polu"</string>
-    <string name="satellite_incall_tip">Włączono głośnik</string>
+    <string name="satellite_incall_tip">Nie można używać słuchawki podczas rozmowy satelitarnej</string>
     <string name="satellite_service_provider">Usługę dostarcza China Telecom</string>
     <string name="satellite_state">"Nie ruszaj urządzeniem"</string>
-    <string name="satellite_state_connected">"Połączono z satelitą. Nie ruszaj urządzeniem."</string>
+    <string name="satellite_state_connected">"Połączono z satelitą
+Utrzymuj urządzenie w tym położeniu"</string>
     <string name="satellite_state_connected_floating">"Nie ruszaj urządzeniem"</string>
     <string name="focus_notification_on_ringing">Połączenie</string>
     <string name="satellite_diable_earpiece">"Nie można użyć głośnika do rozmów w połączeniach satelitarnych"</string>
-    <string name="satellite_state_connecting">Łączenie… (%d s)</string>
+    <string name="satellite_state_connecting">Łączenie z satelitą (%d s)</string>
     <string name="app_disable_description_text">"Jeśli wyłączysz tę aplikację, nie będzie można wykonywać lub odbierać połączeń, a także używać innych związanych z tym funkcji. Ponieważ to aplikacja systemowa, nie można jej odinstalować."</string>
     <string name="app_disable_title_text">Wyłączyć aplikację?</string>
     <string name="satellite_state_auto_exit">Wyjdź (%d s)</string>
@@ -502,7 +503,19 @@ aby umieścić piłkę w niebieskim polu"</string>
     <string name="satellite_debug_evevation">Wysokość</string>
     <string name="satellite_debug_rssi">Siła sygnału</string>
     <string name="satellite_debug_satellite">Satelita</string>
-    <string name="satellite_guide_azimuth">Poruszaj, dopóki ikona satelity nie znajdzie się w niebieskim polu</string>
-    <string name="satellite_guide_elevation">Poruszaj, dopóki ikona satelity nie znajdzie się w niebieskim okręgu</string>
-    <string name="satellite_satellite_accessory">"Używam narzędzi wzmacniających sygnał Tiantong Satellite"</string>
+    <string name="satellite_guide_azimuth">Poruszaj, dopóki satelita nie znajdzie się w obszarze skanowania</string>
+    <string name="satellite_guide_elevation">Przenieś niebieski okrąg na satelitę i utrzymaj go tam</string>
+    <string name="satellite_satellite_accessory">"Używam wzmacniacza sygnału satelity"</string>
+    <string name="flip_expand_conference_call_text">Rozłóż, aby zarządzać konferencją</string>
+    <string name="flip_expand_suport_videocall_text">Rozłóż, aby zobaczyć opcje wideokonferencji</string>
+    <string name="flip_expand_switch_call_text">Rozłóż, aby przełączyć się na rozmowę wielokanałową</string>
+    <string name="flip_video_incoming_call_label">Wideokonferencja</string>
+    <string name="satellite_guide_azimuth_floating">Wejdź w obszar skanowania</string>
+    <string name="satellite_guide_azimuth_in">Satellta jest w obszarze skanowania</string>
+    <string name="satellite_guide_azimuth_in_floating">Satellta jest w obszarze skanowania</string>
+    <string name="satellite_guide_azimuth_leave">Satelita opuściła obszar skanowania</string>
+    <string name="satellite_guide_azimuth_leave_floating">Oddalasz się</string>
+    <string name="satellite_guide_elevation_floating">Umieść okrąg na satelicie</string>
+    <string name="satellite_guide_signal">Aby uzyskać lepszy sygnał, delikatnie poruszaj urządzeniem w górę i w dół</string>
+    <string name="satellite_state_connecting_floating">Łączenie (%d s)</string>
 </resources>

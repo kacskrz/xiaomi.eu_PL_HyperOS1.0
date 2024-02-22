@@ -1677,4 +1677,7 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="miuix_navigator_content_switch_description">Pokaż pasek boczny</string>
   <string name="miuix_navigator_multiple_choice">Wybierz</string>
   <string name="miuix_navigator_navigator_switch_description">Ukryj pasek boczny</string>
+  <string name="hint_distance">Aby mieć pewność, że oba urządzenia pozostaną połączone, nie oddalaj ich od siebie w trakcie procesu importowania.</string>
+  <string name="notification_title_export">Eksport kontaktów</string>
+  <string name="notification_title_import">Import kontaktów</string>
 </resources>

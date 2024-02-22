@@ -6438,7 +6438,7 @@ Urządzenie może się nagrzać i zużywać więcej energii."</string>
     <string name="pc_wireless_charging_special_stand_summary2">Najlepsze ładowanie uzyskasz, umieszczając urządzenie na podstawce dołączonej do ładowarki bezprzewodowej</string>
     <string name="pc_wireless_charging_special_stand_title">Użyj dołączonej podstawki</string>
     <string name="pc_wireless_handle_connected">Podłączono urządzenie</string>
-    <string name="pc_wireless_handle_title">Bezprzewodowy uchwyt do aparatu</string>
+    <string name="pc_wireless_handle_title">Uchwyt do aparatu</string>
     <string name="permission_group_file_less_t">To uprawnienie umożliwia aplikacjom dostęp do zdjęć, filmów, dźwięków i innych plików przechowywanych na tym urządzeniu.</string>
     <string name="power_ntc_dialog_btn_finish">OK</string>
     <string name="power_ntc_dialog_msg">Odłącz ładowarkę. Wyczyść i wysusz port ładowania przed kolejnym użyciem.</string>

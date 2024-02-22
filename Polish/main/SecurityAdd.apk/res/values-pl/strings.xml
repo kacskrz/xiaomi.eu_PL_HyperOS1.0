@@ -429,4 +429,5 @@
   <string name="gb_pannel_control_mode_picture">Priorytet jakości obrazu</string>
   <string name="gb_gpu_pannel_touch_ctl_dialog_message">"Kontrola dotykowa została zaktualizowana. Związane z nią funkcje możesz teraz znaleźć podczas grania w Skrótach gier > Kontrole ruchu."</string>
   <string name="gb_gpu_pannel_touch_ctl_dialog_title">Nowe narzędzia kontroli dotyku</string>
+  <string name="super_power_satellite_endurance_time">Można wykonywać połączenie z satelitą przez ≈%1$s %2$s</string>
 </resources>

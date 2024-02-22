@@ -151,4 +151,9 @@ Pozostało prób: %d."</item>
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="satellite_low_battery">
+        <item quantity="other">Masz mniej niż %1$s baterii. Wyłączanie połączenia z satelitą Tiantong za %2$d sekund.</item>
+        <item quantity="few">Masz mniej niż %1$s baterii. Wyłączanie połączenia z satelitą Tiantong za %2$d sekundy.</item>
+        <item quantity="one">Masz mniej niż %1$s baterii. Wyłączanie połączenia z satelitą Tiantong za %2$d sekundę.</item>
+    </plurals>
 </resources>

@@ -138,4 +138,12 @@
         <item quantity="other">%s min.</item>
         <item quantity="one">%s min.</item>
     </plurals>
+    <plurals name="satellite_endurance_hour">
+        <item quantity="other">%s godz.</item>
+        <item quantity="one">%s godz.</item>
+    </plurals>
+    <plurals name="satellite_endurance_minute">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
 </resources>
