@@ -156,8 +156,8 @@
     </string-array>
     <string-array name="aqi_detail_title">
         <item>Dobra</item>
+        <item>W normie</item>
         <item>Średnia</item>
-        <item>Zła dla pewnych osób</item>
         <item>Zła</item>
         <item>Bardzo zła</item>
         <item>Niebezpieczna</item>
