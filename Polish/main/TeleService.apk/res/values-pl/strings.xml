@@ -2538,4 +2538,11 @@ Aby potwierdzić, że zapoznałeś się i akceptujesz warunki tego dokumentu, do
     <string name="satellite_use_title">Dlaczego korzystać z połączenia satelitarnego?</string>
     <string name="satellite_mobile_settings_summary">Wspierane tylko przez karty SIM China Telecom obsługujące satelitę oraz karty innych operatorów obsługujących tę opcję</string>
     <string name="satellite_mobile_settings_title">Włącz połączenia satelitarne</string>
+    <string name="satellite_call_indoor_positioning_message">"Gdy w urządzeniu nie znajduje się karta SIM obsługująca połączenia satelitarne i znajdujesz się wewnątrz budynku, jako domyślna lokalizacja używany jest Park Nauki i Technologii Xiaomi. Pozwala to na zademonstrowanie lokalizowania satelit."</string>
+    <string name="satellite_call_indoor_positioning_title">"Dlaczego, gdy jestem wewnątrz budynku, lokalizacja mojego urządzenia to Park Nauki i Technologii Xiaomi?"</string>
+    <string name="satellite_display_insert_support_card_message">Aby korzystać z połączenia z satelitą Tiantong, włóż kartę SIM China Telecom wspierającą połączenia satelitarne.</string>
+    <string name="satellite_display_insert_support_card_title">Włóż kartę SIM obsługującą satelitę</string>
+    <string name="satellite_display_message">"Wygląda na to, że Twoja karta SIM nie wspiera połączenia z satelitą Tiantong. Aby korzystać z tej funkcji, włóż kartę SIM China Telecom wspierającą połączenia satelitarne. Przejść dalej mimo to?"</string>
+    <string name="satellite_display_search_star">Kontynuuj</string>
+    <string name="satellite_knew">OK</string>
 </resources>
