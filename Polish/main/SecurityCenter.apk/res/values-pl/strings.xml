@@ -6452,8 +6452,5 @@ Urządzenie może się nagrzać i zużywać więcej energii."</string>
     <string name="vb_mv_style_close_toast">Styl wyłączony</string>
     <string name="vb_vison_dynamic_enhance_close_toast">Ulepszone animacje są wyłączone</string>
     <string name="fold_application_mode_name">Układy aplikacji</string>
-    <string name="app_manager_default_close_summary">nie ustawiono domyślnych działań.</string>
-    <string name="app_manager_default_open_summary">Wybrałeś domyślne uruchamianie tej aplikacji dla niektórych działań.</string>
-    <string name="app_manager_default_open_title">Wyczyść ustawienia domyślne</string>
     <string name="vtb_ai_subtitle_intl">Napisy SI</string>
 </resources>

@@ -11957,13 +11957,6 @@ Uruchom urządzenie ponownie i spróbuj jeszcze raz."</string>
     <string name="scanning_status_text_wifi_on_ble_off">Skanowanie Wi-Fi jest włączone, skanowanie Bluetooth jest wyłączone</string>
     <string name="scanning_status_text_wifi_on_ble_on">Skanowania Wi-Fi i Bluetooth są włączone</string>
     <string name="screen_monochrome_mode_range_title">Zakres</string>
-    <string name="screen_pinning_dialog_message">"Przypięta aplikacja: 
-
-•\u0009 ma dostęp do danych osobowych 
-\u0009\u0009(takich jak kontakty i treść e-maili); 
-•\u0009 może otwierać inne aplikacje. 
-
-Używaj przypinania aplikacji tylko z zaufanymi osobami."</string>
     <string name="se_wallet_uicc_jp">Porftel %1$s SIM (Nie może być wybrany automatycznie)</string>
     <string name="security_settings_face_enroll_done">Gotowe</string>
     <string name="security_settings_face_enroll_education_start">Rozpocznij</string>
@@ -13584,5 +13577,4 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="sos_navigation_guide_title">Przyciski głośności w trybie Alarmowego sygnału SOS</string>
     <string name="sos_satellite_dialog_message">"Wygląda na to, że w tym rejonie nei są dostępne sieci komórkowe. Nie możesz wykonywać połączeń, nawet alarmowych. Włączyć komunikację z satelitą Tiantong?"</string>
     <string name="sos_satellite_dialog_title">Włącz komunikację z satelitą Tiantong</string>
-    <string name="screen_pinning_summary">Przypięte aplikacje pozostaną w menu Ostatnich aplikacji, dopóki ich nie odepniesz</string>
 </resources>

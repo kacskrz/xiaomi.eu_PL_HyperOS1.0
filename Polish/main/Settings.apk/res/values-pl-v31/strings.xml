@@ -39,12 +39,6 @@ Ulepszone powiadomienia mogą czytać całą zawartość powiadomień, w tym inf
     <string name="notification_assistant_title">Ulepszone powiadomienia</string>
     <string name="repeat_call_info">Powtórne połączenia od tej samej osoby (w ciągu %d minut) nie będą wyciszane</string>
     <string name="restricted_app_detail_footer">Te aplikacje mają ograniczenia dotyczące wykorzystania baterii w tle. Mogą nie działać prawidłowo, a powiadomienia mogą być opóźnione.</string>
-    <string name="screen_pinning_description">"Przypięta aplikacja może otwierać inne aplikacje, a dane osobowe mogą być dostępne. 
-
-Aby używać przypinania aplikacji: \u0009
-1.\u0009Włącz przypinanie aplikacji. \u0009
-2.\u0009Otwórz Przegląd. \u0009
-3.\u0009Kliknij ikonę aplikacji u góry ekranu, a następnie kliknij Przypnij."</string>
     <string name="screen_pinning_guest_user_description">"Przypięta aplikacja może otwierać inne aplikacje, a dane osobowe mogą być dostępne. 
 
 Jeśli chcesz przekazać komuś swoje urządzenie w bezpieczny sposób, skorzystaj raczej z profilu gościa. 
