@@ -338,7 +338,7 @@ i dopasuj skanowane dokumenty"</string>
   <string name="face_beauty_smart">Inteligentna</string>
   <string name="face_score_info">Wynik: %.1f</string>
   <string name="find_other_qrcode">Wykryto kod QR</string>
-  <string name="fps960_toast">Nagrywanie w 960 kl./s zacznie się, gdy odliczanie się zakończy</string>
+  <string name="fps960_toast">Nagrywanie w zwolnionym tempie zacznie się w ostatniej części nagrania</string>
   <string name="front_camera_hint_text_confirm">Rozumiem</string>
   <string name="front_camera_hint_text_place">"Obróć telefon, aby łatwiej robić selfie"</string>
   <string name="front_camera_hint_text_rotate">Obróć telefon</string>
@@ -2340,7 +2340,7 @@ Zalecamy połączenie się z sieciami Wi-Fi %s GHz, które obsługują standard 
     <string name="parameter_peak_raw_description_mm">Pliki RAW przechwytują nieskompresowane dane i oferują więcej opcji edycji obrazu.</string>
     <string name="parameter_peak_raw_title_mm">Format obrazu</string>
     <string name="parameter_peak_ultra_raw_description_mm">"Pliki RAW przechwytują nieskompresowane dane i oferują więcej opcji edycji obrazu.
-Obrazy Ultra RAW pozwalają zaoszczędzić %d bitów danych, zachowując jeszcze więcej szczegółów."</string>
+Obrazy Ultra RAW pozwalają zapisać %d bitów danych, zachowując jeszcze więcej szczegółów."</string>
     <string name="parameter_waveform_title">Przebieg fali</string>
     <string name="pref_camera_auto_hibernation_desc">Wyłącz ekran po %d minutach nieaktywności, aby zaoszczędzić energię podczas nagrywania filmów zwykłych lub poklatkowych, za pomocą samowyzwalacza seryjnego lub długiego czasu ekspozycji.</string>
     <string name="pref_camera_heic_image_format_desc3">Format plików graficznych o wysokiej wydajności oszczędza miejsce w pamięci w trybie Zdjęć i Ultra HD, ale nie jest obsługiwany przez niektóre aplikacje firm trzecich. W formacie HEIF nie możesz robić Dynamicznych ujęć i usuwać znaków wodnych.</string>
