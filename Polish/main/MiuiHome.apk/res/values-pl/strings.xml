@@ -1023,4 +1023,5 @@ Zwiększone bezpieczeństwo."</string>
   <string name="system_shortcuts_icon_remove">Usuń</string>
   <string name="recent_pin_text">Przypnij</string>
   <string name="system_sdk_disabled_toast">Systemowy SDK został wyłączony. Włącz go.</string>
+  <string name="switch_personal_assistant_summary">Przesuń w prawo na pulpicie, aby włączyć Google Discover</string>
 </resources>

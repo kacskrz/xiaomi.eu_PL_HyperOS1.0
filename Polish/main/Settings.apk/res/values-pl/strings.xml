@@ -13575,6 +13575,10 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="sos_area_code_settings_title">Ustaw kod kraju</string>
     <string name="sos_navigation_guide_message">Naciśnij przycisk Głośności-, aby nawigować, a następnie przytrzymaj przycisk Głośność+, aby potwierdzić wybór</string>
     <string name="sos_navigation_guide_title">Przyciski głośności w trybie Alarmowego sygnału SOS</string>
-    <string name="sos_satellite_dialog_message">"Wygląda na to, że w tym rejonie nei są dostępne sieci komórkowe. Nie możesz wykonywać połączeń, nawet alarmowych. Włączyć komunikację z satelitą Tiantong?"</string>
+    <string name="sos_satellite_dialog_message">"Wygląda na to, że w tym rejonie nie są dostępne sieci komórkowe. Nie możesz wykonywać połączeń, nawet alarmowych. Włączyć komunikację z satelitą Tiantong?"</string>
     <string name="sos_satellite_dialog_title">Włącz komunikację z satelitą Tiantong</string>
+    <string name="international_lyra_account_ap_summary">"Zezwól komputerom i tabletom w pobliżu zalogowanym na Twoje konto Xiaomi na automatyczne włączenie i połączenie się z hotspotem tego urządzenia"</string>
+    <string name="international_lyra_account_ap_title">Synchronizacja sieci</string>
+    <string name="international_lyra_auto_connect_summary">"Gdy urządzenie w pobliżu jest zalogowane na Twoje konto Xiaomi i musi się połączyć z Internetem, automatycznie włączy hotspot na tym urządzeniu i połączy się z nim"</string>
+    <string name="international_lyra_auto_connect_title">Automatyczne łączenie z hotspotem</string>
 </resources>
