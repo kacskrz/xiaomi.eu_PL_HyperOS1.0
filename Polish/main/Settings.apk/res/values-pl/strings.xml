@@ -13581,4 +13581,15 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="international_lyra_account_ap_title">Synchronizacja sieci</string>
     <string name="international_lyra_auto_connect_summary">"Gdy urządzenie w pobliżu jest zalogowane na Twoje konto Xiaomi i musi się połączyć z Internetem, automatycznie włączy hotspot na tym urządzeniu i połączy się z nim"</string>
     <string name="international_lyra_auto_connect_title">Automatyczne łączenie z hotspotem</string>
+    <string name="camera_grip_firmware_save_button_know">OK</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Nie teraz</string>
+    <string name="camera_grip_firmware_save_button_positive">Aktualizuj</string>
+    <string name="camera_grip_firmware_save_channel">Powiadomienia dot. uchwytu aparatu</string>
+    <string name="camera_grip_firmware_save_networking_tips">Połącz się z siecią Wi-Fi lub włącz dane mobilne i spróbuj ponownie zaktualizować oprogramowanie.</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Połącz się z siecią Wi-Fi lub włącz dane mobilne i spróbuj ponownie zaktualizować oprogramowanie.</string>
+    <string name="camera_grip_firmware_save_text">Aby dalej korzystać z tego urządzenia, zaktualizuj jego oprogramowanie.</string>
+    <string name="camera_grip_firmware_save_title">Profesjonalny uchwyt aparatu</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Usuń swój uchwyt aparatu, naładuj to urządzenie i spróbuj ponownie zaktualizować oprogramowanie</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Przed aktualizacją oprogramowania naładuj to urządzenie oraz swój uchwyt aparatu</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Podłącz ładowarkę do tego urządzenia i spróbuj ponownie zaktualizować oprogramowanie</string>
 </resources>
