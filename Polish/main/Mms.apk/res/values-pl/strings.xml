@@ -1496,4 +1496,25 @@ Spróbuj ponownie."</string>
     <string name="satellite_message_notification_contact_end">(Wysyłanie przez satelitę)</string>
     <string name="satellite_sms_notification">Ta wiadomość została wysłana za pomocą usług satelity Tiantong Satellite. Nadawca może potrzebować Twojej pomocy.</string>
     <string name="send_sms_with_location">Aby móc wysyłać SMS-y zawierające Twoją lokalizację, zezwól tej aplikacji na dostęp do niej. Możesz to zrobić w Ustawieniach.</string>
+    <string name="carry_vital_signs">Uwzględnij funkcje życiowe</string>
+    <string name="vital_signs_cta_body">"Dane dotyczące funkcji życiowych (w tym tętna, SpO₂ i informacji medycznych) są pobierane z Mi Fitness. Zaznaczenie poniższych opcji oznacza wyrażenie przez Ciebie zgody na dostęp do tych danych i ich wykorzystywanie.
+Aby kontrolować długość wiadomości, pobrane zostanie tylko pierwsze 50 znaków każdej informacji w karcie medycznej."</string>
+    <string name="vital_signs_cta_title">Funkcje życiowe</string>
+    <string name="vital_signs_data_allergy">Alergie: %s</string>
+    <string name="vital_signs_data_disease">Schorzenia przewlekłe: %s</string>
+    <string name="vital_signs_data_high_bpm">Wysokie tętno, ostatnio: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_high_bpm_multi">Wysokie tętno wiele razy (ost. godzina). Ostatnio: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_bpm">Niskie tętno, ostatnio: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_bpm_multi">Niskie tętno wiele razy (ost. godzina). Ostatnio: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_spo2">Niskie SpO₂, ostatnio: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_spo2_multi">Niskie SpO₂ wiele razy (ost. godzina). Ostatnio: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+    <string name="vital_signs_data_medical">Leczenie: %s</string>
+    <string name="vital_signs_toast_exception">"Nie udało się uzyskać danych funkcji życiowych"</string>
+    <string name="vital_signs_toast_health_app_low">Aby uzyskać dane funkcji życiowych, zaktualizuj Mi Fitness</string>
+    <string name="vital_signs_toast_health_app_no_install">Aby uzyskać dane funkcji życiowych, zainstaluj Mi Fitness</string>
+    <string name="vital_signs_toast_no_bpm_spo2">"Nie udało się uzyskać danych tętna i SpO₂"</string>
+    <string name="vital_signs_toast_no_data">"Nie udało się uzyskać danych funkcji życiowych"</string>
+    <string name="vital_signs_wait_body">Uzyskiwanie danych. Może to potrwać minutę.</string>
+    <string name="vital_signs_wait_skip">Pomiń</string>
+    <string name="vital_signs_wait_title">Dane funkcji życiowych</string>
 </resources>

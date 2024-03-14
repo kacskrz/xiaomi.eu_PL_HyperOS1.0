@@ -2853,4 +2853,5 @@ Odległość ostrości"</string>
     <string name="workspace_street_zoom">Długość ogniskowej: %s</string>
     <string name="workspace_street_zoom_adapter">"%s
 Długość ogniskowej"</string>
+    <string name="camera_handle_customize_button_snap">Funkcja migawki</string>
 </resources>

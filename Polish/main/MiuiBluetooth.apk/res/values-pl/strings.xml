@@ -371,15 +371,15 @@ Szyszy protokół transmisji."</string>
     <string name="headset_autoswitch_connecting">Łączenie…</string>
     <string name="headset_autoswitch_disconnected">Połączono z %1$s</string>
     <string name="headset_autoswitch_fialed">"Nie udało się połączyć"</string>
-    <string name="easy_tether_auto_connect_summary">Automatycznie włącz hotspot i zezwól na połączenie się do niego urządzeniom w pobliżu z tym samym kontem Xiaomi, gdy potrzebują one dostępu do Internetu.</string>
+    <string name="easy_tether_auto_connect_summary">Możesz włączyć hotspot i umożliwić urządzeniom w pobliżu korzystającym z Twojego konta Xiaomi automatyczne łączenie się z tym hotspotem, gdy nie mogą one uzyskać dostępu do sieci za pomocą innych metod.</string>
     <string name="easy_tether_auto_connect_toast">"Połączono z hotspotem %1$s. Ustaw limity danych w jego ustawieniach."</string>
-    <string name="easy_tether_cancel">Anuluj</string>
-    <string name="easy_tether_confirm">Potwierdź</string>
+    <string name="easy_tether_cancel">Nie</string>
+    <string name="easy_tether_confirm">Tak</string>
     <string name="easy_tether_next_auto_connect">Połączyć się automatycznie następnym razem?</string>
-    <string name="easy_tether_statusbar_auto_connected_title">Połączono z hotspotem %1$s</string>
+    <string name="easy_tether_statusbar_auto_connected_title">Połączono z hotspotem: %1$s</string>
     <string name="easy_tether_statusbar_connect_fail_title">Nie udało się połączyć</string>
-    <string name="easy_tether_statusbar_connect_title">Włącz hotspot %1$s</string>
-    <string name="easy_tether_statusbar_connecting_title">Łączenie</string>
+    <string name="easy_tether_statusbar_connect_title">Połącz się z hotspotem: %1$s</string>
+    <string name="easy_tether_statusbar_connecting_title">Łączenie…</string>
     <string name="easy_tether_statusbar_dialog_connected_title">Połączono</string>
     <string name="fast_connect_device_button_audio_share_fail">OK</string>
     <string name="fast_connect_device_message_audio_share">"Udostępniaj dźwięk tego urządzenia tym słuchawkom"</string>
@@ -404,9 +404,9 @@ Szyszy protokół transmisji."</string>
     <string name="celluar_tether_prompt">"Dzięki bezprzewodowemu tetheringowi Twój tablet może korzystać z danych mobilnych Twojego telefonu. Wygląda na to, że w pobliżu nie ma kompatybilnego z tą funkcją urządzenia Xiaomi. Upewnij się, że Twoj telefon i tablet są zalogowane na to samo konto Xiaomi, dane mobilne na Twoim telefonie są włączone, a oba urządzenia są połączone z siecią Wi-Fi."</string>
     <string name="celluar_tether_prompt_china">"Dzięki bezprzewodowemu tetheringowi Twój tablet może korzystać z danych mobilnych Twojego telefonu. Wygląda na to, że w pobliżu nie ma kompatybilnego z tą funkcją urządzenia Xiaomi. Upewnij się, że Twoj telefon i tablet są zalogowane na to samo konto Xiaomi, dane mobilne na Twoim telefonie są włączone, a oba urządzenia są połączone z siecią Wi-Fi."</string>
     <string name="cooler_reset">Naciśnij %d razy, aby sparować</string>
-    <string name="easy_tether_auto_connect_summary_v2">"Gdy w pobliżu jest urządzenie, które jest zalogowane na Twoje konto Xiaomi, ale nie ma połączenia z Internetem, możesz umożliwić mu skorzystanie z danych mobilnych bądź hotspotu tego urządzenia. Zezwolić na tę akcję?"</string>
-    <string name="easy_tether_statusbar_auto_connected_title_v2">"Używanie danych mobilnych %1$s"</string>
-    <string name="easy_tether_statusbar_connect_title_v2">"Używanie danych mobilnych %1$s"</string>
+    <string name="easy_tether_auto_connect_summary_v2">"Automatycznie włącz dane komórkowe lub hotspot i połącz się z urządzeniami w pobliżu z tym samym kontem, gdy potrzebują one dostępu do Internetu."</string>
+    <string name="easy_tether_statusbar_auto_connected_title_v2">"Połączono z danymi: %1$s"</string>
+    <string name="easy_tether_statusbar_connect_title_v2">"Połącz się z danymi: %1$s"</string>
     <string name="fast_connect_miot_stabilizer_device_connect_done">Połączono</string>
     <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Aparat</string>
 </resources>

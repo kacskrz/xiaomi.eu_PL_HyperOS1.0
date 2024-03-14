@@ -13549,8 +13549,8 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="camera_grip_firmware_update_faild">"Nie udało się zaktualizować"</string>
     <string name="camera_grip_firmware_update_ongoing">Aktualizowanie. Nie rozłączaj uchwytu.</string>
     <string name="camera_grip_firmware_update_successful">Pomyślnie zaktualizowano</string>
-    <string name="photography_handle_charge_protected">Automatyczne zatrzymanie ładowania uchwytu</string>
-    <string name="photography_handle_charge_protected_summary">"Gdy urządzenie rozpozna, że korzystasz z uchwytu aparatu, przestanie się ładować i utrzyma baterię na poziomie %1$s"</string>
+    <string name="photography_handle_charge_protected">Ochrona ładowania uchwytu</string>
+    <string name="photography_handle_charge_protected_summary">"Gdy jest podłączony uchwyt, urządzenie przestanie się ładować i utrzyma baterię na poziomie %1$s"</string>
     <string name="private_dns_host_name">Nazwa hosta dostawcy prywatnego DNS</string>
     <string name="private_dns_title">Prywatny DNS</string>
     <string name="camera_grip_firmware_update_describe">Nie rozłączaj uchwytu w trakcie aktualizacji</string>
@@ -13592,4 +13592,10 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
     <string name="camera_grip_firmware_update_handle_low_battery_notify">Usuń swój uchwyt aparatu, naładuj to urządzenie i spróbuj ponownie zaktualizować oprogramowanie</string>
     <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Przed aktualizacją oprogramowania naładuj to urządzenie oraz swój uchwyt aparatu</string>
     <string name="camera_grip_firmware_update_phone_low_battery_notify">Podłącz ładowarkę do tego urządzenia i spróbuj ponownie zaktualizować oprogramowanie</string>
+    <string name="photography_handle_charge_state">Ładuj z uchwytów aparatu</string>
+    <string name="photography_handle_charge_state_summary">"Ładuj to urządzenie z uchwytów aparatu, gdy są one podłączone"</string>
+    <string name="sos_satellite_enabled_sms_message">"Potrzebuję pomocy.
+Moje położenie:
+%s
+Wiadomość wyslana przez satelitę Tiantong. Nadawca może potrzebować pilnej pomocy."</string>
 </resources>

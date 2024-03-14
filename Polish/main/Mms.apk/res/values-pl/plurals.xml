@@ -190,4 +190,8 @@
         <item quantity="few">%d minuty temu</item>
         <item quantity="many">%d minut temu</item>
     </plurals>
+    <plurals name="vital_signs_data_bpm">
+        <item quantity="other">Tętno: %1$d BPM (%2$s)</item>
+        <item quantity="one">Tętno: %1$d BPM (%2$s)</item>
+    </plurals>
 </resources>

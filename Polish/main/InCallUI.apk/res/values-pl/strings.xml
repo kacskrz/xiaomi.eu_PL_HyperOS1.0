@@ -520,10 +520,11 @@ Utrzymuj urządzenie w tym położeniu"</string>
     <string name="satellite_state_connecting_floating">Łączenie (%d s)</string>
     <string name="satellite_get_gps_timeout">"Nie można uzyskać lokalizacji. Pozostań na otwartej przestrzeni i unikaj obiektów, które blokują sygnał."</string>
     <string name="satellite_latitude_longitude">"Obecne położenie: "</string>
-    <string name="satellite_state_connected_exp">"Pomyślnie zlokalizowano satelitę
-Włóż kartę SIM wspierającą satelitę i spróbuj ponownie"</string>
+    <string name="satellite_state_connected_exp">Pomyślnie zlokalizowano satelitę</string>
     <string name="satellite_state_connected_exp_floating">Pomyślnie zlokalizowano satelitę</string>
     <string name="satellite_state_gps_noti_content">Korzystanie z lokalizacji…</string>
     <string name="satellite_state_gps_noti_title">Połączenie z satelitą</string>
     <string name="satellite_state_occlusion_prompt">Unikaj budynków lub drzew, które mogą blokować sygnał</string>
+    <string name="align_satellite_model_use_exp">Ukończ</string>
+    <string name="satellite_dialog_cancel_exp">Anuluj</string>
 </resources>

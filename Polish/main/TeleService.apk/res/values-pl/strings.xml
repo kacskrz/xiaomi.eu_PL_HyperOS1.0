@@ -2545,4 +2545,11 @@ Aby potwierdzić, że zapoznałeś się i akceptujesz warunki tego dokumentu, do
     <string name="satellite_display_message">"Wygląda na to, że Twoja karta SIM nie wspiera połączenia z satelitą Tiantong. Aby korzystać z tej funkcji, włóż kartę SIM China Telecom wspierającą połączenia satelitarne. Przejść dalej mimo to?"</string>
     <string name="satellite_display_search_star">Kontynuuj</string>
     <string name="satellite_knew">OK</string>
+    <string name="satellite_privacy_withdrawal_dialog_disable_negative">Anuluj usługi (%d s)</string>
+    <string name="satellite_privacy_withdrawal_dialog_enable_negative">Anuluj usługi</string>
+    <string name="satellite_privacy_withdrawal_dialog_message">"Jeśli anulujesz usługi komunikacji za pomocą satelity Tiantong, Xiaomi zaprzestanie gromadzenia Twoich danych osobowych i usunie dane już zgromadzone zgodnie z odpowiednimi przepisami, chyba że inne przepisy i regulacje określą odpowiedni czas przechowywania tych danych.
+Anulować usługi?"</string>
+    <string name="satellite_privacy_withdrawal_dialog_positive">"Nie anuluj"</string>
+    <string name="satellite_privacy_withdrawal_dialog_title">Uwaga</string>
+    <string name="satellite_privacy_withdrawal_setting">Anuluj usługi komunikacji za pomocą satelity Tiantong</string>
 </resources>
