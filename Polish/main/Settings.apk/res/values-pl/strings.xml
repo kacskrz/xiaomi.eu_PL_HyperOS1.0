@@ -13598,4 +13598,9 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odbl
 Moje położenie:
 %s
 Wiadomość wyslana przez satelitę Tiantong. Nadawca może potrzebować pilnej pomocy."</string>
+    <string name="loading_eid_error_message">"Nie udało się uzyskać informacji o EID. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
+    <string name="loading_eid_error_ok">OK</string>
+    <string name="loading_eid_error_title">"Nie udało się załadować"</string>
+    <string name="loading_eid_tip">Uzyskiwanie informacji o EID…</string>
+    <string name="miui_car_diagnosis">Włącz diagnostykę auta</string>
 </resources>
