@@ -13603,4 +13603,5 @@ Wiadomość wyslana przez satelitę Tiantong. Nadawca może potrzebować pilnej 
     <string name="loading_eid_error_title">"Nie udało się załadować"</string>
     <string name="loading_eid_tip">Uzyskiwanie informacji o EID…</string>
     <string name="miui_car_diagnosis">Włącz diagnostykę auta</string>
+    <string name="title_device_control">Kontrolki urządzeń smart home</string>
 </resources>
