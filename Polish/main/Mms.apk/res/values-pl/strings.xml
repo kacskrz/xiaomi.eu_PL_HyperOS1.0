@@ -1517,4 +1517,7 @@ Aby kontrolować długość wiadomości, pobrane zostanie tylko pierwsze 50 znak
     <string name="vital_signs_wait_body">Uzyskiwanie danych. Może to potrwać minutę.</string>
     <string name="vital_signs_wait_skip">Pomiń</string>
     <string name="vital_signs_wait_title">Dane funkcji życiowych</string>
+    <string name="send_success">Pomyślnie wysłano</string>
+    <string name="wrong_mms_version_msg">"Zainstaluj wersję aplikacji SMS kompatybilną ze Twoim urządzeniem i systemem."</string>
+    <string name="wrong_mms_version_title">Błąd wersji</string>
 </resources>

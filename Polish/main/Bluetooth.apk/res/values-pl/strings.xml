@@ -266,4 +266,10 @@
   <string name="miheadset_close_broadcast_audio">Zamknij transmisję</string>
   <string name="notice_Auracast_audio_share_disconnected">Nie udostępniasz już dźwięku, ponieważ połączenie zostało przerwane</string>
   <string name="notice_audio_share_classic_disconnected">Zatrzymano udostępnianie dźwięku</string>
+  <string name="bluetooth_and_wifi_stays_on_message">"Twoje urządzenie pozostawia włączone Wi-Fi i Bluetooth w trybie samolotowym. Jeśli nie chcesz, aby tak było, wyłącz te funkcje."</string>
+  <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi i Bluetooth są włączone</string>
+  <string name="bluetooth_enabled_apm_message">"Jeśli pozostawisz włączone Bluetooth, urządzenie nie wyłączy go, gdy ponownie włączysz tryb samolotowy"</string>
+  <string name="bluetooth_enabled_apm_title">Bluetooth włączony w trybie samolotowym</string>
+  <string name="bluetooth_stays_on_message">"Twoje urządzenie pozostawia włączone Bluetooth w trybie samolotowym. Jeśli nie chcesz, aby tak było, wyłącz tę funkcję."</string>
+  <string name="bluetooth_stays_on_title">Bluetooth jest włączony</string>
 </resources>

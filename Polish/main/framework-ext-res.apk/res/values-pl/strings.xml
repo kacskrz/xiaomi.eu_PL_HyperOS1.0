@@ -664,4 +664,7 @@ z przedniego aparatu"</string>
   <string name="wallpaper_floral_arrangement_title">Kwiaty</string>
   <string name="wallpaper_gradient_title">Gradient</string>
   <string name="toast_camera_satellite_mutually_exclusive">"Nie można korzystać z aparatu podczas połączenia satelitarnego"</string>
+  <string name="earpiece_callmode_tip">Rozłóż, aby użyć mikrofonu lub włączyć głośnik</string>
+  <string name="start_activity_tip">Kontynuuj na wewnętrznym ekranie</string>
+  <string name="wifi_5ghz_sap_start_failed_by_region">Nie można użyć tetheringu podczas korzystania z sieci Wi-Fi 5 GHz.</string>
 </resources>

@@ -885,4 +885,12 @@
         <item quantity="few">Wybierz %d segmenty wideo</item>
         <item quantity="one">Wybierz %d segment wideo</item>
     </plurals>
+    <plurals name="video_editor_component_imageview_content_description">
+        <item quantity="other">Slot wideo %1$d, oczekiwanie na dodanie co najmniej %2$s-sekundowego filmu</item>
+        <item quantity="one">Slot wideo %1$d, oczekiwanie na dodanie co najmniej %2$s-sekundowego filmu</item>
+    </plurals>
+    <plurals name="video_editor_component_next_step_disabled_content_description">
+        <item quantity="other">Aby móc przejść dalej, dodaj jeszcze %d wideo</item>
+        <item quantity="one">Aby móc przejść dalej, dodaj jeszcze %d wideo</item>
+    </plurals>
 </resources>
