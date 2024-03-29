@@ -156,4 +156,9 @@ Pozostało prób: %d."</item>
         <item quantity="few">Masz mniej niż %1$s baterii. Wyłączanie połączenia z satelitą Tiantong za %2$d sekundy.</item>
         <item quantity="one">Masz mniej niż %1$s baterii. Wyłączanie połączenia z satelitą Tiantong za %2$d sekundę.</item>
     </plurals>
+    <plurals name="satellite_low_battery_turn_off_message">
+        <item quantity="other">Niski poziom baterii. Połączenie z satelitą Tiantong zakończy się za %d sekund.</item>
+        <item quantity="few">Niski poziom baterii. Połączenie z satelitą Tiantong zakończy się za %d sekundy.</item>
+        <item quantity="one">Niski poziom baterii. Połączenie z satelitą Tiantong zakończy się za %d sekundę.</item>
+    </plurals>
 </resources>

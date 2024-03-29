@@ -2493,7 +2493,7 @@ Ten tablet nie jest wyposażony w słuchawki. Możesz przełączyć w tryb gło�
     <string name="depopulated_zone_satellite_notification">Przypomnienia dot. połączenia satelitarnego</string>
     <string name="new_arrears_sim_summary">Możesz nie mieć środków na koncie lub mieć problemy z siecią. Aby dowiedzieć się więcej, skontaktuj się ze swoim operatorem.</string>
     <string name="new_arrears_sim_title">"Nie można się połączyć z Internetem"</string>
-    <string name="satellite_exit_now_battery">Wyjdź teraz</string>
+    <string name="satellite_exit_now_battery">Wyłącz</string>
     <string name="satellite_low_battery">Masz mniej niż 5%% baterii. System zakończy połączenie Tiantong za %d sekund.</string>
     <string name="satellite_not_show_again">"Nie pokazuj ponownie"</string>
     <string name="satellite_notification_text">Wciąż możesz wykonywać połączenia i wysyłać SMS-y bez sygnału sieci komórkowej za pomocą satelity Tiantong. Włącz tę usługę.</string>
@@ -2552,4 +2552,9 @@ Anulować usługi?"</string>
     <string name="satellite_privacy_withdrawal_dialog_positive">"Nie anuluj"</string>
     <string name="satellite_privacy_withdrawal_dialog_title">Uwaga</string>
     <string name="satellite_privacy_withdrawal_setting">Anuluj usługi komunikacji za pomocą satelity Tiantong</string>
+    <string name="satellite_low_battery_cancel">Anuluj</string>
+    <string name="satellite_low_battery_confirm">Włącz</string>
+    <string name="satellite_low_battery_message">Nie można połączyć się z satelitą Tiantong, bo masz niski poziom baterii.</string>
+    <string name="satellite_low_battery_super_save_power_message">Niski poziom baterii. Aby korzystać z połączenia z satelitą, należy włączyć Ultraoszczędzanie baterii. Zrobić to?</string>
+    <string name="satellite_low_battery_title">Niski poziom baterii</string>
 </resources>
