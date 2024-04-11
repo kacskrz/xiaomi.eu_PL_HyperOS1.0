@@ -667,4 +667,6 @@ z przedniego aparatu"</string>
   <string name="earpiece_callmode_tip">Rozłóż, aby użyć mikrofonu lub włączyć głośnik</string>
   <string name="start_activity_tip">Kontynuuj na wewnętrznym ekranie</string>
   <string name="wifi_5ghz_sap_start_failed_by_region">Nie można użyć tetheringu podczas korzystania z sieci Wi-Fi 5 GHz.</string>
+  <string name="aon_reader_support_scene_des">Przewracaj strony podczas czytania</string>
+  <string name="aon_video_support_scene_des">Kontroluj postęp filmu</string>
 </resources>

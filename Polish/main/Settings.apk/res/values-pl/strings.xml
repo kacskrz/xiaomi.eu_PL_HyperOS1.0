@@ -13606,4 +13606,23 @@ Wiadomość wyslana przez satelitę Tiantong. Nadawca może potrzebować pilnej 
     <string name="title_device_control">Kontrolki urządzeń smart home</string>
     <string name="miui_visual_perception_summary">Urządzenie wyczuje Twoją obecność i wybierze wygodniejsze opcje blokowania i odblokowywania</string>
     <string name="miui_visual_perception_title">Aktywna percepcja wzrokowa</string>
+    <string name="aon_gesture_cue_tone_summary">Gdy dłoń zostanie wykryta, telefon odtworzy dźwięk potwierdzenia</string>
+    <string name="aon_gesture_cue_tone_title">Odtwórz dźwięk potwierdzenia</string>
+    <string name="aon_gesture_dialog_message">"Gdy ta funkcja jest włączona, urządzenie będzie wykrywać i analizować Twoje gesty. Dane osobowe nie będą przetwarzane w żadnym stopniu (zarówno lokalnie, jak i w chmurze)."</string>
+    <string name="aon_gesture_dialog_title">Informacja dot. prywatności</string>
+    <string name="aon_gesture_double_press_summary">Odtwarzaj i wstrzymywaj multimedia</string>
+    <string name="aon_gesture_double_press_title">Wykonaj ruch dwuklikiem</string>
+    <string name="aon_gesture_draw_circle_summary_pad">Odbieraj lub kończ połączenia przekazywane na tablet</string>
+    <string name="aon_gesture_draw_circle_summary_phone">Odbieraj lub kończ połączenia</string>
+    <string name="aon_gesture_draw_circle_title">Narysuj okrąg</string>
+    <string name="aon_gesture_enable_summary" formatted="false">Trzymaj dłoń od %d do %d cm od aparatu i wykonuj gesty, gdy na górze ekranu pojawi się ikona ręki</string>
+    <string name="aon_gesture_left_right_waving_summary">Zmieniaj postęp odtwarzania i utwory</string>
+    <string name="aon_gesture_left_right_waving_title">Machaj poziomo</string>
+    <string name="aon_gesture_settings">Bezdotykowe gesty</string>
+    <string name="aon_gesture_status_close">Wył.</string>
+    <string name="aon_gesture_status_open">Wł.</string>
+    <string name="aon_gesture_supported_app_title">Wspierane aplikacje</string>
+    <string name="aon_gesture_supported_title">Dostępne gesty</string>
+    <string name="aon_gesture_up_down_waving_summary">Zmieniaj głośność, przełączaj się między filmikami i przesuwaj strony w dokumentach</string>
+    <string name="aon_gesture_up_down_waving_title">Machaj pionowo</string>
 </resources>

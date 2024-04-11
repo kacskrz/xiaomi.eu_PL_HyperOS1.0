@@ -493,7 +493,7 @@ Oddziel i zabezpiecz swoje dane."</string>
   <string name="xspace_guide_content_bound">Dostępne aplikacje</string>
   <string name="xspace_guide_description">"Każde konto
 może znajdować się w oddzielnej aplikacji"</string>
-  <string name="xspace_install_complete">&lt;font>Pomyślnie utworzono aplikację. &lt;/font>&lt;font color=#0D84FF>Otwórz ją teraz&lt;/font>.</string>
+  <string name="xspace_install_complete">Pomyślnie utworzono aplikację. Otwórz ją z Pulpitu.</string>
   <string name="xspace_notification_button">Spróbuj</string>
   <string name="xspace_start">Utwórz</string>
   <string name="settings_notification_second_space_show_in_locked_summary">Pokaż powiadomienia z Drugiej przestrzeni na ekranie blokady</string>
@@ -923,4 +923,24 @@ Kliknij dwukrotnie, aby otworzyć Ostatnie aplikacje."</string>
     <string name="flip_expand_screen_partial_screen_shot_disable">Wspierane tylko na wewnętrznym ekranie</string>
     <string name="gesture_disabled">Wył.</string>
     <string name="gesture_enable">Wł.</string>
+    <string name="aon_gesture_hint_trigger">Wykonaj teraz gest</string>
+    <string name="aon_learn_double_press_tip">Aby wstrzymać muzykę, wykonaj dwuklik dłonią skierowaną w stronę aparatu</string>
+    <string name="aon_learn_draw_circle_phone_tip">Aby odebrać połączenie, narysuj okrąg zgodnie z ruchem wskazówek zegara dłonią skierowaną w stronę aparatu</string>
+    <string name="aon_learn_draw_circle_tip">Aby odebrać połączenie przekazywane na tablet, narysuj okrąg zgodnie z ruchem wskazówek zegara dłonią skierowaną w stronę aparatu</string>
+    <string name="aon_learn_gesture_position_down_tip">Trzymaj dłoń z palcami skierowanymi w dół od %1$d do %2$d cm od aparatu, aż pojawi się ikona ręki</string>
+    <string name="aon_learn_gesture_position_left_tip">Trzymaj dłoń z palcami skierowanymi w lewo od %1$d do %2$d cm od aparatu, aż pojawi się ikona ręki</string>
+    <string name="aon_learn_gesture_position_right_tip">Trzymaj dłoń z palcami skierowanymi w prawo od %1$d do %2$d cm od aparatu, aż pojawi się ikona ręki</string>
+    <string name="aon_learn_gesture_position_up_tip">Trzymaj dłoń z palcami skierowanymi w górę od %1$d do %2$d cm od aparatu, aż pojawi się ikona ręki</string>
+    <string name="aon_learn_wave_down_tip">Pomachaj ręką w dół, aby przewijać</string>
+    <string name="aon_learn_wave_left_tip">Pomachaj ręką w lewo, aby odtworzyć poprzedni utwór</string>
+    <string name="aon_learn_wave_right_tip">Pomachaj ręką w prawo, aby odtworzyć następny utwór</string>
+    <string name="aon_learn_wave_up_tip">Pomachaj ręką w górę, aby przewijać</string>
+    <string name="gesture_hint_swipe_left">Przesuń w lewo</string>
+    <string name="gesture_hint_swipe_right">Przesuń w prawo</string>
+    <string name="guide_book_page_flip">Przesuwaj strony</string>
+    <string name="guide_cell_phone_call_endcall">Odbieraj lub kończ połączenia</string>
+    <string name="guide_swipe_right_left">Przesuń poziomo</string>
+    <string name="stylus_connect_failV2">"Nie udało się połączyć. Spróbuj ponownie."</string>
+    <string name="stylus_ota_check_failed_infoV2">"Nie udało się uzyskać wersji oprogramowania. Podłącz ponownie rysik."</string>
+    <string name="stylus_ota_completed_tipV2">Zaktualizowano rysik. Przed jego użyciem podłącz go ponownie.</string>
 </resources>
