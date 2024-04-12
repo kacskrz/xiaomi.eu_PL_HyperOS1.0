@@ -114,4 +114,12 @@
         <item quantity="one">Wybrano %d element</item>
         <item quantity="few">Wybrano %d elementy</item>
     </plurals>
+    <plurals name="snooze_duration_minute">
+        <item quantity="other">Co %1$d min</item>
+        <item quantity="one">Co %1$d min</item>
+    </plurals>
+    <plurals name="snooze_duration_time">
+        <item quantity="other">Włączy się %1$d razy</item>
+        <item quantity="one">Włączy się %1$d raz</item>
+    </plurals>
 </resources>

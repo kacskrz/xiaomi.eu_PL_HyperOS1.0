@@ -340,6 +340,8 @@
     <item>Tegucigalpa</item>
     <item>Paramaribo</item>
     <item>Quito</item>
+    <item>Taszkent</item>
+    <item>Biszkek</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>Wybrzeże Kości Słoniowej</item>
@@ -628,6 +630,8 @@
         <item>Honduras</item>
         <item>Surinam</item>
         <item>Ekwador</item>
+        <item>Uzbekistan</item>
+        <item>Kirgistan</item>
     </string-array>
 <string-array name="days">
         <item>Wczoraj</item>
