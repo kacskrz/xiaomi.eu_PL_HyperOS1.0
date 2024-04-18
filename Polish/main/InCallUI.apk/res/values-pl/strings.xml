@@ -527,4 +527,11 @@ Utrzymuj urządzenie w tym położeniu"</string>
     <string name="satellite_state_occlusion_prompt">Unikaj budynków lub drzew, które mogą blokować sygnał</string>
     <string name="align_satellite_model_use_exp">Ukończ</string>
     <string name="satellite_dialog_cancel_exp">Anuluj</string>
+    <string name="align_satellite_model_call">Połączenie</string>
+    <string name="align_satellite_model_mms">SMS</string>
+    <string name="call_recording">Trwa nagrywanie rozmowy</string>
+    <string name="satellite_knew">OK</string>
+    <string name="satellite_location_deny_permission_msg">Zezwól na dostęp do lokalizacji, aby włączyć komunikację z satelitą Tiantong</string>
+    <string name="satellite_signal_boost_setting_dialog">Po instalacji i aktywacji wzmacniacz sygnału delikatnie zmieni kąt nachylenia urządzenia względem satelity, poprawiając siłę sygnału i stabilność połączenia w trudnych warunkach atmosferycznych.</string>
+    <string name="satellite_signal_boost_setting_dialog_title">Zainstaluj i zacznij używać wzmacniacza sygnału satelity</string>
 </resources>

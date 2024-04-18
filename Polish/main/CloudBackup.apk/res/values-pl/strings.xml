@@ -530,4 +530,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
     <string name="title_back_up_task_in_process">Kopiowanie…</string>
     <string name="title_restore_task_in_process">Przywracanie…</string>
     <string name="toast_cannot_cancel_backup">"Kopia zapasowa jest prawie skończona i nie można jej anulować"</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Kopia w Chmurze zgromadzi listę aplikacji zainstalowanych na tym urządzeniu i przechowa te dane na serwerach Xiaomi po to, aby w przyszłości można było je pobrać i przywrócić. Jeśli wyrażasz zgodę na takie działanie, dotknij przycisku \"OK\".</string>
 </resources>

@@ -2499,7 +2499,7 @@ Ten tablet nie jest wyposażony w słuchawki. Możesz przełączyć w tryb gło�
     <string name="satellite_notification_text">Wciąż możesz wykonywać połączenia i wysyłać SMS-y bez sygnału sieci komórkowej za pomocą satelity Tiantong. Włącz tę usługę.</string>
     <string name="satellite_notification_title">Masz słaby zasięg</string>
     <string name="satellite_select_enable_sim">Wybierz kartę SIM</string>
-    <string name="satellite_signal_boost_setting_summary">Zwiększ moc sygnału i jego stabilność w słabych warunkach pogodowych (np. przy pochmurnym niebie)</string>
+    <string name="satellite_signal_boost_setting_summary">Zainstaluj wzmacniacz, aby poprawić moc sygnału i jego stabilność w słabych warunkach pogodowych (np. przy pochmurnym niebie)</string>
     <string name="satellite_signal_boost_setting_title">Użyj wzmacniacza sygnału Tiantong</string>
     <string name="satellite_start">OK</string>
     <string name="satellite_start_battery">OK</string>
@@ -2557,4 +2557,6 @@ Anulować usługi?"</string>
     <string name="satellite_low_battery_message">Nie można połączyć się z satelitą Tiantong, bo masz niski poziom baterii.</string>
     <string name="satellite_low_battery_super_save_power_message">Niski poziom baterii. Aby korzystać z połączenia z satelitą, należy włączyć Ultraoszczędzanie baterii. Zrobić to?</string>
     <string name="satellite_low_battery_title">Niski poziom baterii</string>
+    <string name="satellite_ct_business_summary">Usługi dostarczane przez China Telecom</string>
+    <string name="satellite_open_tiantong_business_title">Włącz komunikację z satelitą Tiantong</string>
 </resources>
