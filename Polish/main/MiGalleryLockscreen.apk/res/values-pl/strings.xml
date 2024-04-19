@@ -977,4 +977,11 @@ Może to generować dodatkowe opłaty."</string>
   <string name="share_dlg_wechat">Wyślij przyjacielowi</string>
   <string name="share_dlg_weibo">Wyślij na Weibo</string>
   <string name="wallpaper_added_success_toast">Pomyślnie dodano tapetę</string>
+  <string name="left_lks_download_now">Pobierz</string>
+  <string name="left_lks_reverse">Zamów</string>
+  <string name="left_lks_view">Wyświetl</string>
+  <string name="sst_surprise_wallpaper">Tapeta AI</string>
+  <string name="sst_surprise_wallpaper_desc">Użyj sztucznej inteligencji do wygenerowania spersonalizowanych tapet</string>
+  <string name="surprise_wallpaper_empty_dlg_content">Tapety AI będą oparte na już wybranych tapetach (jeśli jakieś zostały wybrane) lub losowo wygenerowanych obrazach</string>
+  <string name="surprise_wallpaper_empty_dlg_title">Tapeta AI</string>
 </resources>
