@@ -73,7 +73,7 @@
     <string name="cos">cos</string>
     <string name="cosDesc">cosinus</string>
     <string name="currency_update_connect_to_get_data">Kursy wymiany walut dostarcza Webull. Połącz się z siecią, aby uzyskać najnowsze informacje.</string>
-    <string name="currency_update_support">Kurs wymiany walut dostarcza Webull.</string>
+    <string name="currency_update_support">"Kurs wymiany walut dostarcza Webull. "</string>
     <string name="currency_update_time_format">Stawki wymiany walut dostarcza Webull (%s)</string>
     <string name="currency_update_updating">Aktualizowanie kursu…</string>
     <string name="current_rate_remind_commercial" />
@@ -312,7 +312,7 @@ Roczne i pięcioletnie punkty LPR będą podawane 20. dnia każdego miesiąca (m
     <string name="mt_max">Wprowadzona suma jest za duża</string>
     <string name="mulDesc">pomnóż</string>
     <string name="name_amount">Kwota</string>
-    <string name="name_discount">Zniżka (% taniej)</string>
+    <string name="name_discount">Zniżka (%s)</string>
     <string name="name_is">Wynik</string>
     <string name="name_of">Razem</string>
     <string name="name_original">Oryginalna cena</string>
@@ -896,4 +896,5 @@ Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</st
     <string name="unit_data_short_time_week">tydz.</string>
     <string name="unit_data_short_time_yr">r.</string>
     <string name="finance_interest">Oprocentowanie (%s)</string>
+    <string name="unit_data_display_currency_mdl">Lej mołdawski</string>
 </resources>

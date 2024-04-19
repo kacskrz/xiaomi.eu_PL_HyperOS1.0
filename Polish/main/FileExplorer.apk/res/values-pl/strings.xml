@@ -187,7 +187,7 @@
   <string name="encrypt_error">Nie udało się ukryć plików. Spróbuj ponownie.</string>
   <string name="encrypt_prefix">UKRYTE</string>
   <string name="encrypt_success">Pomyślnie ukryto</string>
-  <string name="encrypt_success_first_five">Pomyślnie zaszyfrowano i ukryto plik. Możesz zobaczyć ukryte pliki, przeciągając w dół stronę startową aplikacji Pliki.</string>
+  <string name="encrypt_success_first_five">Pomyślnie zaszyfrowano i ukryto plik. Pociągnij w dół w głównym menu Plików, aby go zobaczyć.</string>
   <string name="encrypting">Szyfrowanie…</string>
   <string name="error_contains_sharer_path">Nie można zaszyfrować plików z katalogu /MIUI/Galeria/cloud/sharer. Przenieś plik do innego katalogu i spróbuj ponownie.</string>
   <string name="error_create_dir">"Nie można utworzyć katalogu"</string>
@@ -1110,4 +1110,10 @@ Spróbuj przenieść pliki z urządzenia do Mi Drive."</string>
     <string name="view_type_mode">Układ</string>
     <string name="decompress_fail_contains_special_characters">"Nie można skompresować. Nazwy skompresowanych plików nie mogą zawierać znaków specjalnych."</string>
     <string name="operation_delete_confirm_dcim_message_folder">DCIM to folder Galerii. Jeśli go usuniesz, elementy znajdujące się w nim zostaną usunięte także z Galerii. Usunąć mimo to?</string>
+    <string name="pattern_month_day">d.MM.</string>
+    <string name="pattern_month_day_hh_mm_12">d.MM. hh:mm a</string>
+    <string name="pattern_month_day_hh_mm_24">d.MM. HH:mm</string>
+    <string name="pattern_year_month_day">d.MM.yyyy</string>
+    <string name="pattern_year_month_day_hh_mm_12">d.MM.yyyy hh:mm a</string>
+    <string name="pattern_year_month_day_hh_mm_24">d.MM.yyyy HH:mm</string>
 </resources>
