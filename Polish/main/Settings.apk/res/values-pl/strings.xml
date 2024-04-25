@@ -13629,4 +13629,5 @@ Wiadomość wyslana przez satelitę Tiantong. Nadawca może potrzebować pilnej 
     <string name="fivega_enhanced_network_title">Ulepszona sieć 5G-A</string>
     <string name="fivega_switch_summary">"Nowa jakość sieci 5G. Wsparcie zależy od operatora i wdrożenia tej usługi"</string>
     <string name="fivega_switch_title">5G-A</string>
+    <string name="aon_gesture_learn_title">Naucz się gestów</string>
 </resources>

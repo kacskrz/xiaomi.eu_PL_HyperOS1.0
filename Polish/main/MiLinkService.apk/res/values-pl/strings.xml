@@ -964,4 +964,28 @@ aby Xiaomi HyperMind mógł się uczyć i tworzyć wzorce"</string>
   <string name="common_open_on_phone">Otwórz na telefonie</string>
   <string name="common_signin_button_text">Zaloguj się</string>
   <string name="common_signin_button_text_long">Zaloguj się z Google</string>
+  <string name="camera_associate_disconnecting">Rozłączanie z aparatem telefonu</string>
+  <string name="camera_choose_device">Wybierz urządzenie</string>
+  <string name="camera_connecting_device">Łączenie z %s</string>
+  <string name="camera_disconnecting_device">Rozłączanie z %s</string>
+  <string name="camera_title">Wyszukiwanie dostępnych urządzeń…</string>
+  <string name="circulate_cta_desc_phone_global">Usługi łączności między urządzeniami Xiaomi umożliwiają bezprzewodową interakcję między Twoimi urządzeniami.</string>
+  <string name="circulate_cta_title_global">Stanowisko dot. prywatności</string>
+  <string name="connect_settings_summary_global"><Data>Odnajduj urządzenia w pobliżu zalogowane na Twoje konto Xiaomi i dodaj je do Mi Smart Hub</Data></string>
+  <string name="copy_toast_msg">Skopiowano link do schowka</string>
+  <string name="dialog_nearbydevice_permission_message_connectivity">"Funkcja łączności między urządzeniami Xiaomi, której używasz, wymaga pozwolenia na łączenie się z urządzeniami w pobliżu. Bez niego nie będzie ona mogła działać normalnie. Możesz przyznać to uprawnienie w Ustawieniach."</string>
+  <string name="dialog_nearbydevice_permission_title_connectivity">Wymagane uprawnienia</string>
+  <string name="fallback_menu_item_copy_link">Kopiuj link</string>
+  <string name="fallback_menu_item_open_in_browser">Otwórz w przeglądarce</string>
+  <string name="fallback_menu_item_share_link">Udostępnij link</string>
+  <string name="global_dialog_cancle">Anuluj</string>
+  <string name="global_dialog_miplay_permission_positive">Ustawienia</string>
+  <string name="global_dialog_nearbydevice_permission_message">Usługi łączności między urządzeniami Xiaomi wymagają pozwolenia na łączenie się z urządzeniami w pobliżu, aby je odnajdywać. Przyznaj to uprawnienie w Ustawieniach, aby móc normalnie używać tych usług.</string>
+  <string name="global_dialog_nearbydevice_permission_title">Wymagane uprawnienia</string>
+  <string name="help_page_question_1st_01_international">"%1$d. Jeśli urządzenie, do którego przesyłasz zawartość, to telewizor Xiaomi, włącz na nim funkcję Miracast.
+%2$d. W przeciwnym przypadku upewnij się, że telewizor wspiera funkcję Miracast i ta funkcja jest włączona. Ta funkcja może różnić się nazwą na różnych telewizorach (np. Ekran bezprzewodowy, Przesyłanie ekranu czy Wiele ekranów)."</string>
+  <string name="help_page_setp_1st_02_international">%1$d. Telewizory niektórych marek mogą mieć automatycznie włączoną funkcję Miracast.</string>
+  <string name="help_page_step_1st_01_international">%1$d. Włącz funkcję Miracast na swoim telewizorze Xiaomi.</string>
+  <string name="local_camera_device">To urządzenie</string>
+  <string name="window_card_ml_find_null_camera">"Nie udało się znaleźć aparatu lub urządzenia w pobliżu"</string>
 </resources>
