@@ -166,7 +166,7 @@ Później będziesz mógł zainstalować inne klawiatury z Google Play."</string
   <string name="require_authority_statement">Aby pozwolić nam dostarczać podstawowe usługi, musisz nadać następujące uprawnienia w celu gromadzenia przez Xiaomi Twoich osobistych informacji:</string>
   <string name="require_network_authority_statement">Aby móc działać normalnie, usługa wymaga połączenia z Internetem oraz następujących uprawnień:</string>
   <string name="screen_recording_introduction">"Dzięki tej aplikacji możesz nagrywać to, co dzieje się na ekranie."</string>
-  <string name="security_introduction">Możesz użyć tej aplikacji do czyszczenia śmieci na urządzeniu, odnajdywania i neutralizacji wirusów, optymalizacji wydajności dla gier, oszczędzania baterii, zarządzania aplikacjami, uprawnieniami itd.</string>
+  <string name="security_introduction">Możesz użyć tej aplikacji do odnajdywania i neutralizacji wirusów, blokowania połączeń i SMS-ów, optymalizacji wydajności pod kątem gier, oszczędzania baterii, a także zarządzania aplikacjami, uprawnieniami, zużyciem danych i innymi rzeczami.</string>
   <string name="security_mobile_account_introduction">W celu logowania się i zarządzania kontami systemu</string>
   <string name="service_agreement">"Przeczytałem i zaakceptowałem warunki użytkowania."</string>
   <string name="service_name_album">Galeria</string>
@@ -648,4 +648,6 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
     <string name="interconnection_service_summary_china_fragment9">Dostęp do lokalizacji</string>
     <string name="power_and_performance">Bateria i wydajność</string>
     <string name="power_and_performance_introduction">Ta usługa dostarcza usługi podstawowego zarządzania baterią, statystyki użytkowania, funkcje oszczędzania energii i inne.</string>
+    <string name="phone_introduction">Możesz użyć tej aplikacji do odnajdywania i neutralizacji wirusów, blokowania połączeń i SMS-ów, optymalizacji wydajności pod kątem gier, oszczędzania baterii, a także zarządzania aplikacjami, uprawnieniami, zużyciem danych i innymi rzeczami.</string>
+    <string name="phone_name_security">Panel sterowania</string>
 </resources>

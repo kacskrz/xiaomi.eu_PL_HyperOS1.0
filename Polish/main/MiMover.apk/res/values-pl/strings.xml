@@ -884,4 +884,6 @@ na swoim iPhonie"</string>
   <string name="PRD_title_tablet_4">%1$d. Postępuj ostrożnie z urządzeniem</string>
   <string name="PRD_title_tablet_5">%1$d. Urządzenie się nagrzeje w trakcie procesu</string>
   <string name="prompt_before_transmission_tablet_message3_title">Druga przestrzeń jest włączona</string>
+  <string name="PRD_summary_6">"Prywatne albumy, notatki i pliki ze starego urządzenia nie zostaną przesłane. Przed rozpoczęciem transferu usuń je z prywatnych folderów."</string>
+  <string name="PRD_title_6">"Prywatne elementy nie zostaną przesłane"</string>
 </resources>

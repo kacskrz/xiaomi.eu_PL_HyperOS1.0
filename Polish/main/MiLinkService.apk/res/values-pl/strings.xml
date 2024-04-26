@@ -975,9 +975,6 @@ aby Xiaomi HyperMind mógł się uczyć i tworzyć wzorce"</string>
   <string name="copy_toast_msg">Skopiowano link do schowka</string>
   <string name="dialog_nearbydevice_permission_message_connectivity">"Funkcja łączności między urządzeniami Xiaomi, której używasz, wymaga pozwolenia na łączenie się z urządzeniami w pobliżu. Bez niego nie będzie ona mogła działać normalnie. Możesz przyznać to uprawnienie w Ustawieniach."</string>
   <string name="dialog_nearbydevice_permission_title_connectivity">Wymagane uprawnienia</string>
-  <string name="fallback_menu_item_copy_link">Kopiuj link</string>
-  <string name="fallback_menu_item_open_in_browser">Otwórz w przeglądarce</string>
-  <string name="fallback_menu_item_share_link">Udostępnij link</string>
   <string name="global_dialog_cancle">Anuluj</string>
   <string name="global_dialog_miplay_permission_positive">Ustawienia</string>
   <string name="global_dialog_nearbydevice_permission_message">Usługi łączności między urządzeniami Xiaomi wymagają pozwolenia na łączenie się z urządzeniami w pobliżu, aby je odnajdywać. Przyznaj to uprawnienie w Ustawieniach, aby móc normalnie używać tych usług.</string>
