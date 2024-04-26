@@ -982,6 +982,8 @@ Może to generować dodatkowe opłaty."</string>
   <string name="left_lks_view">Wyświetl</string>
   <string name="sst_surprise_wallpaper">Tapeta AI</string>
   <string name="sst_surprise_wallpaper_desc">Użyj sztucznej inteligencji do wygenerowania spersonalizowanych tapet</string>
-  <string name="surprise_wallpaper_empty_dlg_content">Tapety AI będą oparte na już wybranych tapetach (jeśli jakieś zostały wybrane) lub losowo wygenerowanych obrazach</string>
+  <string name="surprise_wallpaper_empty_dlg_content">Tapety AI będą oparte na już wybranych tapetach (jeśli jakieś zostały wybrane) lub losowo wygenerowanych obrazach. Będą one generowane co 24 godziny. Jeśli wygenerowanie tapety nie powiedzie się, na Ekranie blokady pojawi się normalna tapeta.</string>
   <string name="surprise_wallpaper_empty_dlg_title">Tapeta AI</string>
+  <string name="ai_wallpaper_declare_double_link"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>.</Data></string>
+  <string name="surprise_wallpaper_generate_failed_toast">Nie udało się wygenerować tapety AI</string>
 </resources>
