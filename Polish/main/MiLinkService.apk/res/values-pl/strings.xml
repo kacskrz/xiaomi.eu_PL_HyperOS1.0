@@ -972,7 +972,6 @@ aby Xiaomi HyperMind mógł się uczyć i tworzyć wzorce"</string>
   <string name="circulate_cta_desc_phone_global">Usługi łączności między urządzeniami Xiaomi umożliwiają bezprzewodową interakcję między Twoimi urządzeniami.</string>
   <string name="circulate_cta_title_global">Stanowisko dot. prywatności</string>
   <string name="connect_settings_summary_global"><Data>Odnajduj urządzenia w pobliżu zalogowane na Twoje konto Xiaomi i dodaj je do Mi Smart Hub</Data></string>
-  <string name="copy_toast_msg">Skopiowano link do schowka</string>
   <string name="dialog_nearbydevice_permission_message_connectivity">"Funkcja łączności między urządzeniami Xiaomi, której używasz, wymaga pozwolenia na łączenie się z urządzeniami w pobliżu. Bez niego nie będzie ona mogła działać normalnie. Możesz przyznać to uprawnienie w Ustawieniach."</string>
   <string name="dialog_nearbydevice_permission_title_connectivity">Wymagane uprawnienia</string>
   <string name="global_dialog_cancle">Anuluj</string>
