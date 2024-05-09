@@ -16,19 +16,19 @@
        <item>Prywatność i Interakcja urządzeń Xiaomi, Prywatność</item>
    </string-array>
    <string-array name="settings_search_connection_service">
-       <item>Usługi łączności między urządzeniami</item>
-       <item>Interakcja urządzeń Xiaomi/Usługi łączności między urządzeniami</item>
-       <item>Usługi łączności między urządzeniami</item>
+       <item>Łączność między urządzeniami Xiaomi</item>
+       <item>Interakcja urządzeń Xiaomi/Łączność między urządzeniami Xiaomi</item>
+       <item>Usługi łączności między urządzeniami Xiaomi, Łączność między urządzeniami Xiaomi</item>
    </string-array>
    <string-array name="settings_search_relay_app">
        <item>Handoff aplikacji</item>
-       <item>Interakcja urządzeń Xiaomi/Handoff aplikacji</item>
+       <item>Interakcja urządzeń Xiaomi/Aplikacje</item>
        <item>Przesyłanie aplikacji, handoff, transfer</item>
    </string-array>
    <string-array name="settings_search_relay_call">
-       <item>Połączenia</item>
-       <item>Interakcja urządzeń Xiaomi/Połączenia</item>
-       <item>Połączenia</item>
+       <item>Synchronizacja połączeń</item>
+       <item>Interakcja urządzeń Xiaomi/Synchronizacja połączeń</item>
+       <item>Synchronizacja połączeń, wspólne połączenia, handoff połączeń, połączenia</item>
    </string-array>
    <string-array name="settings_search_relay_network">
        <item>Asystent sieci</item>

@@ -12694,13 +12694,13 @@ Jeśli odcisk palca lub twarz nie zostaną rozpoznane, możesz odblokować urzą
     <string name="bottomsheet_action_expand">Rozwiń planszę dolną</string>
     <string name="bottomsheet_action_collapse">Zwiń planszę dolną</string>
     <string name="bottomsheet_drag_handle_clicked">Dwukrotnie kliknięto uchwyt do przeciągania</string>
-    <string name="bt_hci_snoop_log_filter_map_title">Snoop Logger Filter MAP</string>
-    <string name="bt_hci_snoop_log_filter_pbap_title">Snoop Logger Filter PBAP</string>
+    <string name="bt_hci_snoop_log_filter_map_title">Filtrowanie MAP dziennika snoop Bluetooth HCI</string>
+    <string name="bt_hci_snoop_log_filter_pbap_title">Filtrowanie PBAP dziennika snoop Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_filter_summary">Ustaw tryb filtrowania (przełącz Bluetooth po zmianie tego ustawienia).</string>
-    <string name="bt_hci_snoop_log_filtered_mode_disabled_summary">Włącz Snoop Log Mode Filtered, aby zmienić tę opcję.</string>
+    <string name="bt_hci_snoop_log_filtered_mode_disabled_summary">Aby zmienić tę opcję, dla trybu dziennika snoop Bluetooth HCI wybierz Filtrowanie włączone</string>
     <string name="bt_hci_snoop_log_filters_dashboard_footer">Wyłącz i włącz Bluetooth, aby zmiany zostały zastosowane</string>
     <string name="bt_hci_snoop_log_filters_dashboard_summary">Ustaw filtry (przełącz Bluetooth po zmianie tego ustawienia)</string>
-    <string name="bt_hci_snoop_log_filters_dashboard_title">Bluetooth HCI snoop log filtering</string>
+    <string name="bt_hci_snoop_log_filters_dashboard_title">Filtrowanie dziennika snoop Bluetooth HCI</string>
     <string name="bt_leaudio_summary_V2">Ciesz się dźwiękiem wysokiej jakości ze zmniejszonym opóźnieniem i zużyciem energii</string>
     <string name="calendar_preferences_title">Kalendarz</string>
     <string name="call_notification_answer_action">Odbierz</string>
@@ -13630,4 +13630,31 @@ Wiadomość wyslana przez satelitę Tiantong. Nadawca może potrzebować pilnej 
     <string name="fivega_switch_summary">"Nowa jakość sieci 5G. Wsparcie zależy od operatora i wdrożenia tej usługi"</string>
     <string name="fivega_switch_title">5G-A</string>
     <string name="aon_gesture_learn_title">Naucz się gestów</string>
+    <string name="cellular_network_title">Debugowanie sieci komórkowej</string>
+    <string name="bt_connect_help_car">Systemy auta</string>
+    <string name="bt_connect_help_car_first">%d. Otwórz ustawienia Bluetooth w swoim aucie i włącz możliwość odnajdywania auta.</string>
+    <string name="bt_connect_help_car_second">"%d. Włącz Bluetooth na telefonie lub tablecie, znajdź system auta i sparuj go."</string>
+    <string name="bt_connect_help_device">Telefony, tablety i komputery</string>
+    <string name="bt_connect_help_device_first" formatted="false">"%d. Upewnij się, że na urządzeniu, z którym chcesz się połączyć, jest włączony Bluetooth, a także że znajduje się ono nie dalej %d metrów od Ciebie."</string>
+    <string name="bt_connect_help_device_second">"%d. Urządzenia z systemem iOS nie wspierają obecnie łączności z innymi urządzeniami."</string>
+    <string name="bt_connect_help_device_third">%d. W przypadku łączenia się z komputerem może zaistnieć konieczność zainstalowania sterownika Bluetooth.</string>
+    <string name="bt_connect_help_earphone">Słuchawki i głośniki</string>
+    <string name="bt_connect_help_earphone_first" formatted="false">%d. Upewnij się, że głośnik lub słuchawki są naładowane, nie łączą się poprzez Bluetooth z innym urządzeniem i znajdują się nie dalej niż %d metrów od Ciebie.</string>
+    <string name="bt_connect_help_earphone_second">%d. Aby można było znaleźć urządzenie, przytrzymaj przycisk zasilania na swoim głośniku lub słuchawkach, aż dioda nie zacznie migać.</string>
+    <string name="bt_connect_help_earphone_third">%d. Teraz możesz odnaleźć i sparować swój głośnik bądź słuchawki.</string>
+    <string name="bt_connect_help_toast">"Nie możesz znaleźć swojego urządzenia? Dotknij, aby wyświetlić pomoc."</string>
+    <string name="bt_connect_help_wear">Urządzenia wearable</string>
+    <string name="bt_connect_help_wear_first">"%d. Upewnij się, że urządzenie wearable (opaska, zegarek itd.) nie jest połączone przez Bluetooth z innym urządzeniem."</string>
+    <string name="bt_connect_help_wear_second">%d. Pobierz i zainstaluj aplikację przeznaczoną dla Twojego urządzenia.</string>
+    <string name="bt_connect_help_wear_third">%d. Otwórz aplikację i postępuj zgodnie z instrukcjami.</string>
+    <string name="bt_new_connect_help">Pomoc z łączeniem</string>
+    <string name="device_class_car_kit">System auta</string>
+    <string name="device_class_headset">Słuchawki</string>
+    <string name="device_class_hearing_aid">Aparat słuchowy</string>
+    <string name="device_class_other">Inne</string>
+    <string name="device_class_setting_summary">Określ typ urządzenia, aby zoptymalizować swoje wrażenia</string>
+    <string name="device_class_setting_title">Typ urządzenia</string>
+    <string name="device_class_speaker">Głośnik</string>
+    <string name="device_class_watch">Zegarek</string>
+    <string name="same_source_synced">Zsynchronizowano to samo źródło</string>
 </resources>

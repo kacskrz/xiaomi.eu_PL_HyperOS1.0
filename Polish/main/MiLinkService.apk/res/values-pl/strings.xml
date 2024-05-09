@@ -603,8 +603,8 @@ i zaloguj się na swoje konto Xiaomi"</string>
     <string name="onehop_mirror_guide_message_button">Rozumiem</string>
     <string name="onehop_mirror_guide_message_text_1">Udostępnij ekran telefonu na komputerze jednym dotknięciem.</string>
     <string name="onehop_mirror_guide_message_text_2">Wybierz zdjęcia, filmy i inne pliki z Galerii lub Plików, aby przesłać je na komputer.</string>
-    <string name="circulate_headset_back_to_box_desc_err_310">"1. Naciśnij przycisk Power na pilocie do telewizora, aby rozłączyć głośniki.
-2. Spróbuj ponownie połączyć słuchawki, gdy ekran się zaświeci."</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"%1$d. Naciśnij przycisk Power na pilocie do telewizora, aby rozłączyć głośniki.
+%2$d. Spróbuj ponownie połączyć słuchawki, gdy ekran się zaświeci."</string>
     <string name="circulate_headset_back_to_box_title_err_310">Rozłącz głośniki telewizora</string>
     <string name="circulate_headset_control_anc_clear">Przezroczystość</string>
     <string name="circulate_headset_control_anc_disable_hint">Twoje słuchawki są połączone z dwoma urządzeniami. Tym urządzeniem możesz zmieniać tylko ich głośność.</string>
@@ -741,7 +741,7 @@ i zaloguj się na swoje konto Xiaomi"</string>
     <string name="connect_settings_connect_privacy">Prywatność</string>
     <string name="connect_settings_connection_service">Interakcja urządzeń Xiaomi</string>
     <string name="connect_settings_corp_network">Asystent sieci</string>
-    <string name="connect_settings_corp_phone">Połączenia</string>
+    <string name="connect_settings_corp_phone">Synchronizacja połączeń</string>
     <string name="connect_settings_nfc_share">Przesyłanie elementów przez NFC</string>
     <string name="connect_settings_not_opened">Wył.</string>
     <string name="connect_settings_opened">Wł.</string>
@@ -858,16 +858,16 @@ Zanim zaczniesz projekcję, upewnij się, że włączono Game Turbo."</string>
     <string name="screen_projection_title_miui15">Projekcja</string>
     <string name="searchview_clear_text_content_description">Wyczyść tekst</string>
     <string name="searchview_navigation_content_description">Wstecz</string>
-    <string name="server_activity_task_tips">Udostępnianie strumienia aparatu do %s</string>
+    <string name="server_activity_task_tips">Aparat jest używany przez %s</string>
     <string name="server_camera_disconnected">Rozłączono z innym urządzeniem z powodu błędu</string>
     <string name="server_camera_occupied">Aparat jest zajęty. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="server_toast_camera_prepare">Przygotowywanie do udostępniania strumienia aparatu…</string>
     <string name="set_negative_button">Ustawienia</string>
-    <string name="settings_cross_notify">Powiadomienia na innych urządzeniach</string>
+    <string name="settings_cross_notify">Wspólne powiadomienia</string>
     <string name="settings_cross_notify_app">Powiadomienia aplikacji</string>
     <string name="settings_cross_notify_hidden">Ukryj treść powiadomienia</string>
     <string name="settings_cross_notify_hidden_tips">Pokaż powiadomienia na innych urządzeniach z ukrytą treścią i dotknij ich, aby ją odkryć</string>
-    <string name="settings_cross_notify_manager">Powiadomienia na połączonych urządzeniach</string>
+    <string name="settings_cross_notify_manager">Wspólne powiadomienia</string>
     <string name="settings_cross_notify_power">Słaba bateria</string>
     <string name="settings_cross_notify_system">Powiadomienia systemowe</string>
     <string name="settings_cross_notify_tips">Pokaż powiadomienia na tabletach lub komputerach w pobliżu, gdy to urządzenie jest zablokowane</string>
@@ -984,4 +984,6 @@ aby Xiaomi HyperMind mógł się uczyć i tworzyć wzorce"</string>
   <string name="help_page_step_1st_01_international">%1$d. Włącz funkcję Miracast na swoim telewizorze Xiaomi.</string>
   <string name="local_camera_device">To urządzenie</string>
   <string name="window_card_ml_find_null_camera">"Nie udało się znaleźć aparatu lub urządzenia w pobliżu"</string>
+  <string name="app_name_vtcamera">Wspólny aparat</string>
+  <string name="onehop_mirror_guide_message_title">Łączność między urządzeniami Xiaomi</string>
 </resources>

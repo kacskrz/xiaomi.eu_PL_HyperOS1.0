@@ -1935,11 +1935,23 @@
         <item>MAP 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>Wyłączone</item>
-        <item>Filtrowane</item>
-        <item>Włączone</item>
-        <item>Filtrowane nagłówki</item>
-        <item>Filtrowane pakiety mediów</item>
+        <item>Wyłączono</item>
+        <item>Filtrowanie włączone</item>
+        <item>Włączono</item>
+        <item>Włączono (filtrowanie nagłówków)</item>
+        <item>Włączono (filtrowanie pakietów multimediów)</item>
+        <item>Włączono (filtrowanie profili)</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Zostaw tylko nagłówki ACL</item>
+        <item>Filtruj pakiety multimediów A2DP</item>
+        <item>Filtruj kanał RFCOMM</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Wyłącz</item>
+        <item>Wypełnij ciągiem znaków</item>
+        <item>Zostaw tylko nagłówki</item>
+        <item>Całkowicie usuń</item>
     </string-array>
     <string-array name="captioning_font_size_selector_summaries">
         <item>Bardzo mały rozmiar tekstu</item>

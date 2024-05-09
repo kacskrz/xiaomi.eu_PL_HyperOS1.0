@@ -58,4 +58,20 @@
     <string-array name="net_diag_err_network_topology">
         <item>"Sprawdź ustawienia DHCP routera i połączenie przewodowe"</item>
     </string-array>
+    <string-array name="wifi_diag_err_wifi_base">
+        <item>"Nie udało się włączyć Wi-Fi. Uruchom urządzenie ponownie lub zaktualizuj je do najnowszej wersji systemu."</item>
+        <item>"Nie udało się zlokalizować hotspotu. Uruchom urządzenie ponownie lub zaktualizuj je do najnowszej wersji systemu."</item>
+        <item>"Nie można włączyć Wi-Fi. Wyłącz i włącz Wi-Fi lub uruchom ponownie swój router."</item>
+        <item>Sieć Wi-Fi jest ciągle rozłączana. Wyłącz i włącz Wi-Fi lub uruchom ponownie swój router.</item>
+        <item>"Nie udało się włączyć hotspotu. Uruchom urządzenie ponownie lub zaktualizuj je do najnowszej wersji systemu."</item>
+        <item>"Nie udało się włączyć hotspotu. Wyłącz tryb samolotowy i spróbuj ponownie."</item>
+    </string-array>
+    <string-array name="wifi_diag_err_wifi_base_china">
+        <item>"Nie udało się włączyć Wi-Fi. Uruchom urządzenie ponownie lub zaktualizuj je do najnowszej wersji systemu."</item>
+        <item>"Nie udało się zlokalizować hotspotu. Uruchom urządzenie ponownie lub zaktualizuj je do najnowszej wersji systemu."</item>
+        <item>"Nie można włączyć Wi-Fi. Wyłącz i włącz Wi-Fi lub uruchom ponownie swój router."</item>
+        <item>Sieć Wi-Fi jest ciągle rozłączana. Wyłącz i włącz Wi-Fi lub uruchom ponownie swój router.</item>
+        <item>"Nie udało się włączyć hotspotu. Uruchom urządzenie ponownie lub zaktualizuj je do najnowszej wersji systemu."</item>
+        <item>"Nie udało się włączyć hotspotu. Wyłącz tryb samolotowy i spróbuj ponownie."</item>
+    </string-array>
 </resources>

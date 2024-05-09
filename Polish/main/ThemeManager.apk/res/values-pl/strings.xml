@@ -1684,4 +1684,5 @@ Dotknij, aby go wyłączyć."</string>
     <string name="gallery_wallpaper_history_go">Wyświetl</string>
     <string name="wallpaper_history">Historia tapet</string>
     <string name="lock_screen_card_title">Artystyczny Ekran blokady</string>
+    <string name="theme_component_title_homepage">Strona główna</string>
 </resources>

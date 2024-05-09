@@ -995,9 +995,9 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
   <string name="feedback_evaluation_success_dialog_title">Pomyślnie oceniono</string>
   <string name="net_diag_cancel">Anuluj</string>
   <string name="net_diag_continue">Kontynuuj</string>
-  <string name="net_diag_dialog_msg">Testowanie sieci pomoże Ci wykryć problemy i poprawić połączenie.</string>
+  <string name="net_diag_dialog_msg">Test Wi-Fi może pomóc przeanalizować i rozwiązać problemy z połączeniem. W trakcie jego trwania może dojść do automatycznego włączenia i wyłączenia Wi-Fi oraz hotspotu.</string>
   <string name="net_diag_dialog_no">Nie</string>
-  <string name="net_diag_dialog_title">Przetestować sieć?</string>
+  <string name="net_diag_dialog_title">Przetestować Wi-Fi?</string>
   <string name="net_diag_dialog_yes">Tak</string>
   <string name="net_diag_entry_link_quality">Jakość połączenia</string>
   <string name="net_diag_entry_network_connectivity">Łączność z siecią</string>
@@ -1010,7 +1010,7 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
   <string name="net_diag_header_internet">Internet</string>
   <string name="net_diag_header_router">Router</string>
   <string name="net_diag_header_this_device">To urządzenie</string>
-  <string name="net_diag_title">Testuj sieć</string>
+  <string name="net_diag_title">Test Wi-Fi</string>
   <string name="net_diag_toast_cellular_data">Aby przetestować sieć, wyłącz dane mobilne.</string>
   <string name="net_diag_toast_other_networks">Aby przetestować sieć, połącz się z Wi-Fi i odłącz się od innych sieci.</string>
   <string name="net_diag_toast_other_networks_china">Aby przetestować sieć, połącz się z Wi-Fi i odłącz się od innych sieci.</string>
@@ -1178,4 +1178,20 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
     <string name="toast_a_log_is_catching">Trwa generowanie logów. Dotknij, aby zakończyć.</string>
     <string name="toast_cloud_video_obtain_fail">"Nie można pokazać miniatur filmów pobranych zdalnie ze chmury"</string>
     <string name="toast_log_too_large">"Nie można przesłać logów powyżej %d GB"</string>
+    <string name="catch_log_count_down">Odliczanie: %d sek.</string>
+    <string name="catch_log_notice">Informacja</string>
+    <string name="catch_log_notify">Powiadomienia dot. generowania logów</string>
+    <string name="module_connectivity">Łączność między urządzeniami</string>
+    <string name="net_diag_click_to_show_help">Dotknij, aby wyświetlić Pomoc</string>
+    <string name="net_diag_diag_fail">"Nie udało się zdiagnozować usterki. Sprawdź stan połączenia z siecią Wi-Fi."</string>
+    <string name="net_diag_diag_fail_china">"Nie udało się zdiagnozować usterki. Sprawdź stan połączenia z siecią Wi-Fi."</string>
+    <string name="net_diag_dialog_msg_china">Test Wi-Fi może pomóc przeanalizować i rozwiązać problemy z połączeniem. W trakcie jego trwania może dojść do automatycznego włączenia i wyłączenia Wi-Fi oraz hotspotu.</string>
+    <string name="net_diag_dialog_title_china">Przetestować Wi-Fi?</string>
+    <string name="net_diag_fix_guide_window_msg2">Dotknij, aby rozwiązać problem</string>
+    <string name="net_diag_help">Pomoc</string>
+    <string name="net_diag_title_china">Test Wi-Fi</string>
+    <string name="net_diag_wlan_basic_functions">Podstawowe funkcje Wi-Fi</string>
+    <string name="net_diag_wlan_basic_functions_china">Podstawowe funkcje Wi-Fi</string>
+    <string name="notify_log_catch_content">Po zreprodukowaniu problemu dotknij powiadomienia, aby przesłać opinię lub przytrzymaj je, aby zatrzymać generowanie logów</string>
+    <string name="toast_upload_screenrecorder">Prześlij nagranie problemu w celu jego analizy</string>
 </resources>
