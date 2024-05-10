@@ -669,4 +669,6 @@ z przedniego aparatu"</string>
   <string name="wifi_5ghz_sap_start_failed_by_region">Nie można użyć tetheringu podczas korzystania z sieci Wi-Fi 5 GHz.</string>
   <string name="aon_reader_support_scene_des">Przewracaj strony podczas czytania</string>
   <string name="aon_video_support_scene_des">Kontroluj postęp filmu</string>
+  <string name="car_share_return_status">"Nie udało się wysłać"</string>
+  <string name="car_share_view_content">Wyślij do %s</string>
 </resources>

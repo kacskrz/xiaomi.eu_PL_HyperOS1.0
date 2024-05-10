@@ -1059,7 +1059,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="fingerprint_verify_failed">"Nie można zweryfikować"</string>
   <string name="fingerprint_verify_succeed">Pomyślnie zweryfikowano</string>
   <string name="fingerprint_verify_try_agin">"Nie można zeskanować. Spróbuj ponownie."</string>
-  <string name="firewall_activity_lable">Ogranicz dostęp aplikacji do sieci</string>
+  <string name="firewall_activity_lable">Dostęp do sieci</string>
   <string name="firewall_allow_all">Zezwól na łączenie się aplikacji z siecią, korzystając z poniższej metody</string>
   <string name="firewall_allow_data">Zezwól na transmisję danych</string>
   <string name="firewall_allow_network">Dozwolone</string>
@@ -1084,7 +1084,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="firewall_rule_group_title_mobile">Dane</string>
   <string name="firewall_rule_group_title_roaming">Roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
-  <string name="firewall_system_title">Łączenie się aplikacji systemowych</string>
+  <string name="firewall_system_title">Dostęp do sieci dla aplikacji systemowych</string>
   <string name="firewall_temp_rule_reason">%2$s ograniczona łączność z siecią dla %1$s​</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"Gdy wyłączone, ta aplikacja nie będzie mogła korzystać z połączenia Wi-Fi"</string>
@@ -5957,8 +5957,8 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="app_management_for_chain_start_desc">Nie pozwalaj tej aplikacji na łączenie się lub otwieranie innych aplikacji</string>
     <string name="app_management_for_device_id">Ukryj identyfikatory i zapobiegaj śledzeniu</string>
     <string name="app_management_for_device_id_desc">Nie pozwalaj tej aplikacji na dostęp do Twojego numeru telefonu i rozpoznawania informacji osobistych</string>
-    <string name="app_management_for_independent_storage">Izoluj dane podręczne</string>
-    <string name="app_management_for_independent_storage_desc">Zezwalaj aplikacji tylko na dostęp do jej własnych plików i danych</string>
+    <string name="app_management_for_independent_storage">Niezależna pamięć</string>
+    <string name="app_management_for_independent_storage_desc">Przechowuj dane aplikacji niezależnie od innych aplikacji i zapobiegnij dostępowi do pewnych zewnętrznych danych przez nią</string>
     <string name="app_management_for_install">Blokuj pobierania aplikacji</string>
     <string name="app_management_for_install_desc">Nie pozwalaj tej aplikacji na pobieranie lub instalację innych aplikacji</string>
     <string name="app_management_measures">Zarządzanie aplikacjami</string>
@@ -6023,7 +6023,7 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="pc_smart_discharge_protect_notifi_summary">Ładowanie zatrzyma się automatycznie przy ustalonym poziomie baterii, gdy używasz nawigacji, aby chronić baterię</string>
     <string name="pc_smart_discharge_protect_notifi_title">Włączono Zatrzymywanie ładowania</string>
     <string name="phone_manage_privacy_title">Ochrona prywatności</string>
-    <string name="popular_action_anti_spam_title_global">Blokuj połączenia i wiadomości</string>
+    <string name="popular_action_anti_spam_title_global">Blokuj niechciane połączenia</string>
     <string name="popular_action_app_lock_title_global">Chroń aplikacje Blokadą aplikacji</string>
     <string name="popular_action_card_title">Popularne funkcje</string>
     <string name="popular_action_first_aid_title_global">Dla nowych użytkowników</string>
@@ -6465,4 +6465,49 @@ Urządzenie może się nagrzać i zużywać więcej energii."</string>
     <string name="pc_berserk_mode_noti_summary">Tryb wydajności może zwiększyć zużycie energii i prowadzić do przegrzania urządzenia</string>
     <string name="pc_berserk_mode_performance_title">Tryb wydajności</string>
     <string name="pc_power_mode_has_berserk">Włączono Tryb wydajności</string>
+    <string name="SC_HIPS_Perm_process_outgoing_calls">Odbieranie i kończenie połączeń</string>
+    <string name="SC_HIPS_Perm_read_clipboard">Dostęp do schowka</string>
+    <string name="SC_HIPS_Perm_write_clipboard">Dodawanie elementów do schowka</string>
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Cyfry</string>
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Symbole</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Litery</string>
+    <string name="app_isolate_func_close_tip">Jeśli wyłączysz tę funkcję, niektóre dane aplikacji mogą zostać utracone. Wykonaj kopię ważnych danych. Wyłączyć?</string>
+    <string name="app_isolate_func_closing">Wyłączanie…</string>
+    <string name="app_isolate_func_opening">Włączanie…</string>
+    <string name="app_lock_face_error_to_try">Dotknij ikony twarzy, aby użyć Odblokowania twarzą</string>
+    <string name="app_lock_pwd">Wprowadź hasło, aby odblokować</string>
+    <string name="app_lock_pwd_forget">Zapomniałem hasła</string>
+    <string name="app_lock_pwd_or_finger">Odblokuj hasłem lub odciskiem palca</string>
+    <string name="compact_safebox_dialog_tip">Aby poprawić wrażenia z użytkowania urządzenia, Druga przestrzeń nie wspiera już ukrytych folderów. Przenieś te elementy jak najszybciej, aby zapobiec ich utracie.</string>
+    <string name="cs_pickup_vioce_print_guide_dialog_desc">Zakończ połączenie i postępuj zgodnie z instrukcjami, aby rozpocząć.</string>
+    <string name="cs_pickup_vioce_print_guide_dialog_title">Aby przechwytywać dźwięk tylko od jednej osoby, nagraj jej próbkę głosu.</string>
+    <string name="cs_pickup_vioce_print_unsupport_tips">Nagraj próbkę głosu przed wybraniem opcji \"Jeden uczestnik\"</string>
+    <string name="cs_pickup_vioce_print_unsupport_toast">Odłącz zewnętrzne urządzenia i spróbuj ponownie</string>
+    <string name="cs_pickup_voice_print_desc">Przechwytuj dźwięk tylko od jednej osoby</string>
+    <string name="cs_voice_print">Nagraj próbkę głosu</string>
+    <string name="custom_define_permission_desc_android.permission.NEARBY_DEVICES">W celu podłączania i rozłączania urządzeń Bluetooth dla zautomatyzowanych zadań</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">"Nie zgadzam się"</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Zgadzam się</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>&lt;br>&lt;a href=\"%1$s\">Polityka prywatności&lt;/a> Xunyou Game Booster</Data></string>
+    <string name="gamebooster_confirm_dialog_title">Wyraź zgodę na warunki Polityki prywatności</string>
+    <string name="gamebooster_dialog_start_booster_new">Przyspiesz</string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Zapoznałem się i akceptuję warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xunyou Game Booster."</Data></string>
+    <string name="keyboard_key_back">Wstecz</string>
+    <string name="keyboard_key_space">Spacja</string>
+    <string name="lock_app_input_invalid_car">"Niektóre symbole nie są wspierane"</string>
+    <string name="menu_summary_antispam_calls">Blokuj niechciane połączenia</string>
+    <string name="pc_camera_printer_dialog_battery_full">W pełni naładowany</string>
+    <string name="pc_camera_printer_dialog_battery_low">Słaba bateria</string>
+    <string name="pc_camera_printer_dialog_negative_button">OK</string>
+    <string name="pc_camera_printer_dialog_positive_button">Otwórz Aparat</string>
+    <string name="pc_camera_printer_dialog_should_charge">Podłącz ładowarkę</string>
+    <string name="pc_camera_printer_notify_button">Otwórz Aparat</string>
+    <string name="pc_camera_printer_notify_subtitle">Podłączono</string>
+    <string name="pc_camera_printer_title">Photo Printer Kit</string>
+    <string name="pc_is_exiting_super_power">"Wyłączanie
+Ultraoszczędzania baterii"</string>
+    <string name="pc_satellite_auto_enter_super_power">Włączono Ultraoszczędzanie baterii, aby zapewnić działanie komunikacji satelitarnej</string>
+    <string name="revoke_not_allow_net_summary">Zezwól Panelowi sterowania na łączenie się z Internetem, aby móc wycofać zgodę na warunki Polityki prywatności.</string>
+    <string name="revoke_not_allow_net_title">Uwaga</string>
+    <string name="sp_app_install_protect_title">Ochrona dot. instalacji aplikacji</string>
 </resources>

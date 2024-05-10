@@ -1685,4 +1685,5 @@ Dotknij, aby go wyłączyć."</string>
     <string name="wallpaper_history">Historia tapet</string>
     <string name="lock_screen_card_title">Artystyczny Ekran blokady</string>
     <string name="theme_component_title_homepage">Strona główna</string>
+    <string name="loop_video_wallpaper">Zapętlij tapety wideo</string>
 </resources>
