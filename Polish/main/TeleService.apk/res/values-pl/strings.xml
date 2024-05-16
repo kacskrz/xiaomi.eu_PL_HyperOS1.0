@@ -2559,4 +2559,22 @@ Anulować usługi?"</string>
     <string name="satellite_low_battery_title">Niski poziom baterii</string>
     <string name="satellite_ct_business_summary">Usługi dostarczane przez China Telecom</string>
     <string name="satellite_open_tiantong_business_title">Włącz komunikację z satelitą Tiantong</string>
+   <string name="cf_setting_mobile_data_off_alert">Włącz dane mobilne</string>
+   <string name="cf_setting_network_alert">Upewnij się, że sieć jest dostępna</string>
+   <string name="cf_setting_wifi_on_alert">Wyłącz Wi-Fi</string>
+   <string name="enable_esim_summary">Aktywacja eSIM spowoduje dezaktywację karty SIM %s</string>
+   <string name="enter_mep_esim_manager_title">Zarządzaj kartami SIM</string>
+   <string name="incall_error_out_of_service_2g">"Nie masz zasięgu.
+
+Połącz się z Wi-Fi, aby wykonać połączenie.
+
+Na tym urządzeniu wyłączono sieć 2G, co może mieć wpływ na Twoją łączność. Przejdź do Ustawień i włącz opcję Zezwól na sieci 2G, aby kontynuować."</string>
+   <string name="incall_error_out_of_service_wfc_2g_user">"Nie masz zasięgu.
+
+Połącz się z Wi-Fi, aby wykonać połączenie.
+
+Na tym urządzeniu wyłączono sieć 2G, co może mieć wpływ na Twoją łączność. Przejdź do Ustawień i włącz opcję Zezwól na sieci 2G, aby kontynuować."</string>
+   <string name="no_network_available">Brak sieci</string>
+   <string name="radio_info_euicc_info">Informacje eUICC:</string>
+   <string name="roaming_preferred_wificall_title">Preferencje sieci (roaming)</string>
 </resources>

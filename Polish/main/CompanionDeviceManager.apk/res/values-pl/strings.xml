@@ -91,4 +91,13 @@
     <string name="title_computer">Zezwól aplikacji &lt;strong>%1$s&lt;/strong> na dostęp do tych informacji na Twoim telefonie</string>
     <string name="title_nearby_device_streaming">Zezwolić urządzeniu &lt;strong>%1$s&lt;/strong> na wykonanie tego działania?</string>
     <string name="vendor_header_button_description">Więcej informacji</string>
+    <string name="chooser_title_non_profile">Wybierz urządzenie, którym ma zarządzać aplikacja &lt;strong>%1$s&lt;/strong></string>
+    <string name="consent_cancel">Anuluj</string>
+    <string name="helper_summary_app_streaming_with_mirroring">%1$s prosi w imieniu urządzenia %2$s o pozwolenie na wyświetlanie i strumieniowanie aplikacji między Twoimi urządzeniami</string>
+    <string name="permission_notification_listener_access_summary">Odczytywanie wszystkich powiadomień, w tym informacji takich jak kontakty, wiadomości i zdjęcia</string>
+    <string name="summary_app_streaming">%1$s będzie mieć dostęp do wszystkiego, co jest widoczne i odtwarzane na telefonie, w tym do dźwięku, zdjęć, haseł i wiadomości.&lt;br/>&lt;br/>%1$s będzie w stanie strumieniować aplikacje, dopóki nie usuniesz dostępu do tego uprawnienia.</string>
+    <string name="summary_glasses">Aplikacja będzie miała dostęp do tych uprawnień na Twoim urządzeniu (%1$s)</string>
+    <string name="summary_nearby_device_streaming">%1$s będzie mieć dostęp do wszystkiego, co jest widoczne i odtwarzane na telefonie, w tym do dźwięku, zdjęć, danych do płatności, haseł i wiadomości.&lt;br/>&lt;br/>%1$s będzie w stanie strumieniować aplikacje i funkcje systemowe, dopóki nie usuniesz dostępu do tego uprawnienia.</string>
+    <string name="title_app_streaming_with_mirroring">Zezwolić aplikacji &lt;strong>%1$s&lt;/strong> na strumieniowanie aplikacji z telefonu?</string>
+    <string name="title_nearby_device_streaming_with_mirroring">Zezwolić urządzeniu &lt;strong>%1$s&lt;/strong> na strumieniowanie aplikacji i funkcji systemowych z telefonu?</string>
 </resources>

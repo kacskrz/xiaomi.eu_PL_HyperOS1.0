@@ -1043,4 +1043,6 @@
   <string name="be_figuring">Obliczanie…</string>
   <string name="dc_storage_info_new">Dostępne %1$s</string>
   <string name="lock_device_toast">To urządzenie jest zablokowane. Odblokuj je, aby użyć Czyszczenia.</string>
+  <string name="junk_tag_RF_EmptyFolders">Puste foldery</string>
+  <string name="junk_tag_RF_ImageThumbnails">Miniaturki Galerii</string>
 </resources>

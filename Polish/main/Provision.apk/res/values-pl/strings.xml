@@ -650,4 +650,10 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
     <string name="power_and_performance_introduction">Ta usługa dostarcza usługi podstawowego zarządzania baterią, statystyki użytkowania, funkcje oszczędzania energii i inne.</string>
     <string name="phone_introduction">Możesz użyć tej aplikacji do odnajdywania i neutralizacji wirusów, blokowania połączeń i SMS-ów, optymalizacji wydajności pod kątem gier, oszczędzania baterii, a także zarządzania aplikacjami, uprawnieniami, zużyciem danych i innymi rzeczami.</string>
     <string name="phone_name_security">Panel sterowania</string>
+   <string name="check_network_status">"Nie udało się zweryfikować konta ze względu na błąd sieci"</string>
+   <string name="software_account_mismatch">Weryfikacja konta</string>
+   <string name="software_account_mismatch_summary">Weryfikowanie konta…</string>
+   <string name="software_version_mismatch">Niewspierane oprogramowanie</string>
+   <string name="software_version_mismatch_summary">"Ta wersja oprogramowania nie jest wspierana przez Twoje urządzenie. Korzystanie z niej może być niebezpieczne. Aby dowiedzieć się więcej, skontaktuj się ze sprzedawcą."</string>
+   <string name="startup_page_text_hint">Rozłóż, aby aktywować urządzenie</string>
 </resources>

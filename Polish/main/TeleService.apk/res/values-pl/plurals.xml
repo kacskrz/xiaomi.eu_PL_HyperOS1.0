@@ -161,4 +161,8 @@ Pozostało prób: %d."</item>
         <item quantity="few">Niski poziom baterii. Połączenie z satelitą Tiantong zakończy się za %d sekundy.</item>
         <item quantity="one">Niski poziom baterii. Połączenie z satelitą Tiantong zakończy się za %d sekundę.</item>
     </plurals>
+   <plurals name="satellite_privacy_withdrawal_dialog_disable_negative">
+       <item quantity="other">Anuluj usługi (%d s)</item>
+       <item quantity="one">Anuluj usługi (%d s)</item>
+   </plurals>
 </resources>

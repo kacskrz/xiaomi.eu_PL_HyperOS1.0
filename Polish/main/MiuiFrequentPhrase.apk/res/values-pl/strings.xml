@@ -55,4 +55,8 @@
     <string name="super_clipboard_send_file">Wkleić plik ze schowka?</string>
     <string name="super_clipboard_send_image">Wkleić obraz ze schowka?</string>
     <string name="phrase_network_tip_summary">Aby synchronizować Twoje częste zwroty ze chmurą i używać ich na Twoich urządzeniach, zezwól tej aplikacji na łączenie się z Internetem.</string>
+   <string name="input_method_clipboard_commit_failed">"Nie można wkleić tego elementu"</string>
+   <string name="input_method_clipboard_commit_img_failed">"Nie można wklejać obrazów na tej stronie"</string>
+   <string name="input_method_clipboard_list_file_item_prefix">"[Plik] "</string>
+   <string name="input_method_clipboard_list_loading">Chwileczkę…</string>
 </resources>

@@ -2046,4 +2046,9 @@
         <item>Wszystkie karty</item>
         <item>Karty rozpoznawane przez system</item>
     </string-array>
+    <string-array name="bluetooth_leaudio_mode">
+        <item>Wyłączone</item>
+        <item>Unicast</item>
+        <item>Unicast i Broadcast</item>
+    </string-array>
 </resources>

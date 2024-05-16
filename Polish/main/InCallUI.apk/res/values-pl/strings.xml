@@ -534,4 +534,9 @@ Utrzymuj urządzenie w tym położeniu"</string>
     <string name="satellite_location_deny_permission_msg">Zezwól na dostęp do lokalizacji, aby włączyć komunikację z satelitą Tiantong</string>
     <string name="satellite_signal_boost_setting_dialog">Po instalacji i aktywacji wzmacniacz sygnału delikatnie zmieni kąt nachylenia urządzenia względem satelity, poprawiając siłę sygnału i stabilność połączenia w trudnych warunkach atmosferycznych.</string>
     <string name="satellite_signal_boost_setting_dialog_title">Zainstaluj i zacznij używać wzmacniacza sygnału satelity</string>
+    <string name="satellite_service_reject_cause_imei">"Numer IMEI urządzenia nie jest zarejestrowany"</string>
+    <string name="satellite_service_reject_cause_not_enable_International_roaming">Włącz roaming międzynarodowy</string>
+    <string name="satellite_service_reject_cause_not_order_tiantong">Włącz usługi satelity Tiantong</string>
+    <string name="satellite_service_reject_cause_not_use_ctc">Włóż kartę SIM China Telecom</string>
+    <string name="satellite_state_voice_reg_fail_exit">Wyjdź</string>
 </resources>

@@ -141,4 +141,5 @@
   <string name="new_cta_app_purpose_two">Witaj w Kompasie! Możesz używać tej aplikacji do odnajdywania kierunku oraz długości i szerokości geograficznej. Aby dostarczać te usługi, aplikacja musi się połączyć z Internetem.</string>
   <string name="v2_permission_location_desc_one">W celu wyświetlania długości i szerokości geograficznej, wysokości i ciśnienia atmosferycznego</string>
   <string name="v2_permission_location_desc_two">W celu wyświetlania długości i szerokości geograficznej</string>
+  <string name="calibrate_rotate_more_again">Wykryto zakłócenia magnetyczne. Przed kalibracją wyjdź na otwartą przestrzeń.</string>
 </resources>
