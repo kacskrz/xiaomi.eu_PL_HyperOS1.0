@@ -13749,7 +13749,6 @@ Wiadomość wyslana przez satelitę Tiantong. Nadawca może potrzebować pilnej 
     <string name="bluetooth_details_audio_device_types_title">Typ urządzenia audio</string>
     <string name="bluetooth_details_permissions_sync_summary">Przyznaj na zegarku te same uprawnienia aplikacji, które masz na tym telefonie</string>
     <string name="bluetooth_details_permissions_sync_title">Synchronizuj uprawnienia z telefonu</string>
-    <string name="bluetooth_disable_toast">Nie można włączyć Bluetooth. Wygląda na to, że funkcjonalność Bluetooth została ograniczona.</string>
    <string name="bluetooth_empty_list_bluetooth_off_auto_on_available">Gdy włączone jest Bluetooth, twoje urządzenie może się komunikować z innymi urządzeniami Bluetooth w pobliżu. Funkcje takie jak Szybkie udostępnianie, Znajdź moje urządzenie czy lokalizacja urządzenia korzystają z Bluetooth.</string>
     <string name="bluetooth_leaudio_mode">Tryb Bluetooth LE Audio</string>
    <string name="bluetooth_notification_title">Powiadomienia</string>
@@ -13817,7 +13816,6 @@ Aplikacje i usługi wciąż mogą poszukiwać urządzeń w pobliżu w dowolnym m
     <string name="credman_button_open">Otwórz</string>
     <string name="credman_confirmation_change_provider_positive_button">Zmień</string>
     <string name="credman_confirmation_message_new_ui">&lt;b>Wyłączyć wszystkie usługi?&lt;/b> &lt;br/> &lt;br/> Hasła, klucze dostępu i inne zapisane informacje nie będą mogły być automatycznie uzupełniane podczas logowania</string>
-    <string name="credman_confirmation_message_positive_button">Wyłącz</string>
     <string name="credman_limit_error_msg">Wyłącz co najmniej 1 usługę, aby dodać kolejną</string>
     <string name="credman_limit_error_msg_title">Możesz mieć włączonych jednocześnie tylko 5 usług</string>
     <string name="daltonizer_feature_summary">Dostosuj sposób wyświetlania kolorów na ekranie telefonu</string>
@@ -13947,7 +13945,6 @@ Aplikacje i usługi wciąż mogą poszukiwać urządzeń w pobliżu w dowolnym m
     <string name="media_output_title_without_playing">Dźwięk będzie nadal odtwarzany</string>
     <string name="media_routing_control_title">Zmień wyjście multimediów</string>
    <string name="media_transfer_this_device_name_tablet">ten tablet</string>
-   <string name="media_transfer_this_phone">ten phone</string>
    <string name="miheadset_codec_lossless">Bezstratny</string>
    <string name="miheadset_key_config_camera_shutter">Migawka aparatu</string>
    <string name="miracast_wireless_display">Ekran bezprzewodowy Miracast</string>
@@ -13996,8 +13993,6 @@ Każdy użytkownik może przyznawać uprawnienia w imieniu wszystkich profili u�
     <string name="primary_sim_calls_title">Połączenia</string>
     <string name="primary_sim_texts_title">SMS-y</string>
     <string name="primary_sim_title">Twoje podstawowe karty SIM</string>
-    <string name="private_dns_host_name">Nazwa hosta dostawcy prywatnego DNS</string>
-    <string name="private_dns_title">Prywatny DNS</string>
     <string name="private_space_access_text">Aby znaleźć przestrzeń prywatną, przejdź do listy aplikacji, a następnie przewiń w dół</string>
     <string name="private_space_accounts">Konta poniżej zostaną usunięte z przestrzeni prywatnej:</string>
    <string name="private_space_apps_and_notifications_header">Aplikacje i powiadomienia</string>
@@ -14097,8 +14092,6 @@ Korzystanie z dedykowanego konta zapobiega wyświetlaniu się synchronizowanych
 Jeśli na to nie zezwolisz, system nie przyzna tej aplikacji żadnego specjalnego zwolnienia, aby mogła wykonywać prace związane z tworzeniem kopii zapasowych w tle."</string>
     <string name="run_backup_tasks_switch_title">Zezwalaj aplikacji na uruchamianie w tle zadań związanych z tworzeniem kopii zapasowych</string>
     <string name="run_backup_tasks_title">Wykonuj zadania tworzenia kopii zapasowych w tle</string>
-    <string name="satellite_call_assistant">Ustawienia połączeń</string>
-    <string name="satellite_network_title">Funkcje połączeń satelitarnych</string>
     <string name="satellite_setting">Przesyłanie wiadomości przez satelitę</string>
     <string name="satellite_setting_disabled_summary">Wysyłanie i odbieranie SMS-ów przez satelitę. Twoje konto nie obejmuje tej funkcji.</string>
     <string name="satellite_setting_enabled_summary">Wysyłanie i odbieranie SMS-ów przez satelitę. Twoje konto obejmuje tę funkcję.</string>
@@ -14107,7 +14100,6 @@ Jeśli na to nie zezwolisz, system nie przyzna tej aplikacji żadnego specjalneg
 Pojawienie się zmian na koncie w Ustawieniach może zająć trochę czasu. Skontaktuj się z operatorem %1$s i dowiedz się więcej."</string>
     <string name="satellite_setting_title">Przesyłanie wiadomości przez satelitę</string>
    <string name="screen_dark_mode_time_summary_kddi">Jeśli wyłączysz ekran po ustawionym czasie, zostanie włączony Ciemny motyw</string>
-    <string name="screen_enhance_engine_memc_note_3">%d. Ta funkcja nie jest dostępna podczas korzystania z Trybu wydajności, Oszczędzania baterii lub Ultraoszczędzania baterii.</string>
     <string name="security_settings_face_remove_dialog_details_fingerprint">"Model twarzy zostanie trwale i bezpiecznie usunięty.
 
 Po usunięciu tych danych do odblokowywania telefonu i uwierzytelniania się w aplikacjach trzeba będzie używać odcisku palca, kodu PIN, wzoru lub hasła."</string>
@@ -14175,7 +14167,6 @@ Nie można mieć kilku skonfigurowanych zegarków jednocześnie. Aby dodać kole
     <string name="sleep_on_fold_title">Nigdy</string>
     <string name="slow_keys">Powolne klawisze</string>
     <string name="slow_keys_summary">Włącz Powolne klawisze w ułatwieniach dostępu klawiatury fizycznej</string>
-    <string name="small_window_not_support_add_data_toast">Nie można rejestrować danych w pływających oknach. Przełącz na pełny ekran i spróbuj ponownie.</string>
     <string name="state_off">Wyłączono</string>
     <string name="state_on">Włączono</string>
     <string name="stay_awake_on_fold_summary">Przedni ekran włącza się, gdy składasz urządzenie</string>
@@ -14210,7 +14201,6 @@ Nie można mieć kilku skonfigurowanych zegarków jednocześnie. Aby dodać kole
     <string name="title_supported_service">Gdy Twój telefon połączy się z satelitą</string>
     <string name="title_system_locale_addition">Dodać %s do preferowanych języków?</string>
     <string name="toast_16k_update_failed_text">Nie udało się zaktualizować jądra systemu, aby obsługiwał strony o rozmiarze 16 KB.</string>
-   <string name="toast_bluetooth_disable">"Nie można włączyć Bluetooth. Wygląda na to, że przeinstalowano moduł Bluetooth albo dostęp do Bluetooth został ograniczony."</string>
     <string name="tooltip_description">etykietka</string>
     <string name="tooltip_label">pokaż etykietkę</string>
     <string name="tv_bluetooth_battery_level">Bateria %1$s</string>
@@ -14269,16 +14259,12 @@ Portfele i inne aplikacje wymagające odblokowania urządzenia mogą nie dział
     <string name="wifi_hotspot_instant_summary_off">Wyłączono</string>
     <string name="wifi_hotspot_instant_summary_on">Włączono</string>
     <string name="wifi_hotspot_instant_title">Błyskawiczny hotspot</string>
-    <string name="wifi_hotspot_maximize_compatibility">Zwiększ zgodność</string>
-    <string name="wifi_hotspot_maximize_compatibility_dual_ap_summary">Ułatwia znajdowanie tego hotspota przez inne urządzenia. Zwiększa zużycie baterii.</string>
-    <string name="wifi_hotspot_maximize_compatibility_single_ap_summary">Ułatwia znajdowanie tego hotspota przez inne urządzenia. Zmniejsza szybkość połączenia hotspota.</string>
    <string name="wifi_settings_ssid_block_button_close">Zamknij</string>
     <string name="wifi_settings_warning_wep_network">Ta sieć wykorzystuje starszy protokół zabezpieczeń, który jest mniej bezpieczny</string>
     <string name="wifi_settings_wep_networks_blocked_title">Aplikacja %1$s została zablokowana</string>
     <string name="wifi_settings_wep_networks_button_allow">Zezwalaj na sieci z protokołem WEP</string>
     <string name="wifi_settings_wep_networks_summary_blocked_by_carrier">Twój operator nie zezwala na łączenie się z tą siecią, ponieważ korzysta ona ze starszego protokołu zabezpieczeń, który jest mniej bezpieczny</string>
     <string name="wifi_settings_wep_networks_summary_toggle_off">Ta sieć wykorzystuje starszy protokół zabezpieczeń WEP, który jest mniej bezpieczny. Aby połączyć się mimo to, można zezwolić na sieci z protokołem WEP.</string>
-    <string name="wifi_tether_connected_summary">{count,plural, =1{1 połączone urządzenie}few{# połączone urządzenia}many{# połączonych urządzeń}other{# połączonego urządzenia}}</string>
     <string name="wifi_warning_continue_button">Usuń mimo to</string>
     <string name="wifi_warning_dialog_text">Ułatwi to ponowne korzystanie z karty eSIM w przyszłości bez kontaktowania się z operatorem</string>
     <string name="wifi_warning_dialog_title">Połącz się z Wi‑Fi przed usunięciem danych</string>
