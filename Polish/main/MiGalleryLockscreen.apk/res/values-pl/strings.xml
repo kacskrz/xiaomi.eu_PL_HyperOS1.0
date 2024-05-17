@@ -986,4 +986,36 @@ Może to generować dodatkowe opłaty."</string>
   <string name="surprise_wallpaper_empty_dlg_title">Tapeta AI</string>
   <string name="ai_wallpaper_declare_double_link"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>.</Data></string>
   <string name="surprise_wallpaper_generate_failed_toast">Nie udało się wygenerować tapety AI</string>
+    <string name="ai_back">Wstecz</string>
+    <string name="ai_begin">Start</string>
+    <string name="ai_disable_limit_message">Wyczerpano próby na dziś. Stwórz więcej tapet SI jutro!</string>
+    <string name="ai_edit_hint">Opisz rezultat, którego się spodziewasz. Dobry opis może pomóc modelowi SI stworzyć lepszą tapetę (np. słowa typu \"Gold\",\"Dragon\",\"Soaring\",\"Cloud\").</string>
+    <string name="ai_network_error_message">"Brak połączenia z siecią. Nie można użyć tapety SI."</string>
+    <string name="ai_next">Zapisz do Galerii</string>
+    <string name="ai_participation">Udział SI</string>
+    <string name="ai_recommend_keyword">Style</string>
+    <string name="ai_text_limit">"Nie można wprowadzić więcej tekstu"</string>
+    <string name="creation_ai_disable_limit_message">Wyczerpano próby na dziś. Stwórz więcej tapet SI jutro!</string>
+    <string name="creation_ai_disable_message">Ta funkcja jest dostępna tylko dla betatesterów. Możesz aplikować o dostęp do niej na chińskim Xiaomi Community.</string>
+    <string name="creation_ai_disable_title">Wymagane uprawnienia betatestera</string>
+    <string name="creation_ai_err">Wyjątek uwierzytelniania</string>
+    <string name="creation_ai_load">Chwileczkę…</string>
+    <string name="creation_ai_ok">OK</string>
+    <string name="creation_ai_recreate">Zacznij od nowa</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja ze chmurą wył.</string>
+    <string name="miuix_appcompat_cloud_state_finished">Pomyślnie zsynchronizowano ze chmurą</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Synchronizacja ze chmurą…</string>
+    <string name="miuix_search_action_mode_cancel">Anuluj</string>
+    <string name="miuix_search_history_clear">Wyczyść historię wyszukiwania</string>
+    <string name="miuix_search_history_default_title">Historia wyszukiwania</string>
+    <string name="miuix_search_recommendation_default_title">Możesz być tym zainteresowany</string>
+    <string name="miuix_search_recommendation_item_del_des">Usuń</string>
+    <string name="prompt_add_origin_pic">Dodaj obraz</string>
+    <string name="prompt_add_tip">Dodaj opis</string>
+    <string name="sensitive_preview">"Nie można utworzyć tapety SI ze względu na wrażliwą lub nieodpowiednią zawartość"</string>
+    <string name="sensitive_prompt">"Nie można utworzyć tapety SI ze względu na wrażliwą lub nieodpowiednią zawartość"</string>
+    <string name="sst_ai_wallpaper_Activity_title">Stwórz tapety SI</string>
+    <string name="sst_ai_wallpaper_desc">Stwórz tapety w wysokiej rozdzielczości i w różnych stylach ze swoich obrazów przez AIGC.</string>
+    <string name="sst_ai_wallpaper_title">Kreator tapet SI</string>
+    <string name="wallpaper_creator_empty_dlg_content">Zaimportuj swój obraz, wprowadź opis i wygeneruj cztery stylizowane tapety poprzez duże modele SI. Wybierz ten obraz, który zadowala Cię najbardziej, i dodaj go do Galerii.</string>
 </resources>

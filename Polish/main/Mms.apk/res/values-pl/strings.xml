@@ -1455,7 +1455,7 @@ do Listy blokowanych"</string>
     <string name="notes_not_found">Najpierw zainstaluj Notatki</string>
     <string name="soundrecorder_not_found">Najpierw zainstaluj Dyktafon</string>
     <string name="button_copy">Kopiuj</string>
-    <string name="mms_main_purpose_new">Aby dostarczać Ci podstawowe usługi, aplikacja musi się łączyć z Internetem. Xiaomi zaleca również włączenie usług Wiadomości w Chmurze oraz Inteligentne wiadomości.</string>
+    <string name="mms_main_purpose_new">Aby dostarczać Ci podstawowe usługi, aplikacja musi się łączyć z Internetem.</string>
     <string name="system_permission_declare_exit">Wyjdź</string>
     <string name="wait_for_sp_mark_as_read">Chwileczkę…</string>
     <string name="pref_title_perm_read_audio">Dostęp do plików audio</string>
@@ -1520,4 +1520,5 @@ Aby kontrolować długość wiadomości, pobrane zostanie tylko pierwsze 50 znak
     <string name="send_success">Pomyślnie wysłano</string>
     <string name="wrong_mms_version_msg">"Zainstaluj wersję aplikacji SMS kompatybilną ze Twoim urządzeniem i systemem."</string>
     <string name="wrong_mms_version_title">Błąd wersji</string>
+    <string name="send_fail">"Nie udało się wysłać"</string>
 </resources>

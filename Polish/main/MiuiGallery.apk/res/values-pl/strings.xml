@@ -3929,4 +3929,9 @@ Spróbuj utworzyć obraz SI za pomocą innych zdjęć."</string>
     <string name="syncing_global_metadata_title">Synchronizacja danych z chmurą…</string>
     <string name="video_editor_component_next_step">Dalej %1$d/%2$d</string>
     <string name="video_editor_picker_duration_too_short">Wideo jest za krótkie</string>
+    <string name="father_day">"Dzień Matki"</string>
+    <string name="mather_day">"Dzień Ojca"</string>
+    <string name="new_year_eve">"Nowy Rok"</string>
+    <string name="thanksgiving_day">Święto Dziękczynienia</string>
+    <string name="the_christmas_eve">Wigilia Bożego Narodzenia</string>
 </resources>
