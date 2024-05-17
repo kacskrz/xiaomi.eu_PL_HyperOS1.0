@@ -1015,7 +1015,7 @@ Może to generować dodatkowe opłaty."</string>
     <string name="sensitive_preview">"Nie można utworzyć tapety SI ze względu na wrażliwą lub nieodpowiednią zawartość"</string>
     <string name="sensitive_prompt">"Nie można utworzyć tapety SI ze względu na wrażliwą lub nieodpowiednią zawartość"</string>
     <string name="sst_ai_wallpaper_Activity_title">Stwórz tapety SI</string>
-    <string name="sst_ai_wallpaper_desc">Stwórz tapety w wysokiej rozdzielczości i w różnych stylach ze swoich obrazów przez AIGC.</string>
+    <string name="sst_ai_wallpaper_desc">Stwórz tapety w wysokiej rozdzielczości i w różnych stylach ze swoich obrazów.</string>
     <string name="sst_ai_wallpaper_title">Kreator tapet SI</string>
     <string name="wallpaper_creator_empty_dlg_content">Zaimportuj swój obraz, wprowadź opis i wygeneruj cztery stylizowane tapety poprzez duże modele SI. Wybierz ten obraz, który zadowala Cię najbardziej, i dodaj go do Galerii.</string>
 </resources>
