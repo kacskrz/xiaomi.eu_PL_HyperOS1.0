@@ -368,8 +368,6 @@
   <string name="network_2G_only">2G only</string>
   <string name="network_3G_only">3G only</string>
   <string name="network_connection_connecting_message">Łączę się z urządzeniem…</string>
-  <string name="network_connection_request_dialog_summary">%1$s app wants to use a temporary WLAN network to connect to your device</string>
-  <string name="network_connection_request_dialog_title">Connect to device</string>
   <string name="network_connection_searching_message">Szukam urządzenia…</string>
   <string name="network_recommended">" (zalecane)"</string>
   <string name="nfc_and_payment_settings_no_payment_installed_summary">Najpierw zainstaluj aplikację do obsługi płatności</string>
