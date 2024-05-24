@@ -410,4 +410,22 @@
     <string name="ear_scan_redo_dialog_title">Rozpocząć ponownie?</string>
     <string name="ear_scan_right_ear">Prawe</string>
     <string name="ear_scan_scan_done">Gotowe</string>
+    <string name="ear_canal_scan_toast_calling">Zakończ trwające połączenie przed włączeniem Adaptacyjnego dźwięku</string>
+    <string name="voice_print_delete">Usuń próbkę głosu</string>
+    <string name="voice_print_delete_dialog_message">Wybrane elementy zostaną bezpowrotnie usunięte.</string>
+    <string name="voice_print_dialog_message">Aby użyć tej funkcji, musisz nagrać próbkę swojego głosu. Zrobić to teraz?</string>
+    <string name="voice_print_dialog_title">Wymagana próbka głosu</string>
+    <string name="voice_print_finish">Gotowe</string>
+    <string name="voice_print_name_change">Zmień nazwę próbki głosu</string>
+    <string name="voice_print_new">Nagraj nową próbkę głosu</string>
+    <string name="voice_print_note_description" formatted="false">Optymalizacja próbki głosu to technologia oparta na sztucznej inteligencji, która wykorzystuje unikalne cechy wokalne użytkowników do redukcji szumów. Technologia ta opiera się na indywidualnych atrybutach akustycznych, takich jak intonacja, wysokość i tempo mowy. Przed użyciem tej technologii należy nagrać około %d do %d sekund swojego głosu. System będzie uczył się na podstawie Twojego głosu, zachowując tylko ten głos podczas połączeń i jednocześnie odfiltrowując wszelkie szumy tła oraz inne głosy.</string>
+    <string name="voice_print_note_device">Przed nagraniem odłącz zewnętrzne urządzenia</string>
+    <string name="voice_print_note_environment">Przytrzymaj poniższy przycisk i przeczytaj tekst spokojnym tempem i w cichym otoczeniu</string>
+    <string name="voice_print_note_in_call">"Nie można nagrywać próbki głosu w trakcie połączeń"</string>
+    <string name="voice_print_num">Próbka głosu %s</string>
+    <string name="voice_print_pref_name">Nagraj próbkę głosu</string>
+    <string name="voice_print_press">Przytrzymaj, aby nagrywać</string>
+    <string name="voice_print_re_record">Nagraj ponownie</string>
+    <string name="voice_print_select">Wybierz próbkę głosu</string>
+    <string name="voice_print_toast_environment">Nagrywaj w cichym otoczeniu</string>
 </resources>

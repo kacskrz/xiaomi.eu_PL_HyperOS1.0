@@ -982,4 +982,5 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="toast_notes_hidden_home_new">Ukryto notatkę. Pociągnij w dół, aby zobaczyć ukryte notatki.</string>
   <string name="miuix_navigator_category_group_collapse">Zwiń</string>
   <string name="miuix_navigator_category_group_expand">Rozwiń</string>
+  <string name="miuix_appcompat_cloud_state_encrypt_disabled">Włącz ochronę end-to-end, aby zsynchronizować elementy</string>
 </resources>

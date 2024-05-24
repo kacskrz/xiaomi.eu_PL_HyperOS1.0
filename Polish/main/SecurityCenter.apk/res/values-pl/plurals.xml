@@ -1622,4 +1622,8 @@ Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkow
         <item quantity="other">%d razy</item>
         <item quantity="one">%d raz</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-dniową</item>
+        <item quantity="one">%d-dniową</item>
+    </plurals>
 </resources>

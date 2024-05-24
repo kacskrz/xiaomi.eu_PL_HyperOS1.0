@@ -954,4 +954,10 @@ został wykorzystany"</string>
     <string name="mi_transfer_banner_title">Przenieś elementy ze starego urządzenia</string>
     <string name="footer_global_fps">"
 %1$d. Gdy włączysz Tryb wydajności, zostanie ustawiona najwyższa możliwa częstotliwość odświeżania (%2$d Hz). Ustawienia korzystania przez aplikacje z wysokiej częstotliwości odświeżania będą tymczasowo niedostępne."</string>
+    <string name="crazy_mode">Tryb Ultra</string>
+    <string name="footer_global_fps_new">"
+%1$d. %2$s podnosi częstotliwość odświeżania do %3$d Hz (maksymalnej wspieranej przez system). Ustawienia dot. wysokiej częstotliwości odświeżania w aplikacjach będą tymczasowo niedostępne."</string>
+    <string name="performance_mode">Tryb wydajności</string>
+    <string name="search_anti_flicker_mode">Ograniczenie migotania</string>
+    <string name="search_low_flicker_mode">Ograniczenie migotania</string>
 </resources>
