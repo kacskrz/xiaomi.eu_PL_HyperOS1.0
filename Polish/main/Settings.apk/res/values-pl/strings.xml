@@ -14275,4 +14275,10 @@ Portfele i inne aplikacje wymagające odblokowania urządzenia mogą nie dział
     <string name="wifitrackerlib_hotspot_network_summary_new">{DEVICE_TYPE,select, PHONE{{NETWORK_NAME} z Twojego telefonu}TABLET{{NETWORK_NAME} z Twojego tabletu}COMPUTER{{NETWORK_NAME} z Twojego komputera}WATCH{{NETWORK_NAME} z Twojego zegarka}VEHICLE{{NETWORK_NAME} z Twojego pojazdu}other{{NETWORK_NAME} z Twojego urządzenia}}</string>
     <string name="wifitrackerlib_link_speed_mbps">%1$d Mb/s</string>
     <string name="wifitrackerlib_link_speed_on_band">%2$s: %1$s</string>
+    <string name="hom_switch_summary">Włącz tę opcję, aby używać do celów testowych modulacji wyższego rzędu 1024QAM. Funkcja może wpływać na korzystanie z sieci.</string>
+    <string name="hom_switch_title">Modulacja wyższego rzędu</string>
+    <string name="illegal_device_name_modification_notification">Zmień nazwę swojego urządzenia</string>
+    <string name="illegal_hotspot_name_modification_notification">Zmień nazwę swojego hotspotu</string>
+    <string name="name_modification_no_network_notification">Połącz się z siecią i spróbuj ponownie</string>
+    <string name="save_device_name_progress_message">Zapisywanie…</string>
 </resources>

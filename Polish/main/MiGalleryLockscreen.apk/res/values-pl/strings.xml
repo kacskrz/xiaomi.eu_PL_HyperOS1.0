@@ -1018,4 +1018,12 @@ Może to generować dodatkowe opłaty."</string>
     <string name="sst_ai_wallpaper_desc">Stwórz tapety w wysokiej rozdzielczości i w różnych stylach ze swoich obrazów.</string>
     <string name="sst_ai_wallpaper_title">Kreator tapet SI</string>
     <string name="wallpaper_creator_empty_dlg_content">Zaimportuj swój obraz, wprowadź opis i wygeneruj cztery stylizowane tapety poprzez duże modele SI. Wybierz ten obraz, który zadowala Cię najbardziej, i dodaj go do Galerii.</string>
+    <string name="prompt_Theme_tip">Nie udało się uzyskać stylu. Upewnij się, że masz połączenie z siecią, a czas został ustawiony prawidłowo.</string>
+    <!-- ?????? -->
+    <string name="surprise_wallpaper_can_not_open_tip">Włącz pokaz slajdów</string> 
+    <string name="surprise_wallpaper_goto_prompts_error">Wystąpił błąd sieci. Spróbuj ponownie później.</string>
+    <string name="surprise_wallpaper_prompts_null">Wybranie oryginalnego obrazu nie spowoduje dodania go do ulubionych</string>
+    <string name="surprise_wallpaper_prompts_send_failed">Nie udało się wysłać. Spróbuj ponownie.</string>
+    <string name="surprise_wallpaper_prompts_send_succeed">Pomyślnie wysłano</string>
+    <string name="surprise_wallpaper_prompts_sending">Wysyłanie preferencji…</string>
 </resources>

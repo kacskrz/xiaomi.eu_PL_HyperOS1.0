@@ -916,4 +916,9 @@ Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się z administrat
         <item quantity="other">Zmiany zostaną zastosowane za %d sek.</item>
         <item quantity="one">Zmiany zostaną zastosowane za %d sek.</item>
     </plurals>
+    <plurals name="hom_info">
+        <item quantity="other">Odczekaj %d sekund i spróbuj ponownie</item>
+        <item quantity="few">Odczekaj %d sekundy i spróbuj ponownie</item>
+        <item quantity="one">Odczekaj %d sekundę i spróbuj ponownie</item>
+    </plurals>
 </resources>
