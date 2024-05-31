@@ -4257,4 +4257,6 @@ Zablokowano – za dużo prób logowania."</string>
     <string name="work_challenge_emergency_button_text">Połączenie alarmowe</string>
     <string name="work_mode_off_title">Cofnąć wstrzymanie aplikacji służbowych?</string>
     <string name="work_mode_turn_on">Cofnij wstrzymanie</string>
+    <string name="screen_pinning_button_navigation_mode">OK</string>
+    <string name="screen_pinning_toast_cancel">Odpięto aplikację</string>
 </resources>

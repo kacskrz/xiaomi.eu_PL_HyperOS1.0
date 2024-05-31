@@ -986,4 +986,27 @@ aby Xiaomi HyperMind mógł się uczyć i tworzyć wzorce"</string>
   <string name="window_card_ml_find_null_camera">"Nie udało się znaleźć aparatu lub urządzenia w pobliżu"</string>
   <string name="app_name_vtcamera">Wspólny aparat</string>
   <string name="onehop_mirror_guide_message_title">Łączność między urządzeniami Xiaomi</string>
+    <string name="cancel">Anuluj</string>
+    <string name="circulate_headset_error_headset_not_worn_single">Noś swoje słuchawki, aby użyć tej funkcji</string>
+    <string name="hm_always_execute">Zawsze</string>
+    <string name="hm_has_ignored">Pomyślnie zignorowano ten wzorzec</string>
+    <string name="hm_has_remembered">Pomyślnie zapamiętano ten wzorzec</string>
+    <string name="hm_new_habit">Nowe wzorce</string>
+    <string name="hm_new_habit_empty_title">Brak wzorców</string>
+    <string name="hm_not_notify">"Nie pokazuj ponownie"</string>
+    <string name="hm_setstate_error">"Nie udało się ukończyć tej akcji"</string>
+    <string name="hm_time_today_executed">Użyto dziś o %s</string>
+    <string name="hm_time_today_remembered">Zapamiętano dziś o %s</string>
+    <string name="hm_time_yesterday_executed">Użyto wczoraj o %s</string>
+    <string name="hm_time_yesterday_remembered">Zapamiętano wczoraj o %s</string>
+    <string name="i_see">OK</string>
+    <string name="image_transfer_failed">"Nie udało się przesłać obrazu"</string>
+    <string name="install">Zainstaluj</string>
+    <string name="message_connection_interrupted">Upewnij się, że komputer i tablet znajdują się w zasięgu połączenia i mają włączone Wi-Fi oraz Bluetooth. Aby kontynuować, rozpocznij ponownie zadanie na komputerze.</string>
+    <string name="message_install">Aby móc szkicować na różnych urządzeniach, zainstaluj Mi Canvas.</string>
+    <string name="message_update">Aby móc szkicować na różnych urządzeniach, zaktualizuj Mi Canvas.</string>
+    <string name="title_connection_interrupted">Połączenie przerwane</string>
+    <string name="title_install">Zainstaluj Mi Canvas</string>
+    <string name="title_update">Zaktualizuj Mi Canvas</string>
+    <string name="update">Zaktualizuj</string>
 </resources>
