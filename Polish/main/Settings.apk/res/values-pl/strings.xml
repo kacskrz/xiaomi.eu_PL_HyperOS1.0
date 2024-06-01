@@ -14282,7 +14282,6 @@ Portfele i inne aplikacje wymagające odblokowania urządzenia mogą nie dział
     <string name="name_modification_no_network_notification">Połącz się z siecią i spróbuj ponownie</string>
     <string name="save_device_name_progress_message">Zapisywanie…</string>
      <string name="auracast_share_qrcode_title">Udostępnij hasło za pomocą kodu QR</string>
-     <string name="auracast_source_qrcode_title">Udostępnij przez kod QR</string>
      <string name="enable_timezone_optimization_summary">Zotymalizuj automatyczne wybieranie strefy czasowej poprzez dodanie większej liczby przypadków dot. sieci. Funkcja przestanie działać, jeśli ją wyłączysz i włączysz Tryb samolotowy.</string>
      <string name="enable_timezone_optimization_title">Optymalizacja strefy czasowej</string>
      <string name="flash_notifications_settings_title">Powiadomienia błyskowe</string>
