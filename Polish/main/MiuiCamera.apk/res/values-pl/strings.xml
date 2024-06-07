@@ -2383,7 +2383,7 @@ Obrazy Ultra RAW pozwalają zapisać %d bitów danych, zachowując jeszcze więc
     <string name="tip_flash_screen_halo_auto">Światło pierścieniowe: Auto</string>
     <string name="tip_flash_screen_light_auto">Delikatne światło: Auto</string>
     <string name="tip_flash_screen_light_on">Delikatne światło: Wł.</string>
-    <string name="tip_flash_torch">Lampa błyskowa: Zawsze włączona</string>
+    <string name="tip_flash_torch">Lampa błyskowa: Latarka</string>
     <string name="tip_gif_off">GIF: Wył.</string>
     <string name="tip_gif_on">GIF: Wł.</string>
     <string name="tip_hand_gesture_off">Ręczna migawka: Wył.</string>

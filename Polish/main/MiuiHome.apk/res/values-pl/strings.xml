@@ -1024,4 +1024,6 @@ Zwiększone bezpieczeństwo."</string>
   <string name="recent_pin_text">Przypnij</string>
   <string name="system_sdk_disabled_toast">Systemowy SDK został wyłączony. Włącz go.</string>
   <string name="system_shortcuts_dislike">"Nie lubię tego"</string>
+  <string name="global_shelf">Wyszukiwanie aplikacji</string>
+  <string name="home_gesture_global_shelf">Wyszukiwanie aplikacji</string>
 </resources>
