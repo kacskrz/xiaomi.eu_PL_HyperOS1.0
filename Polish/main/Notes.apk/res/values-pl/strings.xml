@@ -983,4 +983,22 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="miuix_navigator_category_group_collapse">Zwiń</string>
   <string name="miuix_navigator_category_group_expand">Rozwiń</string>
   <string name="miuix_appcompat_cloud_state_encrypt_disabled">Włącz ochronę end-to-end, aby zsynchronizować elementy</string>
+    <string name="add_excerpt_summary">Dodaj podsumowanie</string>
+    <string name="ai_chat_declare_double_link"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj &lt;a href=\"%1$s\">Umowę użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Politykę prywatności&lt;/a>.</Data></string>
+    <string name="ai_chat_dlg_content">Dzięki tej funkcji możesz szybko zgromadzić informacje z różnych źródeł (np. linków lub tekstu z przeglądarek, WeChata czy innych aplikacji) oraz wygenerować ich podsumowanie.</string>
+    <string name="ai_watermark">Wygenerowane przez SI:</string>
+    <string name="excerpt_ares_limit">Serwer jest zbyt mocno obciążony. Wyświetl oryginalną publikację lub spróbuj ponownie później.</string>
+    <string name="excerpt_original_text">Oryginalny tekst:</string>
+    <string name="excerpt_summary_fail">Nie udało się przetworzyć treści. Wyświetl oryginalną publikację lub spróbuj ponownie później.</string>
+    <string name="excerpt_summary_huangfan">Twoja treść jest wrażliwa. Wyświetl oryginalną publikację</string>
+    <string name="excerpt_summary_link_bubble_tips">Dotknij, aby zapisać podsumowanie w Notatkach.</string>
+    <string name="pref_excerpt_summary_link_float">Gdy skopiujesz link, na górze ekranu pojawi się informacja dot. tworzenia jego podsumowania.</string>
+    <string name="single_link_excerpt_summary_saving">Generowanie podsumowania.</string>
+    <string name="to_be_read_bubble_tips">Po skopiowaniu linku bądź tekstu w Notatkach zostanie stworzone jego podsumowanie.</string>
+    <string name="to_be_read_link_bubble_tips">Dotknij, aby zapisać podsumowanie w Notatkach</string>
+    <string name="to_view_alarm_content">Dotknij, aby wyświetlić</string>
+    <string name="toast_show_no_network">Połącz się z siecią i spróbuj ponownie.</string>
+    <string name="toast_show_xiaomi_account">Zaloguj się na konto Xiaomi i spróbuj ponownie.</string>
+    <string name="pref_title_excerpt_summary_remind">Podsumowanie</string>
+    <string name="to_be_read_list">Podsumowanie</string>
 </resources>

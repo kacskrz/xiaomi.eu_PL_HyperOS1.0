@@ -1026,4 +1026,5 @@ Może to generować dodatkowe opłaty."</string>
     <string name="surprise_wallpaper_prompts_send_failed">Nie udało się wysłać. Spróbuj ponownie.</string>
     <string name="surprise_wallpaper_prompts_send_succeed">Pomyślnie wysłano</string>
     <string name="surprise_wallpaper_prompts_sending">Wysyłanie preferencji…</string>
+    <string name="surprise_wallpaper_auth_failed_tip">Nie udało się przetworzyć informacji dot. konta Xiaomi. Sprawdź swój czas oraz to, czy jesteś zalogowany na konto Xiaomi.</string>
 </resources>
