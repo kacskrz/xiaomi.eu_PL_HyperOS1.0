@@ -1686,4 +1686,5 @@ Dotknij, aby go wyłączyć."</string>
     <string name="lock_screen_card_title">Artystyczny Ekran blokady</string>
     <string name="theme_component_title_homepage">Strona główna</string>
     <string name="loop_video_wallpaper">Zapętlij tapety wideo</string>
+    <string name="local_mode_close_tip">Aby ustawić tę tapetę, potrzebne jest połączenie z Internetem. Wymaga to wyłączenia trybu offline. Czy chcesz wyłączyć ten tryb?</string>
 </resources>
