@@ -1000,4 +1000,12 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
     <string name="toast_show_xiaomi_account">Zaloguj się na konto Xiaomi i spróbuj ponownie.</string>
     <string name="pref_title_excerpt_summary_remind">Podsumowanie</string>
     <string name="to_be_read_list">Podsumowanie</string>
+    <string name="add_pic_excerpt_summary">Dodaj przegląd obrazu</string>
+    <string name="excerpt_image_ares_limit">Serwer jest zbyt mocno obciążony. Spróbuj ponownie później.</string>
+    <string name="excerpt_image_summary_fail">Nie udało się przetworzyć treści. Przeanalizuj swój obraz lub spróbuj ponownie później.</string>
+    <string name="excerpt_image_summary_huangfan">Twoja treść jest wrażliwa.</string>
+    <string name="excerpt_original_image">Oryginalny obraz:</string>
+    <string name="excerpt_text_min">Na obrazku jest za mało tekstu. Nie można wygenerować przeglądu.</string>
+    <string name="single_link_pic_excerpt_summary_saving">Trwa generowanie przeglądu obrazu</string>
+    <string name="to_be_read_image_list">Przegląd obrazu</string>
 </resources>
