@@ -1008,4 +1008,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
     <string name="excerpt_text_min">Na obrazku jest za mało tekstu. Nie można wygenerować przeglądu.</string>
     <string name="single_link_pic_excerpt_summary_saving">Trwa generowanie przeglądu obrazu</string>
     <string name="to_be_read_image_list">Przegląd obrazu</string>
+    <string name="add_text_excerpt_summary">Dodaj podsumowanie</string>
+    <string name="ai_createing_text">Generowanie...</string>
+    <string name="to_be_read_text_list">Podsumowanie</string>
 </resources>
