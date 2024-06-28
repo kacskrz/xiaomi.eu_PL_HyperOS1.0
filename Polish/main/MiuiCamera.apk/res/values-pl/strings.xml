@@ -2960,4 +2960,5 @@ i Inteligentne upiększanie"</string>
 Utrzymuj obiekt pośrodku ekranu."</string>
     <string name="pref_camera_close_focus_preferred_title">Ostrość z bliska</string>
     <string name="street_viewfinder_tip_on">Włączono Rozszerzony wizjer</string>
+    <string name="main_back_default_focal">Domyślna ogniskowa głównego aparatu</string>
 </resources>
