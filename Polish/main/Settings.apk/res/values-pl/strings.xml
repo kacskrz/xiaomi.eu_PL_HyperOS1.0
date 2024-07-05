@@ -14288,4 +14288,5 @@ Portfele i inne aplikacje wymagające odblokowania urządzenia mogą nie dział
      <string name="screen_enhance_engine_dualDPU_note">Korzystanie z dedykowanego układu poprawia rozdzielczość filmu, jego klatkaż oraz HDR. Pozwala to na żywsze i płynniejsze wrażenia z oglądania.</string>
      <string name="screen_enhance_engine_dualDPU_summary">Polepsz jakość filmu dedykowanym układem</string>
      <string name="screen_enhance_engine_dualDPU_title">Ulepszone wrażenia</string>
+    <string name="parental_control_title">Kontrola rodzicielska</string>
 </resources>
