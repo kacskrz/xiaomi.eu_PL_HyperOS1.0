@@ -231,4 +231,88 @@
         <item quantity="one">Możesz dodać tylko %d przerwę</item>
         <item quantity="few">Możesz dodać tylko %d przerwy</item>
     </plurals>
+    <plurals name="pcl_add_account_ignore_with_seconds">
+        <item quantity="other">Nie teraz (%d s)</item>
+        <item quantity="one">Nie teraz (%d s)</item>
+        <item quantity="few">Nie teraz (%d s)</item>
+        <item quantity="many">Nie teraz (%d s)</item>
+    </plurals>
+    <plurals name="pcl_install_check_count_down">
+        <item quantity="other">Odliczanie: %d sek.</item>
+        <item quantity="one">Odliczanie: %d sek.</item>
+        <item quantity="few">Odliczanie: %d sek.</item>
+        <item quantity="many">Odliczanie: %d sek.</item>
+    </plurals>
+    <plurals name="pcl_mixed_recording_incorrect_too_short">
+        <item quantity="other">Wprowadź co najmniej %d znaku</item>
+        <item quantity="one">Wprowadź co najmniej %d znak</item>
+        <item quantity="few">Wprowadź co najmniej %d znaki</item>
+        <item quantity="many">Wprowadź co najmniej %d znaków</item>
+    </plurals>
+    <plurals name="pcl_number_locked">
+        <item quantity="other">Zablokowano %d aplikacji</item>
+        <item quantity="one">Zablokowano %d aplikację</item>
+        <item quantity="few">Zablokowano %d aplikacje</item>
+        <item quantity="many">Zablokowano %d aplikacji</item>
+    </plurals>
+    <plurals name="pcl_number_to_lock">
+        <item quantity="other">%d aplikacji bez blokady</item>
+        <item quantity="one">%d aplikacja bez blokady</item>
+        <item quantity="few">%d aplikacje bez blokady</item>
+        <item quantity="many">%d aplikacji bez blokady</item>
+    </plurals>
+    <plurals name="pcl_numeric_recording_incorrect_too_short">
+        <item quantity="other">Wprowadź co najmniej %d cyfry</item>
+        <item quantity="one">Wprowadź co najmniej %d cyfrę</item>
+        <item quantity="few">Wprowadź co najmniej %d cyfry</item>
+        <item quantity="many">Wprowadź co najmniej %d cyfr</item>
+    </plurals>
+    <plurals name="pcl_passport_re_get_verify_code_with_seconds">
+        <item quantity="other">Wyślij ponownie (%d s)</item>
+        <item quantity="one">Wyślij ponownie (%d s)</item>
+        <item quantity="few">Wyślij ponownie (%d s)</item>
+        <item quantity="many">Wyślij ponownie (%d s)</item>
+    </plurals>
+    <plurals name="pcl_privacy_policy_revoke_button_with_seconds">
+        <item quantity="other">Wycofaj zgodę (%d sek.)</item>
+        <item quantity="one">Wycofaj zgodę (%d sek.)</item>
+        <item quantity="few">Wycofaj zgodę (%d sek.)</item>
+        <item quantity="many">Wycofaj zgodę (%d sek.)</item>
+    </plurals>
+    <plurals name="pcl_recording_incorrect_too_short">
+        <item quantity="other">Połącz co najmniej %d kropki</item>
+        <item quantity="one">Połącz co najmniej %d kropkę</item>
+        <item quantity="few">Połącz co najmniej %d kropki</item>
+        <item quantity="many">Połącz co najmniej %d kropek</item>
+    </plurals>
+    <plurals name="pcl_recording_intro_header_new">
+        <item quantity="other">Połącz co najmniej %s kropki</item>
+        <item quantity="one">Połącz co najmniej %s kropkę</item>
+        <item quantity="few">Połącz co najmniej %s kropki</item>
+        <item quantity="many">Połącz co najmniej %s kropek</item>
+    </plurals>
+    <plurals name="pcl_set_unlock_pin_summary_new">
+        <item quantity="other">Wprowadź %s cyfry</item>
+        <item quantity="one">Wprowadź %s cyfrę</item>
+        <item quantity="few">Wprowadź %s cyfry</item>
+        <item quantity="many">Wprowadź %s cyfr</item>
+    </plurals>
+    <plurals name="pcl_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Odczekaj %d sekundy i spróbuj ponownie.</item>
+        <item quantity="one">Odczekaj %d sekundę i spróbuj ponownie.</item>
+        <item quantity="few">Odczekaj %d sekundy i spróbuj ponownie.</item>
+        <item quantity="many">Odczekaj %d sekund i spróbuj ponownie.</item>
+    </plurals>
+    <plurals name="pcl_unbind_email_confirm_with_seconds">
+        <item quantity="other">Usuń (%d s)</item>
+        <item quantity="one">Usuń (%d s)</item>
+        <item quantity="few">Usuń (%d s)</item>
+        <item quantity="many">Usuń (%d s)</item>
+    </plurals>
+    <plurals name="pcl_unlock_pattern_summary_new">
+        <item quantity="other">Połącz co najmniej %s kropki</item>
+        <item quantity="one">Połącz co najmniej %s kropkę</item>
+        <item quantity="few">Połącz co najmniej %s kropki</item>
+        <item quantity="many">Połącz co najmniej %s kropek</item>
+    </plurals>
 </resources>

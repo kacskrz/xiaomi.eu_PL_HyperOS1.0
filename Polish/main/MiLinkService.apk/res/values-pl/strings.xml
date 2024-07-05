@@ -965,7 +965,7 @@ aby Xiaomi HyperMind mógł się uczyć i tworzyć wzorce"</string>
   <string name="common_signin_button_text">Zaloguj się</string>
   <string name="common_signin_button_text_long">Zaloguj się z Google</string>
   <string name="camera_associate_disconnecting">Rozłączanie z aparatem telefonu</string>
-  <string name="camera_choose_device">Wybierz urządzenie</string>
+  <string name="camera_choose_device">Zmień aparat</string>
   <string name="camera_connecting_device">Łączenie z %s</string>
   <string name="camera_disconnecting_device">Rozłączanie z %s</string>
   <string name="camera_title">Wyszukiwanie dostępnych urządzeń…</string>
@@ -1009,4 +1009,13 @@ aby Xiaomi HyperMind mógł się uczyć i tworzyć wzorce"</string>
     <string name="title_install">Zainstaluj Mi Canvas</string>
     <string name="title_update">Zaktualizuj Mi Canvas</string>
     <string name="update">Zaktualizuj</string>
+    <string name="car_camera_associate_connecting">Łączenie z kamerą pojazdu</string>
+    <string name="car_camera_associate_disconnecting">Rozłączanie z kamerą pojazdu</string>
+    <string name="car_camera_device_name">Kamera przednia %1$s</string>
+    <string name="car_camera_unavailable_dialog_message">"Włączony jest Tryb niskiego zużycia energii lub Tryb prywatności. Nie można wyświetlić w tej chwili strumienia z przedniej kamery pojazdu na tym urządzeniu."</string>
+    <string name="car_camera_unavailable_dialog_positive_button">OK</string>
+    <string name="car_camera_unavailable_dialog_title">"Nie można użyć kamery"</string>
+    <string name="circulate_car_card_use_camera">Użyj kamery pojazdu</string>
+    <string name="circulate_car_card_using_camera">Używanie kamery pojazdu</string>
+    <string name="device_permission_dialog_message_car">Możesz zezwolić na dostęp do kamery na %s w Ustawieniach > System > Zarządzaj aplikacjami > Specjalne uprawnienia > Łączność między urządzeniami.</string>
 </resources>

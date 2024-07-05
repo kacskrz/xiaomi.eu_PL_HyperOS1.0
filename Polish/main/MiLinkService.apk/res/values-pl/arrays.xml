@@ -33,7 +33,7 @@
    <string-array name="settings_search_relay_network">
        <item>Asystent sieci</item>
        <item>Interakcja urządzeń Xiaomi/Asystent sieci</item>
-       <item>Asystent sieci, tethering, udostępnianie hotspotu</item>
+       <item>Asystent sieci, tethering, udostępnianie hotspotu, tethering bezprzewodowy</item>
    </string-array>
    <string-array name="settings_search_share_Launcher">
        <item>Pulpit+</item>
@@ -49,5 +49,15 @@
        <item>Powiadomienia z wielu urządzeń</item>
        <item>Interakcja urządzeń Xiaomi/Powiadomienia</item>
        <item>Powiadomienia z wielu urządzeń</item>
+   </string-array>
+   <string-array name="settings_search_relay_network_2">
+       <item>Tethering bezprzewodowy</item>
+       <item>Łączność między urządzeniami/Tethering bezprzewodowy</item>
+       <item>Asystent sieci, tethering, udostępnianie hotspotu, tethering bezprzewodowy</item>
+   </string-array>
+   <string-array name="settings_search_relay_network_global">
+       <item>Synchronizacja sieci</item>
+       <item>Łączność między urządzeniami/Synchronizacja sieci</item>
+       <item>Asystent sieci, tethering, udostępnianie hotspotu, tethering bezprzewodowy</item>
    </string-array>
 </resources>
