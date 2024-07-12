@@ -1026,4 +1026,5 @@ Zwiększone bezpieczeństwo."</string>
   <string name="system_shortcuts_dislike">"Nie lubię tego"</string>
   <string name="global_shelf">Wyszukiwanie aplikacji</string>
   <string name="home_gesture_global_shelf">Wyszukiwanie aplikacji</string>
+  <string name="home_gesture_content_center_settings">Ustawienia Centrum treści</string>
 </resources>

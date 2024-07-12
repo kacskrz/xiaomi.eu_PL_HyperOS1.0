@@ -634,4 +634,12 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="miui15_cta_app_name">Interakcja urządzeń Xiaomi</string>
     <string name="subscreen_exception_hint">"Wersja na urządzeniu nie jest aktualna. Mogą wystąpić błędy wyświetlania."</string>
     <string name="not_find_car_to_mirror">"Nie udało się znaleźć pojazdu, do którego można przesłać aplikacje"</string>
+    <string name="device_screen_fold_switch_tip">Wykonaj tę akcję na wewnętrznym ekranie</string>
+    <string name="fold_photograph_prompt_dialog_ok">OK</string>
+    <string name="fold_photograph_prompt_message">Użyj Aparatu z wewnętrznego ekranu</string>
+    <string name="fold_photograph_prompt_notification_title">Użyj współdzielonego aparatu do Notatek</string>
+    <string name="upgrade_car_not_tip">"Nie pokazuj ponownie"</string>
+    <string name="upgrade_car_ok">OK</string>
+    <string name="upgrade_car_version_msg">"Aby użyć tej funkcji, zaktualizuj system w aucie do wersji 1.2.1 lub nowszej w Ustawieniach > System > Wersja systemu."</string>
+    <string name="upgrade_car_version_title">"Zaktualizuj system w aucie"</string>
 </resources>
