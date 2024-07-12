@@ -4701,7 +4701,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="sim_lock_done_disable">"Twoja karta SIM nie jest chroniona"</string>
     <string name="sim_lock_done_enable">Twoja karta SIM jest chroniona</string>
     <string name="sim_lock_done_title">Bezpieczeństwo karty SIM</string>
-    <string name="sim_lock_enable_done_message">"Twoja karta SIM jest teraz powiązana z tym urządzeniem. Jej kod PIN będzie automatycznie weryfikowany. Jeśli będziesz używać tej karty SIM z innymi urządzeniami, wciąż będzie trzeba wprowadzać tam kod PIN ręcznie."</string>
+    <string name="sim_lock_enable_done_message">"Twoja karta SIM jest powiązana z tym urządzeniem. Będziesz musiał weryfikować swój kod PIN, gdy będziesz korzystać z tej karty SIM na tym urządzeniu lub wkładać ją do innego urządzenia."</string>
     <string name="sim_lock_guide_button">Ustawienia</string>
     <string name="sim_lock_guide_message">Powiąż swoją kartę SIM z tym urządzeniem, aby była ona mniej podatna na zagrożenia bezpieczeństwa</string>
     <string name="sim_lock_guide_title">Chroń swoją kartę SIM</string>
@@ -6560,7 +6560,7 @@ Ultraoszczędzania baterii"</string>
     <string name="videobox_double_core_visual_description2">"Zwiększ szczegółowość, płynność i ogólny poziom wyświetlanych treści. 
 Funkcja zużywa więcej energii.
 Funkcja nie będzie działać, gdy włączone jest Oszczędzanie baterii lub Ultraoszczędzanie baterii."</string>
-    <string name="conversation_phone_title">Pasek narzędzi połączeń</string>
+    <string name="conversation_phone_title">Przybornik połączeń</string>
     <string name="cs_simultaneous_interpretation_title">Interpretuj</string>
     <string name="gb_advance_settings_screen_display_style_summary">Zwiększ kontrast i zoptymalizuj wyświetlane treści, aby pokazywać więcej szczegółów</string>
     <string name="gb_advance_settings_screen_display_summary">Rozszerz kontrast i zoptymalizuj wyświetlane treści, aby pokazywać więcej szczegółów</string>
@@ -6570,4 +6570,80 @@ Funkcja nie będzie działać, gdy włączone jest Oszczędzanie baterii lub Ult
     <string name="gb_advance_settings_screen_super_picture_quality_summary">Zwiększ rozdzielczość i częstotliwość odświeżania</string>
     <string name="gb_vision_enhance_smart_frame_enhance">Poprawiony klatkaż</string>
     <string name="pc_battery_replacement_service_title">Wypróbuj usługę wymiany baterii przez Xiaomi. Oryginalny sprzęt %1$s z %2$s gwarancją.</string>
+    <string name="audio_optimization_summary_new">Zoptymalizuj jakość dźwięku ze słuchawek podczas grania i zredukuj szum podczas połączeń</string>
+    <string name="cs_close_vt_camera_first_tips">"Nie można użyć tej funkcji, korzystając ze współdzielonego aparatu"</string>
+    <string name="cs_conversation_record_using">Nagrywanie</string>
+    <string name="cs_func_unavailable_tips">Użyj tej funkcji podczas połączeń</string>
+    <string name="cs_light_enhance_physical_options">Temperatura barwowa</string>
+    <string name="cs_light_enhance_physical_title">Jasność</string>
+    <string name="cs_open_camera_first_tips">Aby użyć tej funkcji, otwórz Aparat</string>
+    <string name="cs_privacy_camera_global_settings_title">Prywatność połączeń</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Wypróbuj symultaniczne tłumaczenie i inne funkcje telekonferencyjne w nowym Przyborniku połączeń</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Wypróbuj kilka funkcji telekonferencji w nowym Przyborniku połączeń</string>
+    <string name="cs_tool_box_phone_guide_case_1">Wypróbuj symultaniczne tłumaczenie i inne funkcje telekonferencyjne w nowym Przyborniku połączeń</string>
+    <string name="cs_tool_box_phone_guide_case_2">Wypróbuj kilka funkcji telekonferencji w nowym Przyborniku połączeń</string>
+    <string name="cs_vt_camera_toast_case1">Otwórz aparat w obecnej aplikacji</string>
+    <string name="cs_vt_camera_toast_case2">Brak kompatybilnych urządzeń w pobliżu</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Nie można przełączyć się na Tryb zbalansowany w Game Turbo, gdy włączony jest systemowy Tryb Ultra. Możesz zmienić ustawienia baterii w Panelu sterowania. &lt;br>&lt;a href=\"#\">Otwórz Panel sterowania&lt;/a>"</Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Nie można przełączyć się na Tryb zbalansowany w Game Turbo, gdy włączony jest systemowy Tryb Ultra. Możesz zmienić ustawienia baterii w Panelu sterowania. &lt;br>&lt;a href=\"#\">Otwórz Panel sterowania&lt;/a>"</Data></string>
+    <string name="gb_setting_dock_toast">Funkcje asystenta przedniego aparatu są teraz dostępne w Przyborniku połączeń</string>
+    <string name="gb_setting_dock_toast_2">Funkcje asystenta przedniego aparatu są teraz dostępne w Przyborniku połączeń</string>
+    <string name="gb_vision_enhance_frme_insertion_new_tips">"Ulepszony klatkaż
+%d kl./s"</string>
+    <string name="gd_setting_dock_activity_title">Przybornik</string>
+    <string name="gd_setting_dock_call_summary">Funkcje dla połączeń głosowych oraz wideo (np. wypełnianie światłem)</string>
+    <string name="gd_setting_dock_call_title">Przybornik połączeń</string>
+    <string name="gd_setting_dock_game_summary">Popraw grafikę i wydajność podczas grania</string>
+    <string name="gd_setting_dock_game_summary_new">Popraw grafikę i wydajność podczas grania</string>
+    <string name="gd_setting_dock_summary">Otwieraj inne aplikacje w pływających oknach podczas korzystania z aplikacji na pełnym ekranie</string>
+    <string name="gd_setting_dock_title">Pasek boczny</string>
+    <string name="gd_setting_dock_video_summary">Użyj efektów takich jak Dolby Atmos podczas oglądania filmów effects such as Dolby Atmos while watching videos</string>
+    <string name="gd_setting_dock_video_summary_new">Użyj narzędzi i efektów podczas oglądania filmów</string>
+    <string name="gd_setting_group_custom_conversation_apps">Nagraj próbkę głosu dla połączeń</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Zarządzaj grami</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Zarządzaj aplikacjami do filmów</string>
+    <string name="global_dock_guide_desc_pad">Przytrzymaj pasek, aby przesuwać okno</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"· Dotknij aplikacji na pasku bocznym, aby otworzyć ją w pływającym oknie.
+· Przeciągnij aplikację na środek ekranu, aby otworzyć ją w pływającym oknie, bądź do krawędzi, aby użyć Dzielenia ekranu.
+· Przytrzymaj pasek, aby przesuwać okno."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Przesuń, aby otworzyć pasek boczny, i dotknij aplikacji, aby otworzyć ją w pływającym oknie.
+Przytrzymaj pasek, aby przesuwać okno."</string>
+    <string name="pc_fast_charge_temp_remider">"Włącz, aby automatycznie regulować prędkość ładowania. Funkcja działa tylko z ładowarkami Xiaomi dołączonymi do telefonów. Podczas ładowania urządzenie może się nagrzać."</string>
+    <string name="pc_smart_charge_button_summary">Aby przedłużyć żywotność baterii, system będzie się uczyć tego, jak ładujesz urządzenie, i zatrzyma ładowanie przy %1$s baterii</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Twoje urządzenie się przegrzało. Ładowanie zostanie zatrzymane przy %1$s baterii.</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Nawigowanie… Ładowanie zostanie zatrzymane przy %1$s baterii</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Ładowanie zatrzyma się o %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">"Aby przedłużyć żywotność baterii, nie będzie ona ładowana powyżej obecnego poziomu, gdy telefon jest połączony z autem."</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">"Nie pokazuj ponownie"</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Ochrona baterii</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">"Aby przedłużyć żywotność baterii, nie będzie ona ładowana powyżej obecnego poziomu, gdy telefon jest połączony z autem"</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Ochrona baterii</string>
+    <string name="pc_smart_charge_title">Inteligentne ładowanie</string>
+    <string name="pc_this_time_charge_full">Naładuj tym razem do pełna</string>
+    <string name="pc_this_time_charge_full_work">Prawie naładowane</string>
+    <string name="performance_frame_enhance_super_display_tips">"Poprawiony klatkaż i superrozdzielczość nie mogą działać w tym samym czasie. Włączenie jednej z tych funkcji wyłączy drugą."</string>
+    <string name="permission_risk_app_for_desc">Ta aplikacja może stanowić zagrożenie. Przyznać uprawnienia mimo to?</string>
+    <string name="permission_risk_app_for_title">Wykryto zagrożenie</string>
+    <string name="permission_warning_for_cancel">Anuluj</string>
+    <string name="permission_warning_for_ensure">Przyznaj</string>
+    <string name="permission_warning_for_risk">Jeśli zdecydujesz się przyznać uprawnienia, w celu ochrony Twojej prywatności do aplikacji będą zwracane puste odpowiedzi.</string>
+    <string name="privacy_extra_provision_positive_btn">Zgadzam się</string>
+    <string name="privacy_extra_provision_title">Usługi rozszerzeń</string>
+    <string name="privacy_provison_no_network">Połącz się z siecią.</string>
+    <string name="search_keyword_apply">Aplikacja</string>
+    <string name="search_keyword_applybar">Dok z aplikacjami</string>
+    <string name="search_keyword_call">Połączenie</string>
+    <string name="search_keyword_sidebar">Pasek boczny</string>
+    <string name="search_keyword_tool">Narzędzia</string>
+    <string name="search_keyword_tools">Przybornik</string>
+    <string name="search_keyword_voice">Głos</string>
+    <string name="toast_gamembox_unenable_pad">Włącz Game Turbo w Panelu sterowania</string>
+    <string name="toast_gamembox_unenable_phone">Włącz Game Turbo w Panelu sterowania</string>
+    <string name="wakepath_manager_allow_list">Zezwolono</string>
+    <string name="wakepath_manager_allow_start">Zezwolono</string>
+    <string name="wakepath_manager_checkbox_desc">Zezwól aplikacji %1$s na uruchamianie innych aplikacji</string>
+    <string name="wakepath_manager_checkbox_title">Zezwól na uruchamianie łańcuchowe</string>
+    <string name="wakepath_manager_empty_list">Żadna aplikacja nie może uruchamiać innych aplikacji</string>
+    <string name="wakepath_manager_reject_list">Ograniczono</string>
+    <string name="wakepath_manager_reject_toast">Wyszukaj \"Zarządzaj uruchamianiem łańcuchowym\" w Ustawieniach, aby zezwolić tej aplikacji na uruchamianie innych aplikacji</string>
 </resources>

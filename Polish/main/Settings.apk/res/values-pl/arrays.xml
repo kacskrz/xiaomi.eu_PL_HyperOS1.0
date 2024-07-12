@@ -2051,4 +2051,13 @@
         <item>Unicast</item>
         <item>Unicast i Broadcast</item>
     </string-array>
+    <string-array name="bluetooth_broadcast_pin_config_titles">
+        <item>Nieszyfrowana (brak zabezpieczeń)</item>
+        <item>4-cyfrowy PIN (słabe zabezpieczenie)</item>
+        <item>16-cyfrowy PIN (mocne zabezpieczenie)</item>
+    </string-array>
+    <string-array name="wifi_dhcp_entries">
+        <item>Wysyłaj nazwę urządzenia do sieci</item>
+        <item>Nie wysyłaj nazwy urządzenia do sieci</item>
+    </string-array>
 </resources>

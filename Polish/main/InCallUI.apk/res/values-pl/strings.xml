@@ -504,7 +504,7 @@ Utrzymuj urządzenie w tym położeniu"</string>
     <string name="satellite_debug_rssi">Siła sygnału</string>
     <string name="satellite_debug_satellite">Satelita</string>
     <string name="satellite_guide_azimuth">Poruszaj, dopóki satelita nie znajdzie się w obszarze skanowania</string>
-    <string name="satellite_guide_elevation">Przenieś niebieski okrąg na satelitę i utrzymaj go tam</string>
+    <string name="satellite_guide_elevation">Przechyl urządzenie tak, aby ikona satelity znalazła się w niebieskim kółku</string>
     <string name="satellite_satellite_accessory">"Używam wzmacniacza sygnału satelity"</string>
     <string name="flip_expand_conference_call_text">Rozłóż, aby zarządzać konferencją</string>
     <string name="flip_expand_suport_videocall_text">Rozłóż, aby zobaczyć opcje wideokonferencji</string>
@@ -542,4 +542,6 @@ Utrzymuj urządzenie w tym położeniu"</string>
     <string name="satellite_satellite_fold_tip">Złóż urządzenie, aby szybciej zlokalizować satelity</string>
     <string name="satellite_satellite_service_redirection">Aktywuj</string>
     <string name="satellite_satellite_service_tip">"Wygląda na to, że nie aktywowano usługi bezpośredniej łączności z satelitą. Wyszuaj satelity po aktywacji tej usługi."</string>
+    <string name="satellite_guide_searching_fold">"Wyszukiwanie satelity… Nie rozkładaj urządzenia."</string>
+    <string name="satellite_guide_searching_unfold">"Wyszukiwanie satelity… Nie składaj urządzenia."</string>
 </resources>

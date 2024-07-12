@@ -2416,20 +2416,30 @@ Głośność na słuchawkach przekracza zalecane wartości, co może doprowadzi�
     <string name="satellite_notification_open_message">Otwórz Wiadomości</string>
     <string name="satellite_notification_summary">Możesz wymieniać wiadomości bez dostępu do sieci komórkowej lub Wi-Fi</string>
     <string name="satellite_notification_title">Automatycznie połączono z satelitą</string>
-    <string name="scCellularNetworkSecuritySummary">Sprawdź ustawienia</string>
+    <string name="scCellularNetworkSecuritySummary">Szyfrowanie, powiadomienia dla nieszyfrowanych sieci</string>
     <string name="scCellularNetworkSecurityTitle">Zabezpieczenia sieci komórkowej</string>
-    <string name="scIdentifierDisclosureIssueSummary">Sieć %4$s, z którą masz połączenie, zarejestrowała jednoznaczny identyfikator Twojego urządzenia (IMSI) %1$d razy w okresie od %2$tr do %3$tr.</string>
+    <string name="scIdentifierDisclosureIssueSummary">"O %1$s pobliska sieć zarejestrowała identyfikator Twojego urządzenia (IMSI lub IMEI) podczas korzystania z karty SIM %2$s.
+
+Oznacza to, że Twoja lokalizacja, aktywność lub tożsamość zostały zarejestrowane. To powszechna praktyka, ale może to być problem dla osób dbających o swoją prywatność."</string>
     <string name="scIdentifierDisclosureIssueTitle">Uzyskano dostęp do identyfikatora urządzenia</string>
     <string name="scNullCipherIssueActionLearnMore">Więcej informacji</string>
     <string name="scNullCipherIssueActionSettings">Ustawienia bezpieczeństwa sieci komórkowej</string>
-    <string name="scNullCipherIssueEncryptedSummary">Korzystasz z połączenia z bezpieczniejszą siecią komórkową.</string>
-    <string name="scNullCipherIssueEncryptedTitle">Szyfrowane połączenie z siecią %1$s</string>
-    <string name="scNullCipherIssueNonEncryptedSummary">Korzystasz z nieszyfrowanego połączenia z siecią komórkową. Twoje połączenia, wiadomości i dane są narażone na przechwycenie.</string>
-    <string name="scNullCipherIssueNonEncryptedTitle">Nieszyfrowane połączenie z siecią %1$s</string>
+    <string name="scNullCipherIssueEncryptedSummary">Połączenie z kartą SIM %1$s jest teraz bezpieczniejsze</string>
+    <string name="scNullCipherIssueEncryptedTitle">Połączono ze szyfrowaną siecią %1$s</string>
+    <string name="scNullCipherIssueNonEncryptedSummary">"Twoje połączenia, wiadomości i dane są obecnie bardziej narażone na przechwycenie ze względu na korzystanie z karty SIM %1$s.
+
+Gdy Twoje połączenie będzie ponownie szyfrowane, otrzymasz kolejne powiadomienie."</string>
+    <string name="scNullCipherIssueNonEncryptedTitle">Połączono z nieszyfrowaną siecią</string>
     <string name="set_up_screen_lock_action_label">Ustaw blokadę ekranu</string>
     <string name="set_up_screen_lock_title">Ustaw blokadę ekranu</string>
     <string name="unarchival_session_app_label">Oczekiwanie…</string>
     <string name="zen_mode_implicit_activated">Włączono</string>
     <string name="zen_mode_implicit_deactivated">Wyłączono</string>
     <string name="zen_mode_implicit_trigger_description">Zarządzana przez aplikację %1$s</string>
+    <string name="redacted_notification_message">Ukryto wrażliwe treści powiadomienia</string>
+    <string name="scIdentifierDisclosureIssueSummaryNotification">"O %1$s pobliska sieć zarejestrowała identyfikator Twojego urządzenia (IMSI lub IMEI) podczas korzystania ze Twojej karty SIM %2$s"</string>
+    <string name="scNullCipherIssueActionGotIt">OK</string>
+    <string name="scNullCipherIssueNonEncryptedSummaryNotification">Połączenia, wiadomości i dane są obecnie bardziej podatne na zagrożenia podczas korzystania z karty SIM %1$s</string>
+    <string name="screen_not_shared_sensitive_content">Ze względów bezpieczeństwa zawartość aplikacji jest niewidoczna podczas udostępniania ekranu</string>
+    <string name="zen_mode_trigger_event_calendar_any">Dowolny kalendarz</string>
 </resources>

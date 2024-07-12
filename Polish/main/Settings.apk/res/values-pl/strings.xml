@@ -12585,7 +12585,7 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="accessibility_hac_mode_title">Zgodność z aparatem słuchowym</string>
     <string name="accessibility_hearing_device_connected_title">Urządzenia słuchowe</string>
     <string name="accessibility_hearing_device_control">Sterowanie urządzeniem słuchowym</string>
-    <string name="accessibility_hearing_device_footer_summary">Upewnij się, że Twoje urządzenia słuchowe są włączone i przełączone w tryb parowania</string>
+    <string name="accessibility_hearing_device_footer_summary">Aby znaleźć inne urządzenia słuchowe, które nie obsługują technologii ASHA lub LE Audio, wybierz <b>Sparuj nowe urządzenie</b> > <b>Zobacz więcej urządzeń</b></string>
     <string name="accessibility_hearing_device_pairing_page_title">Sparuj urządzenie słuchowe</string>
     <string name="accessibility_hearing_device_pairing_title">Sparuj nowe urządzenie</string>
     <string name="accessibility_hearing_device_saved_title">Zapisane urządzenia</string>
@@ -13670,7 +13670,7 @@ Wiadomość wyslana przez satelitę Tiantong. Nadawca może potrzebować pilnej 
     <string name="accessibility_tutorial_dialog_message_two_finger_triple">Aby włączyć lub wyłączyć powiększenie, kliknij dwukrotnie dwoma palcami dowolne miejsce na ekranie.</string>
     <string name="accessibility_tutorial_dialog_title_two_finger_double">Kliknij dwukrotnie ekran dwoma palcami, aby otworzyć</string>
     <string name="accessibility_wifi_other_device">Połączono z urządzeniem.</string>
-    <string name="account_dashboard_title_with_passkeys">Hasła, klucze dostępu i autouzupełnianie</string>
+    <string name="account_dashboard_title_with_passkeys">Hasła, klucze dostępu i konta</string>
     <string name="account_settings_menu_auto_sync_private">Autosynchronizacja danych prywatnych</string>
     <string name="account_user_avatar">Zdjęcie profilowe</string>
     <string name="account_user_avatar_from_album">Galeria</string>
@@ -13826,7 +13826,7 @@ Aplikacje i usługi wciąż mogą poszukiwać urządzeń w pobliżu w dowolnym m
     <string name="disable_game_default_frame_rate_summary">Wyłącz ograniczenie maksymalnej liczby klatek na sekundę w grach do %1$d Hz.</string>
     <string name="disable_game_default_frame_rate_title">Wyłączenie domyślnej liczby klatek w grach</string>
     <string name="disable_screen_share_protections_for_apps_and_notifications">Wyłącz zabezpieczenia przed udostępnianiem ekranu</string>
-    <string name="disable_screen_share_protections_for_apps_and_notifications_summary">Wyłącza systemowe zabezpieczenia aplikacji i powiadomień podczas udostępniania ekranu.</string>
+    <string name="disable_screen_share_protections_for_apps_and_notifications_summary">Wyłącz systemową ochronę poufnych treści w aplikacji na potrzeby nadchodzącej sesji udostępniania ekranu</string>
     <string name="edit_user_info_message">Twoja nazwa użytkownika oraz zdjęcie będą widoczne dla każdego, kto korzysta z tego urządzenia.</string>
     <string name="enable_16k_pages">Uruchom z rozmiarem stron 16 KB</string>
     <string name="enable_16k_pages_summary">Uruchom z jądrem systemu obsługującym strony o rozmiarze 16 KB</string>
@@ -14039,8 +14039,8 @@ Twoja przestrzeń prywatna ma własny Sklep Play, dzięki czemu instalowanie apl
     <string name="private_space_lock_setup_description">Obszar prywatny można odblokować za pomocą odcisku palca. Ze względów bezpieczeństwa ta opcja wymaga blokady kopii zapasowej.</string>
     <string name="private_space_lock_setup_title">Wybierz blokadę dla swojego obszaru prywatnego</string>
     <string name="private_space_lock_title">Blokada przestrzeni prywatnej</string>
-    <string name="private_space_lockscreen_summary">Obszar prywatny można odblokowywać tak samo jak urządzenie lub wybrać inną blokadę</string>
-    <string name="private_space_lockscreen_title">Używać blokady ekranu do odblokowywania obszaru prywatnego?</string>
+    <string name="private_space_lockscreen_summary">Możesz ustawić nową blokadę specjalnie na potrzeby przestrzeni prywatnej albo użyć blokady urządzenia</string>
+    <string name="private_space_lockscreen_title">Wybrać nową blokadę dla przestrzeni prywatnej?</string>
     <string name="private_space_new_lock_title">Wybrać nową blokadę dla przestrzeni prywatnej?</string>
     <string name="private_space_notifications_hidden_title">Powiadomienia z aplikacji w przestrzeni prywatnej są ukryte, gdy jest ona zablokowana</string>
     <string name="private_space_notifications_title">Powiadomienia poufne na ekranie blokady</string>
@@ -14095,9 +14095,9 @@ Jeśli na to nie zezwolisz, system nie przyzna tej aplikacji żadnego specjalneg
     <string name="satellite_setting">Przesyłanie wiadomości przez satelitę</string>
     <string name="satellite_setting_disabled_summary">Wysyłanie i odbieranie SMS-ów przez satelitę. Twoje konto nie obejmuje tej funkcji.</string>
     <string name="satellite_setting_enabled_summary">Wysyłanie i odbieranie SMS-ów przez satelitę. Twoje konto obejmuje tę funkcję.</string>
-    <string name="satellite_setting_summary_more_information">"Przesyłanie wiadomości przez satelitę może zająć dłuższą chwilę. Funkcja jest dostępna wyłącznie na niektórych obszarach. Pogoda i inne czynniki mogą wpływać na Twoje połączenie satelitarne. Obsługa połączeń przez satelitę nie jest dostępna.
+    <string name="satellite_setting_summary_more_information">"Przesyłanie wiadomości przez satelitę może zająć dłuższą chwilę. Funkcja jest dostępna wyłącznie na niektórych obszarach. Pogoda i inne czynniki mogą wpływać na Twoje połączenie satelitarne. Połączenia przez satelitę są niedostępne. Połączenia alarmowe mogą nadal być nawiązywane.
 
-Pojawienie się zmian na koncie w Ustawieniach może zająć trochę czasu. Skontaktuj się z operatorem %1$s i dowiedz się więcej."</string>
+Może upłynąć trochę czasu, zanim zmiany dotyczące konta będą widoczne w Ustawieniach. Aby uzyskać szczegółowe informacje, skontaktuj się z operatorem."</string>
     <string name="satellite_setting_title">Przesyłanie wiadomości przez satelitę</string>
    <string name="screen_dark_mode_time_summary_kddi">Jeśli wyłączysz ekran po ustawionym czasie, zostanie włączony Ciemny motyw</string>
     <string name="security_settings_face_remove_dialog_details_fingerprint">"Model twarzy zostanie trwale i bezpiecznie usunięty.
@@ -14165,8 +14165,8 @@ Nie można mieć kilku skonfigurowanych zegarków jednocześnie. Aby dodać kole
     <string name="sim_onboarding_setup">Skonfiguruj</string>
     <string name="sleep_on_fold_summary">Przedni ekran blokuje się, gdy składasz urządzenie</string>
     <string name="sleep_on_fold_title">Nigdy</string>
-    <string name="slow_keys">Powolne klawisze</string>
-    <string name="slow_keys_summary">Włącz Powolne klawisze w ułatwieniach dostępu klawiatury fizycznej</string>
+    <string name="slow_keys">Klawisze powolne</string>
+    <string name="slow_keys_summary">Czas wymagany do aktywacji naciśnięcia klawisza zmienia się na %1$d ms</string>
     <string name="state_off">Wyłączono</string>
     <string name="state_on">Włączono</string>
     <string name="stay_awake_on_fold_summary">Przedni ekran włącza się, gdy składasz urządzenie</string>
@@ -14174,18 +14174,18 @@ Nie można mieć kilku skonfigurowanych zegarków jednocześnie. Aby dodać kole
     <string name="stay_awake_on_lockscreen_summary">Złóż telefon i przesuń palcem w górę na przednim ekranie, aby kontynuować korzystanie z aplikacji, lub poczekaj kilka sekund na zablokowanie ekranu.</string>
     <string name="stay_awake_on_lockscreen_title">Przesuń w górę, aby kontynuować</string>
     <string name="sticky_keys">Klawisze trwałe</string>
-    <string name="sticky_keys_summary">Włącz Klawisze trwałe w ułatwieniach dostępu klawiatury fizycznej</string>
+    <string name="sticky_keys_summary">Naciśnij 1 klawisz, aby zyskać dostęp do skrótów, zamiast przytrzymywać kilka jednocześnie</string>
     <string name="stylus_default_notes_summary_work">%s (profil służbowy)</string>
     <string name="summary_add_satellite_setting">Dodaj przesyłanie wiadomości za pomocą satelity</string>
     <string name="summary_satellite_connection_guide">Twój telefon automatycznie połączy się z satelitą. Aby uzyskać najlepszą jakość połączenia, stań w miejscu, w którym nic nie zasłania widoku nieba.</string>
     <string name="summary_supported_service">Możesz wysyłać SMS-y do dowolnego adresata, w tym również do służb ratunkowych. Twój telefon ponownie połączy się z siecią komórkową, gdy będzie ona dostępna.</string>
     <string name="terms_of_address_feminine">Żeński</string>
-    <string name="terms_of_address_intro_title">Aplikacje mogą używać Twojego preferowanego rodzaju gramatycznego, aby zwracać się do Ciebie w spersonalizowany sposób.</string>
+    <string name="terms_of_address_intro_title">To ustawienie pozwala spersonalizować sposób, w jaki większość aplikacji systemowych będzie się do Ciebie zwracać. Aplikacje, które zainstalujesz, nie będą z niego korzystać.</string>
     <string name="terms_of_address_masculine">Męski</string>
     <string name="terms_of_address_neutral">Nie mam zdania</string>
     <string name="terms_of_address_not_specified">Nie określono</string>
-    <string name="terms_of_address_summary">Określ, jak się do Ciebie zwracać</string>
-    <string name="terms_of_address_title">Preferowany rodzaj gramatyczny</string>
+    <string name="terms_of_address_summary">Twoje urządzenie może się do Ciebie zwracać tak, jak sobie tego życzysz</string>
+    <string name="terms_of_address_title">Wybierz, jak urządzenie ma się do Ciebie zwracać</string>
    <string name="timing_off_customized">Własne</string>
    <string name="timing_off_customized_dialog_text">Zaplanowane wyłączanie</string>
    <string name="timing_off_customized_hour">GODZ.</string>
@@ -14260,10 +14260,10 @@ Portfele i inne aplikacje wymagające odblokowania urządzenia mogą nie dział
     <string name="wifi_hotspot_instant_summary_on">Włączono</string>
     <string name="wifi_hotspot_instant_title">Błyskawiczny hotspot</string>
    <string name="wifi_settings_ssid_block_button_close">Zamknij</string>
-    <string name="wifi_settings_warning_wep_network">Ta sieć wykorzystuje starszy protokół zabezpieczeń, który jest mniej bezpieczny</string>
+    <string name="wifi_settings_warning_wep_network">Ta sieć wykorzystuje starszy protokół zabezpieczeń WEP, który jest mniej bezpieczny</string>
     <string name="wifi_settings_wep_networks_blocked_title">Aplikacja %1$s została zablokowana</string>
     <string name="wifi_settings_wep_networks_button_allow">Zezwalaj na sieci z protokołem WEP</string>
-    <string name="wifi_settings_wep_networks_summary_blocked_by_carrier">Twój operator nie zezwala na łączenie się z tą siecią, ponieważ korzysta ona ze starszego protokołu zabezpieczeń, który jest mniej bezpieczny</string>
+    <string name="wifi_settings_wep_networks_summary_blocked_by_carrier">Twój operator nie zezwala na łączenie się z tą siecią, ponieważ korzysta ona ze starszego protokołu zabezpieczeń WEP, który jest mniej bezpieczny</string>
     <string name="wifi_settings_wep_networks_summary_toggle_off">Ta sieć wykorzystuje starszy protokół zabezpieczeń WEP, który jest mniej bezpieczny. Aby połączyć się mimo to, można zezwolić na sieci z protokołem WEP.</string>
     <string name="wifi_warning_continue_button">Usuń mimo to</string>
     <string name="wifi_warning_dialog_text">Ułatwi to ponowne korzystanie z karty eSIM w przyszłości bez kontaktowania się z operatorem</string>
@@ -14289,4 +14289,203 @@ Portfele i inne aplikacje wymagające odblokowania urządzenia mogą nie dział
      <string name="screen_enhance_engine_dualDPU_summary">Polepsz jakość filmu dedykowanym układem</string>
      <string name="screen_enhance_engine_dualDPU_title">Ulepszone wrażenia</string>
     <string name="parental_control_title">Kontrola rodzicielska</string>
+    <string name="accessibility_color_contrast_intro">Wyższy kontrast powoduje większe wyróżnienie tekstu, przycisków i ikon. Wybierz poziom kontrastu, który najbardziej Ci odpowiada.</string>
+    <string name="accessibility_color_contrast_summary">Dostosuj wygląd kolorów i tekstu względem tła na ekranie</string>
+    <string name="accessibility_color_contrast_title">Kontrast kolorów</string>
+    <string name="accessibility_feature_shortcut_setting_summary_quick_settings">Szybkie ustawienia</string>
+    <string name="accessibility_hearing_device_pairing_intro">Na tej stronie możesz sparować urządzenia słuchowe ASHA i LE Audio. Sprawdź, czy urządzenie słuchowe jest włączone i gotowe do sparowania.</string>
+    <string name="accessibility_magnification_one_finger_panning_summary_off">Przesuń obszar powiększenia, przeciągając dwa palce.</string>
+    <string name="accessibility_magnification_one_finger_panning_summary_on">Przesuń obszar powiększenia, przeciągając jeden palec.</string>
+    <string name="accessibility_magnification_one_finger_panning_summary_unavailable">Niedostępne podczas powiększania tylko części ekranu</string>
+    <string name="accessibility_magnification_one_finger_panning_title">Przesuwanie jednym palcem</string>
+    <string name="accessibility_phone_four_bars">Cztery słupki na telefonie.</string>
+    <string name="accessibility_screen_magnification_always_on_unavailable_summary">Niedostępne podczas powiększania tylko części ekranu</string>
+    <string name="accessibility_shortcut_edit_dialog_summary_floating_button">Kliknij pływający przycisk</string>
+    <string name="accessibility_shortcut_edit_dialog_summary_gesture">{count,plural, =1{Przesuń palcem z dołu ekranu w górę. Aby przełączać funkcje, przesuń w górę i przytrzymaj.}few{Przesuń # palcami z dołu ekranu w górę. Aby przełączać funkcje, przesuń # palcami w górę i przytrzymaj.}many{Przesuń # palcami z dołu ekranu w górę. Aby przełączać funkcje, przesuń # palcami w górę i przytrzymaj.}other{Przesuń # palca z dołu ekranu w górę. Aby przełączać funkcje, przesuń # palca w górę i przytrzymaj.}}</string>
+    <string name="accessibility_shortcut_edit_dialog_summary_quick_settings">{count,plural, =1{Przesuń palcem z góry ekranu w dół}few{Przesuń # palcami z góry ekranu w dół}many{Przesuń # palcami z góry ekranu w dół}other{Przesuń # palca z góry ekranu w dół}}</string>
+    <string name="accessibility_shortcut_edit_dialog_summary_quick_settings_suw">{count,plural, =1{Przesuń palcem z góry ekranu w dół. Ten skrót będzie dostępny po zakończeniu konfiguracji urządzenia.}few{Przesuń # palcami z góry ekranu w dół. Ten skrót będzie dostępny po zakończeniu konfiguracji urządzenia.}many{Przesuń # palcami z góry ekranu w dół. Ten skrót będzie dostępny po zakończeniu konfiguracji urządzenia.}other{Przesuń # palca z góry ekranu w dół. Ten skrót będzie dostępny po zakończeniu konfiguracji urządzenia.}}</string>
+    <string name="accessibility_shortcut_edit_dialog_title_quick_settings">Szybkie ustawienia</string>
+    <string name="accessibility_shortcut_edit_screen_summary_triple_tap">Szybko %1$d-krotnie kliknij ekran – może to spowolnić Twoje urządzenie</string>
+    <string name="accessibility_shortcut_edit_screen_summary_two_finger_double_tap">Szybko dwukrotnie kliknij ekran %1$d palcami</string>
+    <string name="accessibility_shortcut_edit_screen_title_triple_tap">Kliknij trzykrotnie</string>
+    <string name="accessibility_shortcut_edit_screen_title_two_finger_double_tap">Dwukrotnie kliknij %1$d palcami</string>
+    <string name="accessibility_toggle_maximize_text_contrast_preference_summary">Dodawaj czarne lub białe tło wokół tekstu, aby zwiększyć kontrast</string>
+    <string name="accessibility_toggle_maximize_text_contrast_preference_title">Zmaksymalizuj kontrast tekstu</string>
+    <string name="accessibility_tutorial_dialog_configure_software_shortcut_type">Więcej opcji</string>
+    <string name="accessibility_tutorial_dialog_gesture_shortcut_instruction">{count,plural, =1{Aby użyć tej funkcji, przesuń palcem z dołu ekranu w górę}few{Aby użyć tej funkcji, przesuń # palcami z dołu ekranu w górę}many{Aby użyć tej funkcji, przesuń # palcami z dołu ekranu w górę}other{Aby użyć tej funkcji, przesuń # palca z dołu ekranu w górę}}</string>
+    <string name="accessibility_tutorial_dialog_message_quick_setting">{count,plural, =1{Aby użyć tej funkcji, przesuń palcem z góry ekranu w dół. Następnie znajdź kafelek {featureName}.}few{Aby użyć tej funkcji, przesuń # palcami z góry ekranu w dół. Następnie znajdź kafelek {featureName}.}many{Aby użyć tej funkcji, przesuń # palcami z góry ekranu w dół. Następnie znajdź kafelek {featureName}.}other{Aby użyć tej funkcji, przesuń # palca z góry ekranu w dół. Następnie znajdź kafelek {featureName}.}}</string>
+    <string name="accessibility_tutorial_dialog_message_volume">Aby użyć tej funkcji, naciśnij i przytrzymaj oba przyciski głośności</string>
+    <string name="accessibility_tutorial_dialog_shortcut_unavailable_in_suw">Ten skrót będzie dostępny po zakończeniu konfiguracji urządzenia.</string>
+    <string name="accessibility_tutorial_dialog_title_quick_setting">Skrót do Szybkich ustawień</string>
+    <string name="accessibility_tutorial_dialog_tripletap_instruction">Aby włączyć lub wyłączyć powiększenie, szybko %1$d-krotnie kliknij ekran</string>
+    <string name="accessibility_tutorial_dialog_twofinger_doubletap_instruction">Aby włączyć lub wyłączyć powiększenie, szybko dwukrotnie kliknij ekran %1$d palcami</string>
+    <string name="audio_not_synced">Nie zsynchronizowano dźwięku</string>
+    <string name="audio_synced">Zsynchronizowano dźwięk</string>
+    <string name="automatic_keyboard_layout_label">Automatyczny: %s</string>
+    <string name="battery_info_status_charging_fast_v2">Szybkie ładowanie</string>
+    <string name="battery_info_status_charging_v2">Ładowanie</string>
+    <string name="battery_usage_less_than_percent_content_description">mniej niż %1$s</string>
+    <string name="battery_usage_timestamps_content_description">%1$s do %2$s</string>
+    <string name="bluetooth_active_battery_level_untethered_left">Aktywne. L: bateria: %1$s.</string>
+    <string name="bluetooth_active_battery_level_untethered_right">Aktywne. P: bateria: %1$s.</string>
+    <string name="bluetooth_active_media_only_battery_level">Aktywne (tylko multimedia). Bateria: %1$s.</string>
+    <string name="bluetooth_active_media_only_battery_level_untethered">Aktywne (tylko multimedia). L: bateria: %1$s, P: bateria: %2$s.</string>
+    <string name="bluetooth_active_media_only_no_battery_level">Aktywne (tylko multimedia)</string>
+    <string name="bluetooth_audio_codec_default_selection">Użyj preferencji systemu (domyślna)</string>
+    <string name="bluetooth_battery_level_lea_support">Połączono (wspiera udostępnianie dźwięku). Bateria: %1$s.</string>
+    <string name="bluetooth_battery_level_untethered_lea_support">Połączono (wspiera udostępnianie dźwięku). L: bateria: %1$s, P: bateria: %2$s.</string>
+    <string name="bluetooth_battery_level_untethered_left_lea_support">Połączono (wspiera udostępnianie dźwięku). Lewa: bateria: %1$s.</string>
+    <string name="bluetooth_battery_level_untethered_right_lea_support">Połączono (wspiera udostępnianie dźwięku). Prawa: bateria: %1$s.</string>
+    <string name="bluetooth_bc_profile_summary_connected">Połączono z serwerem BA</string>
+    <string name="bluetooth_bc_profile_summary_use_for">Użyj do BA</string>
+    <string name="bluetooth_hearing_aid_media_only_left_active">Aktywne (tylko multimedia), tylko lewa</string>
+    <string name="bluetooth_hearing_aid_media_only_left_and_right_active">Aktywne (tylko multimedia), lewa i prawa</string>
+    <string name="bluetooth_hearing_aid_media_only_right_active">Aktywne (tylko multimedia), tylko prawa</string>
+    <string name="bluetooth_hearing_aids_presets">Gotowe ustawienia</string>
+    <string name="bluetooth_hearing_aids_presets_error">Nie udało się zaktualizować gotowego ustawienia</string>
+    <string name="bluetooth_hearing_device_settings_summary">Skrót, zgodność z aparatem słuchowym</string>
+    <string name="bluetooth_hearing_device_settings_title">Ustawienia urządzenia słuchowego</string>
+    <string name="bluetooth_no_battery_level_lea_support">Połączono (wspiera udostępnianie dźwięku)</string>
+    <string name="bluetooth_profile_vcp">Kontrola głośności</string>
+    <string name="bluetooth_saved_device_lea_support">Wspiera udostępnianie dźwięku</string>
+    <string name="bt_stack_log_level">Włącz logi stosu Bluetooth</string>
+    <string name="bt_stack_log_level_summary">Zmień poziom logów stosu Bluetooth (włącz ponownie Bluetooth po zmianie tej opcji)</string>
+    <string name="call_connected_tones_title">Sygnały trwającego połączenia</string>
+    <string name="cdma_manual_mode_disallowed_summary">Niedostępne w sieci CDMA</string>
+    <string name="cellular_security_network_generations_summary">Każdą włożoną kartę SIM możesz skonfigurować tak, aby łączyła się tylko z sieciami 3G, 4G i 5G. Karty nie będą się łączyć ze starszymi i mniej bezpiecznymi sieciami 2G. To ustawienie może ograniczyć Ci łączność w przypadkach, gdy dostępne będą tylko sieci 2G. W sytuacjach awaryjnych możliwe będzie użycie sieci 2G.</string>
+    <string name="cellular_security_network_generations_title">Generacje sieci</string>
+    <string name="cellular_security_notifications">Powiadomienia</string>
+    <string name="cellular_security_notifications_controller_summary">Otrzymuj powiadomienia, gdy sieć komórkowa, z którą masz połączenie, może być mniej bezpieczna, ponieważ nie stosuje szyfrowania, lub jeśli rejestruje ona unikalne identyfikatory Twojego urządzenia lub karty SIM (IMEI i IMSI)</string>
+    <string name="cellular_security_notifications_controller_title">Powiadomienia dotyczące bezpieczeństwa</string>
+    <string name="cellular_security_settings_encryption_title">Szyfrowanie</string>
+    <string name="cellular_security_settings_title">Bezpieczeństwo sieci komórkowej</string>
+    <string name="cellular_security_summary">Typ sieci, szyfrowanie, ustawienia powiadomień</string>
+    <string name="cellular_security_title">Bezpieczeństwo sieci komórkowej</string>
+    <string name="cellular_security_top_intro">Te ustawienia pomagają chronić Twoje połączenia, wiadomości i dane przed przestarzałymi lub nieszyfrowanymi sieciami, które mogłyby Cię narazić na kradzież danych bądź śledzenie</string>
+    <string name="color_contrast_about_title">Kontrast kolorów – informacje</string>
+    <string name="color_contrast_note">Niektóre aplikacje mogą nie obsługiwać wszystkich ustawień kontrastu kolorów i tekstu</string>
+    <string name="color_contrast_preview">Podgląd</string>
+    <string name="color_contrast_preview_email_attachment_name">Wydatki klienta</string>
+    <string name="color_contrast_preview_email_badge">Napisać ponownie?</string>
+    <string name="color_contrast_preview_email_body">W razie potrzeby proszę o kontakt ze mną lub z Heleną. Ten raport zostanie</string>
+    <string name="color_contrast_preview_email_send_date">2 dni temu</string>
+    <string name="color_contrast_preview_email_title">Raport z podróży służbowej</string>
+    <string name="color_contrast_preview_sender_name">Helena, Adam</string>
+    <string name="confirm_format_ext4_text">Opcja 16K dla programistów jest obsługiwana przy użyciu systemu plików ext4. Po potwierdzeniu urządzenie zostanie wyczyszczone, a system plików zmieni się na ext4.</string>
+    <string name="confirm_format_ext4_title">Sformatować ponownie urządzenie jako ext4?</string>
+    <string name="confirm_oem_unlock_for_16k_text">Aby można było używać opcji 16K dla programistów, urządzenie musi mieć zdjętą blokadę OEM. Usunięcie blokady będzie wymagać także sformatowania danych użytkownika. Zdejmij blokadę OEM na tym urządzeniu i spróbuj jeszcze raz.</string>
+    <string name="confirm_oem_unlock_for_16k_title">Wymagane jest usunięcie blokady OEM</string>
+    <string name="contrast_default">Domyślny</string>
+    <string name="credential_installed_for_wifi">Zainstalowane w sieci %s</string>
+    <string name="credential_using_for_wifi">Używane w sieci %s</string>
+    <string name="credman_main_settings_intro_text">Wybierz preferowaną usługę, aby zapisać dane logowania i sugestie autouzupełniania. Włącz usługi dodatkowe, jeśli chcesz, aby one również przekazywały sugestie.</string>
+    <string name="credman_on_off_switch_content_description">Włącz/wyłącz: %1$s</string>
+    <string name="data_preference">Preferencje dot. danych</string>
+    <string name="dialog_network_priority_title">Priorytet</string>
+    <string name="fingerprint_acquired_imager_dirty_udfps">Wyczyść ekran w okolicy czujnika i spróbuj jeszcze raz</string>
+    <string name="force_swcrypto_fallback_summary">Wymuś stosowanie przez zarządzanie kluczami DRM kryptografii typu whitebox opartej na oprogramowaniu</string>
+    <string name="force_swcrypto_fallback_title">Wymuś bezpieczną kryptografię opartą na oprogramowaniu</string>
+    <string name="format_ext4_failure_toast">Nie udało się wyczyścić partycji i ponownie sformatować jej jako ext4.</string>
+    <string name="ime_label_title">Układ %s</string>
+    <string name="keyboard_category_title">Opcje klawiatury fizycznej</string>
+    <string name="keywords_time_feedback">opinia, błąd, czas, strefa, strefa czasowa</string>
+    <string name="keywords_time_feedback_category">opinia, błąd, czas, strefa, strefa czasowa</string>
+    <string name="manager_battery_usage_allow_background_usage_settings_title">Zezwalaj na użycie w tle</string>
+    <string name="material_hour_24h_suffix">%1$s godz.</string>
+    <string name="media_drm_settings_title">Ustawienia DRM multimediów</string>
+    <string name="media_output_audio_sharing">Udostępnianie dźwięku</string>
+    <string name="metadata_not_synced">Nie zsynchronizowano metadanych</string>
+    <string name="metadata_synced">Zsynchronizowano metadane</string>
+    <string name="nav_tutorial_button_description">Rozpocznij samouczek poświęcony nawigacji przy użyciu gestów, przycisk. Kliknij dwukrotnie, aby aktywować.</string>
+    <string name="power_charging_duration_v2">%1$s – Pełne naładowanie do %2$s</string>
+    <string name="power_fast_charging_duration_v2">%1$s – %2$s – Bateria będzie pełna do %3$s</string>
+    <string name="power_remaining_charging_duration_only_v2">Pełne naładowanie do %1$s</string>
+    <string name="power_remaining_fast_charging_duration_only_v2">Bateria będzie pełna do %1$s</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Gdy ekran jest zablokowany, dotknij dwukrotnie przycisku Volume-, aby otworzyć Aparat i zrobić zdjęcie</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Gdy ekran jest zablokowany, dotknij dwukrotnie przycisku Volume-, aby otworzyć Aparat</string>
+    <string name="private_profile_location_switch_title">Lokalizacja przestrzeni prywatnej</string>
+    <string name="private_space_access_header">Dostęp do przestrzeni prywatnej po jej ukryciu</string>
+    <string name="private_space_auto_lock_after_device_restart">Tylko po ponownym uruchomieniu</string>
+    <string name="private_space_category_hide">Ukrywanie</string>
+    <string name="private_space_category_lock">Blokowanie</string>
+    <string name="private_space_few_moments_text">Potrwa to kilka chwil</string>
+    <string name="private_space_gaia_education_bullet1">Zsynchronizowane zdjęcia, pliki, e-maile, kontakty, wydarzenia w kalendarzu i inne dane</string>
+    <string name="private_space_gaia_education_bullet2">Historia pobierania aplikacji i rekomendacje</string>
+    <string name="private_space_gaia_education_bullet3">Historia przeglądania, zakładki i zapisane hasła</string>
+    <string name="private_space_gaia_education_bullet4">Sugerowane treści związane z Twoją aktywnością w aplikacjach w przestrzeni prywatnej</string>
+    <string name="private_space_gaia_education_description">Na następnym ekranie możesz zalogować się na konto, z którego chcesz korzystać w przestrzeni prywatnej</string>
+    <string name="private_space_gaia_education_got_it">OK</string>
+    <string name="private_space_gaia_education_header"><b>Utwórz osobne konto, aby zapobiegać wyświetlaniu poza przestrzenią prywatną danych takich jak:</b></string>
+    <string name="private_space_gaia_education_title">Utwórz konto Google, aby lepiej chronić prywatność swoich danych</string>
+    <string name="private_space_hide_dialog_button">OK</string>
+    <string name="private_space_hide_dialog_message">W pasku wyszukiwania na liście aplikacji wpisz „przestrzeń prywatna”, aby ją otworzyć.</string>
+    <string name="private_space_hide_dialog_title">Przestrzeń prywatna schowa się przy następnym zablokowaniu</string>
+    <string name="private_space_hide_off_summary">Wyłączono</string>
+    <string name="private_space_hide_on_summary">Włączono</string>
+    <string name="private_space_hide_page_summary">Aby inni nie wiedzieli, że na urządzeniu jest przestrzeń prywatna, możesz ukryć ją na liście aplikacji</string>
+    <string name="private_space_hide_page_title">Ukrywaj przestrzeń prywatną po zablokowaniu</string>
+    <string name="private_space_learn_more_text">Więcej o przestrzeni prywatnej</string>
+    <string name="private_space_new_lock_message">Na następnym ekranie będzie trzeba wpisać kod PIN lub hasło albo narysować wzór ustawiony na urządzeniu.</string>
+    <string name="private_space_pre_finish_title">Chwileczkę…</string>
+    <string name="private_space_search_description">W pasku wyszukiwania wpisz „przestrzeń prywatna”</string>
+    <string name="private_space_tap_tile_description">Kliknij <b>Przestrzeń prywatna</b></string>
+    <string name="private_space_unlock_description">Odblokuj przestrzeń prywatną</string>
+    <string name="reset_private_space_delete_dialog">"Jeśli masz przestrzeń prywatną na swoim urządzeniu, zostanie ona całkowicie usunięta, a konto Google dodane do tej przestrzeni zostanie skasowane.
+
+Wszystkie aplikacje w tej przestrzeni wraz z ich danymi również zostaną usunięte."</string>
+    <string name="reset_private_space_delete_title">Usuń przestrzeń prywatną</string>
+    <string name="searchview_clear_text_content_description">Wyczyść tekst</string>
+    <string name="searchview_navigation_content_description">Wstecz</string>
+    <string name="securitycenter_sidebar_box">Przybornik</string>
+    <string name="server_name_title">Nazwa serwera</string>
+    <string name="settingslib_category_private">Prywatne</string>
+    <string name="sim_action_restart_dialog_cancel">Używaj tylko sieci operatora %1$s</string>
+    <string name="sim_action_restart_dialog_msg">Aby używać 2 kart SIM jednocześnie, ponownie uruchom urządzenie i włącz obie karty</string>
+    <string name="sim_action_restart_dialog_title">Uruchom ponownie, aby używać 2 kart SIM</string>
+    <string name="sim_onboarding_close">Zamknij</string>
+    <string name="sim_onboarding_dialog_starting_msg">Skonfiguruj preferencje sieci komórkowej, aby korzystać z kilku kart SIM na tym urządzeniu</string>
+    <string name="sim_onboarding_dialog_starting_title">Określ preferencje karty SIM</string>
+    <string name="storage_documents">Dokumenty</string>
+    <string name="storage_os_detail_dialog_system">Dotyczy to systemu operacyjnego i plików niezbędnych do zapewnienia płynnego działania telefonu. Ze względu na ochronę integralności uzyskanie dostępu do tych plików jest niemożliwe.</string>
+    <string name="storage_other">Inne</string>
+    <string name="storage_other_files_detail_dialog_system">Obejmuje to pamięć podręczną i inne pliki tymczasowe potrzebne Twojemu systemowi operacyjnemu. Z czasem możesz zauważyć zmiany w ilości używanego miejsca na dane.</string>
+    <string name="storage_system_label">System</string>
+    <string name="storage_temporary_files">Tymczasowe pliki systemu</string>
+    <string name="sync_across_devices_title">Synchronizacja między urządzeniami</string>
+    <string name="thread_network_settings_summary">Łącz się ze zgodnymi urządzeniami za pomocą protokołu Thread, aby móc wygodnie korzystać z funkcji inteligentnego domu</string>
+    <string name="thread_network_settings_summary_airplane_mode">Aby użyć Thread, wyłącz tryb samolotowy</string>
+    <string name="time_feedback_category_title">Opinia</string>
+    <string name="time_feedback_title">Prześlij opinię na temat czasu</string>
+    <string name="trackpad_tap_dragging_summary">Dotknij i przeciągnij po touchpadzie, aby przesuwać obiekty</string>
+    <string name="trackpad_tap_dragging_title">Przeciąganie dotykiem</string>
+    <string name="unlock_disable_frp_warning_content_authbound_keys">"Blokada ekranu zostanie usunięta.
+
+Płatności zbliżeniowe nie będą dostępne.
+
+Portfel, płatności i inne aplikacje wymagające uwierzytelnienia mogą nie działać prawidłowo."</string>
+    <string name="unlock_disable_frp_warning_content_face_authbound_keys">"Blokada ekranu i rozpoznawanie twarzy zostaną usunięte.
+
+Płatności zbliżeniowe nie będą dostępne.
+
+Portfel, płatności i inne aplikacje wymagające uwierzytelnienia mogą nie działać prawidłowo."</string>
+    <string name="unlock_disable_frp_warning_content_face_fingerprint_authbound_keys">"Blokada ekranu oraz rozpoznawanie twarzy i odblokowywanie odciskiem palca zostaną usunięte.
+
+Płatności zbliżeniowe nie będą dostępne.
+
+Portfel, płatności i inne aplikacje wymagające uwierzytelnienia mogą nie działać prawidłowo."</string>
+    <string name="unlock_disable_frp_warning_content_fingerprint_authbound_keys">"Blokada ekranu i odblokowywanie odciskiem palca zostaną usunięte.
+
+Płatności zbliżeniowe nie będą dostępne.
+
+Portfel, płatności i inne aplikacje wymagające uwierzytelnienia mogą nie działać prawidłowo."</string>
+    <string name="user_selected_keyboard_layout_label">Wybrany przez użytkownika: %s</string>
+    <string name="wifi_calling_mode_ims_preferred_summary">Jeśli LTE i Wi‑Fi są niedostępne, telefon użyje sieci 2G/3G</string>
+    <string name="wifi_certificate_summary_Certificates">Liczba certyfikatów: %d</string>
+    <string name="wifi_certificate_summary_pinning">Przypinanie certyfikatu</string>
+    <string name="wifi_certificate_summary_system">Certyfikat systemu</string>
+    <string name="wifi_privacy_device_name_settings">Nazwa urządzenia</string>
+    <string name="wifi_privacy_send_device_name_toggle_summary">Udostępnij nazwę urządzenia w sieci</string>
+    <string name="wifi_privacy_send_device_name_toggle_title">Wyślij nazwę urządzenia</string>
+    <string name="wifi_settings_wep_networks_disconnect_summary">Masz połączenie z siecią WEP. Jeśli przestaniesz zezwalać na te sieci, nastąpi rozłączenie.</string>
+    <string name="wifi_settings_wep_networks_disconnect_title">Chcesz przestać zezwalać na sieci WEP?</string>
 </resources>

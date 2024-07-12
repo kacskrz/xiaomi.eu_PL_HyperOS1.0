@@ -1194,4 +1194,6 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
     <string name="net_diag_wlan_basic_functions_china">Podstawowe funkcje Wi-Fi</string>
     <string name="notify_log_catch_content">Po zreprodukowaniu problemu dotknij powiadomienia, aby przesłać opinię lub przytrzymaj je, aby zatrzymać generowanie logów</string>
     <string name="toast_upload_screenrecorder">Prześlij nagranie problemu w celu jego analizy</string>
+    <string name="special_log_recorder">Nagraj ekran</string>
+    <string name="special_log_recorder_hint">Automatycznie zapisz nagranie ekranu po wygenerowaniu logów</string>
 </resources>

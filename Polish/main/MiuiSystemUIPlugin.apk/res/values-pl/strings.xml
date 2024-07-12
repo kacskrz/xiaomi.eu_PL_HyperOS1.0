@@ -508,4 +508,6 @@ Użytkownicy innych słuchawek: zresetować słuchawki w ustawieniach Bluetooth,
     <string name="miui_dnd_mode_on">Nie przeszkadzać wł.</string>
     <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Zakończono udostępnianie dźwięku</string>
     <string name="miplay_bluetooth_share_music_together_btn_content_des">Dodaj słuchawki, aby udostępnić dźwięk</string>
+    <string name="quick_settings_voice_trans_label">Interpretuj dźwięk</string>
+
 </resources>

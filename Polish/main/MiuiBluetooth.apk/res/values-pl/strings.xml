@@ -409,4 +409,8 @@ Szyszy protokół transmisji."</string>
     <string name="easy_tether_statusbar_connect_title_v2">"Połącz się z danymi: %1$s"</string>
     <string name="fast_connect_miot_stabilizer_device_connect_done">Połączono</string>
     <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Aparat</string>
+    <string name="fast_connect_reset_common_redmikeyboard">Przytrzymaj klawisze Ctrl+F+R przez %d sekund, aby rozpocząć parowanie</string>
+    <string name="stylus_firmware_failed_summaryV2">Upewnij się, że lokalizacja jest włączona, uruchom ponownie Bluetooth i spróbuj ponownie, gdy rysik się połączy</string>
+    <string name="stylus_firmware_success_summaryV2">Połącz ponownie rysik przez Bluetooth</string>
+    <string name="stylus_firmware_update">Aktualizacja oprogramowania</string>
 </resources>

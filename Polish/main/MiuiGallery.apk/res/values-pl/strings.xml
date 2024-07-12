@@ -3934,4 +3934,14 @@ Spróbuj utworzyć obraz SI za pomocą innych zdjęć."</string>
     <string name="new_year_eve">"Nowy Rok"</string>
     <string name="thanksgiving_day">Święto Dziękczynienia</string>
     <string name="the_christmas_eve">Wigilia Bożego Narodzenia</string>
+    <string name="pic_to_pdf_install_dialog_content">Aby generować pliki PDF, zainstaluj Przeglądarkę dokumentów Mi. Zrobić to teraz?</string>
+    <string name="pic_to_pdf_install_dialog_positive">Zainstaluj</string>
+    <string name="pic_to_pdf_install_dialog_title">Zainstaluj przeglądarkę dokumentów Mi</string>
+    <string name="pic_to_pdf_permission_dialog_content">"Aby zapisywać pliki PDF, zezwól Przeglądarce dokumentów Mi na dostęp do zdjęć i filmów na tym urządzeniu. Możesz to zrobić w Ustawieniach."</string>
+    <string name="pic_to_pdf_permission_dialog_positive">Ustawienia</string>
+    <string name="pic_to_pdf_permission_dialog_title">Wymagane uprawnienia</string>
+    <string name="pic_to_pdf_update_dialog_content">Aby generować pliki PDF, zaktualizuj Przeglądarkę dokumentów Mi do najnowszej wersji. Zrobić to teraz?</string>
+    <string name="pic_to_pdf_update_dialog_positive">Aktualizuj</string>
+    <string name="pic_to_pdf_update_dialog_title">Zaktualizuj przeglądarkę dokumentów Mi</string>
+    <string name="toast_pdf_create_failed">"Nie udało się wygenerować. Spróbuj ponownie."</string>
 </resources>

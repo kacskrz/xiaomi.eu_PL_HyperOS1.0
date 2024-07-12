@@ -210,4 +210,12 @@ Zgłoś ten problem >"</string>
     <string name="float_notification_snooze_summary_always_float">Zawsze pokazuj pływające powiadomienia</string>
     <string name="float_notification_snooze_summary_until_unlock">Przesuń pływające powiadomienie w górę, aby ukryć kolejne powiadomienia, dopóki urządzenie nie zostanie zablokowane</string>
     <string name="notification_style_miui">Klasyczny</string>
+    <string name="aon_message">Aby określić, czy na ekran patrzy wiele osób, funkcja uzyska dostęp do przedniego aparatu podczas wyświetlania pływającego powiadomienia. Zgromadzone zdjęcia są wykorzystywane tylko do lokalnej analizy liczby osób patrzących na ekran. Gdy zostanie wykryta więcej niż jedna osoba, treść powiadomienia zostanie ukryta.</string>
+    <string name="aon_on_cancel">Anuluj</string>
+    <string name="aon_on_confirm_time_out">OK</string>
+    <string name="aon_title">Informacja</string>
+    <string name="notification_aon_summary">Ukryj treść powiadomienia, gdy na ekran patrzy wiele osób</string>
+    <string name="notification_aon_title">Inteligentne pokazywanie pływających powiadomień</string>
+    <string name="notification_aon_title_aon">Powiadomienia AON</string>
+    <string name="notification_aon_title_hide">Ukryj powiadomienia</string>
 </resources>

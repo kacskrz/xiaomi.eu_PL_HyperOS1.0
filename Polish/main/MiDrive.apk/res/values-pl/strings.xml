@@ -859,4 +859,7 @@ Upewnij się, że używasz obecnego konta Xiaomi jako swojego konta w systemie."
   <string name="request_permission_read_media_visual">W celu podglądania, wysyłania, pobierania i synchronizacji zdjęć i filmów</string>
   <string name="exception_share_file">"Nie udało się przesłać. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
   <string name="miuix_appcompat_edit">Edytuj</string>
+  <string name="creation_dialog_message">Wyświetl rysunki na swoim tablecie.</string>
+  <string name="creation_dialog_positive_btn">OK</string>
+  <string name="creation_dialog_title">Uwaga</string>
 </resources>

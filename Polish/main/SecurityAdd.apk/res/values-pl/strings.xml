@@ -433,4 +433,6 @@
   <string name="pc_satellite_auto_enter_super_power">Włączono Ultraoszczędzanie baterii, aby zapewnić połączenie z satelitą</string>
   <string name="pc_satellite_superpower_dialog_subtitle">Zbyt niski poziom baterii. Jeśli wyłączysz Ultraoszczędzanie baterii, stracisz też połączenie z satelitą Tiantong. Wyłączyć mimo to?</string>
   <string name="pc_satellite_superpower_dialog_title">Komunikacja z satelitą Tiantong</string>
+  <string name="global_satisfaction_network_error">"Nie udało się uzyskać danych. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
+  <string name="global_satisfactionnetwork_loading">Uzyskiwanie danych…</string>
 </resources>

@@ -520,4 +520,5 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="permission_bluetooth_dialog_description">Zezwól temu urządzeniu na łączenie się z urządzeniami w pobliżu, aby móc przełączać się między urządzeniami podczas odtwarzania nagrań.</string>
   <string name="permission_bluetooth_title">Wymagane uprawnienia</string>
   <string name="toast_stop">Nagrywanie zakończone</string>
+  <string name="miuix_appcompat_cloud_state_encrypt_disabled">Aby zsynchronizować elementy, włącz ochronę end-to-end</string>
 </resources>

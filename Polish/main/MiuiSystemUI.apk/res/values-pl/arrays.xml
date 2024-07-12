@@ -485,4 +485,9 @@
         <item>Wyłączono</item>
         <item>Włączono</item>
     </string-array>
+    <string-array name="tile_states_hearing_devices">
+        <item>Niedostępne</item>
+        <item>Wyłączono</item>
+        <item>Włączono</item>
+    </string-array>
 </resources>

@@ -2010,22 +2010,20 @@ Nadal możesz wykonywać połączenia alarmowe."</string>
   <string name="privacy_setting">Prywatność</string>
   <string name="wifi_call_preferred_summary">"Jeśli wybierzesz opcję preferowania sieci komórkowych, do połączeń domyślnie będą używane sieci komórkowe. Jeśli nie ma sygnału sieci komórkowej lub jest on bardzo słaby, zamiast niej będzie używana sieć Wi-Fi."</string>
   <string name="more">Więcej</string>
-  <string name="disable_esim_dialog_summary">"Jeśli zdezaktywujesz teraz eSIM, zostanie aktywowana karta SIM %s.
-Zdezaktywować eSIM?"</string>
-  <string name="disable_esim_dialog_title">Dezaktywacja eSIM</string>
-  <string name="disable_esim_error_toast_message">"Nie udało się zdezaktywować eSIM"</string>
-  <string name="disable_esim_progress_activating_message">Dezaktywacja eSIM…</string>
-  <string name="enable_esim_dialog_summary">"Jeśli dokonasz aktywacji eSIM, karta SIM %s zostanie zdezaktywowana.
-Aktywować eSIM?"</string>
-  <string name="enable_esim_dialog_title">Aktywacja eSIM</string>
-  <string name="enable_esim_error_toast_message">"Nie udało się aktywować eSIM"</string>
-  <string name="enable_esim_progress_activating_message">Aktywacja eSIM…</string>
-  <string name="enable_esim_title">Użyj eSIM</string>
+  <string name="disable_esim_dialog_summary">Nie będzie możliwe korzystanie z eSIM po jej wyłączeniu. Wyłączyć mimo to?</string>
+  <string name="disable_esim_dialog_title">Wyłącz eSIM</string>
+  <string name="disable_esim_error_toast_message">Nie udało się wyłączyć eSIM</string>
+  <string name="disable_esim_progress_activating_message">Wyłączanie eSIM…</string>
+  <string name="enable_esim_dialog_summary">Po włączeniu eSIM nie będzie możliwe korzystanie z obecnej karty SIM %s. Włączyć eSIM mimo to?</string>
+  <string name="enable_esim_dialog_title">Włącz eSIM</string>
+  <string name="enable_esim_error_toast_message">"Nie udało się włączyć eSIM"</string>
+  <string name="enable_esim_progress_activating_message">Włączanie eSIM…</string>
+  <string name="enable_esim_title">Włącz eSIM</string>
   <string name="enter_esim_manager_title">Zarządzaj eSIM</string>
   <string name="esim_inactive_notification_message_global">Nie wykryto karty SIM. Dotknij, aby aktywować eSIM</string>
   <string name="esim_inactive_notification_title_global">Karty SIM i sieć mobilna</string>
   <string name="esim_setting_title">Ustawienia eSIM</string>
-  <string name="no_active_esim_text">Nieaktywna karta eSIM</string>
+  <string name="no_active_esim_text">Brak eSIM</string>
   <string name="set_esim_toast_phone_in_call">"Nie można wykonywać tej akcji w trakcie połączeń"</string>
   <string name="switch_cancel_btn_text">Anuluj</string>
   <string name="fiveg_nrca_switch_summary">Użyj agregacji pasm 5G dla lepszej łączności</string>
@@ -2469,7 +2467,7 @@ Ten tablet nie jest wyposażony w słuchawki. Możesz przełączyć w tryb gło�
     <string name="dual_sim_smart_call_forward_dialog_message">Aby ta funkcja mogła działać normalnie, na obu kartach SIM powinno być włączone przekierowanie połączeń. Aby sprawdzić szczegóły dot. opcji i opłat związanych z przekierowaniem połączeń, skontaktuj się ze swoim operatorem.</string>
     <string name="clh_callFailed_satelliteEnabled_txt">Włączono Tryb satelity</string>
     <string name="feedback_title">Opinia</string>
-    <string name="incall_error_satellite_enabled">Aby wykonać połączenie, wyłącz Tryb satelity.</string>
+    <string name="incall_error_satellite_enabled">Aby wykonać połączenie, zakończ połączenie z satelitą.</string>
     <string name="install_messages_on_work_profile_action_str">Zainstaluj służbową aplikację do SMS-ów</string>
     <string name="modem_log_notification__message">Może to zwiększyć zużycie energii</string>
     <string name="modem_log_notification_title">Generowanie logów modemu…</string>
@@ -2577,4 +2575,12 @@ Na tym urządzeniu wyłączono sieć 2G, co może mieć wpływ na Twoją łączn
    <string name="no_network_available">Brak sieci</string>
    <string name="radio_info_euicc_info">Informacje eUICC:</string>
    <string name="roaming_preferred_wificall_title">Preferencje sieci (roaming)</string>
+    <string name="cfu_notification_title">Przekierowywanie połączeń</string>
+    <string name="disable_cfu_notification_summary">Karta SIM %d nie korzysta już z roamingu. Zalecamy wyłączenie przekierowywania połączeń dla tej karty SIM.</string>
+    <string name="enable_cfu_notification_summary">Karta SIM %1$d ma włączony roaming. Możesz przekierowywać połączenia na kartę SIM %2$d, aby zaoszczędzić na opłatach roamingowych.</string>
+    <string name="incall_error_carrier_roaming_satellite_mode">Możesz wymieniać wiadomości bez dostępu do sieci komórkowej lub Wi-Fi.</string>
+    <string name="roaming_change_dds_notification">Przełącz kartę SIM do transmisji danych podczas roamingu</string>
+    <string name="roaming_change_dds_notification_text">Twoja karta SIM do transmisji danych jest w roamingu. Przełącz się na lokalną kartę SIM, aby uniknąć dodatkowych opłat.</string>
+    <string name="roaming_change_dds_notification_title">Zmień kartę SIM do transmisji danych</string>
+    <string name="satellite_open_tiantong_business_title">Włącz komunikację z China Telecom Tiantong Satellite</string>
 </resources>

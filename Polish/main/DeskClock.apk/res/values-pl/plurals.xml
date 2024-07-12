@@ -122,4 +122,22 @@
         <item quantity="other">Włączy się %1$d razy</item>
         <item quantity="one">Włączy się %1$d raz</item>
     </plurals>
+    <plurals name="sleep_duration_hour_new">
+        <item quantity="other">%1$d godzin</item>
+        <item quantity="few">%1$d godziny</item>
+        <item quantity="one">%1$d godzina</item>
+    </plurals>
+    <plurals name="sleep_duration_min_new">
+        <item quantity="other">%1$d minut</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="few">%1$d minuty</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast_new">
+        <item quantity="other">+%1$d godz.</item>
+        <item quantity="one">+%1$d godz.</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow_new">
+        <item quantity="other">-%1$d godz.</item>
+        <item quantity="one">-%1$d godz.</item>
+    </plurals>
 </resources>

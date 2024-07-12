@@ -673,4 +673,8 @@ z przedniego aparatu"</string>
   <string name="car_share_view_content">Wyślij do %s</string>
   <string name="wallpaper_Fragrant_title">Kwiaty</string>
   <string name="wallpaper_Geometrically_irregular_title">Abstrakcja w geometrii</string>
+  <string name="skipcoreappanr_notification_text">Problem z systemem został naprawiony automatycznie</string>
+  <string name="skipcoreappanr_notification_title">%1$s nie odpowiada</string>
+  <string name="skipprocessanr_notification_text">Proces „%1$s” nie odpowiada</string>
+  <string name="skipprocessanr_notification_title">System nie odpowiada</string>
 </resources>

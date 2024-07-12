@@ -1626,4 +1626,15 @@ Jeśli ponownie włączysz dane mobilne, twój operator może naliczyć dodatkow
         <item quantity="other">%d-dniową</item>
         <item quantity="one">%d-dniową</item>
     </plurals>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"Uwaga:
+· Poprawione treści nie będą dostępne, gdy włączone jest Oszczędzanie baterii lub gdy urządzenie jest przegrzane.
+· Lepszy klatkaż działa najlepiej, gdy gra wyświetla co najmniej %d klatek na sekundę."</item>
+        <item quantity="one">"Uwaga:
+· Poprawione treści nie będą dostępne, gdy włączone jest Oszczędzanie baterii lub gdy urządzenie jest przegrzane.
+· Lepszy klatkaż działa najlepiej, gdy gra wyświetla co najmniej %d klatkę na sekundę."</item>
+        <item quantity="few">"Uwaga:
+· Poprawione treści nie będą dostępne, gdy włączone jest Oszczędzanie baterii lub gdy urządzenie jest przegrzane.
+· Lepszy klatkaż działa najlepiej, gdy gra wyświetla co najmniej %d klatki na sekundę."</item>
+    </plurals>
 </resources>
