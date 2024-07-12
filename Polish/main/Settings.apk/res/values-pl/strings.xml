@@ -10981,7 +10981,6 @@ Aby przełączać się między funkcjami, przesuń 3 palcami w górę i przytrzy
 
 Aby przełączać się między funkcjami, przesuń 3 palcami w górę i przytrzymaj."</string>
     <string name="accessibility_tutorial_dialog_message_triple">Aby włączyć lub wyłączyć powiększenie, kliknij trzykrotnie w dowolnym miejscu na ekranie.</string>
-    <string name="accessibility_tutorial_dialog_message_volume">Aby użyć tej funkcji, naciśnij i przytrzymaj oba przyciski głośności.</string>
     <string name="accessibility_tutorial_dialog_title_button">Otwieraj przyciskiem ułatwień dostępu</string>
     <string name="accessibility_tutorial_dialog_title_gesture">Otwieranie gestem</string>
     <string name="accessibility_tutorial_dialog_title_gesture_settings">Użyj gestu ułatwień dostępu</string>

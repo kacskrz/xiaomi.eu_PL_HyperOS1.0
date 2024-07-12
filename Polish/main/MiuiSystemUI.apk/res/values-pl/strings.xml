@@ -3936,8 +3936,6 @@ kliknij dwukrotnie"</string>
     <string name="UVI_level_3">Bardzo silny</string>
     <string name="UVI_level_4">Ciężki</string>
     <string name="accessibility_quick_settings_collapse">Zamknij szybkie ustawienia.</string>
-    <string name="drag_shadow_freeform_mini_open">Pływające miniokno</string>
-    <string name="drag_shadow_freeform_mini_unsupported">"Pływające miniokna nie są wspierane"</string>
     <string name="drag_shadow_freeform_open">Pływające okno</string>
     <string name="drag_shadow_freeform_unsupported">"Pływające okna nie są wspierane"</string>
     <string name="drag_shadow_freeform_unsupported_app">"%s nie wspiera pływających okien"</string>
