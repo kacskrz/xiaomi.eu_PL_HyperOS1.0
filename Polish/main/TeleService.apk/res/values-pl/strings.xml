@@ -2582,5 +2582,4 @@ Na tym urządzeniu wyłączono sieć 2G, co może mieć wpływ na Twoją łączn
     <string name="roaming_change_dds_notification">Przełącz kartę SIM do transmisji danych podczas roamingu</string>
     <string name="roaming_change_dds_notification_text">Twoja karta SIM do transmisji danych jest w roamingu. Przełącz się na lokalną kartę SIM, aby uniknąć dodatkowych opłat.</string>
     <string name="roaming_change_dds_notification_title">Zmień kartę SIM do transmisji danych</string>
-    <string name="satellite_open_tiantong_business_title">Włącz komunikację z China Telecom Tiantong Satellite</string>
 </resources>
