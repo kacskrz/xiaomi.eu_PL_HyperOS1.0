@@ -3944,4 +3944,16 @@ Spróbuj utworzyć obraz SI za pomocą innych zdjęć."</string>
     <string name="pic_to_pdf_update_dialog_positive">Aktualizuj</string>
     <string name="pic_to_pdf_update_dialog_title">Zaktualizuj przeglądarkę dokumentów Mi</string>
     <string name="toast_pdf_create_failed">"Nie udało się wygenerować. Spróbuj ponownie."</string>
+    <string name="delete_all_photos">"Za chwilę usuniesz wszystkie zdjęcia z tego urządzenia. Może to spowodować utratę ważnych danych. Usunąć mimo to?"</string>
+    <string name="delete_media_dialog_comment">*Elementy zostaną przeniesione do \"Usuniętych elementów\". Możesz je stamtąd przywrócić lub permanentnie usunąć.</string>
+    <string name="delete_media_from_cloud">Wybrane elementy zostaną usunięte ze wszystkich urządzeń oraz ze chmury. Usunąć mimo to?</string>
+    <string name="delete_risk_alert_message">"Chcesz usunąć dużą liczbę elementów. Jeśli przejdziesz dalej, zostaną one przeniesione do \"Usuniętych elementów\". Usunąć te elementy?"</string>
+    <string name="delete_risk_alert_title">Uwaga</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja ze chmurą wyłączona</string>
+    <string name="miuix_appcompat_cloud_state_encrypt_disabled">Włącz ochronę end-to-end, aby zsynchronizować elementy</string>
+    <string name="miuix_appcompat_cloud_state_finished">Pomyślnie zsynchronizowano ze chmurą</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Synchronizowanie ze chmurą…</string>
+    <string name="multiwindow_not_support_camera">"Nie można użyć aparatu w trybie wielu okien"</string>
+    <string name="today_of_year_next_day">Następny dzień</string>
+    <string name="today_of_year_pre_day">Poprzedni dzień</string>
 </resources>

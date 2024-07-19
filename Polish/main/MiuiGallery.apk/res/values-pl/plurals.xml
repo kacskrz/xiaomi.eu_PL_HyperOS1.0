@@ -893,4 +893,10 @@
         <item quantity="other">Aby móc przejść dalej, dodaj jeszcze %d wideo</item>
         <item quantity="one">Aby móc przejść dalej, dodaj jeszcze %d wideo</item>
     </plurals>
+    <plurals name="delete_confirm_count_down">
+        <item quantity="other">Usuń (%d s)</item>
+    </plurals>
+    <plurals name="trash_purge_count_down">
+        <item quantity="other">Usuń (%d s)</item>
+    </plurals>
 </resources>
