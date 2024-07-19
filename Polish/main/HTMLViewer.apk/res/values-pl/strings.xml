@@ -55,4 +55,7 @@
   <string name="miuix_indexer_selected">Wybrano %s</string>
   <string name="security_for_pad">Panel sterowania</string>
   <string name="security_for_phone">Panel sterowania</string>
+  <string name="ai_services_network_error_message">"Nie udało się połączyć z siecią.
+Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
+  <string name="ai_services_title">Usługi SI</string>
 </resources>

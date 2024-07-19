@@ -10,4 +10,7 @@
         <item quantity="few">Wygląda na to, że bateria została rozłączona. Urządzenie wyłączy się za %d sekundy. Aby rozwiązać ten problem, skontaktuj się ze wsparciem technicznym.</item>
         <item quantity="one">Wygląda na to, że bateria została rozłączona. Urządzenie wyłączy się za %d sekundę. Aby rozwiązać ten problem, skontaktuj się ze wsparciem technicznym.</item>
     </plurals>
+    <plurals name="tethered_notification_multi_device_message">
+        <item quantity="other">Połączonych urządzeń: %1$s. Urządzenie może się nagrzewać i zużywać więcej energii.</item>
+    </plurals>
 </resources>

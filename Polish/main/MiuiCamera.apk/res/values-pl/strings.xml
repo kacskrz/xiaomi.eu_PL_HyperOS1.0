@@ -2961,4 +2961,8 @@ Utrzymuj obiekt pośrodku ekranu."</string>
     <string name="pref_camera_close_focus_preferred_title">Ostrość z bliska</string>
     <string name="street_viewfinder_tip_on">Włączono Rozszerzony wizjer</string>
     <string name="main_back_default_focal">Domyślna ogniskowa głównego aparatu</string>
+    <string name="ambilight_tips_for_hover">W słabym oświetleniu użyj statywu lub trybu Stabilizacji</string>
+    <string name="pref_camera_edge_wide_ultra_ldc_summary">Popraw zniekształcenia obiektywu na zdjęciach z normalnego i ultraszerokiego aparatu w trybach Zdjęcie, Portret i Noc</string>
+    <string name="pref_camera_edge_wide_ultra_ldc_title">Popraw zniekształcenia obiektywu</string>
+    <string name="pro_only_raw_first_use_hint">RAW zwróci zdjęcia %s</string>
 </resources>

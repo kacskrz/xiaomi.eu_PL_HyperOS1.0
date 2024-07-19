@@ -406,4 +406,9 @@
         <item quantity="few">Temperatura: %1$s stopnie, %2$s</item>
         <item quantity="one">Temperatura: %1$s stopień, %2$s</item>
     </plurals>
+    <plurals name="high_temperature_message">
+        <item quantity="other">Urządzenie jest przegrzane. Tryb wielu okien wyłączy się za %d sekund.</item>
+        <item quantity="one">Urządzenie jest przegrzane. Tryb wielu okien wyłączy się za %d sekundę.</item>
+        <item quantity="few">Urządzenie jest przegrzane. Tryb wielu okien wyłączy się za %d sekundy.</item>
+    </plurals>
 </resources>

@@ -677,4 +677,10 @@ z przedniego aparatu"</string>
   <string name="skipcoreappanr_notification_title">%1$s nie odpowiada</string>
   <string name="skipprocessanr_notification_text">Proces „%1$s” nie odpowiada</string>
   <string name="skipprocessanr_notification_title">System nie odpowiada</string>
+  <string name="ime_countDown_no">Nie</string>
+  <string name="ime_countDown_timer">Tak (%d s)</string>
+  <string name="ime_countDown_tip">Metoda wprowadzania, którą wybierzesz, będzie używana tylko na wewnętrznym ekranie. Chcesz zmienić metodę wprowadzania?</string>
+  <string name="ime_countDown_title">Uwaga</string>
+  <string name="ime_countDown_yes">Tak</string>
+  <string name="ime_rotation_tip">"Nie można wprowadzić tekstu pod tym kątem. Obróć urządzenie."</string>
 </resources>
