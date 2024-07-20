@@ -2090,9 +2090,6 @@
      <string name="macarons_download_success">Pomyślnie pobrano wtyczkę</string>
      <string name="macarons_select_image_range">"Do utworzenia magicznej winiety nie można wykorzystać kilku obrazów"</string>
      <string name="macarons_select_video">"Do utworzenia magicznej winiety nie można wykorzystać plików wideo"</string>
-     <string name="miuix_appcompat_cloud_state_disabled">Synchronizacja z Chmurą jest wył.</string>
-     <string name="miuix_appcompat_cloud_state_finished">Pomyślnie zsynchronizowano z Chmurą</string>
-     <string name="miuix_appcompat_cloud_state_syncing">Synchronizacja z Chmurą…</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
