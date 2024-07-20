@@ -180,4 +180,9 @@ Dłuższe animacje zostaną w tym momencie zatrzymane."</item>
         <item quantity="few">Ładowanie. Poziom baterii: %d procent.</item>
         <item quantity="many">Ładowanie. Poziom baterii: %d procent.</item>
     </plurals>
+    <plurals name="tiny_kg_template_pets_count_limit">
+        <item quantity="other">Jednocześnie możesz zastosować maks. %d szablonów \"Zwierząt\". Usuń część z nich, aby dodać nowe.</item>
+        <item quantity="few">Jednocześnie możesz zastosować maks. %d szablony \"Zwierząt\". Usuń część z nich, aby dodać nowe.</item>
+        <item quantity="one">Jednocześnie możesz zastosować maks. %d szablon \"Zwierząt\". Usuń część z nich, aby dodać nowe.</item>
+    </plurals>
 </resources>

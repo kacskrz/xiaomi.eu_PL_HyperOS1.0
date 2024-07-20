@@ -12530,7 +12530,7 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="show_nfc_icon_title">Pokaż ikonę NFC</string>
     <string name="show_dnd_icon_title">Pokaż ikonę trybu Nie przeszkadzać</string>
     <string name="status_bar_icons_title">Ikony paska statusu</string>
-    <string name="ap_p2p_dialog_message">"Obecnie udostępniane połączenie Wi-Fi jest już używane. Przed włączeniem hotspota upewnij się, że nie używasz Wi-Fi Direct, Mi Share, projekcji ekranu lub innych usług używających połączenia bezprzewodowego."</string>
+    <string name="ap_p2p_dialog_message">"Obecnie udostępniane połączenie Wi-Fi jest już używane. Przed włączeniem hotspota upewnij się, że nie używasz Wi-Fi Direct, Xiaomi Share, projekcji ekranu lub innych usług używających połączenia bezprzewodowego."</string>
     <string name="ap_p2p_dialog_yes">Rozłącz</string>
     <string name="conversation_assistant">Narzędzia konferencyjne</string>
     <string name="enable_preferred_network_type_summary">Wyświetl i ustaw swój typ sieci w Ustawieniach > Karty SIM i sieć mobilna > Karta SIM</string>
@@ -14492,4 +14492,12 @@ Portfel, płatności i inne aplikacje wymagające uwierzytelnienia mogą nie dzi
     <string name="outdoor_low_power_notification">"Nie można włączyć trybu Na zewnątrz ze względu na słabą baterię"</string>
     <string name="outdoor_mode">Tryb Na zewnątrz</string>
     <string name="outdoor_mode_summary">Włącz ten tryb, aby zwiększyć jasność urządzenia. W tym trybie urządzenie będzie się nagrzewać i zużywać więcej energii.</string>
+    <string name="cooler_reset">Naciśnij %d razy, aby sparować</string>
+    <string name="guest_name_category_title">Goście</string>
+    <string name="tiny_accessibility_kg_battery_level">Bateria</string>
+    <string name="tiny_camera_content_description">Aparat</string>
+   <string name="tiny_classic_date_format">d.MM. EEE</string>
+   <string name="tiny_pets_date_format">d.MM.</string>
+   <string name="tiny_splicing_date_content_description">d.MM.</string>
+   <string name="tiny_splicing_date_format">d.MM.</string>
 </resources>

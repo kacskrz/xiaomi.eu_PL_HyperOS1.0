@@ -656,4 +656,13 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
    <string name="software_version_mismatch">Niewspierane oprogramowanie</string>
    <string name="software_version_mismatch_summary">"Ta wersja oprogramowania nie jest wspierana przez Twoje urządzenie. Korzystanie z niej może być niebezpieczne. Aby dowiedzieć się więcej, skontaktuj się ze sprzedawcą."</string>
    <string name="startup_page_text_hint">Rozłóż, aby aktywować urządzenie</string>
+    <string name="kind_tip_details_inner_details">"Podczas korzystania z urządzenia lub przenoszenia go należy unikać naciskania ekranu ostrymi przedmiotami (końcówkami długopisów, paznokciami itp.). Przed złożeniem urządzenia upewnij się, że na ekranie wewnętrznym nie ma twardych przedmiotów, takich jak karty, monety lub klucze."</string>
+    <string name="kind_tip_details_inner_title">"Nie wywieraj nacisku na wewnętrzny ekran ostrymi lub twardymi rzeczami"</string>
+    <string name="kind_tip_details_pocket_details">"Złóż urządzenie, gdy go nie używasz. Unikaj kontaktu wewnętrznego ekranu ze wszelkimi ostrymi lub twardymi obiektami w Twojej torbie lub kieszeni."</string>
+    <string name="kind_tip_details_pocket_title">"Nie wkładaj rozłożonego urządzenia do torby czy kieszeni"</string>
+    <string name="kind_tip_details_protective_details_cn">"Wewnętrzny ekran tego urządzenia jest chroniony specjalną folią ochronną, której wymiana wymaga specjalistycznego sprzętu. Nie usuwaj bądź wymieniaj tej ochrony samodzielnie, ponieważ uszkodzenie ekranu w ten sposób nie jest objęte gwarancją. Jeśli musisz wymienić ochronę ekranu, skontaktuj się z obsługą klienta Xiaomi."</string>
+    <string name="kind_tip_details_protective_details_global">Wewnętrzny ekran tego urządzenia jest chroniony specjalną folią ochronną. Jej usuwanie bądź wymienianie może spowodować uszkodzenie tego ekranu.</string>
+    <string name="kind_tip_details_protective_title">"Nie usuwaj samodzielnie ochrony wewnętrznego ekranu"</string>
+    <string name="kind_tip_subtitle">To urządzenie posiada rozkładany ekran. Aby uniknąć jego uszkodzenia i mieć pewność, że działa on normalnie, postępuj zgodnie z naszymi wskazówkami.</string>
+    <string name="kind_tip_title">Uwaga</string>
 </resources>

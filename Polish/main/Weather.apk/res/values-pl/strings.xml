@@ -541,4 +541,8 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki nowej wersji %2$s."</st
     <string name="third_party_data_sharing_instructions">Stanowisko dot. udostępniania danych firmom trzecim</string>
     <string name="user_notice">Uwaga</string>
     <string name="video_dialog_subtitle">"Korzystasz z danych mobilnych. Odtworzyć wideo mimo to?"</string>
+    <string name="act_find_city_no_location_text">Brak lokalizacji</string>
+    <string name="daily_forecast_card_title">Prognoza %d-dniowa</string>
+    <string name="daily_forecast_next_15_days">Prognoza 15-dniowa</string>
+    <string name="dislike_alert_dialog_title">Czemu nie chcesz widzieć tej treści?</string>
 </resources>

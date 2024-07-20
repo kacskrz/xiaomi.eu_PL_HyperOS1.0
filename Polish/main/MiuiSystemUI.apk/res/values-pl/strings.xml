@@ -4292,4 +4292,16 @@ Zablokowano – za dużo prób logowania."</string>
     <string name="searchview_clear_text_content_description">Wyczyść tekst</string>
     <string name="searchview_navigation_content_description">Wstecz</string>
     <string name="title_for_empty_state_cta">Uzyskaj szybki dostęp do ulubionych widżetów aplikacji bez odblokowywania tabletu.</string>
+    <string name="flip_flashlight_dialog_cancel">Nie teraz</string>
+    <string name="flip_flashlight_dialog_text">"Złóż, aby włączyć latarkę.
+Wyłącz ją przyciskiem Zasilania."</string>
+    <string name="miui_notification_menu_title_no_drawable">Kontynuuj na wewnętrznym ekranie</string>
+    <string name="quick_settings_screen_rotation_outer_locked">Zablokowano orientację zewnętrznego ekranu</string>
+    <string name="tiny_accessibility_kg_battery_level">Bateria</string>
+    <string name="tiny_camera_content_description">Aparat</string>
+   <string name="tiny_classic_date_format">d.MM. EEE</string>
+   <string name="tiny_pets_date_format">d.MM.</string>
+   <string name="tiny_splicing_date_content_description">d.MM.</string>
+   <string name="tiny_splicing_date_format">d.MM.</string>
+    <string name="torch_low_battery_warning">"Nie można użyć latarki ze względu na słabą baterię"</string>
 </resources>

@@ -2965,4 +2965,21 @@ Utrzymuj obiekt pośrodku ekranu."</string>
     <string name="pref_camera_edge_wide_ultra_ldc_summary">Popraw zniekształcenia obiektywu na zdjęciach z normalnego i ultraszerokiego aparatu w trybach Zdjęcie, Portret i Noc</string>
     <string name="pref_camera_edge_wide_ultra_ldc_title">Popraw zniekształcenia obiektywu</string>
     <string name="pro_only_raw_first_use_hint">RAW zwróci zdjęcia %s</string>
+    <string name="flip_external_proximity_sensor_hint">Ewentualnie naciśnij przycisk Głośność+</string>
+    <string name="module_name_polaroid">Wywoływanie zdjęć</string>
+    <string name="module_name_printer">Wywoływanie zdjęć</string>
+    <string name="print_image">Drukuj</string>
+    <string name="tip_polaroid_mode_switch">Drukowanie jest wspierane tylko dla zdjęć natychmiastowych</string>
+    <string name="tip_print_cant_back">"Nie można się cofać w trakcie drukowania"</string>
+    <string name="tip_print_charging">"Ładowanie urządzenia. Drukowanie niemożliwe."</string>
+    <string name="tip_print_cover_open">Zamknij pokrywę, aby wydrukować</string>
+    <string name="tip_print_low_battery">Naładuj urządzenie przed drukowaniem</string>
+    <string name="tip_print_other_error">Błąd drukarki. Połącz ponownie.</string>
+    <string name="tip_print_other_paper_error">Źle załadowano papier. Załaduj ponownie.</string>
+    <string name="tip_print_over_heat">Ochłodź drukarkę, aby drukować</string>
+    <string name="tip_print_paper_empty">Brak papieru w drukarce. Załaduj papier.</string>
+    <string name="tip_print_paper_mismatch">"Niekompatybilny papier. Nie można drukować."</string>
+    <string name="tip_print_processing">"Nie można wykonać tej akcji podczas drukowania"</string>
+    <string name="tip_print_processing_v2">Poczekaj, aż zakończy się drukowanie poprzedniego zdjęcia, i spróbuj ponownie</string>
+    <string name="tip_printer_mode_switch">Drukowanie jest wspierane tylko dla zdjęć natychmiastowych</string>
 </resources>

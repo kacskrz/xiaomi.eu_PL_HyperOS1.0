@@ -13,4 +13,7 @@
     <plurals name="tethered_notification_multi_device_message">
         <item quantity="other">Połączonych urządzeń: %1$s. Urządzenie może się nagrzewać i zużywać więcej energii.</item>
     </plurals>
+    <plurals name="ime_countDown_timer">
+        <item quantity="other">Przełącz (%d s)</item>
+    </plurals>
 </resources>

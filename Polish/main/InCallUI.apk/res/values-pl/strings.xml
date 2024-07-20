@@ -544,4 +544,8 @@ Utrzymuj urządzenie w tym położeniu"</string>
     <string name="satellite_satellite_service_tip">"Wygląda na to, że nie aktywowano usługi bezpośredniej łączności z satelitą. Wyszuaj satelity po aktywacji tej usługi."</string>
     <string name="satellite_guide_searching_fold">"Wyszukiwanie satelity… Nie rozkładaj urządzenia."</string>
     <string name="satellite_guide_searching_unfold">"Wyszukiwanie satelity… Nie składaj urządzenia."</string>
+    <string name="call_recording_disclaimer_msg">"Przepisy jurysdykcji, w której znajdujesz się Ty bądź inni uczestnicy rozmowy, mogą wymagać zgody wszystkich stron na jej nagrywanie. Xiaomi nie będzie odpowiedzialne za nielegalne wykorzystanie tej funkcji. Nagrania połączeń są przechowywane tylko na Twoim urządzeniu; Xiaomi nie może uzyskać do nich dostępu."</string>
+    <string name="call_recording_disclaimer_title">Informacja</string>
+    <string name="flip_rotate_use_handset_or_speaker_text">Obróć, aby użyć opcji głośnika</string>
+    <string name="start_call_record">Start</string>
 </resources>

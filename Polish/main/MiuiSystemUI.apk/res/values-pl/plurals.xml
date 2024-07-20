@@ -411,4 +411,16 @@
         <item quantity="one">Urządzenie jest przegrzane. Tryb wielu okien wyłączy się za %d sekundę.</item>
         <item quantity="few">Urządzenie jest przegrzane. Tryb wielu okien wyłączy się za %d sekundy.</item>
     </plurals>
+    <plurals name="tiny_accessibility_battery_level">
+        <item quantity="other">Poziom baterii: %s procent</item>
+        <item quantity="one">Poziom baterii: %s procent</item>
+        <item quantity="few">Poziom baterii: %s procent</item>
+        <item quantity="many">Poziom baterii: %s procent</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="other">Ładowanie. Poziom baterii: %d procent.</item>
+        <item quantity="one">Ładowanie. Poziom baterii: %d procent.</item>
+        <item quantity="few">Ładowanie. Poziom baterii: %d procent.</item>
+        <item quantity="many">Ładowanie. Poziom baterii: %d procent.</item>
+    </plurals>
 </resources>

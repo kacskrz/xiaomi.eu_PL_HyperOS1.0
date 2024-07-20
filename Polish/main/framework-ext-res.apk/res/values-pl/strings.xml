@@ -664,7 +664,7 @@ z przedniego aparatu"</string>
   <string name="wallpaper_floral_arrangement_title">Kwiaty</string>
   <string name="wallpaper_gradient_title">Gradient</string>
   <string name="toast_camera_satellite_mutually_exclusive">"Nie można korzystać z aparatu podczas połączenia satelitarnego"</string>
-  <string name="earpiece_callmode_tip">Rozłóż, aby użyć mikrofonu lub włączyć głośnik</string>
+  <string name="earpiece_callmode_tip">Rozłóż, aby użyć mikrofonu</string>
   <string name="start_activity_tip">Kontynuuj na wewnętrznym ekranie</string>
   <string name="wifi_5ghz_sap_start_failed_by_region">Nie można użyć tetheringu podczas korzystania z sieci Wi-Fi 5 GHz.</string>
   <string name="aon_reader_support_scene_des">Przewracaj strony podczas czytania</string>
@@ -677,10 +677,12 @@ z przedniego aparatu"</string>
   <string name="skipcoreappanr_notification_title">%1$s nie odpowiada</string>
   <string name="skipprocessanr_notification_text">Proces „%1$s” nie odpowiada</string>
   <string name="skipprocessanr_notification_title">System nie odpowiada</string>
-  <string name="ime_countDown_no">Nie</string>
-  <string name="ime_countDown_timer">Tak (%d s)</string>
+  <string name="ime_countDown_no">Anuluj</string>
   <string name="ime_countDown_tip">Metoda wprowadzania, którą wybierzesz, będzie używana tylko na wewnętrznym ekranie. Chcesz zmienić metodę wprowadzania?</string>
-  <string name="ime_countDown_title">Uwaga</string>
-  <string name="ime_countDown_yes">Tak</string>
+  <string name="ime_countDown_title">Zmiana metody wprowadzania</string>
+  <string name="ime_countDown_yes">Zmień</string>
   <string name="ime_rotation_tip">"Nie można wprowadzić tekstu pod tym kątem. Obróć urządzenie."</string>
+  <string name="ability_dialog_button">OK</string>
+  <string name="ability_dialog_text">Ze względu na rozmiar ekranu niektóre aplikacje mogą wyświetlać się niepoprawnie na zewnętrznym ekranie.</string>
+  <string name="ability_dialog_title">Uwaga</string>
 </resources>

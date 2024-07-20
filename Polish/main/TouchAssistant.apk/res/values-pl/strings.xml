@@ -103,4 +103,5 @@
   <string name="status_bar_toggle_torch">Latarka</string>
   <string name="status_bar_toggle_vibrate">Wibracje</string>
   <string name="motion_behavior">Preferowany gest</string>
+  <string name="status_bar_toggle_auto_rotate_kddi">Autoobracanie</string>
 </resources>
