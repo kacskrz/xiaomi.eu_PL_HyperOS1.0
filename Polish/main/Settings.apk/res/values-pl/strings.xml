@@ -14500,4 +14500,6 @@ Portfel, płatności i inne aplikacje wymagające uwierzytelnienia mogą nie dzi
    <string name="tiny_pets_date_format">d.MM.</string>
    <string name="tiny_splicing_date_content_description">d.MM.</string>
    <string name="tiny_splicing_date_format">d.MM.</string>
+    <string name="long_press_editor_style_summary">Dotknij dłużej Ekranu blokady, aby edytować zegar i tapetę</string>
+    <string name="long_press_editor_style_title">Przytrzymaj, aby edytować</string>
 </resources>
