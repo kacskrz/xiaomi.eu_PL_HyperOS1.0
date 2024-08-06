@@ -68,6 +68,7 @@
     <string name="gb_game_macro_record_action">Dotknij, aby zacząć rejestrowanie</string>
     <string name="gb_game_macro_save">Zapisz</string>
     <string name="gb_game_macro_save_exit">Zapisz</string>
+    <string name="gb_macro_floatview_noti">Zezwól aplikacji MiMacro na wyświetlanie się nad innymi aplikacjami</string>
     <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
     <string name="multiple_times">Prędkość</string>
     <string name="name_can_not_be_renamed">Makro o tej nazwie już istnieje</string>
@@ -83,9 +84,7 @@
     <string name="operation_track_explain">Decyduj, czy chcesz widzieć symulacje dotknięć ekranu</string>
     <string name="password_toggle_content_description">Pokazuj hasło</string>
     <string name="play_delay">Opóźnienie</string>
-    <!-- waiting for xiaomi fix -->
     <string name="play_delay_explain">Use with the function of hanging off the screen</string>
-    <!-- end-->
     <string name="play_delay_not_null_tips">Ustaw najpierw opóźnienie</string>
     <string name="play_speed">Prędkość</string>
     <string name="play_speed_explain">Dostosuj prędkość odtwarzania makra</string>
@@ -101,5 +100,4 @@
     <string name="times">razy</string>
     <string name="two_guide_introduce">Dotykaj ekranu tak, jak chcesz, aby utworzyć makro</string>
     <string name="using_tutorial">Tutorial</string>
-    <string name="gb_macro_floatview_noti">Zezwól aplikacji MiMacro na wyświetlanie się nad innymi aplikacjami</string>
 </resources>

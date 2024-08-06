@@ -8,18 +8,6 @@
         <item>Za miesiąc</item>
         <item>Wybierz datę</item>
     </string-array>
-    <string-array name="compose_modes">
-        <item>Odpowiedz</item>
-        <item>Odpowiedz wszystkim</item>
-        <item>Przekaż dalej</item>
-    </string-array>
-    <string-array name="general_preference_text_zoom_summary_array">
-        <item>Bardzo mały tekst</item>
-        <item>Mały tekst</item>
-        <item>Tekst normalnej wielkości</item>
-        <item>Duży tekst</item>
-        <item>Wielki tekst</item>
-    </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Ostatnio czytane</item>
         <item>Format</item>
@@ -27,20 +15,10 @@
         <item>Nadawca</item>
         <item>Data otrzymania</item>
     </string-array>
-   <string-array name="moveto_folder_sections">
-        <item>System</item>
-        <item>Często używane</item>
-        <item>Wszystkie foldery</item>
+    <string-array name="prefEntries_contact_add">
+        <item>Wszystkie</item>
+        <item>Tylko nadawcy</item>
     </string-array>
-    <string-array name="prefEntries_autoAdvance">
-        <item>Nowsze wątki</item>
-        <item>Starsze wątki</item>
-        <item>Lista wątków</item>
-    </string-array>
-	<string-array name="prefEntries_contact_add">
-		<item>Wszystkie</item>
-		<item>Tylko nadawcy</item>
-	</string-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Strona:</item>
@@ -71,7 +49,7 @@
     <string-array name="signature_special_string_array">
         <item>Uwaga:</item>
         <item>Oświadczenie</item>
-        <item>Wysłano od WPSMail</item>
+        <item>Wysłano przez WPSMail</item>
         <item>Wysłano od</item>
         <item>Wysłano z</item>
         <item>Dziękuję,</item>
@@ -88,13 +66,5 @@
         <item>Ta wiadomość e-mail</item>
         <item>Uwaga</item>
         <item>Oświadczenie</item>
-    </string-array>
-    <string-array name="sync_status">
-        <item>Udało się</item>
-        <item>Brak połączenia.</item>
-        <item>Nie można się zalogować.</item>
-        <item>Błąd zabezpieczeń.</item>
-        <item>Błąd synchronizacji.</item>
-        <item>Błąd wewnętrzny</item>
     </string-array>
 </resources>
