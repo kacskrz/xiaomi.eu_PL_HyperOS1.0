@@ -6,13 +6,4 @@
         <item>Wg aplikacji, które mogą pokazywać powiadomienia</item>
         <item>Wg aplikacji, które nie mogą pokazywać powiadomień</item>
     </string-array>
-    <string-array name="lock_screen_display_rules_no_password">
-        <item>Pokaż treść powiadomienia</item>
-        <item>Wyłącz wszelkie powiadomienia</item>
-    </string-array>
-    <string-array name="lock_screen_display_rules_with_password">
-        <item>Pokaż treść powiadomienia</item>
-        <item>Pokazuj powiadomienia, ale ukrywaj treść</item>
-        <item>Wyłącz wszelkie powiadomienia</item>
-    </string-array>
 </resources>

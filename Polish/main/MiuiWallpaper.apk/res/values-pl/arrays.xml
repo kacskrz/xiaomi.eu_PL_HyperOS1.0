@@ -1,38 +1,38 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="settings_search_earth">
         <item>Ziemia</item>
         <item>Tapeta/Supertapety/Ziemia</item>
         <item>Ziemia;Supertapety;Edycja Ziemska;Tapeta</item>
     </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Geometria</item>
+        <item>Tapeta/Supertapety/Geometria</item>
+        <item>Geometria;Abstrakcja;Supertapeta;Tapeta</item>
+    </string-array>
     <string-array name="settings_search_mars">
         <item>Mars</item>
         <item>Tapeta/Supertapety/Mars</item>
         <item>Mars;Edycja Marsjańska;Supertapety;Tapeta</item>
     </string-array>
-    <string-array name="settings_search_superwp">
-        <item>Supertapety</item>
-        <item>Tapeta/Supertapety</item>
-        <item>Supertapety;Tapeta;Dynamiczna tapeta;Tapeta 3D</item>
-    </string-array>
-    <string-array name="settings_search_geometry">
-        <item>Geometria</item>
-        <item>Tapeta/Supertapety/Geometria</item>
-        <item>Geometria;Abstrakcja;Supertapeta;Tapeta</item>
+    <string-array name="settings_search_moon">
+        <item>Księżyc</item>
+        <item>Tapeta/Supertapety/Księżyc</item>
+        <item>kosmos;Księżyc;Supertapety;tapeta</item>
     </string-array>
     <string-array name="settings_search_snowmountain">
         <item>Góra Siguniang</item>
         <item>Tapeta/Supertapety/Góra Siguniang</item>
         <item>Ziemia;Góry;Supertapeta;Tapeta</item>
     </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Supertapety</item>
+        <item>Tapeta/Supertapety</item>
+        <item>Supertapety;Tapeta;Dynamiczna tapeta;Tapeta 3D</item>
+    </string-array>
     <string-array name="settings_search_weather">
         <item>Pogoda</item>
         <item>Tapeta/Supertapety/Pogoda</item>
         <item>Pogoda;Informacje o pogodzie;Supertapeta;Tapeta</item>
-    </string-array>
-    <string-array name="settings_search_moon">
-        <item>Księżyc</item>
-        <item>Tapeta/Supertapety/Księżyc</item>
-        <item>kosmos;Księżyc;Supertapety;tapeta</item>
     </string-array>
 </resources>
