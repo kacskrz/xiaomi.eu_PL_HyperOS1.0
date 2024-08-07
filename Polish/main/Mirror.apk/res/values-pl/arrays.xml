@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="settings_search_mirror">
-        <item>Połączone urządzenia</item>
-        <item>Więcej opcji sieci/Połączone urządzenia</item>
-        <item>MIUI+, MIUIPLUS, wiele ekranów, handoff, przesyłanie ekranu, klawiatura i myszka, rozszerzanie ekranu, Mi Smart Hub, mirror, lustro, rozszerzenie, wielozadaniowość, udostępnianie, myszka, klawiatura, łączenie urządzeń</item>
-    </string-array>
-    <string-array name="settings_tips_message">
-        <item>"1. Przed użyciem Screen Combo yłącz funkcje hotspotu, Mi Share bądź przesyłania ekranu na telefonie.
-2. Włącz Wi-Fi na telefonie oraz komputerze.
-3. Upewnij się, że telefon znajduje się blisko komputera."</item>
-        <item>Twój komputer używa technologii Bluetooth do wykrywania poprzednio połączonych telefonów. Sprawdź, czy na telefonie jest włączone Bluetooth.</item>
-        <item>"Gdy ekran jest zablokowany, telefony nie mogą synchronizować danych z komputerami. Domyślnie Screen Combo nie pozwala na zablokowanie ekranu w momencie, gdy telefon jest połączony z komputerem. Możesz to zmienić w Ustawieniach."</item>
-        <item>"1. Funkcję wspierają telefony:  Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra/Mi 10T/Mi 10T Pro, Redmi K20 Pro/Mi 9T Pro, Redmi K30 Pro/POCO F2 Pro. Jeśli po zeskanowaniu kodu QR widzisz stronę MIUI, Twoje urządzenie nie jest jeszcze wspierane.
-2. Funkcję wspierają komputery: Mi Notebook Pro X 15, Mi Notebook Pro 15.6 (2020), Redmi G, Redmibook 16, Redmibook 14 Ⅱ, Redmibook Air 13. Pobierz aplikację MIUI+ Beta na te komputery ze strony https://plus.miui.com."</item>
-    </string-array>
-    <string-array name="settings_tips_title">
-        <item>"Nie możesz się połączyć za pomocą kodu QR?"</item>
-        <item>"Nie możesz odnaleźć telefonów w komputerze?"</item>
-        <item>"Nie możesz zablokować telefonu?"</item>
-        <item>Kompatybilność</item>
-    </string-array>
     <string-array name="desktop_positions">
         <item>Po lewej</item>
         <item>Po prawej</item>
     </string-array>
     <string-array name="settings_search_mirror_desktop">
-        <item>Pulpit+</item>
-        <item>Interakcja urządzeń Xiaomi/Pulpit+</item>
-        <item>Pulpit+, Pulpit, ekran główny, Mi Smart Hub, Screen Combo, Interakcja urządzeń Xiaomi</item>
+        <item>Ekran główny+</item>
+        <item>Interakcja urządzeń Xiaomi/Ekran główny+</item>
+        <item>Ekran główny+, Pulpit, ekran główny, Xiaomi Smart Hub, Screen Combo, Interakcja urządzeń Xiaomi</item>
     </string-array>
 </resources>

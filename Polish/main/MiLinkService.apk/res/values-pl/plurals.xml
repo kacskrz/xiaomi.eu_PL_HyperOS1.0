@@ -1,53 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">Zaznaczono %d elementów</item>
-        <item quantity="one">Zaznaczono %d element</item>
-        <item quantity="few">Zaznaczono %d elementy</item>
-    </plurals>
     <plurals name="circulate_audio_group_subtitle_format">
         <item quantity="other">%1$d urządzeń</item>
         <item quantity="few">%1$d urządzenia</item>
         <item quantity="one">%1$d urządzenie</item>
     </plurals>
-    <plurals name="circulate_audio_group_title_format">
-        <item quantity="other">%1$d urządzeń</item>
-        <item quantity="few">%1$d urządzenia</item>
-        <item quantity="one">%1$d urządzenie</item>
-    </plurals>
-    <plurals name="car_map_hour">
-        <item quantity="one">%d godz.</item>
-        <item quantity="other">%d godz.</item>
-    </plurals>
-    <plurals name="car_map_minute">
-        <item quantity="one">%d min</item>
-        <item quantity="other">%d min</item>
-    </plurals>
     <plurals name="controller_auth_count_down">
         <item quantity="one">Wprowadź kod z %1$s (%2$d s)</item>
         <item quantity="other">Wprowadź kod z %1$s (%2$d s)</item>
     </plurals>
-    <plurals name="remember_number_habit">
-        <item quantity="other">Zapamiętano %1$d wzorców</item>
-        <item quantity="few">Zapamiętano %1$d wzorce</item>
-        <item quantity="one">Zapamiętano %1$d wzorzec</item>
-    </plurals>
-    <plurals name="habit_executed_number_day">
-        <item quantity="other">Użyto %1$d dni temu</item>
-        <item quantity="one">Użyto %1$d dzień temu</item>
-    </plurals>
-    <plurals name="habit_remembered_number_day">
-        <item quantity="other">Zapamiętano %1$d dni temu</item>
-        <item quantity="one">Zapamiętano %1$d dzień temu</item>
-    </plurals>
     <plurals name="remembered_number_habit">
-        <item quantity="other">Dodano %1$d wzorców</item>
-        <item quantity="few">Dodano %1$d wzorce</item>
-        <item quantity="one">Dodano %1$d wzorzec</item>
+        <item quantity="other">Dodano %1$d wzorów</item>
+        <item quantity="few">Dodano %1$d wzór</item>
+        <item quantity="one">Dodano %1$d wzory</item>
     </plurals>
     <plurals name="un_remember_number_habit">
-        <item quantity="other">Pozostało %1$d wzorców</item>
-        <item quantity="few">Pozostały %1$d wzorce</item>
-        <item quantity="one">Pozostał %1$d wzorzec</item>
+        <item quantity="other">Pozostało %1$d wzorów</item>
+        <item quantity="few">Pozostały %1$d wzory</item>
+        <item quantity="one">Pozostał %1$d wzór</item>
     </plurals>
 </resources>

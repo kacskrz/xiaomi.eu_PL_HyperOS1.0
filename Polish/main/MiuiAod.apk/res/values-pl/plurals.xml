@@ -4,181 +4,23 @@
         <item quantity="other">" (%1$s godz.) - %2$s"</item>
         <item quantity="one">" (%1$s godz.) - %2$s"</item>
     </plurals>
-    <plurals name="count_selected">
-        <item quantity="other">Wybrano %d elementów</item>
-        <item quantity="one">Wybrano %d element</item>
-        <item quantity="few">Wybrano %d elementy</item>
-    </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d nowych powiadomień</item>
-        <item quantity="one">%d nowe powiadomienie</item>
-        <item quantity="few">%d nowe powiadomienia</item>
-    </plurals>
-    <plurals name="a_hour_ago">
-        <item quantity="other">Godzinę temu</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Godzinę temu</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Pół godziny temu</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Za godzinę</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Za pół godziny</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Natychmiast</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="one">za minutę</item>
-        <item quantity="few">za %d minuty</item>
-        <item quantity="other">za %d minut</item>
-    </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Teraz</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="one">Minutę temu</item>
-        <item quantity="few">%d minuty temu</item>
-        <item quantity="other">%d minut temu</item>
-    </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Pół godziny temu</item>
-    </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Za godzinę</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">Za pół godziny</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Natychmiast</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="one">za minutę</item>
-        <item quantity="few">za %d minuty</item>
-        <item quantity="other">za %d minut</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Teraz</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="one">Minutę temu</item>
-        <item quantity="few">%d minuty temu</item>
-        <item quantity="other">%d minut temu</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">Wybrano %d elementów</item>
-        <item quantity="one">Wybrano %d element</item>
-        <item quantity="few">Wybrano %d elementy</item>
-    </plurals>
-    <plurals name="choose_long_gif_limit_toast_tip">
-        <item quantity="other">"Czas odtwarzania animacji nie może przekroczyć %d sekund.
-Dłuższe animacje zostaną w tym momencie zatrzymane."</item>
-        <item quantity="one">"Czas odtwarzania animacji nie może przekroczyć %d sekundy.
-Dłuższe animacje zostaną w tym momencie zatrzymane."</item>
-        <item quantity="few">"Czas odtwarzania animacji nie może przekroczyć %d sekund.
-Dłuższe animacje zostaną w tym momencie zatrzymane."</item>
-        <item quantity="many">"Czas odtwarzania animacji nie może przekroczyć %d sekund.
-Dłuższe animacje zostaną w tym momencie zatrzymane."</item>
-    </plurals>
-    <plurals name="character_pitch_minus">
-        <item quantity="other">Zmniejszono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
-        <item quantity="one">Zmniejszono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
-        <item quantity="few">Zmniejszono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
-        <item quantity="many">Zmniejszono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
-    </plurals>
-    <plurals name="character_pitch_plus">
-        <item quantity="other">Zwiększono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
-        <item quantity="one">Zwiększono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
-        <item quantity="few">Zwiększono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
-        <item quantity="many">Zwiększono odstępy między znakami. Odstępy między znakami wynoszą %s.</item>
-    </plurals>
-    <plurals name="line_spacing_puls">
-        <item quantity="other">Zwiększono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
-        <item quantity="one">Zwiększono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
-        <item quantity="few">Zwiększono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
-        <item quantity="many">Zwiększono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
-    </plurals>
-    <plurals name="lines_pacing_minus">
-        <item quantity="other">Zmniejszono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
-        <item quantity="one">Zmniejszono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
-        <item quantity="few">Zmniejszono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
-        <item quantity="many">Zmniejszono odstępy między wierszami. Odstępy między wierszami wynoszą %s.</item>
-    </plurals>
-    <plurals name="health_chart_sport_time_schedule_format">
-        <item quantity="other">%1$s/%2$s min</item>
-        <item quantity="one">%1$s/%2$s min</item>
-    </plurals>
-    <plurals name="health_chart_stand_schedule_format">
-        <item quantity="other">%1$s/%2$s godz.</item>
-        <item quantity="one">%1$s/%2$s godz.</item>
-    </plurals>
-    <plurals name="health_chart_step_count_schedule_format">
-        <item quantity="other">%1$s/%2$s kroków</item>
-        <item quantity="few">%1$s/%2$s kroki</item>
-        <item quantity="one">%1$s/%2$s krok</item>
-    </plurals>
     <plurals name="atmospheric_pressure_desc">
         <item quantity="other">Ciśnienie: %s hektopaskali</item>
         <item quantity="few">Ciśnienie: %s hektopaskale</item>
         <item quantity="one">Ciśnienie: %s hektopaskal</item>
-    </plurals>
-    <plurals name="health_chart_calories_burned_schedule_format_desc">
-        <item quantity="other">Spalono %1$s kalorii</item>
-        <item quantity="few">Spalono %1$s kalorie</item>
-        <item quantity="one">Spalono %1$s kalorię</item>
-    </plurals>
-    <plurals name="health_chart_calories_goal_schedule_format_desc">
-        <item quantity="other">Cel: %1$s kalorii</item>
-        <item quantity="few">Cel: %1$s kalorie</item>
-        <item quantity="one">Cel: %1$s kaloria</item>
     </plurals>
     <plurals name="health_chart_sport_time_current_schedule_format_desc">
         <item quantity="other">Czas aktywności: %1$s min</item>
         <item quantity="one">Czas aktywności: %1$s min</item>
     </plurals>
     <plurals name="health_chart_sport_time_goal_schedule_format_desc">
-        <item quantity="other">Cel dot. aktywności: %1$s min</item>
-        <item quantity="one">Cel dot. aktywności: %1$s min</item>
-    </plurals>
-    <plurals name="health_chart_stand_count_schedule_format_desc">
-        <item quantity="other">Stano w ciągu %1$s godz.</item>
-        <item quantity="one">Stałeś w ciągu %1$s godz.</item>
-    </plurals>
-    <plurals name="health_chart_stand_goal_schedule_format_desc">
-        <item quantity="other">Cel dot. stania: %1$s godz.</item>
-        <item quantity="one">Cel dot. stania: %1$s godz.</item>
+        <item quantity="other">Cel: %1$s min</item>
+        <item quantity="one">Cel: %1$s min</item>
     </plurals>
     <plurals name="health_chart_step_count_current_schedule_format_desc">
         <item quantity="other">Przebyto do teraz: %1$s kroków</item>
         <item quantity="few">Przebyto do teraz: %1$s kroki</item>
         <item quantity="one">Przebyto do teraz: %1$s krok</item>
-    </plurals>
-    <plurals name="health_chart_step_count_goal_schedule_format_desc">
-        <item quantity="other">Cel: %1$s kroków</item>
-        <item quantity="few">Cel: %1$s kroki</item>
-        <item quantity="one">Cel: %1$s krok</item>
-    </plurals>
-    <plurals name="weather_temperature_desc">
-        <item quantity="other">Temperatura: %1$s stopni, %2$s</item>
-        <item quantity="few">Temperatura: %1$s stopnie, %2$s</item>
-        <item quantity="one">Temperatura: %1$s stopień, %2$s</item>
-    </plurals>
-    <plurals name="tiny_accessibility_battery_level">
-        <item quantity="other">Poziom baterii: %s procent</item>
-        <item quantity="one">Poziom baterii: %s procent</item>
-        <item quantity="few">Poziom baterii: %s procent</item>
-        <item quantity="many">Poziom baterii: %s procent</item>
-    </plurals>
-    <plurals name="tiny_accessibility_battery_level_charging">
-        <item quantity="other">Ładowanie. Poziom baterii: %d procent.</item>
-        <item quantity="one">Ładowanie. Poziom baterii: %d procent.</item>
-        <item quantity="few">Ładowanie. Poziom baterii: %d procent.</item>
-        <item quantity="many">Ładowanie. Poziom baterii: %d procent.</item>
     </plurals>
     <plurals name="tiny_kg_template_pets_count_limit">
         <item quantity="other">Jednocześnie możesz zastosować maks. %d szablonów \"Zwierząt\". Usuń część z nich, aby dodać nowe.</item>

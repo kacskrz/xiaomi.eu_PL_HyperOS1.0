@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string-array name="settings_search_connect_car">
-       <item>Łączenie aplikacji</item>
-       <item>Interakcja urządzeń Xiaomi/Łączenie aplikacji</item>
-       <item>Funkcje auta</item>
-   </string-array>
-   <string-array name="settings_search_connection_home">
-       <item>Interakcja urządzeń Xiaomi</item>
-       <item>Interakcja urządzeń Xiaomi/Interakcja urządzeń Xiaomi</item>
-       <item>Usługi łączności między urządzeniami, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, inteligentna łączność, łączność, Mi Smart Hub, Interakcja urządzeń Xiaomi, Duo, telefon Xiaomi, laptop Xiaomi, Wiele ekranów, Duet, projekcja, łączenie aplikacji, handoff, Handoff aplikacji, Mirror, Ekosystem Xiaomi, łączenie urządzeń</item>
-   </string-array>
-   <string-array name="settings_search_connection_privacy">
-       <item>Prywatność</item>
-       <item>Interakcja urządzeń Xiaomi/Prywatność</item>
-       <item>Prywatność i Interakcja urządzeń Xiaomi, Prywatność</item>
-   </string-array>
-   <string-array name="settings_search_connection_service">
-       <item>Łączność między urządzeniami Xiaomi</item>
-       <item>Interakcja urządzeń Xiaomi/Łączność między urządzeniami Xiaomi</item>
-       <item>Usługi łączności między urządzeniami Xiaomi, Łączność między urządzeniami Xiaomi</item>
-   </string-array>
-   <string-array name="settings_search_relay_app">
-       <item>Handoff aplikacji</item>
-       <item>Interakcja urządzeń Xiaomi/Aplikacje</item>
-       <item>Przesyłanie aplikacji, handoff, transfer</item>
-   </string-array>
-   <string-array name="settings_search_relay_call">
-       <item>Synchronizacja połączeń</item>
-       <item>Interakcja urządzeń Xiaomi/Synchronizacja połączeń</item>
-       <item>Synchronizacja połączeń, wspólne połączenia, handoff połączeń, połączenia</item>
-   </string-array>
-   <string-array name="settings_search_relay_network">
-       <item>Asystent sieci</item>
-       <item>Interakcja urządzeń Xiaomi/Asystent sieci</item>
-       <item>Asystent sieci, tethering, udostępnianie hotspotu, tethering bezprzewodowy</item>
-   </string-array>
-   <string-array name="settings_search_share_Launcher">
-       <item>Pulpit+</item>
-       <item>Interakcja urządzeń Xiaomi/Pulpit+</item>
-       <item>Pulpit+, Mi Smart Hub, udostępnianie ekranu</item>
-   </string-array>
-   <string-array name="settings_search_share_clipboard">
-       <item>Schowek</item>
-       <item>Interakcja urządzeń Xiaomi/Schowek</item>
-       <item>Schowek</item>
-   </string-array>
-   <string-array name="settings_search_share_notify">
-       <item>Powiadomienia z wielu urządzeń</item>
-       <item>Interakcja urządzeń Xiaomi/Powiadomienia</item>
-       <item>Powiadomienia z wielu urządzeń</item>
-   </string-array>
-   <string-array name="settings_search_relay_network_2">
-       <item>Tethering bezprzewodowy</item>
-       <item>Łączność między urządzeniami/Tethering bezprzewodowy</item>
-       <item>Asystent sieci, tethering, udostępnianie hotspotu, tethering bezprzewodowy</item>
-   </string-array>
-   <string-array name="settings_search_relay_network_global">
-       <item>Synchronizacja sieci</item>
-       <item>Łączność między urządzeniami/Synchronizacja sieci</item>
-       <item>Asystent sieci, tethering, udostępnianie hotspotu, tethering bezprzewodowy</item>
-   </string-array>
+    <string-array name="settings_search_connect_car">
+        <item>Łączenie aplikacji</item>
+        <item>Interakcja urządzeń Xiaomi/Łączenie aplikacji</item>
+        <item>Funkcje auta</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Interakcja urządzeń Xiaomi</item>
+        <item>Interakcja urządzeń Xiaomi/Interakcja urządzeń Xiaomi</item>
+        <item>Usługi łączności między urządzeniami, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, inteligentna łączność, łączność, Mi Smart Hub, Interakcja urządzeń Xiaomi, Duo, telefon Xiaomi, laptop Xiaomi, Wiele ekranów, Duet, projekcja, łączenie aplikacji, handoff, Handoff aplikacji, Mirror, Ekosystem Xiaomi, łączenie urządzeń</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Prywatność</item>
+        <item>Interakcja urządzeń Xiaomi/Prywatność</item>
+        <item>Prywatność i Interakcja urządzeń Xiaomi, Prywatność</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Łączność między urządzeniami Xiaomi</item>
+        <item>Interakcja urządzeń Xiaomi/Łączność między urządzeniami Xiaomi</item>
+        <item>Usługi łączności między urządzeniami Xiaomi, Łączność między urządzeniami Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Handoff aplikacji</item>
+        <item>Interakcja urządzeń Xiaomi/Aplikacje</item>
+        <item>Przesyłanie aplikacji, handoff, transfer</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Synchronizacja połączeń</item>
+        <item>Interakcja urządzeń Xiaomi/Synchronizacja połączeń</item>
+        <item>Synchronizacja połączeń, wspólne połączenia, handoff połączeń, połączenia</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Asystent sieci</item>
+        <item>Interakcja urządzeń Xiaomi/Asystent sieci</item>
+        <item>Asystent sieci, tethering, udostępnianie hotspotu, tethering bezprzewodowy</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_2">
+        <item>Tethering bezprzewodowy</item>
+        <item>Łączność między urządzeniami/Tethering bezprzewodowy</item>
+        <item>Asystent sieci, tethering, udostępnianie hotspotu, tethering bezprzewodowy</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
+        <item>Synchronizacja sieci</item>
+        <item>Łączność między urządzeniami/Synchronizacja sieci</item>
+        <item>Asystent sieci, tethering, udostępnianie hotspotu, tethering bezprzewodowy</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Ekran główny+</item>
+        <item>Interakcja urządzeń Xiaomi/Ekran główny+</item>
+        <item>Ekran główny+, Mi Smart Hub, udostępnianie ekranu</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Schowek</item>
+        <item>Interakcja urządzeń Xiaomi/Schowek</item>
+        <item>Schowek</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Powiadomienia z wielu urządzeń</item>
+        <item>Interakcja urządzeń Xiaomi/Powiadomienia</item>
+        <item>Powiadomienia z wielu urządzeń</item>
+    </string-array>
 </resources>

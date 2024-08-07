@@ -1,5 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="action_settings">Opcje</string>
-  <string name="app_name">Wydajność</string>
+    <string name="action_settings">Opcje</string>
+    <string name="app_name">Wydajność</string>
+    <string name="not_show_again">Wyślij automatycznie następnym razem</string>
+    <string name="submit_dialog_cancel">Anuluj</string>
+    <string name="submit_dialog_confirm">Prześlij</string>
+    <string name="submit_dialog_content">Przesłać logi, aby pomóc Xiaomi zlokalizować i rozwiązać ten problem? Logi mogą zawierać Twoje dane, w tym lokalizację.</string>
+    <string name="submit_dialog_title">Wystąpił błąd</string>
 </resources>
