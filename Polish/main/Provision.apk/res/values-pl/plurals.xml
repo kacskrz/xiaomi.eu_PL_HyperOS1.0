@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="authorization_status_hold_time">
-        <item quantity="other">%d sekund</item>
-        <item quantity="one">%d sekundy</item>
-    </plurals>
     <plurals name="sim_card_esim_num">
         <item quantity="other">Znaleziono %d kart eSIM. Dotknij, aby aktywować.</item>
         <item quantity="one">Znaleziono %d kartę eSIM. Dotknij, aby aktywować.</item>

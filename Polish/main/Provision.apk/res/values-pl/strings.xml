@@ -1,589 +1,37 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="sim_card_detection_mobile_not_available">"Karta SIM nie ma połączenia z siecią"</string>
-  <string name="sim_scard_detecting_check_mobile_not_available">"Twoja karta SIM nie ma połączenia z siecią operatora. Sprawdź ważność pakietu danych i spróbuj ponownie."</string>
-  <string name="start_up_slogan">Łącz wszystko w całość</string>
-  <string name="accessibility_enabled">Ułatwienia dostępu włączone.</string>
-  <string name="agree">Zgadzam się</string>
-  <string name="agree_and_next">Zgadzam się</string>
-  <string name="agree_terms">"Przeczytałem i zgadzam się z Warunkami Usług i Polityką prywatności"</string>
-  <string name="agree_terms_input_method_facemoji">"Przeczytałem i zgadzam się z Polityką prywatności Facemoji."</string>
-  <string name="agree_terms_input_method_kika">"Przeczytałem i zgadzam się z Polityką prywatności Kika."</string>
-  <string name="ai_button_desc">Przycisk SI pozwala Ci wywołać Asystenta Google.</string>
-  <string name="ai_button_double_press">Dwuklik</string>
-  <string name="ai_button_double_press_desc">Ustaw funkcje Mi SI</string>
-  <string name="ai_button_long_press">Kliknij i przytrzymaj</string>
-  <string name="ai_button_long_press_desc">Powiedz komendę i puść przycisk</string>
-  <string name="ai_button_single_press">Klik</string>
-  <string name="ai_button_single_press_desc">Włącz Mi SI</string>
-  <string name="ai_button_title">O przycisku SI</string>
-  <string name="album_introduction">Dzięki tej aplikacji możesz zarządzać, edytować i upiększać zdjęcia oraz filmy.</string>
-  <string name="app_name">Pierwsza konfiguracja</string>
-  <string name="application_package_introduction">Instalator pakietów jest wykorzystywany w celu instalacji aplikacji firm trzecich, włącznie z skanowaniem przeprowadzanym przed instalacją.</string>
-  <string name="application_permissions">Uprawnienia Aplikacji</string>
-  <string name="back">Cofnij</string>
-  <string name="calculator_introduction">Możesz użyć tej aplikacji do dokonywania obliczeń, konwersji jednostek i walut, a także obliczania rat kredytów.</string>
-  <string name="camera_introduction">Możesz użyć Aparatu do wykonywania zdjęć oraz nagrywania filmów.</string>
-  <string name="carrier_introduction">"W celu dostarczania Ci lepiej dopasowanych usług, Twoje urządzenie może czasami wysyłać informacje o wersji systemu, a także dane pozwalające na jego identyfikację (włącznie z IMEI/IMSI/MSISDN/adresem MAC, MEID/ICCID), a także informacje o lokalizacji (włączając dane stacji bazowej) do operatora poprzez Wi-Fi, dane mobilne bądź darmowy SMS. Operator używa tych danych tylko w celu ich analizy oraz poprawy jakości usług."</string>
-  <string name="clock_introduction">Możesz użyć tej aplikacji do sprawdzania czasu, a także używania minutnika, zegarów czasowych, stopera, ustawiania alarmów itd.</string>
-  <string name="close_location_service_setting">Możesz wyłączyć dostęp do lokalizacji w Ustawieniach > Ochrona prywatności > Ochrona lub ograniczyć uprawnienia w Panelu sterowania.</string>
-  <string name="cm_terms_content">"Wybrany operator komórkowy może zbierać dane statystyczne na temat tego urządzenia i jego wykorzystania. Dane te mogą być przesyłane przez Wi-Fi i dane komórkowe do serwerów w sieci. Informacje te nie będą służyć do indentyfikacji danych osobistych ani nie będą przekazywane podmiotom trzecim."</string>
-  <string name="cm_terms_title">Informacje o operatorze</string>
-  <string name="compass_introduction">Możesz użyć tej aplikacji do nawigacji, a także wyświetlania położenia, ciśnienia atmosferycznego oraz wysokości.</string>
-  <string name="congratulation_label">MIUIPolska.pl​</string>
-  <string name="congratulation_label_night">Sprawdź nasz nowy, ciemny motyw!</string>
-  <string name="congratulation_swipe">Przesuń w górę, aby przejść do systemu</string>
-  <string name="congratulation_title">Wszystko gotowe</string>
-  <string name="content_description_complete">Gotowe</string>
-  <string name="content_description_language_picker">Wybór języka</string>
-  <string name="content_description_miui_version">MIUI 14</string>
-  <string name="content_description_start">Rozpocznij</string>
-  <string name="continue_to_enable_accessibility">Przesuń w dół dwoma palcami, aby uruchomić ułatwienia dostępu.</string>
-  <string name="data_traffic_enable_dialog_title">"Jeśli nie jesteś połączony z siecią Wi-Fi, Twoje urządzenie będzie korzystać z danych komórkowych. Operator może pobrać opłatę za zużycie tych danych (w zależności od Twojej taryfy)."</string>
-  <string name="desc_extra_fingerprint"/>
-  <string name="desc_extra_international_fingerprint"/>
-  <string name="desc_fingerprint">Użyj odcisku palca do odblokowania swojego urządzenia, weryfikacji transakcji Mi Pay lub logowania do aplikacji i usług.</string>
-  <string name="desc_international_fingerprint">Użyj odcisku palca do odblokowania swojego urządzenia lub logowania do aplikacji i usług.</string>
-  <string name="diagnose_report">Wysyłaj dane diagnostyczne w celu wykrywania i analizy błędów systemu oraz poprawiania komfortu pracy z nim. Mogą one zawierać informacje osobiste (np. adres IP czy lokalizację).</string>
-  <string name="disageement_abnormal_download">"Jeśli nie nadasz wymaganych uprawnień bądź nie zgodzisz się na udostępnianie i wysyłanie swoich informacji osobistych, nie będziesz mógł korzystać z tej usługi."</string>
-  <string name="disagree">Nie zgadzam się</string>
-  <string name="disagreement_abnormal_running">"Jeśli nie nadasz wymaganych uprawnień bądź nie zgodzisz się na udostępnianie i wysyłanie swoich informacji osobistych, nie będziesz mógł korzystać z tej aplikacji. Możesz zakończyć korzystanie z tej aplikacji bądź ograniczyć dla niej uprawnienia w Ustawieniach w dowolnym momencie."</string>
-  <string name="disagreement_donnot_use_application">"Jeśli nie nadasz wymaganych uprawnień bądź nie zgodzisz się na udostępnianie i wysyłanie swoich informacji osobistych, nie będziesz mógł korzystać z tej aplikacji. Możesz zakończyć korzystanie z niej w dowolnym momencie."</string>
-  <string name="disagreement_donnot_use_product">"Jeśli nie nadasz wymaganych uprawnień bądź nie zgodzisz się na udostępnianie i wysyłanie swoich informacji osobistych, nie będziesz mógł korzystać z tego produktu. Możesz zakończyć korzystanie z niego w dowolnym momencie."</string>
-  <string name="disagreement_donnot_use_service">"Jeśli nie nadasz wymaganych uprawnień bądź nie zgodzisz się na udostępnianie i wysyłanie swoich informacji osobistych, nie będziesz mógł korzystać z tej usługi. Możesz zakończyć korzystanie z niej w dowolnym momencie."</string>
-  <string name="disagreement_exit_app">"Jeśli nie nadasz wymaganych uprawnień bądź nie zgodzisz się na udostępnianie i wysyłanie swoich informacji osobistych, nie będziesz mógł korzystać z tej aplikacji. Możesz wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w dowolnym momencie."</string>
-  <string name="disagreement_function">"Jeśli nie nadasz wymaganych uprawnień bądź nie zgodzisz się na udostępnianie i wysyłanie swoich informacji osobistych, nie będziesz mógł korzystać z tej funkcji. Możesz zakończyć korzystanie z niej w dowolnym momencie."</string>
-  <string name="disagreement_location_service">"Jeśli nie nadasz wymaganych uprawnień bądź nie zgodzisz się na udostępnianie i wysyłanie swoich informacji osobistych, nie będziesz mógł korzystać z tej usługi."</string>
-  <string name="disagreement_terminate_service">"Jeśli nie nadasz wymaganych uprawnień bądź nie zgodzisz się na udostępnianie i wysyłanie swoich informacji osobistych, nie będziesz mógł korzystać z tej aplikacji. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć uprawnienia dla niej w Ustawieniach w dowolnym momencie."</string>
-  <string name="download_introduction">Aplikacja Pobrane jest dostarczana przez Xunlei. Wykorzystuje się ją w celu pobierania treści i zarządzania pobraną zawartością.</string>
-  <string name="enable_accessibility_canceled">Dostępność anulowana.</string>
-  <string name="enable_accessibility_dialog_message">Włączyłeś TalkBack przez przytrzymanie 2-oma palcami na ekranie przez 10 sekund. TalkBack zapewnia wspomaganie głosowe dla osób z upośledzeniem wzroku. Jeśli włączyłeś funkcję przez przypadek naciśnij Anuluj, a potem podwójnie naciśnij na ekran.</string>
-  <string name="enable_accessibility_dialog_negative_btn">Anuluj</string>
-  <string name="enable_accessibility_dialog_positive_btn">OK</string>
-  <string name="fail_to_generate_qr_code">Nie można wygenerować kodu QR. Spróbuj ponownie.</string>
-  <string name="fast_application_introduction">Framework aplikacji błyskawicznych pozwala na tworzenie i dostarczanie Ci usług w ramach aplikacji błyskawicznych.</string>
-  <string name="font_hint_normal">Zmień rozmiar czcionki</string>
-  <string name="font_hint_large">Domyślny rozmiar czcionki</string>
-  <string name="google_service_introduction">Aby móc działać normalnie, sklep Google Play wymaga połączenia z Internetem, a także dostępu do Twojej lokalizacji, możliwości wysyłania SMS-ów i MMS-ów, nagrywania dźwięku, wykonywania połączeń, dostępu do wydarzeń z kalendarza, historii rozmów, sensorów, pamięci, aparatu, informacji o urządzeniu oraz kontach. </string>
-  <string name="ime_privacy_policy">Polityka prywatności wybranej klawiatury</string>
-  <string name="ime_privacy_policy_no_network">"Nie można połączyć się z siecią. Wyświetl Politykę prywatności z %s."</string>
-  <string name="input_method_category">"Wybierz domyślną klawiaturę do wprowadzania tekstu.
-Później będziesz mógł zainstalować inne klawiatury z Google Play."</string>
-  <string name="input_method_setting">Wybierz domyślną klawiaturę</string>
-  <string name="install_preinstall_app">Wczytywanie aplikacji…</string>
-  <string name="item_fingerprint">Odcisk palca</string>
-  <string name="item_lock_screen_password">Tylko hasło, PIN lub wzór</string>
-  <string name="language_picker_other_languages_title">Inne języki</string>
-  <string name="language_settings">Język</string>
-  <string name="locale_picker_other_locale_title">Inne regiony</string>
-  <string name="locale_picker_title">Wybierz swój region</string>
-  <string name="location_introduction">Usługi oparte na lokalizacji odnajdują usługi znajdujące się w pobliżu Ciebie.</string>
-  <string name="lockscreen_introduction">Tapety ekranu blokady dostarczają codziennie nowe tapety na Twój ekran blokady.</string>
-  <string name="mint_keyboard_oobe_checkbox">"Przeczytałem i akceptuję warunki Polityki prywatności Mint Keyboard"</string>
-  <string name="mint_keyboard_oobe_terms">Polityka prywatności Mint Keyboard</string>
-  <string name="miui_privacy_policy_no_network">Brak połączenia z siecią. Przeczytaj Politykę prywatności na %s.</string>
-  <string name="miui_terms_no_network">Brak połączenia z siecią. Przeczytaj Warunki Użytkowania na %s.</string>
-  <string name="multisim_settings_category">Opcje kart SIM</string>
-  <string name="multisim_settings_title">Wykryto 2 karty SIM</string>
-  <string name="navigation_picker_gesture_guide">Gesty</string>
-  <string name="navigation_picker_radio_text_full_screen">Gesty</string>
-  <string name="navigation_picker_radio_text_virtual_key">Przyciski na ekranie</string>
-  <string name="next">Dalej</string>
-  <string name="next_fingerprint">Dalej</string>
-  <string name="note_introduction">Dzięki tej aplikacji możesz tworzyć, edytować i udostępniać notatki.</string>
-  <string name="other_settings">Inne ustawienia</string>
-  <string name="other_settings_ad_dialog_content">"W Xiaomi.eu ta opcja nie ma znaczenia, więc... jak chcesz."</string>
-  <string name="other_settings_ad_disable_summary">Reklamy</string>
-  <string name="other_settings_ad_enable">Reklamy</string>
-  <string name="other_settings_ad_enable_summary">W tym systemie reklamy od Xiaomi są wyłączone. Opcja nie ma zastosowania.</string>
-  <string name="other_settings_auto_update">Automatyczne aktualizacje</string>
-  <string name="other_settings_auto_update_summary">Aktualizacje OTA od Xiaomi.eu</string>
-  <string name="other_settings_enhanced_lockscreen">Tapety ekranu blokady</string>
-  <string name="other_settings_enhanced_lockscreen_for_india">Glance dla Xiaomi</string>
-  <string name="other_settings_enhanced_lockscreen_privacy_index">Polityka prywatności</string>
-  <string name="other_settings_enhanced_lockscreen_summary">Codziennie na ekranie blokady będą się pojawiać nowe tapety online</string>
-  <string name="other_settings_enhanced_lockscreen_summary_index">Zgoda użytkownika końcowego</string>
-  <string name="other_settings_location">Lokalizacja</string>
-  <string name="other_settings_location_summary">Zezwól na dostęp aplikacji oraz stron internetowych do lokalizacji w celu dostarczania usług opierających się na niej</string>
-  <string name="other_settings_mifg_online_content">Dzienne tapety blokady</string>
-  <string name="other_settings_mifg_online_content_summary">Połącz z siecią, aby pobierać regularnie nowe tapety ekranu blokady</string>
-  <string name="other_settings_upload_debug_log_summary">"Dane z diagnostyki systemu mogą zawierać informacje o problemach ze sprzętem, systemem lub aplikacjami. Dane te będą wykorzystywane tylko w celu zdiagnozowania problemów z urządzeniem. "</string>
-  <string name="other_settings_upload_debug_log_title">Wysyłaj dane diagnostyczne</string>
-  <string name="other_settings_user_experience">Opinie użytkowników</string>
-  <string name="other_settings_user_experience_summary">"Pomóż nam w ulepszaniu produktów przez przesyłanie anonimowych danych."</string>
-  <string name="other_settings_user_experience_summary_index">Szczegóły</string>
-  <string name="permission_account">Dostęp do kont na urządzeniu</string>
-  <string name="permission_account_introduction">W celu logowania się za pomocą konta Xiaomi</string>
-  <string name="permission_application_package_introduction">Dostęp do pamięci urządzenia w celu parsowania i skanowania paczek instalacyjnych</string>
-  <string name="permission_call_records">Dostęp do historii połączeń:</string>
-  <string name="permission_call_records_introduction">Dostęp do historii połączeń w celu wyświetlania zablokowanych elementów</string>
-  <string name="permission_call_state_introduction">W celu dostępu do stanu telefonu, nagrywania połączeń oraz przerywania nagrań, gdy nadejdzie połączenie</string>
-  <string name="permission_clock_info_introduction">Zapisywanie danych alarmów</string>
-  <string name="permission_contact">Dostęp do kontaktów</string>
-  <string name="permission_contact_introduction">W celu dostarczania funkcjonalności Listy blokowanych oraz kontaktów alarmowych</string>
-  <string name="permission_different_device_introduction">W celu identyfikacji usług pomiędzy różnymi urządzeniami</string>
-  <string name="permission_different_info_introduction">W celu identyfikacji innych urządzeń</string>
-  <string name="permission_direct_call">Wykonywanie połączeń</string>
-  <string name="permission_direct_call_introduction">W celu dodawania elementów do Listy blokowanych</string>
-  <string name="permission_download_introduction">W celu zapisywania pobieranych plików w pamięci podręcznej, a następnie na urządzeniu</string>
-  <string name="permission_imei_service">Dostęp do IMEI w celu dostarczania usług powiązanych z Twoim urządzeniem</string>
-  <string name="permission_interaction_introduction">W celu zapisywania zdjęć i filmów na urządzeniu</string>
-  <string name="permission_location">Dostęp do lokalizacji:</string>
-  <string name="permission_location_introduction">W celu dostarczania usług opartych na lokalizacji</string>
-  <string name="permission_log_introduction">W celu zapisywania logów</string>
-  <string name="permission_login_introduction">W celu logowania się i zarządzania kontami systemu</string>
-  <string name="permission_message_introduction">W celu wysyłania wiadomości do zablokowanych kontaktów</string>
-  <string name="permission_phone_imei_device">Dostęp do IMEI w celu rozpoznawania urządzeń</string>
-  <string name="permission_phone_network">Dostęp do typu sieci w celu optymalizacji i poprawiania pobieranych elementów</string>
-  <string name="permission_phone_service">Dostęp do numeru telefonu, IMEI oraz IMSI</string>
-  <string name="permission_photo_introduction">W celu zapisywania zdjęć w galerii i publikowania statusów</string>
-  <string name="permission_photo_video">Wykonywanie zdjęć i nagrywanie filmów:</string>
-  <string name="permission_photo_video_introduction">W celu wykonywania zdjęć, nagrywania filmów i używania lampy błyskowej</string>
-  <string name="permission_picture_introduction">W celu zapisywania, edycji i synchronizacji zdjęć i filmów</string>
-  <string name="permission_read_call_records">Edytowanie historii połączeń</string>
-  <string name="permission_read_call_records_introduction">W celu dodawania elementów do historii połączeń i usuwania zablokowanych połączeń</string>
-  <string name="permission_read_note_introduction">W celu dostępu do notatek oraz załączników</string>
-  <string name="permission_read_write_file">Odczyt i zapis zdjęć, filmów, dźwięków i plików na urządzeniu</string>
-  <string name="permission_read_write_file_introduction">W celu dostępu do zdjęć i plików na urządzeniu oraz ich zapisywania</string>
-  <string name="permission_recorder_file_introduction">W celu dostępu do nagrań audio oraz ich zapisu</string>
-  <string name="permission_recording">Nagrywanie połączeń i dźwięku:</string>
-  <string name="permission_recording_introduction">W celu nagrywania dźwięku w trakcie nagrywania filmu</string>
-  <string name="permission_screen_shoot_introduction">W celu dostępu do nagrań ekranu oraz ich zapisu</string>
-  <string name="permission_send_message">Wysyłanie SMS-ów:</string>
-  <string name="permission_user_record_introduction">W celu nagrywania dźwięku</string>
-  <string name="permission_virusscan_introduction">W celu wykonywania skanowania antywirusowego oraz optymalizacji urządzenia</string>
-  <string name="permission_xunlei_introduction">Logowanie się i zarządzanie kontami systemu w celu dostarczania usług Xunlei</string>
-  <string name="poco_agree_terms_other">(Włączając Politykę prywatności i zgodę użytkownika POCO Launcher)</string>
-  <string name="poco_launcher_privacy_policy">Polityka prywatności POCO Launcher</string>
-  <string name="poco_launcher_user_agreement">Umowa użytkownika POCO Launcher</string>
-  <string name="pref_title_data_slot">Preferowana karta SIM (internet)</string>
-  <string name="pref_title_voice_slot">Preferowana karta SIM (rozmowy)</string>
-  <string name="privacy_policy">Polityka prywatności</string>
-  <string name="protect_persoanl_info_statement">Xiaomi chroni Twoje osobiste informacje w zgodzie z odpowiednimi przepisami, regulacjami i politykami prywatności.</string>
-  <string name="provision_inputmethod_policy_description"><Data>Wyświetl &lt;a href=%1$s>Politykę prywatności&lt;/a > wybranej klawiatury.</Data></string>
-  <string name="provision_inputmethod_policy_description1"/>
-  <string name="recorder_introduction">Dzięki tej aplikacji możesz nagrywać dźwięk i synchronizować nagrania z chmurą.</string>
-  <string name="require_authority_statement">Aby pozwolić nam dostarczać podstawowe usługi, musisz nadać następujące uprawnienia w celu gromadzenia przez Xiaomi Twoich osobistych informacji:</string>
-  <string name="require_network_authority_statement">Aby móc działać normalnie, usługa wymaga połączenia z Internetem oraz następujących uprawnień:</string>
-  <string name="screen_recording_introduction">"Dzięki tej aplikacji możesz nagrywać to, co dzieje się na ekranie."</string>
-  <string name="security_introduction">Możesz użyć tej aplikacji do odnajdywania i neutralizacji wirusów, blokowania połączeń i SMS-ów, optymalizacji wydajności pod kątem gier, oszczędzania baterii, a także zarządzania aplikacjami, uprawnieniami, zużyciem danych i innymi rzeczami.</string>
-  <string name="security_mobile_account_introduction">W celu logowania się i zarządzania kontami systemu</string>
-  <string name="service_agreement">"Przeczytałem i zaakceptowałem warunki użytkowania."</string>
-  <string name="service_name_album">Galeria</string>
-  <string name="service_name_application_package">Instalator paczek</string>
-  <string name="service_name_calculator">Kalkulator</string>
-  <string name="service_name_camera">Aparat</string>
-  <string name="service_name_carrier">Usługi operatora</string>
-  <string name="service_name_clock">Zegar</string>
-  <string name="service_name_compass">Kompas</string>
-  <string name="service_name_download">Pobrane</string>
-  <string name="service_name_fast_application">Framework aplikacji błyskawicznych</string>
-  <string name="service_name_google_service">Usługi Google</string>
-  <string name="service_name_location">Usługi lokalizacji</string>
-  <string name="service_name_lockscreen">Tapety Blokady</string>
-  <string name="service_name_note">Notatki</string>
-  <string name="service_name_recorder">Dyktafon</string>
-  <string name="service_name_screen_recording">Nagrywanie ekranu</string>
-  <string name="service_name_security">Panel sterowania</string>
-  <string name="service_name_service_framework">Framework usług Xiaomi</string>
-  <string name="service_policy"><Data>Przeczytaj i zaakceptuj &lt;a href=%1$s>Politykę prywatności&lt;/a> Xiaomi.</Data></string>
-  <string name="service_privacy_index">Polityka prywatności</string>
-  <string name="servicestate_title">Podstawowe usługi</string>
-  <string name="setting_locale">Ustawianie języka...</string>
-  <string name="shut_down">Wyłącz</string>
-  <string name="sim_card_detecting">Sprawdzanie karty SIM…</string>
-  <string name="sim_card_detecting_check">"Nie wiesz jak? Przeczytaj instrukcję dołączoną do telefonu.
-
-Aktywowanie włożonych kart SIM może potrwać kilka sekund."</string>
-  <string name="sim_card_detecting_confirm_turn_on_network">Zezwolić na połączenie za pomocą danych komórkowych? Jeśli tak, to użyta do tego zostanie karta SIM włożona do tego urządzenia.</string>
-  <string name="sim_card_detecting_title">Wykrywanie karty SIM…</string>
-  <string name="sim_card_detection">Włóż karty SIM</string>
-  <string name="sim_card_detection_info">"Nie wiesz jak? Przeczytaj instrukcję dołączoną do telefonu.
-
-Aktywowanie włożonych kart SIM może potrwać kilka sekund."</string>
-  <string name="sim_dectection_next">Dalej</string>
-  <string name="sim_redetection">Sprawdź ponownie</string>
-  <string name="skip_gesture_guide_dialog_title">Gesty</string>
-  <string name="skip_gesture_guide_dialog_message">Upewnij się, że wiesz, jak używać gestów przed wybraniem tej opcji.</string>
-  <string name="skip_gesture_guide_dialog_negative_btn">Anuluj</string>
-  <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
-  <string name="skip_underline">Pomiń</string>
-  <string name="start_up_slogan_night">Sprawdź nasz nowy, ciemny motyw!</string>
-  <string name="summary_not_set">Nieustawione</string>
-  <string name="system_navigation_mode">Nawigacja w systemie</string>
-  <string name="terms_of_use">Warunki Użytkowania</string>
-  <string name="terms_of_use_ble_htmlViewer">Usługi dostawcy lokalizacji, Przeglądarki HTML</string>
-  <string name="terms_of_use_label">"Twoja prywatność jest dla nas bardzo ważna. Zapoznaj się z naszymi Warunkami użytkowania i Polityką prywatności, aby dowiedzieć się, jakie informacje przechowujemy, jak je wykorzystujemy i jakie masz możliwości.
-
-Musisz się zgodzić na nasze Warunki użytkowania i Politykę prywatności, nim będziesz mógł skorzystać z systemu. Podczas aktywacji %s i komponenty konta Xiaomi podłączą się do internetu i uzyskają dostęp do lokalizacji."</string>
-  <string name="terms_of_use_label_gms">"Twoja prywatność jest dla nas bardzo ważna. Zapoznaj się z naszymi Warunkami użytkowania i Polityką prywatności, aby dowiedzieć się, jakie informacje przechowujemy, jak je wykorzystujemy i jakie masz możliwości.
-
-Musisz się zgodzić na nasze Warunki użytkowania i Politykę prywatności, nim będziesz mógł skorzystać z systemu. Podczas aktywacji usługi Xiaomi, funkcja Lokalizacja urządzenia, usługi rejestracji karty SIM, Chmury Xiaomi, komponenty systemu MSA/MAB podłączą się do internetu i uzyskają dostęp do lokalizacji."</string>
-  <string name="terms_of_use_label_package">Instalator paczek</string>
-  <string name="terms_of_use_label_phrase">Częste zwroty</string>
-  <string name="terms_of_use_label_updater">Aktualizacje</string>
-  <string name="terms_of_use_label_mab">MAB</string>
-  <string name="terms_of_use_lable_apps">usługi Xiaomi, funkcja Lokalizacja urządzenia, usługi rejestracji karty SIM, Chmury Xiaomi, komponenty systemu MSA/MAB</string>
-  <string name="terms_of_use_lable_default_input_method_facemoji">"
-
-Musisz zgodzić się z Polityką prywatności Facemoji przed użyciem tej funkcji."</string>
-  <string name="terms_of_use_lable_default_input_method_kika">"
-
-Musisz zgodzić się z Polityką prywatności Kika przed użyciem tej funkcji."</string>
-  <string name="terms_of_use_lable_default_input_method_mint">"
-
-Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mint Keyboard."</string>
-  <string name="terms_of_use_lable_gms">Usługi Google Play</string>
-  <string name="terms_of_use_lable_smart_cards">Karty asystenta</string>
-  <string name="terms_privacy_policy_input_method_facemoji">Polityka prywatności Facemoji</string>
-  <string name="terms_privacy_policy_input_method_kika">Polityka prywatności Kika</string>
-  <string name="title_fingerprint">Ustaw blokadę</string>
-  <string name="two_dimensional_code_scan">Skanuj kod QR</string>
-  <string name="user_agreement">Warunki użytkowania</string>
-  <string name="user_agreement_declare">Przed użyciem systemu musisz przeczytać i zaakceptować Umowę użytkownika oraz Politykę prywatności Xiaomi. W trakcie aktywacji urządzenia Usługa aktywacji kart SIM Xiaomi, Chmura Xiaomi, usługa Kopii zapasowej, Systemowy launcher, Częste zwroty, Usługa tłumaczenia, funkcja Znajdź urządzenie, Bateria i wydajność, Menedżer uprawnień oraz Systemowy Daemon połączą się z siecią.</string>
-  <string name="voice_assist_advice">Mi AI pozwala używać kontrolować telefon za pomocą głosu, ale zużywa więcej energii (+1% na godzinę).</string>
-  <string name="voice_assist_condition">"Możesz używać Mi AI, gdy:
-1. ekran jest włączony,
-2. słuchasz muzyki na wyłączonym ekranie."</string>
-  <string name="voice_assist_desp">Powiedz \"Mi AI\" do telefonu. Możesz w ten sposób kontrolować urządzenie.</string>
-  <string name="voice_assist_title">Wybudź głosem</string>
-  <string name="welcome">Witamy</string>
-  <string name="zone_picker_title">Strefa czasowa</string>
-  <string name="service_policy_download"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności Xunlei&lt;/a > oraz &lt;a href=%1$s>Umowy użytkownika Xunlei Network Services&lt;/a >.</Data></string>
-  <string name="service_name_fast_pairing">Mi Link</string>
-  <string name="fast_pairing_introduction">Funkcja Mi Link pozwala na szybkie łączenie się z urządzeniami Bluetooth.</string>
-  <string name="disagreement_abnormal_running_fast_pairing">"Jeśli nie zgodzisz się na nadanie tych uprawnień, nie będzie można korzystać z tej aplikacji. W każdym momencie możesz ograniczyć jej uprawnienia bądź wyłączyć tą funkcję w Ustawieniach."</string>
-  <string name="backup_introduction">Możesz użyć tej aplikacji w celu wykonania i przywracania kopii zapasowych. </string>
-  <string name="permission_backup">Dostęp do pamięci</string>
-  <string name="permission_backup_introduction">Aby mieć dostęp do kopii i móc je zapisywać na Twoim urządzeniu</string>
-  <string name="service_name_backup">Kopie zapasowe</string>
-  <string name="mobile_network">Korzystanie z danych mobilnych</string>
-  <string name="move_data_dialog_box_le">"Umożliwia to korzystanie z danych mobilnych i GPS na podstawie żądania użytkownika. Synchronizacja kont i innych elementów może wymagać użycia danych mobilnych w zależności od specyfikacji urządzenia."</string>
-  <string name="move_data_dialog_box_title">Jeśli nie posiadasz planu z nielimitowaną ilością danych mobilnych, korzystanie z nich może generować opłaty od operatora zgodnie z Twoim planem. Użyć danych mobilnych mimo to?</string>
-  <string name="move_data_dialog_cancel">Anuluj</string>
-  <string name="move_data_dialog_title">Później możesz ograniczyć korzystanie z danych mobilnych w Ustawieniach</string>
-  <string name="move_data_dialog_use">Użyj</string>
-  <string name="location_content">Zgodnie z prawem, operatorzy komórkowi mogą uzyskać informacje o lokalizacji urządzeń mobilnych, aby spełnić wymagania służb ratowniczych (straży pożarnej i policji), które realizują cele związane z bezpieczeństwem i ratownictwem.</string>
-  <string name="location_location">Pogotowie ratunkowe może uzyskiwać Twoją aktualną lokalizację na żądanie</string>
-  <string name="location_miui">Aby móc używać systemu, musisz zgodzić się na warunki powyższych umów</string>
-  <string name="position_header">Udostępnianie informacji dot. lokalizacji</string>
-  <string name="position_subheading">Informacje dot. lokalizacji</string>
-  <string name="home_settings_miui_home">Klasyczny</string>
-  <string name="home_settings_poco_launcher">Z szufladą aplikacji</string>
-  <string name="home_settings_title">Wybierz układ pulpitu</string>
-  <string name="wc_dialog_agree">Zgadzam się</string>
-  <string name="wc_dialog_reject">"Nie zgadzam się"</string>
-  <string name="wc_dialog_summary">Tapety Blokady codziennie dostarczają nowe i ciekawe obrazy na Twój ekran blokady.</string>
-  <string name="wc_dialog_title">Odmieniony ekran blokady</string>
-  <string name="wc_double_check_agree">Wypróbuj</string>
-  <string name="wc_double_check_reject">Nie, dzięki</string>
-  <string name="wc_double_check_summary">Możesz włączyć Tapety Blokady, aby sprawdzić, czy ta funkcja działa poprawnie i czy będziesz z niej zadowolony, Możesz wyłączyć tę opcję w Ustawieniach > Ekran blokady.</string>
-  <string name="wc_double_check_title">Wypróbuj Tapety Blokady</string>
-  <string name="wc_notice_link_agreement_index">Umowa użytkownika</string>
-  <string name="wc_notice_link_privacy_index">Polityka prywatności</string>
-  <string name="wc_notice_link_summary">"Przeczytaj i zaakceptuj warunki dostawcy treści trzecich zawarte w dokumentach %1$s i %2$s przed użyciem tej funkcji."</string>
-  <string name="wc_notice_link_announcement_summary">"Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki dostawcy treści trzecich zawarte w &lt;a href=\"%1$s\">Polityce prywatności&lt;/a> oraz &lt;a href=\"%2$s\">Umowie użytkownika&lt;/a>."</string>
-  <string name="other_settings_ad_dialog_agree">Włącz</string>
-  <string name="other_settings_ad_dialog_disagree">Wyłącz</string>
-  <string name="boot_video_replay">Odtwórz ponownie</string>
-  <string name="boot_video_skip">Pomiń</string>
-  <string name="service_security_over_r"><Data>Przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności&lt;/a ></Data></string>
-  <string name="item_lock_screen_password_only">Blokada ekranu</string>
-  <string name="msim_setting_default_data">Karta SIM do danych</string>
-  <string name="msim_setting_default_voice">Domyślna karta SIM do połączeń</string>
-  <string name="provision_back">Wstecz</string>
-  <string name="provision_next">Dalej</string>
-  <string name="provision_skip_underline">Pomiń</string>
-  <string name="privacy_provision_more">Dowiedz się więcej o ochronie prywatności</string>
-  <string name="privacy_provision_summary">Ochrona prywatności przyświeca każdemu produktowi Xiaomi</string>
-  <string name="privacy_provision_text">Xiaomi zobowiązuje się szanować i chronić Twoją prywatność. Stawiając na badania i rozwój w dziedzinie bezpieczeństwa informacji, firma nieustannie pracuje nad ulepszaniem metod, praktyk i rozwiązań technicznych, które chronią Twoje dane. Dzieli się również swoimi najnowszymi osiągnięciami z jej partnerami, aby zapewnić prywatność wszędzie tam, gdzie się znajdujesz.</string>
-  <string name="privacy_provision_title">Prywatność</string>
-  <string name="permission_MIUIDaemon_introduction">Systemowy daemon umożliwia przesłanie danych z urządzenia wtedy, gdy jego ekran jest uszkodzony.</string>
-  <string name="permission_read_contacts">Dostęp do kontaktów</string>
-  <string name="permission_read_contacts_introduction">W celu weryfikacji tożsamości</string>
-  <string name="permission_read_message">Dostęp do SMS-ów</string>
-  <string name="permission_read_message_introduction">W celu weryfikacji własności urządzenia</string>
-  <string name="service_name_MIUIDaemon">Systemowy daemon</string>
-  <string name="item_contents_wwarning">"Jeśli zgubisz urządzenie, nie zapobiegniesz używaniu go przez inne osoby i uzyskiwaniu dostępu do Twoich danych, dopóki nie ustawisz blokady ekranu. Pominąć mimo to?"</string>
-  <string name="item_return">Ustaw</string>
-  <string name="item_skip">Pomiń</string>
-  <string name="title_set_fingerprint">Blokada ekranu</string>
-  <string name="close">Zamknij</string>
-  <string name="send">Wyślij</string>
-  <string name="other_settings_upload_debug_log_detail">"Pomóż poprawić wrażenia z korzystania z systemu poprzez automatyczne wysyłanie do Xiaomi informacji diagnostycznych oraz danych dot. urządzenia i korzystania z aplikacji. Pomoże to poprawić żywotność baterii, stabilność systemu i aplikacji itp.
-Wysłane dane będą zawierać ogólne informacje o urządzeniu i korzystaniu z niego (np. poziom naładowania baterii, aktywność systemu i aplikacji, błędy). Dane zostaną wykorzystane do poprawiania urządzeń Xiaomi.
-Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania informacji niezbędnych do działania podstawowych usług.
-Aby kontrolować tę funkcję, wyszukaj \"Użytkowanie i diagnostyka\" w Ustawieniach."</string>
-  <string name="disagreement_terminate_miuidaemon">"Xiaomi będzie używać uprawnień wyłącznie wtedy, gdy rozpoczniesz przesyłanie danych z urządzenia w momencie, gdy jego ekran jest uszkodzony. Jeśli nie wyrazisz zgody na przyznanie tych uprawnień, nie będzie można używać tej aplikacji."</string>
-  <string name="require_miuidaemon_authority_statement">Aby pozwolić Xiaomi na dostarczanie tej usługi i gromadzenie Twoich danych, musisz nadać jej następujące uprawnienia:</string>
-  <string name="terms_of_use_lable_apps_wifi_device">Usługi Xiaomi, Chmura Xiaomi, funkcja Znajdź urządzenie, Systemowy launcher, Systemowy Daemon, SDK, Asystent HyperOS, statystyki, Mi Link</string>
-  <string name="user_agreement_declare_wifi_device">Przed skorzystaniem z systemu musisz przeczytać i zaakceptować warunki Umowy użytkownika i Polityki prywatności Xiaomi. Gdy urządzenie jest aktywowane, usługi takie jak Chmura Xiaomi, usługa Kopii zapasowej, funkcja Znajdź urządzenie, Systemowy launcher, Częste zwroty, Systemowy Daemon, przeglądarka HTML, SDK, Bateria i wydajność i Aktualizacje połączą się z siecią.</string>
-  <string name="carrier_introduction_china">"W celu dostarczania Ci lepszych usług procesy uruchomione na tym urządzeniu (takie jak SystemHelper, RegService i Usługi operatora) mogą okresowo przesyłać informacje związane z Twoim urządzeniem i kartą SIM (takie jak nr IMEI, IMSI, MSISDN, MEID, ICCID, adres MAC, wersja systemu, wersja Androida, model urządzenia i podstawowa specyfikacja sprzętu), a także informacje o przybliżonej lokalizacji (włącznie z regionem, koordynatami, identyfikatorem obszaru oraz stacji bazowej) do operatora poprzez sieć Wi-Fi, dane mobilne bądź darmowe SMS-y. Operator będzie analizować te informacje tylko w celu poprawy jakości usług lub dostarczania dostosowanych usług lub technologii i nie będzie przekazywać tych danych firmom trzecim w jakiejkolwiek formie pozwalającej na zidentyfikowanie Cię. Szczegóły znajdziesz w oświadczeniu swojego operatora. Skontaktuj się z operatorem, aby dowiedzieć się więcej dot. kosztów używania tej usługi."</string>
-  <string name="user_agreement_declare_gmscore">Zanim skorzystasz z systemu, przeczytaj i zaakceptuj warunki Umowy użytkownika i Polityki prywatności Xiaomi. W trakcie aktywacji urządzenia usługa aktywacji karty SIM, Chmura Xiaomi, Usługa kopii zapasowej, funkcja Znajdź urządzenie, Pulpit, Częste zwroty, Systemowy Daemon, Przeglądarka HTML, SDK, aplikacja Secure Element, Bateria i wydajność, Detektor zasilania oraz aplikacja Aktualizacje będą łączyć się z siecią. Menedżer uprawnień oraz inteligentne usługi połączą się z siecią i uzyskają dostęp do Twojej lokalizacji.</string>
-  <string name="user_agreement_declare_wifi_device_gmscore">Zanim skorzystasz z systemu, przeczytaj i zaakceptuj warunki Umowy użytkownika i Polityki prywatności Xiaomi. W trakcie aktywacji urządzenia Chmura Xiaomi, Usługa kopii zapasowej, funkcja Znajdź urządzenie, Pulpit, Częste zwroty, Systemowy Daemon, Przeglądarka HTML, SDK, aplikacja Secure Element, Bateria i wydajność, Detektor zasilania oraz aplikacja Aktualizacje będą łączyć się z siecią. Menedżer uprawnień oraz inteligentne usługi połączą się z siecią i uzyskają dostęp do Twojej lokalizacji.</string>
-  <string name="access_non_personal_data">Jeśli wycofasz zgodę na dostęp i używanie nieosobistych danych na tym urządzeniu, usługi Tapet Blokady zostaną zdezaktywowane, a wszystkie zgromadzone dane zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami.</string>
-  <string name="agree_cookie">Akceptuj pliki cookie</string>
-  <string name="agreement_declare_use_network_and_location_china">"Dodatkowo następujące usługi połączą się z siecią i uzyskają Twoją lokalizację: "</string>
-  <string name="agreement_declare_use_network_china">połączą się z siecią.</string>
-  <string name="cookies_content_one">"Kiedy dotkniesz obrazków i wspomnień zgromadzonych w Tapetach Blokady, ich pełne wersje zostaną otwarte w Twojej przeglądarce. Firma trzecia, która dostarcza treści, czyli Taboola, może wtedy polecać dodatkowe treści i reklamy dopasowane do Twoich zainteresowań. Jeśli wyrazisz zgodę na aktywację tej funkcji, Taboola umieści pliki cookie na Twoim urządzeniu za pośrednictwem przeglądarki zgodnie z &lt;a href =%1$s>Polityką plików cookie&lt;/a>. Jeśli jednak tej zgody nie udzielisz, Tapety Blokady nadal będą pojawiać się na Twoim ekranie blokady, zaś pełne wspomnienia wciąż będą otwierane w Twojej przeglądarce, lecz dodatkowe rekomendacje nie będą już dopasowane w oparciu o Twoje zainteresowania. Możesz zmienić te preferencje w Ustawieniach w dowolnym momencie."</string>
-  <string name="cookies_content_two">"Zdecyduj, czy chcesz, aby firma trzecia dostarczająca treści mogła używać plików cookies w celu personalizacji rekomendowanych treści i reklam w oparciu o Twoje zainteresowania."</string>
-  <string name="cookies_title">Spersonalizowana treść i pliki cookie</string>
-  <string name="privacy_content_one">"Rekomendacje Tapet Blokady dostarcza firma trzecia, Taboola. Aby to robić, musi ona uzyskać dostęp i przechowywać nieosobiste dane, włącznie z językiem systemu i typem przeglądarki. Możesz dowiedzieć się, jak korzysta ona ze zgromadzonych danych, z odpowiednich dokumentów: &lt;a href =%1$s>Polityki prywatności&lt;/a> oraz &lt;a href =%2$s>Umowy użytkownika&lt;/a>. Zapoznaj się z tymi dokumentami, zanim przejdziesz dalej. Jeśli nie wyrażasz zgody na te warunki, usługi Tapet Blokady zostaną zdezaktywowane."</string>
-  <string name="privacy_refuse">"Nie zgadzam się"</string>
-  <string name="privacy_title">Warunki użytkowania i Polityka prywatności</string>
-  <string name="refuse_cookie">Odrzuć pliki cookie</string>
-  <string name="term_condition_detail">"Codziennie otrzymuj fascynujące obrazy i historie na swoim ekranie blokady. Ta funkcja nie będzie używać Twoich danych bez Twojej zgody. Przeczytaj i zaakceptuj warunki &lt;a href =%1$s>Polityki prywatności&lt;/a> oraz &lt;a href =%2$s>Umowy użytkownika&lt;/a> firmy trzeciej, zanim zaczniesz korzystać z tej funkcji."</string>
-  <string name="terms_of_use_label_RMS">Menedżer uprawnień</string>
-  <string name="terms_of_use_label_app_vault">Asystent HyperOS</string>
-  <string name="terms_of_use_label_back">Usługa Kopii zapasowej</string>
-  <string name="terms_of_use_label_cloud">Chmura Xiaomi</string>
-  <string name="terms_of_use_label_finddevice">Funkcja Znajdź urządzenie</string>
-  <string name="terms_of_use_label_home">Pulpit</string>
-  <string name="terms_of_use_label_htmlviewer">Przeglądarka HTML</string>
-  <string name="terms_of_use_label_landscape">funkcja optymalizacji widoku poziomego</string>
-  <string name="terms_of_use_label_mi_account">komponenty konta Xiaomi</string>
-  <string name="terms_of_use_label_parallel_windows">Podzielone okna</string>
-  <string name="terms_of_use_label_power_detection">Detektor baterii</string>
-  <string name="terms_of_use_label_power_performance">Bateria i wydajność</string>
-  <string name="terms_of_use_label_secure">Secure Element</string>
-  <string name="terms_of_use_label_simcard">usługi aktywacji karty SIM Xiaomi</string>
-  <string name="terms_of_use_label_statistics">Statystyki</string>
-  <string name="terms_of_use_label_translation">Usługa tłumaczenia</string>
-  <string name="terms_of_use_label_use_location_and_network_global">"Przed skorzystaniem z systemu przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią i uzyskają Twoją lokalizację:"</string>
-  <string name="terms_of_use_label_use_network_china">"Przed skorzystaniem z systemu przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią:"</string>
-  <string name="terms_of_use_label_wallpaper">Tapety</string>
-  <string name="terms_of_use_lable_xmsf">framework usługi Xiaomi</string>
-  <string name="withdraw_consent">Jeśli wycofasz zgodę, usługi Tapet Blokady zostaną zdezaktywowane.</string>
-    <string name="address_dialing_introduction">Możesz używać tej aplikacji do wykonywania połączeń, wyświetlania ich historii i zarządzania kontaktami.</string>
-    <string name="camera_application_introduction">Możesz używać tej aplikacji do wykonywania zdjęć i filmów.</string>
-    <string name="disagreement_application_not_working_properly">"Jeśli nie wyrazisz zgody na udzielenie tych uprawnień, nie będzie można używać tej aplikacji."</string>
-    <string name="disagreement_fast_pairing_abnormal">"Jeśli nie wyrazisz zgody na udzielenie tych uprawnień, nie będzie można używać tej aplikacji. Możesz włączyć i wyłączyć tę usługę w dowolnym momencie w Ustawieniach > Bluetooth > Dodatkowe ustawienia > Mi Link."</string>
-    <string name="disagreement_location_service_abnormal">"Jeśli nie wyrazisz zgody na przyznanie tych uprawnień, nie będzie można używać usług lokalizacji. Możesz je włączyć i wyłączyć w dowolnym momencie w Ustawieniach > Ochrona prywatności."</string>
-    <string name="disagreement_mi_account_abnormal">"Jeśli nie wyrazisz zgody na przyznanie tych uprawnień, nie będzie można używać usług Konta Xiaomi. Możesz je włączyć i wyłączyć w dowolnym momencie w Ustawieniach > Xiaomi."</string>
-    <string name="disagreement_service_not_working_properly">"Jeśli nie wyrazisz zgody na udzielenie tych uprawnień, nie będzie można używać tej aplikacji."</string>
-    <string name="ims_introduction">Usługa IMS dostarcza podstawowe możliwości dot. komunikacji i jest używana do prowadzenia wysokiej jakości rozmów audio i wideo.</string>
-    <string name="message_introduction">Możesz używać tej aplikacji do wysyłania i otrzymywania SMS-ów.</string>
-    <string name="mi_account_introduction">Konto Xiaomi pozwala Ci na rejestrację, logowanie się i zarządzanie kontami systemowymi.</string>
-    <string name="permission_access_calendar">Dostęp do kalendarza</string>
-    <string name="permission_access_calendar_fast_application_summary">W celu zezwolenia aplikacjom błyskawicznym na dostęp do kalendarza;</string>
-    <string name="permission_contact_describe">Dostęp do kontaktów</string>
-    <string name="permission_contact_describe_MIUIDaemon_summary">W celu weryfikacji Twojej tożsamości.</string>
-    <string name="permission_contact_describe_desktop_summary">W celu skorzystania z funkcji kontaktu alarmowego na pulpicie w trybie Lite i wyświetlania powiadomień dot. konwersacji;</string>
-    <string name="permission_contact_describe_message_summary">W celu wyświetlania informacji dot. SMS-ów i MMS-ów dla konkretnego kontaktu.</string>
-    <string name="permission_device">Dostęp do informacji o urządzeniu</string>
-    <string name="permission_device_desktop_summary">W celu uzyskiwania informacji o urządzeniu (np. nazwa operatora);</string>
-    <string name="permission_device_fast_pairing_summary">W celu uzyskiwania statusu urządzenia i informowania o tym urządzeń wearable;</string>
-    <string name="permission_device_message_summary">W celu wysyłania i otrzymywania SMS-ów i MMS-ów;</string>
-    <string name="permission_device_mi_account_summary">W celu zapewnienia bezpieczeństwa środowiska logowania.</string>
-    <string name="permission_fast_pairing">Aby móc znajdować urządzenia w pobliżu, Mi Link musi połączyć się z Internetem i wymaga następujących uprawnień:</string>
-    <string name="permission_location_describe">Dostęp do lokalizacji</string>
-    <string name="permission_location_describe_desktop_summary">W celu uzyskiwania nazw sieci Wi-Fi;</string>
-    <string name="permission_location_describe_fast_application_summary">W celu uzyskiwania dostępu do Twojej lokalizacji przez aplikacje błyskawiczne;</string>
-    <string name="permission_location_describe_fast_pairing_summary">W celu wyświetlania dostępnych urządzeń Bluetooth zużywających mało energii;</string>
-    <string name="permission_location_describe_location_summary">W celu uzyskiwania Twojej dokładnej lokalizacji po to, żeby dostarczać usługi na niej oparte.</string>
-    <string name="permission_make_a_call">Wykonywanie połączeń</string>
-    <string name="permission_make_a_call_fast_application_summary">W celu zezwolenia aplikacjom błyskawicznym na wykonywanie połączeń;</string>
-    <string name="permission_read_app_list">Dostęp do listy zainstalowanych aplikacji</string>
-    <string name="permission_read_application_list_summary">W celu zarządzania zainstalowanymi aplikacjami i plikami APK</string>
-    <string name="permission_read_device_store">Dostęp do pamięci urządzenia</string>
-    <string name="permission_read_device_store_summary">W celu uzyskiwania dostępu do pobranych plików źródłowych oraz plików konfiguracji;</string>
-    <string name="permission_read_send_message">Wysyłanie i odbieranie SMS-ów</string>
-    <string name="permission_read_send_message_fast_application_summary">W celu zezwolenia aplikacjom błyskawicznym na wysyłanie i odbieranie SMS-ów;</string>
-    <string name="permission_read_send_message_sim_activation_summary">W celu wysyłania i odbierania SMS-ów aktywacyjnych;</string>
-    <string name="permission_read_send_message_summary">W celu otrzymywania, wyświetlania i wysyłania SMS-ów;</string>
-    <string name="permission_read_send_multimedia_message">Wysyłanie i odbieranie MMS-ów</string>
-    <string name="permission_read_send_multimedia_message_summary">W celu otrzymywania, wyświetlania i wysyłania MMS-ów;</string>
-    <string name="permission_read_write_call_log">Dostęp do historii połączeń i jej edycja</string>
-    <string name="permission_read_write_call_log_summary">W celu wyświetlania i edycji historii połączeń.</string>
-    <string name="permission_read_write_contacts">Dostęp do kontaktów i ich edycja</string>
-    <string name="permission_read_write_contacts_fast_application_summary">W celu zezwolenia aplikacjom błyskawicznym na dostęp do kontaktów i ich edycję;</string>
-    <string name="permission_read_write_contacts_summary">W celu wyświetlania i zarządzania kontaktami;</string>
-    <string name="permission_read_write_device_store">Dostęp i zapis elementów na urządzeniu</string>
-    <string name="permission_read_write_device_store_album_summary">W celu przechowywania, wyświetlania, edycji, synchronizacji i pobierania Twoich zdjęć i filmów.</string>
-    <string name="permission_read_write_device_store_application_package_summary">W celu parsowania i skanowania plików APK.</string>
-    <string name="permission_read_write_device_store_camera_summary">W celu zapisywania plików na urządzeniu po wykonaniu zdjęć lub filmów.</string>
-    <string name="permission_read_write_device_store_download_summary">W celu buforowania, uzyskiwania dostępu i zarządzania pobraną treścią.</string>
-    <string name="permission_read_write_device_store_fast_application_summary">W celu zezwolenia aplikacjom błyskawicznym na uzyskiwanie dostępu, buforowanie i edycję plików;</string>
-    <string name="permission_read_write_phone_store">W celu uzyskiwania dostępu i zapisywania elementów w pamięci urządzenia;</string>
-    <string name="permission_read_write_phone_store_summary">W celu uzyskiwania dostępu i zapisywania elementów pulpitu;</string>
-    <string name="permission_use_camera">Dostęp do aparatu</string>
-    <string name="permission_use_camera_camera_summary">W celu wykonywania zdjęć, nagrywania filmów i używania latarki;</string>
-    <string name="permission_use_camera_desktop_summary">W celu ustalenia, czy wspierana jest funkcja latarki;</string>
-    <string name="permission_use_camera_fast_application_summary">W celu zezwolenia aplikacjom błyskawicznym na dostęp do aparatu;</string>
-    <string name="permission_use_camera_ims_summary">W celu wykonywania połączeń wideo.</string>
-    <string name="permission_use_microphone">Dostęp do mikrofonu</string>
-    <string name="permission_use_microphone_camera_summary">W celu nagrywania dźwięku w trakcie nagrywania filmu;</string>
-    <string name="permission_use_microphone_desktop_summary">W celu pokazywania stanu nagrywania.</string>
-    <string name="permission_use_microphone_fast_application_summary">W celu zezwolenia aplikacjom błyskawicznym na dostęp do mikrofonu;</string>
-    <string name="permission_write_device_store">Zapis elementów w pamięci urządzenia</string>
-    <string name="permission_write_device_store_summary">W celu buforowania pobranych plików konfiguracji.</string>
-    <string name="require_authority_list_statement">Aby móc działać normalnie, usługa wymaga następujących uprawnień:</string>
-    <string name="require_network_and_authority_statement">Aby móc działać normalnie, usługa wymaga połączenia z Internetem oraz następujących uprawnień:</string>
-    <string name="require_network_authority_statement_dual">Aby móc działać normalnie, usługa wymaga połączenia z Internetem oraz następujących uprawnień:</string>
-    <string name="service_company_adjust_content">Umowa użytkownika Xunlei Network Services</string>
-    <string name="service_fast_pairing_policy"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności Mi Link&lt;/a >.</Data></string>
-    <string name="service_location_share_policy"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Stanowiska dot. prywatności Usług lokalizacji&lt;/a >.</Data></string>
-    <string name="service_mi_account">Konto Xiaomi</string>
-    <string name="service_name_address_dialing">Kontakty i Telefon</string>
-    <string name="service_name_ims">Usługa IMS</string>
-    <string name="service_name_message">Aplikacja SMS</string>
-    <string name="service_name_systemdesktop">Wtyczka usługi pulpitu</string>
-    <string name="service_policy_adjust_content">Polityka prywatności Xunlei</string>
-    <string name="service_sim_activation">Aktywacja karty SIM</string>
-    <string name="sim_activation_introduction">Usługa aktywacji kart SIM weryfikuje informacje o włożonej karcie SIM, aby upewnić się, że usługi systemowe mogą działać normalnie. Zaliczane są do nich m.in. usługa Znajdź urządzenie, Wiadomości Mi, tworzenie kont Xiaomi za pomocą numerów telefonów, a także synchronizacja wiadomości i historii połączeń.</string>
-    <string name="systemdesktop_introduction">Wtyczka usługi pulpitu dostarcza podstawowe funkcje, takie jak pulpit, interfejs systemu czy zrzuty ekranu.</string>
-    <string name="miuix_access_state_desc">Wybrano</string>
-    <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
-    <string name="miuix_indexer_collect">Kolekcje</string>
-    <string name="miuix_indexer_selected">Wybrano %s</string>
-    <string name="sim_card_dial_card1">SIM1 do połączeń</string>
-    <string name="sim_card_dial_card2">SIM2 do połączeń</string>
-    <string name="sim_card_do_not_select_dial_card">Wybierz kartę SIM do dzwonienia</string>
-    <string name="sim_card_network_card1">Dane kom. SIM1</string>
-    <string name="sim_card_network_card2">Dane kom. SIM2</string>
-    <string name="bluetooth_introduction">Bluetooth jest używane przez system w celu bezprzewodowej komunikacji między urządzeniami. Aby móc działać normalnie, Bluetooth wymaga następujących uprawnień:</string>
-    <string name="disagreement_terminate_bluetooth">"Jeśli nie nadasz tych uprawnień, nie będzie można korzystać z Bluetooth. Możesz włączać i wyłączać Bluetooth, a także dodawać urządzenia Bluetooth w Ustawieniach."</string>
-    <string name="permission_call_records_describe_bluetooth_summary">W celu zezwalania innym kompatybilnym urządzeniom łączonym przez Ciebie z tym urządzeniem na dostęp do historii połączeń. Wydarzy się to tylko wtedy, gdy zachodzi konieczność korzystania z historii połączeń przez inne urządzenie. Historia połączeń i kontakty udostępniane przez system poprzez Bluetooth będą przetwarzane wyłącznie lokalnie na urządzeniach i udostępniane im za Twoim pozwoleniem.</string>
-    <string name="permission_contact_describe_bluetooth_summary">W celu zezwalania innym kompatybilnym urządzeniom łączonym przez Ciebie z tym urządzeniem na dostęp do kontaktów. Wydarzy się to tylko wtedy, gdy włączysz Bluetooth lub będziesz edytować swoje kontakty wtedy, gdy jest ono włączone.</string>
-    <string name="other_settings_ad_dialog_content_for_global">"Personalizowane reklamy (jak i reklamy w ogóle) nie są wyświetlane w tym ROM-ie. Funkcja nie ma zastosowania."</string>
-    <string name="start_up_slogan_thirteen_china">Łącz wszystko w całość</string>
-    <string name="sim_card_dial_card">Karta SIM %d do połączeń</string>
-    <string name="sim_card_network_card">Karta SIM %d do danych</string>
+    <string name="access_calendar">Dostęp do kalendarza</string>
+    <string name="access_non_personal_data">Jeśli wycofasz zgodę na dostęp i używanie nieosobistych danych na tym urządzeniu, usługi Tapet Blokady zostaną zdezaktywowane, a wszystkie zgromadzone dane zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami.</string>
+    <string name="after_sales_support">Wsparcie posprzedażowe</string>
+    <string name="after_sales_support_introduction">Ta usługa pozwala Ci uzyskać wsparcie i pomoc związaną z zakupionymi urządzeniami.</string>
+    <string name="agree_terms">Przeczytałem i wyrażam zgodę na warunki Umowy użytkownika i Polityki prywatności.</string>
+    <string name="agreement_declare_use_network_china">połączą się z siecią.</string>
+    <string name="ai_button_desc">Przycisk SI pozwala Ci wywołać Asystenta Google.</string>
+    <string name="ai_button_long_press_desc">Powiedz komendę i puść przycisk</string>
+    <string name="app_battery_usage">"W celu sprawdzenia zużycia baterii przez poszczególne aplikacje"</string>
+    <string name="app_name">Pierwsza konfiguracja</string>
+    <string name="application_extension_service">Usługi rozszerzające aplikację</string>
+    <string name="application_extension_service_introduction">Usługi rozszerzające aplikację dostarczają funkcje logowania i weryfikacji. Aby to robić, aplikacja potrzebuje następujących uprawnień:</string>
+    <string name="aquire_device_info">Dostęp do informacji o urządzeniu</string>
+    <string name="authority_introduction">Menedżer uprawnień to podstawowa usługa, umożliwiająca zarządzanie uprawnieniami aplikacji na tym urządzeniu.</string>
     <string name="bluetooth_usage_desc">Pierwsza konfiguracja pozwala na ustawienie podstawowej konfiguracji tego urządzenia. Aby ukończyć ją pomyślnie, systemowe usługi Bluetooth będą używać następujących uprawnień:</string>
-    <string name="enable_or_disable_bluetooth">Włączanie i wyłączanie Bluetooth</string>
-    <string name="miui_provision">Pierwsza konfiguracja</string>
-    <string name="permission_enable_disable_bluetooth_summary">W celu odnajdywania urządzeń w pobliżu po to, aby połączyć się z nimi i przesyłać dane</string>
-    <string name="other_settings_quality_service">Uprawnienia systemowego daemona</string>
-    <string name="other_settings_quality_service_summary">Systemowy daemon jest wykorzystywany do poprawy stabilności i wydajności systemu. Aby móc działać normalnie, usługa wymaga uprawnień dostępu do pamięci urządzenia oraz zapisu elementów w niej.</string>
-    <string name="user_agreement_declare_v1">Przed skorzystaniem z systemu musisz przeczytać i zaakceptować warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. Xiaomi będzie chronić Twoje dane osobowe zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. W trakcie aktywacji następujące aplikacje i usługi połączą się z siecią: usługa aktywacji karty SIM Xiaomi, Chmura Xiaomi, Kopia w Chmurze, Znajdź urządzenie, Pulpit, Częste zwroty, Systemowy Daemon, Przeglądarka HTML, SDK, Secure Element, Bateria i wydajność, Detektor mocy, Joyose, Aktualizacje. Następujące aplikacje i usługi połączą się z siecią i uzyskają dostęp do Twojej lokalizacji: Menedżer uprawnień, inteligentne karty i usługi.</string>
-    <string name="item_facerecognition">Odblokowanie twarzą</string>
-    <string name="activate_esim_tips">"Nie udało się aktywować. Spróbuj ponownie."</string>
-    <string name="preinstall_tips">Przygotowywanie…</string>
-    <string name="activating_esim_tips">Aktywacja…</string>
-    <string name="other_settings_auto_update_summary_v1">Pozwól systemowi wybrać najlepszy moment na pobranie i instalację aktualizacji. Aby zastosować zmiany, urządzenie zostanie automatycznie uruchomione ponownie.</string>
-    <string name="is_prepare_install_go">Przygotowywanie…</string>
-    <string name="location_introduction_qcom">Usługi lokalizacji wykorzystują pozycjonowanie do dostarczania usług specyficznych dla danej lokalizacji. Gdy są one wykorzystywane przez Twoje urządzenie, moduł QCC połączy się z siecią, aby przyspieszyć proces pozycjonowania.</string>
-    <string name="create_shortcut">Skrót na pulpicie</string>
-    <string name="sim_card_detection_info_sb">"Zanim przejdziesz dalej, włóż kartę SIM. Jeśli utworzysz konto bez karty SIM, funkcje Znajdź urządzenie oraz funkcjonalność związana z synchronizacją nie będą w pełni dostępne. To urządzenie obsługuje standard eSIM. "</string>
-    <string name="sim_card_detection_info_sb_esim">Dotknij, aby aktywować eSIM.</string>
-    <string name="sim_card_detection_sb_esim">Aktywuj eSIM</string>
-    <string name="sim_card_detection_sb_nonactivated">Nie aktywowano</string>
-    <string name="multisim_settings_sb_title">Wykryto %d kartę SIM</string>
-    <string name="check_box_label"><Data>""Włączając tę funkcję, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności&lt;/a >."</Data></string>
-    <string name="interconnection_service_summary">"Usługi łączności Xiaomi umożliwiają bezprzewodową interakcję Twoich urządzeń z innymi. Obejmują one Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share i przesyłanie ekranu.
-Aby mogły one działać normalnie, muszą się łączyć z Internetem i wymagają następujących uprawnień:
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Włączanie i wyłączanie Wi-Fi
-\u0009\u0009W celu przesyłania elementów przez sieć Wi-Fi
-\u0009\u0009Nagrywanie dźwięku
-\u0009\u0009W celu przesyłania strumienia dźwięku do połączonych urządzeń w trakcie projekcji lub klonowania ekranu
-\u0009\u0009Dostęp do pamięci
-\u0009\u0009W celu przesyłania i otrzymywania plików bezprzewodowo
-\u0009\u0009Mi Share:
-\u0009\u0009Dostęp i zapis plików i zdjęć na urządzeniu
-\u0009\u0009W celu przesyłania i otrzymywania plików bezprzewodowo
-\u0009\u0009Dostęp do lokalizacji
-\u0009\u0009W celu przesyłania elementów do urządzeń w pobliżu przez sieć Wi-Fi i Bluetooth
-\u0009\u0009Włączanie i wyłączanie Bluetooth
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu
-\u0009\u0009Włączanie i wyłączanie Wi-Fi
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu i przesyłania plików bezprzewodowo
-\u0009\u0009Łączenie z urządzeniami w pobliżu
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu i łączenia się z nimi
-\u0009\u0009Projekcja:
-\u0009\u0009Włączanie i wyłączanie Bluetooth
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu
-\u0009\u0009Włączanie i wyłączanie Wi-Fi
-\u0009\u0009W celu odnajdywania urządzeń w pobliżu
-\u0009\u0009Dostęp do lokalizacji
-\u0009\u0009W celu uzyskiwania informacji o urządzeniach w pobliżu
-\u0009\u0009Nagrywanie dźwięku
-\u0009\u0009W celu przesyłania strumienia dźwięku do połączonych urządzeń w trakcie projekcji
-Jeśli nie nadasz tych uprawnień, nie będzie można używać tych usług.
-Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszystkich modelach lub wersjach systemu. Aby określić kompatybilność z Twoim urządzeniem, wejdź na stronę MIUI (www.miui.com)."</string>
-    <string name="interconnection_service_title">Usługi łączności Xiaomi</string>
+    <string name="calendar_storage">Pamięć kalendarza</string>
     <string name="carousel_cookies_content"><Data>Gdy dotkniesz obrazów i historii w Tapetach Blokady, ich pełne wersje zostaną otwarte w Twojej przeglądarce. Zaufany dostawca treści Xiaomi może na tej podstawie rekomendować dodatkową zawartość dopasowaną do Twoich zainteresowań. Jeśli aktywujesz tę funkcję, będzie on umieszczać pliki cookie w Twojej przeglądarce zgodnie z  &lt;a href=\"%1$s\">Polityką plików cookie&lt;/a>. Jeśli nie zgadzasz się na ciasteczka, Tapety Blokady nadal będą działać, lecz ich treść i rekomendacje mogą nie być dopasowane do Ciebie. Możesz zmienić swoje preferencje w Ustawieniach.</Data></string>
-    <string name="carousel_cookies_subtitle">Pliki cookie umożliwiają personalizację Twojego ekranu blokady.</string>
-    <string name="carousel_cookies_title">Spersonalizowana treść i pliki cookie</string>
     <string name="carousel_privacy"><Data>"Przed skorzystaniem z Tapet Blokady przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> i &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> firmy trzeciej - zaufanego dostawcy usługi Xiaomi."</Data></string>
-    <string name="carousel_setting">Skonfiguruj swój ekran blokady</string>
     <string name="carousel_setting_sub">Tapety Blokady będą wyświetlać Ci świeże historie po każdym odblokowaniu urządzenia</string>
-    <string name="congratulation_pre_label">Chwileczkę…</string>
-    <string name="congratulation_pre_title">Przygotowywanie systemu…</string>
-    <string name="miui14_start_up_slogan">Sprawna. Stabilna. Żywa.</string>
-    <string name="other_settings_alarm_assistance">Lokalizacja dla służb ratunkowych</string>
-    <string name="other_settings_alarm_assistance_privacy">Polityka prywatności</string>
-    <string name="other_settings_alarm_assistance_summary">"Możesz automatycznie wysłać informacje o swojej lokalizacji policji za pomocą SMS-a lub danych mobilnych, gdy dzwonisz pod numer 110, 120, 119 lub 122. Przed skorzystaniem z tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>."</string>
-    <string name="other_settings_alarm_assistance_user">Umowa użytkownika</string>
-    <string name="default_font">Domyślna</string>
-    <string name="font_settings_sub_title">Wybierz systemową czcionkę</string>
-    <string name="font_settings_title">Ustawienia czcionki</string>
-    <string name="font_use_case_text_example">Treść</string>
-    <string name="font_use_case_title_example">Tytuł</string>
+    <string name="check_box_label">"&lt;Data>Włączając tę funkcję, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności&lt;/a > Interakcji urządzeń Xiaomi.&lt;/Data>"</string>
+    <string name="congratulation_label">MIUIPolska.pl​</string>
+    <string name="cookies_content_one">"Kiedy dotkniesz obrazków i wspomnień zgromadzonych w Tapetach Blokady, ich pełne wersje zostaną otwarte w Twojej przeglądarce. Firma trzecia, która dostarcza treści, czyli Taboola, może wtedy polecać dodatkowe treści i reklamy dopasowane do Twoich zainteresowań. Jeśli wyrazisz zgodę na aktywację tej funkcji, Taboola umieści pliki cookie na Twoim urządzeniu za pośrednictwem przeglądarki zgodnie z &lt;a href =%1$s>Polityką plików cookie&lt;/a>. Jeśli jednak tej zgody nie udzielisz, Tapety Blokady nadal będą pojawiać się na Twoim ekranie blokady, zaś pełne wspomnienia wciąż będą otwierane w Twojej przeglądarce, lecz dodatkowe rekomendacje nie będą już dopasowane w oparciu o Twoje zainteresowania. Możesz zmienić te preferencje w Ustawieniach w dowolnym momencie."</string>
+    <string name="fast_pairing_introduction">Funkcja Mi Link pozwala na szybkie łączenie się z urządzeniami Bluetooth.</string>
     <string name="framework_introduction">Framework usług Xiaomi to podstawowa usługa systemowa, która dostarcza powiadomienia push, ochronę przed zagrożeniami, statystyki i możliwości analityki. Aby dostarczać te usługi, Xiaomi musi gromadzić i przetwarzać odpowiednie dane osobowe. W trakcie wykonywaia tych czynności Xiaomi będzie działać zgodnie z odpowiednimi przepisami i regulacjami.</string>
     <string name="framwork_base_service">"Aby dostarczać powiadomienia push, konieczne jest gromadzenie identyfikatorów urządzenia (OAID i zaszyfrowany ID Androida), informacji o aplikacjach używających usługi push (np. nazwy pakietu aplikacji, wersji i statusu uruchomienia), producenta urządzenia, jego modelu, pamięci, wersji systemu, regionu, nazwy operatora karty SIM, obecnego typu sieci i stanu sieci Wi-Fi. Możesz zmienić sposób otrzymywania powiadomień push w Ustawieniach; będziemy dostarczać je na podstawie Twoich preferencji, zatem gromadzić będziemy również te preferencje (np. w kwestii blokowania powiadomień czy ich pojawiania się na ekranie blokady).
   W celu ochrony przed zagrożeniami, statystyk i przetwarzania analitycznego, potrzebne jest uprawnienie dostępu do sieci oraz dostęp do lokalizacji, IMEI/IMSI urządzenia, identyfikatorów urządzenia (OAID, adresu MAC, zaszyfrowanego ID Androida), producenta urządzenia, jego modelu, pamięci, wersji systemu, regionu i obecnej sieci Wi-Fi. Powyższe dane będą gromadzone raz dziennie przez cały czas korzystania z urządzenia."</string>
-    <string name="permission_uniquely_identifiable_information">Dostęp do unikalnych identyfikatorów urządzenia</string>
-    <string name="permission_uniquely_identifiable_information_summary">Dostęp do adresu MAC i OAID urządzenia w celu odnajdywania, łączenia i komunikowania się z innymi urządzeniami</string>
-    <string name="permission_use_bluetooth">Używanie Bluetooth</string>
-    <string name="permission_use_bluetooth_summary">W celu odnajdywania, łączenia się i komunikowania z urządzeniami w pobliżu</string>
-    <string name="permission_use_wlan">Używanie Wi-Fi</string>
-    <string name="permission_use_wlan_summary">W celu odnajdywania, łączenia się i komunikowania z urządzeniami w pobliżu</string>
-    <string name="recommended_font_mark">Zalecane</string>
-    <string name="select_font_modele_tips">Zawsze możesz wybrać nową czcionkę w Motywach</string>
-    <string name="after_sales_support">Wsparcie posprzedażowe</string>
-    <string name="after_sales_support_introduction">Ta usługa pozwala Ci uzyskać wsparcie i pomoc związaną z zakupionymi urządzeniami.</string>
-    <string name="authority_introduction">Menedżer uprawnień to podstawowa usługa, umożliwiająca zarządzanie uprawnieniami aplikacji na tym urządzeniu.</string>
-    <string name="device_information_usage_desc">Ta usługa pozwala Ci wyświetlać informacje o urządzeniu, łączyć ze z sieciami i konfigurować jego funkcje.</string>
-    <string name="disagreement_service_not_working_properly_settings">"Jeśli nie wyrazisz zgody na przyznanie tych uprawnień, ta usługa nie będzie mogła działać poprawnie."</string>
     <string name="get_imei_information">Dostęp do IMEI</string>
-    <string name="get_imei_information_settings">Dostęp do unikalnego identyfikatora urządzenia (IMEI)</string>
-    <string name="miui_settings">Ustawienia</string>
-    <string name="permission_authority_describe">Dostęp do listy zainstalowanych aplikacji</string>
-    <string name="permission_authority_describe_applist_summary">W celu zarządzania uprawnieniami aplikacji</string>
-    <string name="permission_get_imei_information_summary">W celu identyfikowania czasu aktywacji urządzenia</string>
-    <string name="permission_get_imei_information_summary_settings">W celu wyświetlania informacji o urządzeniu i specyfikacji</string>
-    <string name="permission_number">Dostęp do numeru telefonu</string>
-    <string name="permission_number_introduction">W celu ustanawiania połączenia Bluetooth z systemami aut i słuchawkami Bluetooth</string>
-    <string name="permission_qualcomm_describe_summary">W celu dynamicznego alokowania zasobów systemu do różnych aplikacji i organizowania ich procesów</string>
-    <string name="permission_quality_describe_summary">W celu gromadzenia informacji o zamknięciach aplikacji</string>
-    <string name="phone_service_introduction">Telefonia to podstawowa usługa, dzięki której Twoje urządzenie może wykonywać rozmowy, wysyłać i otrzymywać wiadomości oraz łączyć się z siecią.</string>
-    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier to usługa zarządzająca procesami systemu.</string>
-    <string name="require_base_authority_statement">"W celu dostarczania podstawowych usług wymagane są następujące uprawnienia:
-\u0009\u0009\u0009Dostęp do IMEI i IMSI"</string>
-    <string name="require_basic_applist_and_authority_statement">W celu dostarczania podstawowych usług wymagane są następujące uprawnienia:</string>
-    <string name="require_device_information_statement">Aby móc dostarczać podstawowe usługi, wymagane są następujące uprawnienia:</string>
-    <string name="service_name_authority">Menedżer uprawnień</string>
-    <string name="service_name_phone_service">Telefonia</string>
-    <string name="system_update_statement">Aktualizacje systemu</string>
-    <string name="system_update_title">Aktualizacje systemowe</string>
-    <string name="terms_of_use_label_system_quality_monitoring">Monitoring jakości systemu</string>
-    <string name="disagreement_service_not_working_properly_with_media_storage">"Jeśli nie nadasz tych uprawnień, usługa nie będzie mogła działać normalnie."</string>
-    <string name="media_storage_devices">Urządzenia pamięci masowej</string>
-    <string name="media_storage_introduction">Ta usługa umożliwia aplikacjom dostęp i zapis zdjęć, filmów, dźwięków i plików.</string>
-    <string name="permission_media_storage_summary">W celu sprawdzenia, jak aplikacje korzystają z uprawnień związanych z prywatnością w trakcie uzyskiwania dostępu do plików</string>
-    <string name="aquire_device_info">Dostęp do informacji o urządzeniu</string>
-    <string name="permission_application_scope_description">"Te uprawnienia są wykorzystywane tylko podczas skanowania pod kątem bezpieczeństwa i nie będą używane w innych celach."</string>
-    <string name="read_application_info">Dostęp do informacji o aplikacji</string>
-    <string name="safe_open_service">Bezpieczne otwarte usługi</string>
-    <string name="safe_open_service_introduction">Bezpieczne otwarte usługi pomagają deweloperom i dostarczają systemowe zabezpieczenia pod kątem bezpieczeństwa, aby chronić użytkowników i ich prywatność.</string>
-    <string name="verify_application_security">W celu weryfikacji bezpieczeństwa aplikacji</string>
-    <string name="verify_device_security">W celu weryfikacji bezpieczeństwa urządzenia</string>
+    <string name="google_service_introduction">Aby móc działać normalnie, sklep Google Play wymaga połączenia z Internetem, a także dostępu do Twojej lokalizacji, możliwości wysyłania SMS-ów i MMS-ów, nagrywania dźwięku, wykonywania połączeń, dostępu do wydarzeń z kalendarza, historii rozmów, sensorów, pamięci, aparatu, informacji o urządzeniu oraz kontach. </string>
+    <string name="home_settings_title">Wybierz układ pulpitu</string>
     <string name="interconnection_service_global_item_title">Interakcja urządzeń Xiaomi</string>
     <string name="interconnection_service_global_label">"&lt;Data>Interakcja urządzeń Xiaomi umożliwia bezprzewodową integrację Twoich urządzeń. Włączając ten przełącznik, wyrażasz zgodę na warunki &lt;a href=%1$s>Polityki prywatności&lt;/a > tej usługi.&lt;/Data>"</string>
-    <string name="interconnection_service_summary_global">"Funkcje Interakcji urządzeń Xiaomi mogą się różnić w zależności od modelu urządzenia i wersji systemu. Aby dowiedzieć się więcej, wejdź na oficjalną stronę systemu."</string>
-    <string name="application_extension_service">Usługi rozszerzające aplikację</string>
-    <string name="application_extension_service_introduction">Usługi rozszerzające aplikację dostarczają funkcje logowania i weryfikacji. Aby to robić, aplikacja potrzebuje następujących uprawnień:</string>
-    <string name="permission_not_agree_service_not_working">"Jesli nie przyznasz wymienionych wcześniej niezbędnych uprawnień, nie będzie można używać tej usługi."</string>
-    <string name="permission_sms_verification_code_login">W celu dostarczania weryfikacji SMS do szybkiego logowania się</string>
-    <string name="read_sms_and_mms">Dostęp do SMS-ów i MMS-ów</string>
-    <string name="access_calendar">Dostęp do kalendarza</string>
-    <string name="calendar_storage">Pamięć kalendarza</string>
-    <string name="disagree_unable_serve">"Jeśli nie nadasz powyższych uprawnień, nie będzie można używać tej usługi."</string>
-    <string name="provide_date_management_service">Ta usługa umożliwia sprawdzenie daty i zarządzanie wydarzeniami.</string>
-    <string name="require_statement">Aby dostarczać podstawowe usługi, potrzebujemy następujących uprawnień:</string>
-    <string name="used_date_viewing">W celu sprawdzania daty</string>
-    <string name="app_battery_usage">"W celu sprawdzenia zużycia baterii przez poszczególne aplikacje"</string>
+
     <string name="interconnection_service_summary_china">Usługi łączności między urządzeniami Xiaomi pozwalają na bezprzewodową interakcję urządzeń. %1$s Dostępne usługi łączności między urządzeniami mogą się różnić w zależności od Twojej wersji systemu i modelu urządzenia. Dowiedz się więcej na stronie %2$s.</string>
     <string name="interconnection_service_summary_china_fragment1">Są to Mi Smart Play, projekcja, handoff aplikacji, Pulpit+, współdzielony schowek, bezprzewodowy tethering (w tym synchronizacja sieci), kontrola innych urządzeń, współdzielony aparat oraz Mi Smart Hub. Usługi łączności między urządzeniami Xiaomi muszą łączyć się z Internetem i wymagają następujących uprawnień:</string>
     <string name="interconnection_service_summary_china_fragment10">W celu uzyskiwania informacji o urządzeniach w pobliżu</string>
@@ -646,16 +94,10 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
     <string name="interconnection_service_summary_china_fragment7">Przesyłanie elementów do innych urządzeń</string>
     <string name="interconnection_service_summary_china_fragment8">W celu ustanowienia połączenia Bluetooth między urządzeniami i przesyłania elementów</string>
     <string name="interconnection_service_summary_china_fragment9">Dostęp do lokalizacji</string>
-    <string name="power_and_performance">Bateria i wydajność</string>
-    <string name="power_and_performance_introduction">Ta usługa dostarcza usługi podstawowego zarządzania baterią, statystyki użytkowania, funkcje oszczędzania energii i inne.</string>
-    <string name="phone_introduction">Możesz użyć tej aplikacji do odnajdywania i neutralizacji wirusów, blokowania połączeń i SMS-ów, optymalizacji wydajności pod kątem gier, oszczędzania baterii, a także zarządzania aplikacjami, uprawnieniami, zużyciem danych i innymi rzeczami.</string>
-    <string name="phone_name_security">Panel sterowania</string>
-   <string name="check_network_status">"Nie udało się zweryfikować konta ze względu na błąd sieci"</string>
-   <string name="software_account_mismatch">Weryfikacja konta</string>
-   <string name="software_account_mismatch_summary">Weryfikowanie konta…</string>
-   <string name="software_version_mismatch">Niewspierane oprogramowanie</string>
-   <string name="software_version_mismatch_summary">"Ta wersja oprogramowania nie jest wspierana przez Twoje urządzenie. Korzystanie z niej może być niebezpieczne. Aby dowiedzieć się więcej, skontaktuj się ze sprzedawcą."</string>
-   <string name="startup_page_text_hint">Rozłóż, aby aktywować urządzenie</string>
+    <string name="interconnection_service_summary_global">"Funkcje Interakcji urządzeń Xiaomi mogą się różnić w zależności od modelu urządzenia i wersji systemu. Aby dowiedzieć się więcej, wejdź na oficjalną stronę systemu."</string>
+    <string name="interconnection_service_title">Usługi łączności Xiaomi</string>
+    <string name="item_facerecognition">Odblokowanie twarzą</string>
+    <string name="item_lock_screen_password">Tylko hasło, PIN lub wzór</string>
     <string name="kind_tip_details_inner_details">"Podczas korzystania z urządzenia lub przenoszenia go należy unikać naciskania ekranu ostrymi przedmiotami (końcówkami długopisów, paznokciami itp.). Przed złożeniem urządzenia upewnij się, że na ekranie wewnętrznym nie ma twardych przedmiotów, takich jak karty, monety lub klucze."</string>
     <string name="kind_tip_details_inner_title">"Nie wywieraj nacisku na wewnętrzny ekran ostrymi lub twardymi rzeczami"</string>
     <string name="kind_tip_details_pocket_details">"Złóż urządzenie, gdy go nie używasz. Unikaj kontaktu wewnętrznego ekranu ze wszelkimi ostrymi lub twardymi obiektami w Twojej torbie lub kieszeni."</string>
@@ -664,5 +106,102 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
     <string name="kind_tip_details_protective_details_global">Wewnętrzny ekran tego urządzenia jest chroniony specjalną folią ochronną. Jej usuwanie bądź wymienianie może spowodować uszkodzenie tego ekranu.</string>
     <string name="kind_tip_details_protective_title">"Nie usuwaj samodzielnie ochrony wewnętrznego ekranu"</string>
     <string name="kind_tip_subtitle">To urządzenie posiada rozkładany ekran. Aby uniknąć jego uszkodzenia i mieć pewność, że działa on normalnie, postępuj zgodnie z naszymi wskazówkami.</string>
-    <string name="kind_tip_title">Uwaga</string>
+    <string name="location_content">Zgodnie z prawem, operatorzy komórkowi mogą uzyskać informacje o lokalizacji urządzeń mobilnych, aby spełnić wymagania służb ratowniczych (straży pożarnej i policji), które realizują cele związane z bezpieczeństwem i ratownictwem.</string>
+    <string name="location_introduction_qcom">Usługi lokalizacji wykorzystują pozycjonowanie do dostarczania usług specyficznych dla danej lokalizacji. Gdy są one wykorzystywane przez Twoje urządzenie, moduł QCC połączy się z siecią, aby przyspieszyć proces pozycjonowania.</string>
+    <string name="location_location">Służby ratunkowe mogą uzyskiwać Twoją aktualną lokalizację na żądanie</string>
+    <string name="lockscreen_introduction">Tapety Blokady dostarczają codziennie nowe tapety na Twój ekran blokady.</string>
+    <string name="media_storage_devices">Urządzenia pamięci masowej</string>
+    <string name="message_introduction">Możesz używać tej aplikacji do wysyłania i otrzymywania SMS-ów.</string>
+    <string name="miui14_start_up_slogan">Sprawna. Stabilna. Żywa.</string>
+    <string name="miui_privacy_policy_no_network">Brak połączenia z siecią. Przeczytaj Politykę prywatności na %s.</string>
+    <string name="miui_terms_no_network">Brak połączenia z siecią. Przeczytaj Warunki Użytkowania na %s.</string>
+    <string name="msim_setting_default_data">Karta SIM do danych</string>
+    <string name="navigation_picker_gesture_guide">Gesty</string>
+    <string name="navigation_picker_radio_text_full_screen">Gesty</string>
+    <string name="other_settings">Inne ustawienia</string>
+    <string name="other_settings_ad_dialog_content">"W Xiaomi.eu ta opcja nie ma znaczenia, więc... jak chcesz."</string>
+    <string name="other_settings_ad_dialog_content_for_global">"Personalizowane reklamy (jak i reklamy w ogóle) nie są wyświetlane w tym ROM-ie. Funkcja nie ma zastosowania."</string>
+    <string name="other_settings_ad_disable_summary">Reklamy</string>
+    <string name="other_settings_ad_enable">Reklamy</string>
+    <string name="other_settings_ad_enable_summary">W tym systemie reklamy od Xiaomi są wyłączone. Opcja nie ma zastosowania.</string>
+    <string name="other_settings_alarm_assistance">Lokalizacja dla służb ratunkowych</string>
+    <string name="other_settings_alarm_assistance_privacy">Polityka prywatności</string>
+    <string name="other_settings_alarm_assistance_summary">"Możesz automatycznie wysłać informacje o swojej lokalizacji policji za pomocą SMS-a lub danych mobilnych, gdy dzwonisz pod numer 110, 120, 119 lub 122. Przed skorzystaniem z tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a>."</string>
+    <string name="other_settings_alarm_assistance_user">Umowa użytkownika</string>
+    <string name="other_settings_auto_update_summary">Aktualizacje OTA od Xiaomi.eu</string>
+    <string name="other_settings_enhanced_lockscreen">Tapety Blokady</string>
+    <string name="other_settings_enhanced_lockscreen_privacy_index">Polityka prywatności</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Codziennie na ekranie blokady będą się pojawiać nowe tapety online</string>
+    <string name="other_settings_quality_service">Uprawnienia systemowego daemona</string>
+    <string name="other_settings_quality_service_summary">Systemowy daemon jest wykorzystywany do poprawy stabilności i wydajności systemu. Aby móc działać normalnie, usługa wymaga uprawnień dostępu do pamięci urządzenia oraz zapisu elementów w niej.</string>
+    <string name="other_settings_user_experience_summary">"Pomóż ulepszać produkty Xiaomi przez przesyłanie anonimowych danych."</string>
+    <string name="permission_MIUIDaemon_introduction">Systemowy daemon umożliwia przesłanie danych z urządzenia wtedy, gdy jego ekran jest uszkodzony.</string>
+    <string name="permission_application_scope_description">"Te uprawnienia są wykorzystywane tylko podczas skanowania pod kątem bezpieczeństwa i nie będą używane w innych celach."</string>
+    <string name="permission_authority_describe">Dostęp do listy zainstalowanych aplikacji</string>
+    <string name="permission_authority_describe_applist_summary">W celu zarządzania uprawnieniami aplikacji</string>
+    <string name="permission_fast_pairing">Aby móc znajdować urządzenia w pobliżu, Mi Link musi połączyć się z Internetem i wymaga następujących uprawnień:</string>
+    <string name="permission_get_imei_information_summary">W celu identyfikowania czasu aktywacji urządzenia</string>
+    <string name="permission_not_agree_service_not_working">"Jesli nie przyznasz wymienionych wcześniej niezbędnych uprawnień, nie będzie można używać tej usługi."</string>
+    <string name="permission_number">Dostęp do numeru telefonu</string>
+    <string name="permission_number_introduction">W celu ustanawiania połączenia Bluetooth z systemami aut i słuchawkami Bluetooth</string>
+    <string name="permission_qualcomm_describe_summary">W celu dynamicznego alokowania zasobów systemu do różnych aplikacji i organizowania ich procesów</string>
+    <string name="permission_quality_describe_summary">W celu gromadzenia informacji o zamknięciach aplikacji</string>
+    <string name="permission_read_contacts_introduction">W celu weryfikacji tożsamości</string>
+    <string name="permission_read_message_introduction">W celu weryfikacji własności urządzenia</string>
+    <string name="permission_sms_verification_code_login">W celu dostarczania weryfikacji SMS do szybkiego logowania się</string>
+    <string name="permission_uniquely_identifiable_information">Dostęp do unikalnych identyfikatorów urządzenia</string>
+    <string name="permission_uniquely_identifiable_information_summary">Dostęp do adresu MAC i OAID urządzenia w celu odnajdywania, łączenia i komunikowania się z innymi urządzeniami</string>
+    <string name="permission_use_bluetooth">Używanie Bluetooth</string>
+    <string name="permission_use_bluetooth_summary">W celu odnajdywania, łączenia się i komunikowania z urządzeniami w pobliżu</string>
+    <string name="permission_use_wlan">Używanie Wi-Fi</string>
+    <string name="permission_use_wlan_summary">W celu odnajdywania, łączenia się i komunikowania z urządzeniami w pobliżu</string>
+    <string name="phone_service_introduction">Telefonia to podstawowa usługa, dzięki której Twoje urządzenie może wykonywać rozmowy, wysyłać i otrzymywać wiadomości oraz łączyć się z siecią.</string>
+    <string name="power_and_performance">Bateria i wydajność</string>
+    <string name="power_and_performance_introduction">Ta usługa dostarcza usługi podstawowego zarządzania baterią, statystyki użytkowania, funkcje oszczędzania energii i inne.</string>
+    <string name="privacy_content_one">"Rekomendacje Tapet Blokady dostarcza firma trzecia, Taboola. Aby to robić, musi ona uzyskać dostęp i przechowywać nieosobiste dane, włącznie z językiem systemu i typem przeglądarki. Możesz dowiedzieć się, jak korzysta ona ze zgromadzonych danych, z odpowiednich dokumentów: &lt;a href =%1$s>Polityki prywatności&lt;/a> oraz &lt;a href =%2$s>Umowy użytkownika&lt;/a>. Zapoznaj się z tymi dokumentami, zanim przejdziesz dalej. Jeśli nie wyrażasz zgody na te warunki, usługi Tapet Blokady zostaną zdezaktywowane."</string>
+    <string name="privacy_policy">Polityka prywatności</string>
+    <string name="provide_date_management_service">Ta usługa umożliwia sprawdzenie daty i zarządzanie wydarzeniami.</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier to usługa zarządzająca procesami systemu.</string>
+    <string name="read_application_info">Dostęp do informacji o aplikacji</string>
+    <string name="read_sms_and_mms">Dostęp do SMS-ów i MMS-ów</string>
+    <string name="require_base_authority_statement">"W celu dostarczania podstawowych usług wymagane są następujące uprawnienia:
+\u0009\u0009\u0009Dostęp do IMEI i IMSI"</string>
+    <string name="require_basic_applist_and_authority_statement">W celu dostarczania podstawowych usług wymagane są następujące uprawnienia:</string>
+    <string name="require_device_information_statement">Aby móc dostarczać podstawowe usługi, wymagane są następujące uprawnienia:</string>
+    <string name="require_statement">Aby dostarczać podstawowe usługi, potrzebujemy następujących uprawnień:</string>
+    <string name="safe_open_service">Bezpieczne otwarte usługi</string>
+    <string name="safe_open_service_introduction">Bezpieczne otwarte usługi pomagają deweloperom i dostarczają systemowe zabezpieczenia pod kątem bezpieczeństwa, aby chronić użytkowników i ich prywatność.</string>
+    <string name="service_name_MIUIDaemon">Systemowy daemon</string>
+    <string name="service_name_authority">Menedżer uprawnień</string>
+    <string name="service_name_lockscreen">Tapety Blokady</string>
+    <string name="service_name_message">Aplikacja SMS</string>
+    <string name="service_name_phone_service">Telefonia</string>
+    <string name="service_policy"><Data>Przeczytaj i zaakceptuj &lt;a href=%1$s>Politykę prywatności&lt;/a> Xiaomi.</Data></string>
+    <string name="service_privacy_index">Polityka prywatności</string>
+    <string name="setting_locale">Ustawianie języka...</string>
+    <string name="sim_activation_introduction">Usługa aktywacji kart SIM weryfikuje informacje o włożonej karcie SIM, aby upewnić się, że usługi systemowe mogą działać normalnie. Zaliczane są do nich m.in. usługa Znajdź urządzenie, Wiadomości Mi, tworzenie kont Xiaomi za pomocą numerów telefonów, a także synchronizacja wiadomości i historii połączeń.</string>
+    <string name="sim_card_detecting_confirm_turn_on_network">Zezwolić na połączenie za pomocą danych komórkowych? Jeśli tak, to użyta do tego zostanie karta SIM włożona do tego urządzenia.</string>
+    <string name="sim_card_detection_info_sb">"Zanim przejdziesz dalej, włóż kartę SIM. Jeśli utworzysz konto bez karty SIM, funkcje Znajdź urządzenie oraz funkcjonalność związana z synchronizacją nie będą w pełni dostępne. To urządzenie obsługuje standard eSIM. "</string>
+    <string name="sim_card_dial_card">Karta SIM %d do połączeń</string>
+    <string name="sim_card_do_not_select_dial_card">Wybierz kartę SIM do dzwonienia</string>
+    <string name="sim_card_network_card">Karta SIM %d do danych</string>
+    <string name="skip_gesture_guide_dialog_message">Upewnij się, że wiesz, jak używać gestów przed wybraniem tej opcji.</string>
+    <string name="skip_gesture_guide_dialog_title">Gesty</string>
+    <string name="start_up_slogan">Łącz wszystko w całość</string>
+    <string name="system_update_statement">Aktualizacje systemu</string>
+    <string name="system_update_title">Aktualizacje systemowe</string>
+    <string name="terms_of_use_label_app_vault">Asystent HyperOS</string>
+    <string name="terms_of_use_label_htmlviewer">Przeglądarka HTML</string>
+    <string name="terms_of_use_label_system_quality_monitoring">Monitoring jakości systemu</string>
+    <string name="terms_of_use_label_use_location_and_network_global">"Przed skorzystaniem z systemu przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią i uzyskają Twoją lokalizację:"</string>
+    <string name="terms_of_use_label_use_network_china">"Przed skorzystaniem z systemu przeczytaj i zaakceptuj warunki Umowy użytkownika oraz Polityki prywatności Xiaomi. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. W trakcie aktywacji urządzenia następujące usługi połączą się z siecią:"</string>
+    <string name="terms_of_use_lable_smart_cards">Karty asystenta</string>
+    <string name="used_date_viewing">W celu sprawdzania daty</string>
+    <string name="verify_application_security">W celu weryfikacji bezpieczeństwa aplikacji</string>
+    <string name="verify_device_security">W celu weryfikacji bezpieczeństwa urządzenia</string>
+    <string name="wc_dialog_summary">Tapety Blokady codziennie dostarczają nowe i ciekawe obrazy na Twój ekran blokady.</string>
+    <string name="wc_double_check_summary">Możesz włączyć Tapety Blokady, aby sprawdzić, czy ta funkcja działa poprawnie i czy będziesz z niej zadowolony. Możesz wyłączyć tę opcję w Ustawieniach > Ekran blokady.</string>
+    <string name="wc_double_check_title">Wypróbuj Tapety Blokady</string>
+    <string name="wc_notice_link_announcement_summary">"Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki dostawcy treści trzecich zawarte w &lt;a href=\"%1$s\">Polityce prywatności&lt;/a> oraz &lt;a href=\"%2$s\">Umowie użytkownika&lt;/a>."</string>
+    <string name="withdraw_consent">Jeśli wycofasz zgodę, usługi Tapet Blokady zostaną zdezaktywowane.</string>
 </resources>
