@@ -1,26 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="agenda_weeks_of_year">
-        <item>1. tydzień</item>
-        <item>2. tydzień</item>
-        <item>3. tydzień</item>
-        <item>%1$d. tydzień</item>
-    </string-array>
-    <string-array name="base_day_time_space">
-        <item>Noc</item>
-        <item>Noc</item>
-        <item>Poranek</item>
-        <item>Popołudnie</item>
-        <item>Popołudnie</item>
-        <item>Wieczór</item>
-        <item>Wieczór</item>
-    </string-array>
-    <string-array name="app_health_setting_text_array_duration">
-        <item>10 minut</item>
-        <item>20 minut</item>
-        <item>30 minut</item>
-        <item>60 minut</item>
-    </string-array>
     <string-array name="pa_home_week_days">
         <item>Niedziela</item>
         <item>Poniedziałek</item>
