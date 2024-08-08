@@ -29,6 +29,7 @@
     <string name="notification_keyguard_show_content">Wyświetl powiadomienie i treść</string>
     <string name="notification_keyguard_show_nothing">"Nie wyświetlaj powiadomień na ekranie blokady"</string>
     <string name="show_badge_notifications">Liczniki na ikonie</string>
+    <string name="show_weather">Pokaż informacje o pogodzie</string>
     <string name="summary_disable_float_notification">Pływające powiadomienia są wyłączone</string>
     <string name="summary_disable_show_badge_notification">Licznik na ikonie jest wyłączony</string>
     <string name="summary_enable_float_notification">Pływające powiadomienia są włączone</string>

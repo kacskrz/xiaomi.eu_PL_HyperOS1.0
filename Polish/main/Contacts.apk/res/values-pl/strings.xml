@@ -11,6 +11,8 @@
     <string name="cancel_import_confirmation_message">Anulować wczytywanie: %s?</string>
     <string name="cloud_upgrade_recommend">"Nie można zsynchronizować kontaktów ze względu na brak miejsca w Chmurze. Ulepsz plan Chmury."</string>
     <string name="composer_has_no_exportable_contact">Brak kontaktów do kopiowania. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich kopiowanie z telefonu.</string>
+    <string name="confirm_call_log_dial_summary">Pytaj o potwierdzenie przed rozpoczęciem połączenia z historii połączeń, aby zapobiec przypadkowym połączeniom.</string>
+    <string name="confirm_call_log_dial_title">Potwierdzaj chęć połączenia z historii połączeń</string>
     <string name="description_call_log_incoming_forwarding_call">Połączenie przychodzące (przekierowane)</string>
     <string name="description_image_button_sim1_named_dial">Połącz, używając karty SIM 1 %s</string>
     <string name="description_image_button_sim2_named_dial">Połącz, używając karty SIM 2 %s</string>

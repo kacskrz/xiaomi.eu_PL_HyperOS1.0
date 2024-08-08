@@ -16,6 +16,8 @@
     <string name="deepclean_video_summary_empty">Wszystko OK</string>
     <string name="facebook_clean_exit_confirm_cancel">Kontynuuj</string>
     <string name="facebook_cleaner">Czyszczenie Facebooka</string>
+    <string name="facebook_function_summery">Wyczyść elementy z pamięci podręcznej Facebooka</string>
+    <string name="facebook_function_title">Czyszczenie Facebooka</string>
     <string name="gigabyteShort">" GB"</string>
     <string name="global_wa_backend_alert_dialog_title">Czyszczenie WhatsAppa</string>
     <string name="global_wa_clean_icon_text">Czyszczenie WhatsAppa</string>
