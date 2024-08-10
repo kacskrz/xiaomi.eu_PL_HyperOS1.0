@@ -38,4 +38,11 @@
         <item>Mżawka</item>
         <item></item>
     </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Skala Beauforta</item>
+        <item>Kilometry na godzinę (km/h)</item>
+        <item>Metry na sekundę (m/s)</item>
+        <item>Mile na godzinę (mph)</item>
+        <item>Węzły (kn)</item>
+    </string-array>
 </resources>

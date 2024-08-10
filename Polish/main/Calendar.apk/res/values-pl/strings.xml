@@ -64,6 +64,7 @@
     <string name="setting_title_policy">Polityka prywatności</string>
     <string name="tb_mens_month_history">Średni czas trwania w dniach: %1$d. Średni czas cyklu w dniach: %2$d.</string>
     <string name="three_days_to_go">Za %d dni</string>
+    <string name="weather_info_settings_description">Uzyskaj informacje o pogodzie i jakości powietrza</string>
     <string name="weekly">Co tydzień (co: %s)</string>
     <string name="yearly">Co rok (co: %s)</string>
 </resources>

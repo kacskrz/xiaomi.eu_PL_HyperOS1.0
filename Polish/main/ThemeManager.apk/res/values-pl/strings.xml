@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="about_app_name">O Motywach</string>
     <string name="about_version_update">"Co nowego?"</string>
     <string name="accessibiliy_description_content_comment">Komentarz</string>
@@ -344,7 +343,6 @@ Dotknij, aby go wyłączyć."</string>
     <string name="lock_screen_keyguard_tip_title">Zupełnie nowy, spersonalizowany ekran blokady</string>
     <string name="lockscreen_desk_wallpaper">Tapety Ekranu głównego i ekranu blokady</string>
     <string name="lockscreen_magazine_title">Tapety Blokady</string>
-
     <string name="lockscreen_tip_content">Przytrzymaj ekran blokady, aby zacząć edycję. Spraw, aby był Twój dzięki nowym opcjom i szablonom personalizacji.</string>
     <string name="login_theme">Zaloguj się do Motywów</string>
     <string name="long_click_can_hide_resource">Dotknij i przytrzymaj, aby ukryć elementy</string>
@@ -848,7 +846,7 @@ Możesz nadać to uprawnienie w Ustawieniach > Prywatność."</string>
     <string name="theme_component_title_photo_frame">Ramka na zdjęcia</string>
     <string name="theme_component_title_ringtone">Dzwonki</string>
     <string name="theme_component_title_wallpaper">Tapeta Ekr. głównego</string>
-    <string name="theme_component_video_wallpaper">Dynamiczne tapety</string>
+    <string name="theme_component_video_wallpaper">Dynamiczne</string>
     <string name="theme_designer_products">Motywy projektanta</string>
     <string name="theme_detail_tab_theme">Motywy</string>
     <string name="theme_fresh_man_notifaction">Dostępne nowe motywy!</string>

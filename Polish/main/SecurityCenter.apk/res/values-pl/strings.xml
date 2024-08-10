@@ -26,6 +26,7 @@
     <string name="activity_title_root_acquired">Udziel dostępu do roota</string>
     <string name="activity_title_root_manager">Dostęp do roota</string>
     <string name="activity_title_root_note">O uprawnieniach roota</string>
+    <string name="activity_title_virus">Wirusy</string>
     <string name="adb_install_open_error">"Nie można zezwolić. Sprawdź połączenie z siecią."</string>
     <string name="adb_install_reject_notiy_desc">Możesz zezwolić na instalację przez USB w Opcjach programistycznych</string>
     <string name="add_auto_task_desktop_icon">Dodaj skrót na Ekranie głównym</string>
@@ -351,6 +352,7 @@
     <string name="data_usage_protected_notify_message">Dane mobilne zostały wyłączone, aby zapobiec naliczaniu opłat przez operatora.</string>
     <string name="data_usage_protected_notify_title">"Przekroczyłeś 5 GB transferu danych"</string>
     <string name="day_overflow_tips">Ostrzeżenie dot. dziennego użycia danych</string>
+    <string name="deep_clean_memory_clean_title">Wyczyść pamięć RAM, gdy urządzenie jest zablokowane</string>
     <string name="default_condition_summary">Np. \"Gdy poziom baterii niższy niż 20%\"</string>
     <string name="default_condition_title">Dodaj warunek</string>
     <string name="default_condition_title_continue">Dodaj warunek</string>
@@ -375,7 +377,7 @@
 Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - zresetowane."</string>
     <string name="device_manager_apply_step_3">Upewnij się, że rozumiesz wszystkie potencjalne ryzyka przed podjęciem tego działania. Aktywować administrację urządzeniem dla tej aplikacji?</string>
     <string name="device_oaid">Zarządzaj wirtualnym ID</string>
-    <string name="device_oaid_desc">Zamiast Twojego unikatowego identyfikatora, MIUI dostarczy wirtualny identyfikator (OAID) do zainstalowanych aplikacji. Uniemożliwia on aplikacjom śledzenie Twoich działań i preferencji oraz chroni Twoją prywatność.</string>
+    <string name="device_oaid_desc">Zamiast Twojego unikatowego identyfikatora, system dostarczy wirtualny identyfikator (OAID) do zainstalowanych aplikacji. Uniemożliwia on aplikacjom śledzenie Twoich działań i preferencji oraz chroni Twoją prywatność.</string>
     <string name="device_oaid_title">Wirtualne ID</string>
     <string name="dialog_change_package_type_summary">Zmiana planu wykasuje aktualne statystyki oraz niestandardowe ustawienia. Kontynuować?</string>
     <string name="dialog_msg_create_icon_content">Dodać skrót na Ekranie głownym?</string>
@@ -452,6 +454,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="eletric_status_protecting">Wł.</string>
     <string name="enable_extreme_power_save_mode">Ultraoszczędzanie baterii</string>
     <string name="enable_notification_title">Zezwolić aplikacji %1$s na korzystanie z powiadomień?</string>
+    <string name="examination_score_80_100">Zoptymalizuj kilka elementów</string>
+    <string name="examination_score_80_60">Zoptymalizuj kilka elementów</string>
     <string name="exception_dialog_message">Dane statystyczne nie mogły zostać obliczone ze względu na błąd. Bez dokładnych danych Panel sterowania nie będzie w stanie monitorować zużycia danych. Uruchomić ponownie, aby przywrócić tę funkcjonalność?</string>
     <string name="exit_dialog_homepage_optimise_message">"Poziom wydajności tego urządzenia spadł poniżej 80 punktów. Zoptymalizować teraz?"</string>
     <string name="exit_dialog_scan_message">"Poziom wydajności tego urządzenia spadł poniżej 75 punktów. Zoptymalizować system teraz?"</string>
@@ -600,6 +604,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="lock_screen_traffic_notify_body">Użyto %3$s po %2$s od blokady (%1$s)</string>
     <string name="long_click_dialog_summary">Przytrzymaj długo palcem na wyniku, aby dodać go do wyjątków</string>
     <string name="main_alert_message_open_traffic_ctrl">Ogranicz użycie danych</string>
+    <string name="main_bill_remained">Środki</string>
     <string name="main_normal_data_usage">Użycie danych mobilnych</string>
     <string name="megabyteShort">" MB"</string>
     <string name="megabyte_per_second">" MB/s"</string>
@@ -715,6 +720,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="om_not_finish_speedboost">Przyspieszenie jest konieczne</string>
     <string name="om_settings_lock_app">Blokada aplikacji w pamięci</string>
     <string name="om_settings_lock_app_manage">Zarządzanie pamięcią RAM</string>
+    <string name="om_settings_memory_clean_lock_screen">Wyczyść pamięć RAM, gdy urządzenie jest zablokowane</string>
     <string name="om_settings_speed_up_auto">Czyszczenie pamięci RAM</string>
     <string name="open_extreme_power_save_mode_title">Włącz Ultraoszczędzanie baterii</string>
     <string name="optimize_manage_title">Zarządzanie pamięcią</string>
@@ -940,7 +946,7 @@ Ultraoszczędzania baterii"</string>
     <string name="power_autorun_apps_empty">Brak aplikacji w autostarcie</string>
     <string name="power_center_5g_save_summary_text">Łączność 5G będzie używała mniej energii w różnych sytuacjach</string>
     <string name="power_center_auto_shutdown">Automatyczne wł./wył.</string>
-    <string name="power_center_battery_level">Stan naładowania: %s</string>
+    <string name="power_center_battery_level">Naładowane: %s</string>
     <string name="power_center_battery_software">System %s</string>
     <string name="power_center_batteryrank_all">Pełne zużycie baterii</string>
     <string name="power_center_charge_time">Naładowanie za %1$s</string>
@@ -1008,6 +1014,7 @@ Ultraoszczędzania baterii"</string>
     <string name="power_save_mode_auto_exit_summary_new">Wyłącz powyżej %s naładowania​</string>
     <string name="power_save_mode_close_notification_screenon_title">"Nie wybudzaj ekranu, gdy przyjdzie powiadomienie"</string>
     <string name="power_save_mode_close_warn_text">Oszczędzanie baterii ogranicza aktywność aplikacji w tle. Włączone oszczędzanie, gdy telefon jest naładowany, może powodować problemy. Włączyć Oszczędzanie przy naładowanym telefonie?</string>
+    <string name="power_save_ps_clean">Wyczyść pamięć RAM, gdy urządzenie jest zablokowane</string>
     <string name="power_save_ps_close_setting_5gnet">łączność z siecią 5G</string>
     <string name="power_save_ps_close_setting_dclickwakeup">wybudzanie/wygaszanie ekranu dwuklikiem</string>
     <string name="power_save_ps_close_setting_fingeraod">\"Pokaż ikonę odcisku palca, gdy ekran jest wyłączony\"</string>
@@ -1390,6 +1397,7 @@ Wycofać zgodę?"</string>
     <string name="summary_confirm_open_meeting_tips">Włączyć przypomnienie o spotkaniu?</string>
     <string name="summary_confirm_open_phone_check">Uruchomić skanowanie bezpieczeństwa?</string>
     <string name="summary_confirm_switch">Wyłączyć urządzenie?</string>
+    <string name="summary_consume_power">Odnotowano przegrzanie. Może to wpływać na żywotność baterii</string>
     <string name="summary_meeting_tips">Przypomnienie o spotkaniu</string>
     <string name="summary_miui_update">Aktualizacja dla %s</string>
     <string name="summary_mms">Blokuj niechciane wiadomości (np. reklamy)</string>

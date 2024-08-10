@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="alarm_alert_now">Alarm o %s</string>
+    <string name="alarm_ascending_mode_title">Stopniowo zwiększaj głośność</string>
     <string name="alarm_clock_more_setting">Edytuj</string>
     <string name="alarm_notify_snooze_label">Drzemka do %s</string>
     <string name="bedtime_setting_no_disturbance">Włączyć tryb Nie przeszkadzać podczas snu?</string>
@@ -42,12 +43,13 @@
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
-
     <string name="net_permission_cancel">"Nie zgadzam się"</string>
     <string name="net_permission_ok">OK</string>
     <string name="network_privacy"><Data>W celu uzyskiwania informacji o dniach wolnych, dostosowywania alarmów i dostarczania spersonalizowanych usług, aplikacja Zegar wymaga połączenia się z Internetem. Aby użyć Zegara, musisz także przeczytać i zaakceptować warunki &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%3$s\">Polityki prywatności&lt;/a> Xiaomi. Czy zgadzasz się na te warunki?</Data></string>
     <string name="network_privacy_global"><Data>W celu dostarczania spersonalizowanych usług, aplikacja Zegar wymaga połączenia się z Internetem. Aby użyć Zegara, musisz także przeczytać i zaakceptować warunki &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%3$s\">Polityki prywatności&lt;/a> Xiaomi. Czy zgadzasz się na te warunki?</Data></string>
+    <string name="never">Tylko raz</string>
     <string name="notification_permission_desc">"Jeśli nie nadasz uprawnień do powiadomień, nie będziesz w stanie wyłączyć alarmów, gdy one zadzwonią. Nadać uprawnienie?"</string>
+    <string name="oneshot_alarm">Usuń po wywołaniu</string>
     <string name="open_notification_permission_remind">Zezwól na powiadomienia, aby móc wyłączać alarmy</string>
     <string name="other_settings">Dodatkowe ustawienia</string>
     <string name="privacy_policy">Polityka prywatności</string>
@@ -70,4 +72,5 @@
     <string name="timer_continue_timer">Wznów</string>
     <string name="timer_is_paused">Minutnik jest wstrzymany</string>
     <string name="week_ringtone_recommend_desc">Alarm natury odtwarza różne dźwięki w zależności od dnia. Ustawić go jako domyślny alarm?</string>
+    <string name="worldcolock_timezone_local">Tak samo jak tutaj</string>
 </resources>

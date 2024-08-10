@@ -62,6 +62,10 @@ d.MM"</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">Wyłącz urządzenie i przejdź do trybu Recovery</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">Wykonaj reset do ustawień fabrycznych</string>
     <string name="qs_open_night_mode_alert_summary">"Niektóre ustawienia wyświetlania nie są kompatybilne z Ciemnym motywem. Zostaną one przywrócone po jego wyłączeniu."</string>
+    <string name="quick_settings_nfc_label">NFC</string>
+    <string name="quick_settings_night_state_change_message_off">Ciemny motyw jest wyłączony</string>
+    <string name="quick_settings_night_state_change_message_on">Ciemny motyw jest włączony</string>
+    <string name="quick_settings_nightmode_label">Ciemny motyw</string>
     <string name="quick_settings_task_manager_lable">Aktywne aplikacje</string>
     <string name="reboot_to_bootloader_title">Fastboot</string>
     <string name="reboot_to_recovery_title">Recovery</string>

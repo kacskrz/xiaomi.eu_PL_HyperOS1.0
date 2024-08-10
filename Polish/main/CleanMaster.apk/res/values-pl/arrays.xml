@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>Rozmiar</item>
+        <item>Nazwa</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Rozmiar</item>
+        <item>Nazwa</item>
+    </string-array>
+</resources>

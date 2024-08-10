@@ -22,8 +22,8 @@
     <string name="category_group">Kategorie aplikacji</string>
     <string name="default_folder_title_other_apps">Inne</string>
     <string name="default_screen_preview_title">Pulpit główny</string>
-    <string name="drag_icon_to_homescreen_guide">Przytrzymaj ikonę aplikacji, a następnie ją przeciągnij, aby dodać skrót do Ekranu głównego</string>
     <string name="double_tap_to_lock_title">Dwukrotnie dotknij, aby zablokować ekran</string>
+    <string name="drag_icon_to_homescreen_guide">Przytrzymaj ikonę aplikacji, a następnie ją przeciągnij, aby dodać skrót do Ekranu głównego</string>
     <string name="drawer_background">Tło</string>
     <string name="exit_overview_because_task_stack_changed">Zamknięto menu Ostatnich aplikacji ze względu na zmiany, które nastąpiły w tle</string>
     <string name="fold_pair_install_shortcut_long_click">Przytrzymaj, aby dodać do Ekranu głównego</string>
@@ -41,6 +41,7 @@ Zwiększone bezpieczeństwo."</string>
     <string name="launcher_icon_management">Zarządzaj ikonami na Ekranie głównym</string>
     <string name="launcher_pull_down_title">Przesunięcie w dół na Ekranie głównym</string>
     <string name="launcher_search">Pasek wyszukiwania</string>
+    <string name="launcher_search_bar_provider_title">Wyszukiwarka w pasku</string>
     <string name="launcher_search_bar_title">Pasek wyszukiwania</string>
     <string name="launcher_slide_up_search_provider_title">Aplikacja do wyszukiwania po pociągnięciu w górę</string>
     <string name="launcher_slide_up_title">Przesunięcie w górę na Ekranie głównym</string>
@@ -116,6 +117,7 @@ Zwiększone bezpieczeństwo."</string>
     <string name="out_of_space">Brak miejsca na tym pulpicie</string>
     <string name="privacy_thumbnail_blur_summary">Rozmaż podglądy w menu ostatnich aplikacji</string>
     <string name="recents_config_title">Ostatnie aplikacje</string>
+    <string name="recents_layout_style">Rozmieść elementy w Ostatnich aplikacjach</string>
     <string name="recents_smallwindow_drag_text">Przeciągnij tutaj, aby przypiąć</string>
     <string name="recents_title_app_manager">Aplikacje</string>
     <string name="recents_title_garbage_deepclean">Śmieci</string>

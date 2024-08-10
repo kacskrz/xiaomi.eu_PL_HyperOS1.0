@@ -235,6 +235,7 @@ Wycofać zgodę?"</string>
     <string name="platypus">Dziobak australijski</string>
     <string name="polar_bear">Niedźwiedź polarny</string>
     <string name="pomarine_jaeger">Wydrzyk tęposterny</string>
+    <string name="primary_color_region">Oryginalna</string>
     <string name="privacy_policy">Polityka prywatności</string>
     <string name="puffin">Maskonur zwyczajny</string>
     <string name="red_billed_hornbill">Dzioborożec czerwonodzioby</string>
@@ -312,7 +313,7 @@ Ponadto musi ona łączyć się z siecią i wymagać będzie następujących upr
     <string name="usage_new_home_week_unlock_equals_text">Tak samo jak w zeszłym tygodniu</string>
     <string name="usage_permisison_agree_desc_o">Aby dostarczać statystyki trybu Czas przed ekranem, aplikacja musi gromadzić następujące dane: ilość odblokowań urządzenia, lista Twoich aplikacji wraz z ilością czasu spędzaną w każdej z nich.</string>
     <string name="usage_permisison_agree_desc_p">Aby dostarczać statystyki trybu Czas przed ekranem, aplikacja musi gromadzić następujące dane: ilość odblokowań urządzenia, lista Twoich aplikacji wraz z ilością czasu spędzaną w każdej z nich, ilość włączeń ekranu oraz ustawienia Trybu skupienia.</string>
-    <string name="usage_permission_double_link" formatted="false"><Data>"Aplikacja wymaga połączenia z Internetem oraz gromadzenia wymaganych danych osobistych do poprawnego działania. Aby w pełni zrozumieć swoje prawa jako użytkownik, a także kanały, w jakich Xiaomi używa Twoich danych, przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności&lt;/a>."</Data></string>
+    <string formatted="false" name="usage_permission_double_link"><Data>"Aplikacja wymaga połączenia z Internetem oraz gromadzenia wymaganych danych osobistych do poprawnego działania. Aby w pełni zrozumieć swoje prawa jako użytkownik, a także kanały, w jakich Xiaomi używa Twoich danych, przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności&lt;/a>."</Data></string>
     <string name="usage_permission_main_desc">"Witaj w funkcji Czas przed ekranem!
 Aplikacja do poprawnego działania wymaga połączenia z Internetem oraz następujących uprawnień:"</string>
     <string name="usage_state_add_up_time">Łącznie</string>

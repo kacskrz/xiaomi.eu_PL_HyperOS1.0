@@ -14,6 +14,12 @@
     <string name="activity_main_update_time">Aktualizacja %1$s</string>
     <string name="activity_minute_rain_location_fail_msg">Lokalizacja nieudana. Ustawiono obecne miasto</string>
     <string name="add_city">Dodaj</string>
+    <string name="aqi_15_days_desc">15-dniowa prognoza IJP</string>
+    <string name="aqi_24_hours_desc">24-godzinna prognoza IJP</string>
+    <string name="aqi_48_hours_desc">48-godzinna prognoza IJP</string>
+    <string name="aqi_5_days_desc">5-dniowa prognoza IJP</string>
+    <string name="aqi_detail_24_hours">Najbliższa doba</string>
+    <string name="aqi_detail_5_days">5 dni</string>
     <string name="aqi_detail_co_unit">Jednostka: mg/m³</string>
     <string name="aqi_fifteen_dates_time_format">d.MM.</string>
     <string name="aqi_first_sub_desc_locate">Stacja: %1$s (%2$s w pobliżu)</string>

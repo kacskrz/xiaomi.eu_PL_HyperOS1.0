@@ -24,6 +24,7 @@
     <string name="allow_oaid_used_desc">"System nie będzie dostarczać wirtualnego ID aplikacjom. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
     <string name="alpha_build">" (alfa)"</string>
     <string name="aod_style_description">Dostosuj styl trybu Ekran zawsze włączony</string>
+    <string name="apn_settings">Punkty dostępu</string>
     <string name="app_permissions_summary">Aplikacje używające %1$s</string>
     <string name="app_usage_cycle">Cykl zużycia danych przez aplikację</string>
     <string name="auto_clean_description">"O tej funkcji:
@@ -104,6 +105,7 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
     <string name="control_center_style">Styl Centrum funkcji</string>
     <string name="control_panel_switch_side">Zamień panel powiadomień i Centrum funkcji stronami</string>
     <string name="credman_credentials">Dodatkowi dostawcy</string>
+    <string name="custom_color">Własne</string>
     <string name="dark_color_mode">Ciemny motyw</string>
     <string name="dark_color_summary_lcd">"Ustaw ciemną paletę kolorów dla interfejsu systemu oraz kompatybilnych aplikacji. Ten tryb może ci pomóc ograniczyć zmęczenie oczu podczas korzystania z telefonu w ciemności."</string>
     <string name="dark_color_summary_oled">Ustaw ciemną paletę kolorów dla interfejsu systemu oraz kompatybilnych aplikacji. Ten tryb ogranicza użycie baterii i pomaga ograniczyć zmęczenie oczu.</string>
@@ -116,7 +118,7 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
 Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje systemu w Ustawieniach > Opcje programisty > Optymalizacje systemu."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Ciemny motyw</string>
     <string name="dark_mode_settings">Opcje Ciemnego motywu</string>
-    <string name="dark_mode_time_settings">Włącz Ciemny motyw</string>
+    <string name="dark_mode_time_settings">Zaplanuj włączenie Ciemnego motywu</string>
     <string name="dark_ui_title">Ciemny motyw</string>
     <string name="dark_wallpaper_mode">Dostosuj tapetę do Ciemnego motywu</string>
     <string name="data_usage_restrict_background">Jeśli ograniczysz komórkową transmisję danych w tle, niektóre aplikacje i usługi będą działać tylko przy połączeniu z Wi‑Fi.</string>
@@ -150,6 +152,7 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="dialog_speaker_auto_clean_content_new">"Za chwilę odtworzysz dźwięk, który wyczyści głośnik. Dla lepszego efektu zwiększ głośność do maksimum."</string>
     <string name="dialog_wifi_context">Aby skonfigurować swoje urządzenie, musisz połączyć się z Internetem. Dopóki nie połączysz się z siecią Wi-Fi, do tego celu mogą zostać wykorzystane dane mobilne. Może to spowodować naliczenie opłat przez operatora. Użyć danych mobilnych mimo to?</string>
     <string name="display_advanced_mode_title">Zaawansowane ustawienia</string>
+    <string name="display_notification_icon_5">%d ikon</string>
     <string name="display_settings_new">Ekran i jasność</string>
     <string name="diy_suppression_title">Własny</string>
     <string name="dndm_alarm_content_sms">SMS</string>
@@ -225,6 +228,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="hover_mode_guide_text">Gdy na wewnętrznym ekranie trwa rozmowa lub oglądasz filmy, możesz użyć Trybu kieszonkowego w dolnej części wyświetlacza.</string>
     <string name="hover_mode_name">Tryb kieszonkowy</string>
     <string name="imitate_real_keyboard_summary">Wygodna, gdy urządzenie leży na płaskiej przestrzeni</string>
+    <string name="infinity_display_title">Nawigacja systemowa</string>
     <string name="input_method_quick_paste_summary">Zobacz skopiowane elementy, dotykając ikony schowka</string>
     <string name="input_method_quick_url_summary">Otwórz skopiowane linki, dotykając ikony schowka</string>
     <string name="interconnection">Interakcja urządzeń Xiaomi</string>
@@ -332,6 +336,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="mqs_privacy_dialog_content">Wygląda na to, że ostatnio na Twoim urządzeniu pojawiły się błędy. Możesz wysłać logi, które być może pomogą Xiaomi zlokalizować i naprawić ten problem. Mogą one zawierać Twoje dane, takie jak np. lokalizacja. Czy chcesz wysłać logi?</string>
     <string name="mtp_solution_button_ok">Rozwiąż problem</string>
     <string name="my_device">O telefonie</string>
+    <string name="my_device_camera_params">Aparat</string>
     <string name="navigation_guide_app_quick_switch_summary">Przeciągnij pasek w lewo lub prawo lub pociągnij w górę od dołu ekranu</string>
     <string name="navigation_guide_app_title">"Wykonaj akcje aplikacji"</string>
     <string name="navigation_guide_gesture_line_dialog_summary">Po ukryciu paska do przełączania się pomiędzy aplikacjami zostanie użyty nowy gest. Czy chcesz się go teraz nauczyć?</string>
@@ -478,12 +483,14 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="structure_face_unlock_not_same_person">"Musisz dokończyć kroki osobiście. Nie zamieniaj się z inną osobą."</string>
     <string name="summary_quick_control_all_devices">Pokaż kontrolki dla telewizorów, głośników i samochodów w pobliżu w Centrum funkcji</string>
     <string name="switch_power_sound">Odtwarzaj dźwięk po podłączeniu ładowarki</string>
+    <string name="sync_wifi_only">Synchronizuj tylko przez Wi-Fi</string>
     <string name="system_app_settings">Systemowe</string>
     <string name="system_shortcut_wake">Wybudź skrótami przycisków</string>
     <string name="talkback_ocr_summary">Rozpoznawaj tekst na obrazkach i czytaj go na głos</string>
     <string name="tap_to_sign_up">Dotknij, aby się zarejestrować</string>
     <string name="tether_limit_value_custom">Własny</string>
     <string name="tether_use_wifi6_title">Wsparcie standardu Wi-Fi 6</string>
+    <string name="title_device_control">Kontrolki urządzeń smart home</string>
     <string name="title_layout_current2_weight">Rozmiar i grubość czcionki</string>
     <string name="touch_sensitive_turn_off_summary">Wyłączyć także funkcję przypadkowego użycia telefonu w kieszeni?</string>
     <string name="under_keyguard">Przy wył. ekranie</string>
@@ -540,4 +547,5 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="wifi_region_summary">Włącz Wi-Fi ponownie, aby zastosować wybrany przez siebie region.</string>
     <string name="wifi_region_title">Region Wi-Fi</string>
     <string name="wlan_switch_tips_message">W trakcie przełączania się między dodatkową i główną siecią Wi-Fi urządzenie tymczasowo rozłączy się z dodatkową siecią. Przełączyć?</string>
+    <string name="xiaomi_transfer">Xiaomi Share</string>
 </resources>

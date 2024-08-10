@@ -40,6 +40,8 @@
     <string name="close_twice_auth_note">"Informacja: Po utworzeniu nowego pytania zabezpieczającego i potwierdzeniu daty urodzenia uwierzytelnianie dwuskładnikowe Twojego konta Apple ID zostanie wyłączone. Jeśli nie widzisz opcji wyłączenia uwierzytelniania dwuskładnikowego na stronie ustawień konta Apple ID, nie możesz go wyłączyć."</string>
     <string name="close_twice_auth_operation">"URL:
 Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
+    <string name="close_twice_auth_step_1">1. Otwórz przeglądarkę na komputerze i przejdź na stronę appleid.apple.com.</string>
+    <string name="close_twice_auth_step_2">2. Zaloguj się na konto Apple ID, na którym chcesz wyłączyć uwierzytelnianie dwupoziomowe, przejdź do sekcji \"Bezpieczeństwo\" i wybierz \"Edytuj\".</string>
     <string name="close_twice_auth_step_3">3. Kliknij przycisk \"Wyłącz uwierzytelnianie dwupoziomowe\". Kliknij ponownie, aby potwierdzić.</string>
     <string name="close_twice_auth_steps">Aby wyłączyć uwierzytelnianie dwuskładnikowe Apple ID, postępuj zgodnie z wskazówkami poniżej:</string>
     <string name="close_twice_auth_tutor">Wyłącz uwierzytelnianie dwuskładnikowe Apple ID</string>
@@ -60,7 +62,7 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
 • Dostęp do listy zainstalowanych aplikacji"</string>
     <string name="dialog_request_all_permission_title">Wymagane uprawnienia</string>
     <string name="dialog_request_permission_message">"Witaj w Przenoszeniu danych! Możesz użyć tej aplikacji do przenoszenia danych ze swojego starego urządzenia na nowe. Dane będą przenoszone wyłącznie pomiędzy tymi urządzeniami i nie będą wysyłane na serwery Xiaomi."</string>
-    <string name="dialog_request_permission_message_link" formatted="false"><Data>"Zezwól aplikacji na łączenie się z Internetem i nadaj niezbędne uprawnienia wymienione powyżej. Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności&lt;/a> Xiaomi."</Data></string>
+    <string formatted="false" name="dialog_request_permission_message_link"><Data>"Zezwól aplikacji na łączenie się z Internetem i nadaj niezbędne uprawnienia wymienione powyżej. Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności&lt;/a> Xiaomi."</Data></string>
     <string name="dialog_request_permission_message_provision_link">Zezwól aplikacji na łączenie się z Internetem i nadaj niezbędne uprawnienia wymienione powyżej. Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki %1$s oraz %2$s.</string>
     <string name="dialog_wechat_data_transfer_fail_message">"Nie udało się przenieść danych aplikacji oraz historii czatu WeChat ze względu na ograniczenia aplikacji. Spróbuj użyć wbudowanej w aplikację funkcji kopii zapasowej.
 Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate chats."</string>
@@ -227,7 +229,6 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="restore_data_to_device_content">"Twoje elementy były zsynchronizowane z Chmurą Xiaomi.
 Zaloguj się na swoje konto Xiaomi, aby je przywrócić."</string>
     <string name="revoke_confirm_dialog_statement">Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności Przenoszenia danych. Informacje o Tobie, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ Przenoszenie danych dostarcza swoje usługi w oparciu o niezbędne dane dot. Ciebie, wycofanie przez Ciebie zgody zostanie potraktowane jako odmowa akceptacji usług tej aplikacji.</string>
-
     <string name="save_finish_with_failing_items">"Przenoszenie zostało przerwane.
 Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."</string>
     <string name="scanner_quit_alert_message">"Jeśli wyjdziesz teraz z Przenoszenia danych, będziesz musiał ponownie ustanowić połączenie między urządzeniami. Wyjść mimo to?"</string>
@@ -244,7 +245,6 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
     <string name="set_new_device_title">Konfigurowanie nowego urządzenia…</string>
     <string name="set_new_device_wlan">Skonfiguruj Wi-Fi</string>
     <string name="settings_sms">Ustawienia SMS</string>
-
     <string name="skip_transfer">Pomiń</string>
     <string name="soft_ap_create_failed_apple">"Nie udało się wygenerować kodu QR"</string>
     <string name="ssid_name">SSID/nazwa sieci Wi-Fi</string>

@@ -32,7 +32,6 @@
 Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="micloud_sync_result_wifi_only_china">Ten element jest za duży. Zsynchronizuj go, gdy będziesz połączony z siecią Wi-Fi.</string>
     <string name="micloud_upgrade_storage">Ulepsz plan Chmury</string>
-
     <string name="micloud_wipe_data_confirm_title">Elementy z niektórych aplikacji są zsynchronizowane z Chmurą Xiaomi. Możesz usunąć je z tego urządzenia, jeśli chcesz - pozostaną one w Chmurze.</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
@@ -60,6 +59,7 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
     <string name="soundrecorder_sync_only_in_wifi_summary_china">Synchronizuj nagrania tylko w sieci Wi-Fi</string>
     <string name="storage_upgrade_card_title">Ulepsz</string>
     <string name="sub_sync_item_sms_summary">Synchronizuj wiadomości zawierające obrazy i dźwięki tylko przy połączeniu z Wi-Fi</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Synchronizuj MMS-y tylko przez Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Synchronizuj SMS-y tylko przez Wi-Fi</string>
     <string name="trying_to_connect_to_network">Łączenie z siecią…</string>
     <string name="wipe_data_dialog_button_check_sync">Zsynchronizować?</string>

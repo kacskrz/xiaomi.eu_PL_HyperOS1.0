@@ -42,13 +42,19 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="annual_pets_title">Łapa w łapę</string>
     <string name="annual_year_title">Ten rok</string>
     <string name="annula_sports_title">Do przodu</string>
+    <string name="assistant_page_label">Wspomnienia</string>
     <string name="baby_album">Dzieci</string>
     <string name="baby_birthday_title">Wszystkiego najlepszego!</string>
     <string name="baby_nick_name">Zdrobnienie</string>
     <string name="backup_battery_low_desc">Możesz nadal zdecydować, czy kontynuować tworzenie kopii elementów</string>
     <string name="backup_disable_message">Galeria musi wyczyścić swoją pamięć podręczną, ponieważ wyłączyłeś synchronizację z chmurą.</string>
+    <string name="backup_google_name">Zdjęcia Google</string>
     <string name="backup_only_in_wifi">Tylko z Wi-Fi</string>
     <string name="begin_share">Ukończono tworzenie albumu dziecka. \"%s\".</string>
+    <string name="btn_cancel">Anuluj</string>
+    <string name="btn_cancel_send">Anuluj ten transfer</string>
+    <string name="btn_exit_send">Wyjdź</string>
+    <string name="can_not_transfer_when_screening">Nie można dokonywać projekcji podczas przesyłania</string>
     <string name="card_delete_description">"To wspomnienie nie pojawi się ponownie. Usunąć je mimo to?"</string>
     <string name="card_delete_negative_text">Anuluj</string>
     <string name="card_delete_positive_text">Usuń</string>
@@ -82,6 +88,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="chinese_night_of_sevens">Festiwal Qixi %1$s</string>
     <string name="chinese_night_of_sevens_title">Festiwal Qixi</string>
     <string name="cleaner_scan_description">Optymalizacja elementów zwiększa ilość miejsca na urządzeniu</string>
+    <string name="cleaner_screen_shot_description">Usuń zrzuty ekranu, których już nie potrzebujesz</string>
     <string name="cleaner_size">Wyczyść śmieci (%s)</string>
     <string name="cleaner_space_detail_description">Zwolnij miejsce na urządzeniu przez optymalizację zdjęć</string>
     <string name="clear_dup_medias">Usuń duplikaty</string>
@@ -89,6 +96,8 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="clear_dup_tip">Usuwanie duplikatów</string>
     <string name="cloud_action_upgrade_free">Ulepsz za darmo</string>
     <string name="cloud_full_space_tip_message">Ulepsz swój plan Chmury, aby móc zsynchronizować z nią wszystkie zdjęcia i filmy.</string>
+    <string name="confirm_cancel_task_files">Anulować przesył plików do %1$s?</string>
+    <string name="confirm_cancel_task_images">Anulować przesył obrazów do %1$s?</string>
     <string name="confirm_merge_face_albums">" "<Data> Scalić ten album z %s? </Data>" "</string>
     <string name="cta_agreement_declare"><Data>Aby w pełni zrozumieć Twoje prawa jako użytkownika, a także metody, w ramach których Xiaomi używa Twoich danych, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> przed skorzystaniem z tej aplikacji.</Data></string>
     <string name="cta_network_declare">Aby synchronizować zdjęcia i filmy z Chmurą Xiaomi, aplikacja wymaga połączenia z Internetem.</string>
@@ -100,20 +109,35 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="delete_media_dialog_comment">*Elementy zostaną przeniesione do \"Usuniętych elementów\". Możesz je stamtąd przywrócić lub trwale usunąć.</string>
     <string name="delete_owner_and_other_shared_images_format">Usuniętych: %1$d. Pozostało: %2$d.</string>
     <string name="delete_risk_alert_message">"Chcesz usunąć dużą liczbę elementów. Jeśli przejdziesz dalej, zostaną one przeniesione do \"Usuniętych elementów\". Usunąć te elementy?"</string>
+    <string name="device_list_all">Wszystkie urządzenia</string>
+    <string name="device_list_more">Więcej</string>
+    <string name="device_offline">Inne urządzenie jest offline. Zacznij od nowa.</string>
+    <string name="device_status_failed">Nie udało się wysłać</string>
+    <string name="device_status_sending">Wysyłanie…</string>
+    <string name="device_status_success">Pomyślnie wysłano</string>
+    <string name="device_status_waiting">Oczekiwanie…</string>
+    <string name="device_type_pc">Komputer</string>
     <string name="double_tap_for_hr_preview_108m">Dotknij dwa razy, aby pokazać podgląd w 108 Mpx</string>
     <string name="double_tap_for_hr_preview_200m">Dotknij ponownie dwa razy, aby włączyć podgląd 200 Mpx</string>
     <string name="download_library_dialog_message">Galeria wymaga szablonów, aby móc tworzyć wspomnienia na tym urządzeniu. Do ich pobrania zalecane jest połączenie z siecią Wi-Fi.</string>
+    <string name="empty_title_no_cards">Wspomnienia</string>
+    <string name="enable_midrop">Włącz</string>
     <string name="enter_choice_mode">Uruchomiono dialog Wyślij</string>
     <string name="error_create_share_album_fail_default">Nie udało się utworzyć ze względu na nieznany błąd</string>
     <string name="exit_choice_mode">Opuszczono dialog Wyślij</string>
     <string name="ext_sdcard_first_entrance_request_failed_text">Elementy będą zapisywane w pamięci wewnętrznej. Możesz to zmienić w Ustawienia > Pamięć > Ustawienia pamięci.</string>
     <string name="ext_sdcard_guide_first_page_button_text">Dalej</string>
     <string name="father_day">Dzień Matki</string>
+    <string name="file_cannot_print">"Nie można wydrukować tego elementu."</string>
+    <string name="file_cannot_screen_throw">"Nie można dokonywać projekcji tego elementu."</string>
+    <string name="file_sending">Przesyłanie plików…</string>
     <string name="first_delete_media_for_cloud">Wybrane elementy zostaną usunięte z Chmury i wszystkich zsynchronizowanych urządzeń, a następnie przeniesione do Ostatnio usuniętych elementów. Jeśli nie posiadasz planu Chmury, zostaną one trwale usunięte po %d dniach. Usunąć?</string>
     <string name="foods_people_travel_title">Jedzenie w drodze przez %2$s z %1$s</string>
     <string name="foods_travel_title_one">Smak %1$s</string>
     <string name="foods_travel_title_three">"Smakołyki %1$s"</string>
     <string name="foods_travel_title_two">Jedzenie %1$s</string>
+    <string name="functions_are_being_developed">Ta funkcja będzie dostępna wkrótce. Bądź czujny!</string>
+    <string name="generate_story_title">Wspomnienia</string>
     <string name="get_user_info_edit_text_hint">Telefon/e-mail/konto Xiaomi</string>
     <string name="global_cloud_action_upgrade_onedrive">Ulepsz OneDrive</string>
     <string name="global_cloud_full_space_tip_message">Ulepsz swój plan chmury, aby móc kopiować do niej wszystkie zdjęcia i filmy.</string>
@@ -124,7 +148,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="hdr_show_hint">Dostosuj wyświetlanie, aby pokazać więcej szczegółów w cieniach i podświetleniach w elementach o wysokim zakresie dynamicznym</string>
     <string name="hdr_switch_show_title">Wyświetlanie Pro HDR</string>
     <string name="help">"Nie możesz znaleźć urządzeń?"</string>
-    <string name="help_content">"Jeśli nie możesz znaleźć urządzenia, którego potrzebujesz, zapytaj drugą osobę, czy włączyła ona funkcję Mi Share."</string>
+    <string name="help_content">"Jeśli nie możesz znaleźć urządzenia, którego potrzebujesz, zapytaj drugą osobę, czy włączyła ona funkcję Xiaomi Share."</string>
     <string name="hide_nearby_photos">Ukryj zdjęcia i filmy zrobione blisko siebie</string>
     <string name="holiday_travel_title_one">Wakacje %1$s</string>
     <string name="holiday_travel_title_two">Powrót do pracy</string>
@@ -215,6 +239,7 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="notice_click_lock_orientation">Dotknij, aby zablokować orientację</string>
     <string name="operation_move_to_other_albums">Przenieś do Innych albumów</string>
     <string name="operation_remove_from_other_albums">Przenieś z Innych albumów</string>
+    <string name="operation_remove_secret">Przenieś</string>
     <string name="operation_set_slide_wallpaper">Ustaw jako tapetę pokazu slajdów</string>
     <string name="operation_set_video_wallpaper">Ustaw jako tapetę wideo</string>
     <string name="pc_device_model_name">Komputer</string>
@@ -248,6 +273,8 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="scope_storage_dialog_description">Uprawnienia Galerii zostały zaktualizowane. Aby zobaczyć zawartość tego katalogu, zezwól Galerii na dostęp do niego.</string>
     <string name="sea_title">Fale</string>
     <string name="search_feedback_user_policy">Politykę prywatności Algorytmu programu SI Galerii</string>
+    <string name="send_files_by">Udostępnij przez</string>
+    <string name="send_files_to">Wyślij do</string>
     <string name="send_one_apk_dialog_desc">%2$d plik APK \"%3$s\" z %1$s</string>
     <string name="send_one_apk_dialog_desc_received">Otrzymano %2$d plik APK \"%3$s\" z %1$s</string>
     <string name="send_one_apk_dialog_desc_receiving">Otrzymywanie %2$d pliku APK \"%3$s\" z %1$s</string>
@@ -284,9 +311,19 @@ Podłącz ładowarkę i wyłącz ekran, aby je wygenerować."</string>
     <string name="stop_use_secret_msg">"Twoje zdjęcia i filmy nie są już synchronizowane z Chmurą Xiaomi. Nie będzie można również korzystać z prywatnego albumu, gdyż opiera się on na szyfrowaniu w chmurze.
 Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze strony i.mi.com. Później elementy, które nadal znajdują się w Chmurze Xiaomi, zostaną permanentnie usunięte.
 %2$s"</string>
+    <string name="story_option_menu_delete">Usuń wspomnienie</string>
+    <string name="story_option_menu_rename">Zmień nazwę</string>
+    <string name="story_remove_confirm_positive">Usuń</string>
+    <string name="story_remove_confirm_title">Usuwanie zdjęć</string>
     <string name="story_rename_invalid_char">"Nie można użyć \"%s\" w nazwie wspomnienia. Użyj liter i cyfr."</string>
     <string name="thanksgiving_day">Święto Dziękczynienia</string>
+    <string name="throwing_print">Drukuj</string>
+    <string name="throwing_screen">Projekcja</string>
+    <string name="thumbnail_build_error">Nie udało się pobrać miniatury</string>
+    <string name="thumbnail_error_log_cleared">Pomyślnie wyczyszczono</string>
+    <string name="tip_file_path">Ścieżka:</string>
     <string name="tip_not_download">Plik będzie pobierany podczas odtwarzania</string>
+    <string name="tips_prompt_enable_midrop">Xiaomi Share</string>
     <string name="toast_download_with_metered_network_msg">"Wygląda na to, że urządzenie nie jest połączone z siecią Wi-Fi. Pobrać elementy za pomocą danych komórkowych?"</string>
     <string name="toast_orientation_locked">Pomyślnie zablokowano orientację</string>
     <string name="toast_orientation_unlock">Odblokowano orientację ekranu</string>
@@ -295,8 +332,12 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
     <string name="transfer_dialog_migrate_complete_msg">"Twoje zdjęcia i filmy zostały przeniesione do Zdjęć Google. Po dokonaniu tej czynności elementy, które nie zostały zsynchronizowane z tym urządzeniem, nie będą wyświetlane. Możesz je zobaczyć spośród swoich kopii zapasowych."</string>
     <string name="transfer_status_banner_msg_no_space">Zatrzymano przesyłanie. Za mało miejsce w pamięci konta Google. Ulepsz swoją przestrzeń dyskową, aby kontynuować.</string>
     <string name="transfer_status_banner_msg_not_started">Synchronizowanie z chmurą nie jest już dostępne. Prześlij lub pobierz swoje elementy.</string>
+    <string name="unrecognized_manufacture">Nieznany</string>
+    <string name="unrecognized_model">Nieznane urządzenie</string>
+    <string name="user_agreement4">Polityka prywatności</string>
     <string name="user_notice_identify_summary_format">"Korzystając z aplikacji, zgadzasz się na &lt;a href=\"%1$s\">\"Warunki użytkowania\"&lt;/a> i &lt;a href=\"%2$s\">\"Politykę prywatności\"&lt;/a> Xiaomi."</string>
     <string name="video_post_download_sdk_without_wifi_msg">"Wygląda na to, że urządzenie nie jest połączone z siecią Wi-Fi. Pobrać wtyczkę za pomocą danych mobilnych?"</string>
     <string name="video_post_download_sdk_without_wifi_msg_china">"Wygląda na to, że urządzenie nie jest połączone z siecią Wi-Fi. Pobrać wtyczkę za pomocą danych mobilnych?"</string>
+    <string name="vlog_mi_clip_cn">Edytor wideo</string>
     <string name="watermark_summary">Rozpoznawaj zdjęcia dokumentów przechowywane na tym urządzeniu i wyświetlaj komunikaty dot. dodania specjalnego znaku wodnego</string>
 </resources>

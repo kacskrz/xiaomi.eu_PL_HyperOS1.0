@@ -78,6 +78,7 @@ Spróbuj ponownie."</string>
     <string name="leave_mms_tips_context_email">Czy chcesz wyjść z aplikacji SMS i otworzyć klienta poczty e-mail?</string>
     <string name="leave_mms_tips_context_map">Czy chcesz wyjść z aplikacji SMS i otworzyć mapę?</string>
     <string name="menu_correct_as_ad">Przenieś do reklam</string>
+    <string name="menu_lock">Ulubione</string>
     <string name="menu_locus_map">Mapa podróży</string>
     <string name="menu_report">Opinia</string>
     <string name="menu_traffic_destination">Cel</string>
@@ -192,8 +193,8 @@ Spróbuj ponownie."</string>
     <string name="pref_title_vcard">Wizytówka vCard</string>
     <string name="privacy_dialog_error_service">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="privacy_dialog_text_policy_link">Polityka prywatności</string>
-    <string name="privacy_dialog_tips_revoke" formatted="false" >"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności %s. Informacje o Tobie, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ aplikacja %s dostarcza swoje usługi w oparciu o niezbędne dane dot. Ciebie, wycofanie Twojej zgody zostanie potraktowane jako odmowa akceptacji usług %s. Wycofać zgodę?"</string>
-    <string name="privacy_dialog_tips_update" formatted="false">"Zaktualizowano Politykę prywatności %s:
+    <string formatted="false" name="privacy_dialog_tips_revoke">"Jeśli będziesz kontynuować, wycofasz swoją zgodę na warunki Polityki prywatności %s. Informacje o Tobie, które zostały już zgromadzone i przetworzone, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ aplikacja %s dostarcza swoje usługi w oparciu o niezbędne dane dot. Ciebie, wycofanie Twojej zgody zostanie potraktowane jako odmowa akceptacji usług %s. Wycofać zgodę?"</string>
+    <string formatted="false" name="privacy_dialog_tips_update">"Zaktualizowano Politykę prywatności %s:
 %s
 Zanim przejdziesz dalej, przeczytaj i zaakceptuj jej warunki."</string>
     <string name="privacy_dialog_title_update">Zaktualizowano Politykę prywatności</string>
@@ -241,7 +242,7 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj jej warunki."</string>
     <string name="storage_unavailable">Brak miejsca</string>
     <string name="sub_sim_not_support_mms">"Nie można wysłać MMS-a za pomocą drugiej karty SIM"</string>
     <string name="suspected_fraud_tip">Możliwe oszustwo</string>
-    <string name="system_permission_declare_double_link" formatted="false">Przed użyciem tej funkcji przeczytaj i zaakceptuj %1s oraz %2s.</string>
+    <string formatted="false" name="system_permission_declare_double_link">Przed użyciem tej funkcji przeczytaj i zaakceptuj %1s oraz %2s.</string>
     <string name="system_permission_declare_exit">Wyjdź</string>
     <string name="system_permission_declare_mi_message">Witaj w Wiadomościach Mi!</string>
     <string name="system_permission_declare_no_say_no">"Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi regulacjami i politykami prywatności.

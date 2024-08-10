@@ -84,6 +84,8 @@ Uwaga: Starsze telewizory mogą nie wspierać przesyłania ekranu pomiędzy ró�
 %2$d. Jeśli używasz telewizorów, przystawek lub projektorów innych marek, połącz telefon i zewnętrzny monitor z tą samą siecią Wi-Fi.
 Jeśli urządzenia nie mogą być połączone z tą samą siecią Wi-Fi, włącz funkcję Miracast na zewnętrznym monitorze (nazwa funkcji może się różnić w zależności od modelu)."</string>
     <string name="help_page_text_09">"Dotknij przełącznika \"Wyświetl bezprzewodowo\" w Panelu powiadomień. Włącz Wi-Fi i Bluetooth, aby zapewnić stabilniejsze połączenie."</string>
+    <string name="help_page_text_09_new_1">Włącz projekcję w Centrum funkcji na swoim urządzeniu, a następnie wyszukaj monitor zewnętrzny.</string>
+    <string name="help_page_text_13_summary_1">Masz problem z połączeniem?</string>
     <string name="help_page_text_14">"%1$d. Jeśli chcesz użyć urządzenia Xiaomi, ale nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
 Połącz swoje urządzenie i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego urządzenia. Jeśli nie ma dostępnych żadnych sieci Wi-Fi w pobliżu bądź nie możesz połączyć obydwu urządzeń z tą samą siecią, sprawdź, czy funkcje wyświetlania bezprzewodowego na zewnętrznym monitorze są aktualne, włącz Bluetooth na obydwóch urządzeniach i włącz funkcję Miracast na swoim telewizorze.
 %2$d. Jeśli przesyłasz ekran z urządzenia Xiaomi pierwszy raz, musisz przejść weryfikację.

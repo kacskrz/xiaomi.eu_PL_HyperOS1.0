@@ -22,6 +22,7 @@
     <string name="lack_perm_msg">Do poprawnego działania aplikacja Pliki wymaga następujących uprawnień: &lt;b>%s&lt;/b></string>
     <string name="launcher_icon_remove_description_content">"Aplikacja Pliki jest aplikacją systemową. Po usunięciu jej skrótu z Ekranu głównego zarządzanie plikami na urządzeniu będzie utrudnione."</string>
     <string name="launcher_icon_remove_description_title">Usunąć aplikację \"Pliki\" z Ekranu głównego?</string>
+    <string name="menu_item_cleanup">Sprzątacz</string>
     <string name="message_request_manage_external_storage_perm">Aby móc zarządzać plikami znajdującymi się na urządzeniu, aplikacja Pliki wymaga uprawnień dostępu do plików. Możesz je nadać w Ustawieniach.</string>
     <string name="midrive_hide_recent_cloud_files">"Nie wyświetlaj plików z Mi Drive'a w menu Ostatnio używane"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
@@ -50,13 +51,14 @@
     <string name="privacy_policy">Polityka prywatności</string>
     <string name="privacy_policy_renew">Zaktualizowano Politykę prywatności</string>
     <string name="privacy_policy_renew_content"><Data>"&lt;a href=\"%1$s\">Polityka prywatności&lt;/a> aplikacji Pliki została zaktualizowana. Zanim przejdziesz dalej, przeczytaj ją, aby zrozumieć swoje prawa jako użytkownika, a także metody, w ramach których Xiaomi wykorzystuje Twoje dane, a następnie wyraź zgodę na jej warunki."</Data></string>
-    <string name="privacy_recall_alert_description" formatted="false">"Aby wycofać zgodę, usuń z Mi Drive wszystkie pliki. Oto, jak to zrobić:&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. Na stronie głównej Mi Drive przytrzymaj jakiś element, aby pojawił się przycisk \"Zaznacz wszystko\". Za jego pomocą możesz wybrać maksymalnie 200 plików na raz i je usunąć.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Po wykonaniu tej czynności wyczyść ostatnio usunięte elementy."</string>
+    <string formatted="false" name="privacy_recall_alert_description">"Aby wycofać zgodę, usuń z Mi Drive wszystkie pliki. Oto, jak to zrobić:&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. Na stronie głównej Mi Drive przytrzymaj jakiś element, aby pojawił się przycisk \"Zaznacz wszystko\". Za jego pomocą możesz wybrać maksymalnie 200 plików na raz i je usunąć.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Po wykonaniu tej czynności wyczyść ostatnio usunięte elementy."</string>
     <string name="privacy_recall_confirm_description">"Jeśli przejdziesz dalej, wycofasz zgodę na warunki Polityki prywatności aplikacji Pliki. Xiaomi zaprzestanie gromadzenia Twoich danych, a informacje już zgromadzone i przechowywane zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, o ile nie stwierdzono inaczej."</string>
     <string name="private_folder_update_msg">Aplikacja Pliki wprowadza dodatkowe zabezpieczenie: od teraz możesz zaszyfrować prywatne pliki!</string>
     <string name="qq_msg">"Ze względu na ograniczenia Androida 11, aplikacja Pliki nie może uzyskać dostępu do dokumentów QQ."</string>
-    <string name="recent_hide_cloud_drive_files">Nie pokazuj plików Mi Drive w menu Ostatnio używane</string>
+    <string name="recent_hide_cloud_drive_files">Nie pokazuj plików Mi Drive w menu Ostatnie</string>
     <string name="request_document_permission">Aby zarządzać plikami na karcie SD, nadaj Plikom wymagane uprawnienia.</string>
     <string name="reverse_order">Malejąco</string>
+    <string name="search_error_hint">Wprowadź tekst.</string>
     <string name="select_volume">Wybierz nośnik</string>
     <string name="sort_mode">Sortowanie</string>
     <string name="sort_type">Filtr</string>

@@ -16,7 +16,11 @@
     <string name="description_call_log_incoming_forwarding_call">Połączenie przychodzące (przekierowane)</string>
     <string name="description_image_button_sim1_named_dial">Połącz, używając karty SIM 1 %s</string>
     <string name="description_image_button_sim2_named_dial">Połącz, używając karty SIM 2 %s</string>
+    <string name="gallery">Galerii</string>
+    <string name="group_edit_field_hint_text">Grupa</string>
     <string name="hint_distance">Aby mieć pewność, że oba urządzenia pozostaną połączone, nie oddalaj ich od siebie w trakcie procesu importowania.</string>
+    <string name="menu_not_redirect_calls_to_vm">Przekieruj na pocztę gł.</string>
+    <string name="menu_redirect_calls_to_vm">Nie przekierowuj na pocztę gł.</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
     <string name="month_april">kwietnia</string>
@@ -55,9 +59,11 @@
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
+    <string name="pref_key_rebuild_t9_index_title">Przebuduj indeks T9</string>
     <string name="preference_privacy_policy_title">Polityka prywatności</string>
     <string name="privacy_settings_privacy_policy">Polityka prywatności</string>
     <string name="privacy_settings_view_policy">Wyświetl Politykę prywatności</string>
+    <string name="recent_contacts_label">Połączenia</string>
     <string name="saf_permission_dialog_content">"Domyślnie Android nie zezwala aplikacji Kontakty i Telefon na dostęp do nagrań połączeń. Zezwól tym aplikacjom na dostęp do tych nagrań, aby móc wyświetlić ich listę."</string>
     <string name="share_via">Udostępnij kontakt przez</string>
     <string name="t9_search_guide_pinyin_title2">Wpisz \"2\" oraz \"3\", aby wyszukać Aleksander Fredro</string>

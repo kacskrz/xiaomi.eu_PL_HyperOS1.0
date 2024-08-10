@@ -23,11 +23,14 @@
     <string name="filp_auto_answer_call_title">Rozłóż, aby odebrać połączenie</string>
     <string name="filp_auto_hangup_call_summary">Działa tylko z podłączonymi słuchawkami Bluetooth bądź przewodowymi</string>
     <string name="filp_auto_hangup_call_title">Złóż, aby zakończyć połączenie</string>
+    <string name="fiveg_sa_switch_title">Tryb 5G SA</string>
     <string name="flash_when_ring_summary">Powiadamiaj diodą LED aparatu o połączeniu</string>
     <string name="fold_answer_pref_summary">Złóż urządzenie, aby automatycznie rozpocząć przychodzące połączenie</string>
     <string name="fold_answer_pref_title">Złóż, aby rozpocząć połączenie</string>
     <string name="forbidden_fakecell">"Nie łącz się z fałszywymi stacjami bazowymi"</string>
     <string name="forbidden_fakecell_summary">Zapobiegaj łączeniu się urządzenia z fałszywymi stacjami bazowymi</string>
+    <string name="handon_ringer_summary">Zmniejsz głośność dzwonka dla połączeń przychodzących po podniesieniu telefonu</string>
+    <string name="missed_call_notify_times_summary">Przypomnienia są oddzielone %d-minutowymi przerwami</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
     <string name="month_april_shortest">K</string>
@@ -64,6 +67,7 @@
     <string name="month_september">września</string>
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
+    <string name="network_settings_title">Karty SIM i sieci mobilne</string>
     <string name="opened_dual_4g_confirm_prompt">Wygląda na to, że karta SIM wspiera tylko LTE. Podwójne LTE zostało włączone w systemie automatycznie.</string>
     <string name="path_answer_state_setting_title">Aplikacje/Inne ustawienia/Systemowe/Telefon/Połączenia przychodzące</string>
     <string name="path_antispam_setting">Aplikacje/Inne ustawienia/Systemowe/Telefon/Blokowanie numerów</string>
@@ -168,6 +172,8 @@ Anulować usługi?"</string>
     <string name="satellite_use_phone_title">Jak wykonywać połączenia przez satelitę?</string>
     <string name="satellite_use_title">Dlaczego korzystać z połączenia satelitarnego?</string>
     <string name="satellite_user_reminder">Komunikacja z satelitą Tiantong wymaga dostępu do Twojej lokalizacji. Dane mobilne, aparat i Odblokowywanie twarzą będą tymczasowo niedostępne. Funkcja działa tylko z kartami SIM China Telecom kompatybilnymi z opcją satelity.</string>
+    <string name="sensor_answer_title">Podnieś, aby odebrać</string>
+    <string name="turnover_mute_summary">Gdy telefon znajduje się na płaskiej powierzchni ekranem do góry, obróć go, aby wyciszyć dźwięk dzwonka, wyłączyć wibracje i diodę powiadomień</string>
     <string name="unfold_close_camera_pref_summary">Rozłóż urządzenie w trakcie połączenia wideo, aby wyłączyć aparat</string>
     <string name="unfold_close_camera_pref_title">Rozłóż, aby wyłączyć aparat</string>
     <string name="unfold_show_bublle_pref_summary">Rozłóż urządzenie w trakcie połączeń, aby wyświetlić je w pływających oknach</string>
