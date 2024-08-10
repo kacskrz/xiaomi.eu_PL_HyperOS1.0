@@ -8,6 +8,9 @@
 Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje systemu w Ustawieniach > Opcje programisty > Optymalizacje systemu."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Ciemny motyw</string>
     <string name="finger_error_single_mode">"Nie można użyć czytnika linii papilarnych w trybie Jedna dłoń. Wyjdź z tego trybu i spróbuj ponownie."</string>
+    <string name="format_month_day_style1">d MMMM</string>
+    <string name="format_month_day_style2">d.MM</string>
+    <string name="format_month_day_week">EEEE, d MMMM</string>
     <string name="fs_gesture_final_see_more">Zobacz więcej demonstracji w Ustawieniach > Ekran główny > Nawigacja systemowa</string>
     <string name="gxzw_quick_open_add_note">Dodaj notatkę</string>
     <string name="gxzw_quick_open_add_note_sub">Notatki</string>
@@ -21,15 +24,15 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="miui_clock_city_name_local">Lokalnie</string>
     <string name="miui_keyboard_shortcut_group_system_dock">Pokaż dock z aplikacjami</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Przełączanie między ostatnio otwartymi aplikacjami</string>
-    <string name="miui_lock_screen_date">EEEE, d.MM.yyyy</string>
-    <string name="miui_lock_screen_date_12">EEEE, d.MM.yyyy</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
+    <string name="miui_lock_screen_date">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="miui_lock_screen_date_two_lines">"d MMMM
+EEEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"d MMMM
+EEEE"</string>
+    <string name="miui_lock_screen_large_date">"EEEE
 d.MM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-d.MM"</string>
-    <string name="miui_lock_screen_large_date">"EEE
-d.MM"</string>
-    <string name="miui_lock_screen_large_date_12">"EEE
+    <string name="miui_lock_screen_large_date_12">"EEEE
 d.MM"</string>
     <string name="miui_magazine_c_clock_style2_date">EEEE d.MM</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, d MMMM</string>
