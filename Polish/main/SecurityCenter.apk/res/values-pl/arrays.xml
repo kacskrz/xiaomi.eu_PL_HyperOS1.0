@@ -1,54 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="auto_memory_clean">
-        <item>Po minucie</item>
-        <item>Po 5 min</item>
-        <item>Po 10 min</item>
-        <item>Po 30 min</item>
-        <item>Nigdy</item>
-    </string-array>
-     <string-array name="roaming_network_type">
-         <item>Zawsze</item>
-         <item>Tylko dla wyjątków</item>
-         <item>Nigdy</item>
-     </string-array>
-    <string-array name="lock_mode">
-        <item>Zablokuj po uśpieniu urządzenia</item>
-        <item>Zablokuj po wyjściu z aplikacji</item>
-        <item>Zablokuj po 1 min od wyjścia z aplikacji</item>
-    </string-array>
-    <string-array name="long_add_menu">
-         <item>Dodaj do wyjątków</item>
-    </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Po minucie</item>
-        <item>Po 5 min</item>
-        <item>Po 10 min</item>
-        <item>Nigdy</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 s</item>
-        <item>30 s</item>
-        <item>1 min</item>
-        <item>2 min</item>
-        <item>5 min</item>
-        <item>10 min</item>
-        <item>Nie usypiaj</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Wydajny</item>
-        <item>Normalny</item>
-    </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Wyłącz</item>
-        <item>Włącz</item>
-        <item>Bez zmian</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>Nie wibruj</item>
-        <item>Wibruj w trybie cichym</item>
-        <item>Zawsze wibruj</item>
-    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Tylko raz</item>
         <item>Codziennie</item>
@@ -62,17 +13,22 @@
         <item>Od poniedziałku do piątku</item>
         <item>Własne</item>
     </string-array>
-     <string-array name="date_of_traffic">
-        <item>"Wczoraj "</item>
-        <item>"Dzisiaj "</item>
-        <item>"W zeszłym miesiącu "</item>
-		<item>"W tym miesiącu "</item>
+    <string-array name="app_behavior_type_menu">
+        <item>Wszystko</item>
+        <item>Autostart</item>
+        <item>Uruchamianie łańcuchowe</item>
+        <item>Korzystanie z uprawnień</item>
+        <item>Wrażliwe akcje</item>
     </string-array>
-    <string-array name="date_of_traffic_prefix">
-        <item>"Wczoraj: "</item>
-        <item>"Dzisiaj: "</item>
-		<item>"Zeszły miesiąc: "</item>
-        <item>"Ten miesiąc: "</item>
+    <string-array name="applock_password_types">
+        <item>Wzór</item>
+        <item>PIN</item>
+        <item>Hasło</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Plan miesięczny</item>
+        <item>Plan nielimitowany</item>
+        <item>Plan dzienny</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Wczoraj (dane) "</item>
@@ -84,106 +40,21 @@
         <item>"W poprzednim miesiącu (Wi-Fi) "</item>
         <item>"W tym miesiącu (Wi-Fi) "</item>
     </string-array>
-    <string-array name="date_of_app">
-        <item>Wczoraj (dane)</item>
-        <item>Dzisiaj (dane)</item>
-        <item>W tym miesiącu (dane)</item>
+    <string-array name="date_of_traffic">
+        <item>"Wczoraj "</item>
+        <item>"Dzisiaj "</item>
+        <item>"W zeszłym miesiącu "</item>
+        <item>"W tym miesiącu "</item>
     </string-array>
-    <string-array name="network_speed_update_internals">
-        <item>3 s</item>
-        <item>4 s</item>
-        <item>5 s</item>
-        <item>6 s</item>
-        <item>7 s</item>
-        <item>8 s</item>
-        <item>9 s</item>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Wczoraj: "</item>
+        <item>"Dzisiaj: "</item>
+        <item>"Zeszły miesiąc: "</item>
+        <item>"Ten miesiąc: "</item>
     </string-array>
-    <string-array name="traffic_type">
-        <item>"Dane mobilne "</item>
-        <item>"Dane Wi-Fi "</item>
-    </string-array>
-    <string-array name="mi_service_traffic_type">
-        <item>"Użycie danych mobilnych "</item>
-        <item>"Użycie Wi-Fi "</item>
-    </string-array>
-    <string-array name="traffic_sort_type">
-        <item>"Użycie danych mobilnych "</item>
-        <item>"Użycie Wi-Fi "</item>
-    </string-array>
-    <string-array name="traffic_setting_sms_template">
-        <item>Uzyskaj szablon wiadomości automatycznie</item>
-        <item>Ustaw ręcznie szablon wiadomości</item>
-    </string-array>
-     <string-array name="over_limit_traffic_waring_style">
+    <string-array name="over_limit_traffic_waring_style">
         <item>Pokaż ostrzeżenie</item>
         <item>Wyłącz przesył danych</item>
-    </string-array>
-    <string-array name="roaming_apps_sorted_type">
-        <item>Ostatnio używane</item>
-        <item>Nazwa</item>
-    </string-array>
-    <string-array name="title_app_info">
-             <item>Źródło instalacji</item>
-             <item>Czas instalacji</item>
-             <item>Źródło aktualizacji</item>
-             <item>Czas ostatniej aktualizacji</item>
-        </string-array>
-    <string-array name="sms_report_type">
-        <item>Użycie danych</item>
-        <item>Bilans</item>
-    </string-array>
-    <string-array name="sort_type">
-        <item>Status</item>
-        <item>Nazwa aplikacji</item>
-        <item>Częstość używania</item>
-        <item>Zajmowane miejsce</item>
-        <item>Data instalacji</item>
-    </string-array>
-    <string-array name="sort_title">
-        <item>Sortuj po statusie</item>
-        <item>Sortuj po nazwie</item>
-        <item>Sortuj po częstości</item>
-        <item>Sortuj po zajmowanym miejscu</item>
-        <item>Sortuj po dacie instalacji</item>
-    </string-array>    
-    <string-array name="tether_limit_warn_type">
-        <item>Wyłącz i powiadom</item>
-        <item>Tylko powiadomienie</item>
-     </string-array>
-	<string-array name="traffic_package_type">
-        <item>Plan miesięczny</item>
-        <item>Plan dzienny</item>
-        <item>Plan bez limitów</item>
-    </string-array>
-    <string-array name="pc_settings_thermal_entries">
-        <item>Domyślnie</item>
-        <item>Wydajność priorytetem</item>
-    </string-array>
-    <string-array name="pc_settings_thermal_summaries">
-        <item>Używa domyślnego trybu kontroli temperatury</item>
-        <item>Preferuje wydajność</item>
-    </string-array>
-    <string-array name="applock_password_types">
-        <item>Wzór</item>
-        <item>PIN</item>
-        <item>Hasło</item>
-    </string-array>
-   <string-array name="app_behavior_type_menu">
-        <item>Wszystko</item>
-        <item>Autostart</item>
-        <item>Uruchamianie łańcuchowe</item>
-        <item>Korzystanie z uprawnień</item>
-        <item>Wrażliwe akcje</item>
-    </string-array>
-    <string-array name="debug_open_intercept">
-        <item>Będzie możliwy dostęp do plików oraz ich edycji za pomocą komputera.</item>
-        <item>Będzie można instalować aplikacje na urządzeniu bez Twojego pozwolenia.</item>
-        <item>"Będziesz mógł uzyskać zdalny dostęp do widoku ekranu Twojego urządzenia."</item>
-        <item>Będzie można uzyskać szczegółowe informacje o Twoim urządzeniu.</item>
-    </string-array>
-    <string-array name="miui_optimization_close_intercept">
-        <item>Ważne: Różne aplikacje systemowe mogą przestać działać poprawnie.</item>
-        <item>Układy tekstu, konta oraz treść mogą nie być wyświetlane prawidłowo.</item>
     </string-array>
     <string-array name="perm_intercept_notification">
         <item>Odczyt wszystkich powiadomień, w tym SMS-ów i innych treści mogących zawierać wrażliwe dane</item>
@@ -195,37 +66,9 @@
         <item>Gromadzenie danych dot. Twoich zainteresowań i zachowań na podstawie uczenia się tego, jakich używasz aplikacji i jak często je uruchamiasz</item>
         <item>Dostęp do ustawień operatora i języka, a także innych szczegółów</item>
     </string-array>
-    <string-array name="perm_intercept_unknown_source">
-        <item>"Aplikacje firm trzecich, które nie zostały zweryfikowane, mogą powodować różne problemy i zmniejszyć bezpieczeństwo systemu."</item>
-        <item>Niektóre aplikacje firm trzecich mogą zawierać szkodliwe oprogramowanie, które zagraża Twoim danym.</item>
-    </string-array>
-    <string-array name="priority_storage_entries">
-        <item>Pamięć wewnętrzna</item>
-        <item>Pamięć zewnętrzna</item>
-    </string-array>
-    <string-array name="cellular_package_type">
-        <item>Plan miesięczny</item>
-        <item>Plan nielimitowany</item>
-        <item>Plan dzienny</item>
-    </string-array>
-    <string-array name="gb_adv_touch_custom_level">
-        <item>Najniższa</item>
-        <item>Niska</item>
-        <item>Normalna</item>
-        <item>Wysoka</item>
-        <item>Najwyższa</item>
-    </string-array>
-    <string-array name="auto_task_text_layout_size_level">
-        <item>Bardzo mała</item>
-        <item>Mała</item>
-        <item>Normalna</item>
-        <item>Duża</item>
-        <item>Bardzo duża</item>
-        <item>XXL</item>
-    </string-array>
-    <string-array name="cache_sort_type">
-        <item>Rozmiar</item>
-        <item>Nazwa</item>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Domyślnie</item>
+        <item>Wszystko</item>
     </string-array>
     <string-array name="sort_title_new">
         <item>Nazwa aplikacji</item>
@@ -239,8 +82,13 @@
         <item>Używana pamięć</item>
         <item>Czas instalacji</item>
     </string-array>
-    <string-array name="pp_lab_compact_blur_location_entry">
-        <item>Domyślnie</item>
-        <item>Wszystko</item>
+    <string-array name="traffic_package_type">
+        <item>Plan miesięczny</item>
+        <item>Plan dzienny</item>
+        <item>Plan bez limitów</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Dane mobilne "</item>
+        <item>"Dane Wi-Fi "</item>
     </string-array>
 </resources>

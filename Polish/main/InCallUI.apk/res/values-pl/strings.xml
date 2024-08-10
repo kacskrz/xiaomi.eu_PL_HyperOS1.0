@@ -66,6 +66,7 @@
     <string name="relay_cal_from_device_name">Z %1$s</string>
     <string name="relay_call">Handoff</string>
     <string name="relay_call_unable_to_work">"Nie można użyć tej funkcji w przekazywanych połączeniach"</string>
+    <string name="satellite_cancel">Anuluj</string>
     <string name="satellite_call_failed">Sygnał przerwany. Spróbuj ponownie.</string>
     <string name="satellite_debug_antenna">Antena</string>
     <string name="satellite_debug_azimuth">Azymut</string>
@@ -92,12 +93,13 @@ aby umieścić piłkę w niebieskim polu"</string>
     <string name="satellite_incall_tip">Nie można używać słuchawki podczas rozmowy satelitarnej</string>
     <string name="satellite_knew">OK</string>
     <string name="satellite_location_deny_permission_msg">Zezwól na dostęp do lokalizacji, aby włączyć komunikację z satelitą Tiantong</string>
+    <string name="satellite_ok">Użyj</string>
     <string name="satellite_satellite_fold_tip">Złóż urządzenie, aby szybciej zlokalizować satelity</string>
     <string name="satellite_satellite_service_redirection">Aktywuj</string>
     <string name="satellite_satellite_service_tip">"Wygląda na to, że nie aktywowano usługi bezpośredniej łączności z satelitą. Wyszuaj satelity po aktywacji tej usługi."</string>
     <string name="satellite_service_provider">Usługę dostarcza China Telecom</string>
-    <string name="satellite_signal_boost_setting_dialog">Po instalacji i aktywacji wzmacniacz sygnału delikatnie zmieni kąt nachylenia urządzenia względem satelity, poprawiając siłę sygnału i stabilność połączenia w trudnych warunkach atmosferycznych.</string>
-    <string name="satellite_signal_boost_setting_dialog_title">Zainstaluj i zacznij używać wzmacniacza sygnału satelity</string>
+    <string name="satellite_signal_boost_setting_dialog">Jeśli już kupiłeś i zainstalowałeś wzmacniacz, dotknij opcji \"Użyj\". Przy prawidłowym korzystaniu wzmacniacz może poprawić siłę i stabilność sygnału, nawet przy kiepskiej pogodzie. Aby uniknąć potencjalnych zakłóceń, nie wybieraj tej opcji, jeśli jeszcze nie zainstalowałeś wzmacniacza.</string>
+    <string name="satellite_signal_boost_setting_dialog_title">Użyj wzmacniacza sygnału satelity</string>
     <string name="satellite_state_connected">"Połączono z satelitą
 Utrzymuj urządzenie w tym położeniu"</string>
     <string name="satellite_state_connected_exp">Pomyślnie zlokalizowano satelitę</string>

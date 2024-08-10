@@ -1,272 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="baby_sexy">
-        <item>Chłopiec</item>
-        <item>Dziewczynka</item>
-    </string-array>
-    <string-array name="card_last_week_day">
-     <item>Poprzedni poniedziałek</item>
-     <item>Poprzedni wtorek</item>
-     <item>Poprzednia środa</item>
-     <item>Poprzedni czwartek</item>
-     <item>Poprzedni piątek</item>
-    </string-array>
-  <string-array name="holiday_last_year">
-     <item>"Ostatni Nowy Rok"</item>
-     <item>"Ostatnie Walentynki"</item>
-     <item>Ostatnie Święto Pracy</item>
-     <item>"Ostatni Dzień Dziecka"</item>
-     <item>Ostatnie Święto Niepodległości</item>
-     <item>Ostatnie Święta Bożego Narodzenia</item>
-  </string-array>
-  <string-array name="holiday_past_year">
-     <item>"Nowy Rok przez lata"</item>
-     <item>"Walentynki przez lata"</item>
-     <item>Święto Pracy przez lata</item>
-     <item>"Dzień Dziecka przez lata"</item>
-     <item>Święto Niepodległości przez lata</item>
-     <item>Święta Bożego Narodzenia przez lata</item>
-  </string-array>
-  <string-array name="month_last_year">
-     <item>Poprzedni styczeń</item>
-     <item>Poprzedni luty</item>
-     <item>Poprzedni marzec</item>
-     <item>Poprzedni kwiecień</item>
-     <item>Poprzedni maj</item>
-     <item>Poprzedni czerwiec</item>
-     <item>Poprzedni lipiec</item>
-     <item>Poprzedni sierpień</item>
-     <item>Poprzedni wrzesień</item>
-     <item>Poprzedni październik</item>
-     <item>Poprzedni listopad</item>
-     <item>Poprzedni grudzień</item>
-  </string-array>
-    <string-array name="owner_relation">
-        <item>Ojciec</item>
-        <item>Mama</item>
-        <item>Dziadek (od ojca)</item>
-        <item>Babcia (od ojca)</item>
-        <item>Dziadek (od matki)</item>
-        <item>Babcia (od matki)</item>
-    </string-array>
-    <string-array name="relation_with_me">
-        <item>Ja</item>
-        <item>Dzieci</item>
-        <item>Rodzina</item>
-        <item>Znajomi</item>
-        <item>Koledzy z klasy</item>
-        <item>Przyjaciele</item>
-        <item>Nieprzydzielone</item>
-    </string-array>
-  <string-array name="season_last_year">
-     <item>Ostatniej wiosny</item>
-     <item>Ostatniego lata</item>
-     <item>Ostatniej jesieni</item>
-     <item>Ostatniej zimy</item>
-  </string-array>
-  <string-array name="menu_copy_or_move">
-     <item>Przenieś</item>
-     <item>Skopiuj</item>
-     <item>Anuluj</item>
-  </string-array>
-    <string-array name="month">
-        <item>Styczeń</item>
-        <item>Luty</item>
-        <item>Marzec</item>
-        <item>Kwiecień</item>
-        <item>Maj</item>
-        <item>Czerwiec</item>
-        <item>Lipiec</item>
-        <item>Sierpień</item>
-        <item>Wrzesień</item>
-        <item>Październik</item>
-        <item>Listopad</item>
-        <item>Grudzień</item>
-    </string-array>
-    <string-array name="season">
-        <item>Wiosna</item>
-        <item>Lato</item>
-        <item>Jesień</item>
-        <item>Zima</item>
-    </string-array>
-    <string-array name="last_month">
-        <item>Styczeń</item>
-        <item>Luty</item>
-        <item>Marzec</item>
-        <item>Kwiecień</item>
-        <item>Maj</item>
-        <item>Czerwiec</item>
-        <item>Lipiec</item>
-        <item>Sierpień</item>
-        <item>Wrzesień</item>
-        <item>Październik</item>
-        <item>Listopad</item>
-        <item>Grudzień</item>
-    </string-array>
-    <string-array name="weekend_title">
-        <item>Ostatnie weekendy</item>
-        <item>Godne zapamiętania</item>
-        <item>Codzienne zdarzenia</item>
-        <item>Zwykłe oraz specjalne</item>
-    </string-array>
-    <string-array name="activities_title">
-        <item>Szczególne dni</item>
-        <item>Godne zapamiętania</item>
-        <item>Ekscytujące chwile</item>
-    </string-array>
-    <string-array name="last_weekend_title">
-        <item>Moje weekendy</item>
-        <item>Chwile z życia</item>
-        <item>Pamiątki z weekendu</item>
-    </string-array>
-    <string-array name="parties_title">
-        <item>Razem</item>
-        <item>Dobre czasy</item>
-        <item>Zgodnie</item>
-    </string-array>
-    <string-array name="sports_title">
-        <item>Iść do przodu</item>
-        <item>Pełen energii</item>
-    </string-array>
-     <string-array name="sharer_relation_addressive">
-        <item>Tata</item>
-        <item>Mama</item>
-        <item>Dziadek od strony ojca</item>
-        <item>Babcia od strony ojca</item>
-        <item>Dziadek od strony matki</item>
-        <item>Babcia od strony matki</item>
-     </string-array>
-    <string-array name="backup_automatically_key_words">
-        <item>Skopiuj zdjęcia</item>
-        <item>Zsynchronizuj zdjęcia z Chmurą Xiaomi</item>
-    </string-array>
-    <string-array name="last_week_baby_title">
-        <item>Czas na zabawę</item>
-        <item>"Weekend dzieciaka"</item>
-        <item>Ten malutki</item>
-    </string-array>
-    <string-array name="last_year_group_people">
-        <item>Nowi przyjaciele i starzy kumple</item>
-        <item>"Spotkania w zeszłym roku"</item>
-    </string-array>
-    <string-array name="recent_group_people">
-        <item>Razem</item>
-        <item>Przyjaźnie i więzi</item>
-    </string-array>
-    <string-array name="three_month_baby_title">
-        <item>One rosną tak szybko</item>
-        <item>Zdjęcia dzieciaka</item>
-    </string-array>
-    <string-array name="acc_category_color_description">
-        <item>Białe</item>
-        <item>Ciemnoniebieskie</item>
-        <item>Jasnoniebieskie</item>
-        <item>Czerwone</item>
-        <item>Zielone</item>
-        <item>Różowe</item>
-        <item>Brązowe</item>
-        <item>Szare</item>
-    </string-array>
-    <string-array name="acc_magic_matting_background_description">
-        <item>Wybierz obraz</item>
-        <item>Przezroczyste tło</item>
-    </string-array>
-    <string-array name="magic_effects_audio_titles">
-        <item></item>
-        <item></item>
-        <item>Wypoczynek</item>
-        <item>Bryza</item>
-        <item>Marzenia</item>
-        <item>Chmury</item>
-        <item>Myśli</item>
-        <item>Pąki</item>
-        <item>Metamorfoza</item>
-        <item>Głębia</item>
-        <item>Odbicia</item>
-        <item>Minimalistyka</item>
-        <item>Tajemnica</item>
-        <item>Mgła</item>
-    </string-array>
-    <string-array name="magic_effects_description">
-        <item>Zamień tła w szkice</item>
-        <item>Akwarelowe tła</item>
-        <item>Cyberpunkowe retro</item>
-        <item>Pionowe elementy</item>
-        <item>Mgliste rozmycie</item>
-        <item>Futurystyczne wrażenie</item>
-    </string-array>
-    <string-array name="magic_effects_title">
-        <item>Szkic</item>
-        <item>Akwarele</item>
-        <item>RGB</item>
-        <item>Żaluzje</item>
-        <item>Mgliste okno</item>
-        <item>Technika</item>
-    </string-array>
-    <string-array name="magic_effects_video_titles">
-        <item></item>
-        <item>Kolorowy zarys</item>
-        <item>Przerywany zarys</item>
-        <item>Fluorescencyjny zarys</item>
-        <item>Kolorowy cień</item>
-        <item>Fale elektromagnetyczne</item>
-        <item>Prąd</item>
-        <item>Fale</item>
-        <item>Cząsteczki</item>
-        <item>Tekst</item>
-        <item>Skrzydła</item>
-        <item>Anioł</item>
-    </string-array>
-    <string-array name="magic_idp_size_category">
-        <item>Ogólne</item>
-        <item>Podróż</item>
-        <item>Praca</item>
-        <item>Dokumenty</item>
-        <item>Edukacja</item>
-        <item>Egzaminy</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_certificates">
-        <item>Ubezpieczenie społeczne</item>
-        <item>Świadectwo zdrowia</item>
-        <item>Ubezpieczenie zdrowotne</item>
-        <item>Dowód osobisty</item>
-        <item>Zezwolenie na pobyt</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_common">
-        <item></item>
-        <item>Jeden cun</item>
-        <item>Dwa cuny</item>
-        <item>Mniejszy cun</item>
-        <item>Mniejsze dwa cuny</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_education">
-        <item>Prośba o przyznanie</item>
-        <item>Sieć studencka</item>
-        <item>Sieć studencka (szkoła podstawowa)</item>
-        <item>Profil w sieci studenckiej</item>
-        <item>Prośba o przyjęcie na uniwersytet</item>
-        <item>NCEE</item>
-        <item>Wznowienie</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_visa">
-        <item>Stany Zjednoczone</item>
-        <item>Wietnam</item>
-        <item>Japonia</item>
-        <item>Hongkong i Makau</item>
-        <item>Korea Południowa</item>
-        <item>Tajlandia (turystyczna)</item>
-        <item>Tajlandia (na przylot)</item>
-        <item>Indie</item>
-        <item>Izrael</item>
-        <item>Tajwan</item>
-        <item>Malezja</item>
-        <item>Nowa Zelandia</item>
-        <item>Włochy</item>
-        <item>Argentyna</item>
-        <item>Brazylia</item>
-        <item>Islandia</item>
-        <item>Kenia</item>
-    </string-array>
     <string-array name="annual_foods_title">
         <item>Smakowity rok</item>
         <item>Trzy dania. Cztery pory roku.</item>
@@ -280,10 +13,12 @@
         <item>Jesienny blask</item>
         <item>Promienna jesień</item>
     </string-array>
-    <string-array name="chinese_new_year_eve_title">
-        <item>Noc, którą się pamięta</item>
-        <item>Nowy rozdział</item>
-        <item>Fajerwerki</item>
+    <string-array name="card_last_week_day">
+        <item>Poprzedni poniedziałek</item>
+        <item>Poprzedni wtorek</item>
+        <item>Poprzednia środa</item>
+        <item>Poprzedni czwartek</item>
+        <item>Poprzedni piątek</item>
     </string-array>
     <string-array name="chinese_new_year_title">
         <item>Szczęśliwego Nowego Roku!</item>
@@ -320,10 +55,40 @@
         <item>Wśród przyjaciół</item>
         <item>Dawno się nie widzieliśmy</item>
     </string-array>
+    <string-array name="holiday_last_year">
+        <item>"Ostatni Nowy Rok"</item>
+        <item>"Ostatnie Walentynki"</item>
+        <item>Ostatnie Święto Pracy</item>
+        <item>"Ostatni Dzień Dziecka"</item>
+        <item>Ostatnie Święto Niepodległości</item>
+        <item>Ostatnie Święta Bożego Narodzenia</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>"Nowy Rok przez lata"</item>
+        <item>"Walentynki przez lata"</item>
+        <item>Święto Pracy przez lata</item>
+        <item>"Dzień Dziecka przez lata"</item>
+        <item>Święto Niepodległości przez lata</item>
+        <item>Święta Bożego Narodzenia przez lata</item>
+    </string-array>
     <string-array name="important_people_title">
         <item>Twoje ulubione obiekty</item>
         <item>Pokrewne dusze</item>
         <item>"Radosne życiowe chwile"</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>Styczeń</item>
+        <item>Luty</item>
+        <item>Marzec</item>
+        <item>Kwiecień</item>
+        <item>Maj</item>
+        <item>Czerwiec</item>
+        <item>Lipiec</item>
+        <item>Sierpień</item>
+        <item>Wrzesień</item>
+        <item>Październik</item>
+        <item>Listopad</item>
+        <item>Grudzień</item>
     </string-array>
     <string-array name="last_some_day_babies_title">
         <item>Zajęci dorastaniem</item>
@@ -355,6 +120,20 @@
         <item>Wielki dzień</item>
         <item>Wzdłuż przejścia</item>
     </string-array>
+    <string-array name="month_last_year">
+        <item>Poprzedni styczeń</item>
+        <item>Poprzedni luty</item>
+        <item>Poprzedni marzec</item>
+        <item>Poprzedni kwiecień</item>
+        <item>Poprzedni maj</item>
+        <item>Poprzedni czerwiec</item>
+        <item>Poprzedni lipiec</item>
+        <item>Poprzedni sierpień</item>
+        <item>Poprzedni wrzesień</item>
+        <item>Poprzedni październik</item>
+        <item>Poprzedni listopad</item>
+        <item>Poprzedni grudzień</item>
+    </string-array>
     <string-array name="monthly_babies_title">
         <item>"Tak urosłeś!"</item>
         <item>"Ale znowu urosłeś!"</item>
@@ -384,6 +163,12 @@
         <item>Jesienne biesiady</item>
         <item>Zimowe pałaszowanie</item>
     </string-array>
+    <string-array name="season_last_year">
+        <item>Ostatniej wiosny</item>
+        <item>Ostatniego lata</item>
+        <item>Ostatniej jesieni</item>
+        <item>Ostatniej zimy</item>
+    </string-array>
     <string-array name="spring_season_title">
         <item>Kwiaty wiosny</item>
         <item>Wiosna, ach, to ty</item>
@@ -397,12 +182,14 @@
         <item>Złociste jesienne godziny</item>
         <item>Promienie złota</item>
     </string-array>
+    <string-array name="weekend_title">
+        <item>Ostatnie weekendy</item>
+        <item>Godne zapamiętania</item>
+        <item>Codzienne zdarzenia</item>
+        <item>Zwykłe oraz specjalne</item>
+    </string-array>
     <string-array name="winter_season_title">
         <item>Zimowe dni</item>
         <item>Zimowa kraina czarów</item>
-    </string-array>
-    <string-array name="account_user_gender_name">
-        <item>Mężczyzna</item>
-        <item>Kobieta</item>
     </string-array>
 </resources>
