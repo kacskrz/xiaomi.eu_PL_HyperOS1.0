@@ -72,6 +72,7 @@
     <string name="month_september_shortest">Wrz</string>
     <string name="notification_control_center">Powiadomienia i Centrum funkcji</string>
     <string name="qs_control_header_tiles_title">Centrum funkcji</string>
+    <string name="qs_customize_header_sub_title">Przeciągaj przełączniki, aby zmienić ich kolejność</string>
     <string name="qs_open_night_mode_alert_summary">Niektóre ustawienia wyświetlacza nie są zgodne z Ciemnym motywem. Zostaną one przywrócone po jego wyłączeniu.</string>
     <string name="quick_controls_subtitle">Dodaj kontrolki dla swoich podłączonych urządzeń</string>
     <string name="quick_controls_title">Kontrolki urządzeń</string>

@@ -438,10 +438,6 @@
         <item quantity="other">%1$s | Aplikacja zwracała pusty SMS %2$d razy</item>
         <item quantity="one">%1$s | Aplikacja zwracała pusty SMS %2$d raz</item>
     </plurals>
-    <plurals name="power_center_battery_charge_number">
-        <item quantity="other">" razy"</item>
-        <item quantity="one">" raz"</item>
-    </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d elementów zużywa dużo energii</item>
         <item quantity="one">%d element zużywa dużo energii</item>
