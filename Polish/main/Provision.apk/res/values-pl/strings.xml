@@ -178,6 +178,7 @@
     <string name="service_name_phone_service">Telefonia</string>
     <string name="service_policy"><Data>Przeczytaj i zaakceptuj &lt;a href=%1$s>Politykę prywatności&lt;/a> Xiaomi.</Data></string>
     <string name="service_privacy_index">Polityka prywatności</string>
+    <string name="service_security_over_r"><Data>Przeczytaj i zaakceptuj warunki &lt;a href=%1$s>Polityki prywatności&lt;/a ></Data></string>
     <string name="setting_locale">Ustawianie języka...</string>
     <string name="sim_activation_introduction">Usługa aktywacji kart SIM weryfikuje informacje o włożonej karcie SIM, aby upewnić się, że usługi systemowe mogą działać normalnie. Zaliczane są do nich m.in. usługa Znajdź urządzenie, Wiadomości Mi, tworzenie kont Xiaomi za pomocą numerów telefonów, a także synchronizacja wiadomości i historii połączeń.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Zezwolić na połączenie za pomocą danych komórkowych? Jeśli tak, to użyta do tego zostanie karta SIM włożona do tego urządzenia.</string>

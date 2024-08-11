@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Wyłaczono</item>
+        <item>Filtrowanie wł.</item>
+        <item>Włączono</item>
+        <item>Włączono filtrowanie nagłówków</item>
+        <item>Włączono filtrowanie pakietów multimediów</item>
+        <item>Włączono filtrowanie profili</item>
+    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Odblokowanie twarzą</item>
         <item>Wzór</item>

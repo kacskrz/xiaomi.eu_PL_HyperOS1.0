@@ -66,7 +66,5 @@
     <string name="recent_contacts_label">Połączenia</string>
     <string name="saf_permission_dialog_content">"Domyślnie Android nie zezwala aplikacji Kontakty i Telefon na dostęp do nagrań połączeń. Zezwól tym aplikacjom na dostęp do tych nagrań, aby móc wyświetlić ich listę."</string>
     <string name="share_via">Udostępnij kontakt przez</string>
-    <string name="t9_search_guide_pinyin_title2">Wpisz \"2\" oraz \"3\", aby wyszukać Aleksander Fredro</string>
-    <string name="t9_search_guide_zhuyin_title2">Wpisz \"5\" oraz \"6\", aby wyszukać Jan Matejko</string>
     <string name="toast_join_with_empty_contact">Wpisz nazwę kontaktu, zanim połączysz go z innym kontaktem.</string>
 </resources>

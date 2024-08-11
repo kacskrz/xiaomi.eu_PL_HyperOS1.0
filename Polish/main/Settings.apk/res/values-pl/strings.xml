@@ -505,11 +505,11 @@ Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania in
     <string name="usage_state_app_timer">Czas przed ekranem</string>
     <string name="usage_state_app_usage_list_title">"Korzystanie z aplikacji"</string>
     <string name="usage_state_app_usage_list_week_title">"Korzystanie z aplikacji"</string>
-    <string formatted="false" name="usage_state_app_usage_tip_title">Użytkowanie pomiędzy %1$d:00 a %2$d:00</string>
+    <string name="usage_state_app_usage_tip_title">Użytkowanie pomiędzy %1$d:00 a %2$d:00</string>
     <string name="usage_state_app_use_time">Czas aplikacji na ekranie</string>
     <string name="usage_state_channel_mouth">30 dni</string>
     <string name="usage_state_channel_week">7 dni</string>
-    <string formatted="false" name="usage_state_device_unlock_today_tip_title">Odblokowania pomiędzy %1$d:00 a %2$d:00</string>
+    <string name="usage_state_device_unlock_today_tip_title">Odblokowania pomiędzy %1$d:00 a %2$d:00</string>
     <string name="usage_state_mourth_day">Użytkowanie w dniu %s</string>
     <string name="usage_state_remind_title">Limit korzystania z urządzenia</string>
     <string name="usage_state_today_total_text">Dziś używano przez</string>

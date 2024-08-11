@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Godzinę temu</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za godzinę</item>
+    </plurals>
     <plurals name="are_you_sure_you_want_delete_file">
         <item quantity="other">Czy chcesz usunąć %1$d plików?</item>
         <item quantity="one">Czy chcesz usunąć %1$d plik?</item>
