@@ -256,6 +256,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="lock_screen_notifications_summary_show">Pokazuj powiadomienia i treść</string>
     <string name="lock_screen_signature_summary">Ta informacja będzie wyświetlana na ekranie blokady</string>
     <string name="lock_screen_signature_title">Podpis</string>
+    <string name="lock_sound_effect_enable_title">Odtwarzaj dźwięk podczas blokowania i odblokowywania urządzenia</string>
     <string name="lockscreen_magazine_summary">Każdego dnia na ekranie blokady będzie pojawiać się nowa tapeta</string>
     <string name="lockscreen_magazine_title">Tapety Blokady</string>
     <string name="lockscreen_sidepanel_shortcuts_summary">Dostosuj skróty aplikacji, które mają być wyświetlane po przeciągnięciu w prawo na ekranie blokady</string>
@@ -495,7 +496,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="touch_sensitive_turn_off_summary">Wyłączyć także funkcję przypadkowego użycia telefonu w kieszeni?</string>
     <string name="under_keyguard">Przy wył. ekranie</string>
     <string name="uninstall_xspace_app_dlg_msg">Odinstalowanie sklonowanej aplikacji usunie też jej dane.</string>
-    <string name="unmute_sound_title">Dźwięk wyłączenia trybu cichego/Nie przeszkadzać</string>
+    <string name="unmute_sound_title">Odtwarzaj dźwięk wyłączenia trybu cichego/Nie przeszkadzać</string>
     <string name="upload_debug_log_detail">"Pomóż poprawić wrażenia z korzystania z urządzenia poprzez automatyczne wysyłanie do Xiaomi informacji diagnostycznych oraz danych dot. urządzenia i korzystania z aplikacji. Pomoże to poprawić żywotność baterii, stabilność systemu i aplikacji itp.
 Wysłane dane będą zawierać ogólne informacje o urządzeniu i korzystaniu z niego (np. poziom naładowania baterii, aktywność systemu i aplikacji, błędy). Dane zostaną wykorzystane do poprawiania urządzeń.
 Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania informacji niezbędnych do działania podstawowych usług."</string>
