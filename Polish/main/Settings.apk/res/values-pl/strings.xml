@@ -393,6 +393,8 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="power_menu_under_keyguard_title">Dostęp do menu zasilania</string>
     <string name="pre_installed_application">Preinstalowane aplikacje</string>
     <string name="pref_manage_bg_network">Zarządzaj łącznością aplikacji w tle</string>
+    <string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Gdy ekran jest zablokowany, naciśnij dwukrotnie przycisk Głośność-, aby uruchomić Aparat i zrobić zdjęcie</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Gdy ekran jest zablokowany, naciśnij dwukrotnie przycisk Głośność-, aby uruchomić Aparat</string>
     <string name="preferred_application_warning_message">Zmiana domyślnej aplikacji %1$s może powodować nadmierne użycie baterii lub zagrozić bezpieczeństwu. Zaleca się użycie aplikacji %2$s.</string>
     <string name="preferred_sms_title">Domyślna aplikacja do SMS-ów</string>
     <string name="privacy_policy">Polityka prywatności</string>
