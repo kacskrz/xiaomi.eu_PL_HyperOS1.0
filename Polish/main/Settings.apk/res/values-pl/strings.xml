@@ -360,6 +360,9 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="notification_control_center_new">Powiadomienia i pasek statusu</string>
     <string name="notification_status_bar">Powiadomienia i pasek statusu</string>
     <string name="now">Zrestartuj</string>
+    <string name="nrca_registered">Zarejestrowano</string>
+    <string name="nrca_type_title">Stan agregacji operatora</string>
+    <string name="nrca_unregistered">Nie zarejestrowano</string>
     <string name="oem_unlock_enable_summary">Zezwalaj na odblokowanie bootloadera</string>
     <string name="one_handed_title">Jedna dłoń</string>
     <string name="open_optimization_message">Włącz optymalizację w celu polepszenia wydajności i szybkości systemu.</string>
