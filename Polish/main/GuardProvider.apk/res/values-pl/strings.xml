@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="avast_virus_type_heuristic_description">Infekcja jest wnioskowana przy użyciu określonej heurystyki. Konkretna analiza heurystyczna mówi, że jest to wirus.</string>
-    <string name="avast_virus_type_worm_description">Wirus jest robakiem. Jest to samodzielne złośliwe oprogramowanie, które replikuje się w celu rozprzestrzeniania się na inne urządzenia. Wykorzystuje pliki lub funkcje przesyłania informacji w systemie (np. sieci), może podróżować bez żadnego działania człowieka. Robaki prawie zawsze powodują jakieś szkody w sieci.</string>
-</resources>
