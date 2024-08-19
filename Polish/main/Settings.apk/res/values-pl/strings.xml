@@ -24,6 +24,27 @@
     <string name="allow_oaid_used_desc">"System nie będzie dostarczać wirtualnego ID aplikacjom. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
     <string name="alpha_build">" (alfa)"</string>
     <string name="aod_style_description">Dostosuj styl trybu Ekran zawsze włączony</string>
+    <!-- REMOVED IN AURORA, RESTORING FOR PERIDOT -->
+    <string name="aon_gesture_cue_tone_summary">Gdy dłoń zostanie wykryta, telefon odtworzy dźwięk potwierdzenia</string>
+    <string name="aon_gesture_cue_tone_title">Odtwórz dźwięk potwierdzenia</string>
+    <string name="aon_gesture_dialog_message">"Gdy ta funkcja jest włączona, urządzenie będzie wykrywać i analizować Twoje gesty. Dane osobowe nie będą przetwarzane w żadnym stopniu (zarówno lokalnie, jak i w chmurze)."</string>
+    <string name="aon_gesture_dialog_title">Informacja dot. prywatności</string>
+    <string name="aon_gesture_double_press_summary">Odtwarzaj i wstrzymywaj multimedia</string>
+    <string name="aon_gesture_double_press_title">Wykonaj ruch dwuklikiem</string>
+    <string name="aon_gesture_draw_circle_summary_pad">Odbieraj lub kończ połączenia przekazywane na tablet</string>
+    <string name="aon_gesture_draw_circle_summary_phone">Odbieraj lub kończ połączenia</string>
+    <string name="aon_gesture_draw_circle_title">Narysuj okrąg</string>
+    <string name="aon_gesture_enable_summary" formatted="false">Trzymaj dłoń od %d do %d cm od aparatu i wykonuj gesty, gdy na górze ekranu pojawi się ikona ręki</string>
+    <string name="aon_gesture_learn_title">Naucz się gestów</string>
+    <string name="aon_gesture_left_right_waving_summary">Zmieniaj postęp odtwarzania i utwory</string>
+    <string name="aon_gesture_left_right_waving_title">Machaj poziomo</string>
+    <string name="aon_gesture_settings">Bezdotykowe gesty</string>
+    <string name="aon_gesture_status_close">Wył.</string>
+    <string name="aon_gesture_status_open">Wł.</string>
+    <string name="aon_gesture_supported_app_title">Wspierane aplikacje</string>
+    <string name="aon_gesture_supported_title">Dostępne gesty</string>
+    <string name="aon_gesture_up_down_waving_summary">Zmieniaj głośność, przełączaj się między filmikami i przesuwaj strony w dokumentach</string>
+    <string name="aon_gesture_up_down_waving_title">Machaj pionowo</string>
     <string name="apn_settings">Punkty dostępu</string>
     <string name="app_permissions_summary">Aplikacje używające %1$s</string>
     <string name="app_usage_cycle">Cykl zużycia danych przez aplikację</string>
@@ -265,8 +286,6 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="login_account_summary_temp">Konto Xiaomi i opcje Chmury</string>
     <string name="long_press_back_key">Długo Wstecz</string>
     <string name="long_press_buttom_key">Długo Ekran główny na Ekranie blokady</string>
-    <string name="long_press_editor_style_summary">Przytrzymaj Ekran blokady, aby edytować zegar i tapetę</string>
-    <string name="long_press_editor_style_title">Przytrzymaj, aby edytować</string>
     <string name="long_press_home_key">Długo Ekran główny</string>
     <string name="long_press_menu_key">Długo Menu</string>
     <string name="long_press_menu_key_when_lock">Długo Menu na Ekranie blokady</string>
@@ -309,6 +328,8 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="miui_tof_screen_on_close_tip_dialog_msg">Funkcja \"%1$s\" jest włączona. Aby uniknąć natychmiastowego wyświetlania pulpitu lub zawartości aplikacji, gdy rozpozna ona Twoją twarz, zalecamy pozostawienie włączonej również funkcji \"%2$s\".</string>
     <string name="miui_tof_screen_on_msg">Gdy urządzenie wykryje osobę w pobliżu, ekran się włączy, nastąpi próba rozpoznania twarzy, a następnie odblokowanie ekranu (jeśli twarz zostanie rozpoznana)</string>
     <string name="miui_tof_screen_on_open_dialog_msg">Włącz funkcję \"%s\", aby uniknąć natychmiastowego wyświetlania pulpitu lub zawartości aplikacji, gdy rozpozna ona Twoją twarz.</string>
+    <string name="miui_visual_perception_summary">Pozwól urządzeniu wyczuć Twoją obecność i wybrać wygodniejsze opcje blokowania i odblokowywania</string>
+    <string name="miui_visual_perception_title">Aktywna percepcja wzrokowa</string>
     <string name="modern_control_center_desc">Przeciągnij pasek stanu po lewej stronie, aby wyświetlić powiadomienia, bądź po prawej stronie w celu wyświetlenia Centrum funkcji</string>
     <string name="monday_shortest">P</string>
     <string name="month_april_short">kwi</string>
@@ -542,6 +563,10 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="user_experience_open_url">Dowiedz się więcej odn. Programu zadowolenia użytkownika</string>
     <string name="user_experience_program">Program zadowolenia użytkownika</string>
     <string name="user_experience_program_title">Program zadowolenia użytkownika</string>
+    <string name="valid_net_access">Wyświetl dane uwierzytelniające dostępu do sieci</string>
+    <string name="valid_net_ok">OK</string>
+    <string name="valid_net_result_fail">Nie udało się uzyskać informacji. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
+    <string name="valid_net_result_title">Wynik</string>
     <string name="var_font_switch_dialog_summary">Aby zmienić to ustawienie, konieczne jest ponowne uruchomienie urządzenia.</string>
     <string name="var_font_switch_dialog_title">Uruchomić ponownie?</string>
     <string name="var_font_switch_title">Zmienna grubość czcionki</string>
@@ -552,6 +577,7 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="wifi_generation">Użyj ikon generacji Wi-Fi</string>
     <string name="wifi_region_summary">Włącz Wi-Fi ponownie, aby zastosować wybrany przez siebie region.</string>
     <string name="wifi_region_title">Region Wi-Fi</string>
+    <string name="wireless_display">Wyświetlacz bezprzewodowy</string>
     <string name="wlan_switch_tips_message">W trakcie przełączania się między dodatkową i główną siecią Wi-Fi urządzenie tymczasowo rozłączy się z dodatkową siecią. Przełączyć?</string>
     <string name="xiaomi_transfer">Xiaomi Share</string>
 </resources>
