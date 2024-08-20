@@ -975,7 +975,7 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
     <string name="wallpaper_online_tip">Aby zobaczyć więcej elementów, połącz się z siecią</string>
     <string name="wallpaper_set_as_both_large">Ustaw wszędzie na głównym ekranie</string>
     <string name="wallpaper_set_as_both_small">Ustaw wszędzie na zewnętrznym ekranie</string>
-    <string name="wallpaper_set_as_desktop">Ustaw jako tapetę Ekranu głónwego</string>
+    <string name="wallpaper_set_as_desktop">Ustaw jako tapetę Ekranu głównego</string>
     <string name="wallpaper_set_as_desktop_large">Ustaw na Ekranie głównym na głównym ekranie</string>
     <string name="wallpaper_set_as_desktop_small">Ustaw na Ekranie głównym na zewnętrznym ekranie</string>
     <string name="wallpaper_set_as_float_wallpaper">Ustaw jako przezroczystą tapetę</string>
