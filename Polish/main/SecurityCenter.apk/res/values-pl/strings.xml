@@ -103,6 +103,13 @@
     <string name="app_name_securitycenter">Panel sterowania</string>
     <string name="app_name_securitycenter_new">Panel sterowania</string>
     <string name="app_permission_use_group_sms">SMS</string>
+    <string name="app_powerkeeper_config_description">System rozpozna aplikacje służące do komunikacji, nawigacji i odtwarzania multimediów, a potem zastosuje odpowiednie środki dot. oszczędzania baterii, aby zabezpieczyć działanie krytycznych aktywności w tle</string>
+    <string name="app_powerkeeper_miui_auto">Oszczędzanie baterii (zalecane)</string>
+    <string name="app_powerkeeper_miui_auto_summary">Rozpoznaj aplikacje i aktywności, aby utrzymać działanie najważniejszych procesów. Oszczędzanie baterii będzie traktować ważne aplikacje selektywnie.</string>
+    <string name="app_powerkeeper_no_restrict">Bez ograniczeń</string>
+    <string name="app_powerkeeper_no_restrict_summary">"Oszczędzanie baterii nie ograniczy aktywności aplikacji"</string>
+    <string name="app_powerkeeper_restrict_bg">Ogranicz w tle</string>
+    <string name="app_powerkeeper_restrict_running">Zamknij aplikację po %d minutach aktywności w tle</string>
     <string name="app_predict_black_list_empty">Brak elementów</string>
     <string name="app_predict_black_list_setting_title">Lista blokowanych sugestii aplikacji</string>
     <string name="app_predict_classification_search_empty">"Nie znaleziono rezultatów"</string>
@@ -282,6 +289,7 @@
     <string name="boot_time_day_tomorrow">Włączenie urządzenia: %1$s</string>
     <string name="btn_text_optimize_extend_battery_time">Wydłuż o %s</string>
     <string name="btn_text_quick_save_power">Wykonaj</string>
+    <string name="button_text_once_accept">Zezwól raz</string>
     <string name="byteShort">" B"</string>
     <string name="camera">Aparat</string>
     <string name="card_main_apkclean_title">Usuń pliki APK</string>
@@ -302,6 +310,7 @@
     <string name="compatible_dialog_more_info">Dowiedz się więcej</string>
     <string name="compatible_dialog_title">Uwaga</string>
     <string name="comprehensive_protection_measures">Wszechstronna ochrona</string>
+    <string name="config_restrict_running_warning">Jeśli przejdziesz dalej, cała aktywność aplikacji w tle zostanie zatrzymana, co może mieć wpływ na jej funkcje. Kontynuować mimo to?</string>
     <string name="confirm_ai_allow_all_permission">Zmienić stan uprawnienia na \"Zdecyduj za mnie\" dla wszystkich aplikacji?</string>
     <string name="confirm_allow_all_permission">Zezwolić wszystkim aplikacjom na korzystanie z tego uprawnienia?</string>
     <string name="confirm_open_shut_down_password_content">Ustaw blokadę ekranu przed włączeniem funkcji potwierdzenia wyłączenia urządzenia.</string>
@@ -487,6 +496,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="gamebooster_network_dialog_message">Zezwolić Panelowi sterowania na połączenie z siecią w celu użycia wszystkich funkcji Game Turbo?</string>
     <string name="gamebox_ai_accelerate">Przyspieszenie danych mobilnych z SI</string>
     <string name="gamebox_filter_alpha_tip">Przeźroczystość</string>
+    <string name="gamebox_hangup_new">Wyłącz ekran</string>
     <string name="gamebox_macro">Kombosy</string>
     <string name="gamebox_net_optimize_description">Zmniejsz opóźnienia sieci Wi-Fi oraz ich zmienność. Aby cieszyć się specjalnymi trybami zwiększania prędkości, użyj routera Xiaomi lub Redmi.</string>
     <string name="gamebox_recent_task_expand_fail">Aplikacje, które działają ze skrótami, nie są zainstalowane</string>
@@ -519,6 +529,7 @@ Rejestruj sekwencje i używaj ich w dowolnym momencie!"</string>
     <string name="gb_performance_balance_tips">"Tryb zbalansowany oszczędza baterię
 i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gb_predownload_dialog_message_china"><Data>"Urządzenie może automatycznie pobierać zaktualizowane treści dla tej gry po połączeniu się z siecią Wi-Fi i wyłączeniu ekranu. Dzięki temu będziesz mógł grać w grę w nowej wersji tuż po jej opublikowaniu.&lt;br>&lt;br>Przed skorzystaniem z tej funkcji przeczytaj i zaakceptuj &lt;a href=\"%1$s\">Stanowisko dot. aktualizacji w tle&lt;/a>."</Data></string>
+    <string name="gb_predownload_noti_small_size_message">"Pobrano %2$1.2f MB nowej zawartości. Będziesz mógł z niej korzystać po wydaniu nowej wersji."</string>
     <string name="gb_setting_dock_toast">Funkcje asystenta przedniego aparatu są teraz dostępne w Przyborniku połączeń</string>
     <string name="gb_setting_dock_toast_2">Funkcje asystenta przedniego aparatu są teraz dostępne w Przyborniku połączeń</string>
     <string name="gb_shoulder_key_light_effect_subtitle">"Kolorowe animacje będą wyświetlane, gdy triggery są włączone i grasz"</string>
@@ -773,6 +784,7 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_main_battery_text_minute">Wydłużono o %1$s min, pozostało ok. %2$s min</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s dni %2$s godz.</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s godz. %2$s min</string>
+    <string name="pc_misight_reminder_check">Wyświetl</string>
     <string name="pc_night_charge_protect_title">Ochrona przed ładowaniem w nocy</string>
     <string name="pc_power_mode_has_berserk">Włączono Tryb wydajności</string>
     <string name="pc_power_mode_has_performance">Włączono Tryb wydajności</string>

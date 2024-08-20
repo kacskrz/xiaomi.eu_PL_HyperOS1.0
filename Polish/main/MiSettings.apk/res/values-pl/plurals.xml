@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="pcl_add_account_ignore_with_seconds">
+        <item quantity="other">Nie teraz (%d s)</item>
+        <item quantity="one">Nie teraz (%d s)</item>
+        <item quantity="few">Nie teraz (%d s)</item>
+        <item quantity="many">Nie teraz (%d s)</item>
+    </plurals>
+    <plurals name="pcl_passport_re_get_verify_code_with_seconds">
+        <item quantity="other">Wyślij ponownie (%d s)</item>
+        <item quantity="one">Wyślij ponownie (%d s)</item>
+        <item quantity="few">Wyślij ponownie (%d s)</item>
+        <item quantity="many">Wyślij ponownie (%d s)</item>
+    </plurals>
     <plurals name="pcl_number_locked">
         <item quantity="other">Zablokowano %d aplikacji</item>
         <item quantity="one">Zablokowano %d aplikację</item>
