@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Usunąć %d pobrań?</item>
+        <item quantity="few">Usunąć %d pobrania?</item>
+        <item quantity="one">Usunąć %d pobranie?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Pomyślnie usunięto %s pobrań</item>
+        <item quantity="few">Pomyślnie usunięto %s pobrania</item>
+        <item quantity="one">Pomyślnie usunięto %s pobranie</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">Oczekujących %d plików</item>
+        <item quantity="one">Oczekujący 1 plik</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">"Nie udało się pobrać %1$d plików"</item>
+        <item quantity="one">"Nie udało się pobrać %1$d pliku"</item>
+    </plurals>
+</resources>
