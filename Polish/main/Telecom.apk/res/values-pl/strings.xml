@@ -42,6 +42,7 @@
     <string name="notification_channel_incoming_call">Przychodzące połączenia</string>
     <string name="notification_channel_missed_call">Nieodebrane połączenia</string>
     <string name="notification_missedCall_call_back_miui">Zadzwoń</string>
+    <string name="relay_limit_dialer_button">Nie można użyć tej funkcji w połączeniach przekazanych na inne urządzenia</string>
     <string name="respond_via_sms_canned_response_2">Za chwilę oddzwonię.</string>
     <string name="respond_via_sms_canned_response_3">Zadzwonię później.</string>
 </resources>
