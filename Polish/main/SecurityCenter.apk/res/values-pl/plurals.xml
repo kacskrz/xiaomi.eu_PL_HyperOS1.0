@@ -133,10 +133,6 @@
         <item quantity="few">%2$d aplikacje (w tym %1$s) mogą być złośliwe</item>
         <item quantity="one">%2$d aplikacja (%1$s) może być złośliwa</item>
     </plurals>
-    <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d-dniową</item>
-        <item quantity="one">%d-dniową</item>
-    </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">"%s dni, "</item>
         <item quantity="one">"%s dzień, "</item>

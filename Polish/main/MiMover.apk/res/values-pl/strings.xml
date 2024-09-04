@@ -34,7 +34,6 @@
     <string name="apps_cannot_be_transfered_title">"Nie można przenieść tych aplikacji"</string>
     <string name="cancel_btn">Anuluj</string>
     <string name="cancel_description">Anuluj</string>
-    <string name="cancel_tranfer">Anuluj</string>
     <string name="cannot_use_mi_huanji_bacause_of_downloader">Aplikacja \"%s\" już dostarcza usługi systemowej kopii zapasowej. Odinstaluj ją i uruchom ponownie urządzenie, aby móc używać Przenoszenia danych.</string>
     <string name="close_twice_auth_btn">Wyłącz uwierzytelnianie dwuskładnikowe</string>
     <string name="close_twice_auth_note">"Informacja: Po utworzeniu nowego pytania zabezpieczającego i potwierdzeniu daty urodzenia uwierzytelnianie dwuskładnikowe Twojego konta Apple ID zostanie wyłączone. Jeśli nie widzisz opcji wyłączenia uwierzytelniania dwuskładnikowego na stronie ustawień konta Apple ID, nie możesz go wyłączyć."</string>
@@ -68,7 +67,6 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
 Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate chats."</string>
     <string name="err_not_allow">Brak wsparcia</string>
     <string name="guest_wainting_title">Kontynuuj na nowym urządzeniu</string>
-    <string name="high_temp_summary">Twoje urządzenie może się przegrzewać w trakcie przesyłania dużej ilości danych. To normalne. Urządzenie schłodzi się, gdy transfer się zakończy.</string>
     <string name="host_boot_installation_bottom_tips">"Nie możesz odnaleźć Przenoszenia danych? Dotknij, aby pobrać."</string>
     <string name="host_boot_installation_content">"1. Przejdź do Ustawień na starym urządzeniu.
 2. Wpisz \"Przenoszenie danych\" w pasku wyszukiwania.

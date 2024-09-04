@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="act_find_city_location_button_text">Uzyskaj obecną lokalizację</string>
-    <string name="act_find_city_location_title">Obecna lokalizacja</string>
     <string name="act_find_city_no_location_text">Brak lokalizacji</string>
     <string name="act_location_error_to_find_city">Nie udało się ustalić lokalizacji. Dodaj miasto ręcznie.</string>
     <string name="activity_find_city_dialog_message">Zezwól Pogodzie na dostęp do lokalizacji urządzenia.</string>
@@ -13,7 +12,6 @@
     <string name="activity_main_pub_time">Opublikowano o %1$s</string>
     <string name="activity_main_update_time">Aktualizacja %1$s</string>
     <string name="activity_minute_rain_location_fail_msg">Lokalizacja nieudana. Ustawiono obecne miasto</string>
-    <string name="add_city">Dodaj</string>
     <string name="aqi_15_days_desc">15-dniowa prognoza IJP</string>
     <string name="aqi_24_hours_desc">24-godzinna prognoza IJP</string>
     <string name="aqi_48_hours_desc">48-godzinna prognoza IJP</string>
