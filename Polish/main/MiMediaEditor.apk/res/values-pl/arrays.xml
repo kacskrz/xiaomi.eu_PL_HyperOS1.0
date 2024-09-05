@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Biały</item>
+        <item>Ciemnoniebieski</item>
+        <item>Jasnoniebieski</item>
+        <item>Czerwony</item>
+        <item>Zielony</item>
+        <item>Różowy</item>
+        <item>Brązowy</item>
+        <item>Szary</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>Stany Zjednoczone</item>
+        <item>Wietnam</item>
+        <item>Japonia</item>
+        <item>Hongkong i Makau</item>
+        <item>Korea Południowa</item>
+        <item>Tajlandia (turystyczna)</item>
+        <item>Tajlandia (przybycie)</item>
+        <item>Indie</item>
+        <item>Izrael</item>
+        <item>Tajwan</item>
+        <item>Malezja</item>
+        <item>Nowa Zelandia</item>
+        <item>Włochy</item>
+        <item>Argentyna</item>
+        <item>Brazylia</item>
+        <item>Islandia</item>
+        <item>Kenia</item>
+    </string-array>
+</resources>
