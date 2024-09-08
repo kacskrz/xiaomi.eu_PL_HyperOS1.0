@@ -58,8 +58,10 @@
     <string name="clipboard_read_ai_deny_once">Ograniczono dostęp do schowka: %1$s</string>
     <string name="clipboard_read_deny_dialog_title">Ograniczono dostęp do schowka: %1$s</string>
     <string name="deny_fine_keep_blur_location_dont_ask_again">Zawsze udostępniaj przybliżoną</string>
+    <string name="grant_dialog_button_allow_all">Zezwól na wszystko</string>
     <string name="grant_dialog_button_allow_foreground">Zezwól tylko, gdy korzystam z aplikacji</string>
     <string name="grant_dialog_button_allow_onetime">Tylko tym razem</string>
+    <string name="grant_dialog_button_allow_selected_photos">Wybierz część</string>
     <string name="grant_dialog_button_deny_background">Tylko w trakcie korzystania</string>
     <string name="grant_dialog_button_only_allow_foreground_locate">Nie tym razem</string>
     <string name="grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Nie zezwalaj i nie pytaj</string>
