@@ -578,6 +578,8 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="wifi_region_summary">Włącz Wi-Fi ponownie, aby zastosować wybrany przez siebie region.</string>
     <string name="wifi_region_title">Region Wi-Fi</string>
     <string name="wireless_display">Wyświetlacz bezprzewodowy</string>
+    <string name="wireless_secondary_display">Rozszerzony ekran bezprzewodowy</string>
+    <string name="wireless_secondary_display_description">Użyj tabletu jako rozszerzenia ekranu bezprzewodowego dla komputera w pobliżu</string>
     <string name="wlan_switch_tips_message">W trakcie przełączania się między dodatkową i główną siecią Wi-Fi urządzenie tymczasowo rozłączy się z dodatkową siecią. Przełączyć?</string>
     <string name="xiaomi_transfer">Xiaomi Share</string>
 </resources>
