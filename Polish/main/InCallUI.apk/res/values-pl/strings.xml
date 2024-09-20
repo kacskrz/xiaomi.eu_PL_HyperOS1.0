@@ -18,6 +18,7 @@
     <string name="flip_expand_suport_videocall_text">Rozłóż, aby zobaczyć opcje wideokonferencji</string>
     <string name="flip_expand_switch_call_text">Rozłóż, aby przełączyć się na rozmowę wielokanałową</string>
     <string name="flip_rotate_use_handset_or_speaker_text">Obróć, aby użyć opcji głośnika</string>
+    <string name="focus_notification_in_calling">Trwa rozmowa</string>
     <string name="high_temperature_toast">"Twoje urządzenie jest przegrzane. Nie można skorzystać z tej funkcji."</string>
     <string name="incoming_show_permission_msg">"Nie można odtwarzać wideo profilowych dla przychodzących połączeń bez uprawnień do pamięci"</string>
     <string name="manageConferenceLabel">Zarządzaj telekonferencją</string>
@@ -58,6 +59,7 @@
     <string name="month_september_short">wrz</string>
     <string name="month_september_shortest">W</string>
     <string name="msim_select_default_last">Ostatnio używana</string>
+    <string name="on_call_recording">Nagrywanie</string>
     <string name="onscreen_audio_mode_handset">Telefon</string>
     <string name="onscreen_change_to_video">Rozmowa wideo</string>
     <string name="onscreen_collapsed_dialpad">Pokaż klawiaturę numeryczną</string>
