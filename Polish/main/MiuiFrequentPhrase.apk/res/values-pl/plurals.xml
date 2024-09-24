@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="input_method_phrase_more_file">
+        <item quantity="other">%1$d plików</item>
+        <item quantity="few">%1$d pliki</item>
+        <item quantity="one">%1$d plik</item>
+    </plurals>
+    <plurals name="input_method_phrase_more_image">
+        <item quantity="other">%1$d obrazów</item>
+        <item quantity="few">%1$d obrazy</item>
+        <item quantity="one">%1$d obraz</item>
+    </plurals>
+    <plurals name="input_method_phrase_more_video">
+        <item quantity="other">%1$d filmów</item>
+        <item quantity="few">%1$d filmy</item>
+        <item quantity="one">%1$d film</item>
+    </plurals>
+</resources>

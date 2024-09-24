@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="celluar_tether_disconect_title">Rozłączono</string>
+    <string name="celluar_tether_disconnect_WLAN_prompt">Aby poprawić prędkość połączenia, rozłącz się z Wi-Fi</string>
+    <string name="celluar_tether_disconnect_notify">Twój telefon jest połączony z pojazdem elektrycznym. Wyłącz Łączność między urządzeniami na telefonie i spróbuj ponownie.</string>
+    <string name="celluar_tether_disconnect_notify_connected_WLAN">Twój telefon jest połączony z Wi-Fi. Zatrzymano sesję udostępniania łączności.</string>
+    <string name="celluar_tether_disconnect_notify_phone_connected_WLAN">Połączono z siecią Wi-Fi. Zatrzymano sesję udostępniania łączności.</string>
     <string name="celluar_tether_name">Bezprzewodowy tethering</string>
     <string name="celluar_tether_prompt">"Dzięki bezprzewodowemu tetheringowi Twój tablet może korzystać z danych mobilnych Twojego telefonu. Wygląda na to, że w pobliżu nie ma kompatybilnego z tą funkcją urządzenia Xiaomi. Upewnij się, że Twoj telefon i tablet są zalogowane na to samo konto Xiaomi, dane mobilne na Twoim telefonie są włączone, a oba urządzenia są połączone z siecią Wi-Fi."</string>
     <string name="celluar_tether_prompt_china">"Dzięki bezprzewodowemu tetheringowi Twój tablet może korzystać z danych mobilnych Twojego telefonu. Wygląda na to, że w pobliżu nie ma kompatybilnego z tą funkcją urządzenia Xiaomi. Upewnij się, że Twoj telefon i tablet są zalogowane na to samo konto Xiaomi, dane mobilne na Twoim telefonie są włączone, a oba urządzenia są połączone z siecią Wi-Fi."</string>
+    <string name="device_busy_notify">Urządzenie jest zajęte. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="easy_tether_auto_connect_summary">Możesz włączyć hotspot i umożliwić urządzeniom w pobliżu korzystającym z Twojego konta Xiaomi automatyczne łączenie się z tym hotspotem, gdy nie mogą one uzyskać dostępu do sieci za pomocą innych metod.</string>
     <string name="easy_tether_auto_connect_summary_v2">"Automatycznie włącz dane komórkowe lub hotspot i połącz się z urządzeniami w pobliżu z tym samym kontem, gdy potrzebują one dostępu do Internetu."</string>
     <string name="easy_tether_auto_connect_toast">"Połączono z hotspotem %1$s. Ustaw limity danych w jego ustawieniach."</string>
+    <string name="easy_tether_statusbar_connect_title_v3">Użyj hotspotu %1$s</string>
     <string name="fast_connect_device_reset_audio_share">Przytrzymaj przez 2 sekundy, aby zresetować</string>
     <string name="fast_connect_headset_reset">Przytrzymaj przycisk zestawu przez %1$d s</string>
     <string name="fast_connect_nzbt_reset">Przytrzymaj górny przycisk przez %1$s s, gdy urządzenie jest wyłączone</string>

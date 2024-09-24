@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="android.credentials.TYPE_PASSWORD_CREDENTIAL">Hasło</string>
+    <string name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">Klucz</string>
     <string name="app_name">Hasła</string>
     <string name="auth_activity_label">Kody weryfikacyjne</string>
     <string name="auth_fingerprint_content">Odczytywanie odcisku palca…</string>
@@ -23,15 +25,35 @@
     <string name="cancel">Anuluj</string>
     <string name="change_passwork_dialog_content">"Dla tego konta jest już zapisane hasło. Zaktualizować je teraz?"</string>
     <string name="change_passwork_dialog_title">Zaktualizować hasło?</string>
+    <string name="continuity_credential_dialog_btn_positive">Zezwól</string>
+    <string name="continuity_credential_dialog_content">%1$s żąda użycia Twojego klucza \"%2$s\" do zalogowania się do %3$s.</string>
+    <string name="continuity_credential_dialog_title">Zezwól %s na użycie klucza</string>
+    <string name="continuity_credential_notification_content">%s żąda weryfikacji klucza</string>
+    <string name="continuity_credential_request_expire">Weryfikacja wygasła</string>
+    <string name="create_creadential_need_enrolled_fingerprints_desc">Aby użyć klucza, dodaj swój odcisk palca.</string>
+    <string name="create_creadential_need_enrolled_fingerprints_title">Dodaj odcisk palca</string>
+    <string name="create_creadential_need_open_sync_desc">Włącz Menedżer haseł, aby zarządzać i używać kluczy na wszystkich Twoich urządzeniach Xiaomi.</string>
+    <string name="create_creadential_need_open_sync_title">Włącz Menedżer haseł</string>
+    <string name="create_time">Utworzono</string>
+    <string name="credential_desc">Klucz</string>
+    <string name="credential_manage_desc">Klucze dostępu pozwalają na logowanie się szybciej i w bardziej bezpieczny sposób niż tradycyjne metody logowania. Ten klucz jest powiązany ze Twoim odciskiem palca z tego urządzenia i synchronizowany pomiędzy urządzeniami za pomocą usług Chmury Xiaomi.</string>
+    <string name="credential_notification_login_account_desc">Aby użyć klucza, zaloguj się na swoje konto Xiaomi.</string>
+    <string name="credential_notification_open_sync_desc">Aby użyć klucza, włącz Menedżer haseł.</string>
+    <string name="del_credential_btn_text">Usuń</string>
+    <string name="del_credential_dialog_title">Usuń klucz</string>
+    <string name="del_credential_err_notify">Nie udało się usunąć. Spróbuj ponownie.</string>
+    <string name="del_credential_progress_text">Usuwanie…</string>
     <string name="delete">Usuń</string>
     <string name="hide_password_talkback">Ukryj hasło</string>
     <string name="invalid_package_signature">Nieprawidłowa sygnatura aplikacji</string>
     <string name="login_mi_account_alert">Uwaga</string>
     <string name="login_mi_account_summary">Menedżer haseł synchronizuje Twoje hasła z kontem Xiaomi. Czy chcesz się na nie zalogować?</string>
+    <string name="open">Włącz</string>
     <string name="password_manager">Menedżer haseł</string>
     <string name="password_manager_summary">Synchronizuj hasła z Chmurą Xiaomi</string>
     <string name="save_content_tip">"Zostaną zapisane następujące elementy: "</string>
     <string name="search">Szukaj</string>
+    <string name="setting">Dodaj</string>
     <string name="settings_clear_data_confirmation_description">"Jeśli usuniesz hasła, będziesz musiał je wpisać ręcznie, gdy będziesz się logować następnym razem.
 Na pewno to zrobić?"</string>
     <string name="settings_clear_data_confirmation_title">Usuwanie haseł</string>

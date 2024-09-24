@@ -31,6 +31,9 @@ Spróbuj ponownie."</string>
     <string name="cm_privacy_dialog_spannable_tips">Politykę prywatności</string>
     <string name="cm_privacy_dialog_tips">"Usługi inteligentnych wiadomości są dostarczane przez Twojego operatora. Aplikacja SMS wymaga połączenia z Internetem i dostępu do lokalizacji, aby dostarczać te usługi. Musisz zgodzić się na %1s swojego operatora przed używaniem tych usług. Czy zgadzasz się na to?"</string>
     <string name="cn_privacy_dialog_title">Uwaga</string>
+    <string name="context_menu_access_link">Otwórz adres URL</string>
+    <string name="context_menu_call_phone">Zadzwoń</string>
+    <string name="context_menu_copy_link">Kopiuj adres URL</string>
     <string name="conv_content_risk">Wysłano z nieznanego numeru</string>
     <string name="conv_head_link_tip">Zgłoś oszustwo</string>
     <string name="conv_head_risk_tip">Może być podejrzane</string>
@@ -57,6 +60,7 @@ Spróbuj ponownie."</string>
     <string name="favorite_at_time">Polubione: %1s</string>
     <string name="file_create_time">Utworzono:</string>
     <string name="file_expired">Ten plik wygasł</string>
+    <string name="file_name_too_long">Nie udało się wysłać. Nazwa pliku jest za długa.</string>
     <string name="found_wild_messages_guide_cloud_desc">Aby zsynchronizować wiadomości z Chmurą Xiaomi, zaloguj się na swoje konto Xiaomi i włącz synchronizację SMS.</string>
     <string name="found_wild_messages_guide_settings_desc">Włącz synchronizację wiadomości z Chmurą w ustawieniach SMS.</string>
     <string name="from_pkg_name">"Z aplikacji: "</string>
@@ -93,6 +97,7 @@ Spróbuj ponownie."</string>
     <string name="mms_mi_message_main_purpose">Witaj w Wiadomościach Mi! Aby aktywować tę usługę, wymagane jest wysłanie jednego SMS-a aktywacyjnego. Opłatę za niego pobierze Twój operator.</string>
     <string name="mms_mi_message_request_notice">Chcemy, abyś w pełni wykorzystał możliwości Wiadomości Mi.</string>
     <string name="mms_mx_privacy_policy">Polityka prywatności Wiadomości Mi</string>
+    <string name="mms_satellite_privacy_policy">Polityka prywatności Wiadomości satelitarnych</string>
     <string name="mms_smart_msg_main_purpose">Funkcja Inteligentne wiadomości może rozpoznawać identyfikatory nadawcy, dostarczać usługi inteligentnego menu i rozpoznawać podejrzane SMS-y.</string>
     <string name="mms_smart_msg_privacy_policy">Polityka prywatności Inteligentnych wiadomości</string>
     <string name="mms_title">SMS</string>
@@ -145,6 +150,7 @@ Spróbuj ponownie."</string>
     <string name="mx_privacy_policy_revoke">Wycofaj zgodę na warunki Polityki prywatności Wiadomości Mi</string>
     <string name="my_location">Moja lokalizacja:</string>
     <string name="new_message_arrived">Nowa wiadomość</string>
+    <string name="no_conversation_selected">Wybierz konwersację, aby wyświetlić</string>
     <string name="non_english_subject_limit">Limit 13 znaków dla nieangielskich tematów</string>
     <string name="nosend_message">"Nie wysyłaj"</string>
     <string name="not_prepare_for_send">Brak wiadomości do wysłania</string>
@@ -158,6 +164,7 @@ Spróbuj ponownie."</string>
     <string name="open_audio_record_panel">Otwórz nagrywanie</string>
     <string name="open_edit_sms_panel">Otwórz panel edycji</string>
     <string name="open_now">Ustawienia</string>
+    <string name="perm_purpose_mms_account">Aby uzyskać informacje o koncie</string>
     <string name="perm_purpose_rcs_account">Do wyświetlania samouczka dla początkujących</string>
     <string name="permission_new_retry_dialog_msg">Aby móc działać normalnie, aplikacja SMS wymaga dostępu do kontaktów. Możesz zmienić uprawnienia w Ustawieniach > Aplikacje > Systemowe.</string>
     <string name="pref_advanced_settings_title">Zaawansowane</string>
@@ -170,6 +177,8 @@ Spróbuj ponownie."</string>
     <string name="pref_summary_auto_delete">Usuń stare wiadomości, gdy osiągnięto limit</string>
     <string name="pref_summary_delete_limit">%1$s wiadomości na wątek</string>
     <string name="pref_summary_delivery_ringtone">Odtwórz dźwięk przy dostarczonej wiadomości</string>
+    <string name="pref_summary_off_system_mms_priority">Użyj aplikacji firm trzecich do wysyłania i otrzymywania MMS-ów</string>
+    <string name="pref_summary_on_system_mms_priority">Ustaw aplikację SMS od Xiaomi jako domyślną aplikację do wysyłania i otrzymywania MMS-ów</string>
     <string name="pref_summary_switch_aim_card">Wyświetlaj wiadomości zawierające filmy, zdjęcia i formatowanie jako karty</string>
     <string name="pref_title_authority_management">Szczegóły dot. uprawnień</string>
     <string name="pref_title_miui_card">Wizytówka systemu</string>
@@ -189,6 +198,7 @@ Spróbuj ponownie."</string>
     <string name="pref_title_perm_write_contacts">Edycja kontaktów</string>
     <string name="pref_title_privacy_policy_detail">Polityka prywatności</string>
     <string name="pref_title_smart_msg_privacy_policy">Polityka prywatności Inteligentnych wiadomości</string>
+    <string name="pref_title_system_mms_priority">Ustaw jako domyślną</string>
     <string name="pref_title_switch_aim_card">Konwertuj wiadomości na karty</string>
     <string name="pref_title_vcard">Wizytówka vCard</string>
     <string name="privacy_dialog_error_service">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
@@ -230,8 +240,10 @@ Zanim przejdziesz dalej, przeczytaj i zaakceptuj jej warunki."</string>
     <string name="sim_not_support_mms">Ta karta SIM nie wspiera MMS</string>
     <string name="smart_message_title">Inteligentne wiadomości</string>
     <string name="smart_messages_network_allow_title">Wymagane połączenie z Internetem</string>
+    <string name="smart_msg_main_purpose">Inteligentne wiadomości dostarczają rozpoznawanie ID nadawcy i usługi inteligentnych menu.</string>
     <string name="smart_msg_privacy_policy">Polityka prywatności Inteligentnych wiadomości</string>
     <string name="smart_msg_privacy_policy_revoke">Wycofaj zgodę na warunki Polityki prywatności Inteligentnych wiadomości</string>
+    <string name="smart_msg_upgrade_main_purpose">Inteligentne wiadomości działają teraz z MMS-ami. Będziesz w stanie używać więcej usług dostarczanych przez nadawców, a także otrzymywać wiadomości w nowych formatach.</string>
     <string name="snippet_audio">[Dźwięk]</string>
     <string name="snippet_picture">[Obraz]</string>
     <string name="snippet_timed">[Zaplanowano]</string>
@@ -318,6 +330,7 @@ Aby kontrolować długość wiadomości, pobrane zostanie tylko pierwsze 50 znak
     <string name="vital_signs_wait_title">Dane funkcji życiowych</string>
     <string name="wait_for_sp_mark_as_read">Chwileczkę…</string>
     <string name="wrong_mms_version_msg">"Zainstaluj wersję aplikacji SMS kompatybilną ze Twoim urządzeniem i systemem."</string>
+    <string name="yellowpage_recommend_msg">Sprawdź funkcje SMS-ów od Xiaomi</string>
     <string name="you_have_new_message">Masz nowe wiadomości</string>
     <string name="zero_sms_feedback_message">Zgłoszone wiadomości zostaną przesłane na serwery Xiaomi wraz z numerami telefonów ich nadawców. Są one używane wyłącznie do poprawienia funkcjonalności Listy blokowanych.</string>
 </resources>

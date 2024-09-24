@@ -9,6 +9,11 @@
     <string name="camera_associate_success">Połączono z aparatem</string>
     <string name="camera_connecting_device">Łączenie z %s</string>
     <string name="camera_disconnecting_device">Rozłączanie z %s</string>
+    <string name="camera_permission_dialog_message">Zezwól tej aplikacji na korzystanie z aparatu tego urządzenia. Możesz przyznać to uprawnienie w Ustawieniach.</string>
+    <string name="camera_permission_dialog_negative">Anuluj</string>
+    <string name="camera_permission_dialog_positive">Ustawienia</string>
+    <string name="camera_permission_dialog_title">Wymagane uprawnienia</string>
+    <string name="camera_permission_timeout_toast">Przekroczono czas żądania. Spróbuj ponownie.</string>
     <string name="camera_title">Wyszukiwanie dostępnych urządzeń…</string>
     <string name="cancel">Anuluj</string>
     <string name="car_card_air_temperature_minus">Obniż temperaturę klimatyzacji</string>

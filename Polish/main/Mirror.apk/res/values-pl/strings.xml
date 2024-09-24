@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_has_uninstall">Ta aplikacja została odinstalowana</string>
     <string name="app_not_support_subscreen">"Nie można zmaksymalizować tego okna"</string>
     <string name="call_error_notify_button">Wróć</string>
     <string name="call_error_notify_content">Możesz wrócić z powrotem na ekran telefonu, aby kontynuować rozmowę</string>
     <string name="call_error_notify_title">Niestabilne połączenie z siecią</string>
+    <string name="cant_open_more_windows">Nie można otworzyć więcej okien</string>
     <string name="cast_mcc_tips_title_china">Zmień ustawienia Wi-Fi</string>
     <string name="circulate_cta_agree">Akceptuję</string>
     <string name="circulate_cta_all_purpose">Ekran główny+ to część Usług łączności między urządzeniami Xiaomi. Pozwala on na wyświetlanie pulpitów innych połączonych urządzeń i interakcję z nimi. Aby działać normalnie, usługa musi łączyć się z Internetem i wymaga następujących uprawnień:</string>
@@ -191,6 +193,7 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="scanner_uninstalled_title">Zainstaluj Skaner</string>
     <string name="screen_permission_pad_tips_denied">Otwórz Ustawienia łączności między urządzeniami na %s, aby zezwolić innym urządzeniom na wyświetlanie zawartości tego ekranu i interakcję z nią.</string>
     <string name="screen_permission_request_relay">Przekazywanie aplikacji</string>
+    <string name="searchable_settings_desc">Wyszukaj aplikacje na połączonych urządzeniach</string>
     <string name="seize_cancel">Nie</string>
     <string name="seize_content">Aby móc przesyłać elementy, zatrzymaj udostępnianie ekranu. Zrobić to teraz?</string>
     <string name="seize_ok">OK</string>
@@ -233,6 +236,7 @@ Możesz rozpocząć kolejną sesję na swoim komputerze."</string>
     <string name="softap_notification_message_china">Brak dostępnych sieci Wi-Fi. Połączyć się z tym hotspotem?</string>
     <string name="subscreen_exception_hint">"Wersja na urządzeniu nie jest aktualna. Mogą wystąpić błędy wyświetlania."</string>
     <string name="switch_wlan_failed_desc_china">"Nie udało się automatycznie połączyć z tą siecią Wi-Fi. Spróbuj to zrobić ręcznie w Ustawieniach."</string>
+    <string name="switch_wlan_success_china">Przełączono na tę samą sieć Wi-Fi</string>
     <string name="switch_wlan_tips_china">Połącz się z tą samą siecią</string>
     <string name="switch_wlan_tips_desc">Aby uzyskać lepsze efekty, możesz się połączyć z tą samą siecią Wi-Fi co inne urządzenie. Zrobić to teraz?</string>
     <string name="switch_wlan_tips_desc_china">Aby uzyskać lepsze efekty, możesz się połączyć z tą samą siecią Wi-Fi co inne urządzenie. Zrobić to teraz?</string>

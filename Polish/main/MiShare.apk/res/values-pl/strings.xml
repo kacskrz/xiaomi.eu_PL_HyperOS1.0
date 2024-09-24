@@ -6,6 +6,8 @@
     <string name="error_p2p_create_group_failure_china">"Nie udało się połączyć. Połącz się ponownie z siecią Wi-Fi na obu urządzeniach i spróbuj ponownie."</string>
     <string name="error_p2p_recv_connect_timeout_china">"Nie udało się połączyć. Połącz się ponownie z siecią Wi-Fi na obu urządzeniach i spróbuj ponownie."</string>
     <string name="error_send_transfer_pc_error">Przekroczono czas żądania przenoszenia. Zaktualizuj Xiaomi PC Manager i spróbuj ponownie.</string>
+    <string name="global_help">Pomoc</string>
+    <string name="guide_summary_1_lyra">Xiaomi Share można włączyć w Centrum funkcji</string>
     <string name="menu_item_privacy_title">Polityka prywatności</string>
     <string name="menu_item_view_privacy_policy_title">Wyświetl Politykę prywatności</string>
     <string name="menu_item_view_user_protocol_title">Wyświetl Umowę użytkownika</string>
@@ -28,7 +30,9 @@
     <string name="send_one_zip_dialog_desc_received">Otrzymano %2$d plik ZIP \"%3$s\" z %1$s</string>
     <string name="send_one_zip_dialog_desc_receiving">Otrzymywanie %2$d pliku ZIP \"%3$s\" z %1$s</string>
     <string name="sub_title_turbo_mode">Superszybkie prędkości transferu między telefonami i tabletami Xiaomi. W trakcie transferu sieć nie będzie działać.</string>
+    <string name="switch_mode_close">Wyłączone</string>
     <string name="tips_p2p_support_use5g_china">Dla lepszych rezultatów wykorzystaj sieć Wi-Fi 5 GHz.</string>
+    <string name="transfer_to_different_account_summary">Upewnij się, że funkcja Xiaomi Share jest włączona w Centrum funkcji. Urządzenie będzie wykrywalne dla innych użytkowników przez %d min.</string>
     <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager wspiera teraz Xiaomi Share! Listę wspieranych komputerów znajdziesz &lt;a href=%1$s>tutaj&lt;/a>.</Data></string>
     <string name="transfer_to_phone_summary_new">Włącz Xiaomi Share w Centrum funkcji, aby móc łatwo wysyłać i odbierać elementy. Po włączeniu tej funkcji możesz udostępniać elementy urządzeniom w pobliżu przez %d minut. Po tym czasie funkcja się wyłączy.</string>
     <string name="transfer_to_phone_title">Wysyłaj pliki do innych telefonów</string>

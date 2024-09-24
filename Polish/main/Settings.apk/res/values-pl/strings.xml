@@ -45,9 +45,116 @@
     <string name="aon_gesture_supported_title">Dostępne gesty</string>
     <string name="aon_gesture_up_down_waving_summary">Zmieniaj głośność, przełączaj się między filmikami i przesuwaj strony w dokumentach</string>
     <string name="aon_gesture_up_down_waving_title">Machaj pionowo</string>
+    <string name="aon_scanner_default_payment_method_title">Domyślna metoda płatności</string>
+    <string name="aon_scanner_dialog_message">Gdy włączysz Szybki skaner, skanowane przez Ciebie kody QR będą udostępniane aplikacji Skaner. Zanim przejdziesz dalej, będzie trzeba wyrazić na to zgodę. Skanowane kody nie będą przechowywane ani lokalnie, ani w chmurze. Funkcja może nieznacznie zwiększyć zużycie energii.</string>
+    <string name="aon_scanner_dialog_title">Informacja dot. prywatności</string>
+    <string name="aon_scanner_disclaimer_message">Szybki skaner to szybka i łatwa metoda skanowania kodów QR. Po jej włączeniu możesz szybko zeskanować kod i przenieść się na odpowiednią stronę. Zanim zeskanujesz kod, upewnij się, że wiesz, jakie usługi on dostarcza. Xiaomi nie gwarantuje tego, że kody stron trzecich są aktualne ani bezpieczne.</string>
+    <string name="aon_scanner_disclaimer_title">Informacja</string>
+    <string name="aon_scanner_download_message">Aby dostarczać swoje usługi, Szybki skaner korzysta z aplikacji Skaner. Kody, które zeskanujesz, zostaną jej udostępnione.</string>
+    <string name="aon_scanner_download_title">Zainstaluj Skaner</string>
+    <string name="aon_scanner_settings">Szybki skaner</string>
+    <string name="aon_scanner_status_close">Wył.</string>
+    <string name="aon_scanner_status_open">Wł.</string>
+    <string name="aon_scanner_summary" formatted="false">Gdy znajdujesz się na Ekranie głównym, skieruj urządzenie na kod QR (do %d cm), aż pojawi się komunikat, i przytrzymaj przez %d sekund, aby zeskanować</string>
     <string name="apn_settings">Punkty dostępu</string>
     <string name="app_permissions_summary">Aplikacje używające %1$s</string>
     <string name="app_usage_cycle">Cykl zużycia danych przez aplikację</string>
+    <!-- COPY FROM PIXEL, REMOVE AT ANDROID 15 GLOBAL RELEASE -->
+    <string name="audio_sharing_call_audio_description">Odtwórz tylko na urządzeniu %1$s</string>
+    <string name="audio_sharing_call_audio_title">Dźwięk rozmowy</string>
+    <string name="audio_sharing_close_button_label">Zamknij</string>
+    <string name="audio_sharing_comfirm_dialog_content">Aby zacząć udostępniać dźwięk, najpierw połącz słuchawki LE Audio z telefonem</string>
+    <string name="audio_sharing_confirm_dialog_title">Połącz zgodne urządzenie</string>
+    <string name="audio_sharing_connect_button_label">Połącz</string>
+    <string name="audio_sharing_description">Słuchaj multimediów razem z innymi. Osoby te muszą mieć własne słuchawki LE Audio.</string>
+    <string name="audio_sharing_device_group_title">Aktywne urządzenia multimedialne</string>
+    <string name="audio_sharing_dialog_connect_device_content">Połącz drugą parę zgodnych słuchawek lub podaj tej osobie nazwę strumienia i hasło</string>
+    <string name="audio_sharing_dialog_disconnect_content">Dźwięk może być udostępniany tylko na 2 urządzeniach jednocześnie</string>
+    <string name="audio_sharing_dialog_pair_device_content">Sparuj drugie zgodne słuchawki lub udostępnij tej osobie kod QR strumienia audio</string>
+    <string name="audio_sharing_dialog_share_content">Muzyka i filmy z tego telefonu będą odtwarzane przez obie pary słuchawek</string>
+    <string name="audio_sharing_dialog_share_more_content">Muzyka i filmy z tego telefonu będą odtwarzane przez połączone słuchawki</string>
+    <string name="audio_sharing_disconnect_device_button_label">Odłącz urządzenie %1$s</string>
+    <string name="audio_sharing_disconnect_dialog_title">Wybierz urządzenie do odłączenia</string>
+    <string name="audio_sharing_footer_description">Udostępnianie dźwięku obsługuje Auracast™</string>
+    <string name="audio_sharing_media_device_group_title">Inne urządzenia multimedialne</string>
+    <string name="audio_sharing_nearby_audio_title">Słuchaj dźwięku w pobliżu</string>
+    <string name="audio_sharing_no_thanks_button_label">Nie, dzięki</string>
+    <string name="audio_sharing_notification_content">Osoby słuchające będą słyszeć Twoje multimedia. Nie będą słyszeć połączeń.</string>
+    <string name="audio_sharing_notification_title">Udostępniasz dźwięk</string>
+    <string name="audio_sharing_pair_button_label">Sparuj nowe urządzenie</string>
+    <string name="audio_sharing_qrcode_button_label">Pokaż kod QR</string>
+    <string name="audio_sharing_settings_button_label">Ustawienia</string>
+    <string name="audio_sharing_share_button_label">Udostępnij dźwięk</string>
+    <string name="audio_sharing_share_dialog_subtitle">%1$s i %2$s</string>
+    <string name="audio_sharing_share_dialog_title">Udostępnij dźwięk</string>
+    <string name="audio_sharing_share_with_button_label">Udostępnij urządzeniu %1$s</string>
+    <string name="audio_sharing_share_with_dialog_title">Udostępnić dźwięk temu urządzeniu: %1$s?</string>
+    <string name="audio_sharing_share_with_more_dialog_title">Udostępnij dźwięk innemu urządzeniu</string>
+    <string name="audio_sharing_sharing_label">Udostępniam dźwięk</string>
+    <string name="audio_sharing_sharing_stopped_label">Zatrzymano udostępnianie dźwięku</string>
+    <string name="audio_sharing_stop_button_label">Przestań udostępniać</string>
+    <string name="audio_sharing_stop_dialog_content">Przestaniesz udostępniać dźwięk urządzeniu %1$s</string>
+    <string name="audio_sharing_stop_dialog_title">Połączyć urządzenie %1$s?</string>
+    <string name="audio_sharing_stop_dialog_with_more_content">Przestaniesz udostępniać dźwięk połączonym słuchawkom</string>
+    <string name="audio_sharing_stop_dialog_with_two_content">Przestaniesz udostępniać dźwięk urządzeniom %1$s i %2$s</string>
+    <string name="audio_sharing_stream_compatibility_description">Pomaga łączyć się niektórym urządzeniom, takim jak aparaty słuchowe, obniżając jakość dźwięku</string>
+    <string name="audio_sharing_stream_compatibility_disabled_description">Wyłącza udostępnianie dźwięku, aby można było skonfigurować zgodność</string>
+    <string name="audio_sharing_stream_compatibility_title">Popraw zgodność</string>
+    <string name="audio_sharing_stream_name_dialog_title">Nazwa strumienia audio</string>
+    <string name="audio_sharing_stream_name_title">Nazwa</string>
+    <string name="audio_sharing_stream_password_dialog_title">Hasło strumienia audio</string>
+    <string name="audio_sharing_stream_password_title">Hasło</string>
+    <string name="audio_sharing_stream_settings_title">Ustawienia strumienia audio</string>
+    <string name="audio_sharing_summary_off">Wyłączono</string>
+    <string name="audio_sharing_summary_on">Włączono</string>
+    <string name="audio_sharing_switch_title">Udostępniaj dźwięk</string>
+    <string name="audio_sharing_test_sound_description">Każda słuchająca osoba powinna to usłyszeć</string>
+    <string name="audio_sharing_test_sound_title">Odtwórz dźwięk testowy</string>
+    <string name="audio_sharing_title">Udostępnianie dźwięku</string>
+    <string name="audio_streams_activity_title">Strumienie audio</string>
+    <string name="audio_streams_add_source_bad_code_state_summary">Sprawdź hasło i spróbuj ponownie</string>
+    <string name="audio_streams_add_source_failed_state_summary">Nie udało się połączyć. Spróbuj ponownie.</string>
+    <string name="audio_streams_category_title">Połącz się ze strumieniem LE Audio</string>
+    <string name="audio_streams_connect">Połącz</string>
+    <string name="audio_streams_connecting_summary">Łączę…</string>
+    <string name="audio_streams_detail_page_title">Szczegóły strumienia audio</string>
+    <string name="audio_streams_dialog_cannot_listen">Nie można słuchać strumienia audio</string>
+    <string name="audio_streams_dialog_cannot_play">Nie można odtworzyć tego strumienia audio na urządzeniu %1$s.</string>
+    <string name="audio_streams_dialog_close">Zamknij</string>
+    <string name="audio_streams_dialog_control_volume">Strumień audio będzie odtwarzany na urządzeniu %1$s. Możesz go użyć do sterowania głośnością.</string>
+    <string name="audio_streams_dialog_default_device">połączone zgodne słuchawki</string>
+    <string name="audio_streams_dialog_learn_more">Więcej informacji</string>
+    <string name="audio_streams_dialog_listen">Posłuchaj</string>
+    <string name="audio_streams_dialog_listen_to_audio_stream">Posłuchaj strumienia audio</string>
+    <string name="audio_streams_dialog_no_le_device_button">Połącz urządzenie</string>
+    <string name="audio_streams_dialog_no_le_device_subtitle">Aby słuchać strumienia audio, połącz z tym telefonem słuchawki obsługujące LE Audio.</string>
+    <string name="audio_streams_dialog_no_le_device_title">Połącz zgodne słuchawki</string>
+    <string name="audio_streams_dialog_retry">Spróbuj jeszcze raz</string>
+    <string name="audio_streams_dialog_stream_is_not_available">Strumień audio jest niedostępny</string>
+    <string name="audio_streams_dialog_unsupported_device_subtitle">Ten telefon nie obsługuje funkcji LE Audio, która jest wymagana do słuchania strumieni audio.</string>
+    <string name="audio_streams_disconnect">Rozłącz</string>
+    <string name="audio_streams_is_not_playing">W tej chwili w tym strumieniu audio nic nie jest odtwarzane</string>
+    <string name="audio_streams_listening_now">Posłuchaj teraz</string>
+    <string name="audio_streams_main_page_device_title">Twoje urządzenie audio</string>
+    <string name="audio_streams_main_page_no_device_summary">Połącz zgodne słuchawki</string>
+    <string name="audio_streams_main_page_password_dialog_cannot_edit">Podczas udostępniania nie można edytować hasła. Aby je zmienić, najpierw wyłącz udostępnianie dźwięku.</string>
+    <string name="audio_streams_main_page_password_dialog_join_button">Posłuchaj strumienia</string>
+    <string name="audio_streams_main_page_qr_code_scanner_summary">Zeskanuj kod QR strumienia audio, aby słuchać na urządzeniu %1$s</string>
+    <string name="audio_streams_main_page_scan_qr_code_summary">Zacznij słuchać, skanując kod QR strumienia</string>
+    <string name="audio_streams_main_page_scan_qr_code_title">Zeskanuj kod QR</string>
+    <string name="audio_streams_main_page_scan_section_title">Strumienie audio w pobliżu</string>
+    <string name="audio_streams_main_page_subtitle">Posłuchaj urządzenia, które udostępnia dźwięk, lub pobliskiej transmisji Auracast</string>
+    <string name="audio_streams_main_page_title">Znajdź strumień audio</string>
+    <string name="audio_streams_media_service_notification_leave_broadcast_text">Przestań słuchać</string>
+    <string name="audio_streams_no_password_summary">Brak hasła</string>
+    <string name="audio_streams_pref_title">Strumienie audio w pobliżu</string>
+    <string name="audio_streams_qr_code_is_not_valid_format">Nieprawidłowy format kodu QR</string>
+    <string name="audio_streams_qr_code_page_description">Aby posłuchać strumienia %1$s, inne osoby mogą połączyć zgodne słuchawki ze swoim urządzeniem z Androidem. Następnie mogą one zeskanować ten kod QR.</string>
+    <string name="audio_streams_qr_code_page_password">Hasło: %1$s</string>
+    <string name="audio_streams_qr_code_page_title">Kod QR strumienia audio</string>
+    <string name="audio_streams_qr_code_scanner">Aby odsłuchać, wyśrodkuj kod QR poniżej</string>
+    <string name="audio_streams_qr_code_summary">Połącz się ze strumieniem audio za pomocą kodu QR</string>
+    <string name="audio_streams_title">Strumienie audio</string>
     <string name="auto_clean_description">"O tej funkcji:
 %3$d. Uruchom to narzędzie raz lub dwa razy, jeśli Twój głośnik jest zablokowany przez kurz bądź pył.
 %4$d. Jeśli głośnik jest zablokowany mocniej, uruchom to narzędzie od %1$d do %2$d razy, potrząsając urządzeniem z głośnikiem skierowanym w dół."</string>
@@ -81,6 +188,7 @@ Kopie zapasowe są gromadzone w Chmurze Xiaomi i można do nich uzyskać dostęp
     <string name="bluetooth_ask_enablement_and_discovery_detected">" chce włączyć Bluetooth i ustawić telefon jako wykrywalny dla innych urządzeń przez %1$d s."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">chce włączyć Bluetooth i ustawić Twój telefon jako wykrywalny dla innych urządzeń. Później możesz to zmienić w ustawieniach Bluetooth.</string>
     <string name="bluetooth_display_settings">Wyświetlane elementy</string>
+    <string name="bluetooth_header_battery_content_description">Bateria</string>
     <string name="bluetooth_inband_ringing_summary">Zezwól na odtwarzanie dzwonków telefonu w słuchawkach Bluetooth. Z funkcji można korzystać tylko wtedy, gdy z telefonem połączone jest jedno urządzenie. Może ona być niekompatybilna z niektórymi urządzeniami.</string>
     <string name="bluetooth_map_profile_summary_connected">Połączono z MAP</string>
     <string name="bluetooth_message_access_dialog_title">Zezwolić na dostęp do wiadomości?</string>
@@ -88,6 +196,7 @@ Kopie zapasowe są gromadzone w Chmurze Xiaomi i można do nich uzyskać dostęp
     <string name="bluetooth_phonebook_access_dialog_content">"Niezaufane urządzenie Bluetooth, %1$s, chce uzyskać dostęp do Twoich kontaktów i historii połączeń, w tym także danych dotyczących przychodzących i wychodzących połączeń.
 
 Nie łączono się wcześniej z urządzeniem %2$s."</string>
+    <string name="bluetooth_refresh">Odśwież</string>
     <string name="bluetooth_scan_for_devices">Wyszukaj urządzenia</string>
     <string name="bluetooth_talkback_input_peripheral">Peryferyjne urządzenie wejściowe</string>
     <string name="bootloader_device_bind_no_data_network">Wyłącz Wi-Fi i dodaj swoje konto i urządzenie, używając transmisji danych.</string>
@@ -101,6 +210,7 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
     <string name="bt_lhdc_declaration">Jeśli Bluetooth wspiera standard LHDC, to zostanie on domyślnie włączony. Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki, a także zmniejsza opóźnienie w grach kosztem większego poboru energii. Mogą też wystąpić problemy z jakością dźwięku związane z ograniczeniami standardu Bluetooth.</string>
     <string name="call_records_summary_2">16 sierpnia | 1 min 16 s</string>
     <string name="call_records_summary_3">16 sierpnia | 2 min 24 s</string>
+    <string name="calls_and_alarms_device_title">Połączenia i alarmy</string>
     <string name="camera_grip_firmware_update_describe">Nie rozłączaj uchwytu w trakcie aktualizacji</string>
     <string name="camera_rear">Główny %s</string>
     <string name="charge_animation_style_lollipop">Przepływ (klasyczna)</string>
@@ -110,6 +220,7 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
     <string name="charge_animation_style_title">Animacja ładowania</string>
     <string name="charge_animation_style_video">Blask (z Mi 10)</string>
     <string name="charge_animation_style_wave">Fala (z Mi Mix Alpha)</string>
+    <string name="choose_nothing_payment">Nie ustawiono</string>
     <string name="clear_failed_dlg_text">Nie można wyczyścić danych aplikacji.</string>
     <string name="close_aod">"Ta funkcja nie może być połączona z trybem \"Ekran zawsze włączony\". Wyłącz najpierw ten tryb.</string>
     <string name="close_optimization_message">Wyłączenie tej funkcji może mieć wpływ na wygląd tekstu, kont i innych części systemu.</string>
@@ -117,6 +228,7 @@ Nie łączono się wcześniej z urządzeniem %2$s."</string>
     <string name="color_led_charging_summary">Gdy bateria zostanie naładowana, dioda wyłączy się</string>
     <string name="color_led_hint">Wybierz scenariusze, w których powinna być używana dioda powiadomień. Będzie ona świecić, gdy ekran jest skierowany w dół, a tryb Nie przeszkadzać jest wyłączony.</string>
     <string name="color_led_summary">Nie działa w trybie Nie przeszkadzać</string>
+    <string name="confirm_ext4_button_text">Wymaż wszystkie dane</string>
     <string name="confirm_sim_deletion_title">Potwierdź chęć usunięcia karty SIM</string>
     <string name="connection_and_sharing">Więcej opcji sieci</string>
     <string name="content_miui_music_mute_by_user">Czy chcesz odtwarzać dźwięki multimediów, gdy włączony jest tryb cichy?</string>
@@ -192,6 +304,9 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="extension_function">Dodatkowe funkcje aplikacji</string>
     <string name="extension_function_hint">Skróty funkcji nie będą się pojawiać w ustawieniach po ich wyłączeniu</string>
     <string name="external_ram_dialog_btn_ok">Zrestartuj</string>
+    <string name="eye_habit_prompt_summary">Otrzymuj powiadomienia, gdy urządzenie wykryje sytuacje, które mogą powodować zmęczenie oczu</string>
+    <string name="eye_habit_prompt_title">Powiadomienia dot. zdrowia oczu</string>
+    <string name="eye_paper_protection">Ustawienia Trybu czytania</string>
     <string name="face_unlock_by_notification_screen_on_msg">Możesz odblokować telefon, korzystając z danych twarzy, gdy ekran podświetla się informacją o powiadomieniu. Może to zwiększyć użycie baterii.</string>
     <string name="face_unlock_prompt">"Rejestruj dane twarzy,
 patrząc na zewnętrzny ekran"</string>
@@ -210,6 +325,8 @@ patrząc na zewnętrzny ekran"</string>
     <string name="forbidden_set_unlock_password_msg">Nie można obecnie ustawić bądź zmienić hasła, ponieważ włączono Tryb naprawy.</string>
     <string name="forget_password_dialog_content_four">2. Pojawi się prośba o wpisanie hasła ekranu blokady. Dotknij strzałki na dole ekranu, potem wybierz [Wipe] i przesuń suwak na dole, a następnie kliknij przycisk [Reboot System].</string>
     <string name="forget_password_dialog_content_three">1. Wyłącz urządzenie. Przytrzymaj przyciski [Power] i [Volume+] jednocześnie i trzymaj je, dopóki telefon nie uruchomi się do trybu Recovery.</string>
+    <string name="format_month_day_style2">d.MM.</string>
+    <string name="format_month_day_week">EEE, d MMM</string>
     <string name="freeform_guide_drop_down_to_fullscreen_summary">Przytrzymaj, a następnie przesuń w dół pasek akcji pływającego okna</string>
     <string name="freeform_guide_free_drag_summary">Przeciągaj tekst, obrazki lub pliki między różnymi oknami wspieranych aplikacji.</string>
     <string name="freeform_guide_free_drag_title">Przeciągaj elementy pomiędzy oknami</string>
@@ -225,6 +342,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Przeciągnij aplikację z paska bocznego do środka ekranu, aby otworzyć ją w pływającym oknie lub do krawędzi, aby użyć Dzielonego ekranu</string>
     <string name="fsg_mistake_touch_summary">W niektórych przypadkach, np. podczas grania w gry lub oglądania wideo konieczne będzie podwójne przesunięcie palcem od krawędzi, aby wywołać efekt</string>
     <string name="fsg_mistake_touch_title">Potwierdź gest</string>
+    <string name="full_screen_reminder">Ostrzeżenie</string>
     <string name="full_transparent_smarrcover_title">Przezroczysty front</string>
     <string name="gd_setting_title">Pasek boczny</string>
     <string name="gesture_wakeup_summary">Funkcja działa tylko, gdy ustawione są wbudowane motywy</string>
@@ -243,11 +361,14 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="handy_mode_tips_full_screen">"Kiedy używasz pełnoekranowych gestów, możesz włączyć tryb Jednej dłoni, używając Asystenta dotyku. Możesz również przełączyć się na używanie przycisków zamiast gestów."</string>
     <string name="haptic_multitasking_gestures_04_content_description">Otwieranie menu ostatnio otwartych aplikacji</string>
     <string name="haptic_single_selection_02_content_description">Wybieranie elementu</string>
+    <string name="health_use_of_pad">Zdrowe korzystanie z urządzenia</string>
+    <string name="health_use_of_phone">Zdrowe korzystanie z urządzenia</string>
     <string name="home">Ustawienia ekranu głównego</string>
     <string name="home_app">Aplikacja ekranu głównego</string>
     <string name="home_title">Ekran główny</string>
     <string name="hover_mode_guide_text">Gdy na wewnętrznym ekranie trwa rozmowa lub oglądasz filmy, możesz użyć Trybu kieszonkowego w dolnej części wyświetlacza.</string>
     <string name="hover_mode_name">Tryb kieszonkowy</string>
+    <string name="imei_primary">Numer IMEI (główny)</string>
     <string name="imitate_real_keyboard_summary">Wygodna, gdy urządzenie leży na płaskiej przestrzeni</string>
     <string name="infinity_display_title">Nawigacja systemowa</string>
     <string name="input_method_quick_paste_summary">Zobacz skopiowane elementy, dotykając ikony schowka</string>
@@ -303,6 +424,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="media_controls_lockscreen_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostanie otwarty na ekranie blokady</string>
     <string name="media_controls_resume_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostanie otwarty w Szybkich ustawieniach</string>
     <string name="media_output_status_track_unsupported">Nie można odtworzyć tego pliku multimedialnego</string>
+    <string name="meid_primary">MEID (główny)</string>
     <string name="memory_settings_title">Pamięć wewnętrzna</string>
     <string name="miheadset_audio_mode_high">Wysoka</string>
     <string name="miheadset_audio_mode_listen">Niska</string>
@@ -313,6 +435,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="miheadset_double_click_right">Dotknij dwukrotnie prawej słuchawki</string>
     <string name="miheadset_hd_audio_summary">Odtwarzaj dźwięk w wysokiej jakości (%1$d-bit/%2$d kHz)</string>
     <string name="miheadset_multi_connect_mode">Łączność z kilkoma urządzeniami na raz</string>
+    <string name="mild_reminder">Powiadomienie</string>
     <string name="miui_bubbles_notification">Dymki</string>
     <string name="miui_lab_features">Testowe funkcje</string>
     <string name="miui_nfc_dialog_message">"Po wyłączeniu NFC nie będzie można korzystać z funkcji wymagających tej technologii. Wyłączyć mimo to?"</string>
@@ -330,6 +453,23 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="miui_tof_screen_on_open_dialog_msg">Włącz funkcję \"%s\", aby uniknąć natychmiastowego wyświetlania pulpitu lub zawartości aplikacji, gdy rozpozna ona Twoją twarz.</string>
     <string name="miui_visual_perception_summary">Pozwól urządzeniu wyczuć Twoją obecność i wybrać wygodniejsze opcje blokowania i odblokowywania</string>
     <string name="miui_visual_perception_title">Aktywna percepcja wzrokowa</string>
+    <string name="mode_aod_summary">Wyłącz zawsze aktywny wyświetlacz</string>
+    <string name="mode_aod_title">Przyciemnienie ekranu</string>
+    <string name="mode_aod_title_secondary_list">przyciemnienie ekranu</string>
+    <string name="mode_dark_theme_summary">Włącz preferowanie jasnego tekstu na ciemnym tle w systemie operacyjnym i aplikacjach, co mniej obciąża oczy i może zapewnić znacznie większą oszczędność energii na niektórych urządzeniach</string>
+    <string name="mode_dark_theme_title">Włącz ciemny motyw</string>
+    <string name="mode_dark_theme_title_secondary_list">włącz ciemny motyw</string>
+    <string name="mode_device_effects_title">Dodatkowe działania</string>
+    <string name="mode_display_options_section">Opcje wyświetlania</string>
+    <string name="mode_display_settings_summary">{count,plural,offset:2 =0{Brak zmian dotyczących wyświetlania}=1{{effect_1}}=2{{effect_1} i {effect_2}}=3{{effect_1}, {effect_2} i {effect_3}}few{{effect_1}, {effect_2} i # więcej}many{{effect_1}, {effect_2} i # więcej}other{{effect_1}, {effect_2} i # więcej}}</string>
+    <string name="mode_display_settings_title">Ustawienia wyświetlania</string>
+    <string name="mode_grayscale_summary">Ustaw czarno-biały ekran</string>
+    <string name="mode_grayscale_title">Tryb szarości</string>
+    <string name="mode_grayscale_title_secondary_list">tryb szarości</string>
+    <string name="mode_interruption_filter_title">Powiadomienia, które mogą do Ciebie docierać</string>
+    <string name="mode_wallpaper_summary">Filtruj jasność tapety</string>
+    <string name="mode_wallpaper_title">Przyciemnienie tapety</string>
+    <string name="mode_wallpaper_title_secondary_list">przyciemnienie tapety</string>
     <string name="modern_control_center_desc">Przeciągnij pasek stanu po lewej stronie, aby wyświetlić powiadomienia, bądź po prawej stronie w celu wyświetlenia Centrum funkcji</string>
     <string name="monday_shortest">P</string>
     <string name="month_april_short">kwi</string>
@@ -355,6 +495,7 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="month_september_shortest">W</string>
     <string name="more_connection">Więcej ustawień sieci</string>
     <string name="more_dark_mode_settings">Opcje Ciemnego motywu</string>
+    <string name="more_settings_eye_health">Więcej ustawień dot. zdrowia oczu</string>
     <string name="mqs_privacy_dialog_content">Wygląda na to, że ostatnio na Twoim urządzeniu pojawiły się błędy. Możesz wysłać logi, które być może pomogą Xiaomi zlokalizować i naprawić ten problem. Mogą one zawierać Twoje dane, takie jak np. lokalizacja. Czy chcesz wysłać logi?</string>
     <string name="mtp_solution_button_ok">Rozwiąż problem</string>
     <string name="my_device">O telefonie</string>
@@ -367,6 +508,8 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="navigation_guide_recent_title">Pokaż ostatnie aplikacje</string>
     <string name="navigation_type_radio_text_full_screen">Gesty</string>
     <string name="near_loclscreen_title">Wybudź ekran, gdy się zbliżasz</string>
+    <string name="nearby_wifi_refresh">Odśwież</string>
+    <string name="nearby_wifi_title">Dostępne urządzenia</string>
     <string name="network_dashboard_title">Sieć i Internet</string>
     <string name="network_settings_title">Karty SIM i sieci mobilne</string>
     <string name="nfc_dnd_mode_title">Tryb Nie przeszkadzać dla NFC</string>
@@ -379,6 +522,10 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="notification_badge_title">Kropki powiadomień</string>
     <string name="notification_control_center">Powiadomienia i Centrum funkcji</string>
     <string name="notification_control_center_new">Powiadomienia i pasek statusu</string>
+    <string name="notification_polite_description">Gdy w krótkim czasie otrzymasz wiele powiadomień, telefon zmniejszy głośność i ograniczy liczbę wyskakujących okienek na ekranie przez maksymalnie 2 minuty. Połączenia, alarmy i rozmowy priorytetowe nadal będą sygnalizowane wibracjami, dźwiękowo lub wyświetlą się na ekranie, a wszystkie powiadomienia będzie można łatwo znaleźć, przesuwając palcem z góry ekranu w dół.</string>
+    <string name="notification_polite_main_control_title">Używaj powiadomień adaptacyjnych</string>
+    <string name="notification_polite_title">Powiadomienia adaptacyjne</string>
+    <string name="notification_polite_work_summary">Zastosuj w aplikacjach profilu służbowego</string>
     <string name="notification_status_bar">Powiadomienia i pasek statusu</string>
     <string name="now">Zrestartuj</string>
     <string name="nrca_registered">Zarejestrowano</string>
@@ -411,6 +558,12 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="picture_in_picture_title">Obraz w obrazie</string>
     <string name="poco_launcher_privacy_policy">Polityka prywatności POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Umowa użytkownika POCO Launcher</string>
+    <string name="pointer_fill_style">Styl wypełnienia wskaźnika</string>
+    <string name="pointer_fill_style_black_button">Zmień styl wypełnienia na czarny</string>
+    <string name="pointer_fill_style_blue_button">Zmień styl wypełnienia na niebieski</string>
+    <string name="pointer_fill_style_green_button">Zmień styl wypełnienia na zielony</string>
+    <string name="pointer_fill_style_pink_button">Zmień styl wypełnienia na różowy</string>
+    <string name="pointer_fill_style_yellow_button">Zmień styl wypełnienia na żółty</string>
     <string name="power_checker">Optymalizacja i użycie baterii</string>
     <string name="power_key_how_start_detail">Przytrzymaj przycisk Zasilania na pół sekundy, a potem go puść.</string>
     <string name="power_menu_under_keyguard_summary">Zezwól na dostęp do menu zasilania, gdy urządzenie jest zablokowane</string>
@@ -422,6 +575,48 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="preferred_application_warning_message">Zmiana domyślnej aplikacji %1$s może powodować nadmierne użycie baterii lub zagrozić bezpieczeństwu. Zaleca się użycie aplikacji %2$s.</string>
     <string name="preferred_sms_title">Domyślna aplikacja do SMS-ów</string>
     <string name="privacy_policy">Polityka prywatności</string>
+    <string name="private_space_apps_permission_text">"Przestrzenie prywatne nie są odpowiednie dla aplikacji, które muszą działać w tle lub wysyłać krytyczne powiadomienia (jak np. aplikacje medyczne). Wynika to z tego, że działanie w tle i powiadomienia są wstrzymywane, gdy przestrzeń jest zablokowana.
+
+Po zablokowaniu przestrzeni prywatnej umieszczone w niej aplikacje nie będą też widoczne w menedżerze uprawnień, panelu prywatności ani innych ustawieniach.
+
+Przestrzeni prywatnej nie można przenieść na inne urządzenie. Jeśli chcesz z niej korzystać na innym urządzeniu, musisz utworzyć nową przestrzeń.
+
+Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządzeniu szkodliwe aplikacje, będzie mógł uzyskać dostęp do Twojej przestrzeni prywatnej."</string>
+    <string name="private_space_apps_stopped_text"><b>Aplikacje przestają działać, gdy blokujesz swoją przestrzeń</b>"
+Po zablokowaniu przestrzeni działające w niej aplikacje zostaną zatrzymane i nie będziesz otrzymywać powiadomień na ich temat"</string>
+    <string name="private_space_biometric_unlock_title">Odblokowywanie przestrzeni prywatnej skanem palca i twarzy</string>
+    <string name="private_space_delete_summary">"Twoja przestrzeń prywatna zostanie trwale usunięta z urządzenia. 
+
+Wszystkie znajdujące się w niej aplikacje i ich dane również zostaną trwale usunięte z "<b>pamięci wewnętrznej</b> telefonu.</string>
+    <string name="private_space_face_enroll_introduction_info_less_secure">Korzystanie z rozpoznawania twarzy do odblokowywania przestrzeni prywatnej może być mniej bezpieczne niż skomplikowany wzór, hasło czy kod PIN</string>
+    <string name="private_space_face_enroll_introduction_info_looking">Patrząc na telefon, możesz niechcący odblokować przestrzeń prywatną. Może ją odblokować także ktoś, kto wygląda bardzo podobnie do Ciebie (np. bliźniacze rodzeństwo) lub zbliży urządzenie do Twojej twarzy.</string>
+    <string name="private_space_face_enroll_introduction_message">Używaj rozpoznawania twarzy do odblokowywania przestrzeni prywatnej lub potwierdzania tożsamości, np. podczas logowania się w aplikacjach lub zatwierdzania zakupów</string>
+    <string name="private_space_face_enroll_introduction_title">Ustaw odblokowywanie przestrzeni prywatnej rozpoznawaniem twarzy</string>
+    <string name="private_space_face_settings_footer">"Używaj rozpoznawania twarzy do odblokowywania przestrzeni prywatnej.
+
+Pamiętaj:
+Możesz mieć skonfigurowany tylko jeden model twarzy. Jeśli chcesz dodać inny model twarzy, usuń bieżący.
+
+Patrząc na telefon, możesz niechcący odblokować przestrzeń prywatną.
+
+Może to także zrobić inna osoba, zbliżając urządzenie do Twojej twarzy.
+
+Istnieje też możliwość, że ktoś bardzo podobny do Ciebie (np. bliźniacze rodzeństwo) będzie w stanie odblokować Twoją przestrzeń prywatną."</string>
+    <string name="private_space_face_settings_require_attention_details">Aby odblokować przestrzeń prywatną, musisz mieć otwarte oczy. Jeśli nosisz okulary przeciwsłoneczne, najlepiej je zdjąć.</string>
+    <string name="private_space_face_settings_require_confirmation_details">W przypadku rozpoznawania twarzy zawsze wymagaj etapu potwierdzenia</string>
+    <string name="private_space_fingerprint_enroll_finish_message">Używaj odcisku palca do odblokowywania przestrzeni prywatnej lub zatwierdzania zakupów</string>
+    <string name="private_space_fingerprint_enroll_introduction_footer_message">Twoja przestrzeń prywatna może się przypadkowo odblokować, np. gdy ktoś przyłoży Twój palec do telefonu.</string>
+    <string name="private_space_fingerprint_enroll_introduction_message">Używaj odcisku palca do odblokowywania przestrzeni prywatnej lub potwierdzania tożsamości, np. podczas logowania się w aplikacjach lub zatwierdzania zakupów</string>
+    <string name="private_space_fingerprint_enroll_introduction_title">Skonfiguruj odblokowywanie przestrzeni prywatnej odciskiem palca</string>
+    <string name="private_space_keep_in_mind_text">Pamiętaj</string>
+    <string name="private_space_settings_footer_text">"Przestrzenie prywatne nie są odpowiednie dla aplikacji, które muszą działać w tle lub wysyłać krytyczne powiadomienia (jak np. aplikacje medyczne). Wynika to z tego, że działanie w tle i powiadomienia są wstrzymywane, gdy przestrzeń jest zablokowana.
+
+Po zablokowaniu przestrzeni prywatnej umieszczone w niej aplikacje nie będą też widoczne w menedżerze uprawnień, panelu prywatności ani innych ustawieniach.
+
+Przestrzeni prywatnej nie można przywrócić na innym urządzeniu. Jeśli chcesz z niej korzystać na innym urządzeniu, musisz utworzyć nową przestrzeń.
+
+Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządzeniu szkodliwe aplikacje, będzie mógł uzyskać dostęp do Twojej przestrzeni prywatnej."</string>
+    <string name="private_space_wait_screen_title">Chwileczkę…</string>
     <string name="recent_apps_label">Ostatnie aplikacje</string>
     <string name="requires_modern_control_center">Działa wyłącznie z nowym wyglądem Centrum funkcji</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Część aplikacji w ramach Ciemnego motywu może być niepoprawnie wyświetlana. Możesz ograniczyć tutaj korzystanie z Ciemnego motywu dla poszczególnych aplikacji.</string>
@@ -446,6 +641,8 @@ Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji,
     <string name="sim_management_title">Karty SIM i sieć mobilna</string>
     <string name="sim_management_title_singlesim">Karta SIM i sieć mobilna</string>
     <string name="single_key_use">Obsługa jednym przyciskiem</string>
+    <string name="size_compat">Pośrodku</string>
+    <string name="size_fullscreen">Pełny ekran</string>
     <string name="size_giga_byte">" GB"</string>
     <string name="size_kilo_byte">" KB"</string>
     <string name="size_mega_byte">" MB"</string>
@@ -498,6 +695,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="speed_mode">Tryb prędkości</string>
     <string name="speed_mode_noti_summary">Twoje urządzenie będzie się przegrzewać i zużywać więcej energii</string>
     <string name="speed_mode_noti_title">Włączono Tryb prędkości</string>
+    <string name="state_empty">Puste</string>
     <string name="status_bar_icons_title">Ikony paska statusu</string>
     <string name="status_bar_settings">Powiadomienia i pasek statusu</string>
     <string name="status_bar_settings_notification_use_app_icon">Użyj ikon z aplikacji</string>
@@ -520,6 +718,8 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="title_device_control">Kontrolki urządzeń smart home</string>
     <string name="title_layout_current2_weight">Rozmiar i grubość czcionki</string>
     <string name="touch_sensitive_turn_off_summary">Wyłączyć także funkcję przypadkowego użycia telefonu w kieszeni?</string>
+    <string name="tv_bluetooth_battery_level_untethered_left">Po lewej %1$s</string>
+    <string name="tv_bluetooth_battery_level_untethered_right">Po prawej %1$s</string>
     <string name="under_keyguard">Przy wył. ekranie</string>
     <string name="uninstall_xspace_app_dlg_msg">Odinstalowanie sklonowanej aplikacji usunie też jej dane.</string>
     <string name="unmute_sound_title">Odtwarzaj dźwięk wyłączenia trybu cichego/Nie przeszkadzać</string>
@@ -570,16 +770,29 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
     <string name="var_font_switch_dialog_summary">Aby zmienić to ustawienie, konieczne jest ponowne uruchomienie urządzenia.</string>
     <string name="var_font_switch_dialog_title">Uruchomić ponownie?</string>
     <string name="var_font_switch_title">Zmienna grubość czcionki</string>
+    <string name="vpn_build_about">O aplikacji</string>
+    <string name="vpn_build_version">Numer wersji: %1$s</string>
     <string name="vpn_first_always_on_vpn_message">"Po włączeniu tego ustawienia utracisz połączenie z Internetem do czasu nawiązania połączenia przez VPN"</string>
     <string name="wallpaper_desktop">Ekran główny</string>
+    <string name="wep_network_less_secure_warning_title">Ta sieć wykorzystuje starszy protokół zabezpieczeń WEP, który jest mniej bezpieczny</string>
     <string name="wifi_assistant">Utrzymuj połączenie</string>
     <string name="wifi_assistant_keep_connection">Utrzymuj połączenie</string>
     <string name="wifi_generation">Użyj ikon generacji Wi-Fi</string>
     <string name="wifi_region_summary">Włącz Wi-Fi ponownie, aby zastosować wybrany przez siebie region.</string>
     <string name="wifi_region_title">Region Wi-Fi</string>
+    <string name="wifi_share_plain_password_text">Hasło: %s</string>
     <string name="wireless_display">Wyświetlacz bezprzewodowy</string>
     <string name="wireless_secondary_display">Rozszerzony ekran bezprzewodowy</string>
     <string name="wireless_secondary_display_description">Użyj tabletu jako rozszerzenia ekranu bezprzewodowego dla komputera w pobliżu</string>
     <string name="wlan_switch_tips_message">W trakcie przełączania się między dodatkową i główną siecią Wi-Fi urządzenie tymczasowo rozłączy się z dodatkową siecią. Przełączyć?</string>
     <string name="xiaomi_transfer">Xiaomi Share</string>
+    <string name="zen_mode_action_change_icon">Zmień ikonę</string>
+    <string name="zen_mode_action_change_name">Zmień nazwę</string>
+    <string name="zen_mode_apps_all_apps">Wszystkie</string>
+    <string name="zen_mode_apps_category">Aplikacje, które mogą ignorować tryb Nie przeszkadzać</string>
+    <string name="zen_mode_apps_none_apps">Brak</string>
+    <string name="zen_mode_apps_priority_apps">Wybrane aplikacje</string>
+    <string name="zen_mode_apps_subtext">{count,plural,offset:2 =0{Żadna aplikacja nie może ignorować trybu Nie przeszkadzać}=1{Aplikacja {app_1} może ignorować tryb Nie przeszkadzać}=2{Aplikacje {app_1} i {app_2} mogą ignorować tryb Nie przeszkadzać}=3{Aplikacje {app_1}, {app_2} i {app_3} mogą ignorować tryb Nie przeszkadzać}few{Aplikacje {app_1}, {app_2} i jeszcze # inne mogą ignorować tryb Nie przeszkadzać}many{Aplikacje {app_1}, {app_2} i jeszcze # innych mogą ignorować tryb Nie przeszkadzać}other{Aplikacje {app_1}, {app_2} i jeszcze inne (#) mogą ignorować tryb Nie przeszkadzać}}</string>
+    <string name="zen_mode_apps_title">Aplikacje</string>
+    <string name="zen_mode_automatic_trigger_title">Włącz automatycznie</string>
 </resources>

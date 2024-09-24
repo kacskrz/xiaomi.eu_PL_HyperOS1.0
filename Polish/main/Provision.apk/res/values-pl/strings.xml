@@ -169,6 +169,11 @@
     <string name="require_basic_applist_and_authority_statement">W celu dostarczania podstawowych usług wymagane są następujące uprawnienia:</string>
     <string name="require_device_information_statement">Aby móc dostarczać podstawowe usługi, wymagane są następujące uprawnienia:</string>
     <string name="require_statement">Aby dostarczać podstawowe usługi, potrzebujemy następujących uprawnień:</string>
+    <string name="require_telephone_imei">Odczyt IMEI i IMSI</string>
+    <string name="require_telephone_imei_summary">W celu uzyskania numeru IMEI</string>
+    <string name="require_telephone_location">Dostęp do lokalizacji</string>
+    <string name="require_telephone_location_summary">Aby uzyskać przybliżoną lokalizację i dostarczać usługi optymalizacji sieci oparte na lokalizacji</string>
+    <string name="require_telephone_statement">Aby dostarczać podstawowe usługi, wymagane są następujące uprawnienia:</string>
     <string name="safe_open_service">Bezpieczne otwarte usługi</string>
     <string name="safe_open_service_introduction">Bezpieczne otwarte usługi pomagają deweloperom i dostarczają systemowe zabezpieczenia pod kątem bezpieczeństwa, aby chronić użytkowników i ich prywatność.</string>
     <string name="service_name_MIUIDaemon">Systemowy daemon</string>

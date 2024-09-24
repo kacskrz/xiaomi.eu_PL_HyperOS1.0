@@ -51,6 +51,7 @@
     <string name="gesture_function_dialog_message">Gest %1$s jest używany do wywołania funkcji \"%2$s\". Czy chcesz go zastąpić \"%3$s\"?</string>
     <string name="global_actions_reboot">Restart</string>
     <string name="global_actions_silent_mode">Cichy</string>
+    <string name="global_help">Nie można znaleźć urządzenia</string>
     <string name="go_to_sleep">Wyłącz ekran</string>
     <string name="handy_mode_enter_dlg_msg">Włączyć tryb Jednej dłoni?</string>
     <string name="handy_mode_enter_dlg_title">Jedna dłoń</string>
@@ -103,8 +104,10 @@
     <string name="miui_multiwindow_not_support_small_window">"%1$s nie wspiera pływających okien"</string>
     <string name="miui_screen_ratio_hint_message">Aplikacja ma zezwolenie na uruchomienie w trybie pełnoekranowym, co może spowodować nieprawidłowe wyświetlanie. Możesz to zmienić w Ustawienia > Dodatkowe ustawienia > Przyciski.</string>
     <string name="monet">Staw z liliami</string>
+    <string name="motorola_phone">Telefon Motorola</string>
     <string name="mountainspring">Górska wiosna</string>
     <string name="mute">Tryb cichy</string>
+    <string name="nio_phone">Telefon NIO</string>
     <string name="notification_channel_hotspot">Powiadomienie o hotspocie</string>
     <string name="nps_ContentText">Dotknij, aby sprawdzić szczegóły</string>
     <string name="nps_ContentTitle">Wyszukiwanie GPS</string>
@@ -120,6 +123,7 @@
     <string name="presentation_payphone">Płatny</string>
     <string name="presentation_private">Prywatny numer</string>
     <string name="presentation_unknown">Nieznany numer</string>
+    <string name="projection_disable_camera_toast">Ta aplikacja nie pozwala na korzystanie z aparatu innego połączonego urządzenia podczas projekcji. Przełącz się na swój telefon.</string>
     <string name="propotional_freeform_tip">"Wygląda na to, że ta aplikacja nie wspiera w pełni pływających okien"</string>
     <string name="rescueparty_package_tips">Wykryto uszkodzenie usługi systemowej {0}</string>
     <string name="resolver_offical_recommend">Oficjalna</string>
@@ -143,6 +147,7 @@
     <string name="split_screen">Otwórz Podział ekranu</string>
     <string name="start_activity_tip">Kontynuuj na wewnętrznym ekranie</string>
     <string name="sunlight_notification_title">Włącz tryb Światło słoneczne</string>
+    <string name="super_wallpaper_list_label">Supertapety</string>
     <string name="swoosh">Pod wodą</string>
     <string name="three_gesture_down">3 palce w dół</string>
     <string name="three_gesture_horizontal">Przesuń poziomo %d palcami</string>
@@ -159,6 +164,7 @@ z przedniego aparatu"</string>
     <string name="wallpaper_Geometrically_irregular_title">Abstrakcja w geometrii</string>
     <string name="wallpaper_floral_arrangement_title">Kwiaty</string>
     <string name="wallpaper_geometrically_irregular_title">Abstrakcja w geometrii</string>
+    <string name="wallpaper_glazed_valley_title">Szkło</string>
     <string name="wallpaper_group_black_gobi_title">Piaski Gobi</string>
     <string name="wallpaper_group_black_white_title">Czarny i biały</string>
     <string name="wallpaper_group_color_move_title">Płynne kolory</string>
@@ -172,6 +178,7 @@ z przedniego aparatu"</string>
     <string name="wallpaper_group_petros_koublis_title">Marzenia</string>
     <string name="wallpaper_group_sgn_mountain_title">Góra Siguniang</string>
     <string name="wallpaper_group_shadow_geometry_title">Geometria cieni</string>
+    <string name="wallpaper_softlight_title">Miękkie światło</string>
     <string name="wifi_5ghz_sap_start_failed_by_region">Nie można użyć tetheringu podczas korzystania z sieci Wi-Fi 5 GHz.</string>
     <string name="wifi_disable_micar_p2p_dialog_message_carwith_china">Łączenie się z nową siecią Wi-Fi rozłączy to urządzenie z CarWith. Rozłączyć?</string>
     <string name="wifi_disable_micar_p2p_dialog_message_china">Łączenie się z nową siecią Wi-Fi rozłączy to urządzenie z autem. Rozłączyć?</string>

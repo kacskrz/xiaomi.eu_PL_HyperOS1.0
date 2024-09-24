@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_credential_msg_passkey">Utworzyć klucz \"%1$s\"? Zostanie on zapisany w %2$s i może być używany na wszystkich Twoich urządzeniach Xiaomi.</string>
+    <string name="create_credential_msg_password">Utworzyć klucz \"%1$s\" (hasło)? Zostanie on zapisany w %2$s i może być używany na wszystkich Twoich urządzeniach Xiaomi.</string>
+    <string name="create_credential_title">Utwórz klucz</string>
+    <string name="dropdown_presentation_more_sign_in_options_text">Opcje logowania</string>
+    <string name="get_credential_msg_multi">Wybierz klucz, którym chcesz się zalogować do %1$s</string>
+    <string name="get_credential_msg_single_passkey">Zalogować się do %2$s kluczem \"%1$s\"?</string>
+    <string name="get_credential_msg_single_password">Zalogować się do %2$s kluczem \"%1$s\" (hasłem)?</string>
+    <string name="get_credential_title">Zaloguj się kluczem</string>
+    <string name="get_dialog_title_single_tap_for">Użyj swojej blokady ekranu, aby zalogować się do %1$s z %2$s</string>
+</resources>

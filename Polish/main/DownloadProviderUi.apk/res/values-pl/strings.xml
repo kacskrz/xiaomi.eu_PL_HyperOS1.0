@@ -32,11 +32,14 @@
     <string name="download_list_title_browser">Pobrania</string>
     <string name="download_no_application_title">Nie można otworzyć pliku</string>
     <string name="download_pending">Trwające pobieranie</string>
+    <string name="download_status">Stan pobierania</string>
     <string name="download_waiting">Trwa</string>
     <string name="downloading">Pobieranie…</string>
     <string name="edit_hint2">Wprowadź link HTTP, FTP, magnet lub ed2k</string>
     <string name="engine_open">Otwórz</string>
     <string name="extract_file">Rozpakowywanie pliku…</string>
+    <string name="feature_page_message">Nie można korzystać z tej wersji aplikacji. Odinstaluj ją i pobierz nową wersję z GetApps.</string>
+    <string name="feature_page_uninstall">Odinstaluj</string>
     <string name="file_exist_hint">Plik już istnieje</string>
     <string name="file_picker">Wybierz lokalizację</string>
     <string name="get_account_dialog_msg">Uzyskiwanie danych konta…</string>
@@ -48,6 +51,8 @@
     <string name="invalid_address">Wprowadzona ścieżka jest niepoprawna</string>
     <string name="loading">Chwileczkę…</string>
     <string name="menu_title_fileexplore">Pliki</string>
+    <string name="miuix_navigator_category_group_collapse">Zwiń</string>
+    <string name="miuix_navigator_category_group_expand">Rozwiń</string>
     <string name="network_error">Nie można połączyć się z siecią</string>
     <string name="new_add">Nowe pobieranie</string>
     <string name="new_add_bt2">Dodaj zadanie torrenta</string>

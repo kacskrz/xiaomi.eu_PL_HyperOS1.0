@@ -55,6 +55,7 @@
     <string name="apply_wallpaper_after_three_theme">"Używasz obecnie niesystemowego motywu. Jeśli zmienisz tylko tapetę ekranu blokady, może to spowodować przywrócenie domyślnego stylu zegara ekranu blokady. Zastosować?"</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Używasz obecnie supertapety. Jeśli wybierzesz nową tapetę, zostanie ona zastosowana zarówno na Ekranie głównym, jak i Ekranie blokady. Zostaną także przywrócone poprzednie ustawienia Ekranu zawsze włączonego. Zastosować?"</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">"Używasz obecnie supertapety. Jeśli wybierzesz nową tapetę, zostanie ona zastosowana zarówno na Ekranie głównym, jak i Ekranie blokady. Zastosować?"</string>
+    <string name="apply_wallpaper_warning_when_use_super_wallpaper">Aby nadal używać Supertapet, zaktualizuj je do najnowszej wersji.</string>
     <string name="apply_warning_get_device_dialog_message">Aby móc używać pobranych treści, zezwól tej funkcji na dostęp do Twojego ID urządzenia. Możesz nadać to uprawnienie w Ustawieniach > Prywatność.</string>
     <string name="apply_warning_tip_get_device_status">Najpierw zezwól tej aplikacji na dostęp do Twojego ID urządzenia w menu Moje konto > Ustawienia.</string>
     <string name="audition_ringtone">Odtwórz</string>
@@ -445,6 +446,9 @@ d.MM."</string>
     <string name="need_to_open_permission">Wymagane uprawnienia</string>
     <string name="need_to_open_storage_permission_desc">Aby móc używać i pobierać elementy w aplikacji Motywy, najpierw zezwól jej na dostęp do pamięci.</string>
     <string name="network_exception">"Nie można połączyć się z siecią. Sprawdź ustawienia i spróbuj ponownie."</string>
+    <string name="new_version_install_dia_button_confirm">Aktualizuj</string>
+    <string name="new_version_install_dia_message">Dostępna jest nowa wersja. Zaktualizować?</string>
+    <string name="new_version_install_dia_title">Dostępna aktualizacja</string>
     <string name="no_install_permission">"Nie masz uprawnień do instalacji tego elementu"</string>
     <string name="no_more_notice">"Nie pokazuj ponownie"</string>
     <string name="no_net_work_connection">Sprawdź ustawienia sieci i spróbuj ponownie.</string>
@@ -919,6 +923,7 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
     <string name="update">Zaktualizuj</string>
     <string name="update_community_tip">Zaktualizuj Mi Community, aby skorzystać z tej funkcji</string>
     <string name="update_flag">Aktualizacja</string>
+    <string name="update_now">Aktualizuj</string>
     <string name="use_hint">Uwaga</string>
     <string name="use_now">Dodaj</string>
     <string name="version_update">Sprawdź aktualizacje</string>
@@ -1000,5 +1005,6 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
     <string name="wallpaper_static">Zwykłe</string>
     <string name="warning_miui_optimization_closed_dialog_message">"Wygląda na to, że optymalizacja systemu jest wyłączona. W takiej sytuacji ten motyw nie będzie działać poprawnie Możesz go zastosować lub włączyć optymalizację systemu w Ustawieniach."</string>
     <string name="warning_subscribe_wallpaper_group_content">"Włączono pokaz slajdów na Ekranie głównym. Element %1$s zostanie zastosowany na nim."</string>
+    <string name="warning_update_super_wallpaper">Zaktualizuj Supertapety</string>
     <string name="wechat_not_found">Zainstaluj najpierw WeChata</string>
 </resources>

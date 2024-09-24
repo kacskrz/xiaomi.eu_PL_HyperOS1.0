@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="across_device_file_temp_name">Skopiowane pliki</string>
+    <string name="across_device_image_temp_name">Skopiowane obrazy</string>
+    <string name="across_device_videos_temp_name">Skopiowane filmy</string>
+    <string name="add_common_phrases">Dodaj częsty zwrot</string>
+    <string name="call_notification_answer_action">Odbierz</string>
+    <string name="call_notification_answer_video_action">Wideo</string>
+    <string name="call_notification_decline_action">Odrzuć</string>
+    <string name="call_notification_hang_up_action">Rozłącz</string>
+    <string name="call_notification_incoming_text">Połączenie przychodzące</string>
+    <string name="call_notification_ongoing_text">Trwa połączenie</string>
+    <string name="call_notification_screening_text">Filtruję połączenie przychodzące</string>
+    <string name="clipboard_sync_phrase_cta_description">Możesz użyć Schowka i częstych zwrotów, aby dodać ogólne zwroty, skopiować wiele elementów i wklejać je na różnych urządzeniach.</string>
+    <string name="clipboard_sync_phrase_cta_label">Schowek i częste zwroty</string>
+    <string name="clipboard_sync_phrase_cta_perm_desc">W celu uzyskania dostępu do zdjęć, multimediów i plików na Twoim urządzeniu</string>
+    <string name="close_clipboard">Ukryj schowek</string>
+    <string name="delete_this_item">Usuń ten element</string>
+    <string name="edit_this_item">Edytuj ten element</string>
+    <string name="input_method_clipboard_across_tip_pad">Z mojego tabletu</string>
+    <string name="input_method_clipboard_across_tip_pc">Z mojego komputera</string>
+    <string name="input_method_clipboard_across_tip_phone">Z mojego telefonu</string>
     <string name="input_method_clipboard_add_to_phrase_success">Dodano do częstych zwrotów</string>
     <string name="input_method_clipboard_check_more_add_to_phrase">Dodaj częsty zwrot</string>
     <string name="input_method_clipboard_check_more_copy">Kopiuj</string>
@@ -31,6 +51,7 @@
     <string name="input_method_function_voice">Wprowadzanie głosowe</string>
     <string name="input_method_function_xiaoai">Wprowadzanie głosowe za pomocą Mi SI</string>
     <string name="input_method_no_content_text">Brak elementów</string>
+    <string name="input_method_phrase_no_content_text">Dodaj często używane zwroty, aby szybko je wklejać podczas edycji</string>
     <string name="input_method_switch_settings_text">Ustawienia klawiatury</string>
     <string name="input_method_tab_clipboard_text">Schowek</string>
     <string name="input_method_tab_phrase_text">Częste zwroty</string>

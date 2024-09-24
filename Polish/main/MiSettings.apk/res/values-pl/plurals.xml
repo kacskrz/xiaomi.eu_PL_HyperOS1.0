@@ -1,5 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="last_30_day_remind_eyes_statistics">
+        <item quantity="other">W ciągu ost. %1$d dni wysłano %2$s przypomnienia</item>
+        <item quantity="one">W ciągu ost. %1$d dni wysłano %2$s przypomnienie</item>
+        <item quantity="few">W ciągu ost. %1$d dni wysłano %2$s przypomnienia</item>
+        <item quantity="many">W ciągu ost. %1$d dni wysłano %2$s przypomnień</item>
+    </plurals>
+    <plurals name="last_30_day_unlock_usage_statistics">
+        <item quantity="other">W ciągu ost. %1$d dni odblokowano %2$s raza</item>
+        <item quantity="one">W ciągu ost. %1$d dni odblokowano %2$s raz</item>
+        <item quantity="few">W ciągu ost. %1$d dni odblokowano %2$s razy</item>
+        <item quantity="many">W ciągu ost. %1$d dni odblokowano %2$s raza</item>
+    </plurals>
+    <plurals name="last_7_day_remind_eyes_statistics">
+        <item quantity="other">W ciągu ost. %1$d dni wysłano %2$s przypomnienia</item>
+        <item quantity="one">W ciągu ost. %1$d dni wysłano %2$s przypomnienie</item>
+        <item quantity="few">W ciągu ost. %1$d dni wysłano %2$s przypomnienia</item>
+        <item quantity="many">W ciągu ost. %1$d dni wysłano %2$s przypomnień</item>
+    </plurals>
+    <plurals name="last_7_day_unlock_usage_statistics">
+        <item quantity="other">W ciągu ost. %1$d dni odblokowano %2$s raza</item>
+        <item quantity="one">W ciągu ost. %1$d dni odblokowano %2$s raz</item>
+        <item quantity="few">W ciągu ost. %1$d dni odblokowano %2$s razy</item>
+        <item quantity="many">W ciągu ost. %1$d dni odblokowano %2$s raza</item>
+    </plurals>
+    <plurals name="msc_mixed_recording_incorrect_too_short">
+        <item quantity="other">Wprowadź co najmniej %d znaku</item>
+        <item quantity="one">Wprowadź co najmniej %d znak</item>
+        <item quantity="few">Wprowadź co najmniej %d znaki</item>
+        <item quantity="many">Wprowadź co najmniej %d znaków</item>
+    </plurals>
+    <plurals name="msc_numeric_recording_incorrect_too_short">
+        <item quantity="other">Wprowadź co najmniej %d cyfry</item>
+        <item quantity="one">Wprowadź co najmniej %d cyfrę</item>
+        <item quantity="few">Wprowadź co najmniej %d cyfry</item>
+        <item quantity="many">Wprowadź co najmniej %d cyfr</item>
+    </plurals>
+    <plurals name="msc_recording_password_incorrect_too_short">
+        <item quantity="other">Połącz co najmniej %d kropki</item>
+        <item quantity="one">Połącz co najmniej %d kropkę</item>
+        <item quantity="few">Połącz co najmniej %d kropki</item>
+        <item quantity="many">Połącz co najmniej %d kropek</item>
+    </plurals>
+    <plurals name="msc_recording_password_intro_header">
+        <item quantity="other">Połącz co najmniej %s kropki</item>
+        <item quantity="one">Połącz co najmniej %s kropkę</item>
+        <item quantity="few">Połącz co najmniej %s kropki</item>
+        <item quantity="many">Połącz co najmniej %s kropek</item>
+    </plurals>
+    <plurals name="msc_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Spróbuj ponownie za %d sekund</item>
+        <item quantity="few">Spróbuj ponownie za %d sekundy</item>
+        <item quantity="one">Spróbuj ponownie za %d sekundę</item>
+    </plurals>
+    <plurals name="msc_unlock_pattern_summary">
+        <item quantity="other">Połącz co najmniej %s kropki</item>
+        <item quantity="one">Połącz co najmniej %s kropkę</item>
+        <item quantity="few">Połącz co najmniej %s kropki</item>
+        <item quantity="many">Połącz co najmniej %s kropek</item>
+    </plurals>
+    <plurals name="msc_unlock_pin_summary">
+        <item quantity="other">Wprowadź %s cyfry</item>
+        <item quantity="one">Wprowadź %s cyfrę</item>
+        <item quantity="few">Wprowadź %s cyfry</item>
+        <item quantity="many">Wprowadź %s cyfr</item>
+    </plurals>
     <plurals name="pcl_add_account_ignore_with_seconds">
         <item quantity="other">Nie teraz (%d s)</item>
         <item quantity="one">Nie teraz (%d s)</item>

@@ -93,6 +93,7 @@
     <string name="app_manager_as_dlg_msg">Aplikacje dodane do autostartu mogą używać więcej pamięci RAM i zasobów baterii. Zezwolić na autostart?</string>
     <string name="app_manager_as_dlg_msg_new">"Zezwolenie aplikacji na autostart może spowodować zwiększenie ilości pamięci i zużycia baterii wykorzystywanych przez nią. Urządzenie będzie optymalizować uprawnienia autostartu dla aplikacji, których używasz rzadziej, aby poprawić wydajność."</string>
     <string name="app_manager_clear_data_dlg_message">Wszystkie dane tej aplikacji zostaną usunięte.</string>
+    <string name="app_manager_deleted_system_app_title">Odinstalowane aplikacje systemowe</string>
     <string name="app_manager_manage_space">Pamięć</string>
     <string name="app_manager_net_control_title">Łączność z siecią przez</string>
     <string name="app_manager_permission_summary_reject">Ogranicz wszystko</string>
@@ -317,11 +318,17 @@
     <string name="connect_internet_by_mobiledata">Internet przez sieć mobilną</string>
     <string name="connect_internet_by_usbshare">Internet przez USB</string>
     <string name="connect_internet_by_wifi">Internet przez Wi-Fi</string>
+    <string name="connected_devices_files">Pliki</string>
+    <string name="connected_devices_files_desc">Zezwól urządzeniom w pobliżu zalogowanym na Twoje konto Xiaomi na dostęp do plików tego urządzenia</string>
+    <string name="connected_devices_for_files">Zezwolić \"%1$s\" na dostęp do plików tego urządzenia?</string>
+    <string name="connected_devices_for_files_desc">W celu dostępu do plików między urządzeniami</string>
     <string name="connected_devices_permission">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connected_devices_permission_settings">Interakcja urządzeń Xiaomi i uprawnienia</string>
     <string name="connected_interconnection">Interakcja urządzeń Xiaomi</string>
     <string name="convenient_summary">Nie wymagaj hasła po tym, jak odblokowano min. 1 aplikację</string>
     <string name="cs_func_toast_bluetooth_headset">Odłącz słuchawki Bluetooth, aby użyć tej funkcji</string>
+    <string name="cs_gesture_effect_title_hint">Wspierane gesty</string>
+    <string name="cs_gesture_effect_title_summry">Dodaj efekty reakcji podczas połączeń wideo oraz streamowania na żywo za pomocą gestów ręki</string>
     <string name="cs_pickup_vioce_print_unsupport_tips">Nagraj próbkę głosu przed wybraniem opcji \"Jeden uczestnik\"</string>
     <string name="cta_HIPS_Perm_Location_Desc">W celu wykorzystywania Twojej lokalizacji w ramach opcji Alarmowy SOS czy Oszczędzanie baterii w aplikacjach, a także włączania przybliżonej lokalizacji</string>
     <string name="cta_agree_desc">Aby móc korzystać z naszych usług, pozwól tej aplikacji na łączenie się z Internetem i udziel uprawnień wymienionych powyżej.</string>
@@ -469,6 +476,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
     <string name="first_aid_card_system_root_title">Udzieliłeś uprawnień roota</string>
     <string name="first_aid_card_wifi_or_flow_summary">Włącz Wi-Fi bądź dane mobilne, aby się połączyć</string>
     <string name="first_aid_card_wifi_or_flow_title">Nie można połączyć się z Internetem</string>
+    <string name="first_aid_dialog_ignore_message">%s. Możesz zignorować ten element, aby wykluczyć go ze przyszłych skanowań. Zignorować?</string>
+    <string name="first_aid_dialog_ignore_title">Zignoruj elementy</string>
     <string name="first_aid_result_summary_not_finished">"Skanowanie nie zostało ukończone. Część problemów mogła zostać niewykryta."</string>
     <string name="fixed_cellular_data_quota_monthly">Miesięczny limit danych</string>
     <string name="fixed_package_tips">Po przekroczeniu limitu zostaną wygenerowane dodatkowe opłaty</string>
@@ -626,6 +635,8 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="mic">Mikrofon</string>
     <string name="mic_noise_reduction_mode_standard">Standardowy</string>
     <string name="mic_noise_reduction_mode_ultimate">Wybrany</string>
+    <string name="mode_size_center">Wycentrowane</string>
+    <string name="mode_size_full">Pełny ekran</string>
     <string name="monday_shortest">P</string>
     <string name="month_april">kwietnia</string>
     <string name="month_april_short">kwi</string>
@@ -731,11 +742,16 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="pc_continuity_has_open_save_mode_notifi_title">Włączono Oszczędzanie baterii na %s</string>
     <string name="pc_continuity_open_save_mode_notifi_sumary">Poziom baterii %1$s wynosi mniej niż %2$s. Włącz Oszczędzanie baterii, aby wydłużyć działanie o %3$s %4$s.</string>
     <string name="pc_current_power_mode">Obecny tryb</string>
+    <string name="pc_cycle_count_protect_title">Cykle</string>
     <string name="pc_extreme_category">Bardzo niski stan baterii</string>
     <string name="pc_extreme_mode_runtime">Tryb hibernacji jest włączony od %1$s %2$s.</string>
     <string name="pc_fast_charge_notifi_switch_summary">Powiadamiaj o zwiększeniu prędkości ładowania, gdy podłączona jest dołączona ładowarka o mocy %dW, a poziom baterii znajduje się poniżej ustawionego poziomu</string>
     <string name="pc_fast_charge_notifi_title">Ładowanie %dW</string>
     <string name="pc_fast_charge_switch_toast_message">Zmiany zostaną zastosowane przy następnym ładowaniu</string>
+    <string name="pc_first_use_protect_title">Pierwsze użycie</string>
+    <string name="pc_health_charge_protect_notification_summary">Włącz Ochronę baterii, aby zredukować starzenie się baterii</string>
+    <string name="pc_health_charge_protect_summary">Aby przedłużyć życie baterii, ładowanie zostanie zatrzymane przy %1$s baterii</string>
+    <string name="pc_health_charge_protect_title">Ochrona baterii</string>
     <string name="pc_hidemode_normal">Zbalansowany</string>
     <string name="pc_hidemode_normal_title">Tryb zbalansowany</string>
     <string name="pc_hidemode_power_save">Bateria</string>
@@ -763,6 +779,7 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_night_charge_protect_title">Ochrona przed ładowaniem w nocy</string>
     <string name="pc_power_mode_has_berserk">Włączono Tryb wydajności</string>
     <string name="pc_power_mode_has_performance">Włączono Tryb wydajności</string>
+    <string name="pc_production_date_protect_title">Data produkcji</string>
     <string name="pc_reminder_always_protect_summary">Włącz ograniczone ładowanie, aby zredukować starzenie się baterii</string>
     <string name="pc_satellite_auto_enter_super_power">Włączono Ultraoszczędzanie baterii, aby zapewnić działanie komunikacji satelitarnej</string>
     <string name="pc_save_power">Oszczędzanie baterii</string>
@@ -776,6 +793,8 @@ Ultraoszczędzania baterii"</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$d godz. %2$d min</string>
     <string name="pc_suggest_open_fast_charge">Włącz szybkie ładowanie %d W</string>
     <string name="pc_this_time_charge_full_work">Prawie naładowane</string>
+    <string name="pc_wireless_charge_notification_summary">Ładowanie bezprzewodowe jest mniej wydajne energetycznie niż przewodowe</string>
+    <string name="pc_wireless_charge_notification_title">Ładowanie bezprzewodowe</string>
     <string name="pc_work_in_save_mode">Oszczędzanie baterii</string>
     <string name="pc_work_in_super_save_mode">Ultraoszczędzanie baterii</string>
     <string name="performance_frame_enhance_super_display_tips">"Poprawiony klatkaż i superrozdzielczość nie mogą działać w tym samym czasie. Włączenie jednej z tych funkcji wyłączy drugą."</string>
@@ -834,6 +853,8 @@ Ultraoszczędzania baterii"</string>
     <string name="permission_instruction_write_clipboard">To uprawnienie zezwala aplikacjom na zapisywanie elementów w schowku.</string>
     <string name="permission_instruction_write_settings">To uprawnienie zezwala aplikacjom na modyfikowanie ustawień systemu. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu zmiany ustawień Twojego urządzenia i wpływania na jego poprawną pracę.</string>
     <string name="permission_oaid_desc">Zezwolić %1$s na śledzenie Twoich aktywności w innych aplikacjach i stronach WWW?</string>
+    <string name="permission_risk_app_for_desc">Ta aplikacja może stanowić zagrożenie. Przyznać uprawnienia mimo to?</string>
+    <string name="permission_risk_app_for_title">Wykryto zagrożenie</string>
     <string name="permission_usage_allow_activity_recognization_once">%1$s | Aplikacja uzyskiwała dane o Twoich ćwiczeniach</string>
     <string name="permission_usage_allow_autostart_once">%1$s | Aplikacja używała autostartu</string>
     <string name="permission_usage_allow_body_sensor_once">%1$s | Aplikacja uzyskiwała dostęp do czujników ciała</string>
@@ -906,6 +927,8 @@ Ultraoszczędzania baterii"</string>
     <string name="permission_usage_projection_screen_use_app">Aplikacja %1s uzyskiwała dostęp lub nagrywała zawartość ekranu</string>
     <string name="permission_usage_terminal_camera_once">"%1$s | Aplikacja używała aparatu"</string>
     <string name="permission_usage_terminal_camera_use">"Aplikacja używa aparatu tego urządzenia"</string>
+    <string name="permission_usage_terminal_file_once">%1$s | Uzyskano dostęp do plików na urządzeniu</string>
+    <string name="permission_usage_terminal_file_use">Uzyskano dostęp do plików na urządzeniu</string>
     <string name="permission_usage_terminal_screen_once">"%1$s | Aplikacja używała ekranu"</string>
     <string name="permission_usage_terminal_screen_use">"Aplikacja używa tego ekranu"</string>
     <string name="permission_usage_virtual_calendar_once">%1$s | Aplikacja zwracała puste wydarzenie z kalendarza</string>
@@ -1525,6 +1548,7 @@ Wycofać zgodę?"</string>
     <string name="title_result_twinkle">Redukcja migotania</string>
     <string name="title_result_typeface">Rozmiar tekstu i grubość czcionki</string>
     <string name="title_result_zen_mode">Nie przeszkadzać</string>
+    <string name="toast_cinema_mode">Automatycznie dostosowano ustawienia wyświetlania i dźwięku dla lepszych wrażeń</string>
     <string name="toast_root_apply_accept">Uprawnienia roota udzielono dla %s</string>
     <string name="toast_root_apply_reject">Wyłączono uprawnienia roota dla %s</string>
     <string name="traffic_advanced_settings">Zaawansowane ustawienia dot. danych</string>

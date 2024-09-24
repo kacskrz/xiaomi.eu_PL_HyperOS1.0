@@ -410,6 +410,10 @@
         <item quantity="other">"%1$s | Aplikacja używała aparatu %2$d razy"</item>
         <item quantity="one">"%1$s | Aplikacja używała aparatu %2$d raz"</item>
     </plurals>
+    <plurals name="permission_usage_terminal_file">
+        <item quantity="other">%1$s | Uzyskano dostęp do plików na urządzeniu %2$d razy</item>
+        <item quantity="one">%1$s | Uzyskano dostęp do plików na urządzeniu %2$d raz</item>
+    </plurals>
     <plurals name="permission_usage_terminal_screen">
         <item quantity="other">"%1$s | Aplikacja używała ekranu %2$d razy"</item>
         <item quantity="one">"%1$s | Aplikacja używała ekranu %2$d raz"</item>

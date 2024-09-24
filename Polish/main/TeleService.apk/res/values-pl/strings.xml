@@ -106,6 +106,7 @@
     <string name="path_turnover_mute_title">Aplikacje/Inne ustawienia/Systemowe/Telefon/Połączenia przychodzące/Obróć, aby wyciszyć dzwonek</string>
     <string name="path_voicemail_settings">Aplikacje/Inne ustawienia/Systemowe/Telefon/Ustawienia zaawansowane/Ustawienia poczty głosowej</string>
     <string name="path_voip_setting">Aplikacje/Inne ustawienia/Systemowe/Telefon/VoIP settings</string>
+    <string name="phone_account_no_config_mobile_networks">Właściciel urządzenia ograniczył możliwość zmieniania ustawień sieci komórkowej.</string>
     <string name="preference_check_privacy">Wyświetl Politykę prywatności</string>
     <string name="satellite_area_requirement_message">Ta funkcja jest dostępna tylko dla urządzeń kupionych w Chinach kontynentalnych (z wyjątkiem Hongkongu, Makau i Tajwanu) i może być używana tylko w Chinach kontynentalnych (z wyjątkiem Hongkongu, Makau i Tajwanu).</string>
     <string name="satellite_area_requirement_title">Gdzie można korzystać z tej funkcji?</string>
@@ -173,6 +174,9 @@ Anulować usługi?"</string>
     <string name="satellite_use_title">Dlaczego korzystać z połączenia satelitarnego?</string>
     <string name="satellite_user_reminder">Komunikacja z satelitą Tiantong wymaga dostępu do Twojej lokalizacji. Dane mobilne, aparat i Odblokowywanie twarzą będą tymczasowo niedostępne. Funkcja działa tylko z kartami SIM China Telecom kompatybilnymi z opcją satelity.</string>
     <string name="sensor_answer_title">Podnieś, aby odebrać</string>
+    <string name="speed_limit_sim_notification">Limit prędkości danych</string>
+    <string name="speed_limit_sim_summary">Przekroczono limit danych Twojego planu. Prędkość danych się zmniejszy. Skontaktuj się z operatorem, aby uzyskać więcej szczegółów.</string>
+    <string name="speed_limit_sim_title">Prędkość danych ograniczona</string>
     <string name="turnover_mute_summary">Gdy telefon znajduje się na płaskiej powierzchni ekranem do góry, obróć go, aby wyciszyć dźwięk dzwonka, wyłączyć wibracje i diodę powiadomień</string>
     <string name="unfold_close_camera_pref_summary">Rozłóż urządzenie w trakcie połączenia wideo, aby wyłączyć aparat</string>
     <string name="unfold_close_camera_pref_title">Rozłóż, aby wyłączyć aparat</string>
