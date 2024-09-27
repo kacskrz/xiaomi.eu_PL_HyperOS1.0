@@ -19,6 +19,8 @@
     <string name="enable_2g_dialog_warn_message">"Jeśli wyłączysz sieć 2G i znajdziesz się tam, gdzie 2G jest jedyną dostępną siecią, nie będzie można wykonać żadnego połączenia (nawet alarmowego). Wyłączyć mimo to?"</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE wymaga łączności LTE dla dwóch slotów SIM. Przełączyć na podwójne LTE?</string>
     <string name="enable_proximity_title">Wygaś przy twarzy</string>
+    <string name="enter_esim_service_support_summary">Wyświetl listę wspieranych operatorów</string>
+    <string name="enter_esim_service_support_title">Wspierani operatorzy</string>
     <string name="esim_inactive_notification_title_global">Karty SIM i sieć mobilna</string>
     <string name="filp_auto_answer_call_title">Rozłóż, aby odebrać połączenie</string>
     <string name="filp_auto_hangup_call_summary">Działa tylko z podłączonymi słuchawkami Bluetooth bądź przewodowymi</string>
@@ -108,7 +110,7 @@
     <string name="path_voip_setting">Aplikacje/Inne ustawienia/Systemowe/Telefon/VoIP settings</string>
     <string name="phone_account_no_config_mobile_networks">Właściciel urządzenia ograniczył możliwość zmieniania ustawień sieci komórkowej.</string>
     <string name="preference_check_privacy">Wyświetl Politykę prywatności</string>
-    <string name="satellite_area_requirement_message">Ta funkcja jest dostępna tylko dla urządzeń kupionych w Chinach kontynentalnych (z wyjątkiem Hongkongu, Makau i Tajwanu) i może być używana tylko w Chinach kontynentalnych (z wyjątkiem Hongkongu, Makau i Tajwanu).</string>
+    <string name="satellite_area_requirement_message">Ta funkcja jest dostępna tylko dla urządzeń kupionych w Chinach kontynentalnych i Hongkongu i może być używana tylko w tych regionach.</string>
     <string name="satellite_area_requirement_title">Gdzie można korzystać z tej funkcji?</string>
     <string name="satellite_call_indoor_positioning_message">"Gdy w urządzeniu nie znajduje się karta SIM obsługująca połączenia satelitarne i znajdujesz się wewnątrz budynku, jako domyślna lokalizacja używany jest Park Nauki i Technologii Xiaomi. Pozwala to na zademonstrowanie lokalizowania satelit."</string>
     <string name="satellite_call_indoor_positioning_title">"Dlaczego, gdy jestem wewnątrz budynku, lokalizacja mojego urządzenia to Park Nauki i Technologii Xiaomi?"</string>
@@ -116,11 +118,11 @@
     <string name="satellite_call_sound_quality_title">Dlaczego połączenia satelitarne mają słabą jakość i są powolne?</string>
     <string name="satellite_camera_enable_toast">Zamknij aparat przed włączeniem komunikacji z satelitą Tiantong</string>
     <string name="satellite_ct_business_summary">Usługi dostarczane przez China Telecom</string>
-    <string name="satellite_display_insert_support_card_message">Aby korzystać z połączenia z satelitą Tiantong, włóż kartę SIM China Telecom wspierającą połączenia satelitarne.</string>
+    <string name="satellite_display_insert_support_card_message">Aby korzystać z połączenia z satelitą Tiantong, włóż kartę SIM China Telecom, China Telecom Hong Kong lub China Unicom wspierającą połączenia satelitarne.</string>
     <string name="satellite_display_insert_support_card_title">Włóż kartę SIM obsługującą satelitę</string>
-    <string name="satellite_display_message">"Wygląda na to, że Twoja karta SIM nie wspiera połączenia z satelitą Tiantong. Aby korzystać z tej funkcji, włóż kartę SIM China Telecom wspierającą połączenia satelitarne. Przejść dalej mimo to?"</string>
+    <string name="satellite_display_message">"Wygląda na to, że Twoja karta SIM nie wspiera połączenia z satelitą Tiantong. Aby korzystać z tej funkcji, włóż kartę SIM China Telecom, China Telecom Hong Kong lub China Unicom wspierającą połączenia satelitarne. Przejść dalej mimo to?"</string>
     <string name="satellite_display_search_star">Kontynuuj</string>
-    <string name="satellite_enable_message">Aby włączyć komunikację z satelitą, przesuń w dół, aby włączyć Centrum funkcji, dotknij przełącznika Trybu satelity i postępuj zgodnie z instrukcjami. Funkcję wspierają tylko karty SIM China Telecom ze wsparciem dla subskrypcji Tiantong Satellite.</string>
+    <string name="satellite_enable_message">Aby włączyć komunikację z satelitą, przesuń w dół, aby włączyć Centrum funkcji, dotknij przełącznika Trybu satelity i postępuj zgodnie z instrukcjami. Funkcję wspierają tylko karty SIM China Telecom, China Telecom Hong Kong lub China Unicom ze wsparciem dla subskrypcji Tiantong Satellite.</string>
     <string name="satellite_enable_title">Jak włączyć komunikację z satelitą?</string>
     <string name="satellite_environment_requirement_message">"Komunikacja satelitarna to dobre rozwiązanie w obszarach bez zasięgu naziemnego i zalecamy używanie jej tylko w takich przypadkach (tj. kiedy nie ma dostępnej żadnej sieci komórkowej). Aby uniknąć zakłóceń sygnału, przed użyciem trzeba zdjąć etui zawierające metal. Podczas korzystania między Twoim ciałem lub innymi przeszkodami a górną częścią urządzenia należy zachować odległość co najmniej %1$d mm. Funkcja wyłączy się, gdy będziesz mieć mniej niż %2$s baterii. Nie będziesz jej w stanie użyć do wykonywania połączeń, jeśli temperatura urządzenia będzie zbyt wysoka."</string>
     <string name="satellite_environment_requirement_title">Jakie warunki trzeba spełnić, aby korzystać z tej funkcji?</string>
@@ -140,7 +142,7 @@
     <string name="satellite_low_battery_reminder">Słaba bateria</string>
     <string name="satellite_low_battery_super_save_power_message">Niski poziom baterii. Aby korzystać z połączenia z satelitą, należy włączyć Ultraoszczędzanie baterii. Zrobić to?</string>
     <string name="satellite_low_battery_title">Niski poziom baterii</string>
-    <string name="satellite_mobile_settings_summary">Wspierane tylko przez karty SIM China Telecom obsługujące satelitę oraz karty innych operatorów obsługujących tę opcję</string>
+    <string name="satellite_mobile_settings_summary">Wspierane tylko przez karty SIM China Telecom, China Telecom Hong Kong lub China Unicom obsługujące satelitę oraz karty innych operatorów obsługujących tę opcję</string>
     <string name="satellite_mobile_settings_title">Włącz połączenia satelitarne</string>
     <string name="satellite_not_show_again">"Nie pokazuj ponownie"</string>
     <string name="satellite_notification_text">Wciąż możesz wykonywać połączenia i wysyłać SMS-y bez sygnału sieci komórkowej za pomocą satelity Tiantong. Włącz tę usługę.</string>
@@ -172,7 +174,7 @@ Anulować usługi?"</string>
     <string name="satellite_use_phone_message">"Po włączeniu Trybu satelity możesz wykonywać i odbierać przez niego połączenia. Postępuj zgodnie z instrukcjami na ekranie, aby zapewnić odpowiednią jakość połączenia i utrzymywać komunikację z satelitą podczas połączenia. Domyślnie będzie włączony tryb głośnomówiący. Nie ruszaj się i nie zmieniaj położenia urządzenia w trakcie połączenia, aby uniknąć zakłóceń."</string>
     <string name="satellite_use_phone_title">Jak wykonywać połączenia przez satelitę?</string>
     <string name="satellite_use_title">Dlaczego korzystać z połączenia satelitarnego?</string>
-    <string name="satellite_user_reminder">Komunikacja z satelitą Tiantong wymaga dostępu do Twojej lokalizacji. Dane mobilne, aparat i Odblokowywanie twarzą będą tymczasowo niedostępne. Funkcja działa tylko z kartami SIM China Telecom kompatybilnymi z opcją satelity.</string>
+    <string name="satellite_user_reminder">Komunikacja z satelitą Tiantong wymaga dostępu do Twojej lokalizacji. Dane mobilne, aparat i Odblokowywanie twarzą będą tymczasowo niedostępne. Funkcja działa tylko z kartami SIM China Telecom, China Telecom Hong Kong lub China Unicom kompatybilnymi z opcją satelity.</string>
     <string name="sensor_answer_title">Podnieś, aby odebrać</string>
     <string name="speed_limit_sim_notification">Limit prędkości danych</string>
     <string name="speed_limit_sim_summary">Przekroczono limit danych Twojego planu. Prędkość danych się zmniejszy. Skontaktuj się z operatorem, aby uzyskać więcej szczegółów.</string>

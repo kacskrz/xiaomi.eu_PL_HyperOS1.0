@@ -129,6 +129,10 @@
     <string name="resolver_offical_recommend">Oficjalna</string>
     <string name="screen_on_proximity_sensor_hint">Aby wyłączyć tę funkcję, naciśnij jednocześnie przyciski Wstecz oraz Głośność+.</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Aby wyłączyć tę funkcję, naciśnij przycisk Głośność+.</string>
+    <string name="screen_on_proximity_sensor_summary_text">"Jak usunąć tę informację?
+%1$s. Usuń przeszkody z obszaru zaznaczonego na czerwono.
+%2$s. Jeśli to nie pomoże, naciśnij przycisk Głośność+, aby wyłączyć Tryb kieszonkowy."</string>
+    <string name="screen_on_proximity_sensor_title">Aktywny Tryb kieszonkowy</string>
     <string name="screen_shot">Wykonaj zrzut ekranu</string>
     <string name="set_password_message">Ustaw hasło, aby korzystać z tej funkcji</string>
     <string name="show_menu">Pokaż menu</string>

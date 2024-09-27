@@ -707,6 +707,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="structure_face_hardware_abnormal_msg">"Wystąpił błąd sprzętu. Zrestartuj urządzenie. Jeśli to nie pomoże, skontaktuj się z serwisem."</string>
     <string name="structure_face_unlock_not_same_person">"Musisz dokończyć kroki osobiście. Nie zamieniaj się z inną osobą."</string>
     <string name="summary_quick_control_all_devices">Pokaż kontrolki dla telewizorów, głośników i samochodów w pobliżu w Centrum funkcji</string>
+    <string name="super_volume_tip">Maksymalna głośność %s</string>
     <string name="switch_power_sound">Odtwarzaj dźwięk po podłączeniu ładowarki</string>
     <string name="sync_wifi_only">Synchronizuj tylko przez Wi-Fi</string>
     <string name="system_app_settings">Systemowe</string>
