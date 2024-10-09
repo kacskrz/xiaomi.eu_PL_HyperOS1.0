@@ -47,6 +47,7 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
     <string name="collect_content">Zgromadzona zgoda</string>
     <string name="collect_situation">Stan gromadzenia treści</string>
     <string name="collected">Zgromadzono</string>
+    <string name="compatibility32Bit_mode_toast">Nie można przesłać elementów. Zmień swój wybór i spróbuj ponownie.</string>
     <string name="connection_tips_other_message">"1. Upewnij się, że na starym urządzeniu jest zainstalowana najnowsza wersja Przenoszenia danych. Możesz pobrać ją za pomocą tego linka: %1$s.
 2. Jeśli hotspot z nowego urządzenia nie pojawia się w Przenoszeniu danych, otwórz ustawienia Wi-Fi i sprawdź, czy go tam widzisz. Jeśli tak, nie dotykaj go.
 3. Wróć do okna Przenoszenia danych i wybierz hotspot z nowego urządzenia."</string>
@@ -176,6 +177,7 @@ Otwórz WeChat i przejdź do Me > Settings > General > Back up &amp; migrate cha
     <string name="not_support_data_summary3">"Ze względu na ograniczenia systemu elementy z Drugiej przestrzeni nie mogą być przenoszone za pomocą Przenoszenia danych."</string>
     <string name="not_support_data_title">"Elementy, które nie mogą zostać przeniesione"</string>
     <string name="oaid_usage">W celu zapewnienia bezpieczeństwa przesyłanych elementów</string>
+    <string name="open_compatibility_mode">Włącz</string>
     <string name="option_personal_info_list">Gromadzenie danych osobistych</string>
     <string name="option_privacy_policy">Polityka prywatności</string>
     <string name="option_privacy_settings">Prywatność</string>
@@ -252,9 +254,11 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
     <string name="set_new_device_title">Konfigurowanie nowego urządzenia…</string>
     <string name="set_new_device_wlan">Skonfiguruj Wi-Fi</string>
     <string name="settings_sms">Ustawienia SMS</string>
+    <string name="skip_compatibility_mode">Nie teraz</string>
     <string name="skip_transfer">Pomiń</string>
     <string name="soft_ap_create_failed_apple">"Nie udało się wygenerować kodu QR"</string>
     <string name="ssid_name">SSID/nazwa sieci Wi-Fi</string>
+    <string name="subtitle_compatibility_mode">Te aplikacje nie są kompatybilne z architekturą %d-bitową. Włącz tryb Kompatybilności aplikacji, aby je przenieść.</string>
     <string name="summary_request_write_settings_prem">Przenoszenie danych wymaga tego uprawnienia, aby włączyć sieć Wi-Fi i utworzyć hotspot do przesyłania plików.</string>
     <string name="sync_data_to_mi_cloud_content1">%d. Dotknij przycisku \"Synchronizuj teraz\" w karcie \"Kontakty\".</string>
     <string name="sync_data_to_mi_cloud_content2">%d. Dotknij przycisku \"Skopiuj teraz\" w karcie \"Zdjęcia\".</string>
@@ -282,6 +286,7 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
     <string name="tips_secret_note">notatek</string>
     <string name="tips_secret_title">%d. Nie można przenieść pewnych prywatnych elementów.</string>
     <string name="tips_subtitle">Zanim przejdziesz dalej, przeczytaj i zaakceptuj poniższe ostrzeżenia.</string>
+    <string name="title_compatibility_mode">Włącz tryb Kompatybilności aplikacji</string>
     <string name="title_request_write_settings_perm">Zezwól na zmienianie ustawień systemu</string>
     <string name="trans_apple">"Połącz się z iPhone'em"</string>
     <string name="trans_apple_button_cancel">Anuluj przesyłanie</string>
@@ -290,6 +295,7 @@ Dane, które nie zostały zaimportowane, muszą zostać przesłane jeszcze raz."
     <string name="trans_apple_button_cancel_positive">Tak</string>
     <string name="trans_apple_button_reconnect">Połącz ponownie</string>
     <string name="trans_apple_hint">"Nie opuszczaj tej strony ani nie używaj Wi-Fi, dopóki przenoszenie nie zostanie zakończone."</string>
+    <string name="trans_apple_hint_china">Nie opuszczaj tej strony i nie korzystaj z Wi-Fi, dopóki transfer się nie zakończy.</string>
     <string name="trans_apple_hint_1_content">"Pobierz Przenoszenie danych ze sklepu App Store lub zeskanuj ten kod QR za pomocą aplikacji Aparat w Twoim iPhonie."</string>
     <string name="trans_apple_hint_1_title">%d. Zainstaluj Przenoszenie danych</string>
     <string name="trans_apple_hint_2_content">Otwórz Przenoszenie danych na Twoim iPhonie, wybierz opcję \"Dotknij, aby przesłać elementy\" i zeskanuj kod QR.</string>
