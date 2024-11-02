@@ -84,6 +84,7 @@
     <string name="reboot_info_auto_boot">Następny alarm: %s</string>
     <string name="reboot_info_shutdown_alarm">Następny alarm: %s</string>
     <string name="reset">Resetuj</string>
+    <string name="silent">Silent</string>
     <string name="slider_view_content_left_description">Przesuń w górę, aby uruchomić telefon w trybie Fastboot lub w dół, aby uruchomić go w trybie Recovery</string>
     <string name="slider_view_content_right_description">Przesuń w górę, aby ustawić Tryb samolotowy lub w dół, aby ustawić Tryb cichy</string>
     <string name="smart_home_title">Urządzenia smart home</string>
