@@ -107,6 +107,8 @@ Zwiększone bezpieczeństwo."</string>
     <string name="month_september_shortest">W</string>
     <string name="navigation_guide_app_quick_switch_summary">Przeciągnij pasek w lewo lub prawo lub pociągnij w górę od dołu ekranu</string>
     <string name="navigation_guide_app_summary">Przesuń palcem w lewo lub w prawo od krawędzi w górnej części ekranu</string>
+    <string name="navigation_guide_circle_search_summary">Przytrzymaj pasek na dole ekranu, aby użyć funkcji Circle to Search</string>
+    <string name="navigation_guide_circle_search_title">Circle to Search</string>
     <string name="navigation_guide_gesture_line_dialog_summary">Po ukryciu paska do przełączania się pomiędzy aplikacjami zostanie użyty nowy gest. Czy chcesz się go teraz nauczyć?</string>
     <string name="navigation_guide_hide_gesture_line_summary">"Nie pokazuj paska na dole ekranu podczas używania gestów"</string>
     <string name="navigation_guide_hide_gesture_line_title">Ukryj pasek na dole ekranu</string>
