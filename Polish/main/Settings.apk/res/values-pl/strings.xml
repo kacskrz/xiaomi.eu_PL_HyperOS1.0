@@ -286,7 +286,7 @@ Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje sys
     <string name="dialog_wifi_context">Aby skonfigurować swoje urządzenie, musisz połączyć się z Internetem. Dopóki nie połączysz się z siecią Wi-Fi, do tego celu mogą zostać wykorzystane dane mobilne. Może to spowodować naliczenie opłat przez operatora. Użyć danych mobilnych mimo to?</string>
     <string name="display_advanced_mode_title">Zaawansowane ustawienia</string>
     <string name="display_notification_icon_5">%d ikon</string>
-    <string name="display_settings_new">Ekran i jasność</string>
+    <string name="display_settings_new">Wyświetlacz i jasność</string>
     <string name="diy_suppression_title">Własny</string>
     <string name="dndm_alarm_content_sms">SMS</string>
     <string name="dndm_vip_list_custom">Wyjątki</string>
