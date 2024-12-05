@@ -110,6 +110,7 @@
     <string name="path_voip_setting">Aplikacje/Inne ustawienia/Systemowe/Telefon/VoIP settings</string>
     <string name="phone_account_no_config_mobile_networks">Właściciel urządzenia ograniczył możliwość zmieniania ustawień sieci komórkowej.</string>
     <string name="preference_check_privacy">Wyświetl Politykę prywatności</string>
+    <string name="roaming_preferred_wificall_title">Właściwości sieci (roaming)</string>
     <string name="satellite_area_requirement_message">Ta funkcja jest dostępna tylko dla urządzeń kupionych w Chinach kontynentalnych i Hongkongu i może być używana tylko w tych regionach.</string>
     <string name="satellite_area_requirement_title">Gdzie można korzystać z tej funkcji?</string>
     <string name="satellite_call_indoor_positioning_message">"Gdy w urządzeniu nie znajduje się karta SIM obsługująca połączenia satelitarne i znajdujesz się wewnątrz budynku, jako domyślna lokalizacja używany jest Park Nauki i Technologii Xiaomi. Pozwala to na zademonstrowanie lokalizowania satelit."</string>
